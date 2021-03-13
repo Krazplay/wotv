@@ -1,0 +1,36 @@
+/*
+* 
+*/
+body {
+  background-color: GhostWhite;
+}
+
+.centertext {
+  text-align: center;
+}
+
+.bordure {
+	border: 1px solid black;
+}
+
+input[type=text] {
+	width: 60%;
+}
+
+
+table.dataTable thead th, table.dataTable thead td {
+	padding: 6px 4px;
+}
+
+table.dataTable tbody th, table.dataTable tbody td {
+	padding: 6px 4px;
+}
+
+/*
+* Move global search to the left
+*/
+#myTable_filter {
+   float: left;
+   margin-left: 20px;
+   margin-top: 10px;
+}

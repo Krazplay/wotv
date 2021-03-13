@@ -1,0 +1,163 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+	
+		<link rel="stylesheet" type="text/css" href="js/DataTables/datatables.min.css"/>
+		<link rel="stylesheet" type="text/css" href="wotv_tables.css"/>
+		
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+		<script type="text/javascript" src="js/DataTables/datatables.min.js"></script>
+		<script type="text/javascript" src="kraz-wotv.js"></script>
+		
+		<title>WotV Adventure Table</title>
+		
+		<script>
+			// check url
+			const queryString = window.location.search;
+			const urlParams = new URLSearchParams(queryString);
+			// if file=jp, use jp file and not global
+			let datadir = '/data/'
+			if (urlParams.get('file') == "jp") { datadir = "/jpdata/" }
+		
+			let promiseList = [];
+			// Download json from shalzuth repository at date timestamp
+			let timestamp = (new Date()).getTime();
+			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+			// Data required for this table
+			let files_required = [	'/en/AdventureAreaName.json',
+									'/en/ItemName.json',
+									datadir+'AdventureDropDeckEntity.json',
+									datadir+'AdventureAreaDropDeck.json']
+			files_required.forEach(file => {
+				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
+					console.log("Loaded: " + file);
+				}));
+			});
+
+			// All promises are completed
+			Promise.all(promiseList).then(values => {
+				console.log("All promises finished");
+				// values have the same order the promises were pushed in the list
+				adventureAreaName = parse_AnyName(values[0]);
+				itemName = parse_AnyName(values[1]);
+				adventureDropDeckEntity = parse_AnyData(values[2],"drop_id")
+				adventureAreaDropDeck = parse_AnyData(values[3],"area_iname","campaign_string")
+				// data for the datatable
+				data_table = get_datatable_ArenaBonusUnit();
+				// The data is ready, show the datatable
+				create_datatable();
+				// Apply the filter function to the input fields in thead
+				$('#myTable thead tr:eq(1) th').each( function (i) {
+					// Need to use $(this).parent().index() and not i, columns can be reordered
+					$( 'input', this ).on( 'keyup change', function () {
+						table
+							.column( $(this).parent().index()+':visible' )
+							.search( this.value )
+							.draw();
+					} );
+				} );
+			});
+
+			$(document).ready(function() {
+			} );
+			
+			// Create the datatable, must be called after getting the data
+			function create_datatable() {
+				console.log("DataTable Go !");
+				table = $('#myTable').DataTable( {
+					"data": data_table,
+					"order": [], // no sorting at init
+					paging: false,
+					dom: 'B<"clear">lPfritp',
+					buttons: [ 'copy', 'csv', 'excel', 'colvis',
+						{
+							extend: 'columnVisibility',
+							text: 'Show all',
+							visibility: true
+						},
+						{
+							extend: 'columnVisibility',
+							text: 'Hide all',
+							visibility: false
+						}],
+					orderCellsTop: true,
+					fixedHeader: {
+						header: true,
+						footer: false
+					},
+					colReorder: true,
+					autoWidth: true,
+					columnDefs: [
+						{ targets: '_all', className: "centertext" }
+					],
+					"columns": [
+						{ "data": "area_iname" },
+						{ "data": "area_name" },
+						{ "data": "campaign_string" },
+						{ "data": "drop_id" },
+						{ "data": "is_rare" },
+						{ "data": "rate" },
+						{ "data": "fever_rate" },
+						{ "data": "fix_rate" },
+						{ "data": "reward_name" },
+						{ "data": "reward_rate" },
+						{ "data": "reward_rate_s" },
+						{ "data": "reward_rate_m" },
+						{ "data": "reward_rate_l" },
+						{ "data": "reward_rate_xl" },
+						{ "data": "reward_rate_fever" }
+					]
+				});
+			}
+		</script>
+	</head>
+	
+	<body>
+		<table id="myTable" class="display">
+			<thead>
+				<tr>
+					<th>Area iname</th>
+					<th>Area name</th>
+					<th>Campaign</th>
+					<th>Table drop id</th>
+					<th>Rare?</th>
+					<th>Table<br/>Rate</th>
+					<th>Fever<br/>Rate</th>
+					<th>Bonus<br/>Rate</th>
+					<th>Reward name</th>
+					<th>Reward<br/>drop %</th>
+					<th>S bonus<br/>drop %</th>
+					<th>M bonus<br/>drop %</th>
+					<th>L bonus<br/>drop %</th>
+					<th>XL bonus<br/>drop %</th>
+					<th>Fever<br/>drop %</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+					<th><input type="text" placeholder="Filter..." /></th>
+				</tr>
+			</thead>
+			<tbody>
+
+			</tbody>
+			<tfoot>
+			</tfoot>
+		</table>
+	</body>
+	
+</html>
