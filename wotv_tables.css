@@ -2,21 +2,29 @@
 * 
 */
 body {
-  background-color: GhostWhite;
+	background-color: GhostWhite;
 }
 
 .centertext {
-  text-align: center;
+	text-align: center;
 }
 
-.bordure {
-	border: 1px solid black;
+.up1 {
+	writing-mode: vertical-lr;
+	padding-left: 0px !important;
+}
+
+.up2 {
+	writing-mode: vertical-lr;
+	font-size: 95%;
+	letter-spacing: 0px;
+	padding-left: 0px !important;
 }
 
 input[type=text] {
 	width: 60%;
+	writing-mode: horizontal-tb;
 }
-
 
 table.dataTable thead th, table.dataTable thead td {
 	padding: 6px 4px;
@@ -30,7 +38,7 @@ table.dataTable tbody th, table.dataTable tbody td {
 * Move global search to the left
 */
 #myTable_filter {
-   float: left;
-   margin-left: 20px;
-   margin-top: 10px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
 }
