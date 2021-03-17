@@ -79,7 +79,6 @@ function get_datatable_NetherBeast() {
 		for (awk_nb = 0; awk_nb < max_awk; awk_nb++) {
 			// Pick the right esper unit depending of the awakening
 			let esper = awk_nb == 0 ? base_esper : unit.get(base_esper.nb_awake_id[awk_nb-1])
-			//console.log(esper);
 			let line = {};
 			line["iname"] = esper.iname;
 			line["name"] = unitName[esper.iname] ? unitName[esper.iname] : esper.iname;
@@ -105,7 +104,6 @@ function get_datatable_NetherBeast() {
 			result.push(line);
 		}
 	}
-	//console.log(result);
 	return result;
 }
 
@@ -134,7 +132,6 @@ function get_esper_buffs(base_esper_iname, awk_lvl) {
 	Also add sort_priority to easily sort them later if needed
 */
 function sum_of_buffs_id(buff_list) {
-	//console.log(buff_list);
 	let result = new Map;
 	buff_list.forEach((buff_id) => {
 		let curBuff = buff.get(buff_id);
@@ -197,6 +194,60 @@ function calculate_sort_buff(buff_obj) {
 	if (buff_obj["type1"] >= 61 && buff_obj["type1"] <= 65 && buff_obj["calc1"] === 3) return 19; // type res
 	if (buff_obj["type1"] == 313) return 99; // Evocation magic
 	return 50;
+}
+
+/*
+	Require artifact, artifactRandLot, Grow, artifactName + wotv-parse.js
+	Return an array of objects
+*/
+function get_datatable_Artifact() {
+	result = [];
+	
+	let typeName = ["Weapon","Armor","Accessory", "-1"];
+	let rareName = ["N","R","SR","MR","UR"];
+	// todo replace catName with file data
+	let catName = ["0","Dagger","Sword","Greatsword","Katana","Staff","Ninja Blade","Bow","Axe", "HammerNotUsed",
+					"Spear","InstrumentNotUsed","WhipNotUsed","ProjectileNotUsed","Gun","Mace","Fists","Shield","Armor","Hat",
+					"Helm","Clothing","Accessory","Gloves","CAT24","CAT25","CAT26"];
+	// Loop on all equipment
+	for (let [iname, equip] of artifact) {
+		// All equipment have a rtype
+		let lot_rtype = artifactRandLot.get(equip.rtype)["lot"][0];
+		for (let i=1; lot_rtype["grow"+i]; i++) {
+			let line = {};
+			let grow_id = lot_rtype["grow"+i];
+			line["iname"] = equip.iname;
+			line["name"] = artifactName[equip.iname] ? artifactName[equip.iname] : equip.iname;
+			line["type"] = typeName[equip.type] ? typeName[equip.type] : equip.type;
+			line["cat"] = ""
+			equip.cat.forEach((cat) => {
+				line["cat"] += catName[cat]+", "
+			});
+			line["cat"] = line["cat"].slice(0,-2);
+			line["rare"] = rareName[equip.rare];
+			line["trust"] = equip.trust ? equip.trust : "";
+			line["collaboType"] = equip.collaboType ? equip.collaboType : "";
+			line["cap"] = equip.cap ? equip.cap : "";
+			line["equip"] = equip.equip ? equip.equip : "";
+			line["rtype"] = equip.rtype;
+			line["grow"] = grow_id;
+			let curr_grow = grow.get(grow_id);
+			let curve = curr_grow["curve"][0];
+			// Getting all the possible stats, status[1] is the object with max stats
+			stats_list.forEach((stat) => {
+				if (equip.status[1]) {
+					let base_max = equip.status[1][stat] ? equip.status[1][stat] : "";
+					if (base_max < 0) line["max"+stat] = curve[stat] ? Math.ceil(base_max + base_max * curve[stat] / 100) : base_max;
+					else line["max"+stat] = curve[stat] ? Math.floor(base_max + base_max * curve[stat] / 100) : base_max;
+				}
+				else {
+					line["max"+stat] = "";
+				}
+			});
+			result.push(line);
+		}
+	}
+	return result;
 }
 
 // Because javascript
