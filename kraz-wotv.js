@@ -76,7 +76,7 @@ function get_datatable_NetherBeast() {
 		let base_esper = unit.get(iname)
 		let max_awk = 1+base_esper.nb_awake_id.length;
 		// One line per awakening + one for base
-		for (awk_nb = 0; awk_nb < max_awk; awk_nb++) {
+		for (let awk_nb = 0; awk_nb < max_awk; awk_nb++) {
 			// Pick the right esper unit depending of the awakening
 			let esper = awk_nb == 0 ? base_esper : unit.get(base_esper.nb_awake_id[awk_nb-1])
 			let line = {};
@@ -197,7 +197,7 @@ function calculate_sort_buff(buff_obj) {
 }
 
 /*
-	Require artifact, artifactRandLot, Grow, artifactName + wotv-parse.js
+	Require artifact, artifactRandLot, grow, skill, artifactName + wotv-parse.js
 	Return an array of objects
 */
 function get_datatable_Artifact() {
@@ -244,7 +244,121 @@ function get_datatable_Artifact() {
 					line["max"+stat] = "";
 				}
 			});
+			// skl6 exist but seems a mistake (Ras Algethi only)
+			["skl1","skl2","skl3","skl4","skl5"].forEach((skparam) => {
+				line[skparam] = "";
+				if (equip[skparam]) {
+					equip[skparam].forEach((skill_id) => {
+						line[skparam] += skillid_to_txt(skill_id)+", ";
+					});
+					line[skparam] = line[skparam].slice(0,-2); // remove last ", "
+				}
+			});
 			result.push(line);
+		}
+	}
+	return result;
+}
+
+
+function get_datatable_Buff() {
+	result = [];
+	
+	for (let [iname, buff_obj] of buff) {
+		let line = {};
+		line["iname"] = buff_obj.iname;
+		line["name"] = buffName[buff_obj.iname] ? buffName[buff_obj.iname] : buff_obj.iname;
+		line["parse"] = buff_to_txt(buff_obj);
+		line["raw"] = JSON.stringify(buff_obj);
+		line["rate"] = buff_obj.rate ? buff_obj.rate : "";
+		line["turn"] = buff_obj.turn ? buff_obj.turn : "";
+		line["timing"] = buff_obj.timing;
+		line["chktgt"] = buff_obj.chktgt;
+		line["chktiming"] = buff_obj.chktiming;
+		result.push(line);
+	}
+	return result;
+}
+
+function get_datatable_Skill() {
+	result = [];
+	
+	for (let [iname, skill_obj] of skill) {
+		let line = {};
+		line["iname"] = skill_obj.iname;
+		line["name"] = skillName[skill_obj.iname] ? skillName[skill_obj.iname] : skill_obj.iname;
+		line["parse"] = skillid_to_txt(iname);
+		line["raw"] = JSON.stringify(skill_obj);
+		result.push(line);
+	}
+	return result;
+}
+
+function get_datatable_Unit() {
+	result = [];
+	
+	for (let [iname, object] of unit) {
+		let line = {};
+		line["iname"] = object.iname;
+		line["name"] = unitName[object.iname] ? unitName[object.iname] : object.iname;
+		// Status => [{Lv1}, {Lv99}, {Lv120}]
+		line["lvl"] = "";
+		if (object.status) {
+			for (let i=0; object.status[i]; i++) {
+				let stats_obj = object.status[i];
+				// Clone the existing line
+				let line_2 = Object.assign({}, line);
+				line_2["lvl"] = ["1","99","120"][i];
+				// Get the stats
+				stats_list.forEach((stat) => {
+					line_2[stat] = stats_obj[stat] ? stats_obj[stat] : "";
+				});
+				result.push(line_2);
+			}
+		}
+		else {
+			// No status, set all stats to "" or datatable will complain
+			stats_list.forEach((stat) => {
+				line[stat] = "";
+			});
+			result.push(line);
+		}
+	}
+	return result;
+}
+
+function get_datatable_VisionCard() {
+	let rareName = ["N","R","SR","MR","UR"];
+	let tmaxlvl =  [30, 40, 60, 70, 99]
+	let tlvlawa =  [[10, 15, 20, 25, 30],
+					[20, 25, 30, 35, 40],
+					[20, 30, 40, 50, 60],
+					[30, 40, 50, 60, 70],
+					[40, 55, 70, 85, 99]];
+	result = [];
+	for (let [iname, object] of visionCard) {
+		let line = {};
+		line["iname"] = object.iname;
+		line["name"] = visionCardName[object.iname] ? visionCardName[object.iname] : object.iname;
+		line["rare"] = rareName[object.rare];
+		line["cost"] = object.cost;
+		for (let awk=0; awk<5; awk++) {
+			// Clone the existing line
+			let line_2 = Object.assign({}, line);
+			let lvl_todo = tlvlawa[object.rare][awk]-1
+			let lvl_max = tmaxlvl[object.rare]-1
+			line_2["awk"] = awk;
+			line_2["lvl"] = lvl_todo+1;
+			visions_stats_list.forEach((stat) => {
+				// if stat is presend in card stats
+				if (object["status"] && object["status"][0][stat] != null) {
+					let lv1_stat = object["status"][0][stat]
+					let max_stat = object["status"][1][stat]
+					line_2[stat] = Math.floor(lv1_stat + ( (max_stat-lv1_stat) * lvl_todo / lvl_max ));
+				}
+				else line_2[stat] = "";
+			});
+			result.push(line_2);
 		}
 	}
 	return result;
@@ -264,4 +378,10 @@ var stats_list = [
 				"asl","api","abl","ash","ama","apl",
 				"ewi","eth","efi","eic","esh","eea","eda","ewa",
 				"cbl","csl","cmu","cch","cdo","cst","cda","cbe","cpo","cpa","ccf","cfr","cpe","cdm","csw"
+				];
+				
+var visions_stats_list = [
+				"hp","mp","ap",
+				"atk","mag","def","mnd","hit","avd",
+				"dex","spd","luk","crt","crta"
 				];

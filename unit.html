@@ -8,11 +8,12 @@
 			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
 		<script type="text/javascript" src="js/DataTables/datatables.min.js"></script>
 		<script type="text/javascript" src="kraz-wotv.js"></script>
+		<script type="text/javascript" src="kraz-wotv-parser.js"></script>
 		
-		<title>WotV Chocobo Expedition Table</title>
+		<title>WotV Unit Table</title>
 		
 		<script>
-			// check url
+			// Check url
 			const queryString = window.location.search;
 			const urlParams = new URLSearchParams(queryString);
 			// if file=jp, use jp file and not global
@@ -24,16 +25,15 @@
 			if (hidecol != null) {
 				array_hidecol = hidecol.split(',').map(x=>+x) // convert to array of integers
 			}
-			
+		
 			let promiseList = [];
 			// Download json from shalzuth repository at date timestamp
 			let timestamp = (new Date()).getTime();
 			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
 			// Data required for this table
-			let files_required = [	'/en/AdventureAreaName.json',
-									'/en/ItemName.json',
-									datadir+'AdventureDropDeckEntity.json',
-									datadir+'AdventureAreaDropDeck.json']
+			let files_required = [	'/en/UnitName.json',
+									datadir+'Unit.json'
+								]
 			files_required.forEach(file => {
 				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
 					console.log("Loaded: " + file);
@@ -44,12 +44,10 @@
 			Promise.all(promiseList).then(values => {
 				console.log("All promises finished");
 				// values have the same order the promises were pushed in the list
-				adventureAreaName = parse_AnyName(values[0]);
-				itemName = parse_AnyName(values[1]);
-				adventureDropDeckEntity = parse_AnyData(values[2],"drop_id");
-				adventureAreaDropDeck = parse_AnyData(values[3],"area_iname","campaign_string");
+				unitName = parse_AnyName(values[0]);
+				unit = parse_AnyData(values[1],"iname");
 				// data for the datatable
-				data_table = get_datatable_Adventure();
+				data_table = get_datatable_Unit();
 				// The data is ready, show the datatable
 				create_datatable();
 				
@@ -58,6 +56,7 @@
 				$('#myTable thead tr').clone(true).appendTo( '#myTable thead' );
 				$('#myTable thead tr:eq(1) th').each( function (i) {
 					$(this).css("background-image", "none");
+					$(this).css("writing-mode", "horizontal-tb");
 					$(this).off();
 					$(this).html( '<input type="text" placeholder="Filter..." />' );
 					// Need to use $(this).parent().index() and not i, columns can be reordered
@@ -113,46 +112,51 @@
 						{ targets: '_all', className: "centertext" }
 					],
 					"columns": [
-						{ "data": "area_iname" },
-						{ "data": "area_name" },
-						{ "data": "campaign_string" },
-						{ "data": "drop_id" },
-						{ "data": "is_rare" },
-						{ "data": "rate" },
-						{ "data": "fever_rate" },
-						{ "data": "fix_rate" },
-						{ "data": "reward_name" },
-						{ "data": "reward_rate" },
-						{ "data": "reward_rate_s" },
-						{ "data": "reward_rate_m" },
-						{ "data": "reward_rate_l" },
-						{ "data": "reward_rate_xl" },
-						{ "data": "reward_rate_fever" }
+						{ "data": "iname" },
+						{ "data": "name" },
+						{ "data": "lvl" },
+						{ "data": "hp" },
+						{ "data": "mp" },
+						{ "data": "ap" },
+						{ "data": "atk" },
+						{ "data": "mag" },
+						{ "data": "dex" },
+						{ "data": "spd" },
+						{ "data": "luk" },
+						{ "data": "efi" },{ "data": "eic" },{ "data": "ewi" },
+						{ "data": "eea" },{ "data": "eth" },{ "data": "ewa" },
+						{ "data": "esh" },{ "data": "eda" },
+						{ "data": "cpo" },{ "data": "cbl" },{ "data": "csl" },{ "data": "cmu" },
+						{ "data": "cpa" },{ "data": "ccf" },{ "data": "cpe" },{ "data": "cfr" },
+						{ "data": "cch" },{ "data": "csw" },{ "data": "cst" },{ "data": "cdm" },
+						{ "data": "cda" },{ "data": "cbe" },{ "data": "cdo" }
 					]
 				});
 			}
 		</script>
 	</head>
-	
 	<body>
 		<table id="myTable" class="display">
 			<thead>
 				<tr>
-					<th>Area iname</th>
-					<th>Area name</th>
-					<th>Campaign</th>
-					<th>Table drop id</th>
-					<th>Rare?</th>
-					<th>Table<br/>Rate</th>
-					<th>Fever<br/>Rate</th>
-					<th>Bonus<br/>Rate</th>
-					<th>Reward name</th>
-					<th>Reward<br/>drop %</th>
-					<th>S bonus<br/>drop %</th>
-					<th>M bonus<br/>drop %</th>
-					<th>L bonus<br/>drop %</th>
-					<th>XL bonus<br/>drop %</th>
-					<th>Fever<br/>drop %</th>
+					<th>iname</th>
+					<th>Name</th>
+					<th>Lv</th>
+					<th>HP</th>
+					<th>TP</th>
+					<th>AP</th>
+					<th>Atk</th>
+					<th>Mag</th>
+					<th>Dex</th>
+					<th>Agi</th>
+					<th>Luk</th>
+					<th class="up1">Fire</th><th class="up1">Ice</th><th class="up1">Wind</th>
+					<th class="up1">Earth</th><th class="up1">Thunder</th><th class="up1">Water</th>
+					<th class="up1">Light</th><th class="up1">Dark</th>
+					<th class="up2">Poison</th><th class="up2">Blind</th><th class="up2">Sleep</th><th class="up2">Silence</th>
+					<th class="up2">Paralyse</th><th class="up2">Confusion</th><th class="up2">Petrify</th><th class="up2">Toad</th>
+					<th class="up2">Charm</th><th class="up2">Slow</th><th class="up2">Stop</th><th class="up2">Immobilize</th>
+					<th class="up2">Disable</th><th class="up2">Berserk</th><th class="up2">Doom</th>
 				</tr>
 			</thead>
 			<tbody>

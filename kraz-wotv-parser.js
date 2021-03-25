@@ -77,7 +77,7 @@ typetxt[151] = "Initial AP"
 typetxt[152] = "Range"
 typetxt[155] = "ACC"
 typetxt[156] = "EVA"
-typetxt[157] = "CRIT damage"
+typetxt[157] = "Crit Dmg"
 typetxt[158] = "CRIT"
 typetxt[159] = "CRIT EVA"
 typetxt[180] = "Hate"
@@ -127,16 +127,43 @@ tagtxt[114] = "Metal Killer"
 tagtxt[115] = "Magical Creature? Killer"
 tagtxt[204] = "Fennes Killer"
 
+function skillid_to_txt(skill_id) {
+	let result = "";
+	skill_obj = skill.get(skill_id);
+	
+	// If skill type is 1, it's a castable skill
+	if (skill_obj.type == 1) {
+		result += skillName[skill_id]+"{";
+		if (skill_obj["barrier"]) result += "barrier todo, ";
+		if (skill_obj.s_buffs) result += bufflist_to_txt(skill_obj.s_buffs, true)+", ";
+		if (skill_obj.t_buffs) result += bufflist_to_txt(skill_obj.t_buffs, true)+", ";
+		if (skill_obj["barrier"] || skill_obj.s_buffs || skill_obj.t_buffs) result = result.slice(0,-2);
+		result += "}"
+	}
+	// Type 6
+	if (skill_obj.type == 6) {
+		if (skill_obj.s_buffs) {
+			result += bufflist_to_txt(skill_obj.s_buffs, true);
+		}
+		if (skill_obj.s_buffs && skill_obj.t_buffs) result += ", ";
+		if (skill_obj.t_buffs) {
+			result += bufflist_to_txt(skill_obj.t_buffs, true);
+		}
+	}
+	
+	if (result == "") result = skill_id;
+	return result;
+}
 
-function bufflist_to_txt(buff_list) {
+// The function expect by default a list of buff objects, if is_id is true, then the list contain only the iname of the buff
+function bufflist_to_txt(buff_list, is_id=false) {
 	let result = ""
 	buff_list.forEach((buff_obj) => {
-		result += buff_to_txt(buff_obj);
+		if (is_id) result += buff_to_txt(buff.get(buff_obj));
+		else result += buff_to_txt(buff_obj);
 		result += ", ";
 	});
-	
 	result = result.slice(0,-2);
-	
 	return result;
 }
 
@@ -145,8 +172,9 @@ function buff_to_txt(buff_obj) {
 	
 	for (let i=1; buff_obj["type"+i] != null ; i++) {
 		result += effect_to_txt(buff_obj, i);
+		result += ", ";
 	}
-	
+	result = result.slice(0,-2);
 	return result;
 }
 
@@ -156,14 +184,14 @@ function effect_to_txt(buff_obj, nb) {
 	let calc = buff_obj["calc"+nb]
 	let tags = buff_obj["tag"+nb]
 	let valmin = buff_obj["val"+nb]
-	let valmax = buff_obj["val1"+nb]
+	let valmax = buff_obj["val"+nb+"1"]
 	
 	let type_str = typetxt[type];
     // val: no need to show min and max if identical, add + if value is positive (Slash +15 instead of Slash 15)
 	let val_str = null
-    if (valmin) {
-      if (valmin == valmax) val_str = valmin > 0 ? `+${valmin}` : `${valmin}`
-      else val_str = (valmin > 0) ? `+${valmin}/${valmax}` : `${valmin}/${valmax}`
+    if (valmin !== null) {
+      if (valmin == valmax) val_str = valmin >= 0 ? `+${valmin}` : `${valmin}`;
+      else val_str = (valmin >= 0) ? `+${valmin}/${valmax}` : `${valmin}/${valmax}`;
     }
 	// tags
 	let tags_str = null;
@@ -178,35 +206,53 @@ function effect_to_txt(buff_obj, nb) {
 	
 	if (calc == 1) {
 		// calc 1 is usualy a flat bonus
-		if (tags_str) output += `${tags_str} `
-		output += `${type_str} ${val_str}`
+		if (tags_str) output += `${tags_str} `;
+		output += `${type_str}${val_str}`;
 	} else if (calc == 2) {
 		// calc 2 is usualy a % bonus
-		if (tags_str) output += `${tags_str} `
-		output += `${type_str} ${val_str}%`
+		if (tags_str) output += `${tags_str} `;
+		output += `${type_str}${val_str}%`;
 	} else if (calc == 3) {
 		// calc 3 is used for resistance bonuses
-		if (tags_str) output += `${tags_str} `
-		output += `${type_str} Res ${val_str}%`
+		if (tags_str) output += `${tags_str} `;
+		output += `${type_str} Res ${val_str}%`;
+	} else if (calc == 11 && type == 103) {	
+		// calc 11 type 103 => Revive
+		output += "Revive with "+val_str+"% HP (acc:"+buff_obj["rate"]+"% ∑Faith)";
+	} else if (calc == 12) {
+		// calc 12 recover hp (multiplier)
+		output += "Heal "+val_str+"x "+type_str;
 	} else if (calc == 30 && type == 123) {
 		// calc 30 inflict another buff if type = 123, buff_id inflicted is in param id1
-		output = "todo";
+		output += "Inflict ";
+		let buff_obj2 = buff.get(buff_obj["id1"]);
+		output += buff_to_txt(buff_obj2);
 	} else if (calc == 30 || calc == 21) {
 		// calc 30 inflict status, calc 21 inflict poison
-		if (tags_str) output += `${tags_str} `
-		output += `${type_str}`
-		if (val_str) output += `${val_str}`
+		if (tags_str) output += `${tags_str} `;
+		output += `${type_str}`;
+		output += " (";
+		// rate = 200 mean it can't miss so I don't show the accuracy (minimum faith is 30, and 200%*(30+30)=120)
+		if (buff_obj["rate"] && buff_obj["rate"] != 200) output += `acc:${buff_obj["rate"]}%∑Faith, `;
+		if (buff_obj["turn"]) output += `${buff_obj["turn"]} turns, `;
+		if (val_str) output += `effect:${val_str}, `;
+		output = output.slice(0,-2);
+		output += ")";
+	} else if (calc == 31) {
+		// calc 31 status purification
+		if (buff_obj["rate"] && buff_obj["rate"] != 200) output += `${buff_obj["rate"]}%∑Faith `;
+		output += `Cure ${type_str}`;
 	} else if (calc == 40) {	
-		// calc 40 status is nullified
-		//todo finish this
-		output += `Nullify ${tags_str}${type_str}`
+		// calc 40 status is nullified for X turns
+		if (buff_obj["rate"] && buff_obj["rate"] != 200) output += `${buff_obj["rate"]}%∑Faith `;
+		output += `Nullify ${type_str} for ${buff_obj["turn"]} turns`;
 	} else {
 		output = "Not parsed";
-		console.log(`Not parsed: Calc ${calc} Type ${type}`);
+		console.log(`Not parsed: Calc ${calc} Type ${type} (${buff_obj["iname"]})`);
 	}
 	
 	// For esper table only, the sp cost has been added to the buff
-	if (buff_obj["sp"]) output += ` (${buff_obj["sp"]}sp)`
+	if (buff_obj["sp"]) output += ` (${buff_obj["sp"]}sp)`;
 	
 	return output;
 }

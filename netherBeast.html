@@ -43,6 +43,7 @@
 				}));
 			});
 
+
 			// All promises are completed
 			Promise.all(promiseList).then(values => {
 				console.log("All promises finished");
@@ -63,17 +64,26 @@
 				$('#myTable thead tr:eq(1) th').each( function (i) {
 					$(this).css("background-image", "none");
 					$(this).css("writing-mode", "horizontal-tb");
-					$(this).off("click");
+					$(this).off();
 					$(this).html( '<input type="text" placeholder="Filter..." />' );
 					// Need to use $(this).parent().index() and not i, columns can be reordered
-					$( 'input', this ).on( 'keyup change', function () {
+					$( 'input', this ).on( 'keyup change', delay(function () {
 						table
 							.column( $(this).parent().index()+':visible' )
 							.search( this.value )
 							.draw();
-					});
+					}, 700));
 				});
 			});
+
+			// Delay to avoid filtering while the user is still typing
+			function delay(fn, ms) {
+				let timer = 0
+				return function(...args) {
+					clearTimeout(timer);
+					timer = setTimeout(fn.bind(this, ...args), ms || 0);
+				}
+			}
 
 			$(document).ready(function() {
 			});

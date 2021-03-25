@@ -33,9 +33,12 @@
 			// Data required for this table
 			let files_required = [	'/en/ArtifactName.json',
 									'/en/ItemName.json',
+									'/en/SkillName.json',
 									datadir+'Artifact.json',
 									datadir+'ArtifactRandLot.json',
-									datadir+'Grow.json'
+									datadir+'Grow.json',
+									datadir+'Skill.json',
+									datadir+'Buff.json'
 								]
 			files_required.forEach(file => {
 				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
@@ -49,9 +52,12 @@
 				// values have the same order the promises were pushed in the list
 				artifactName = parse_AnyName(values[0]);
 				itemName = parse_AnyName(values[1]);
-				artifact = parse_AnyData(values[2],"iname");
-				artifactRandLot = parse_AnyData(values[3],"iname");
-				grow = parse_AnyData(values[4],"type");
+				skillName = parse_AnyName(values[2]);
+				artifact = parse_AnyData(values[3],"iname");
+				artifactRandLot = parse_AnyData(values[4],"iname");
+				grow = parse_AnyData(values[5],"type");
+				skill = parse_AnyData(values[6],"iname");
+				buff = parse_AnyData(values[7],"iname");
 				// data for the datatable
 				data_table = get_datatable_Artifact();
 				// The data is ready, show the datatable
@@ -63,17 +69,26 @@
 				$('#myTable thead tr:eq(1) th').each( function (i) {
 					$(this).css("background-image", "none");
 					$(this).css("writing-mode", "horizontal-tb");
-					$(this).off("click");
+					$(this).off();
 					$(this).html( '<input type="text" placeholder="Filter..." />' );
 					// Need to use $(this).parent().index() and not i, columns can be reordered
-					$( 'input', this ).on( 'keyup change', function () {
+					$( 'input', this ).on( 'keyup change', delay(function () {
 						table
 							.column( $(this).parent().index()+':visible' )
 							.search( this.value )
 							.draw();
-					});
+					}, 700));
 				});
 			});
+			
+			// Delay to avoid filtering while the user is still typing
+			function delay(fn, ms) {
+				let timer = 0
+				return function(...args) {
+					clearTimeout(timer);
+					timer = setTimeout(fn.bind(this, ...args), ms || 0);
+				}
+			}
 
 			$(document).ready(function() {
 			});
@@ -124,6 +139,7 @@
 						{ "data": "maxatk" },{ "data": "maxmag" },{ "data": "maxdef" },{ "data": "maxmnd" },
 						{ "data": "maxhit" },{ "data": "maxavd" },{ "data": "maxdex" },{ "data": "maxspd" },{ "data": "maxluk" },
 						{ "data": "maxcrt" },{ "data": "maxcrta" },
+						{ "data": "skl5" }
 					]
 				});
 			}
@@ -148,6 +164,7 @@
 					<th>Atk</th><th>Mag</th><th>Def</th><th>Spi</th>
 					<th>Hit</th><th>Avd</th><th>Dex</th><th>Agi</th><th>Luk</th>
 					<th>Crt</th><th>Crta</th>
+					<th>skl5</th>
 				</tr>
 			</thead>
 			<tbody>

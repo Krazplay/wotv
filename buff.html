@@ -8,11 +8,12 @@
 			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
 		<script type="text/javascript" src="js/DataTables/datatables.min.js"></script>
 		<script type="text/javascript" src="kraz-wotv.js"></script>
+		<script type="text/javascript" src="kraz-wotv-parser.js"></script>
 		
-		<title>WotV Chocobo Expedition Table</title>
+		<title>WotV Buff Table</title>
 		
 		<script>
-			// check url
+			// Check url
 			const queryString = window.location.search;
 			const urlParams = new URLSearchParams(queryString);
 			// if file=jp, use jp file and not global
@@ -24,16 +25,15 @@
 			if (hidecol != null) {
 				array_hidecol = hidecol.split(',').map(x=>+x) // convert to array of integers
 			}
-			
+		
 			let promiseList = [];
 			// Download json from shalzuth repository at date timestamp
 			let timestamp = (new Date()).getTime();
 			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
 			// Data required for this table
-			let files_required = [	'/en/AdventureAreaName.json',
-									'/en/ItemName.json',
-									datadir+'AdventureDropDeckEntity.json',
-									datadir+'AdventureAreaDropDeck.json']
+			let files_required = [	'/en/BuffName.json',
+									datadir+'Buff.json'
+								]
 			files_required.forEach(file => {
 				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
 					console.log("Loaded: " + file);
@@ -44,12 +44,10 @@
 			Promise.all(promiseList).then(values => {
 				console.log("All promises finished");
 				// values have the same order the promises were pushed in the list
-				adventureAreaName = parse_AnyName(values[0]);
-				itemName = parse_AnyName(values[1]);
-				adventureDropDeckEntity = parse_AnyData(values[2],"drop_id");
-				adventureAreaDropDeck = parse_AnyData(values[3],"area_iname","campaign_string");
+				buffName = parse_AnyName(values[0]);
+				buff = parse_AnyData(values[1],"iname");
 				// data for the datatable
-				data_table = get_datatable_Adventure();
+				data_table = get_datatable_Buff();
 				// The data is ready, show the datatable
 				create_datatable();
 				
@@ -58,6 +56,7 @@
 				$('#myTable thead tr').clone(true).appendTo( '#myTable thead' );
 				$('#myTable thead tr:eq(1) th').each( function (i) {
 					$(this).css("background-image", "none");
+					$(this).css("writing-mode", "horizontal-tb");
 					$(this).off();
 					$(this).html( '<input type="text" placeholder="Filter..." />' );
 					// Need to use $(this).parent().index() and not i, columns can be reordered
@@ -109,50 +108,38 @@
 					colReorder: true,
 					autoWidth: true,
 					columnDefs: [
+						{ targets: [1,2,3], width: "400px"},
 						{ visible: false, targets: array_hidecol },
 						{ targets: '_all', className: "centertext" }
 					],
 					"columns": [
-						{ "data": "area_iname" },
-						{ "data": "area_name" },
-						{ "data": "campaign_string" },
-						{ "data": "drop_id" },
-						{ "data": "is_rare" },
+						{ "data": "iname" },
+						{ "data": "name" },
+						{ "data": "parse" },
+						{ "data": "raw" },
 						{ "data": "rate" },
-						{ "data": "fever_rate" },
-						{ "data": "fix_rate" },
-						{ "data": "reward_name" },
-						{ "data": "reward_rate" },
-						{ "data": "reward_rate_s" },
-						{ "data": "reward_rate_m" },
-						{ "data": "reward_rate_l" },
-						{ "data": "reward_rate_xl" },
-						{ "data": "reward_rate_fever" }
+						{ "data": "turn" },
+						{ "data": "timing" },
+						{ "data": "chktgt" },
+						{ "data": "chktiming" }
 					]
 				});
 			}
 		</script>
 	</head>
-	
 	<body>
 		<table id="myTable" class="display">
 			<thead>
 				<tr>
-					<th>Area iname</th>
-					<th>Area name</th>
-					<th>Campaign</th>
-					<th>Table drop id</th>
-					<th>Rare?</th>
-					<th>Table<br/>Rate</th>
-					<th>Fever<br/>Rate</th>
-					<th>Bonus<br/>Rate</th>
-					<th>Reward name</th>
-					<th>Reward<br/>drop %</th>
-					<th>S bonus<br/>drop %</th>
-					<th>M bonus<br/>drop %</th>
-					<th>L bonus<br/>drop %</th>
-					<th>XL bonus<br/>drop %</th>
-					<th>Fever<br/>drop %</th>
+					<th>iname</th>
+					<th>Name</th>
+					<th>Parse result</th>
+					<th>Raw data</th>
+					<th>Rate</th>
+					<th>Turn</th>
+					<th>Timing</th>
+					<th>chktgt</th>
+					<th>chktiming</th>
 				</tr>
 			</thead>
 			<tbody>
