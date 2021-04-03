@@ -66,9 +66,63 @@
 							.column( $(this).parent().index()+':visible' )
 							.search( this.value )
 							.draw();
+						refresh_url();
 					}, 700));
 				});
+				
+				// Filter prefilled via url
+				let nb_columns = table.columns().count();
+				for (let i=0; i < nb_columns; i++) {
+					let search_col = urlParams.get('filter'+i);
+					if (search_col != null) {
+						search_col = decodeURIComponent(search_col);
+						table.column(i).search( search_col );
+						// write the url filter in the input field
+						$( "table thead tr:eq(1) th[data-column-index='"+i+"'] input" ).val( search_col );
+					}
+				}
+				table.draw(); // refresh only if an url filter was found maybe
+				
+				// Event fired when a column visibility change
+				$('#myTable').on( 'column-visibility.dt', function ( e, settings, column, state ) {
+					refresh_url();
+				});
 			});
+			
+			// Check columns visibility and input and write the equivalent url in #table_url
+			function refresh_url() {
+				var table = $('#myTable').DataTable();
+				let url_param = "";
+				
+				// Loop as much as there are columns
+				let nb_columns = table.columns().count();
+				for (let i=0; i < nb_columns; i++) {
+					// Try to get the input val
+					let input_val = $( "table thead tr:eq(1) th[data-column-index='"+i+"'] input" ).val();
+					if (input_val != "" && input_val != null) {
+						console.log("input"+i+" => "+input_val);
+						url_param += (url_param == "") ? "?" : "&";
+						url_param += "filter"+i+"="+encodeURIComponent(input_val);
+					}
+				}
+				
+				// Check all the columns not visible and build an url parameter with them
+				var resultset = table.columns().visible();
+				var list_col = "";
+				for (var i = 0; i < resultset.length; i++) {
+					if (resultset[i] == false) {
+						if (list_col != "") list_col += ",";
+						list_col += i.toString()
+					};
+				}
+				if (list_col != "") {
+					url_param += (url_param == "") ? "?" : "&";
+					url_param += "hidecol="+list_col;
+				}
+				// Write the url in the document now
+				var url_table = window.location.protocol + '//' + window.location.hostname + window.location.pathname;
+				$('#table_url').html(url_table+url_param);
+			};
 			
 			// Delay to avoid filtering while the user is still typing
 			function delay(fn, ms) {
@@ -135,6 +189,8 @@
 	</head>
 	
 	<body>
+		<span>Chocobo expedition - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
+		<br/><br/>
 		<table id="myTable" class="display">
 			<thead>
 				<tr>

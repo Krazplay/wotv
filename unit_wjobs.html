@@ -10,7 +10,7 @@
 		<script type="text/javascript" src="kraz-wotv.js"></script>
 		<script type="text/javascript" src="kraz-wotv-parser.js"></script>
 		
-		<title>WotV Unit Table</title> (jobless stats)
+		<title>WotV Unit Table</title>
 		
 		<script>
 			// Check url
@@ -32,7 +32,9 @@
 			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
 			// Data required for this table
 			let files_required = [	'/en/UnitName.json',
-									datadir+'Unit.json'
+									datadir+'Unit.json',
+									datadir+'Job.json',
+									datadir+'UnitAbilityBoard.json'
 								]
 			files_required.forEach(file => {
 				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
@@ -46,8 +48,10 @@
 				// values have the same order the promises were pushed in the list
 				unitName = parse_AnyName(values[0]);
 				unit = parse_AnyData(values[1],"iname");
+				job = parse_AnyData(values[2],"iname");
+				unitAbilityBoard = parse_AnyData(values[3],"iname");
 				// data for the datatable
-				data_table = get_datatable_Unit();
+				data_table = get_datatable_Unit_wjobs();
 				// The data is ready, show the datatable
 				create_datatable();
 				
@@ -166,6 +170,7 @@
 						{ targets: '_all', className: "centertext" }
 					],
 					"columns": [
+						{ "data": "PC" },
 						{ "data": "iname" },
 						{ "data": "name" },
 						{ "data": "lvl" },
@@ -177,6 +182,7 @@
 						{ "data": "spd" },
 						{ "data": "dex" },
 						{ "data": "luk" },
+						{ "data": "iniap" },
 						{ "data": "efi" },{ "data": "eic" },{ "data": "ewi" },
 						{ "data": "eea" },{ "data": "eth" },{ "data": "ewa" },
 						{ "data": "esh" },{ "data": "eda" },
@@ -190,11 +196,12 @@
 		</script>
 	</head>
 	<body>
-		<span>All units jobless stats table - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
+		<span>Unit table with jobs max lvl bonus - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
 		<br/><br/>
 		<table id="myTable" class="display">
 			<thead>
 				<tr>
+					<th>PC</th>
 					<th>iname</th>
 					<th>Name</th>
 					<th>Lv</th>
@@ -206,6 +213,7 @@
 					<th>Agi</th>
 					<th>Dex</th>
 					<th>Luk</th>
+					<th>IniAP</th>
 					<th class="up1">Fire</th><th class="up1">Ice</th><th class="up1">Wind</th>
 					<th class="up1">Earth</th><th class="up1">Thunder</th><th class="up1">Water</th>
 					<th class="up1">Light</th><th class="up1">Dark</th>

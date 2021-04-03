@@ -59,7 +59,7 @@ typetxt[105] = "Protect"
 typetxt[106] = "Shell"
 typetxt[110] = "Float"
 typetxt[112] = "Quicken"
-typetxt[113] = "Survive Fatal hit"
+typetxt[113] = "Survive a fatal hit"
 typetxt[114] = "Evade Physical hit"
 typetxt[115] = "Evade Magical hit"
 //typetxt[116] = "Conditional buff" special, va de pair avec le paramètre conds ?
@@ -95,6 +95,7 @@ typetxt[300] = "Self-cast Buff duration"
 typetxt[301] = "Self-cast Debuff duration"
 typetxt[310] = "Unit Attack Res"
 typetxt[311] = "AoE Attack Res"
+typetxt[312] = "Max Damage"
 typetxt[313] = "Evocation" // Evocation magic for esper, no one cares if I remove magic (annoying for filtering)
 typetxt[314] = "Def Penetration"
 typetxt[316] = "AP Cost Reduction"
@@ -126,6 +127,39 @@ tagtxt[113] = "Stone Killer"
 tagtxt[114] = "Metal Killer"
 tagtxt[115] = "Magical Creature? Killer"
 tagtxt[204] = "Fennes Killer"
+
+
+// require visionCardLimitedCondition
+function vc_cond_to_txt(condition_id) {
+	let condition = visionCardLimitedCondition.get(condition_id);
+	if (condition == null) {
+		console.log("Could not find visionCardLimitedCondition "+condition_id);
+		return "";
+	}
+	let result = "";
+	if (condition["elem"]) {
+		condition["elem"].forEach((elem_id) => {
+			result += typetxt[41+elem_id]+", ";
+		});
+		result = result.slice(0,-2); // remove last ", "
+	}
+	
+	if (condition["mainjobs"]) {
+		condition["mainjobs"].forEach((job_id) => {
+			result += jobName[job_id]+", ";
+		});
+		result = result.slice(0,-2); // remove last ", "
+	}
+	
+	if (condition["units"]) {
+		condition["units"].forEach((unit_id) => {
+			result += unitName[unit_id]+", ";
+		});
+		result = result.slice(0,-2); // remove last ", "
+	}
+	if (result == "") console.log("vc_cond_to_txt returns empty for visionCardLimitedCondition "+condition_id);
+	return (result != "") ? result : condition_id;
+}
 
 function skillid_to_txt(skill_id) {
 	let result = "";
@@ -169,12 +203,24 @@ function bufflist_to_txt(buff_list, is_id=false) {
 
 function buff_to_txt(buff_obj) {
 	let result = ""
+	// Conditions for all buff effects
+	let conds_text = "";
+	//if (buff_obj["conds"]) result += "[conds:"+buff_obj["conds"]+"]"
+	//if (buff_obj["continues"]) result += "[continues:"+buff_obj["continues"]+"]"
 	
+	if (buff_obj["conds"]) {
+		buff_obj["conds"].forEach((elem_id) => {
+			conds_text += typetxt[31+elem_id]+", ";
+		});
+		conds_text = conds_text.slice(0,-2); // remove last ", "
+	}
+	// Buff effects
 	for (let i=1; buff_obj["type"+i] != null ; i++) {
 		result += effect_to_txt(buff_obj, i);
 		result += ", ";
 	}
 	result = result.slice(0,-2);
+	if (conds_text != "") result = conds_text+"{ "+result+" }";
 	return result;
 }
 
@@ -189,9 +235,11 @@ function effect_to_txt(buff_obj, nb) {
 	let type_str = typetxt[type];
     // val: no need to show min and max if identical, add + if value is positive (Slash +15 instead of Slash 15)
 	let val_str = null
+	let val_str_no_plus = null // alternative without adding the +
     if (valmin !== null) {
-      if (valmin == valmax) val_str = valmin >= 0 ? `+${valmin}` : `${valmin}`;
-      else val_str = (valmin >= 0) ? `+${valmin}/${valmax}` : `${valmin}/${valmax}`;
+      if (valmin == valmax) val_str_no_plus = valmin;
+      else val_str_no_plus = `${valmin}/${valmax}`;
+	  val_str = (valmin >= 0) ? "+"+val_str_no_plus : val_str_no_plus;
     }
 	// tags
 	let tags_str = null;
@@ -216,12 +264,18 @@ function effect_to_txt(buff_obj, nb) {
 		// calc 3 is used for resistance bonuses
 		if (tags_str) output += `${tags_str} `;
 		output += `${type_str} Res ${val_str}%`;
+	} else if (calc == 11 && (type == 1 || type == 2 || type == 3)) {
+		// calc 11 type 1/2/3 => Restore X% of your HP/AP/TP
+		let rstat = [null, "HP", "TP", "AP"];
+		output += "Restore "+val_str_no_plus+"% "+rstat[type]
+		// useless
+		if (buff_obj["rate"] && buff_obj["rate"] != 200) output += ` (acc:${buff_obj["rate"]}%∑Faith)`;
 	} else if (calc == 11 && type == 103) {	
 		// calc 11 type 103 => Revive
 		output += "Revive with "+val_str+"% HP (acc:"+buff_obj["rate"]+"% ∑Faith)";
 	} else if (calc == 12) {
 		// calc 12 recover hp (multiplier)
-		output += "Heal "+val_str+"x "+type_str;
+		output += "Heal "+val_str+"%*Pow "+type_str;
 	} else if (calc == 30 && type == 123) {
 		// calc 30 inflict another buff if type = 123, buff_id inflicted is in param id1
 		output += "Inflict ";
@@ -231,13 +285,15 @@ function effect_to_txt(buff_obj, nb) {
 		// calc 30 inflict status, calc 21 inflict poison
 		if (tags_str) output += `${tags_str} `;
 		output += `${type_str}`;
-		output += " (";
+		let parenthese = "";
 		// rate = 200 mean it can't miss so I don't show the accuracy (minimum faith is 30, and 200%*(30+30)=120)
-		if (buff_obj["rate"] && buff_obj["rate"] != 200) output += `acc:${buff_obj["rate"]}%∑Faith, `;
-		if (buff_obj["turn"]) output += `${buff_obj["turn"]} turns, `;
-		if (val_str) output += `effect:${val_str}, `;
-		output = output.slice(0,-2);
-		output += ")";
+		if (buff_obj["rate"] && buff_obj["rate"] != 200) parenthese += `acc:${buff_obj["rate"]}%∑Faith, `;
+		if (buff_obj["turn"]) parenthese += `${buff_obj["turn"]} turns, `;
+		if (val_str) parenthese += `effect:${val_str}, `;
+		if (parenthese != "") {
+			parenthese = parenthese.slice(0,-2); // cut last ", "
+			output += " (" + parenthese + ")";
+		}
 	} else if (calc == 31) {
 		// calc 31 status purification
 		if (buff_obj["rate"] && buff_obj["rate"] != 200) output += `${buff_obj["rate"]}%∑Faith `;

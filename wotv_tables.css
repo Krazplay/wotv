@@ -26,6 +26,7 @@ input[type=text] {
 	writing-mode: horizontal-tb;
 }
 
+
 table.dataTable thead th, table.dataTable thead td {
 	padding: 6px 4px;
 }
@@ -41,4 +42,8 @@ table.dataTable tbody th, table.dataTable tbody td {
 	float: left;
 	margin-left: 20px;
 	margin-top: 10px;
+}
+
+.word_break_all {
+	word-break: break-all;
 }

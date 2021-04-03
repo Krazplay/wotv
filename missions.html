@@ -1,0 +1,138 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+	
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+		<script type="text/javascript" src="kraz-wotv.js"></script>
+		<script type="text/javascript" src="kraz-wotv-parser.js"></script>
+		
+		<title>WotV Unit Table</title>
+		
+		<script>
+			// Check url
+			const queryString = window.location.search;
+			const urlParams = new URLSearchParams(queryString);
+			// if file=jp, use jp file and not global
+			let datadir = '/data/'
+			if (urlParams.get('file') == "jp") { datadir = "/jpdata/" }
+			// hide columns via url
+			const hidecol = urlParams.get('hidecol')
+			var array_hidecol = [];
+			if (hidecol != null) {
+				array_hidecol = hidecol.split(',').map(x=>+x) // convert to array of integers
+			}
+		
+			let promiseList = [];
+			// Download json from shalzuth repository at date timestamp
+			let timestamp = (new Date()).getTime();
+			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+			// Data required for this table
+			let files_required = [	'/en/QuestCondition.json',
+									'/en/QuestGuidance.json',
+									'/en/QuestInfo.json',
+									'/en/QuestMission.json',
+									'/en/QuestPartyCondition.json',
+									'/en/QuestSubTitle.json',
+									'/en/QuestTitle.json',
+									datadir+'Quests.json'
+								]
+			files_required.forEach(file => {
+				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
+					console.log("Loaded: " + file);
+				}));
+			});
+			promiseList.push( $.when( $.ready ) );
+
+			// All promises are completed
+			Promise.all(promiseList).then(values => {
+				console.log("All promises finished");
+				// values have the same order the promises were pushed in the list
+				questCondition = parse_AnyName(values[0]);
+				questGuidance = parse_AnyName(values[1]);
+				questInfo = parse_AnyName(values[2]);
+				questMission = parse_AnyName(values[3]);
+				questPartyCondition = parse_AnyName(values[4]);
+				questSubTitle = parse_AnyName(values[5]);
+				questTitle = parse_AnyName_as_Map(values[6]);
+				quests = parse_AnyData(values[7],"iname");
+				
+				// Add all the missions in the datalist
+				missionList = document.getElementById('mission-list');
+				questTitle.forEach((item) => {
+					let new_option = document.createElement('option');
+					new_option.value = item["key"];
+					new_option.text = item["value"];
+					missionList.appendChild(new_option);
+				});
+			});
+
+			$(document).ready(function() {
+			});
+			
+			function load_data() {
+				let quest_id = $("#mission-select").val();
+				$("#quest_id").text( questTitle.get(quest_id) ? questTitle.get(quest_id)["key"] : "???" );
+				$("#quest_name").text( questTitle.get(quest_id) ? questTitle.get(quest_id)["value"] : "???");
+				let subtitle = questSubTitle[quest_id];
+				$("#quest_subtitle").html( subtitle ? subtitle : "<i>none</i>" );
+				let quest_data = quests.get(quest_id);
+				$("#quest_partycond").html( quest_data["party_rule"] ? questPartyCondition[quest_data["party_rule"]] : "<i>none</i>" );
+				$("#quest_guidance").html( questGuidance[quest_id] ? questGuidance[quest_id] : "<i>none</i>" );
+				$("#quest_condition").html( "" );
+				for (let cond of quest_data["o_cond_q"]) {
+					$("#quest_condition").append( questCondition[cond] ? cond+" ("+questCondition[cond]+")" : cond );
+				}
+				
+				$("#quest_data").html( object_to_html(quest_data) );
+
+				// Downloading map set data
+				let set_file_name = quest_data["map"]["set"].substr(quest_data["map"]["set"].lastIndexOf('/') + 1)+".json";
+				let promiseList2 = [];
+				let timestamp = (new Date()).getTime();
+				const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+				let files_required = [	'/map/'+set_file_name ]
+				files_required.forEach(file => {
+					promiseList2.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
+						console.log("Loaded: " + file);
+					}));
+				});
+				Promise.all(promiseList2).then(values => {
+					map_set_json = values[0];
+					$("#map_set_data").html( object_to_html(map_set_json) );
+				});
+			}
+			
+			function object_to_html(quest_obj, indent=0) {
+				let result = "";
+				let str_ind = "";
+				for (let i=0; i < indent; i++) { str_ind += "&nbsp"; }
+				for (let key in quest_obj) {
+					result += str_ind;
+					if (typeof quest_obj[key] === 'object') {
+						result += key+":<br/>";
+						result += object_to_html(quest_obj[key], indent+6);
+					}
+					else result += key+": "+quest_obj[key]+"<br/>";
+				}
+				return result;
+			}
+		</script>
+	</head>
+	<body>
+		<h1>Quests data</h1>
+		Mission name: <input size="70" type="text" name="mission-select" id="mission-select" list="mission-list">
+		<input type="button" onclick="load_data()" value="Load data" /><br/>
+		<datalist id="mission-list"></datalist><br/>
+		Quest ID: <span id="quest_id"></span><br/>
+		Quest name: <span id="quest_name"></span><br/>
+		Subtitle: <span id="quest_subtitle"></span><br/>
+		Party Condition: <span id="quest_partycond"></span><br/>
+		Guidance: <span id="quest_guidance"></span><br/>
+		Unlock condition?: <span id="quest_condition"></span><br/>
+		<h2>Quest data</h2>
+		<span id="quest_data"></span><br/>
+		<h2>Map Set data</h2>
+		<span id="map_set_data"></span><br/>
+	</body>
+	
+</html>

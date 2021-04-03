@@ -12,7 +12,16 @@
 function parse_AnyName(data) {
 	let mapName = {};
 	data.infos.forEach((info) => {
-	  if (info.value) mapName[info.key] = info.value;
+		if (info.value) mapName[info.key] = info.value;
+	});
+	return mapName;
+}
+
+// In case we want an easily iterable variable of a name file
+function parse_AnyName_as_Map(data) {
+	let mapName = new Map();
+	data.infos.forEach((info) => {
+		mapName.set(info["key"], info);
 	});
 	return mapName;
 }
@@ -99,8 +108,13 @@ function get_datatable_NetherBeast() {
 			buff_list = sum_of_buffs_id(buff_list);
 			// Sort array to show most useful buffs first
 			buff_list.sort((a, b) => a.sort_priority - b.sort_priority);
+			// To improve readability I've added columns for specific buffs type
+			line["atk_buffs"] = bufflist_to_txt(buff_list.filter(buff_obj => buff_obj["sort_priority"] == 1));
+			line["elmt_buffs"] = bufflist_to_txt(buff_list.filter(buff_obj => buff_obj["sort_priority"] == 2));
+			line["stat_buffs"] = bufflist_to_txt(buff_list.filter(buff_obj => buff_obj["sort_priority"] == 3));
+			line["atk_res_buffs"] = bufflist_to_txt(buff_list.filter(buff_obj => buff_obj["sort_priority"] == 19));
 			// Translate into a readable text
-			line["skills_txt"] =  bufflist_to_txt(buff_list);
+			line["skills_txt"] =  bufflist_to_txt(buff_list.filter(buff_obj => buff_obj["sort_priority"] > 3 && buff_obj["sort_priority"] != 19));
 			result.push(line);
 		}
 	}
@@ -179,6 +193,7 @@ function clone_buff_minus_type(buff_obj) {
 /*
 	Gives a sort order to a buff
 	For the espers long list of buffs, I prefer to sort the buff by effect
+	Warning interger return used for filtering in get_datatable_NetherBeast
 */
 function calculate_sort_buff(buff_obj) {
 	if (buff_obj["type1"] >= 61 && buff_obj["type1"] <= 65 && buff_obj["calc1"] != 3) return 1; // Dmg type
@@ -191,7 +206,7 @@ function calculate_sort_buff(buff_obj) {
 	if (buff_obj["type1"] == 159) return 13; // Crit evade
 	if (buff_obj["type1"] == 120 && buff_obj["calc1"] == 30) return 15; // Type killer
 	if (buff_obj["type1"] == 119 && buff_obj["calc1"] == 30) return 17; // Elt eater
-	if (buff_obj["type1"] >= 61 && buff_obj["type1"] <= 65 && buff_obj["calc1"] === 3) return 19; // type res
+	if (buff_obj["type1"] >= 61 && buff_obj["type1"] <= 65 && buff_obj["calc1"] === 3) return 19; // atk type res
 	if (buff_obj["type1"] == 313) return 99; // Evocation magic
 	return 50;
 }
@@ -327,6 +342,85 @@ function get_datatable_Unit() {
 	return result;
 }
 
+function get_datatable_Unit_wjobs() {
+	result = [];
+	
+	// Add param PC if playable character
+	for (let [iname] of unitAbilityBoard) {
+		unit.get(iname)["PC"] = 1;
+	}
+	
+	for (let [iname, object] of unit) {
+		let line = {};
+		line["iname"] = object.iname;
+		line["name"] = unitName[object.iname] ? unitName[object.iname] : object.iname;
+		line["PC"] = (object.PC) ? object.PC : "";
+		// Status => [{Lv1}, {Lv99}, {Lv120}]
+		line["lvl"] = "";
+		if (object.status) {
+			for (let i=1; object.status[i]; i++) {
+				let stats_obj = object.status[i];
+				// Clone the existing line
+				let line_2 = Object.assign({}, line);
+				line_2["lvl"] = ["1","99","120"][i];
+				// Get the jobs % stats bonuses
+				job_bonus = {};
+				// If the unit has jobs, grab bonus rates of all jobs
+				if (object.jobsets) {
+					object.jobsets.forEach((job_id, index) => {
+						job_obj = job.get(job_id);
+						// First job bonus is 100%, else use the sub_rate (always 50% so far)
+						let rate = (index == 0) ? 100 : job_obj["sub_rate"]
+						// If no val for iniap in unit, use the main job one // todo check EX jobs
+						if (index == 0 && stats_obj["iniap"] == null) stats_obj["iniap"] = job_obj["ranks"][14]["iniap"];
+						stats_list.forEach((stat) => {
+							if (job_bonus[stat] == null) job_bonus[stat] = 0; // init
+							// EX job replace the old job, check if level>=120, it's main job, and ccsets exist
+							if (i>1 && index == 0 && object["ccsets"]) {
+								let exjob_obj = job.get(object["ccsets"][0]["m"]);
+								// Tricky, if EX stats are missing, check the job in param 'origin'
+								if (exjob_obj["ranks"][9] == null) {
+									exjob_obj = job.get(exjob_obj["origin"]);
+								}
+								// If the stat rate bonus exist, add it to job_bonus
+								if (exjob_obj["ranks"][9][stat]) {
+									job_bonus[stat] += exjob_obj["ranks"][9][stat] * rate / 100;
+								}
+							}
+							else {
+								// If the stat rate bonus exist, add it to job_bonus
+								if (job_obj["ranks"][14][stat]) {
+									job_bonus[stat] += job_obj["ranks"][14][stat] * rate / 100;
+								}
+							}
+						});
+						
+					});
+				}
+				// Calculate the stats
+				stats_list.forEach((stat) => {
+					if (job_bonus[stat] == null) job_bonus[stat] = 0;
+					if (stats_obj[stat]) {
+						line_2[stat] = stats_obj[stat];
+						line_2[stat] += Math.floor(stats_obj[stat] * job_bonus[stat] / 10000);
+					}
+					else { line_2[stat] = ""; }
+				});
+				
+				result.push(line_2);
+			}
+		}
+		else {
+			// No status, set all stats to "" or datatable will complain
+			stats_list.forEach((stat) => {
+				line[stat] = "";
+			});
+			result.push(line);
+		}
+	}
+	return result;
+}
+
 function get_datatable_VisionCard() {
 	let rareName = ["N","R","SR","MR","UR"];
 	let tmaxlvl =  [30, 40, 60, 70, 99]
@@ -337,6 +431,8 @@ function get_datatable_VisionCard() {
 					[40, 55, 70, 85, 99]];
 	result = [];
 	for (let [iname, object] of visionCard) {
+		// Skip the VC exp cards
+		if (object.type == 1) continue;
 		let line = {};
 		line["iname"] = object.iname;
 		line["name"] = visionCardName[object.iname] ? visionCardName[object.iname] : object.iname;
@@ -345,8 +441,9 @@ function get_datatable_VisionCard() {
 		for (let awk=0; awk<5; awk++) {
 			// Clone the existing line
 			let line_2 = Object.assign({}, line);
-			let lvl_todo = tlvlawa[object.rare][awk]-1
-			let lvl_max = tmaxlvl[object.rare]-1
+			let lvl_todo = tlvlawa[object.rare][awk]-1;
+			let lvl_max = tmaxlvl[object.rare]-1;
+			let maxed = awk == 4 ? 1 : 0;
 			line_2["awk"] = awk;
 			line_2["lvl"] = lvl_todo+1;
 			visions_stats_list.forEach((stat) => {
@@ -358,10 +455,133 @@ function get_datatable_VisionCard() {
 				}
 				else line_2[stat] = "";
 			});
+			// Party skills buffs
+			line_2["PartyBuffs"] = "";
+			line_2["CondPartyBuffs"] = "";
+			object.card_buffs.forEach((bonus_group) => {
+				let cnds_iname = bonus_group["cnds_iname"];
+				let card_skill = skill.get(bonus_group["card_skill"]);
+				let add_card_skill_buff_awake = skill.get(bonus_group["add_card_skill_buff_awake"]);
+				let add_card_skill_buff_lvmax = skill.get(bonus_group["add_card_skill_buff_lvmax"]);
+				
+				let buff1 = get_skill_buff_at_level(card_skill, line_2["lvl"]);
+				if (awk > 0) {
+					let buff2 = get_skill_buff_at_level(add_card_skill_buff_awake, awk);
+					buff1 = fuse_buffs(buff1, buff2);
+				}
+				if (awk == 4) {
+					let buff3 = get_skill_buff_at_level(add_card_skill_buff_lvmax, maxed);
+					buff1 = fuse_buffs(buff1, buff3);
+				}
+				
+				if (cnds_iname) {
+					// I don't want to show elem condition because the cond is also present in the buff
+					let condition = visionCardLimitedCondition.get(cnds_iname);
+					if (condition["elem"] && Object.keys(condition).length) line_2["CondPartyBuffs"] += buff_to_txt(buff1);
+					else line_2["CondPartyBuffs"] += vc_cond_to_txt(cnds_iname)+"{ "+buff_to_txt(buff1)+" }<br/>";
+				}
+				else line_2["PartyBuffs"] += buff_to_txt(buff1);
+			});
+			// Self skills buffs
+			line_2["SelfBuffs"] = "";
+			line_2["CondSelfBuffs"] = "";
+			line_2["CastSkill"] = "";
+			object.self_buffs.forEach((bonus_group) => {
+				let buff_cond = bonus_group["buff_cond"];
+				let self_buff = skill.get(bonus_group["self_buff"]);
+				let add_self_buff_awake = skill.get(bonus_group["add_self_buff_awake"]);
+				let add_self_buff_lvmax = skill.get(bonus_group["add_self_buff_lvmax"]);
+				
+				if (self_buff.slot == 1) {
+					line_2["CastSkill"] += "todo";
+					//todo, manage castable skills
+				}
+				else {
+					let buff1 = get_skill_buff_at_level(self_buff, line_2["lvl"]);
+					if (awk > 0) {
+						let buff2 = get_skill_buff_at_level(add_self_buff_awake, awk);
+						buff1 = fuse_buffs(buff1, buff2);
+					}
+					if (awk == 4) {
+						let buff3 = get_skill_buff_at_level(add_self_buff_lvmax, maxed);
+						buff1 = fuse_buffs(buff1, buff3);
+					}
+					
+					if (buff_cond) {
+						// I don't want to show elem condition because the cond is also present in the buff
+						let condition = visionCardLimitedCondition.get(buff_cond);
+						if (condition["elem"] && Object.keys(condition).length) line_2["CondSelfBuffs"] += buff_to_txt(buff1);
+						else line_2["CondSelfBuffs"] += vc_cond_to_txt(buff_cond)+"{ "+buff_to_txt(buff1)+" }<br/>";
+					}
+					else line_2["SelfBuffs"] += buff_to_txt(buff1);
+				}
+			});
 			result.push(line_2);
 		}
 	}
 	return result;
+}
+
+/*
+	Input skill object and skill level
+	Assume there is only one buff
+	Return a buff object
+*/
+function get_skill_buff_at_level(skill_obj, skill_lvl) {
+	if (skill_obj == null) return null;
+	// Little check, currently all vc skills have only one buff
+	let t_length = skill_obj["t_buffs"] ? skill_obj["t_buffs"].length : 0
+	let s_length = skill_obj["s_buffs"] ? skill_obj["s_buffs"].length : 0
+	if (t_length + s_length != 1) console.log("Error: buffs length != 1 in "+skill_obj.iname);
+	// Get the buff id from either t_buff or s_buff
+	//console.log(skill_obj.iname);
+	let buff_id = t_length > 0 ? skill_obj.t_buffs[0] : skill_obj.s_buffs[0];
+	// Clone the buff, we're going to modify it
+	let buff_result = Object.assign({}, buff.get(buff_id));
+	// The maxed vc skills have no grow, they're simply acquired when you reach max, so 1/1 will give full bonus
+	let skill_grow = grow.get(skill_obj["grow"]);
+	let start_lvl = skill_grow ? skill_grow["curve"][0]["val"] : 0;
+	let lvl_max = skill_grow ? skill_grow["curve"][0]["lv"] : 1;
+	
+	// Loop as long as we find valid typeX in the buff params
+	for (let i=1; buff_result["type"+i] != null ; i++) {
+		let base_val = buff_result["val"+i];
+		let max_gain = buff_result["val1"+i] - buff_result["val"+i];
+		
+		// Modifying min/max value to current value so we can print the buff later
+		// todo add ceil for negative values
+		buff_result["val"+i] = Math.floor( base_val + ( max_gain * (skill_lvl-start_lvl) / (lvl_max-start_lvl) ) );
+		buff_result["val1"+i] = Math.floor( base_val + ( max_gain * (skill_lvl-start_lvl) / (lvl_max-start_lvl) ) );
+		//console.log(`Base=${base_val}, Max gain=${max_gain}, skill_lvl=${skill_lvl}, lvl_max=${lvl_max}, result=${buff_result["val"+i]}`);
+	}
+	
+	return buff_result;
+}
+
+/*
+	Two Buffs Enter, One Buff Leaves
+	Buff 2 effect exist in Buff 1: values are added
+	Else the effect is added in the first available slot in Buff 1
+	Buff 1 is returned
+*/
+function fuse_buffs(buff1, buff2) {
+	if (buff2 == null) return buff1;
+	//todo check all buffs param
+	
+	// Loop as long as we find valid typeX in buff2 params
+	for (let i=1; buff2["type"+i] != null ; i++) {
+		// Loop on existing buff effects in buff1
+		for (let j=1; buff1["type"+j] != null ; j++) {
+			// Params to match
+			if (buff2["type"+i] == buff1["type"+j] && buff2["calc"+i] == buff1["calc"+j] && buff2["tag"+i] == buff1["tag"+j]) {
+				buff1["val"+j] += buff2["val"+i];
+				buff1["val1"+j] += buff2["val1"+i];
+				break;
+			}
+		}
+	}
+
+	return buff1;
 }
 
 // Because javascript
