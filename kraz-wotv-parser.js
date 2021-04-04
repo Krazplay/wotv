@@ -69,6 +69,8 @@ typetxt[120] = "" // Type Killer, require a tag
 typetxt[122] = "" // Type Killer - Cette version est uniquement sur les 3 Master Ability
 typetxt[123] = "Proc buff" // proc another buff param id1
 typetxt[124] = "CT Up/Down"
+typetxt[126] = "with physical attack"
+typetxt[130] = "with magic attack"
 typetxt[134] = "Flat Dmg" // Flat Damage Type Killer
 typetxt[140] = "Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Toad, Immobilize, Disable, Berserk, Stun" // Esuna
 typetxt[142] = "All buffs" // Dispel Counter, Erase
@@ -91,6 +93,7 @@ typetxt[193] = "Faith (temp)"
 typetxt[194] = "Acquired JP"
 typetxt[200] = "Debuff Res"
 typetxt[202] = "ATK debuff Res"
+typetxt[203] = "DEF debuff Res"
 typetxt[300] = "Self-cast Buff duration"
 typetxt[301] = "Self-cast Debuff duration"
 typetxt[310] = "Unit Attack Res"
@@ -99,6 +102,7 @@ typetxt[312] = "Max Damage"
 typetxt[313] = "Evocation" // Evocation magic for esper, no one cares if I remove magic (annoying for filtering)
 typetxt[314] = "Def Penetration"
 typetxt[316] = "AP Cost Reduction"
+typetxt[321] = "Slash Res Pen"
 typetxt[329] = "Magic Res Pen"
 typetxt[347] = "Healing Power"
 
@@ -233,6 +237,7 @@ function effect_to_txt(buff_obj, nb) {
 	let valmax = buff_obj["val"+nb+"1"]
 	
 	let type_str = typetxt[type];
+	if (type_str == null) console.log("No text found for type "+type+" in buff "+buff_obj.iname);
     // val: no need to show min and max if identical, add + if value is positive (Slash +15 instead of Slash 15)
 	let val_str = null
 	let val_str_no_plus = null // alternative without adding the +
