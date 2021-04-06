@@ -316,6 +316,11 @@ function get_datatable_Unit() {
 		let line = {};
 		line["iname"] = object.iname;
 		line["name"] = unitName[object.iname] ? unitName[object.iname] : object.iname;
+		
+		line["sex"] = object.sex ? object.sex : "";
+		line["elem"] = elem_to_text(object.elem);
+		line["species"] = species_to_text(object.species);
+		
 		// Status => [{Lv1}, {Lv99}, {Lv120}]
 		line["lvl"] = "";
 		if (object.status) {
@@ -342,6 +347,31 @@ function get_datatable_Unit() {
 	return result;
 }
 
+function elem_to_text(array) {
+	if (!array) return "";
+	let result = ""
+	array.forEach((elem) => {
+		result += typetxt[41+elem];
+		result += ", ";
+	});
+	result = result.slice(0,-2);
+	return result;
+}
+
+function species_to_text(array) {
+	if (!array) return "";
+	let result = ""
+	// TEMP todo UnitSpecies
+	let translation = ["-", "Human", "Esper", "Beast", "Demon", "Dragon", "Plantoid", "Avian", "Insect", 
+						"Aquatic", "Machina", "Fairy", "Reaper", "Stone", "Metal", "Arcana"];
+	array.forEach((specie) => {
+		result += translation[specie];
+		result += ", ";
+	});
+	result = result.slice(0,-2);
+	return result;
+}
+
 function get_datatable_Unit_wjobs() {
 	result = [];
 	
@@ -355,6 +385,7 @@ function get_datatable_Unit_wjobs() {
 		line["iname"] = object.iname;
 		line["name"] = unitName[object.iname] ? unitName[object.iname] : object.iname;
 		line["PC"] = (object.PC) ? object.PC : "";
+		line["Board"] = "";
 		// Status => [{Lv1}, {Lv99}, {Lv120}]
 		line["lvl"] = "";
 		if (object.status) {
@@ -371,8 +402,14 @@ function get_datatable_Unit_wjobs() {
 						job_obj = job.get(job_id);
 						// First job bonus is 100%, else use the sub_rate (always 50% so far)
 						let rate = (index == 0) ? 100 : job_obj["sub_rate"]
+						// Sometimes we don't have full stats in a job, we only have them in the 'origin' job
+						let job_origin = job.get(job_obj["origin"]);
 						// If no val for iniap in unit, use the main job one // todo check EX jobs
-						if (index == 0 && stats_obj["iniap"] == null) stats_obj["iniap"] = job_obj["ranks"][14]["iniap"];
+						if (index == 0 && stats_obj["iniap"] == null) {
+							if (job_obj["ranks"][14]) stats_obj["iniap"] = job_obj["ranks"][14]["iniap"];
+							else stats_obj["iniap"] = job_origin["ranks"][14]["iniap"];
+						}
+						
 						stats_list.forEach((stat) => {
 							if (job_bonus[stat] == null) job_bonus[stat] = 0; // init
 							// EX job replace the old job, check if level>=120, it's main job, and ccsets exist
@@ -388,13 +425,17 @@ function get_datatable_Unit_wjobs() {
 								}
 							}
 							else {
+								//console.log(iname+"  "+job_id);
 								// If the stat rate bonus exist, add it to job_bonus
-								if (job_obj["ranks"][14][stat]) {
+								if (job_obj["ranks"][14] && job_obj["ranks"][14][stat]) {
 									job_bonus[stat] += job_obj["ranks"][14][stat] * rate / 100;
+								}
+								// Once again trick, stat may be only in origin job
+								else if (job_origin && job_origin["ranks"][14][stat]) {
+									job_bonus[stat] += job_origin["ranks"][14][stat] * rate / 100;
 								}
 							}
 						});
-						
 					});
 				}
 				// Calculate the stats
@@ -407,7 +448,39 @@ function get_datatable_Unit_wjobs() {
 					else { line_2[stat] = ""; }
 				});
 				
+				// This is the line for base_stats (lvl stats + job stats)
 				result.push(line_2);
+				
+				//
+				// Now if the unit has a board, we're going to create another line adding board stats
+				//
+				if (object.PC) {
+					// Clone the base stats line
+					let line_3 = Object.assign({}, line_2);
+					line_2["Board"] = 0; // 0 mean he has a board, but board stats are not included
+					line_3["Board"] = 1;
+					// Assume lvl99 = job lvl 15 is max, lvl 120 => job level 25
+					let board_job_level = [0,15,25][i];
+					// Get the sum of bonuses for this job level
+					let board_bonus = get_unit_board_bonuses(object.iname, board_job_level);
+					// Add the bonuses to the base stats
+					stats_list.forEach((stat) => {
+						// % bonus
+						if (board_bonus["%"][stat]) {
+							if (!line_3[stat]) line_3[stat] = 0;
+							let base_stat = line_3[stat];
+							if (board_bonus["%"][stat]) line_3[stat] += Math.floor(board_bonus["%"][stat] * base_stat / 100);
+						}
+						// flat bonus
+						if (board_bonus["+"][stat]) {
+							if (!line_3[stat]) line_3[stat] = 0;
+							let base_stat = line_3[stat];
+							if (board_bonus["+"][stat]) line_3[stat] += board_bonus["+"][stat];
+						}
+					});
+					
+					result.push(line_3);
+				}
 			}
 		}
 		else {
@@ -419,6 +492,94 @@ function get_datatable_Unit_wjobs() {
 		}
 	}
 	return result;
+}
+
+// Assume all 3 jobs are at the same level
+function get_unit_board_bonuses(unit_iname, job_level) {
+	let bonuses = { "%":{}, "+":{} };
+	let board = unitAbilityBoard.get(unit_iname);
+	
+	// For each panel
+	board["panels"].forEach((panel) => {
+		// If panel require a job lvl less or equal our parameter and is not a castable skill
+		// Skill for damage max up, we handle it
+		if (panel["need_level"] <= job_level && panel["panel_effect_type"] == 3) {
+			// Look for the skill
+			let skill_obj = skill.get(panel["value"]);
+			if (!skill_obj["t_buffs"] || skill_obj["t_buffs"].length != 1) console.log("Unexpected t_buffs size != 1, panel "+panel["panel_id"]+" skill"+skill_obj.iname+" from "+unit_iname);
+			// Look for the buff id in the panel
+			let buff_id = skill_obj["t_buffs"][0];
+			
+			bonuses = add_new_stats(bonuses, buff_id_to_stat(buff_id));
+		}
+		else if (panel["need_level"] <= job_level && panel["panel_effect_type"] != 1 && panel["panel_effect_type"] != 4) {
+			let new_stats = buff_id_to_stat(panel["value"]);
+			bonuses = add_new_stats(bonuses, new_stats);
+		}
+	});
+	
+	return bonuses;
+}
+
+function buff_id_to_stat(buff_id) {
+	let result = {}
+	let buff_obj = buff.get(buff_id);
+	// As long as we find a buff effect type
+	for (let i=1; buff_obj["type"+i] != null ; i++) {
+		let type = buff_obj["type"+i]
+		let calc = buff_obj["calc"+i]
+		let tags = buff_obj["tag"+i]
+		let valmax = buff_obj["val"+i+"1"]
+		// Special case Res all elements
+		if (calc == 3 && type == 50) {
+			for (let elem of ["ewi","eth","efi","eic","esh","eea","eda","ewa"]) {
+				if (!result["+"]) result["+"] = {};
+				if (!result["+"][elem]) result["+"][elem] = 0;
+				result["+"][elem] += valmax;
+			}
+		}
+		// Special case Res all attack types
+		else if (calc == 3 || type == 60) {
+			for (let elem of ["asl","api","abl","ash","ama"]) {
+				if (!result["+"]) result["+"] = {};
+				if (!result["+"][elem]) result["+"][elem] = 0;
+				result["+"][elem] += valmax;
+			}
+		}
+		// classic stat bonuses
+		else if (type <= 29 || type >= 29) {
+			let stat = typestat[type];
+			if (!stat) console.log("Error "+buff_id+" typestat "+type+" is null (calc "+calc+")");
+			let sign = (calc ==  1) ? "+" : "%";
+			if (calc > 2) console.log("Unexpect calc "+calc+" for typestat "+type+" in buff "+buff_id);
+			
+			if (!result[sign]) result[sign] = {};
+			if (!result[sign][stat]) result[sign][stat] = 0;
+			result[sign][stat] += valmax;
+		}
+		else {
+			console.log("Not yet handled: calc "+calc+", type "+type+" of buff "+buff_id);
+		}
+	}
+	
+	return result;
+}
+
+// Iterate on new_stats and add the stats to origin
+function add_new_stats(origin, new_stats) {
+	if (new_stats["%"]) {
+		Object.keys(new_stats["%"]).forEach((stat) => {
+			if (!origin["%"][stat]) origin["%"][stat] = 0;
+			origin["%"][stat] += new_stats["%"][stat];
+		});
+	}
+	if (new_stats["+"]) {
+		Object.keys(new_stats["+"]).forEach((stat) => {
+			if (!origin["+"][stat]) origin["+"][stat] = 0;
+			origin["+"][stat] += new_stats["+"][stat];
+		});
+	}
+	return origin;
 }
 
 function get_datatable_VisionCard() {
@@ -582,6 +743,51 @@ function fuse_buffs(buff1, buff2) {
 	return buff1;
 }
 
+function get_datatable_Skill_charac() {
+	result = [];
+	
+	// Add param PC if playable character
+	for (let [iname] of unitAbilityBoard) {
+		unit.get(iname)["PC"] = 1;
+	}
+	
+	for (let [iname, object] of unit) {
+		let board = unitAbilityBoard.get(iname);
+		// If has a board
+		if (board) {
+			skill_list = get_unit_board_skills(iname, 25);
+			skill_list.forEach((skill_id) => {
+				let line = {};
+				line["iname"] = iname;
+				line["name"] = unitName[iname] ? unitName[iname] : iname;
+				line["skill_id"] = skill_id;
+				line["skill_name"] = skillName[skill_id] ? skillName[skill_id] : skill_id;
+				result.push(line);
+			});
+		}
+	}
+	return result;
+}
+
+		// new effect type 3 => damage max up maybe -not checked-
+		// new effect type 4 => UnitMaterialItem
+function get_unit_board_skills(unit_iname, job_level) {
+	let result = [];
+	
+	let board = unitAbilityBoard.get(unit_iname);
+	
+	// For each panel
+	board["panels"].forEach((panel) => {
+		// If panel require a job lvl less or equal our parameter and is not a castable skill
+		// Skill for damage max up, we handle it
+		if (panel["need_level"] <= job_level && panel["panel_effect_type"] == 1) {
+			result.push(panel["value"]);
+		}
+	});
+	
+	return result;
+}
+
 // Because javascript
 function round(value, decimals) {
 	return Number(Math.round(value+'e'+decimals)+'e-'+decimals);
@@ -593,9 +799,10 @@ var stats_list = [
 				"atk","mag","def","mnd","hit","avd",
 				"dex","spd","luk","crt","crta","iniap",
 				"mov","jmp","dmax",
-				"asl","api","abl","ash","ama","apl",
+				"asl","api","abl","ash","ama",
 				"ewi","eth","efi","eic","esh","eea","eda","ewa",
-				"cbl","csl","cmu","cch","cdo","cst","cda","cbe","cpo","cpa","ccf","cfr","cpe","cdm","csw"
+				"cbl","csl","cmu","cch","cdo","cst","cda","cbe","cpo","cpa","ccf","cfr","cpe","cdm","csw",
+				"unit_res", "aoe_res", "range"
 				];
 				
 var visions_stats_list = [

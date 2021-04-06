@@ -133,6 +133,29 @@ tagtxt[115] = "Magical Creature? Killer"
 tagtxt[204] = "Fennes Killer"
 
 
+var typestat = []
+typestat[1] = "hp"
+typestat[2] = "mp"
+typestat[3] = "ap"
+typestat[21] = "atk"
+typestat[22] = "def"
+typestat[23] = "mag"
+typestat[24] = "mnd"
+typestat[25] = "dex"
+typestat[26] = "spd"
+typestat[27] = "luk"
+typestat[28] = "mov"
+typestat[29] = "jmp"
+
+typestat[151] = "iniap"
+typestat[152] = "range"
+typestat[158] = "crt"
+typestat[159] = "crta"
+typestat[312] = "dmax" // Max damage
+
+typestat[310] = "unit_res"
+typestat[311] = "aoe_res"
+
 // require visionCardLimitedCondition
 function vc_cond_to_txt(condition_id) {
 	let condition = visionCardLimitedCondition.get(condition_id);

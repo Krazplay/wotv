@@ -99,7 +99,6 @@
 					// Try to get the input val
 					let input_val = $( "table thead tr:eq(1) th[data-column-index='"+i+"'] input" ).val();
 					if (input_val != "" && input_val != null) {
-						console.log("input"+i+" => "+input_val);
 						url_param += (url_param == "") ? "?" : "&";
 						url_param += "filter"+i+"="+encodeURIComponent(input_val);
 					}
@@ -168,6 +167,9 @@
 					"columns": [
 						{ "data": "iname" },
 						{ "data": "name" },
+						{ "data": "sex" },
+						{ "data": "elem" },
+						{ "data": "species" },
 						{ "data": "lvl" },
 						{ "data": "hp" },
 						{ "data": "mp" },
@@ -197,6 +199,9 @@
 				<tr>
 					<th>iname</th>
 					<th>Name</th>
+					<th>Sex</th>
+					<th>Elem</th>
+					<th>Species</th>
 					<th>Lv</th>
 					<th>HP</th>
 					<th>TP</th>

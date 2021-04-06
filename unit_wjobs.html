@@ -34,7 +34,9 @@
 			let files_required = [	'/en/UnitName.json',
 									datadir+'Unit.json',
 									datadir+'Job.json',
-									datadir+'UnitAbilityBoard.json'
+									datadir+'UnitAbilityBoard.json',
+									datadir+'Buff.json',
+									datadir+'Skill.json'
 								]
 			files_required.forEach(file => {
 				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
@@ -50,6 +52,8 @@
 				unit = parse_AnyData(values[1],"iname");
 				job = parse_AnyData(values[2],"iname");
 				unitAbilityBoard = parse_AnyData(values[3],"iname");
+				buff = parse_AnyData(values[4],"iname");
+				skill = parse_AnyData(values[5],"iname");
 				// data for the datatable
 				data_table = get_datatable_Unit_wjobs();
 				// The data is ready, show the datatable
@@ -103,7 +107,6 @@
 					// Try to get the input val
 					let input_val = $( "table thead tr:eq(1) th[data-column-index='"+i+"'] input" ).val();
 					if (input_val != "" && input_val != null) {
-						console.log("input"+i+" => "+input_val);
 						url_param += (url_param == "") ? "?" : "&";
 						url_param += "filter"+i+"="+encodeURIComponent(input_val);
 					}
@@ -170,7 +173,7 @@
 						{ targets: '_all', className: "centertext" }
 					],
 					"columns": [
-						{ "data": "PC" },
+						{ "data": "PC" },{ "data": "Board" },
 						{ "data": "iname" },
 						{ "data": "name" },
 						{ "data": "lvl" },
@@ -182,7 +185,13 @@
 						{ "data": "spd" },
 						{ "data": "dex" },
 						{ "data": "luk" },
+						{ "data": "def" },{ "data": "mnd" },
+						{ "data": "crt" },{ "data": "crta" },
 						{ "data": "iniap" },
+						{ "data": "dmax" },
+						{ "data": "mov" },{ "data": "jmp" },{ "data": "range" },
+						{ "data": "asl" },{ "data": "api" },{ "data": "abl" },{ "data": "ash" },{ "data": "ama" },
+						{ "data": "unit_res" },{ "data": "aoe_res" },
 						{ "data": "efi" },{ "data": "eic" },{ "data": "ewi" },
 						{ "data": "eea" },{ "data": "eth" },{ "data": "ewa" },
 						{ "data": "esh" },{ "data": "eda" },
@@ -201,7 +210,7 @@
 		<table id="myTable" class="display">
 			<thead>
 				<tr>
-					<th>PC</th>
+					<th>PC</th><th>B</th>
 					<th>iname</th>
 					<th>Name</th>
 					<th>Lv</th>
@@ -213,7 +222,14 @@
 					<th>Agi</th>
 					<th>Dex</th>
 					<th>Luk</th>
+					<th>Def</th><th>Spr</th>
+					<th>Crit</th><th>Crit<br/>Eva</th>
 					<th>IniAP</th>
+					<th>Max<br/>Dam</th>
+					<th>Mov</th><th>Jmp</th><th>Range</th>
+					<th>Res<br/>Slash</th><th>Res<br/>Pierce</th><th>Res<br/>Strike</th><th>Res<br/>Missile</th><th>Res<br/>Magic</th>
+					<th>Unit<br/>Res</th><th>AoE<br/>Res</th>
+					
 					<th class="up1">Fire</th><th class="up1">Ice</th><th class="up1">Wind</th>
 					<th class="up1">Earth</th><th class="up1">Thunder</th><th class="up1">Water</th>
 					<th class="up1">Light</th><th class="up1">Dark</th>
