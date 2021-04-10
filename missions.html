@@ -5,6 +5,7 @@
 			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
 		<script type="text/javascript" src="kraz-wotv.js"></script>
 		<script type="text/javascript" src="kraz-wotv-parser.js"></script>
+		<script type="text/javascript" src="kraz-wotv-missions.js"></script>
 		
 		<title>WotV Unit Table</title>
 		
@@ -23,8 +24,7 @@
 			}
 		
 			let promiseList = [];
-			// Download json from shalzuth repository at date timestamp
-			let timestamp = (new Date()).getTime();
+			// Download json from shalzuth repository
 			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
 			// Data required for this table
 			let files_required = [	'/en/QuestCondition.json',
@@ -34,10 +34,12 @@
 									'/en/QuestPartyCondition.json',
 									'/en/QuestSubTitle.json',
 									'/en/QuestTitle.json',
+									'/en/UnitName.json',
+									'/en/ItemName.json',
 									datadir+'Quests.json'
 								]
 			files_required.forEach(file => {
-				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
+				promiseList.push($.getJSON(RAW_GIT_URL + file, function(data){
 					console.log("Loaded: " + file);
 				}));
 			});
@@ -54,7 +56,9 @@
 				questPartyCondition = parse_AnyName(values[4]);
 				questSubTitle = parse_AnyName(values[5]);
 				questTitle = parse_AnyName_as_Map(values[6]);
-				quests = parse_AnyData(values[7],"iname");
+				unitName = parse_AnyName(values[7]);
+				itemName = parse_AnyName(values[8]);
+				quests = parse_AnyData(values[9],"iname");
 				
 				// Add all the missions in the datalist
 				missionList = document.getElementById('mission-list');
@@ -79,43 +83,30 @@
 				$("#quest_partycond").html( quest_data["party_rule"] ? questPartyCondition[quest_data["party_rule"]] : "<i>none</i>" );
 				$("#quest_guidance").html( questGuidance[quest_id] ? questGuidance[quest_id] : "<i>none</i>" );
 				$("#quest_condition").html( "" );
-				for (let cond of quest_data["o_cond_q"]) {
-					$("#quest_condition").append( questCondition[cond] ? cond+" ("+questCondition[cond]+")" : cond );
+				if (quest_data["o_cond_q"]) {
+					for (let cond of quest_data["o_cond_q"]) {
+						$("#quest_condition").append( questCondition[cond] ? cond+" ("+questCondition[cond]+")" : cond );
+					}
 				}
-				
 				$("#quest_data").html( object_to_html(quest_data) );
 
 				// Downloading map set data
 				let set_file_name = quest_data["map"]["set"].substr(quest_data["map"]["set"].lastIndexOf('/') + 1)+".json";
 				let promiseList2 = [];
-				let timestamp = (new Date()).getTime();
 				const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
 				let files_required = [	'/map/'+set_file_name ]
 				files_required.forEach(file => {
-					promiseList2.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
+					promiseList2.push($.getJSON(RAW_GIT_URL + file, function(data){
 						console.log("Loaded: " + file);
 					}));
 				});
 				Promise.all(promiseList2).then(values => {
 					map_set_json = values[0];
+					$("#enemies_data").html( extract_mapset_enemies_to_html(map_set_json) );
 					$("#map_set_data").html( object_to_html(map_set_json) );
 				});
 			}
 			
-			function object_to_html(quest_obj, indent=0) {
-				let result = "";
-				let str_ind = "";
-				for (let i=0; i < indent; i++) { str_ind += "&nbsp"; }
-				for (let key in quest_obj) {
-					result += str_ind;
-					if (typeof quest_obj[key] === 'object') {
-						result += key+":<br/>";
-						result += object_to_html(quest_obj[key], indent+6);
-					}
-					else result += key+": "+quest_obj[key]+"<br/>";
-				}
-				return result;
-			}
 		</script>
 	</head>
 	<body>
@@ -128,7 +119,9 @@
 		Subtitle: <span id="quest_subtitle"></span><br/>
 		Party Condition: <span id="quest_partycond"></span><br/>
 		Guidance: <span id="quest_guidance"></span><br/>
-		Unlock condition?: <span id="quest_condition"></span><br/>
+		Unlock condition: <span id="quest_condition"></span><br/>
+		<h2>Enemies test extract</h2>
+		<span id="enemies_data"></span><br/>
 		<h2>Quest data</h2>
 		<span id="quest_data"></span><br/>
 		<h2>Map Set data</h2>

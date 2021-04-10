@@ -164,6 +164,18 @@
 							extend: 'columnVisibility',
 							text: 'Hide all',
 							visibility: false
+						},
+						{
+							text: 'Show only best version',
+							action: function ( e, dt, node, config ) {
+								if (dt.column(0).search() === '1') {
+									this.text('Show only best version');
+									dt.column(0).search("").draw(true);
+								} else  {
+									this.text('Show all equipment');
+									dt.column(0).search(1).draw(true);
+								}
+							}
 						}],
 					orderCellsTop: true,
 					fixedHeader: {
@@ -174,9 +186,11 @@
 					autoWidth: true,
 					columnDefs: [
 						{ visible: false, targets: array_hidecol },
+						{ visible: false, targets: 0 },
 						{ targets: '_all', className: "centertext" }
 					],
 					"columns": [
+						{ "data": "bestv" },
 						{ "data": "iname" },
 						{ "data": "name" },
 						{ "data": "type" },
@@ -204,6 +218,7 @@
 		<table id="myTable" class="display">
 			<thead>
 				<tr>
+					<th>best</th>
 					<th>iname</th>
 					<th>Name</th>
 					<th>Type</th>

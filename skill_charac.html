@@ -10,7 +10,7 @@
 		<script type="text/javascript" src="kraz-wotv.js"></script>
 		<script type="text/javascript" src="kraz-wotv-parser.js"></script>
 		
-		<title>WotV Unit Table</title> (jobless stats)
+		<title>WotV Characters skills Table</title>
 		
 		<script>
 			// Check url
@@ -31,8 +31,14 @@
 			let timestamp = (new Date()).getTime();
 			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
 			// Data required for this table
-			let files_required = [	'/en/UnitName.json',
-									datadir+'Unit.json'
+			let files_required = [	'/en/SkillName.json',
+									'/en/BuffName.json',
+									datadir+'Skill.json',
+									datadir+'Buff.json',
+									datadir+'UnitAbilityBoard.json',
+									datadir+'Unit.json',
+									datadir+'Job.json',
+									'/en/UnitName.json'
 								]
 			files_required.forEach(file => {
 				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
@@ -44,10 +50,16 @@
 			Promise.all(promiseList).then(values => {
 				console.log("All promises finished");
 				// values have the same order the promises were pushed in the list
-				unitName = parse_AnyName(values[0]);
-				unit = parse_AnyData(values[1],"iname");
+				skillName = parse_AnyName(values[0]);
+				buffName = parse_AnyName(values[1]);
+				skill = parse_AnyData(values[2],"iname");
+				buff = parse_AnyData(values[3],"iname");
+				unitAbilityBoard = parse_AnyData(values[4],"iname");
+				unit = parse_AnyData(values[5],"iname");
+				job = parse_AnyData(values[6],"iname");
+				unitName = parse_AnyName(values[7]);
 				// data for the datatable
-				data_table = get_datatable_Unit();
+				data_table = get_datatable_Skill_charac();
 				// The data is ready, show the datatable
 				create_datatable();
 				
@@ -167,59 +179,55 @@
 					"columns": [
 						{ "data": "iname" },
 						{ "data": "name" },
-						{ "data": "sex" },
-						{ "data": "rare" },
-						{ "data": "elem" },
-						{ "data": "species" },
-						{ "data": "lvl" },
-						{ "data": "hp" },
-						{ "data": "mp" },
-						{ "data": "ap" },
-						{ "data": "atk" },
-						{ "data": "mag" },
-						{ "data": "spd" },
-						{ "data": "dex" },
-						{ "data": "luk" },
-						{ "data": "efi" },{ "data": "eic" },{ "data": "ewi" },
-						{ "data": "eea" },{ "data": "eth" },{ "data": "ewa" },
-						{ "data": "esh" },{ "data": "eda" },
-						{ "data": "cpo" },{ "data": "cbl" },{ "data": "csl" },{ "data": "cmu" },
-						{ "data": "cpa" },{ "data": "ccf" },{ "data": "cpe" },{ "data": "cfr" },
-						{ "data": "cch" },{ "data": "csw" },{ "data": "cst" },{ "data": "cdm" },
-						{ "data": "cda" },{ "data": "cbe" },{ "data": "cdo" }
+						{ "data": "skill_id" },
+						{ "data": "skill_name" },
+						{ "data": "slot" },
+						{ "data": "cap" },
+						{ "data": "eff_val" },
+						{ "data": "eff_val1" },
+						{ "data": "cost_type" },
+						{ "data": "cost_ap" },
+						{ "data": "cost_mp" },
+						{ "data": "hp_cost" },
+						{ "data": "timing" },
+						{ "data": "atk_type" },
+						{ "data": "atk_det" },
+						{ "data": "atk_base" },
+						{ "data": "atk_formula" },
+						{ "data": "range" },
+						{ "data": "range_eff" },
+						{ "data": "stats_pow" }
 					]
 				});
 			}
 		</script>
 	</head>
 	<body>
-		<span>All units jobless stats table - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
+		<span>Characters skills table - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
 		<br/><br/>
 		<table id="myTable" class="display">
 			<thead>
 				<tr>
 					<th>iname</th>
 					<th>Name</th>
-					<th>Sex</th>
-					<th>Rare</th>
-					<th>Elem</th>
-					<th>Species</th>
-					<th>Lv</th>
-					<th>HP</th>
-					<th>TP</th>
+					<th>Skill id</th>
+					<th>Skill name</th>
+					<th>Slot</th>
+					<th>Lvl<br/>cap</th>
+					<th>Mult<br/>min</th>
+					<th>Mult<br/>max</th>
+					<th>Cost<br/>type</th>
 					<th>AP</th>
-					<th>Atk</th>
-					<th>Mag</th>
-					<th>Agi</th>
-					<th>Dex</th>
-					<th>Luk</th>
-					<th class="up1">Fire</th><th class="up1">Ice</th><th class="up1">Wind</th>
-					<th class="up1">Earth</th><th class="up1">Thunder</th><th class="up1">Water</th>
-					<th class="up1">Light</th><th class="up1">Dark</th>
-					<th class="up2">Poison</th><th class="up2">Blind</th><th class="up2">Sleep</th><th class="up2">Silence</th>
-					<th class="up2">Paralyse</th><th class="up2">Confusion</th><th class="up2">Petrify</th><th class="up2">Toad</th>
-					<th class="up2">Charm</th><th class="up2">Slow</th><th class="up2">Stop</th><th class="up2">Immobilize</th>
-					<th class="up2">Disable</th><th class="up2">Berserk</th><th class="up2">Doom</th>
+					<th>TP</th>
+					<th>HP</th>
+					<th>Timing</th>
+					<th>Damage<br/>type</th>
+					<th>Attack<br/>type</th>
+					<th>Main<br/>stat</th>
+					<th>Sub<br/>stats</th>
+					<th>Range</th>
+					<th>Effect<br/>range</th>
+					<th>Stats<br/>power</th>
 				</tr>
 			</thead>
 			<tbody>
