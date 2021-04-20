@@ -9,32 +9,26 @@ body {
 	text-align: center;
 }
 
-.up1 {
-	writing-mode: vertical-lr;
-	padding-left: 0px !important;
-}
-
-.up2 {
-	writing-mode: vertical-lr;
-	font-size: 95%;
-	letter-spacing: 0px;
-	padding-left: 0px !important;
+.break_ok {
+	word-break: normal;
 }
 
 input[type=text] {
-	width: 60%;
-	writing-mode: horizontal-tb;
+	width: 80%;
 }
 
-
 table.dataTable thead th, table.dataTable thead td {
-	padding: 6px 4px;
+	padding: 8px 6px;
 }
 
 table.dataTable tbody th, table.dataTable tbody td {
-	padding: 6px 4px;
+	padding: 8px 6px;
 }
 
+table.dataTable {
+	width: auto;
+	white-space: nowrap;
+}	
 /*
 * Move global search to the left
 */

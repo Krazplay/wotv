@@ -1,15 +1,24 @@
 <!DocType html>
     <head><meta charset="UTF-8">
-		<title>WotV Tables Index</title>
+		<title>WotV Data Tables Index</title>
 	</head>
 	
 	<body>
-		<h1>WotV Tables Index</h1>
-		<br />
-		<div>
-			Github project page: <a href="https://github.com/krazplay/wotv">https://github.com/krazplay/wotv</a>
-		</div>
+		<h1>WotV Data Tables</h1>
+		<p>
+			Github project page: <a href="https://github.com/krazplay/wotv">https://github.com/krazplay/wotv</a><br/>
+			The tables are created using javascript, <a href="https://datatables.net">DataTables</a>, and the datamine from <a href="https://github.com/shalzuth/wotv-ffbe-dump">shalzuth's Github</a>.
+		</p>
+		<p>
+			You can temporarily move columns by drag and dropping their name (the first header), you can also move rows if you drag and drop the first cell of the row (there is a lag but it's working)<br/>
+			I've made many changes and has only applied a quick fix to old tables, they'll be reworked soon.<br/>
+			Added a link to the not yet written Crafting guide, but the simulator is there, still lack a few features but it's working.
+		</p>
+		<p><font size="+2"><a href="./crafting.html">> Crafting guide and simulator</a></font></p>
 		<br/><br/>
+			<p><strong>Complete playable characters stats</strong> (L99 and L120 Base stats, Board stats, Master skill, Total stats)</p>
+			<p>Global : <a href="./characters_stats.html?hidecol=2">Full version</a> - <a href="./characters_stats.html?hidecol=2,6,8,9,55">Light version</a> - <a href="./characters_stats.html?filter1=total&amp;hidecol=2,6,8,9,55">Light only total stats</a></p>
+			<p>Japan : <a href="./characters_stats.html?file=jp&amp;hidecol=2">Full version</a> - <a href="./characters_stats.html?file=jp&amp;hidecol=2,6,8,9,55">Light version</a> - <a href="./characters_stats.html?file=jp&amp;filter1=total&amp;hidecol=2,6,8,9,55">Light only total stats</a></p>
 		<div>
 			<a href="./adventure.html">Chocobo Expeditions (GL)</a> / <a href="./adventure.html?file=jp">Chocobo Expeditions (JP)</a>
 		</div>
@@ -37,7 +46,6 @@
 			<a href="./buff.html">Buff table (GL)</a> / <a href="./buff.html?file=jp">Buff table (JP)</a><br/>
 			<a href="./skill.html">Skill table (GL)</a> / <a href="./skill.html?file=jp">Skill table (JP)</a><br/>
 			<a href="./unit.html?hidecol=0">All units level stats (no job) table (GL)</a> / <a href="./unit.html?file=jp&hidecol=0">table (JP)</a><br/>
-			<a href="./unit_wjobs.html?hidecol=2">All units level stats (max jobs + board not yet passives) table (GL)</a> / <a href="./unit_wjobs.html?file=jp&hidecol=2">table (JP)</a><br/>
 			<a href="./skill_charac.html">Skills per character (GL)</a> / <a href="./skill_charac.html?file=jp">Skills per character (JP)</a><br/>
 		</div>
 		<div>
@@ -50,11 +58,8 @@
 		<br/>
 		<div>
 			<b>Updates / changes</b><br/>
-			#todo : need to add a button to filter only the best version of an esper, vc, or unit<br/>
-			*Vision cards -at least global- should be ok now<br/>
 			URL params allow you to prefill filters, URL with the current visibility/filters is shown at the top of the page<br/>
-			Buff effects mostly ok. Skills still todo<br/>
-			A delay has been added when typing into the filtering inputs (to prevent freezing after each letter)<br/>
+			Buff effects ok. I have still not worked on skills.<br/>
 		</div>
 	</body>
 </html>

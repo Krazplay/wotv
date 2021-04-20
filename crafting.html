@@ -1,0 +1,704 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+	
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+		<script type="text/javascript" src="kraz-wotv.js"></script>
+		<script type="text/javascript" src="kraz-wotv-parser.js"></script>
+		<script type="text/javascript" src="kraz-wotv-missions.js"></script>
+		
+		<title>WotV Crafting</title>
+		
+		<script>
+			// Check url
+			const queryString = window.location.search;
+			const urlParams = new URLSearchParams(queryString);
+			// if file=jp, use jp file and not global
+			let datadir = '/data/'
+			if (urlParams.get('file') == "jp") { datadir = "/jpdata/" }
+		
+			let promiseList = [];
+			// Download json from shalzuth repository
+			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+			// Data required for this table
+			let files_required = [	'/en/ArtifactName.json',
+									'/en/ItemName.json',
+									'/en/SkillName.json',
+									datadir+'Artifact.json',
+									datadir+'ArtifactRandLot.json',
+									datadir+'Grow.json',
+									datadir+'Skill.json',
+									datadir+'Buff.json',
+									'/en/ArtifactGrow.json'
+								]
+			files_required.forEach(file => {
+				promiseList.push($.getJSON(RAW_GIT_URL + file, function(data){
+					//console.log("Loaded: " + file);
+				}));
+			});
+			promiseList.push( $.when( $.ready ) );
+
+			// All promises are completed
+			Promise.all(promiseList).then(values => {
+				console.log("All promises finished");
+				// values have the same order the promises were pushed in the list
+				artifactName = parse_AnyName(values[0]);
+				itemName = parse_AnyName(values[1]);
+				skillName = parse_AnyName(values[2]);
+				artifact = parse_AnyData(values[3],"iname");
+				artifactRandLot = parse_AnyData(values[4],"iname");
+				grow = parse_AnyData(values[5],"type");
+				skill = parse_AnyData(values[6],"iname");
+				buff = parse_AnyData(values[7],"iname");
+				artifactGrow = parse_AnyName(values[8]);
+				
+				// Add all the missions in the datalist
+				artifactList = document.getElementById('artifact-list');
+				artifact.forEach((item) => {
+					let new_option = document.createElement('option');
+					new_option.value = item["iname"];
+					new_option.text = item["iname"] + " (" + artifactName[item["iname"]] + ")";
+					artifactList.appendChild(new_option);
+				});
+			});
+			
+			function load_data() {
+				iname = $("#artifact-select").val();
+				$("#last_loaded").text( "Last loaded equipment: " + iname + " (" + artifactName[iname] + ")" );
+				let equip = artifact.get(iname);
+				let lot_rtype = artifactRandLot.get(equip.rtype)["lot"][0];
+				
+				let growRadio = ""
+				for (let i=1; lot_rtype["grow"+i]; i++) {
+					let label = artifactGrow[lot_rtype["grow"+i]] ? artifactGrow[lot_rtype["grow"+i]] : lot_rtype["grow"+i];
+					growRadio += '<input type="radio" name="growType" id="grow'+i+'" value="'+lot_rtype["grow"+i]+'">'
+					growRadio += '<label for="grow'+i+'">'+label+'</label>&emsp;&emsp;&emsp;'
+				}
+				$("#grow_radio_box").html(growRadio);
+				// Set level 1 stats in inputs
+				$('#L1_lv').val(1);
+				$('#hammers').val(10);
+				for (const stat of equip_stat_list) {
+					$('#L1_'+stat).val(""); // cleaning
+					$('#Amnt_'+stat).val(""); // cleaning
+					$('#L1_'+stat).val(equip.status[0][stat] != null ? equip.status[0][stat] : "");
+					$('#Amnt_'+stat).val(equip.randa[0][stat] != null ? equip.randa[0][stat] : "");
+				}
+			}
+			
+			$(document).ready(function(){
+				// Picked a grow type, load all the stats
+				$('#grow_radio_box').change(function(){
+					let selected_grow_id = $("input[name='growType']:checked").val();
+					let craft_stats = get_craft_stats(iname, selected_grow_id);
+					// Set stats in inputs
+					$('#Max_lv').val(craft_stats["max"]["lv"]);
+					for (const stat of equip_stat_list) {
+						$('#Max_'+stat).val(""); // cleaning
+						$('#Rate_'+stat).val(""); // cleaning
+						// Max stats
+						$('#Max_'+stat).val(craft_stats["max"][stat] != null ? craft_stats["max"][stat] : "");
+						$('#Max2_'+stat).text(craft_stats["max"][stat] != null ? craft_stats["max"][stat] : "");
+						// Final rate Stat Up
+						$('#Rate_'+stat).val(craft_stats["%"][stat] != null ? craft_stats["%"][stat] : "");
+					}
+				});
+			});
+			
+			function simulate(nb) {
+				let nb_crafts = nb;
+				let stats = {"now":{},"max":{},"%":{},"amnt":{},"bonus":{},"nbseals":{},"prio":{}};
+				// Rate bonus when using a seal
+				let seal_bonus = {"hp":15, "atk":15, "mag":15, "def":3, "mnd":3, "hit":3, "avd":3, "crt":3};
+				// Parse the input table
+				stats["now"]["lv"] = parseInt($('#L1_lv').val(), 10);
+				stats["max"]["lv"] = parseInt($('#Max_lv').val(), 10);
+				stats["now"]["hammers"] = parseInt($('#hammers').val(), 10);
+				for (const stat of equip_stat_list) {
+					stats["now"][stat] = $('#L1_'+stat).val() ? parseInt($('#L1_'+stat).val(), 10): 0;
+					stats["max"][stat] = $('#Max_'+stat).val() ? parseInt($('#Max_'+stat).val(), 10): 0;
+					stats["%"][stat] = $('#Rate_'+stat).val() ? parseInt($('#Rate_'+stat).val(), 10): 0;
+					stats["amnt"][stat] = $('#Amnt_'+stat).val() ? parseInt($('#Amnt_'+stat).val(), 10): 0;
+					stats["bonus"][stat] = $('#Bonus_'+stat).val() ? parseInt($('#Bonus_'+stat).val(), 10): 0;
+					stats["nbseals"][stat] = $('#Seals_'+stat).val() ? parseInt($('#Seals_'+stat).val(), 10): 0;
+					stats["prio"][stat] = $('#Prio_'+stat).val() ? parseInt($('#Prio_'+stat).val(), 10): 0;
+					// Apply bonus
+					stats["%"][stat] += stats["bonus"][stat];
+				}
+				let weight = stats["max"]["hp"] / 15 + (stats["max"]["atk"] + stats["max"]["mag"]) / 3 + stats["max"]["avd"] + stats["max"]["crt"] + stats["max"]["hit"] + stats["max"]["def"] + stats["max"]["mnd"];
+				$('#Max2_weight_stats').text(round(weight,1));
+				
+				// Priority array for seals, ex: ["atk,"def",crt","hp"]
+				let sealorder = [];
+				for (let i=1; i<12; i++) {
+					for (const stat of equip_stat_list) {
+						if (stats["prio"][stat] == i) sealorder.push(stat);
+					}
+				}
+				
+				// Each strategy have their own current stats and number of seals, cloned from stats variable
+				let number_of_strat = 3;
+				// Variables to save the result of each craft
+				let result = []; // sum of stats for the average
+				let maxed = [];  // number of times the stat got maxed
+				let seals_used = []; //
+				for (let i=0; i < number_of_strat; i++) {
+					result[i] = {};
+					maxed[i] = {};
+					for (const stat of equip_stat_list) {
+						result[i][stat] = 0;
+						maxed[i][stat] = 0;
+					}
+					result[i]["hammers"] = 0;
+					seals_used[i] = 0;
+				}
+				// Starting the simulation now
+				for (let i=0; i<nb_crafts; i++) {
+					let strat = [];
+					// Each strategy start the craft with the same stats/seals
+					for (let i=0; i < number_of_strat; i++) {
+						strat[i] = { "now":{}, "nbseals":{} };
+						strat[i]["now"] = Object.assign({}, stats["now"]);
+						strat[i]["nbseals"] = Object.assign({}, stats["nbseals"]);
+						// Easy way to not iterate on useless stats
+						strat[i]["stats_left"] = [];
+						// Indicate if there was a significant change and we must rerun the strategy
+						strat[i]["rework_strat"] = true;
+						strat[i]["stats_left"] = [];
+						for (const stat of equip_stat_list) {
+							if (strat[i]["now"][stat] < stats["max"][stat]) strat[i]["stats_left"].push(stat);
+						}
+						// Will store the 3 seals to use during the level-up
+						strat[i]["use_seals"] = [];
+						// Will store the rate of Stat Up during a level (can change because of seals)
+						strat[i]["%"] = [];
+					}
+					
+					/*
+					*	Strategies can use hammers here
+					*	Strat 2 : Max HP with hammers
+					*/
+					while ( (strat[2]["now"]["hp"] < stats["max"]["hp"]) && (strat[2]["now"]["hammers"] > 0) ) {
+						strat[2]["now"]["hp"] += 15;
+						strat[2]["now"]["hammers"] -= 1;
+						if (strat[2]["now"]["hp"] >= stats["max"]["hp"]) {
+							strat[2]["now"]["hp"] = stats["max"]["hp"];
+							// Remove hp from remaining stats to max
+							let index = strat[2]["stats_left"].findIndex(fruit => fruit === "hp");
+							strat[2]["stats_left"].splice(index,1);
+						}
+					}
+				
+					// Loop on level-up
+					for (let lvl=stats["now"]["lv"]; lvl < stats["max"]["lv"]; lvl++) {
+						// The roll is shared by all strategies
+						let roll = {}
+						for (const stat of equip_stat_list) {
+							roll[stat] = Math.floor(Math.random() * 100); // 0 to 99, 100 excluded
+						}
+						/*
+						*	Strategies must decide to use seals here
+						*	Strat 0 : do nothing
+						*	Strat 1 : use seals as specified in the inputs table
+						*   Strat 2 : use seals as specified in the inputs table
+						*/
+						for (let x of [1,2]) {
+							if (strat[x]["rework_strat"]) {
+								strat[x]["rework_strat"] = false;
+								strat[x]["use_seals"] = []; // re init, situation has changed
+								for (let i=0; i < sealorder.length; i++) {
+									let stat = sealorder[i];
+									// Must have seals for the stat and not a maxed stats
+									if ( (strat[x]["nbseals"][stat] > 0) && strat[x]["stats_left"].includes(stat)) {
+										strat[x]["use_seals"].push(stat);
+										// Can't have more than 3 seals at once
+										if (strat[x]["use_seals"].length >= 3) break;
+									}
+								}
+							}
+						}
+						
+						// Applying the effect of level-up
+						for (let sid=0; sid < number_of_strat; sid++) {
+							// Pity is true until we get a stat Up
+							let pity = true;
+							let seals_allowed = 3;
+							for (const stat of strat[sid]["stats_left"]) {
+								// Store normal rate, we may change it with a seal
+								strat[sid]["%"][stat] = stats["%"][stat];
+								// Need at least to have a seal and be able to use it
+								if (strat[sid]["nbseals"][stat] > 0 && seals_allowed > 0) {
+									// It's intended to be used by strategy
+									if (strat[sid]["use_seals"].includes(stat)) {
+										strat[sid]["%"][stat] += seal_bonus[stat];
+										seals_allowed -= 1;
+										strat[sid]["nbseals"][stat] -= 1;
+										// No more seal for this stat, rework strat
+										if (strat[sid]["nbseals"][stat] == 0) strat[sid]["rework_strat"] = true;
+									}
+								}
+								
+								// If the stat is not maxed yet
+								if (strat[sid]["now"][stat] < stats["max"][stat]) {
+									// And we roll a Stat Up
+									if (roll[stat] < strat[sid]["%"][stat]) {
+										// No pity for this level we got a Stat Up
+										pity = false;
+										// We getn a stat increase of Amount
+										strat[sid]["now"][stat] += stats["amnt"][stat];
+										// We can't get beyond max stats
+										if (strat[sid]["now"][stat] >= stats["max"][stat]) {
+											strat[sid]["now"][stat] = stats["max"][stat];
+											let index = strat[sid]["stats_left"].findIndex(fruit => fruit === stat);
+											if (index == -1) Console.log("Error 001");
+											strat[sid]["stats_left"].splice(index,1);
+											strat[sid]["rework_strat"] = true;
+										}
+									}
+								}
+							}
+							// Pity still true, we failed all rolls
+							if (pity == true) {
+								// Find pity stat
+								let pity_stat = null;
+								let highest_rate = -1;
+								for (const stat of strat[sid]["stats_left"]) {
+									if (strat[sid]["%"][stat] > highest_rate) {
+										highest_rate = strat[sid]["%"][stat];
+										pity_stat = stat;
+									}
+								}
+								// Increment the pity stat
+								strat[sid]["now"][pity_stat] += 1;
+								// If we reach the max, remove pity_stat from stats_left
+								if (strat[sid]["now"][pity_stat] >= stats["max"][pity_stat]) {
+									let index = strat[sid]["stats_left"].findIndex(fruit => fruit === pity_stat);
+									if (index == -1) Console.log("Error 002");
+									strat[sid]["stats_left"].splice(index,1);
+									strat[sid]["rework_strat"] = true;
+								}
+							}
+						}
+					}
+					
+					// The craft is finished, save the result for each strategy
+					for (let sid=0; sid < number_of_strat; sid++) {
+						for (const stat of equip_stat_list) {
+							result[sid][stat] += strat[sid]["now"][stat]; // stats sum
+							seals_used[sid] += stats["nbseals"][stat] - strat[sid]["nbseals"][stat]; // seals used sum
+							if ( strat[sid]["now"][stat] == stats["max"][stat] ) maxed[sid][stat] += 1; // if stat is maxed increase counter
+						}
+						result[sid]["hammers"] += strat[sid]["now"]["hammers"];
+					}
+				}
+				// Simulation finished
+				for (let sid=0; sid < number_of_strat; sid++) {
+					for (const stat of equip_stat_list) {
+						if (stats["now"][stat] != stats["max"][stat]) {
+							let val = round(result[sid][stat] / nb_crafts, 2);
+							$('#strat'+sid+'_'+stat).text(val);
+							let maxedrate = round(maxed[sid][stat] * 100 / nb_crafts, 1);
+							$('#strat'+sid+'_maxedrate_'+stat).text(maxedrate+'%');
+						}
+						else {
+							$('#strat'+sid+'_'+stat).text("");
+							$('#strat'+sid+'_maxedrate_'+stat).text("");
+						}
+					}
+					let val = round(result[sid]["hammers"] / nb_crafts, 2);
+					$('#strat'+sid+'_hammers').text(val);
+					// Calculating total weight of stats
+					let weight = result[sid]["hp"] / 15 + (result[sid]["atk"] + result[sid]["mag"]) / 3 + result[sid]["avd"] + result[sid]["crt"] + result[sid]["hit"] + result[sid]["def"] + result[sid]["mnd"];
+					weight = round(weight / nb_crafts, 1);
+					$('#strat'+sid+'_weight').text(weight);
+					
+					let averageSeals = round(seals_used[sid] / nb_crafts, 2);
+					$('#strat'+sid+'_seals').text(averageSeals);
+				}
+			}
+		</script>
+	</head>
+	<style>
+		body {
+			background-color: #FAFAFA;
+		}
+		
+		table, th, td {
+			border-collapse: collapse;
+			border: 1px solid black;
+			text-align: center;
+			min-width: 35px;
+		}
+		
+		input { 
+			text-align: center; 
+		}
+	</style>
+	<body>
+		<span><a href="./index.html">Return to index</a></span>
+		<h1>Crafting guide & simulator</h1>
+		<p>The guide is not yet available, the simulator was intended to show the result of different craft strategies, but can help in crafting as you can modify all the input.</p>
+		<p>
+			- Write something or click to have the list of all equipment, I have not filtered out invalid equipment like TMR.<br/>
+			- Check a radiobox to pick the equipment type, it will auto-fill the input table below.<br/>
+			- You can fill up Bonus % with 15/15/15/3/3/3/3/3 if you have the battle pass, else leave blank, I'll add a button later.<br/>
+			- For <b>seals</b>, you must set up both a number of seals and Seals priority between 1 (highest) and 9 (lowest), <b>0 mean it will NOT use seals be careful !</b><br/>
+			- You can change the input "lvl" in the line Max Stats if you want to stop at a specific level.<br/>
+			<br/>
+			Simulate 10k craft will freeze the browser for a few seconds, don't panic, it's not made to be optimized.<br/>
+			The line with the strategy name shows the average stats reached, like the equipment calculator, the result are more precise.<br/>
+			The line just below (maxed rate) shows how many crafts reached the maximum for this stat.<br/>
+			Weighted stats is the total average stats converted to hammers, aka 15HP for 1 point, 3ATK/MAG for 1 point, 1:1 for others hammer stats.<br/>
+			<br/>
+			>> All strategies are competing <b>with the same random rolls</b> <<<br/>
+			Strategy "No Seals" will never use seals.<br/>
+			Strategy "With Seals" will use 3 seals using the priority order, once he run out of a seal type or if the stat is maxed, it will continue with the next available seal in the priority list.<br/>
+			Strategy "Use HP hammers first" is the same as "With Seals", but will first use hammers on HP. This show how bad this strategy is...<br/>
+			todo very soon: use hammers after craft (useful to show the real probability to max a stat) / pity optimization for low stats equipment.<br/> 
+		</p>
+		Equipment name: <input size="70" type="text" name="artifact-select" id="artifact-select" list="artifact-list">
+		<input type="button" onclick="load_data()" value="Load data" />
+		<datalist id="artifact-list"></datalist><br/>
+		<span id="last_loaded"></span><br/><br/>
+		<form id="grow_radio_box"></form><br/>
+		
+		<table style="border: 1px solid black;">
+			<thead>
+				<tr>
+					<td>-</td>
+					<td>lvl</td>
+					<td>HP</td>
+					<td>TP</td>
+					<td>AP</td>
+					<td>ATK</td>
+					<td>MAG</td>
+					<td>DEF</td>
+					<td>SPR</td>
+					<td>ACC</td>
+					<td>EVA</td>
+					<td>CRIT</td>
+					<td>CrtA</td>
+					<td>DEX</td>
+					<td>AGI</td>
+					<td>LUCK</td>
+					<td>Hammers left</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Current stats</td>
+					<td><input type="text" size="1" id="L1_lv"></input></td>
+					<td><input type="text" size="2" id="L1_hp"></input></td>
+					<td><input type="text" size="1" id="L1_mp"></input></td>
+					<td><input type="text" size="1" id="L1_tp"></input></td>
+					<td><input type="text" size="2" id="L1_atk"></input></td>
+					<td><input type="text" size="2" id="L1_mag"></input></td>
+					<td><input type="text" size="1" id="L1_def"></input></td>
+					<td><input type="text" size="1" id="L1_mnd"></input></td>
+					<td><input type="text" size="1" id="L1_hit"></input></td>
+					<td><input type="text" size="1" id="L1_avd"></input></td>
+					<td><input type="text" size="1" id="L1_crt"></input></td>
+					<td><input type="text" size="1" id="L1_crta"></input></td>
+					<td><input type="text" size="1" id="L1_dex"></input></td>
+					<td><input type="text" size="1" id="L1_spd"></input></td>
+					<td><input type="text" size="1" id="L1_luk"></input></td>
+					<td><input type="text" size="1" id="hammers"></input></td>
+				</tr>
+				<tr>
+					<td>Max stats</td>
+					<td><input type="text" size="1" id="Max_lv"></input></td>
+					<td><input type="text" size="2" id="Max_hp"></input></td>
+					<td><input type="text" size="1" id="Max_mp"></input></td>
+					<td><input type="text" size="1" id="Max_tp"></input></td>
+					<td><input type="text" size="2" id="Max_atk"></input></td>
+					<td><input type="text" size="2" id="Max_mag"></input></td>
+					<td><input type="text" size="1" id="Max_def"></input></td>
+					<td><input type="text" size="1" id="Max_mnd"></input></td>
+					<td><input type="text" size="1" id="Max_hit"></input></td>
+					<td><input type="text" size="1" id="Max_avd"></input></td>
+					<td><input type="text" size="1" id="Max_crt"></input></td>
+					<td><input type="text" size="1" id="Max_crta"></input></td>
+					<td><input type="text" size="1" id="Max_dex"></input></td>
+					<td><input type="text" size="1" id="Max_spd"></input></td>
+					<td><input type="text" size="1" id="Max_luk"></input></td>
+					<td>-</td>
+				</tr>
+				<tr>
+					<td>Stat Up %</td>
+					<td>-</td>
+					<td><input type="text" size="2" id="Rate_hp"></input></td>
+					<td><input type="text" size="1" id="Rate_mp"></input></td>
+					<td><input type="text" size="1" id="Rate_tp"></input></td>
+					<td><input type="text" size="2" id="Rate_atk"></input></td>
+					<td><input type="text" size="2" id="Rate_mag"></input></td>
+					<td><input type="text" size="1" id="Rate_def"></input></td>
+					<td><input type="text" size="1" id="Rate_mnd"></input></td>
+					<td><input type="text" size="1" id="Rate_hit"></input></td>
+					<td><input type="text" size="1" id="Rate_avd"></input></td>
+					<td><input type="text" size="1" id="Rate_crt"></input></td>
+					<td><input type="text" size="1" id="Rate_crta"></input></td>
+					<td><input type="text" size="1" id="Rate_dex"></input></td>
+					<td><input type="text" size="1" id="Rate_spd"></input></td>
+					<td><input type="text" size="1" id="Rate_luk"></input></td>
+					<td>-</td>
+				</tr>
+				<tr>
+					<td>Stat Up Amnt</td>
+					<td>-</td>
+					<td><input type="text" size="2" id="Amnt_hp"></input></td>
+					<td><input type="text" size="1" id="Amnt_mp"></input></td>
+					<td><input type="text" size="1" id="Amnt_tp"></input></td>
+					<td><input type="text" size="2" id="Amnt_atk"></input></td>
+					<td><input type="text" size="2" id="Amnt_mag"></input></td>
+					<td><input type="text" size="1" id="Amnt_def"></input></td>
+					<td><input type="text" size="1" id="Amnt_mnd"></input></td>
+					<td><input type="text" size="1" id="Amnt_hit"></input></td>
+					<td><input type="text" size="1" id="Amnt_avd"></input></td>
+					<td><input type="text" size="1" id="Amnt_crt"></input></td>
+					<td><input type="text" size="1" id="Amnt_crta"></input></td>
+					<td><input type="text" size="1" id="Amnt_dex"></input></td>
+					<td><input type="text" size="1" id="Amnt_spd"></input></td>
+					<td><input type="text" size="1" id="Amnt_luk"></input></td>
+					<td>-</td>
+				</tr>
+				<tr>
+					<td>Bonus %</td>
+					<td>-</td>
+					<td><input type="text" size="2" id="Bonus_hp"></input></td>
+					<td></td>
+					<td></td>
+					<td><input type="text" size="2" id="Bonus_atk"></input></td>
+					<td><input type="text" size="2" id="Bonus_mag"></input></td>
+					<td><input type="text" size="1" id="Bonus_def"></input></td>
+					<td><input type="text" size="1" id="Bonus_mnd"></input></td>
+					<td><input type="text" size="1" id="Bonus_hit"></input></td>
+					<td><input type="text" size="1" id="Bonus_avd"></input></td>
+					<td><input type="text" size="1" id="Bonus_crt"></input></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>-</td>
+				</tr>
+				<tr>
+					<td>Nb of Seals</td>
+					<td>-</td>
+					<td><input type="text" size="2" id="Seals_hp"></input></td>
+					<td></td>
+					<td></td>
+					<td><input type="text" size="2" id="Seals_atk"></input></td>
+					<td><input type="text" size="2" id="Seals_mag"></input></td>
+					<td><input type="text" size="1" id="Seals_def"></input></td>
+					<td><input type="text" size="1" id="Seals_mnd"></input></td>
+					<td><input type="text" size="1" id="Seals_hit"></input></td>
+					<td><input type="text" size="1" id="Seals_avd"></input></td>
+					<td><input type="text" size="1" id="Seals_crt"></input></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>-</td>
+				</tr>
+				<tr>
+					<td>Seals priority</td>
+					<td>-</td>
+					<td><input type="text" size="2" id="Prio_hp" value="0"></input></td>
+					<td></td>
+					<td></td>
+					<td><input type="text" size="2" id="Prio_atk" value="0"></input></td>
+					<td><input type="text" size="2" id="Prio_mag" value="0"></input></td>
+					<td><input type="text" size="1" id="Prio_def" value="0"></input></td>
+					<td><input type="text" size="1" id="Prio_mnd" value="0"></input></td>
+					<td><input type="text" size="1" id="Prio_hit" value="0"></input></td>
+					<td><input type="text" size="1" id="Prio_avd" value="0"></input></td>
+					<td><input type="text" size="1" id="Prio_crt" value="0"></input></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>-</td>
+				</tr>
+			</tbody>
+		</table>
+
+		<br/>
+		<input type="button" onclick="simulate(1)" value="Simulate 1 crafts" />
+		<input type="button" onclick="simulate(1000)" value="Simulate 1k crafts" />
+		<input type="button" onclick="simulate(10000)" value="Simulate 10k crafts" />
+		<span id="calculating"></span><br/><br/>
+		<table>
+			<thead>
+				<tr>
+					<td>-</td>
+					<td>lvl</td>
+					<td>HP</td>
+					<td>TP</td>
+					<td>AP</td>
+					<td>ATK</td>
+					<td>MAG</td>
+					<td>DEF</td>
+					<td>SPR</td>
+					<td>ACC</td>
+					<td>EVA</td>
+					<td>CRIT</td>
+					<td>CrtA</td>
+					<td>DEX</td>
+					<td>AGI</td>
+					<td>LUCK</td>
+					<td>Hammers left</td>
+					<td>Weighted stats</td>
+					<td>Seals used</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Max stats</td>
+					<td id="Max2_lv"></td>
+					<td id="Max2_hp"></td>
+					<td id="Max2_mp"></td>
+					<td id="Max2_tp"></td>
+					<td id="Max2_atk"></td>
+					<td id="Max2_mag"></td>
+					<td id="Max2_def"></td>
+					<td id="Max2_mnd"></td>
+					<td id="Max2_hit"></td>
+					<td id="Max2_avd"></td>
+					<td id="Max2_crt"></td>
+					<td id="Max2_crta"></td>
+					<td id="Max2_dex"></td>
+					<td id="Max2_spd"></td>
+					<td id="Max2_luk"></td>
+					<td>-</td>
+					<td id="Max2_weight_stats"></td>
+					
+				</tr>
+				<tr style="background-color: #ffebe6;" >
+					<td>No Seals</td>
+					<td id="strat0_lv"></td>
+					<td id="strat0_hp"></td>
+					<td id="strat0_mp"></td>
+					<td id="strat0_tp"></td>
+					<td id="strat0_atk"></td>
+					<td id="strat0_mag"></td>
+					<td id="strat0_def"></td>
+					<td id="strat0_mnd"></td>
+					<td id="strat0_hit"></td>
+					<td id="strat0_avd"></td>
+					<td id="strat0_crt"></td>
+					<td id="strat0_crta"></td>
+					<td id="strat0_dex"></td>
+					<td id="strat0_spd"></td>
+					<td id="strat0_luk"></td>
+					<td id="strat0_hammers"></td>
+					<td id="strat0_weight"></td>
+					<td id="strat0_seals"></td>
+				</tr>
+				<tr style="background-color: #ffebe6; font-size: smaller;" >
+					<td>(maxed rate)</td>
+					<td></td>
+					<td id="strat0_maxedrate_hp"></td>
+					<td id="strat0_maxedrate_mp"></td>
+					<td id="strat0_maxedrate_tp"></td>
+					<td id="strat0_maxedrate_atk"></td>
+					<td id="strat0_maxedrate_mag"></td>
+					<td id="strat0_maxedrate_def"></td>
+					<td id="strat0_maxedrate_mnd"></td>
+					<td id="strat0_maxedrate_hit"></td>
+					<td id="strat0_maxedrate_avd"></td>
+					<td id="strat0_maxedrate_crt"></td>
+					<td id="strat0_maxedrate_crta"></td>
+					<td id="strat0_maxedrate_dex"></td>
+					<td id="strat0_maxedrate_spd"></td>
+					<td id="strat0_maxedrate_luk"></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #ebfaeb;" >
+					<td>With Seals</td>
+					<td id="strat1_lv"></td>
+					<td id="strat1_hp"></td>
+					<td id="strat1_mp"></td>
+					<td id="strat1_tp"></td>
+					<td id="strat1_atk"></td>
+					<td id="strat1_mag"></td>
+					<td id="strat1_def"></td>
+					<td id="strat1_mnd"></td>
+					<td id="strat1_hit"></td>
+					<td id="strat1_avd"></td>
+					<td id="strat1_crt"></td>
+					<td id="strat1_crta"></td>
+					<td id="strat1_dex"></td>
+					<td id="strat1_spd"></td>
+					<td id="strat1_luk"></td>
+					<td id="strat1_hammers"></td>
+					<td id="strat1_weight"></td>
+					<td id="strat1_seals"></td>
+				</tr>
+				<tr style="background-color: #ebfaeb; font-size: smaller;" >
+					<td>(maxed rate)</td>
+					<td></td>
+					<td id="strat1_maxedrate_hp"></td>
+					<td id="strat1_maxedrate_mp"></td>
+					<td id="strat1_maxedrate_tp"></td>
+					<td id="strat1_maxedrate_atk"></td>
+					<td id="strat1_maxedrate_mag"></td>
+					<td id="strat1_maxedrate_def"></td>
+					<td id="strat1_maxedrate_mnd"></td>
+					<td id="strat1_maxedrate_hit"></td>
+					<td id="strat1_maxedrate_avd"></td>
+					<td id="strat1_maxedrate_crt"></td>
+					<td id="strat1_maxedrate_crta"></td>
+					<td id="strat1_maxedrate_dex"></td>
+					<td id="strat1_maxedrate_spd"></td>
+					<td id="strat1_maxedrate_luk"></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #e6f2ff;" >
+					<td>Use HP hammers first</td>
+					<td id="strat2_lv"></td>
+					<td id="strat2_hp"></td>
+					<td id="strat2_mp"></td>
+					<td id="strat2_tp"></td>
+					<td id="strat2_atk"></td>
+					<td id="strat2_mag"></td>
+					<td id="strat2_def"></td>
+					<td id="strat2_mnd"></td>
+					<td id="strat2_hit"></td>
+					<td id="strat2_avd"></td>
+					<td id="strat2_crt"></td>
+					<td id="strat2_crta"></td>
+					<td id="strat2_dex"></td>
+					<td id="strat2_spd"></td>
+					<td id="strat2_luk"></td>
+					<td id="strat2_hammers"></td>
+					<td id="strat2_weight"></td>
+					<td id="strat2_seals"></td>
+				</tr>
+				<tr style="background-color: #e6f2ff; font-size: smaller;" >
+					<td>(maxed rate)</td>
+					<td></td>
+					<td id="strat2_maxedrate_hp"></td>
+					<td id="strat2_maxedrate_mp"></td>
+					<td id="strat2_maxedrate_tp"></td>
+					<td id="strat2_maxedrate_atk"></td>
+					<td id="strat2_maxedrate_mag"></td>
+					<td id="strat2_maxedrate_def"></td>
+					<td id="strat2_maxedrate_mnd"></td>
+					<td id="strat2_maxedrate_hit"></td>
+					<td id="strat2_maxedrate_avd"></td>
+					<td id="strat2_maxedrate_crt"></td>
+					<td id="strat2_maxedrate_crta"></td>
+					<td id="strat2_maxedrate_dex"></td>
+					<td id="strat2_maxedrate_spd"></td>
+					<td id="strat2_maxedrate_luk"></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>

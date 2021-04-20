@@ -1,0 +1,201 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+	
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.css"/>
+ 
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.js"></script>
+	
+		<link rel="stylesheet" type="text/css" href="wotv_tables.css"/>
+		
+		
+		<script type="text/javascript" src="kraz-wotv.js"></script>
+		<script type="text/javascript" src="kraz-wotv-tables.js"></script>
+		<script type="text/javascript" src="kraz-wotv-parser.js"></script>
+		
+		<title>WotV Playable characters Table</title>
+		
+		<script>
+			handle_url_params(); // Handle hidecol url parameter
+			let promiseList = [];
+			// Download json from shalzuth repository at date timestamp
+			let timestamp = (new Date()).getTime();
+			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+			// Data required for this table
+			let files_required = [	'/en/UnitName.json',
+									datadir+'Unit.json',
+									datadir+'Job.json',
+									datadir+'UnitAbilityBoard.json',
+									datadir+'Buff.json',
+									datadir+'Skill.json',
+									'/en/JobName.json',
+									'/en/BirthTitle.json'
+								]
+			files_required.forEach(file => {
+				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
+					console.log("Loaded: " + file);
+				}));
+			});
+
+			// All promises are completed
+			Promise.all(promiseList).then(values => {
+				console.log("All promises finished");
+				// values have the same order the promises were pushed in the list
+				unitName = parse_AnyName(values[0]);
+				unit = parse_AnyData(values[1],"iname");
+				job = parse_AnyData(values[2],"iname");
+				unitAbilityBoard = parse_AnyData(values[3],"iname");
+				buff = parse_AnyData(values[4],"iname");
+				skill = parse_AnyData(values[5],"iname");
+				jobName = parse_AnyName(values[6]);
+				birthTitle = parse_BirthTitle(values[7]);
+				// data for the datatable
+				data_table = get_datatable_Characters_stats();
+				// The data is ready, show the datatable
+				create_datatable();
+				
+				// Setup - clone the thead of the table, will be used for individual filter input
+				// Must do it here or else there's a width issue and scrolling appear
+				$('#myTable thead tr').clone(true).appendTo( '#myTable thead' );
+				$('#myTable thead tr:eq(1) th').each( function (i) {
+					$(this).css("background-image", "none");
+					$(this).off();
+					$(this).html( '<input type="text" placeholder="Filter..." />' );
+					// Need to use $(this).parent().index() and not i, columns can be reordered
+					$( 'input', this ).on( 'keyup change', delay(function () {
+						table
+							.column( $(this).parent().index()+':visible' )
+							.search( this.value )
+							.draw();
+						refresh_url();
+					}, 700));
+				});
+				
+				prefill_filters_via_url();
+				attach_functions_on_events();
+			});
+			
+			// Create the datatable, must be called after getting the data
+			function create_datatable() {
+				console.log("DataTable Go !");
+				table = $('#myTable').DataTable( {
+					"data": data_table,
+					"order": [], // no sorting at init
+					paging: false,
+					dom: 'B<"clear">lPfritp',
+					buttons: [ 'copy', 'csv', 'excel', 'colvis',
+						{
+							extend: 'columnVisibility',
+							text: 'Show all',
+							visibility: true
+						},
+						{
+							extend: 'columnVisibility',
+							text: 'Hide all',
+							visibility: false
+						}],
+					orderCellsTop: true,
+					fixedHeader: {
+						header: true,
+						footer: false
+					},
+					colReorder: true,
+					rowReorder: true,
+					rowReorder: { dataSrc: 'line_id' },
+					autoWidth: false,
+					columnDefs: [
+						{ visible: false, targets: 0 },
+						{ visible: false, targets: array_hidecol },
+						{ targets: '_all', className: "centertext" }
+					],
+					"columns": [
+						{ "data": "line_id" },
+						{ "data": "stat_origin" },
+						{ "data": "iname" },
+						{ "data": "name" },
+						{ "data": "sex" },
+						{ "data": "rare" },{ "data": "cost" },
+						{ "data": "elem" },{ "data": "birth", className: "centertext break_ok" },
+						{ "data": "jobs" },
+						{ "data": "lvl" },
+						{ "data": "hp" },{ "data": "mp" },{ "data": "ap" },
+						{ "data": "atk" },{ "data": "mag" },{ "data": "spd" },{ "data": "dex" },{ "data": "luk" },
+						{ "data": "def" },{ "data": "mnd" },
+						{ "data": "hit" },{ "data": "avd" },
+						{ "data": "crt" },{ "data": "crta" },{ "data": "crtd" },
+						{ "data": "hit_stat" },{ "data": "avd_stat" },
+						{ "data": "iniap" },
+						{ "data": "dmax" },
+						{ "data": "mov" },{ "data": "jmp" },{ "data": "range" },
+						{ "data": "hate" },
+						{ "data": "skill_ct" }, { "data": "activ_time" },
+						{ "data": "acquired_ap" },
+						{ "data": "healpow" },
+						
+						{ "data": "apcostreduc" },
+						{ "data": "kill" },
+						{ "data": "defpen" },{ "data": "sprpen" },
+						{ "data": "slashrespen" },{ "data": "magicrespen" },
+						
+						{ "data": "asl" },{ "data": "api" },{ "data": "abl" },{ "data": "ash" },{ "data": "ama" },
+						{ "data": "unit_res" },{ "data": "aoe_res" },
+						
+						{ "data": "type_atk" },
+						{ "data": "element_atk" },
+						{ "data": "status_atk" },
+						{ "data": "element_res" },
+						{ "data": "status_res" },
+						{ "data": "party_buffs" }
+					]
+				});
+			}
+		</script>
+	</head>
+	<body>
+		<span>Playable characters stats - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
+		<br/><br/>
+		<table id="myTable" class="display">
+			<thead>
+				<tr>
+					<th>-</th>
+					<th>Stats</th>
+					<th>iname</th>
+					<th>Name</th>
+					<th>Sex</th>
+					<th>Rare</th><th>Cost</th>
+					<th>Elem</th><th>Birth</th>
+					<th>Jobs</th>
+					<th>Lvl</th>
+					<th>HP</th><th>TP</th><th>AP</th>
+					<th>Atk</th><th>Mag</th><th>Agi</th><th>Dex</th><th>Luk</th>
+					<th>Def</th><th>Spr</th>
+					<th>Acc</th><th>Eva</th>
+					<th>Crit</th><th>Crit<br/>Eva</th><th>Crit<br/>Dmg</th>
+					<th>Total<br/>Hit</th><th>Total<br/>Eva</th>
+					<th>IniAP</th>
+					<th>Max<br/>Dam</th>
+					<th>Mov</th><th>Jmp</th><th>Range</th>
+					<th>Hate</th><th>Skill<br/>CT Req</th><th>Activation<br/>CT Req</th><th>Acqu<br/>AP</th>
+					<th>Heal<br/>Pow</th>
+					<th>APcost<br/>Reduc</th>
+					<th>Killer</th>
+					<th>Def<br/>Pen</th><th>Spr<br/>Pen</th>
+					<th>Slash<br/>ResPen</th><th>Magic<br/>ResPen</th>
+					<th>Res<br/>Slash</th><th>Res<br/>Pierce</th><th>Res<br/>Strike</th><th>Res<br/>Missile</th><th>Res<br/>Magic</th>
+					<th>Unit<br/>Res</th><th>AoE<br/>Res</th>
+					<th>Type Attacks</th>
+					<th>Element Attacks</th>
+					<th>Status Attacks</th>
+					<th>Element resistances</th>
+					<th>Status resistances</th>
+					<th>Party buffs</th>
+				</tr>
+			</thead>
+			<tbody>
+			</tbody>
+			<tfoot>
+			</tfoot>
+		</table>
+	</body>
+	
+</html>

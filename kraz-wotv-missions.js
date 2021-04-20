@@ -56,7 +56,7 @@ function extract_mapset_enemies_to_html(map_set_json) {
 			result += "<td>x"+drop["drop_data"]["num"]+"</td>"; // 2nd cell amount of drop
 			result += "<td>"+drop["weight"]+"</td>"; // 3rd cell weight
 			result += "<td>"+round(100*drop["weight"]/drop_table["total_weight"], 3)+"%</td>"; // 4th cell calculated drop rate
-			result += "<td>"+round(number_drop*drop["weight"]/drop_table["total_weight"], 4)+"</td>"; // 5th cell average drop per mission
+			result += "<td>"+round(number_drop*drop["drop_data"]["num"]*drop["weight"]/drop_table["total_weight"], 4)+"</td>"; // 5th cell average drop per mission
 			result += "</tr>"; // end row
 		});
 		result += "</tbody></table>";

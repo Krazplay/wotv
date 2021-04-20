@@ -66,6 +66,7 @@ typetxt[115] = "Evade Magical hit"
 typetxt[117] = "Next hit is Crit"
 typetxt[119] = "" // Element Eater, require a tag
 typetxt[120] = "" // Type Killer, require a tag
+typetxt[121] = "" // Race Killer?, require a tag
 typetxt[122] = "" // Type Killer - Cette version est uniquement sur les 3 Master Ability
 typetxt[123] = "Proc buff" // proc another buff param id1
 typetxt[124] = "CT Up/Down"
@@ -86,6 +87,7 @@ typetxt[180] = "Hate"
 typetxt[181] = "Brave"
 typetxt[182] = "Faith"
 typetxt[183] = "Skill CT Req"
+typetxt[184] = "Activation CT Req"
 typetxt[190] = "Acquired AP"
 typetxt[191] = "Evoc Gauge Boost"
 typetxt[192] = "Brave (temp)"
@@ -102,6 +104,7 @@ typetxt[312] = "Max Damage"
 typetxt[313] = "Evocation" // Evocation magic for esper, no one cares if I remove magic (annoying for filtering)
 typetxt[314] = "Def Penetration"
 typetxt[316] = "AP Cost Reduction"
+typetxt[319] = "Spr Penetration"
 typetxt[321] = "Slash Res Pen"
 typetxt[329] = "Magic Res Pen"
 typetxt[347] = "Healing Power"
@@ -132,7 +135,7 @@ tagtxt[114] = "Metal Killer"
 tagtxt[115] = "Magical Creature? Killer"
 tagtxt[204] = "Fennes Killer"
 
-
+// translate a stat buff effect to its stat name
 var typestat = []
 typestat[1] = "hp"
 typestat[2] = "mp"
@@ -146,15 +149,118 @@ typestat[26] = "spd"
 typestat[27] = "luk"
 typestat[28] = "mov"
 typestat[29] = "jmp"
+// used for resistance, prefix with 'atk' if calc 1
+typestat[42] = "efi"
+typestat[43] = "eic"
+typestat[44] = "ewi"
+typestat[45] = "eea"
+typestat[46] = "eth"
+typestat[47] = "ewa"
+typestat[48] = "esh"
+typestat[49] = "eda"
+// used for resistance, prefix with 'atk' if calc 1
+typestat[61] = "asl"
+typestat[62] = "api"
+typestat[63] = "abl"
+typestat[64] = "ash"
+typestat[65] = "ama"
+// used for resistance, prefix with 'atk' if calc 1
+typestat[84] = "cpo"
+typestat[85] = "cbl"
+typestat[86] = "csl"
+typestat[87] = "cmu"
+typestat[88] = "cpa"
+typestat[89] = "ccf"
+typestat[90] = "cch"
+typestat[91] = "cpe"
+typestat[92] = "cfr"
+typestat[96] = "csw"
+typestat[97] = "cst"
+typestat[99] = "cdm"
+typestat[100] = "cda"
+typestat[101] = "cbe"
+typestat[102] = "cdo"
 
 typestat[151] = "iniap"
 typestat[152] = "range"
+typestat[155] = "hit"
+typestat[156] = "avd"
+typestat[157] = "crtd"
 typestat[158] = "crt"
 typestat[159] = "crta"
+
+typestat[180] = "hate"
+typestat[183] = "skill_ct" //Skill CT Req
+typestat[184] = "activ_time" // "Decrease Activation Time"
+typestat[190] = "acquired_ap" // Acquired AP
 typestat[312] = "dmax" // Max damage
 
 typestat[310] = "unit_res"
 typestat[311] = "aoe_res"
+
+typestat[314] = "defpen" // "Def Penetration"
+typestat[316] = "apcostreduc" // "AP Cost Reduction"
+typestat[319] = "sprpen"
+
+typestat[321] = "slashrespen" // "Slash Res Pen"
+typestat[329] = "magicrespen" // "Magic Res Pen"
+typestat[347] = "healpow" // "Healing Power"
+
+
+// Convert stat string into human text
+var abbr = [];
+
+
+abbr["hp"] = "HP"
+abbr["mp"] = "TP"
+abbr["ap"] = "AP"
+abbr["ct"] = "CT"
+abbr["atk"] = "ATK"
+abbr["def"] = "DEF"
+abbr["mag"] = "MAG"
+abbr["mnd"] = "SPR"
+abbr["dex"] = "DEX"
+abbr["spd"] = "AGI"
+abbr["luk"] = "LUCK"
+
+abbr["asl"] = "Slash"; abbr["api"] = "Pierce"; abbr["abl"] = "Strike"; abbr["ash"] = "Missile"; abbr["ama"] = "Magic"
+
+abbr["ewi"] = "Wind"
+abbr["eth"] = "Thunder"
+abbr["efi"] = "Fire"
+abbr["eic"] = "Ice"
+abbr["esh"] = "Light"
+abbr["eea"] = "Earth"
+abbr["eda"] = "Dark"
+abbr["ewa"] = "Water"
+
+abbr["cpo"] = "Poison"
+abbr["cbl"] = "Blind"
+abbr["csl"] = "Sleep"
+abbr["cmu"] = "Silence"
+abbr["cpa"] = "Paralyse"
+abbr["ccf"] = "Confusion"
+abbr["cpe"] = "Petrify"
+abbr["cfr"] = "Toad"
+abbr["cch"] = "Charm"
+abbr["csw"] = "Slow"
+abbr["cst"] = "Stop"
+abbr["cdm"] = "Immobilize"
+abbr["cda"] = "Disable"
+abbr["cbe"] = "Berserk"
+abbr["cdo"] = "Doom"
+
+// Return human text from stat string 
+function abbrTxt(str) {
+	if (abbr[str]) return abbr[str];
+	if (abbr[str.slice(3)]) return abbr[str.slice(3)]+" Atk ";
+	console.log("Unknown stat abbreviation: "+str);
+	return null;
+}
+
+function condsTxt(cond_nb) {
+	return typetxt[31+Number(cond_nb)]
+}
 
 // require visionCardLimitedCondition
 function vc_cond_to_txt(condition_id) {

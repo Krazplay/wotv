@@ -184,8 +184,8 @@
 						{ "data": "dex" },
 						{ "data": "spd" },
 						{ "data": "luk" },
-						{ "data": "atk_buffs" },{ "data": "elmt_buffs" },{ "data": "stat_buffs" },{ "data": "atk_res_buffs" },
-						{ "data": "skills_txt" },
+						{ "data": "atk_buffs" },{ "data": "elmt_buffs" },{ "data": "stat_buffs" },{ "data": "atk_res_buffs", className: "centertext quickfix2" },
+						{ "data": "skills_txt", className: "centertext quickfix1" },
 						{ "data": "efi" },{ "data": "eic" },{ "data": "ewi" },
 						{ "data": "eea" },{ "data": "eth" },{ "data": "ewa" },
 						{ "data": "esh" },{ "data": "eda" },
@@ -198,6 +198,17 @@
 			}
 		</script>
 	</head>
+	<style>
+		table.dataTable {
+			white-space: normal;
+		}
+		.quickfix1 {
+			min-width: 400px;
+		}
+		.quickfix2 {
+			min-width: 100px;
+		}
+	</style>
 	<body>
 		<span>Espers table - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
 		<br/><br/>
