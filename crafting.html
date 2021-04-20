@@ -110,6 +110,7 @@
 				let stats = {"now":{},"max":{},"%":{},"amnt":{},"bonus":{},"nbseals":{},"prio":{}};
 				// Rate bonus when using a seal
 				let seal_bonus = {"hp":15, "atk":15, "mag":15, "def":3, "mnd":3, "hit":3, "avd":3, "crt":3};
+				let hammer_bonus = {"hp":15, "atk":3, "mag":3, "def":1, "mnd":1, "hit":1, "avd":1, "crt":1};
 				// Parse the input table
 				stats["now"]["lv"] = parseInt($('#L1_lv').val(), 10);
 				stats["max"]["lv"] = parseInt($('#Max_lv').val(), 10);
@@ -137,7 +138,7 @@
 				}
 				
 				// Each strategy have their own current stats and number of seals, cloned from stats variable
-				let number_of_strat = 3;
+				let number_of_strat = 4;
 				// Variables to save the result of each craft
 				let result = []; // sum of stats for the average
 				let maxed = [];  // number of times the stat got maxed
@@ -164,7 +165,6 @@
 						strat[i]["stats_left"] = [];
 						// Indicate if there was a significant change and we must rerun the strategy
 						strat[i]["rework_strat"] = true;
-						strat[i]["stats_left"] = [];
 						for (const stat of equip_stat_list) {
 							if (strat[i]["now"][stat] < stats["max"][stat]) strat[i]["stats_left"].push(stat);
 						}
@@ -201,6 +201,7 @@
 						*	Strat 0 : do nothing
 						*	Strat 1 : use seals as specified in the inputs table
 						*   Strat 2 : use seals as specified in the inputs table
+						*   Strat 3 : don't care, clone strat 1 craft at the end
 						*/
 						for (let x of [1,2]) {
 							if (strat[x]["rework_strat"]) {
@@ -220,6 +221,7 @@
 						
 						// Applying the effect of level-up
 						for (let sid=0; sid < number_of_strat; sid++) {
+							if (sid == 3) continue; // We don't care for strat 3
 							// Pity is true until we get a stat Up
 							let pity = true;
 							let seals_allowed = 3;
@@ -280,6 +282,30 @@
 							}
 						}
 					}
+					
+					/*
+					*	Strategies can clone another strategy result here
+					*   Strat 3 : clone strat 1 result, but use hammers before validating the result
+					*/
+					strat[3]["now"] = Object.assign({}, strat[1]["now"]);
+					strat[3]["nbseals"] = Object.assign({}, strat[1]["nbseals"]);
+					strat[3]["hammers"] = strat[1]["hammers"];
+					// Strat 3 use hammers now
+					for (let i=0; i < sealorder.length; i++) {
+						let stat = sealorder[i];
+						// Must have have an hammer remaining and not a maxed stats
+						if (strat[3]["now"]["hammers"] > 0) {
+							while ( strat[3]["now"][stat] < stats["max"][stat] && strat[3]["now"]["hammers"] > 0) {
+								// use hammers
+								strat[3]["now"][stat] += hammer_bonus[stat];
+								strat[3]["now"]["hammers"] -= 1;
+								if (strat[3]["now"][stat] > stats["max"][stat]) strat[3]["now"][stat] = stats["max"][stat];
+							}
+						}
+						else { break; } // No hammer left, no point to loop anymore
+					}
+					
+					
 					
 					// The craft is finished, save the result for each strategy
 					for (let sid=0; sid < number_of_strat; sid++) {
@@ -353,6 +379,7 @@
 			>> All strategies are competing <b>with the same random rolls</b> <<<br/>
 			Strategy "No Seals" will never use seals.<br/>
 			Strategy "With Seals" will use 3 seals using the priority order, once he run out of a seal type or if the stat is maxed, it will continue with the next available seal in the priority list.<br/>
+			Strategy "+ hammers at the end" is the same as "With Seals", but at the end of each craft, all hammers are used on stats following the Seals priority order.<br/> 
 			Strategy "Use HP hammers first" is the same as "With Seals", but will first use hammers on HP. This show how bad this strategy is...<br/>
 			todo very soon: use hammers after craft (useful to show the real probability to max a stat) / pity optimization for low stats equipment.<br/> 
 		</p>
@@ -656,6 +683,48 @@
 					<td></td>
 					<td></td>
 				</tr>
+				<tr style="background-color: #D2F4D2;" >
+					<td>+ hammers at the end</td>
+					<td id="strat3_lv"></td>
+					<td id="strat3_hp"></td>
+					<td id="strat3_mp"></td>
+					<td id="strat3_tp"></td>
+					<td id="strat3_atk"></td>
+					<td id="strat3_mag"></td>
+					<td id="strat3_def"></td>
+					<td id="strat3_mnd"></td>
+					<td id="strat3_hit"></td>
+					<td id="strat3_avd"></td>
+					<td id="strat3_crt"></td>
+					<td id="strat3_crta"></td>
+					<td id="strat3_dex"></td>
+					<td id="strat3_spd"></td>
+					<td id="strat3_luk"></td>
+					<td id="strat3_hammers"></td>
+					<td id="strat3_weight"></td>
+					<td id="strat3_seals"></td>
+				</tr>
+				<tr style="background-color: #D2F4D2; font-size: smaller;" >
+					<td>(maxed rate)</td>
+					<td></td>
+					<td id="strat3_maxedrate_hp"></td>
+					<td id="strat3_maxedrate_mp"></td>
+					<td id="strat3_maxedrate_tp"></td>
+					<td id="strat3_maxedrate_atk"></td>
+					<td id="strat3_maxedrate_mag"></td>
+					<td id="strat3_maxedrate_def"></td>
+					<td id="strat3_maxedrate_mnd"></td>
+					<td id="strat3_maxedrate_hit"></td>
+					<td id="strat3_maxedrate_avd"></td>
+					<td id="strat3_maxedrate_crt"></td>
+					<td id="strat3_maxedrate_crta"></td>
+					<td id="strat3_maxedrate_dex"></td>
+					<td id="strat3_maxedrate_spd"></td>
+					<td id="3_maxedrate_luk"></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
 				<tr style="background-color: #e6f2ff;" >
 					<td>Use HP hammers first</td>
 					<td id="strat2_lv"></td>
@@ -700,5 +769,8 @@
 				</tr>
 			</tbody>
 		</table>
+		<br/><br/><br/><br/><br/><br/><br/><br/>
+		<br/><br/><br/><br/><br/><br/><br/><br/>
+		<br/><br/><br/><br/><br/><br/><br/><br/>
 	</body>
 </html>
