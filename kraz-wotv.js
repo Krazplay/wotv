@@ -115,53 +115,6 @@ function get_datatable_Adventure() {
 }
 
 /*
-	Require netherBeastAbilityBoard, unit, unitName + get_esper_buffs() + sum_of_buffs_id() + wotv-parse.js
-	Return an array of objects
-*/
-function get_datatable_NetherBeast() {
-	result = [];
-	// If ID is in Esper Ability Board, then in unit file it's an equipable esper
-	for (let [iname, item] of netherBeastAbilityBoard) {
-		let base_esper = unit.get(iname)
-		let max_awk = 1+base_esper.nb_awake_id.length;
-		// One line per awakening + one for base
-		for (let awk_nb = 0; awk_nb < max_awk; awk_nb++) {
-			// Pick the right esper unit depending of the awakening
-			let esper = awk_nb == 0 ? base_esper : unit.get(base_esper.nb_awake_id[awk_nb-1])
-			let line = {};
-			line["iname"] = esper.iname;
-			line["name"] = unitName[esper.iname] ? unitName[esper.iname] : esper.iname;
-			line["awk"] = awk_nb;
-			// Getting all the possible stats, status[1] is the object with max stats
-			stats_list.forEach((stat) => {
-				line[stat] = esper.status[1][stat] ? esper.status[1][stat] : "";
-			});
-			// Element(s) of esper
-			line["elem"] = ""
-			esper.elem.forEach((elemt) => {
-				line["elem"] += typetxt[41+elemt] + ", ";
-			});
-			line["elem"] = line["elem"].slice(0,-2); // remove last ", "		
-			// Get all the buffs of the esper at this awakening
-			let buff_list = get_esper_buffs(iname, awk_nb);
-			// Merge similar buffs, this is now an array of buff objects
-			buff_list = sum_of_buffs_id(buff_list);
-			// Sort array to show most useful buffs first
-			buff_list.sort((a, b) => a.sort_priority - b.sort_priority);
-			// To improve readability I've added columns for specific buffs type
-			line["atk_buffs"] = bufflist_to_txt(buff_list.filter(buff_obj => buff_obj["sort_priority"] == 1));
-			line["elmt_buffs"] = bufflist_to_txt(buff_list.filter(buff_obj => buff_obj["sort_priority"] == 2));
-			line["stat_buffs"] = bufflist_to_txt(buff_list.filter(buff_obj => buff_obj["sort_priority"] == 3));
-			line["atk_res_buffs"] = bufflist_to_txt(buff_list.filter(buff_obj => buff_obj["sort_priority"] == 19));
-			// Translate into a readable text
-			line["skills_txt"] =  bufflist_to_txt(buff_list.filter(buff_obj => buff_obj["sort_priority"] > 3 && buff_obj["sort_priority"] != 19));
-			result.push(line);
-		}
-	}
-	return result;
-}
-
-/*
 	Require netherBeastAbilityBoard, buff
 	Add the SP cost of the panel to the buff (as param sp)
 	Return an array of buff id available to the esper at this awakening level
@@ -239,10 +192,11 @@ function calculate_sort_buff(buff_obj) {
 	if (buff_obj["type1"] >= 61 && buff_obj["type1"] <= 65 && buff_obj["calc1"] != 3) return 1; // Dmg type
 	if (buff_obj["type1"] >= 42 && buff_obj["type1"] <= 60 && buff_obj["calc1"] != 3) return 2; // Elements
 	if (buff_obj["type1"] >= 21 && buff_obj["type1"] <= 26) return 3;  // Stats
-	if (buff_obj["type1"] >= 1 && buff_obj["type1"] <= 4) return 5;  // HP TP AP +%
+	if (buff_obj["type1"] >= 1 && buff_obj["type1"] <= 4) return 14;  // HP TP AP +%
 	if (buff_obj["type1"] == 155) return 7;  // Accuracy
 	if (buff_obj["type1"] == 156) return 9;  // Evade
 	if (buff_obj["type1"] == 158) return 11; // Crit
+	if (buff_obj["type1"] == 157) return 12; // Crit dmg
 	if (buff_obj["type1"] == 159) return 13; // Crit evade
 	if (buff_obj["type1"] == 120 && buff_obj["calc1"] == 30) return 15; // Type killer
 	if (buff_obj["type1"] == 119 && buff_obj["calc1"] == 30) return 17; // Elt eater
@@ -1055,6 +1009,52 @@ function get_unit_stats(unit_iname) {
 	}
 	return rstats;
 }
+
+function get_unit_bonus_stats_wpassives(unit_iname) {
+	rstats = []; // Result, an array of stats hashes [{lv1},{lv99},{lv120}]
+	unit_obj = unit.get(unit_iname);
+	
+	// Must have status, units like chests don't have one
+	if (unit_obj.status) {
+		// Status => [{Lv1}, {Lv99}, {Lv120}]
+		for (let i=0; unit_obj.status[i]; i++) {
+			if (!rstats[i]) rstats[i] =	{};
+			if (!rstats[i]["base"]) rstats[i]["base"] =	{};
+			if (!rstats[i]["total"]) rstats[i]["total"] =	{};
+			rstats[i]["base"]["lvl"] = ["1","99","120"][i];
+			
+		}
+	}
+}
+
+// TODO
+function get_unit_passives(unit_iname, job_level) {
+	let bonuses = { "%":{}, "+":{} };
+	let board = unitAbilityBoard.get(unit_iname);
+	
+	// For each panel
+	board["panels"].forEach((panel) => {
+		// If panel require a job lvl less or equal our parameter and is not a castable skill
+		// Skill for damage max up, we handle it
+		if (panel["need_level"] <= job_level && panel["panel_effect_type"] == 3) {
+			// Look for the skill
+			let skill_obj = skill.get(panel["value"]);
+			if (!skill_obj["t_buffs"] || skill_obj["t_buffs"].length != 1) console.log("Unexpected t_buffs size != 1, panel "+panel["panel_id"]+" skill"+skill_obj.iname+" from "+unit_iname);
+			// Look for the buff id in the panel
+			let buff_id = skill_obj["t_buffs"][0];
+			
+			bonuses = sum_of_bonuses(bonuses, buff_id_to_stat(buff_id));
+		}
+		else if (panel["need_level"] <= job_level && panel["panel_effect_type"] != 1 && panel["panel_effect_type"] != 4) {
+			let new_stats = buff_id_to_stat(panel["value"]);
+			bonuses = sum_of_bonuses(bonuses, new_stats);
+		}
+	});
+	
+	return bonuses;
+}
+
+
 
 // input skill_id
 // ouput array of buffs

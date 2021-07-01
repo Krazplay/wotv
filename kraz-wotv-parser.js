@@ -442,7 +442,7 @@ function effect_to_txt(buff_obj, nb) {
 	}
 	
 	// For esper table only, the sp cost has been added to the buff
-	if (buff_obj["sp"]) output += ` (${buff_obj["sp"]}sp)`;
+	// if (buff_obj["sp"]) output += ` (${buff_obj["sp"]}sp)`; // Removed
 	
 	return output;
 }

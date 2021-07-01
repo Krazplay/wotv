@@ -10,7 +10,7 @@ body {
 }
 
 .break_ok {
-	word-break: normal;
+	white-space: normal;
 }
 
 input[type=text] {

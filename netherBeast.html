@@ -1,34 +1,21 @@
 <!DocType html>
     <head><meta charset="UTF-8">
 	
-		<link rel="stylesheet" type="text/css" href="js/DataTables/datatables.min.css"/>
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.css"/>
+		<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="wotv_tables.css"/>
 		
-		<script src="https://code.jquery.com/jquery-3.6.0.min.js"
-			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
-		<script type="text/javascript" src="js/DataTables/datatables.min.js"></script>
 		<script type="text/javascript" src="kraz-wotv.js"></script>
+		<script type="text/javascript" src="kraz-wotv-tables.js"></script>
 		<script type="text/javascript" src="kraz-wotv-parser.js"></script>
 		
 		<title>WotV Espers Table</title>
 		
 		<script>
-			// Check url
-			const queryString = window.location.search;
-			const urlParams = new URLSearchParams(queryString);
-			// if file=jp, use jp file and not global
-			let datadir = '/data/'
-			if (urlParams.get('file') == "jp") { datadir = "/jpdata/" }
-			// hide columns via url
-			const hidecol = urlParams.get('hidecol')
-			var array_hidecol = [];
-			if (hidecol != null) {
-				array_hidecol = hidecol.split(',').map(x=>+x) // convert to array of integers
-			}
-		
+			handle_url_params(); // Handle hidecol url parameter
 			let promiseList = [];
-			// Download json from shalzuth repository at date timestamp
-			let timestamp = (new Date()).getTime();
+			// Download json from shalzuth repository
 			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
 			// Data required for this table
 			let files_required = [	'/en/UnitName.json',
@@ -38,11 +25,10 @@
 									datadir+'Buff.json'
 								]
 			files_required.forEach(file => {
-				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
+				promiseList.push($.getJSON(RAW_GIT_URL + file, function(data){
 					console.log("Loaded: " + file);
 				}));
 			});
-
 
 			// All promises are completed
 			Promise.all(promiseList).then(values => {
@@ -68,75 +54,21 @@
 					$(this).html( '<input type="text" placeholder="Filter..." />' );
 					// Need to use $(this).parent().index() and not i, columns can be reordered
 					$( 'input', this ).on( 'keyup change', delay(function () {
-						table
-							.column( $(this).parent().index()+':visible' )
-							.search( this.value )
-							.draw();
+						if( $('input[name=regex_search]').is(':checked') ) {
+							table.column( $(this).parent().index()+':visible' )
+								.search( this.value, true, false ).draw(); // value, regex?, smart search?
+						}
+						else {
+							table.column( $(this).parent().index()+':visible' )
+								.search( this.value, false, true ).draw(); // value, regex?, smart search?
+						}
 						refresh_url();
 					}, 700));
 				});
 				
-				// Filter prefilled via url
-				let nb_columns = table.columns().count();
-				for (let i=0; i < nb_columns; i++) {
-					let search_col = urlParams.get('filter'+i);
-					if (search_col != null) {
-						search_col = decodeURIComponent(search_col);
-						table.column(i).search( search_col );
-						// write the url filter in the input field
-						$( "table thead tr:eq(1) th[data-column-index='"+i+"'] input" ).val( search_col );
-					}
-				}
-				table.draw(); // refresh only if an url filter was found maybe
-				
-				// Event fired when a column visibility change
-				$('#myTable').on( 'column-visibility.dt', function ( e, settings, column, state ) {
-					refresh_url();
-				});
+				prefill_filters_via_url();
+				attach_functions_on_events();
 			});
-			
-			// Check columns visibility and input and write the equivalent url in #table_url
-			function refresh_url() {
-				var table = $('#myTable').DataTable();
-				let url_param = "";
-				
-				// Loop as much as there are columns
-				let nb_columns = table.columns().count();
-				for (let i=0; i < nb_columns; i++) {
-					// Try to get the input val
-					let input_val = $( "table thead tr:eq(1) th[data-column-index='"+i+"'] input" ).val();
-					if (input_val != "" && input_val != null) {
-						url_param += (url_param == "") ? "?" : "&";
-						url_param += "filter"+i+"="+encodeURIComponent(input_val);
-					}
-				}
-				
-				// Check all the columns not visible and build an url parameter with them
-				var resultset = table.columns().visible();
-				var list_col = "";
-				for (var i = 0; i < resultset.length; i++) {
-					if (resultset[i] == false) {
-						if (list_col != "") list_col += ",";
-						list_col += i.toString()
-					};
-				}
-				if (list_col != "") {
-					url_param += (url_param == "") ? "?" : "&";
-					url_param += "hidecol="+list_col;
-				}
-				// Write the url in the document now
-				var url_table = window.location.protocol + '//' + window.location.hostname + window.location.pathname;
-				$('#table_url').html(url_table+url_param);
-			};
-
-			// Delay to avoid filtering while the user is still typing
-			function delay(fn, ms) {
-				let timer = 0
-				return function(...args) {
-					clearTimeout(timer);
-					timer = setTimeout(fn.bind(this, ...args), ms || 0);
-				}
-			}
 
 			$(document).ready(function() {
 			});
@@ -159,6 +91,18 @@
 							extend: 'columnVisibility',
 							text: 'Hide all',
 							visibility: false
+						},
+						{
+							text: 'Only max awakening',
+							action: function ( e, dt, node, config ) {
+								if (dt.column(1).search() === '1') {
+									this.text('Only max awakening');
+									dt.column(1).search("").draw(true);
+								} else  {
+									this.text('Show all awakening lvls');
+									dt.column(1).search(1).draw(true);
+								}
+							}
 						}],
 					orderCellsTop: true,
 					fixedHeader: {
@@ -166,14 +110,19 @@
 						footer: false
 					},
 					colReorder: true,
-					autoWidth: true,
+					rowReorder: true,
+					rowReorder: { dataSrc: 'line_id' },
+					autoWidth: false,
 					columnDefs: [
+						{ visible: false, targets: [0,1] },
 						{ visible: false, targets: array_hidecol },
 						{ targets: '_all', className: "centertext" }
 					],
 					"columns": [
+						{ "data": "line_id" },
+						{ "data": "bestv" },
 						{ "data": "iname" },
-						{ "data": "name" },
+						{ "data": "name", className: "centertext quickfix2" },
 						{ "data": "elem" },
 						{ "data": "awk" },
 						{ "data": "hp" },
@@ -185,6 +134,8 @@
 						{ "data": "spd" },
 						{ "data": "luk" },
 						{ "data": "atk_buffs" },{ "data": "elmt_buffs" },{ "data": "stat_buffs" },{ "data": "atk_res_buffs", className: "centertext quickfix2" },
+						{ "data": "hit" },{ "data": "avd" },
+						{ "data": "crt" },{ "data": "crta" },{ "data": "crtd" },
 						{ "data": "skills_txt", className: "centertext quickfix1" },
 						{ "data": "efi" },{ "data": "eic" },{ "data": "ewi" },
 						{ "data": "eea" },{ "data": "eth" },{ "data": "ewa" },
@@ -213,8 +164,12 @@
 		<span>Espers table - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
 		<br/><br/>
 		<table id="myTable" class="display">
+			<input type="checkbox" name="regex_search" id="regex_search"></input>
+			<label for="regex_search">Use regex in column filters instead of smart search (allow things like "Ifrit|Shiva")</label>
 			<thead>
 				<tr>
+					<th>-</th>
+					<th>best</th>
 					<th>iname</th>
 					<th>Name</th>
 					<th>Element</th>
@@ -228,7 +183,8 @@
 					<th>Agi</th>
 					<th>Luk</th>
 					<th>Atk buffs</th><th>Elmt buffs</th><th>Stat buffs</th><th>Atk res buffs</th>
-					<th>Sum of buffs (total sp cost)</th>
+					<th>Acc</th><th>Eva</th><th>Crit</th><th>Crit<br/>Eva</th><th>Crit<br/>Dmg</th>
+					<th>Others buffs</th>
 					<th class="up1">Fire</th><th class="up1">Ice</th><th class="up1">Wind</th>
 					<th class="up1">Earth</th><th class="up1">Thunder</th><th class="up1">Water</th>
 					<th class="up1">Light</th><th class="up1">Dark</th>
