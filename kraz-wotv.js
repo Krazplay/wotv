@@ -86,8 +86,18 @@ function parse_AnyData(data, iname, iname2 = null) {
 function get_datatable_Adventure() {
 	result = [];
 	for (let [key, value] of adventureAreaDropDeck) {
+		// Loop first to get the rate sum of the tables
+		let sum_table_rate = 0;
+		value.drop.forEach((table_params) => {
+			sum_table_rate += table_params.rate;
+		});
 		value.drop.forEach((table_params) => {
 			let table_loot = adventureDropDeckEntity.get(table_params.drop_id);
+			// Loop first to get the rate sum of the rewards in the table
+			let sum_reward_rate = 0;
+			table_loot.rewards.forEach((reward) => {
+				sum_reward_rate += reward.rate;
+			});
 			table_loot.rewards.forEach((reward) => {
 				let line = {};
 				line["area_iname"] = value["area_iname"];
@@ -98,15 +108,18 @@ function get_datatable_Adventure() {
 				line["rate"] = table_params.rate;
 				line["fever_rate"] = table_params.fever_rate;
 				line["fix_rate"] = table_params.fix_rate;
+				line["sum_table_rate"] = sum_table_rate;
 				line["reward_name"] = itemName[reward.iname] ? itemName[reward.iname] : reward.iname;
+				line["reward_raw_rate"] = reward.rate;
+				line["sum_reward_rate"] = sum_reward_rate;
 				//todo Use the bonus value from AdventureUnitBonusSetting, they may change in the future
 				//Bonus S=>1 M=>3 L=>5 XL=>10
-				line["reward_rate"] = ((table_params.rate + 0*table_params.fix_rate) * reward.rate / table_params.rate) / 1000;
-				line["reward_rate_s"] = round( ((table_params.rate + 1*table_params.fix_rate) * reward.rate / table_params.rate) / 1000, 3);
-				line["reward_rate_m"] = round( ((table_params.rate + 3*table_params.fix_rate) * reward.rate / table_params.rate) / 1000, 3);
-				line["reward_rate_l"] = round( ((table_params.rate + 5*table_params.fix_rate) * reward.rate / table_params.rate) / 1000, 3);
-				line["reward_rate_xl"] = round( ((table_params.rate + 10*table_params.fix_rate) * reward.rate / table_params.rate) / 1000, 3);
-				line["reward_rate_fever"] = round( ((table_params.fever_rate) * reward.rate / table_params.rate) / 1000, 3);
+				line["reward_rate"] =   round( ((table_params.rate + 0*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_s"] = round( ((table_params.rate + 1*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_m"] = round( ((table_params.rate + 3*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_l"] = round( ((table_params.rate + 5*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_xl"] = round( ((table_params.rate + 10*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_fever"] = round( ((table_params.fever_rate) * reward.rate / sum_reward_rate) / 1000, 3);
 				result.push(line);
 			});
 		});
