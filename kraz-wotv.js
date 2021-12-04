@@ -32,9 +32,11 @@ function parse_BirthTitle(data) {
 	arrayName[17] = "FINAL FANTASY IV"
 	arrayName[23] = "FINAL FANTASY X"
 	arrayName[27] = "FFXIV: Shadowbringers"
+	arrayName[28] = "FINAL FANTASY XV"
 	arrayName[29] = "FINAL FANTASY TACTICS"
 	arrayName[30] = "Gouga"
 	arrayName[31] = "Nier collab"
+	arrayName[33] = "Tomb Raider"
 	arrayName[54] = "Unaffiliated"
 	return arrayName;
 }
