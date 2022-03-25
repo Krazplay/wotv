@@ -1,0 +1,288 @@
+﻿{
+    "infos": [
+        {
+            "key": "418",
+            "value": "Eh, le type à l'épée, là !"
+        },
+        {
+            "key": "419",
+            "value": "…"
+        },
+        {
+            "key": "420",
+            "value": "J'imagine que tu parles de moi."
+        },
+        {
+            "key": "421",
+            "value": "Ton nom."
+        },
+        {
+            "key": "422",
+            "value": "Mont Leonis. Roi de Leonis."
+        },
+        {
+            "key": "423",
+            "value": "C'est ça. Alors c'est vous que je veux."
+        },
+        {
+            "key": "424",
+            "value": "À la place de Schuzelt, c'est cela ?"
+        },
+        {
+            "key": "425",
+            "value": "Je propose un échange."
+        },
+        {
+            "key": "426",
+            "value": "Je t'écoute."
+        },
+        {
+            "key": "427",
+            "value": "Mont, c'est une mauvaise idée."
+        },
+        {
+            "key": "428",
+            "value": "C'est grâce à toi que les deux armées tiennent ensemble. Si tu n'étais plus là…"
+        },
+        {
+            "key": "429",
+            "value": "Tant pis. C'est notre seul moyen de sauver Schuzelt."
+        },
+        {
+            "key": "430",
+            "value": "Je m'y oppose."
+        },
+        {
+            "key": "431",
+            "value": "Engelbert…"
+        },
+        {
+            "key": "432",
+            "value": "Si sa liberté devait vous coûter la vôtre, Schuzelt en aurait le cœur brisé."
+        },
+        {
+            "key": "433",
+            "value": "Je suis désolé de ne pas avoir de meilleure solution…"
+        },
+        {
+            "key": "434",
+            "value": "Ça suffit ! Ne vous inclinez pas devant moi !"
+        },
+        {
+            "key": "435",
+            "value": "Vous avez consenti à bien assez de sacrifices pour les autres comme cela."
+        },
+        {
+            "key": "436",
+            "value": "…"
+        },
+        {
+            "key": "437",
+            "value": "Peut-être, mais ma décision est prise."
+        },
+        {
+            "key": "438",
+            "value": "Vous ne pouvez pas ignorer ce que vous risquez ! Ils ne vont pas vous laisser en vie…"
+        },
+        {
+            "key": "439",
+            "value": "Je sais ce qu'ils veulent. Et ce n'est pas moi."
+        },
+        {
+            "key": "440",
+            "value": "Quoi d'autre ?"
+        },
+        {
+            "key": "441",
+            "value": "Ranel a parlé d'un échange."
+        },
+        {
+            "key": "442",
+            "value": "Leur cible, c'est l'anneau."
+        },
+        {
+            "key": "443",
+            "value": "Vous leur donneriez l'anneau séculaire en échange de la vie de Schuzelt ?"
+        },
+        {
+            "key": "444",
+            "value": "…"
+        },
+        {
+            "key": "445",
+            "value": "Je t'accompagne."
+        },
+        {
+            "key": "446",
+            "value": "Moi aussi."
+        },
+        {
+            "key": "447",
+            "value": "Non."
+        },
+        {
+            "key": "448",
+            "value": "Mont…"
+        },
+        {
+            "key": "449",
+            "value": "Dans ce cas, prends au moins cela."
+        },
+        {
+            "key": "450",
+            "value": "Mais c'est… l'anneau que je t'ai offert."
+        },
+        {
+            "key": "451",
+            "value": "C'est inutile. Jamais Ranel ne mordra à un hameçon aussi grossier."
+        },
+        {
+            "key": "452",
+            "value": "Ce n'était pas mon intention. Il servira simplement à… te protéger."
+        },
+        {
+            "key": "453",
+            "value": "Me protéger… ?"
+        },
+        {
+            "key": "454",
+            "value": "Si j'ai survécu envers et contre tout jusqu'ici, c'est parce que tu m'as offert cet anneau. Il me redonnait de l'espoir… et du courage."
+        },
+        {
+            "key": "455",
+            "value": "Aussi est-ce pour moi le moment de te le rendre."
+        },
+        {
+            "key": "456",
+            "value": "Je comprends. Merci."
+        },
+        {
+            "key": "457",
+            "value": "…"
+        },
+        {
+            "key": "458",
+            "value": "Engelbert… ?"
+        },
+        {
+            "key": "459",
+            "value": "Je crois qu'il ne supporte plus le poids de sa propre impuissance."
+        },
+        {
+            "key": "460",
+            "value": "Nous ne pouvons rien faire pour te retenir ?"
+        },
+        {
+            "key": "461",
+            "value": "Je serai prudent. Je te le jure."
+        },
+        {
+            "key": "462",
+            "value": "Même si nous ne parvenons pas à un accord, je doute qu'ils fassent plus de mal à Schuzelt qu'ils n'en ont déjà fait."
+        },
+        {
+            "key": "463",
+            "value": "Il est leur dernière monnaie d'échange."
+        },
+        {
+            "key": "464",
+            "value": "…"
+        },
+        {
+            "key": "465",
+            "value": "Et si les choses tournent mal… Mon épée me guidera en lieu sûr."
+        },
+        {
+            "key": "466",
+            "value": "Nous ne pouvons quand même pas te laisser y aller seul."
+        },
+        {
+            "key": "467",
+            "value": "Dans ce cas, Lilyth…"
+        },
+        {
+            "key": "468",
+            "value": "Avec honneur, Sire."
+        },
+        {
+            "key": "469",
+            "value": "J'ai juré il y a bien longtemps d'être votre épée et votre bouclier, Votre Altesse."
+        },
+        {
+            "key": "470",
+            "value": "Je le suis toujours."
+        },
+        {
+            "key": "471",
+            "value": "Merci, Lilyth. Je compte sur toi."
+        },
+        {
+            "key": "472",
+            "value": "Ne vous en faites pas. Je vais vous sortir de là."
+        },
+        {
+            "key": "473",
+            "value": "Alors, vous vous êtes décidés ?"
+        },
+        {
+            "key": "474",
+            "value": "Oui."
+        },
+        {
+            "key": "475",
+            "value": "Alors entrez, je vous prie."
+        },
+        {
+            "key": "476",
+            "value": "Je déclare un cessez-le-feu temporaire."
+        },
+        {
+            "key": "477",
+            "value": "Puis-je compter sur votre honnêteté à l'égard de la libération de Schuzelt ?"
+        },
+        {
+            "key": "478",
+            "value": "Tout dépend de ce que vous avez à offrir."
+        },
+        {
+            "key": "479",
+            "value": "Ça va, on sait très bien ce que vous voulez !"
+        },
+        {
+            "key": "480",
+            "value": "…"
+        },
+        {
+            "key": "481",
+            "value": "Amenez-le devant les portes."
+        },
+        {
+            "key": "482",
+            "value": "Oui, Madame."
+        },
+        {
+            "key": "483",
+            "value": "Vous autres, ne bougez pas."
+        },
+        {
+            "key": "484",
+            "value": "Je vous surveille d'ici."
+        },
+        {
+            "key": "485",
+            "value": "Alors avec qui allons-nous traiter ?"
+        },
+        {
+            "key": "486",
+            "value": "Avec la première division, « Equito »."
+        },
+        {
+            "key": "487",
+            "value": "…"
+        },
+        {
+            "key": "488",
+            "value": "Que personne ne fasse un geste… Restons calmes."
+        }
+    ]
+}

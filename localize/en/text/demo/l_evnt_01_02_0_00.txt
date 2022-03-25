@@ -1,0 +1,572 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Lady Jeume! The next round is mine!"
+        },
+        {
+            "key": "002",
+            "value": "Too slow. Continue to move like that and your foes will always take your back."
+        },
+        {
+            "key": "003",
+            "value": "Urgh...!"
+        },
+        {
+            "key": "004",
+            "value": "Frantically swinging about won't be of much help, either."
+        },
+        {
+            "key": "005",
+            "value": "Attacking without composure will only make you vulnerable...like so."
+        },
+        {
+            "key": "006",
+            "value": "Ah, my sword!"
+        },
+        {
+            "key": "007",
+            "value": "Without a firm grip, you can't expect to keep it in hand. My win again."
+        },
+        {
+            "key": "008",
+            "value": "I should have known, Lady Jeume... It's going to take an eternity before I can hope to beat you."
+        },
+        {
+            "key": "009",
+            "value": "No excuses. We will not have a weakling amongst the Warriors of the Crystals."
+        },
+        {
+            "key": "010",
+            "value": "Gah... I know..."
+        },
+        {
+            "key": "011",
+            "value": "Surely it wouldn't kill you to be a little nicer to him."
+        },
+        {
+            "key": "012",
+            "value": "...Cetia. What are you doing here?"
+        },
+        {
+            "key": "013",
+            "value": "Would you believe me if I said I came to meet the promising new recruit?"
+        },
+        {
+            "key": "014",
+            "value": "All you'll find here is a novice who has yet to land a blow on me. Not even once."
+        },
+        {
+            "key": "015",
+            "value": "You think so? I for one think he has potential. I mean, he's putting up with your grueling training quite admirably, right?"
+        },
+        {
+            "key": "016",
+            "value": "Those who don't give up so easily are all right in my book!"
+        },
+        {
+            "key": "017",
+            "value": "Less whining would be nice, mind you."
+        },
+        {
+            "key": "018",
+            "value": "Nothing in life is impossible, after all!"
+        },
+        {
+            "key": "019",
+            "value": "Talkative as always... And? Why are you really here?"
+        },
+        {
+            "key": "020",
+            "value": "The second Core Crystal. I thought I'd have the new recruit help me find it!"
+        },
+        {
+            "key": "021",
+            "value": "I believe you could retrieve it more aptly on your own. Lucio still requires further training."
+        },
+        {
+            "key": "022",
+            "value": "L-Lady Jeume..."
+        },
+        {
+            "key": "023",
+            "value": "But I'm the one who decides that, not you, Jeume!"
+        },
+        {
+            "key": "024",
+            "value": "Or perhaps you were hoping to keep him all to yourself?"
+        },
+        {
+            "key": "025",
+            "value": "...Fine. If it would keep you from needlessly misconstruing my intentions, he's all yours."
+        },
+        {
+            "key": "026",
+            "value": "I knew you'd come around if we just talked it out, Jeume!"
+        },
+        {
+            "key": "027",
+            "value": "Now... Lucio, was it?"
+        },
+        {
+            "key": "028",
+            "value": "Y-yes. I'm Lucio, the warrior in training."
+        },
+        {
+            "key": "029",
+            "value": "You've got spirit, so I think we'll get along just fine! But let's talk work, Lucio."
+        },
+        {
+            "key": "030",
+            "value": "You and I are going to find the second Core Crystal!"
+        },
+        {
+            "key": "031",
+            "value": "Let's get going!"
+        },
+        {
+            "key": "032",
+            "value": "N-now!? Could I maybe have a break first...?"
+        },
+        {
+            "key": "033",
+            "value": "You'll be fine! Mind over body—just push through it!"
+        },
+        {
+            "key": "034",
+            "value": "We're off, Lucio! To the continent of Ardra!"
+        },
+        {
+            "key": "035",
+            "value": "Don't I get a say in this!? H-hey!"
+        },
+        {
+            "key": "036",
+            "value": "Lake as far as the eye can see, and not a way to cross it..."
+        },
+        {
+            "key": "037",
+            "value": "*Sigh* Will we ever reach Ovis?"
+        },
+        {
+            "key": "038",
+            "value": "And to think that I, Lord Camillo, am all but ready to gallantly come to the rescue."
+        },
+        {
+            "key": "039",
+            "value": "...Heavens, their poor hearts are likely not prepared to resist this kind of chivalry."
+        },
+        {
+            "key": "040",
+            "value": "Forgive me, unmet beauties! I only have eyes for Machérie..."
+        },
+        {
+            "key": "041",
+            "value": "You want to get to Ovis as soon as possible too, right?"
+        },
+        {
+            "key": "042",
+            "value": "......"
+        },
+        {
+            "key": "043",
+            "value": "Elsirelle?"
+        },
+        {
+            "key": "044",
+            "value": "Zzzzzz..."
+        },
+        {
+            "key": "045",
+            "value": "Sleeping again!? It must be nice, living life without a care like that..."
+        },
+        {
+            "key": "046",
+            "value": "*Yawn* ...There are no monsters here, so my senses lulled a bit. Were you saying something just now?"
+        },
+        {
+            "key": "047",
+            "value": "Yes, about how we're going to save Ovis and turn Machérie's affections in my direction."
+        },
+        {
+            "key": "048",
+            "value": "So same old, same old. I regret waking up just for that."
+        },
+        {
+            "key": "049",
+            "value": "Are you always so grumpy when you first wake—hm?"
+        },
+        {
+            "key": "050",
+            "value": "What is it? Are you getting sleepy, too?"
+        },
+        {
+            "key": "051",
+            "value": "That problem only applies to you. Anyway, there's something odd on the ground over there."
+        },
+        {
+            "key": "052",
+            "value": "Whoa...look at the size of it. I've never seen a crystal so huge."
+        },
+        {
+            "key": "053",
+            "value": "Someone probably fell asleep and left it here."
+        },
+        {
+            "key": "054",
+            "value": "I told you, that problem only applies to you."
+        },
+        {
+            "key": "055",
+            "value": "Regardless, it is rather peculiar. Denser than common crystals...and quite lustrous to boot."
+        },
+        {
+            "key": "056",
+            "value": "Hmm...I imagine this would fetch a fine price. It's not like we have any other prospects at the moment, so why not put it towards our travels?"
+        },
+        {
+            "key": "057",
+            "value": "It might be someone's lost property."
+        },
+        {
+            "key": "058",
+            "value": "I don't see their name on it. I doubt they would be able to find it again, anyway."
+        },
+        {
+            "key": "059",
+            "value": "Besides, we need to buy ourselves a boat if we want to reach Ovis..."
+        },
+        {
+            "key": "060",
+            "value": "And neither of us have that kind of gil at the moment."
+        },
+        {
+            "key": "061",
+            "value": "Which is why we should sell it and at least try to break even."
+        },
+        {
+            "key": "062",
+            "value": "...You always make perfect sense when you have something to gain from it."
+        },
+        {
+            "key": "063",
+            "value": "Come on, I deserve more credit than that! We finally have a chance of crossing the lake to Ovis!"
+        },
+        {
+            "key": "064",
+            "value": "...Hmph. I'll keep it with me. Knowing you, you're likely to drop it as soon as you fall asleep."
+        },
+        {
+            "key": "065",
+            "value": "Quite a rude assumption to make. I wouldn't do something like that...probably."
+        },
+        {
+            "key": "066",
+            "value": "Says the person who slept through a pivotal moment in her nation's history."
+        },
+        {
+            "key": "067",
+            "value": "Anyway, it's about time we got out of this forest."
+        },
+        {
+            "key": "068",
+            "value": "...The next time you fall asleep, I'm going on without you. Got it?"
+        },
+        {
+            "key": "069",
+            "value": "Worry not. A master such as myself can follow on even when in slumber's warm embrace."
+        },
+        {
+            "key": "070",
+            "value": "You can fall asleep on your feet and keep walking?"
+        },
+        {
+            "key": "071",
+            "value": "So many people appear to be armed."
+        },
+        {
+            "key": "072",
+            "value": "Dressed like that...I'm guessing they're mercenaries. This region is probably at war."
+        },
+        {
+            "key": "073",
+            "value": "War, you say..."
+        },
+        {
+            "key": "074",
+            "value": "Speaking of which, I've never really understood it."
+        },
+        {
+            "key": "075",
+            "value": "If they would only speak with each other, I'm sure they would come to an understanding!"
+        },
+        {
+            "key": "076",
+            "value": "Hahaha..."
+        },
+        {
+            "key": "077",
+            "value": "Regardless, having so many people here will make gathering information much easier."
+        },
+        {
+            "key": "078",
+            "value": "Gathering information, huh..."
+        },
+        {
+            "key": "079",
+            "value": "How do you plan to go about it?"
+        },
+        {
+            "key": "080",
+            "value": "By asking each person individually, of course..."
+        },
+        {
+            "key": "081",
+            "value": "Plan rejected!"
+        },
+        {
+            "key": "082",
+            "value": "What...?"
+        },
+        {
+            "key": "083",
+            "value": "Wait there, new recruit."
+        },
+        {
+            "key": "084",
+            "value": "Let me show you the most efficient way to gather information!"
+        },
+        {
+            "key": "500",
+            "value": "*Inhale* "
+        },
+        {
+            "key": "085",
+            "value": "Has anyone here seen a Core Crystal!?"
+        },
+        {
+            "key": "086",
+            "value": "It's crimson! If that rings a bell, come talk to me on the double!"
+        },
+        {
+            "key": "087",
+            "value": "L-Lady Cetia!? You shouldn't draw so much attention like that!"
+        },
+        {
+            "key": "088",
+            "value": "Why talk to them one by one when we could get this sorted out in a jiff?"
+        },
+        {
+            "key": "089",
+            "value": "That may be so, but to those who have no frame of reference, you must sound mad!"
+        },
+        {
+            "key": "090",
+            "value": "It won't be easy to find someone to speak with us now that they're wary of us..."
+        },
+        {
+            "key": "091",
+            "value": "Hello, gorgeous. Did I hear you say you're looking for a crimson crystal?"
+        },
+        {
+            "key": "092",
+            "value": "I might be able to help you with that. Would you be so kind as to accompany us for a bit?"
+        },
+        {
+            "key": "093",
+            "value": "See? I told you, new recruit! How easy was that?"
+        },
+        {
+            "key": "094",
+            "value": "I-I truly didn't expect anyone to come forward."
+        },
+        {
+            "key": "095",
+            "value": "Listen here, Camillo. I won't be dragged into yet another one of your impulsive flirtations."
+        },
+        {
+            "key": "096",
+            "value": "Hey, now. I'm Machérie's man. This is absolutely NOTHING but business."
+        },
+        {
+            "key": "097",
+            "value": "Anyway, can you please be quiet? I'm making some headway here."
+        },
+        {
+            "key": "098",
+            "value": "But what is there to discuss other than returning that crystal?"
+        },
+        {
+            "key": "099",
+            "value": "H-hey! Shhh!"
+        },
+        {
+            "key": "100",
+            "value": "You two have the Core Crystal!?"
+        },
+        {
+            "key": "101",
+            "value": "Whether or not it's a Core Crystal, I cannot say. But we did find a crimson crystal in the forest."
+        },
+        {
+            "key": "102",
+            "value": "I believe he's tucked it away in his pocket."
+        },
+        {
+            "key": "103",
+            "value": "E-Elsirelle!"
+        },
+        {
+            "key": "104",
+            "value": "Oh, so you've found it! You don't know how much time and effort you've saved us! Now, if you could just hand it over..."
+        },
+        {
+            "key": "105",
+            "value": "Not so fast. First things first, could you explain what exactly this is?"
+        },
+        {
+            "key": "106",
+            "value": "I have no other way of knowing if this really belongs to you, after all."
+        },
+        {
+            "key": "107",
+            "value": "Sure, no problem! New recruit, I'll let you give them the details."
+        },
+        {
+            "key": "108",
+            "value": "Oh, so that's where I come in..."
+        },
+        {
+            "key": "109",
+            "value": "...And that's the gist of it."
+        },
+        {
+            "key": "110",
+            "value": "So the Core Crystals maintain the balance of the universe, huh..."
+        },
+        {
+            "key": "111",
+            "value": "Which is why we're so relieved that you found it, Lord Camillo."
+        },
+        {
+            "key": "112",
+            "value": "...Don't get ahead of yourself. I can't just give it up and walk away empty-handed."
+        },
+        {
+            "key": "113",
+            "value": "What!?"
+        },
+        {
+            "key": "114",
+            "value": "Now, Camillo. Why not return it?"
+        },
+        {
+            "key": "115",
+            "value": "Have you forgotten already? We have to reach Ovis."
+        },
+        {
+            "key": "116",
+            "value": "And to do so, we need a boat. And to get a boat, we need the Crystal to make some gil."
+        },
+        {
+            "key": "117",
+            "value": "If we hand it over, we'll be back where we started with no way to get to Ovis."
+        },
+        {
+            "key": "118",
+            "value": "That is true, but..."
+        },
+        {
+            "key": "119",
+            "value": "It is for this reason I'd like to make a proposition..."
+        },
+        {
+            "key": "120",
+            "value": "Would you be willing to buy this off of me?"
+        },
+        {
+            "key": "121",
+            "value": "If not, then perhaps you'd be willing to help us earn some gil."
+        },
+        {
+            "key": "122",
+            "value": "Just enough to buy a boat, then the Crystal is yours. Not a bad deal, right?"
+        },
+        {
+            "key": "123",
+            "value": "What shall we do, Lady Cetia?"
+        },
+        {
+            "key": "124",
+            "value": "We accept your deal!"
+        },
+        {
+            "key": "125",
+            "value": "Huh!? Shouldn't you give it some more thought?"
+        },
+        {
+            "key": "126",
+            "value": "The Crystal belongs to them now. It has from the moment they found it."
+        },
+        {
+            "key": "127",
+            "value": "We have no right to take it from them by force, either."
+        },
+        {
+            "key": "128",
+            "value": "That... That might be true, but the universe will fall out of balance if we don't get the Core Crystal back."
+        },
+        {
+            "key": "129",
+            "value": "Despite such high stakes, I feel you're awfully unconcerned..."
+        },
+        {
+            "key": "130",
+            "value": "And the universe would mean nothing without the people in it! You can't truly have harmony without trust!"
+        },
+        {
+            "key": "131",
+            "value": "Ugh, how are you so optimistic?"
+        },
+        {
+            "key": "132",
+            "value": "By the way we're completely broke, so we may as well get to work!"
+        },
+        {
+            "key": "133",
+            "value": "Gah, such a radiant smile for someone without a single gil to their name!"
+        },
+        {
+            "key": "134",
+            "value": "All we have to do is make some gil and we can get the Core Crystal back."
+        },
+        {
+            "key": "135",
+            "value": "A peaceful resolution is the best we could have hoped for!"
+        },
+        {
+            "key": "136",
+            "value": "...Very well. Perhaps you do have a point, Lady Cetia."
+        },
+        {
+            "key": "137",
+            "value": "Then it's settled. Elsirelle and I appreciate the help."
+        },
+        {
+            "key": "138",
+            "value": "Now that we are of the same mind, let us look for work in the nearby village."
+        },
+        {
+            "key": "139",
+            "value": "There's plenty available during wartimes. I suppose we could take on some easy quests and do it slow and steady."
+        },
+        {
+            "key": "140",
+            "value": "Understood. I look forward to working with the both of you!"
+        },
+        {
+            "key": "141",
+            "value": "All right, now we're talking! I am ready to get things done!"
+        }
+    ]
+}

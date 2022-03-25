@@ -1,0 +1,208 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Han... Han... Han..."
+        },
+        {
+            "key": "002",
+            "value": "Ils me suivent encore !"
+        },
+        {
+            "key": "003",
+            "value": "Je rêve ou il y en a plus que tout à l'heure ?"
+        },
+        {
+            "key": "004",
+            "value": "Aaah ! Au secours !"
+        },
+        {
+            "key": "005",
+            "value": "Hm ?"
+        },
+        {
+            "key": "006",
+            "value": "Cette odeur... On dirait que c'est ce qui les attire..."
+        },
+        {
+            "key": "007",
+            "value": "Ah !"
+        },
+        {
+            "key": "008",
+            "value": "Toi, là-bas !"
+        },
+        {
+            "key": "009",
+            "value": "Snif... snif..."
+        },
+        {
+            "key": "010",
+            "value": "Q-qu'est-ce tu fais ?"
+        },
+        {
+            "key": "011",
+            "value": "Haaa ! Ça sent tellement bon ! C'est du parfum ?"
+        },
+        {
+            "key": "012",
+            "value": "Tu as le nez fin. En tant que femme, ça me semble normal de prendre soin de moi, non ?"
+        },
+        {
+            "key": "013",
+            "value": "Mais... Tu n'es pas venue jusqu'ici juste pour savoir ça, si ?"
+        },
+        {
+            "key": "014",
+            "value": "Ah ! Non ! Non !"
+        },
+        {
+            "key": "015",
+            "value": "Regarde !"
+        },
+        {
+            "key": "016",
+            "value": "Eh bien, ils sont très nombreux..."
+        },
+        {
+            "key": "017",
+            "value": "Ah, je comprends mieux. Tu es venue demander de l'aide."
+        },
+        {
+            "key": "018",
+            "value": "Oui..."
+        },
+        {
+            "key": "019",
+            "value": "Ne crains rien."
+        },
+        {
+            "key": "020",
+            "value": "Des groupes de bombos de cette taille, j'en découpe tous les matins au réveil !"
+        },
+        {
+            "key": "021",
+            "value": "Tu ne manques pas de confiance en toi !"
+        },
+        {
+            "key": "022",
+            "value": "Ah, euh... au fait, je m'appelle Éthéa."
+        },
+        {
+            "key": "023",
+            "value": "Et moi, Yelma."
+        },
+        {
+            "key": "024",
+            "value": "Yelma... Si seulement j'avais autant d'assurance que toi !"
+        },
+        {
+            "key": "025",
+            "value": "Et puis, je voudrais être plus forte, aussi..."
+        },
+        {
+            "key": "026",
+            "value": "Ah oui ? Fais attention cependant, tu pourrais devenir trop forte."
+        },
+        {
+            "key": "027",
+            "value": "Trop forte ?!"
+        },
+        {
+            "key": "028",
+            "value": "Eh bien tu vois, moi, par exemple, je parcours le monde à la recherche d'un homme plus fort que moi."
+        },
+        {
+            "key": "029",
+            "value": "Pour l'éliminer ?"
+        },
+        {
+            "key": "030",
+            "value": "Ha ha ! Pas tout à fait."
+        },
+        {
+            "key": "031",
+            "value": "Je ne pourrais tomber amoureuse que d'un homme qui me surpasse au combat."
+        },
+        {
+            "key": "032",
+            "value": "Ah ! Je crois que je comprends ce que tu veux dire."
+        },
+        {
+            "key": "033",
+            "value": "Mais... trouver un tel homme est bien difficile..."
+        },
+        {
+            "key": "034",
+            "value": "Et toi, Éthéa. Pourquoi cherches-tu à devenir plus forte ?"
+        },
+        {
+            "key": "035",
+            "value": "Moi, je voyage pour mériter un jour d'entrer au service du royaume de Leonis !"
+        },
+        {
+            "key": "036",
+            "value": "De... Leonis ?"
+        },
+        {
+            "key": "037",
+            "value": "Oui. Parce qu'à Leonis, il y a une division qui s'appelle « Fortem ». Elle est dirigée par le prince Sterne. Aaah ! Il est très fort ! Et très beau !"
+        },
+        {
+            "key": "038",
+            "value": "« Beau » ?!"
+        },
+        {
+            "key": "039",
+            "value": "Si je comprends bien, tu cherches à te rapprocher de ce prince ?"
+        },
+        {
+            "key": "040",
+            "value": "Oui..."
+        },
+        {
+            "key": "041",
+            "value": "Beau et fort, hein ? Voilà qui donne envie de le rencontrer..."
+        },
+        {
+            "key": "042",
+            "value": "Ah ! Euh, excuse-moi ! Je ne voulais pas jouer les trouble-fête dans ton histoire d'amour !"
+        },
+        {
+            "key": "043",
+            "value": "Ne t'inquiète pas. Tu sais quoi ? Je pense même qu'on devrait aller à Leonis ensemble !"
+        },
+        {
+            "key": "044",
+            "value": "M-mais..."
+        },
+        {
+            "key": "045",
+            "value": "Avec une rivale comme toi, je serai encore plus motivée pour progresser ! Alors ?"
+        },
+        {
+            "key": "046",
+            "value": "Tu n'auras pas de regrets ?"
+        },
+        {
+            "key": "047",
+            "value": "Non ! En échange, montre-moi comment devenir plus forte sur le chemin !"
+        },
+        {
+            "key": "048",
+            "value": "D'accord. Ça sera facile."
+        },
+        {
+            "key": "049",
+            "value": "Mais d'abord..."
+        },
+        {
+            "key": "050",
+            "value": "On doit se débarrasser de ces bombos !"
+        },
+        {
+            "key": "051",
+            "value": "Pas faux. Je vais donner tout ce que j'ai !"
+        }
+    ]
+}

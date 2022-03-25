@@ -1,0 +1,252 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Dans l'Au-delà, ce lien inter dimensionnel entre plusieurs mondes."
+        },
+        {
+            "key": "002",
+            "value": "Jeaum. Merci d'avoir répondu à mon appel un peu brutal."
+        },
+        {
+            "key": "003",
+            "value": "La disparition des cristaux fondamentaux n'est pas un sujet anodin. L'urgence est justifiée."
+        },
+        {
+            "key": "004",
+            "value": "Je savais que tu comprendrais."
+        },
+        {
+            "key": "005",
+            "value": "Bien sûr."
+        },
+        {
+            "key": "006",
+            "value": "Les cristaux fondamentaux ont soudainement disparu de ce royaume sans laisser de trace il y a quelques jours."
+        },
+        {
+            "key": "007",
+            "value": "Enfin, il serait plus exact de dire que nous les avons perdus dans les ténèbres."
+        },
+        {
+            "key": "008",
+            "value": "Comment cela ?"
+        },
+        {
+            "key": "009",
+            "value": "Un être appartenant au futur lointain s'est matérialisé sur le continent d'Ardra. Le phénomène a eu des répercutions jusqu'ici."
+        },
+        {
+            "key": "010",
+            "value": "L'onde de choc a réduit la puissance des cristaux fondamentaux et les a délogés de leur place légitime."
+        },
+        {
+            "key": "011",
+            "value": "À l'heure qu'il est, les cristaux disparus sont éparpillés nul ne sait où."
+        },
+        {
+            "key": "012",
+            "value": "Je veux que tu te charges de les retrouver."
+        },
+        {
+            "key": "013",
+            "value": "Ramène les cristaux à leur place, c'est ton devoir de Guerrière des cristaux."
+        },
+        {
+            "key": "014",
+            "value": "Sans eux, c'est l'univers entier qui perd le fondement de son existence..."
+        },
+        {
+            "key": "015",
+            "value": "Je ne veux même pas imaginer ce qui se passerait s'ils disparaissaient."
+        },
+        {
+            "key": "016",
+            "value": "Je jure d'accomplir mon devoir de Guerrière des cristaux."
+        },
+        {
+            "key": "017",
+            "value": "Merci. N'oublie jamais que ta priorité absolue est la protection de ce royaume."
+        },
+        {
+            "key": "018",
+            "value": "Il serait absurde de demander à tout le monde de quitter son poste. C'est pourquoi, Jeaum..."
+        },
+        {
+            "key": "019",
+            "value": "Oui ?"
+        },
+        {
+            "key": "020",
+            "value": "C'est à toi que je confie la tâche de récupérer le premier cristal fondamental."
+        },
+        {
+            "key": "021",
+            "value": "Entendu. J'y vais."
+        },
+        {
+            "key": "022",
+            "value": "Tu seras accompagnée."
+        },
+        {
+            "key": "023",
+            "value": "Bon-bonjour, c'est un ho-honneur de vous rencontrer."
+        },
+        {
+            "key": "024",
+            "value": "Hm... Qui est-ce ?"
+        },
+        {
+            "key": "025",
+            "value": "Il s'appelle Lucio."
+        },
+        {
+            "key": "026",
+            "value": "C'est un jeune Guerrier des cristaux. Vois-le comme une sorte d'apprenti."
+        },
+        {
+            "key": "027",
+            "value": "Votre tâche est de vous rendre sur le continent d'Ardra ensemble et d'y récupérer le cristal."
+        },
+        {
+            "key": "028",
+            "value": "Hmpf. À ton allure, je me doute que tu ne vas pas être d'une grande aide. Tiens-toi bien, parce que si tu me ralentis, je te laisse sur place."
+        },
+        {
+            "key": "029",
+            "value": "J'espère que tu conviendras qu'il n'y a pas de place pour les faibles au sein des Guerriers des cristaux."
+        },
+        {
+            "key": "030",
+            "value": "Je-je ferai de mon mieux !"
+        },
+        {
+            "key": "031",
+            "value": "Je suis persuadée que tu vas réussir."
+        },
+        {
+            "key": "032",
+            "value": "En route à présent. L'harmonie au cœur de la puissance des cristaux est entre vos mains."
+        },
+        {
+            "key": "033",
+            "value": "Nous devrions être sur le continent d'Ardra... Mais il n'y a rien."
+        },
+        {
+            "key": "034",
+            "value": "Il faut croire que notre quête commence à l'écart de la civilisation…"
+        },
+        {
+            "key": "035",
+            "value": "Tss. Sans compter que je ne comprends pas pourquoi la Volonté de la Lumière a tenu à te coller à mes basques."
+        },
+        {
+            "key": "036",
+            "value": "Pense-t-elle que je ne suis pas à la hauteur de la tâche ?"
+        },
+        {
+            "key": "037",
+            "value": "Elle a dit que l'objectif était que je gagne de l'expérience."
+        },
+        {
+            "key": "038",
+            "value": "Je suis un Guerrier des cristaux, après tout... Même si je n'y connais pas encore grand-chose."
+        },
+        {
+            "key": "039",
+            "value": "J'imagine qu'il y a une place de libre dans nos rangs."
+        },
+        {
+            "key": "040",
+            "value": "Et après tout, c'est logique de vouloir entraîner le remplaçant."
+        },
+        {
+            "key": "041",
+            "value": "Mais je suis sérieuse. Si tu me ralentis, je t'abandonne. Ne prends pas cette menace à la légère."
+        },
+        {
+            "key": "042",
+            "value": "Je ne vais pas relâcher mon niveau sous prétexte que j'ai un apprenti. "
+        },
+        {
+            "key": "043",
+            "value": "Ou-oui ! Je comprends ! Je ne suis pas un tire-au-flanc."
+        },
+        {
+            "key": "044",
+            "value": "Alors ne perdons pas plus de temps. On a un cristal fondamental à localiser."
+        },
+        {
+            "key": "045",
+            "value": "Comment va-t-on faire ?"
+        },
+        {
+            "key": "046",
+            "value": "Les Guerriers des cristaux peuvent sentir quand un cristal fondamental se trouve à proximité."
+        },
+        {
+            "key": "047",
+            "value": "Tu n'as qu'à essayer. Tu es un Guerrier aussi, non ? Ça ne devrait pas te poser de problème."
+        },
+        {
+            "key": "048",
+            "value": "D'a-D'accord. Hmm…"
+        },
+        {
+            "key": "049",
+            "value": "Je ne sens rien du tout."
+        },
+        {
+            "key": "050",
+            "value": "Tu es sûr d'être un Guerrier des cristaux ?"
+        },
+        {
+            "key": "051",
+            "value": "Gnnn…"
+        },
+        {
+            "key": "052",
+            "value": "Allez, ça suffit. Je vais le faire."
+        },
+        {
+            "key": "053",
+            "value": "Par-là. Mais il est un peu loin."
+        },
+        {
+            "key": "054",
+            "value": "Dépêchons-nous. S'il reste trop longtemps à découvert, les locaux risquent de…"
+        },
+        {
+            "key": "055",
+            "value": "… !"
+        },
+        {
+            "key": "056",
+            "value": "Qu'est-ce qu'il se passe ?"
+        },
+        {
+            "key": "057",
+            "value": "Dégaine ton épée."
+        },
+        {
+            "key": "058",
+            "value": "Hein ?!"
+        },
+        {
+            "key": "059",
+            "value": "Je crois qu'on nous a réservé un comité d'accueil particulièrement chaleureux."
+        },
+        {
+            "key": "060",
+            "value": "Il y a un camp pas loin, mais personne ne semble se trouver dans les parages. Ce sont des monstres ?"
+        },
+        {
+            "key": "061",
+            "value": "I-Il y en a tellement ! Que va-t-on faire ?"
+        },
+        {
+            "key": "062",
+            "value": "Les Guerriers des cristaux ne fuient pas. Ce n'est rien de plus qu'un petit obstacle sur notre chemin. "
+        }
+    ]
+}

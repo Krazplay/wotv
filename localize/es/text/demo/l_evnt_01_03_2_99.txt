@@ -1,0 +1,276 @@
+﻿{
+    "infos": [
+        {
+            "key": "385",
+            "value": "¡Se acabó!"
+        },
+        {
+            "key": "386",
+            "value": "¡Aaaarrrgh!"
+        },
+        {
+            "key": "387",
+            "value": "¡Thranan, el cristal núcleo!"
+        },
+        {
+            "key": "388",
+            "value": "No temas. Como ves, lo tenemos a buen recaudo."
+        },
+        {
+            "key": "389",
+            "value": "Buf... El plan ha funcionado."
+        },
+        {
+            "key": "390",
+            "value": "¿Por «plan» te refieres a ese ataque temerario? Pero sí. El elemento sorpresa nos ha permitido atravesar sus defensas."
+        },
+        {
+            "key": "391",
+            "value": "Graciela, gracias por tu ayuda."
+        },
+        {
+            "key": "392",
+            "value": "No se merecen. Es una batalla que habríamos terminado librando igualmente, incluso sin el cristal núcleo en nuestras tierras."
+        },
+        {
+            "key": "393",
+            "value": "¿Nunca te sentiste tentada de usar el cristal tú misma para ayudar a Wezette?"
+        },
+        {
+            "key": "394",
+            "value": "Podría haberte sido útil en la lucha contra Kuri."
+        },
+        {
+            "key": "395",
+            "value": "No. Si voy a cambiar Wezette, lo haré por mis propios medios."
+        },
+        {
+            "key": "396",
+            "value": "Y no soy tan ingenua como para creer que poseer algo tan poderoso no acarrearía consecuencias."
+        },
+        {
+            "key": "397",
+            "value": "Aunque el cristal núcleo nos concediera la victoria, pronto atraeríamos a más enemigos que querrían hacerse con él."
+        },
+        {
+            "key": "398",
+            "value": "Esta tierra no conocerá la paz mientras el cristal núcleo siga en ella."
+        },
+        {
+            "key": "399",
+            "value": "Hm. Si alguien como tú llega a ser reina, quizá los sueños de paz dejen de ser meros sueños."
+        },
+        {
+            "key": "400",
+            "value": "Es una utopía que pretendo mantener con vida."
+        },
+        {
+            "key": "401",
+            "value": "Se podría decir que es mi misión..., aunque no es tan importante como la de conservar el equilibrio del mundo entero."
+        },
+        {
+            "key": "402",
+            "value": "Graciela, te prometo que mantendremos el mundo a salvo."
+        },
+        {
+            "key": "403",
+            "value": "Pero a cambio, prométenos que construirás un futuro mejor para tu gente."
+        },
+        {
+            "key": "404",
+            "value": "Los esfuerzos valdrán la pena."
+        },
+        {
+            "key": "405",
+            "value": "Os lo prometo. Cambiaremos este reino y el mundo a mejor."
+        },
+        {
+            "key": "406",
+            "value": "Pero por ahora debemos pasar desapercibidos hasta haber reunido la fuerza necesaria para contratacar… Y eso significa que aquí es donde nos separamos."
+        },
+        {
+            "key": "407",
+            "value": "La verdad es que no nos vendría nada mal tener a un par de soldados como vosotros en nuestra rebelión."
+        },
+        {
+            "key": "408",
+            "value": "Siento que no podamos seros de más ayuda, pero primero debemos cumplir nuestra misión."
+        },
+        {
+            "key": "409",
+            "value": "Lo sé. El destino nos depara caminos distintos…, pero ¡espero que todos alcancemos nuestra meta!"
+        },
+        {
+            "key": "410",
+            "value": "¡Desde luego!"
+        },
+        {
+            "key": "411",
+            "value": "Si has terminado, Lucius, ven aquí, deprisa."
+        },
+        {
+            "key": "412",
+            "value": "Tenemos que abandonar este sitio antes de que Wezette se dé cuenta de que algo no va bien y envíen más tropas."
+        },
+        {
+            "key": "413",
+            "value": "Graciela, soldados de Spirare: de un mundo a otro, os deseo los mayores de los triunfos en las batallas que están por venir."
+        },
+        {
+            "key": "414",
+            "value": "¡Gracias por vuestra ayuda!"
+        },
+        {
+            "key": "415",
+            "value": "Mantendré mi promesa. ¡Traeremos la prosperidad y la paz a este reino!"
+        },
+        {
+            "key": "416",
+            "value": "Buen trabajo, Lucius. La misión no ha sido fácil, pero has superado mis expectativas."
+        },
+        {
+            "key": "417",
+            "value": "Gr-gracias, Thranan."
+        },
+        {
+            "key": "418",
+            "value": "Incluso me has dado una lección: a veces es mejor actuar sin pensar demasiado."
+        },
+        {
+            "key": "419",
+            "value": "Todos tenemos muchas cosas que aprender, y diría que tú también tienes mucho que enseñarme."
+        },
+        {
+            "key": "420",
+            "value": "N-no digas eso. Se me hace raro…"
+        },
+        {
+            "key": "421",
+            "value": "Ya era hora de que aparecieras."
+        },
+        {
+            "key": "422",
+            "value": "¡Ah! L-Llum..."
+        },
+        {
+            "key": "423",
+            "value": "¡Bienvenidos a casa! ¡Se os ve en la cara que habéis tenido una aventura emocionante!"
+        },
+        {
+            "key": "424",
+            "value": "¿Tanto como para abandonar los entrenamientos con tu superior? Jamás he visto mayor falta de respeto…"
+        },
+        {
+            "key": "425",
+            "value": "¡E-espera! ¡Quería informarte antes de irme, de verdad! Pero Thranan…"
+        },
+        {
+            "key": "426",
+            "value": "Tranquilízate, Llum. Estoy seguro de que lamenta enormemente lo sucedido."
+        },
+        {
+            "key": "427",
+            "value": "Thranan..., ¿me estás defendiendo?"
+        },
+        {
+            "key": "428",
+            "value": "Y ahora, en cuanto a su entrenamiento… Tiene un punto débil en el que te convendría centrarte."
+        },
+        {
+            "key": "429",
+            "value": "Tiene la mala costumbre de dejar su lado izquierdo desprotegido. Seguro que agradece que le corrijas esta tendencia."
+        },
+        {
+            "key": "430",
+            "value": "De acuerdo."
+        },
+        {
+            "key": "431",
+            "value": "¡¿Thra-Thranan?! ¡Pensaba que estabas de mi lado!"
+        },
+        {
+            "key": "432",
+            "value": "Quieres convertirte en un auténtico Guerrero de los Cristales, ¿no? Entonces, debes hacerte fuerte."
+        },
+        {
+            "key": "433",
+            "value": "¿Ya habéis terminado? Es hora de entrenar."
+        },
+        {
+            "key": "434",
+            "value": "Pe-pero..."
+        },
+        {
+            "key": "435",
+            "value": "¡¿…?!"
+        },
+        {
+            "key": "436",
+            "value": "¿Eh?..."
+        },
+        {
+            "key": "437",
+            "value": "¡¿Y esa luz?!"
+        },
+        {
+            "key": "438",
+            "value": "¡¿Pero qué...?!"
+        },
+        {
+            "key": "439",
+            "value": "Vaya, vaya..."
+        },
+        {
+            "key": "440",
+            "value": "Thranan, ¿tú sabes algo de esto?"
+        },
+        {
+            "key": "441",
+            "value": "No es nada más que una suposición. Pero si fuera cierta…"
+        },
+        {
+            "key": "442",
+            "value": "¿Thranan? ¿Qué es esto?..."
+        },
+        {
+            "key": "443",
+            "value": "No me gusta especular sin sentido sobre lo que desconozco, así que me guardaré mi opinión por ahora."
+        },
+        {
+            "key": "444",
+            "value": "Pero..."
+        },
+        {
+            "key": "445",
+            "value": "Oh, no te preocupes. Has aprendido mucho en esta última aventura, ¿verdad?"
+        },
+        {
+            "key": "446",
+            "value": "Para un joven aprendiz como tú, la experiencia lo es todo. ¡Estoy segura de que esto es la culminación de todo!"
+        },
+        {
+            "key": "447",
+            "value": "Entonces..., ¿el cuerpo brilla cuando se vuelve más fuerte?"
+        },
+        {
+            "key": "448",
+            "value": "¡Ni idea!"
+        },
+        {
+            "key": "449",
+            "value": "¡Pero, por lo que has dicho, parecía que sí!"
+        },
+        {
+            "key": "450",
+            "value": "Si ya has dejado de brillar, muévete. Te espera el doble de trabajo. Tienes que compensar todos los entrenamientos que te has saltado."
+        },
+        {
+            "key": "451",
+            "value": "¡Pero no ha sido culpa mía! ¡Llum, espera!"
+        },
+        {
+            "key": "452",
+            "value": "Hmmm... Un nuevo Guerrero de los Cristales…"
+        }
+    ]
+}

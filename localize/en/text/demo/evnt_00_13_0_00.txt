@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...Have at me."
+        },
+        {
+            "key": "002",
+            "value": "...Hmph."
+        },
+        {
+            "key": "003",
+            "value": "Just how long will you pretend to still be hidden?"
+        },
+        {
+            "key": "004",
+            "value": "Hehe. I must say, I'm impressed."
+        },
+        {
+            "key": "005",
+            "value": "However... You don't seem to be whom we seek."
+        },
+        {
+            "key": "006",
+            "value": "I now understand how Miranda feels."
+        },
+        {
+            "key": "007",
+            "value": "She had mentioned how impure of intention those who intrude on the sacred lands of the east are."
+        },
+        {
+            "key": "008",
+            "value": "Yet... You do not seem in the least to be seeking the path of the samurai."
+        },
+        {
+            "key": "009",
+            "value": "What is your purpose? Depending on your answer..."
+        },
+        {
+            "key": "010",
+            "value": "Oh, don't be so threatening. Despite our looks, we are quite faint of heart, you know?"
+        },
+        {
+            "key": "011",
+            "value": "Anyway, where can I find the so-called masters of the east?"
+        },
+        {
+            "key": "012",
+            "value": "What business have you with the masters?"
+        },
+        {
+            "key": "013",
+            "value": "That's no concern of an underling like you."
+        },
+        {
+            "key": "014",
+            "value": "Come now, show us the way already. If you keep wasting my time like this..."
+        },
+        {
+            "key": "015",
+            "value": "What a fine opportunity to put my training to the test. Do your worst."
+        },
+        {
+            "key": "016",
+            "value": "A feisty one, aren't you? ...Put her in her place."
+        }
+    ]
+}

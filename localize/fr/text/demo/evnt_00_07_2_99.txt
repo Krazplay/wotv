@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Te voilà de retour sans la moindre égratignure. Beau travail."
+        },
+        {
+            "key": "002",
+            "value": "C'est bien trop d'honneur, sire."
+        },
+        {
+            "key": "003",
+            "value": "Pas la peine d'en faire autant. Au repos."
+        },
+        {
+            "key": "004",
+            "value": "Ne vois pas cela comme une récompense, mais... je pense qu'il est temps que je te confie une nouvelle division."
+        },
+        {
+            "key": "005",
+            "value": "À m-moi ?"
+        },
+        {
+            "key": "006",
+            "value": "Quelqu'un n'a pas hésité à se porter garant pour toi."
+        },
+        {
+            "key": "007",
+            "value": "Serait-ce... le commandant en second, Elzandra ?"
+        },
+        {
+            "key": "008",
+            "value": "Non seulement elle, mais Rhaldor t'a aussi chaudement recommandée."
+        },
+        {
+            "key": "009",
+            "value": "J'ai du mal à y croire. Le commandant ne..."
+        },
+        {
+            "key": "010",
+            "value": "Laisse-moi te dire ce qu'il m'a rapporté."
+        },
+        {
+            "key": "011",
+            "value": "« L'ère des armes à feu à sonné. »"
+        },
+        {
+            "key": "012",
+            "value": "« Lu'Cia a l'esprit vif et une gâchette infaillible. »"
+        },
+        {
+            "key": "013",
+            "value": "« Si vous avez dans l'idée de créer une nouvelle division, vous ne trouverez pas meilleure cheffe. »"
+        },
+        {
+            "key": "014",
+            "value": "V-vous voulez dire qu'il a reconnu ma valeur ?"
+        },
+        {
+            "key": "015",
+            "value": "Son obstination et sa langue bien pendue ne font pas de lui un idiot pour autant."
+        },
+        {
+            "key": "016",
+            "value": "C'est un homme courageux qui donne la priorité aux intérêts de Rundall."
+        },
+        {
+            "key": "017",
+            "value": "Je veux bien vous croire. Cette dernière mission m'en a donné un réel aperçu."
+        },
+        {
+            "key": "018",
+            "value": "Ne laisse donc pas ses paroles être vaines."
+        },
+        {
+            "key": "019",
+            "value": "Bien."
+        },
+        {
+            "key": "020",
+            "value": "Je comprends qu'il essaye à sa façon de motiver ses troupes, mais choisir ses mots avec plus de délicatesse pourrait certainement l'aider à devenir un commandant fiable."
+        },
+        {
+            "key": "021",
+            "value": "Ou peut-être est-il trop gêné pour ça."
+        },
+        {
+            "key": "022",
+            "value": "Mais je partage son opinion. Les armes à feu vont dominer le monde."
+        },
+        {
+            "key": "023",
+            "value": "Je n'ai qu'une faveur à vous demander."
+        },
+        {
+            "key": "024",
+            "value": "Je t'écoute."
+        },
+        {
+            "key": "025",
+            "value": "Transférez Creysse dans la nouvelle division."
+        },
+        {
+            "key": "026",
+            "value": "C'est entendu. Rhaldor approuvera sans hésitation."
+        },
+        {
+            "key": "027",
+            "value": "Vous avez toute ma gratitude."
+        },
+        {
+            "key": "028",
+            "value": "Quel nom vas-tu donner à cette nouvelle division ?"
+        },
+        {
+            "key": "029",
+            "value": "Un nom... ?"
+        },
+        {
+            "key": "030",
+            "value": "À moins que tu préfères que je choisisse pour toi."
+        },
+        {
+            "key": "031",
+            "value": "Que dites-vous de... « Calorum »."
+        },
+        {
+            "key": "032",
+            "value": "« Calorum »... Ça ne sonnerait pas un peu trop éphémère ?"
+        },
+        {
+            "key": "033",
+            "value": "Bien au contraire. J'aime cette idée fantasmagorique et informe."
+        },
+        {
+            "key": "034",
+            "value": "Intéressant."
+        },
+        {
+            "key": "035",
+            "value": "Eh bien Lu'Cia. Te voilà officiellement Commandant de la troisième division de Rundall, « Calorum »."
+        },
+        {
+            "key": "036",
+            "value": "Montre-moi de quoi tu es faite."
+        },
+        {
+            "key": "037",
+            "value": "Je ne saurai vous décevoir, sire."
+        },
+        {
+            "key": "038",
+            "value": "Dans ce cas, commençons par lui..."
+        },
+        {
+            "key": "039",
+            "value": "Que dirais-tu de lui faire passer un joyeux moment ?"
+        },
+        {
+            "key": "040",
+            "value": "Un joyeux moment ?"
+        },
+        {
+            "key": "041",
+            "value": "Exactement."
+        },
+        {
+            "key": "042",
+            "value": "Peu importe les moyens employés."
+        },
+        {
+            "key": "043",
+            "value": "Je veux qu'il crache l'identité de l'espion qui se cache dans nos rangs."
+        },
+        {
+            "key": "044",
+            "value": "Une fois que ce sera fait, je te laisserai l'exécuter, pour qu'il serve d'exemple."
+        },
+        {
+            "key": "045",
+            "value": "Pas seulement lui d'ailleurs. Mais tous ceux qui sont une menace pour Rundall."
+        },
+        {
+            "key": "046",
+            "value": "Comptez sur moi. Je ne retiendrai pas mes coups."
+        },
+        {
+            "key": "047",
+            "value": "Il n'est pas près d'oublier ce doux cauchemar."
+        },
+        {
+            "key": "048",
+            "value": "Ha ha ha. Je savais que je pouvais compter sur toi. J'ai hâte de voir la suite."
+        }
+    ]
+}

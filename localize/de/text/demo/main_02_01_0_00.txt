@@ -1,0 +1,100 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Prinzessin!"
+        },
+        {
+            "key": "002",
+            "value": "Bringt euch in Sicherheit ... Los, lauft!"
+        },
+        {
+            "key": "003",
+            "value": "Wir können Euch doch nicht zurücklassen!"
+        },
+        {
+            "key": "004",
+            "value": "...!"
+        },
+        {
+            "key": "005",
+            "value": "Sie haben uns eingeholt!"
+        },
+        {
+            "key": "006",
+            "value": "Ihr habt euer Schicksal akzeptiert, wie ich sehe."
+        },
+        {
+            "key": "007",
+            "value": "Die vorige Einheit ist uns durch die Lappen gegangen, aber das wird uns nicht noch einmal passieren."
+        },
+        {
+            "key": "008",
+            "value": "Du da ... Du bist doch die Prinzessin, hab ich recht? "
+        },
+        {
+            "key": "009",
+            "value": "Prinzessin! Tut das nicht!"
+        },
+        {
+            "key": "010",
+            "value": "Genau so ist es. Ich bin es, die ihr sucht. Prinzessin Lucielle von Ovis."
+        },
+        {
+            "key": "011",
+            "value": "Ich bin die Trophäe, auf die ihr aus seid. Verschont meine Soldaten, und ich lege mein Leben in eure Hände."
+        },
+        {
+            "key": "012",
+            "value": "Prinzessin! Wir sind bereit, bis zum Ende für Euch kämpfen!"
+        },
+        {
+            "key": "013",
+            "value": "Ganz wie du wünschst."
+        },
+        {
+            "key": "014",
+            "value": "Prinzessin!"
+        },
+        {
+            "key": "015",
+            "value": "Lasst ab. Es musste so kommen."
+        },
+        {
+            "key": "016",
+            "value": "Nun denn, tut, worauf ihr so lange gewartet habt!"
+        },
+        {
+            "key": "017",
+            "value": "... Dann sind wir so frei!"
+        },
+        {
+            "key": "018",
+            "value": "Niemals!"
+        },
+        {
+            "key": "019",
+            "value": "Urrk ...!"
+        },
+        {
+            "key": "020",
+            "value": "Geliebte Schwester ..."
+        },
+        {
+            "key": "021",
+            "value": "Sie hat den Ring nicht bei sich ..."
+        },
+        {
+            "key": "022",
+            "value": "Also war sie nur eine Doppelgängerin."
+        },
+        {
+            "key": "023",
+            "value": "Die echte Prinzessin Lucielle befindet sich wohl immer noch auf Schloss Ovis."
+        },
+        {
+            "key": "024",
+            "value": "Wir müssen sofort zur Haupttruppe zurückkehren."
+        }
+    ]
+}

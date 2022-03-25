@@ -1,0 +1,200 @@
+﻿{
+    "infos": [
+        {
+            "key": "70164",
+            "value": "¡Me alegro de volver a veros, papás!"
+        },
+        {
+            "key": "70165",
+            "value": "¿Qué tal ha ido todo, Nador?"
+        },
+        {
+            "key": "70166",
+            "value": "Bien. He estado rezando con la gente de la aldea todos los días."
+        },
+        {
+            "key": "70167",
+            "value": "¿De verdad? Qué bien."
+        },
+        {
+            "key": "70168",
+            "value": "Te las podrás arreglar con esto, ¿verdad?"
+        },
+        {
+            "key": "70169",
+            "value": "Gracias, papá, pero…"
+        },
+        {
+            "key": "70170",
+            "value": "¿Aún no puedo irme a vivir con vosotros?"
+        },
+        {
+            "key": "70171",
+            "value": "Ahora mismo tus papás estamos muy ocupados con el trabajo."
+        },
+        {
+            "key": "70172",
+            "value": "Jo…"
+        },
+        {
+            "key": "70173",
+            "value": "¡Ah, tengo una pregunta!"
+        },
+        {
+            "key": "70174",
+            "value": "Un amigo mío me ha dicho que no es normal tener dos papás."
+        },
+        {
+            "key": "70175",
+            "value": "¿Por qué yo tengo dos?"
+        },
+        {
+            "key": "70176",
+            "value": "Mmm… A ver…"
+        },
+        {
+            "key": "70177",
+            "value": "Mira, hijo. Déjame que te ponga un ejemplo."
+        },
+        {
+            "key": "70178",
+            "value": "A ti te gustan las manzanas, ¿verdad?"
+        },
+        {
+            "key": "70179",
+            "value": "¡Me encantan!"
+        },
+        {
+            "key": "70180",
+            "value": "Vale. Entonces, ¿cuántas prefieres? ¿Una o dos?"
+        },
+        {
+            "key": "70181",
+            "value": "¡Pues dos, claro!"
+        },
+        {
+            "key": "70182",
+            "value": "Pues con los padres pasa lo mismo. Dos son mejor que uno, ¿no te parece?"
+        },
+        {
+            "key": "70183",
+            "value": "¡Tienes razón!"
+        },
+        {
+            "key": "70184",
+            "value": "Bien… ¿Dónde está la caja de piedra?"
+        },
+        {
+            "key": "70185",
+            "value": "No te preocupes. No se la he enseñado a nadie."
+        },
+        {
+            "key": "70186",
+            "value": "¿Y la has… abierto?"
+        },
+        {
+            "key": "70187",
+            "value": "Nooo. Me dijiste que no la abriera, así que no lo he hecho."
+        },
+        {
+            "key": "70188",
+            "value": "Estupendo. Buen chico."
+        },
+        {
+            "key": "70189",
+            "value": "Bueno, tus papás tienen que irse."
+        },
+        {
+            "key": "70190",
+            "value": "Volved pronto, ¿vale? Que los cristales guíen vuestro camino."
+        },
+        {
+            "key": "70191",
+            "value": "Tenemos que seguir intentándolo. Y no solo por nosotros, sino por el chaval también."
+        },
+        {
+            "key": "70192",
+            "value": "Tienes razón, hermano."
+        },
+        {
+            "key": "70193",
+            "value": "Vaya, vaya. Qué sorpresa. Enhorabuena, «papás»."
+        },
+        {
+            "key": "70194",
+            "value": "¿Qu-qué haces?"
+        },
+        {
+            "key": "70195",
+            "value": "¿Acaso no te dije que me esperases allí?"
+        },
+        {
+            "key": "70196",
+            "value": "Me estaba aburriendo."
+        },
+        {
+            "key": "70197",
+            "value": "Zazán también se está poniendo de mal humor. Está diciendo que arrasemos la aldea."
+        },
+        {
+            "key": "70198",
+            "value": "¡Pa-parad de una vez! ¡Dejad en paz a toda esta gente!"
+        },
+        {
+            "key": "70199",
+            "value": "Caramba. Hoy estamos raros, ¿eh?"
+        },
+        {
+            "key": "70200",
+            "value": "Cállate. Venga, vamos."
+        },
+        {
+            "key": "70201",
+            "value": "¿Adónde vamos si se puede saber?"
+        },
+        {
+            "key": "70202",
+            "value": "Los soldados de Rob han despachado bastante rápido a los monjes de Santocristal…"
+        },
+        {
+            "key": "70203",
+            "value": "Pero aún queda uno con vida que sabe que nos hemos escaqueado."
+        },
+        {
+            "key": "70204",
+            "value": "No hay nada que nos impida abrirnos paso hasta la catedral y volver con Sadali, ¿verdad?"
+        },
+        {
+            "key": "70205",
+            "value": "¿Podemos matar a esos tres de una vez por todas?"
+        },
+        {
+            "key": "70206",
+            "value": "La oportunidad es perfecta, pero…"
+        },
+        {
+            "key": "70207",
+            "value": "Estamos demasiado cerca de la aldea. No quiero poner en riesgo a gente inocente."
+        },
+        {
+            "key": "70208",
+            "value": "Entonces, ¿qué te parece si los seguimos un poco más?"
+        },
+        {
+            "key": "70209",
+            "value": "De acuerdo."
+        },
+        {
+            "key": "70210",
+            "value": "…"
+        },
+        {
+            "key": "70211",
+            "value": "¿Qué pasa, hermano?"
+        },
+        {
+            "key": "70212",
+            "value": "Ha mencionado algo de una caja de piedra. Tengo mucha curiosidad por saber lo que alberga en su interior…"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Père !"
+        },
+        {
+            "key": "002",
+            "value": "Non. C'est à moi de me rendre à Wezett."
+        },
+        {
+            "key": "003",
+            "value": "V-vous ?!"
+        },
+        {
+            "key": "004",
+            "value": "Je vais prendre le commandement de « Solidus » et me diriger vers Wezett."
+        },
+        {
+            "key": "005",
+            "value": "Si les mouvements de Muraga ou Sadali paraissent étranges, je les écraserai instantanément... sans sourciller."
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Je voudrais te demander quelque chose."
+        },
+        {
+            "key": "008",
+            "value": "Je m'inquiète pour Dario."
+        },
+        {
+            "key": "009",
+            "value": "Mon frère ?"
+        },
+        {
+            "key": "010",
+            "value": "Muraga est très certainement déjà au courant que le gros de nos forces militaires a quitté le château de Hourne."
+        },
+        {
+            "key": "011",
+            "value": "Si ce que l'on dit est vrai, et que Vinera, la femme de Dario, n'a en réalité aucun lien de parenté avec Muraga..."
+        },
+        {
+            "key": "012",
+            "value": "Il ne fait aucun doute qu'elle saisira ce moment pour agir. Quel que soit le plan qu'elle a en tête, il faut l'empêcher de le mettre à exécution."
+        },
+        {
+            "key": "013",
+            "value": "Je comprends. Je vais aller rendre visite à Dario tout de suite."
+        },
+        {
+            "key": "014",
+            "value": "Je pense que tu es meilleure que moi pour cerner rapidement les gens."
+        },
+        {
+            "key": "015",
+            "value": "Père..."
+        },
+        {
+            "key": "016",
+            "value": "J'espère qu'un jour, je pourrai trinquer avec Mont en ton honneur."
+        },
+        {
+            "key": "017",
+            "value": "Assez parlé, allons-y."
+        },
+        {
+            "key": "018",
+            "value": "Oui !"
+        },
+        {
+            "key": "019",
+            "value": "Halte !"
+        },
+        {
+            "key": "020",
+            "value": "Où vous rendez-vous ?"
+        },
+        {
+            "key": "021",
+            "value": "Cela ne vous regarde pas, poussez-vous."
+        },
+        {
+            "key": "022",
+            "value": "Sinon..."
+        },
+        {
+            "key": "023",
+            "value": "Vous avez l'intention de retourner au château de Hourne ?"
+        },
+        {
+            "key": "024",
+            "value": "Si c'est le cas, nous devons vous arrêter !"
+        }
+    ]
+}

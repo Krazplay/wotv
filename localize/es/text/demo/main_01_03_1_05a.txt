@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "…"
+        },
+        {
+            "key": "002",
+            "value": "¿Qué pasa?"
+        },
+        {
+            "key": "003",
+            "value": "¿Aún te duelen las heridas?"
+        },
+        {
+            "key": "004",
+            "value": "No, no es eso."
+        },
+        {
+            "key": "005",
+            "value": "Creo que es mejor que no vaya a Wezette…"
+        },
+        {
+            "key": "006",
+            "value": "No hay nada que temer."
+        },
+        {
+            "key": "007",
+            "value": "Pe-pero seguro que se piensan que soy un espía de Hourne."
+        },
+        {
+            "key": "008",
+            "value": "Solo serviría para traer más problemas a Leonis."
+        },
+        {
+            "key": "009",
+            "value": "No tengas miedo. Algo tan trivial no afectará a nuestra relación."
+        },
+        {
+            "key": "010",
+            "value": "…"
+        },
+        {
+            "key": "011",
+            "value": "Al contrario, quizá quieran convertirte en su vasallo."
+        },
+        {
+            "key": "012",
+            "value": "¿Yo? ¿Bajo las órdenes del rey Kuri de Wezette?"
+        },
+        {
+            "key": "013",
+            "value": "No lo descartaría."
+        },
+        {
+            "key": "014",
+            "value": "Hace décadas que el rey Wezette no cuenta con un líder de tu calibre."
+        },
+        {
+            "key": "015",
+            "value": "Seguro que se emociona de tan solo pensar que el Intrépido de Solidus podría acabar en su bando."
+        },
+        {
+            "key": "016",
+            "value": "Eso no me parece muy rea…"
+        },
+        {
+            "key": "017",
+            "value": "Es una observación lógica. A lo mejor, hasta quiere que heredes el trono de Wezette algún día."
+        },
+        {
+            "key": "018",
+            "value": "¿Yo? ¿Heredero del trono de Wezette?"
+        },
+        {
+            "key": "019",
+            "value": "Ah, perdona. Me había olvidado de que hace poco perdiste a tu prometida…"
+        }
+    ]
+}

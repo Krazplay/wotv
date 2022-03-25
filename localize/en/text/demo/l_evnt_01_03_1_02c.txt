@@ -1,0 +1,596 @@
+﻿{
+    "infos": [
+        {
+            "key": "053",
+            "value": "Yikes... I wasn't expecting to be assailed by monsters the moment we arrived."
+        },
+        {
+            "key": "054",
+            "value": "The reports appear to be accurate. The Core Crystal's magic causes monsters to grow more belligerent."
+        },
+        {
+            "key": "055",
+            "value": "Clearly, we are on the right path. The Core Crystal is somewhere in this land."
+        },
+        {
+            "key": "056",
+            "value": "Do you see that fortress over yonder? That is Wezette Castle."
+        },
+        {
+            "key": "057",
+            "value": "It's incredible..."
+        },
+        {
+            "key": "058",
+            "value": "However, we are not here to indulge the sights."
+        },
+        {
+            "key": "059",
+            "value": "Our mission is to recover the Core Crystal."
+        },
+        {
+            "key": "060",
+            "value": "Yes, sir!"
+        },
+        {
+            "key": "061",
+            "value": "Unfortunately, it is not here. I sense vague traces, but not the Crystal itself."
+        },
+        {
+            "key": "062",
+            "value": "Do you think someone beat us to it?"
+        },
+        {
+            "key": "063",
+            "value": "That is possible. Or it could be in the belly of some monster, for all we know."
+        },
+        {
+            "key": "064",
+            "value": "In the belly of a monster? That brings back memories I'd rather forget."
+        },
+        {
+            "key": "065",
+            "value": "Whatever the circumstances, our mission remains unchanged. No matter who, or what monsters may get in our way."
+        },
+        {
+            "key": "066",
+            "value": "Huh?"
+        },
+        {
+            "key": "067",
+            "value": "These ones look rather hungry, too. Behold the bared fangs and slavering maws."
+        },
+        {
+            "key": "068",
+            "value": "Do you think they're under the Core Crystal's spell, too?"
+        },
+        {
+            "key": "069",
+            "value": "Most likely, yes."
+        },
+        {
+            "key": "070",
+            "value": "But bewitched by the Crystal or not, they are not afforded its protection."
+        },
+        {
+            "key": "071",
+            "value": "As a Warrior of the Crystals, I cannot let these beasts run amok."
+        },
+        {
+            "key": "072",
+            "value": "Come! Let us deal with them—swiftly and decisively."
+        },
+        {
+            "key": "073",
+            "value": "...Hmph. Their bark was worse than their bite."
+        },
+        {
+            "key": "074",
+            "value": "For frenzied monsters, they seemed slow on their feet."
+        },
+        {
+            "key": "075",
+            "value": "Well noted, apprentice. Apparently Jeume and Cetia managed to teach you some things on your journeys."
+        },
+        {
+            "key": "076",
+            "value": "Not only were these beasts half-starved, they were half-frozen, too."
+        },
+        {
+            "key": "077",
+            "value": "Even under the influence of the Core Crystal, they gained no strength worthy of deeming a threat."
+        },
+        {
+            "key": "078",
+            "value": "They were in too weakened a state to begin with."
+        },
+        {
+            "key": "079",
+            "value": "I see..."
+        },
+        {
+            "key": "080",
+            "value": "Nevertheless, they attack the moment they find prey. Their resolve is commendable, in the very least."
+        },
+        {
+            "key": "081",
+            "value": "That said, a large enough mob could be dangerous. Quantity has a quality all of its own."
+        },
+        {
+            "key": "082",
+            "value": "For now, let us make haste to Wezette and learn what we can."
+        },
+        {
+            "key": "083",
+            "value": "I hope we find some good clues."
+        },
+        {
+            "key": "084",
+            "value": "Indeed... Let us pray we can conclude this smoothly."
+        },
+        {
+            "key": "085",
+            "value": "I've asked around, but no one seems to know anything helpful about the Core Crystal."
+        },
+        {
+            "key": "086",
+            "value": "Sir? Is it just me, or is something off about these people? They all seem so―I don't know―lifeless."
+        },
+        {
+            "key": "087",
+            "value": "Yes. I noted that also, and dug around a little into the circumstances of this nation."
+        },
+        {
+            "key": "088",
+            "value": "Apparently, trouble is brewing between Wezette and its powerful neighbor to the west, Hourne."
+        },
+        {
+            "key": "089",
+            "value": "The situation is tense, and the people here are being driven into poverty and starvation, with no hope of fleeing elsewhere."
+        },
+        {
+            "key": "090",
+            "value": "Poverty, huh..."
+        },
+        {
+            "key": "091",
+            "value": "I feel like there are some people who are quite well fed."
+        },
+        {
+            "key": "092",
+            "value": "Those would be nobles. They curry favor with the king and live in luxury thanks to his protection."
+        },
+        {
+            "key": "093",
+            "value": "That doesn't sound fair. How can a king favor the few and leave most of his subjects to starve!"
+        },
+        {
+            "key": "094",
+            "value": "A country this big should have more than enough to go around."
+        },
+        {
+            "key": "095",
+            "value": "Perhaps, perhaps not. Either way, it is no concern of ours, and certainly not our place to meddle."
+        },
+        {
+            "key": "096",
+            "value": "Don't you care at all?"
+        },
+        {
+            "key": "097",
+            "value": "I care about our mission, apprentice. We are here to recover the Core Crystal. Or have you forgotten that?"
+        },
+        {
+            "key": "098",
+            "value": "If the people here do not have the will to help themselves, then what succor could we offer?"
+        },
+        {
+            "key": "099",
+            "value": "It is their duty to remedy their circumstances, yet these people stand about waiting with their collective mouths agape..."
+        },
+        {
+            "key": "100",
+            "value": "What a miserable lot. This is the price they pay for no longer engaging their minds, yet I doubt they even know it."
+        },
+        {
+            "key": "101",
+            "value": "I'm sorry to say, Lucio, but I cannot summon sympathy, nor even pity, for those who do not help themselves."
+        },
+        {
+            "key": "102",
+            "value": "To change your life, you must think, then act boldly."
+        },
+        {
+            "key": "103",
+            "value": "Time spent thinking about those who fail to even begin this process is time wasted."
+        },
+        {
+            "key": "104",
+            "value": "I-I suppose you might have a point, but..."
+        },
+        {
+            "key": "105",
+            "value": "You would do better not to judge these people so harshly."
+        },
+        {
+            "key": "106",
+            "value": "Um, who might you be?"
+        },
+        {
+            "key": "107",
+            "value": "My name is Glaciela. The successor to the throne of this realm, for the time being at least."
+        },
+        {
+            "key": "108",
+            "value": "And I'm Cadia, Lady Glaciela's sister and personal guard."
+        },
+        {
+            "key": "109",
+            "value": "The heir to the throne? An honor, indeed."
+        },
+        {
+            "key": "110",
+            "value": "But pray tell. Do members of the royal family often wander outside the castle accosting strangers?"
+        },
+        {
+            "key": "111",
+            "value": "...I come into the town to learn about the realm. To see how our people live, through their eyes."
+        },
+        {
+            "key": "112",
+            "value": "I could not help but overhear your conversation. It piqued my interest."
+        },
+        {
+            "key": "113",
+            "value": "We're not planning to start a rebellion, if that's what you think."
+        },
+        {
+            "key": "114",
+            "value": "No... But I agree with you, young man, and not your gentleman friend. This poverty must end."
+        },
+        {
+            "key": "115",
+            "value": "No one cares more for the plight of these people than my sister."
+        },
+        {
+            "key": "116",
+            "value": "It is no secret that Wezette is a land gripped by despair, bereft of hope."
+        },
+        {
+            "key": "117",
+            "value": "And yet here you are, discussing the plight of our people. It would be strange not to be gripped by curiosity."
+        },
+        {
+            "key": "118",
+            "value": "Our mistake was to speak too loudly. Lucio, in the future, when you have something to say, say it quietly."
+        },
+        {
+            "key": "119",
+            "value": "But you were the one who was getting all worked up..."
+        },
+        {
+            "key": "120",
+            "value": "Hehe, you are an interesting pair―and certainly not from these parts. Have you journeyed far?"
+        },
+        {
+            "key": "121",
+            "value": "Er, well, yes...and no. It's a little complicated."
+        },
+        {
+            "key": "122",
+            "value": "It is enough to state that we are travelers, in search of a Core Crystal."
+        },
+        {
+            "key": "123",
+            "value": "A crystal unlike any other, both in form and color. Most distinctive. You haven't, perchance, heard of such an artifact?"
+        },
+        {
+            "key": "124",
+            "value": "A Core Crystal...? My apologies, I am not sure I can help you."
+        },
+        {
+            "key": "125",
+            "value": "But allow me to clarify; it is definitely a form of crystal, yes?"
+        },
+        {
+            "key": "126",
+            "value": "Are you thinking what I'm thinking...?"
+        },
+        {
+            "key": "127",
+            "value": "Yes, I believe Minwu may know something."
+        },
+        {
+            "key": "128",
+            "value": "Who's Minwu?"
+        },
+        {
+            "key": "129",
+            "value": "A friend who knows a great deal about crystals and magic and the like. She is waiting for us back at our base."
+        },
+        {
+            "key": "130",
+            "value": "Maybe it was fate, us meeting here. Shall we introduce you?"
+        },
+        {
+            "key": "131",
+            "value": "What do you say, Lord Ranan?"
+        },
+        {
+            "key": "132",
+            "value": "I say yes, of course, without the slightest of doubt whatsoever."
+        },
+        {
+            "key": "133",
+            "value": "Then it is settled. Come on, we'll show you to the headquarters of «Spirare», my private brigade."
+        },
+        {
+            "key": "134",
+            "value": "We're back. Is Minwu around?"
+        },
+        {
+            "key": "135",
+            "value": "Lady Glaciela, you called?"
+        },
+        {
+            "key": "136",
+            "value": "I wanted to introduce you to some people. They are searching for a rare item known as a Core Crystal."
+        },
+        {
+            "key": "137",
+            "value": "Hello. My name is Lucio."
+        },
+        {
+            "key": "138",
+            "value": "Ranan, at your service."
+        },
+        {
+            "key": "139",
+            "value": "Pleased to meet you. I am Minwu, aide to Lady Glaciela."
+        },
+        {
+            "key": "140",
+            "value": "We were wondering if you might have heard talk of a rare and unusual crystal."
+        },
+        {
+            "key": "141",
+            "value": "An unusual crystal? Well...it's funny that you mention it..."
+        },
+        {
+            "key": "142",
+            "value": "What? You know something?"
+        },
+        {
+            "key": "143",
+            "value": "Yes. A story I just heard, from a friend in Wezette Castle..."
+        },
+        {
+            "key": "144",
+            "value": "Apparently, a new and unusual crystal was recently discovered."
+        },
+        {
+            "key": "145",
+            "value": "I don't know if it's the one you seek, but it may be worth a look."
+        },
+        {
+            "key": "146",
+            "value": "Our most promising lead thus far. I dared not hope that we would find the trail so quickly."
+        },
+        {
+            "key": "147",
+            "value": "If this crystal is the one you are looking for, is it something we should be worried about?"
+        },
+        {
+            "key": "148",
+            "value": "No. Not when it is used for its original purpose."
+        },
+        {
+            "key": "149",
+            "value": "Though it could be dangerous were it to fall into the hands of self-serving fools."
+        },
+        {
+            "key": "150",
+            "value": "I have heard that this realm is teetering on the brink of war with mighty Hourne."
+        },
+        {
+            "key": "151",
+            "value": "In such circumstances, military leaders could be tempted to risk everything for the promise of victory."
+        },
+        {
+            "key": "152",
+            "value": "There is enough magical power within the Core Crystal to tip the balance in a war."
+        },
+        {
+            "key": "153",
+            "value": "Oh, and we recently found out that monsters become extra ferocious when they are exposed to it."
+        },
+        {
+            "key": "154",
+            "value": "Which means its continued presence in these lands is actually pretty dangerous in itself."
+        },
+        {
+            "key": "155",
+            "value": "In that case...we might have a problem."
+        },
+        {
+            "key": "156",
+            "value": "What do you mean?"
+        },
+        {
+            "key": "157",
+            "value": "Apparently, the authorities have decided to study it in more detail."
+        },
+        {
+            "key": "158",
+            "value": "It's to be taken to the magic research institute."
+        },
+        {
+            "key": "159",
+            "value": "...Tsk. Of course it is."
+        },
+        {
+            "key": "160",
+            "value": "If what you say is true, this Core Crystal could provide the Wezette army with untold power."
+        },
+        {
+            "key": "161",
+            "value": "But it could be used for peaceful ends, too. Imagine being able to give the people new hope..."
+        },
+        {
+            "key": "162",
+            "value": "That's what we dream of, isn't it? ...But I doubt that would be allowed to happen."
+        },
+        {
+            "key": "163",
+            "value": "The nobles would have too much to lose. The common folk are made to suffer, to exist only as long as they can be exploited."
+        },
+        {
+            "key": "164",
+            "value": "......"
+        },
+        {
+            "key": "165",
+            "value": "What's on your mind, Lucio?"
+        },
+        {
+            "key": "166",
+            "value": "...Could we speak privately, sir?"
+        },
+        {
+            "key": "167",
+            "value": "I'm sorry, sir, but I didn't want to say this in front of the others."
+        },
+        {
+            "key": "168",
+            "value": "I see."
+        },
+        {
+            "key": "169",
+            "value": "If these people had the Core Crystal, they could use it to improve the lives of everyone in this country."
+        },
+        {
+            "key": "170",
+            "value": "But that will never happen if we take it away from here."
+        },
+        {
+            "key": "171",
+            "value": "It's almost as if we'd be stealing the one chance they have to mend this country."
+        },
+        {
+            "key": "172",
+            "value": "It makes me wonder if we're actually doing the right thing."
+        },
+        {
+            "key": "173",
+            "value": "So to help the people of this foreign land, you would cast aside your sworn duties? Does your oath mean so little?"
+        },
+        {
+            "key": "174",
+            "value": "That's not what I meant..."
+        },
+        {
+            "key": "175",
+            "value": "Let me give you a word of counsel. A Warrior of the Crystals must never waver. To do so is to willingly dull both mind and blade alike."
+        },
+        {
+            "key": "176",
+            "value": "Doubt is born of insufficient resolve. Allowed to fester, it will strip you of your courage."
+        },
+        {
+            "key": "177",
+            "value": "My resolve..."
+        },
+        {
+            "key": "178",
+            "value": "If you ever find yourself straying from the path, remember your mission! Focus on what must be done!"
+        },
+        {
+            "key": "179",
+            "value": "Suffer if you must, but never abandon your resolve. Always engage your mind, for in there you shall find hope."
+        },
+        {
+            "key": "180",
+            "value": "Lord Ranan..."
+        },
+        {
+            "key": "181",
+            "value": "In any case, it is up to this realm to solve its own problems."
+        },
+        {
+            "key": "182",
+            "value": "We are interlopers here, and it is not our place to meddle."
+        },
+        {
+            "key": "183",
+            "value": "Mind your own affairs, afore you worry about those of others."
+        },
+        {
+            "key": "184",
+            "value": "Y-you're right, of course. I'm sorry. I mustn't be so quick to forget my duty!"
+        },
+        {
+            "key": "185",
+            "value": "Bring back the Core Crystals and restore the balance of the universe. That's my mission!"
+        },
+        {
+            "key": "186",
+            "value": "Exactly, Lucio. You learn quickly."
+        },
+        {
+            "key": "187",
+            "value": "What are you two whispering about?"
+        },
+        {
+            "key": "188",
+            "value": "My apologies. A private matter, of no import."
+        },
+        {
+            "key": "189",
+            "value": "Now, Lady Minwu. Tell me where we might find this magic research institute."
+        },
+        {
+            "key": "190",
+            "value": "It lies beyond the snow plains. Not close, by any means, but it can be reached by foot."
+        },
+        {
+            "key": "191",
+            "value": "We are grateful for the information. If we move quickly, perhaps we can intercept the crystal before it reaches its destination."
+        },
+        {
+            "key": "192",
+            "value": "Yes! Thank you so much! We'll really appreciate― Er, Lord Ranan? Sir, wait for me!"
+        },
+        {
+            "key": "193",
+            "value": "...And there they go."
+        },
+        {
+            "key": "194",
+            "value": "Who were they, anyway?"
+        },
+        {
+            "key": "195",
+            "value": "I know not. They seemed well-intentioned, though."
+        },
+        {
+            "key": "196",
+            "value": "Well, then. It is time for me to leave, too."
+        },
+        {
+            "key": "197",
+            "value": "Sister...?"
+        },
+        {
+            "key": "198",
+            "value": "It's all right, Cadia. Khury wants to see me, that's all."
+        },
+        {
+            "key": "199",
+            "value": "Please be careful. That man is a cold-hearted brute."
+        },
+        {
+            "key": "200",
+            "value": "...Trust me, I know all too well what he is."
+        }
+    ]
+}

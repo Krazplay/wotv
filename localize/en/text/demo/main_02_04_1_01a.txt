@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "027",
+            "value": "Darling..."
+        },
+        {
+            "key": "028",
+            "value": "Eeek!"
+        },
+        {
+            "key": "029",
+            "value": "Are you all right?"
+        },
+        {
+            "key": "030",
+            "value": "Yes, it's just a scratch."
+        },
+        {
+            "key": "031",
+            "value": "Do not forget who it is you face."
+        },
+        {
+            "key": "032",
+            "value": "You think you have won just because you hold off the Ice Golem?"
+        },
+        {
+            "key": "033",
+            "value": "This doesn't bode well. It looks like they mean to surround us."
+        },
+        {
+            "key": "034",
+            "value": "Don't worry! I won't let that happen!"
+        },
+        {
+            "key": "035",
+            "value": "Eeek!"
+        },
+        {
+            "key": "036",
+            "value": "That nasty woman! All she does is aim for me!"
+        },
+        {
+            "key": "037",
+            "value": "They plot to surround us by keeping us pinned to this spot."
+        },
+        {
+            "key": "038",
+            "value": "What do we do?"
+        },
+        {
+            "key": "039",
+            "value": "I will draw Melnia's attention. That should give you the chance to move..."
+        },
+        {
+            "key": "040",
+            "value": "It won't work!"
+        },
+        {
+            "key": "041",
+            "value": "The risk is too great."
+        },
+        {
+            "key": "042",
+            "value": "Don't worry about me. I will not go beyond my bounds."
+        },
+        {
+            "key": "043",
+            "value": "Use this chance to thin the enemies' numbers as best you can."
+        },
+        {
+            "key": "044",
+            "value": "Let's go!"
+        },
+        {
+            "key": "045",
+            "value": "I can't believe King Mont at times..."
+        },
+        {
+            "key": "046",
+            "value": "There is naught for it. Let us fight back and fell as many foes as we can."
+        },
+        {
+            "key": "047",
+            "value": "Got it."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "FRIEND_INVITE_TITLE",
+            "value": "Invitar amigos"
+        },
+        {
+            "key": "FRIEND_INVITE_AMOUNT_TITLE",
+            "value": "N.º de invitaciones"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INVITE",
+            "value": "Invitar a un amigo"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INPUT",
+            "value": "Código de invitación"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_TITLE",
+            "value": "Recompensas por invitar a un amigo"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_DESC",
+            "value": "¡Invita a tus amigos al juego! Recibirás recompensas de regalo como bonificación cuando tus amigos jueguen."
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_CONDITION",
+            "value": "*Debes tener rango {0} como mínimo para invitar amigos."
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_TITLE",
+            "value": "Recompensas de código de invitación"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_CONDITION",
+            "value": "*Introduce el código de invitación antes de alcanzar el rango {0}."
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_RANK",
+            "value": "Puedes enviar invitaciones a partir del rango {0}."
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_LIMIT",
+            "value": "N.º máx. de invitaciones"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_CHALLANGE_MISSION",
+            "value": "Un amigo ha completado la siguiente tarea del tablón de desafíos n.º {0}: {1}"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_STORY",
+            "value": "Un amigo ha completado el capítulo {0}, escena {1}-{2} en las misiones de historia"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_LOGIN",
+            "value": "Un amigo se ha conectado {0} días seguidos"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_TITLE",
+            "value": "Código de invitación"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_DESC",
+            "value": "<line-height=36>Introduce el código de invitación que te ha enviado tu amigo"
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_TITLE",
+            "value": "¡Invitación aprobada!"
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_DESC",
+            "value": "Felicidades. <br>Se ha aprobado tu invitación de amigo. <br>Te hemos enviado algunas recompensas."
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_TITLE",
+            "value": "Invitación fallida"
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_DESC",
+            "value": "No se ha podido enviar tu invitación de amigo. <br>Ya tienes {0} invitaciones aprobadas."
+        }
+    ]
+}

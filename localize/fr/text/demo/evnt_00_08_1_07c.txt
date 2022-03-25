@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ah, c'est comme ça qu'on remercie la bonté, chez les Yezaghs ?"
+        },
+        {
+            "key": "002",
+            "value": "Ce n'est pas contre toi."
+        },
+        {
+            "key": "003",
+            "value": "Je ne sais pas quels mensonges Sadali t'a glissés à l'oreille, mais..."
+        },
+        {
+            "key": "004",
+            "value": "Il ne veut prendre le contrôle de la guilde que pour répandre le malheur sur tous."
+        },
+        {
+            "key": "005",
+            "value": "Parce que ce n'est pas déjà ce que tu fais ?"
+        },
+        {
+            "key": "006",
+            "value": "Moi, je ne cherche pas la domination."
+        },
+        {
+            "key": "007",
+            "value": "Sous ma direction, la guilde vend des armes à tous les royaumes sans distinction."
+        },
+        {
+            "key": "008",
+            "value": "De cette façon, l'équilibre des pouvoirs est respecté."
+        },
+        {
+            "key": "009",
+            "value": "Tu te crois drôle ?"
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "L'équilibre des pouvoirs, tu dis ? Tu as vraiment l'impression d'avoir rendu le monde plus juste ?"
+        },
+        {
+            "key": "012",
+            "value": "Tu fais semblant d'ignorer ce qui nous est arrivé, à nous ?"
+        },
+        {
+            "key": "013",
+            "value": "Le peuple de Yezagh est réduit en esclavage depuis la nuit des temps."
+        },
+        {
+            "key": "014",
+            "value": "..."
+        },
+        {
+            "key": "015",
+            "value": "Mais nos souffrances prennent fin aujourd'hui."
+        },
+        {
+            "key": "016",
+            "value": "Aujourd'hui, je clos le chapitre de misère dans l'histoire de notre peuple !"
+        }
+    ]
+}

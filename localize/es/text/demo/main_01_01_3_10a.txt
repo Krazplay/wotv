@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Maldita sea. A buenas horas…"
+        },
+        {
+            "key": "002",
+            "value": "Anda, aquí estáis."
+        },
+        {
+            "key": "003",
+            "value": "Esa voz…"
+        },
+        {
+            "key": "004",
+            "value": "¡Es el rey Elde!"
+        },
+        {
+            "key": "005",
+            "value": "¡¿El rey?!"
+        },
+        {
+            "key": "006",
+            "value": "¿Habéis luchado contra Muraga?"
+        },
+        {
+            "key": "007",
+            "value": "Más bien lo hemos intentado."
+        },
+        {
+            "key": "008",
+            "value": "Vaya. Entonces, será mejor que avance."
+        },
+        {
+            "key": "009",
+            "value": "No, majestad. Lo mejor es retirarnos."
+        },
+        {
+            "key": "010",
+            "value": "¡Vaya! ¿La princesa guerrera se decanta por la retirada?"
+        },
+        {
+            "key": "011",
+            "value": "Mas, por desgracia, antes debemos encargarnos de esta basura."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Garh ..."
+        },
+        {
+            "key": "002",
+            "value": "Hey! War das etwa alles, was du drauf hast? Muss schon sagen, ich bin enttäuscht."
+        },
+        {
+            "key": "003",
+            "value": "Seid ihr wirklich das Beste, was Leonis zu bieten hat? Pfff, „Fortem“ – ein Witz!"
+        },
+        {
+            "key": "004",
+            "value": "Arch!"
+        },
+        {
+            "key": "005",
+            "value": "Euer Majestät!"
+        },
+        {
+            "key": "006",
+            "value": "K-Kümmert ... Euch nicht ... um mich ..."
+        },
+        {
+            "key": "007",
+            "value": "Aber ... Ihr seid schwer verletzt ..."
+        },
+        {
+            "key": "008",
+            "value": "Ihr verfluchten Hunde!"
+        },
+        {
+            "key": "009",
+            "value": "(Ornh, es ist an der Zeit, sich zurückzuziehen.)"
+        },
+        {
+            "key": "010",
+            "value": "(Auf keinen Fall! Ohne Frage wäre das ...)"
+        },
+        {
+            "key": "011",
+            "value": "(Das ist ein Befehl!)"
+        },
+        {
+            "key": "012",
+            "value": "Was, was? Ihr denkt doch nicht etwa an Flucht, oder?"
+        },
+        {
+            "key": "013",
+            "value": "Och, niemals! So was Feiges würde der große Ornh doch nie und nimmer tun!"
+        },
+        {
+            "key": "014",
+            "value": "Dann machen wir mal weiter, was?"
+        },
+        {
+            "key": "015",
+            "value": "Ja! Jetzt geht der Spaß erst richtig los!"
+        }
+    ]
+}

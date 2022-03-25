@@ -32,9 +32,12 @@ function parse_BirthTitle(data) {
 	arrayName[17] = "FINAL FANTASY IV"
 	arrayName[23] = "FINAL FANTASY X"
 	arrayName[27] = "FFXIV: Shadowbringers"
+	arrayName[28] = "FINAL FANTASY XV"
 	arrayName[29] = "FINAL FANTASY TACTICS"
 	arrayName[30] = "Gouga"
 	arrayName[31] = "Nier collab"
+	arrayName[33] = "Tomb Raider"
+	arrayName[34] = "Far Plane"
 	arrayName[54] = "Unaffiliated"
 	return arrayName;
 }
@@ -86,8 +89,18 @@ function parse_AnyData(data, iname, iname2 = null) {
 function get_datatable_Adventure() {
 	result = [];
 	for (let [key, value] of adventureAreaDropDeck) {
+		// Loop first to get the rate sum of the tables
+		let sum_table_rate = 0;
+		value.drop.forEach((table_params) => {
+			sum_table_rate += table_params.rate;
+		});
 		value.drop.forEach((table_params) => {
 			let table_loot = adventureDropDeckEntity.get(table_params.drop_id);
+			// Loop first to get the rate sum of the rewards in the table
+			let sum_reward_rate = 0;
+			table_loot.rewards.forEach((reward) => {
+				sum_reward_rate += reward.rate;
+			});
 			table_loot.rewards.forEach((reward) => {
 				let line = {};
 				line["area_iname"] = value["area_iname"];
@@ -98,20 +111,52 @@ function get_datatable_Adventure() {
 				line["rate"] = table_params.rate;
 				line["fever_rate"] = table_params.fever_rate;
 				line["fix_rate"] = table_params.fix_rate;
+				line["sum_table_rate"] = sum_table_rate;
 				line["reward_name"] = itemName[reward.iname] ? itemName[reward.iname] : reward.iname;
+				line["reward_raw_rate"] = reward.rate;
+				line["sum_reward_rate"] = sum_reward_rate;
 				//todo Use the bonus value from AdventureUnitBonusSetting, they may change in the future
 				//Bonus S=>1 M=>3 L=>5 XL=>10
-				line["reward_rate"] = ((table_params.rate + 0*table_params.fix_rate) * reward.rate / table_params.rate) / 1000;
-				line["reward_rate_s"] = round( ((table_params.rate + 1*table_params.fix_rate) * reward.rate / table_params.rate) / 1000, 3);
-				line["reward_rate_m"] = round( ((table_params.rate + 3*table_params.fix_rate) * reward.rate / table_params.rate) / 1000, 3);
-				line["reward_rate_l"] = round( ((table_params.rate + 5*table_params.fix_rate) * reward.rate / table_params.rate) / 1000, 3);
-				line["reward_rate_xl"] = round( ((table_params.rate + 10*table_params.fix_rate) * reward.rate / table_params.rate) / 1000, 3);
-				line["reward_rate_fever"] = round( ((table_params.fever_rate) * reward.rate / table_params.rate) / 1000, 3);
+				line["reward_rate"] =   round( ((table_params.rate + 0*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_s"] = round( ((table_params.rate + 1*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_m"] = round( ((table_params.rate + 3*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_l"] = round( ((table_params.rate + 5*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_xl"] = round( ((table_params.rate + 10*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_fever"] = round( ((table_params.fever_rate) * reward.rate / sum_reward_rate) / 1000, 3);
 				result.push(line);
 			});
 		});
 	}
 	return result;
+}
+
+/*
+	Print current special area in html ID open_event_areas
+*/
+function print_AdventureArea() {
+	// String result inserted in html element
+	let result = "";
+	// Current date, needed to check if an area is active
+	const curDate = Date.now();
+	// Loop adventure area
+	for (let [iname, object] of adventureArea) {
+		// Want to check only the temporary areas
+		if (object["begin_at"] && object["end_at"]) {
+			let begin = Date.parse(object["begin_at"]);
+			let end = Date.parse(object["end_at"]);
+			// Only if currently active
+			if (curDate > begin && curDate < end) {
+				result += "Event area "+iname+" open from "+object["begin_at"]+" to "+object["end_at"]+"<br/>";
+				// Multipart event have multiple dropset
+				object["drop"].forEach((dropset) => {
+					if (dropset["drop_start_at"]) {
+						result += "&emsp;&emsp;&emsp;"+dropset["drop_area_id"]+" from "+dropset["drop_start_at"]+" to "+dropset["drop_end_at"]+"<br/>";
+					}
+				})
+			}
+		}
+	}
+	document.getElementById("open_event_areas").innerHTML = result;
 }
 
 /*
@@ -856,6 +901,10 @@ function get_unit_board_skills(unit_iname, job_level) {
 	return result;
 }
 
+/* Result: [0-2]["base","board","master","total"][stat name]
+           0-2 is the level, 0=lvl 1, 1=lvl 99, 2=lvl 120
+		   "total" is the sum base + board + master
+*/
 // Get level stats 1, 99, and 120, then if lvl 99 or 120, add job_bonus stats
 function get_unit_stats(unit_iname) {
 	rstats = []; // Result, an array of stats hashes [{lv1},{lv99},{lv120}]
@@ -1027,6 +1076,23 @@ function get_unit_bonus_stats_wpassives(unit_iname) {
 	}
 }
 
+/*
+
+*/
+function get_passives_skills(unit_iname, job_level) {
+	let result = [];
+	let board = unitAbilityBoard.get(unit_iname);
+	// For each panel
+	board["panels"].forEach((panel) => {
+		// If panel require a job lvl <= job_level
+		if (panel["need_level"] <= job_level  && panel["panel_effect_type"] == 4 || panel["panel_effect_type"] == 4) {
+			result.push(skillName[panel.value]);
+		}
+	});
+	
+	return result;
+}
+
 // TODO
 function get_unit_passives(unit_iname, job_level) {
 	let bonuses = { "%":{}, "+":{} };
@@ -1102,6 +1168,271 @@ function union(setA, setB) {
         _union.add(elem)
     }
     return _union
+}
+
+/*
+	=========================================================================================================
+	=========================================================================================================
+	=========================================================================================================
+*/
+
+/*  v2
+	Input:  iname of a buff
+	Output: Hash with stats provided by the buff [atk%:20, slashAtk:15]
+*/
+function buff_id_to_stat_v2(buff_id, include_min=true) {
+	let result = {}
+	let buff_obj = buff.get(buff_id);
+	// Conditional and party wide buffs
+	if (buff_obj["conds"]) result["conds"] = buff_obj["conds"];
+	if (buff_obj["continues"]) result["continues"] = buff_obj["continues"];
+	
+	// Safe net in case with have buff with conds != continues in the future
+	if (buff_obj.conds && JSON.stringify(buff_obj.conds) != JSON.stringify(buff_obj.continues) ) {
+		console.log("Warning, conds != continues in buff "+buff_id);
+	}
+	
+	// As long as we find a buff effect type
+	for (let i=1; buff_obj["type"+i] != null ; i++) {
+		let type = buff_obj["type"+i];
+		let calc = buff_obj["calc"+i];
+		let tags = buff_obj["tag"+i];
+		let valmin = buff_obj["val"+i];
+		let valmax = buff_obj["val"+i+"1"];
+		// Convert type integer to stat string name
+		let stat = typestat[type];
+		// Check it's a known type, new ones are 
+		if (!stat) console.log("Buff "+buff_id+": Type "+type+" unknown in typestat");
+		
+		// calc 1 is the standard, flat bonus
+		if (calc == 1) {
+			if (include_min) result[stat+"_min"] = valmin;
+			result[stat] = valmax;
+		}
+		// calc 2 is usualy a % bonus
+		else if (calc == 2) {
+			if (include_min) result[stat+"%_min"] = valmin;
+			result[stat+"%"] = valmax;
+		}
+		// calc 3 is used for resistance bonuses
+		else if (calc == 3) {
+			if (include_min) result[stat+"_res_min"] = valmin;
+			result[stat+"_res"] = valmax;
+		}
+		// calc 30 with type 119 or 120 is element eater ad type killer
+		else if (calc == 30 && (type == 119 || type == 120)) {
+			for (let tag_id of tags) {
+				if (tagstat[tag_id]) {
+					if (include_min) result[stat+"_"+tagstat[tag_id]+"_min"] = valmin;
+					result[stat+"_"+tagstat[tag_id]] = valmax;
+				}
+				else {
+					console.log("Missing tagstat "+tag_id+" (buff "+buff_id+")");
+				}
+			}
+		}
+		else {
+			console.log("todo type "+type+"  calc "+calc+"  tags:"+tags);
+		}
+	}
+	return result;
+}
+
+// Assume all 3 jobs are at the same level
+function get_unit_board_bonuses_v2(unit_iname, job_level) {
+	let bonuses = { "%":{}, "+":{} };
+	let board = unitAbilityBoard.get(unit_iname);
+	
+	// For each panel
+	board["panels"].forEach((panel) => {
+		// If panel require a job lvl less or equal our parameter and is not a castable skill
+		// Skill for damage max up, we handle it
+		if (panel["need_level"] <= job_level && panel["panel_effect_type"] == 3) {
+			// Look for the skill
+			let skill_obj = skill.get(panel["value"]);
+			if (!skill_obj["t_buffs"] || skill_obj["t_buffs"].length != 1) console.log("Unexpected t_buffs size != 1, panel "+panel["panel_id"]+" skill"+skill_obj.iname+" from "+unit_iname);
+			// Look for the buff id in the panel
+			let buff_id = skill_obj["t_buffs"][0];
+			
+			bonuses = sum_of_bonuses(bonuses, buff_id_to_stat_v2(buff_id));
+		}
+		else if (panel["need_level"] <= job_level && panel["panel_effect_type"] != 1 && panel["panel_effect_type"] != 4) {
+			let new_stats = buff_id_to_stat_v2(panel["value"]);
+			bonuses = sum_of_bonuses(bonuses, new_stats);
+		}
+	});
+	
+	return bonuses;
+}
+
+/* Result: [0-2]["base","board","master","total"][stat name]
+           0-2 is the level, 0=lvl 1, 1=lvl 99, 2=lvl 120
+		   "total" is the sum base + board + master
+*/
+// Get level stats 1, 99, and 120, then if lvl 99 or 120, add job_bonus stats
+function get_unit_stats_v2(unit_iname) {
+	rstats = []; // Result, an array of stats hashes [{lv1},{lv99},{lv120}]
+	unit_obj = unit.get(unit_iname);
+	
+	// Must have status, units like chests don't have one
+	if (unit_obj.status) {
+		// Status => [{Lv1}, {Lv99}, {Lv120}]
+		for (let i=0; unit_obj.status[i]; i++) {
+			if (!rstats[i]) rstats[i] =	{};
+			if (!rstats[i]["base"]) rstats[i]["base"] =	{};
+			if (!rstats[i]["total"]) rstats[i]["total"] =	{};
+			rstats[i]["base"]["lvl"] = ["1","99","120"][i];
+			// Easier name for current level stats
+			let lvl_stats = unit_obj.status[i];
+			// Get the jobs % stats bonuses
+			job_bonus = {};
+			// If the unit has jobs, grab bonus rates of all jobs, ignore for level 1
+			if (unit_obj.jobsets && i>0) {
+				unit_obj.jobsets.forEach((job_id, index) => {
+					job_obj = job.get(job_id);
+					// First job bonus is 100%, else use the sub_rate (always 50% so far)
+					let rate = (index == 0) ? 100 : job_obj["sub_rate"]
+					// Sometimes we don't have full stats in a job, we only have them in the 'origin' job
+					let job_origin = job.get(job_obj["origin"]);
+					// If no val for iniap in unit, use the main job one // todo check EX jobs
+					if (index == 0 && lvl_stats["iniap"] == null) {
+						if (job_obj["ranks"][14]) lvl_stats["iniap"] = job_obj["ranks"][14]["iniap"];
+						else lvl_stats["iniap"] = job_origin["ranks"][14]["iniap"];
+					}
+					// For each stat, calculate the sum of job % bonus
+					stats_list.forEach((stat) => {
+						if (job_bonus[stat] == null) job_bonus[stat] = 0; // init
+						// EX job replace the old job, check if level>=120, it's main job, and ccsets exist
+						if (i>1 && index == 0 && unit_obj["ccsets"]) {
+							let exjob_obj = job.get(unit_obj["ccsets"][0]["m"]);
+							// Tricky, if EX stats are missing, check the job in param 'origin'
+							if (exjob_obj["ranks"][1] == null) {
+								exjob_obj = job.get(exjob_obj["origin"]);
+							}
+							max_rank = exjob_obj["ranks"].length-1
+							// If the stat rate bonus exist, add it to job_bonus
+							if (exjob_obj["ranks"][max_rank][stat]) {
+								job_bonus[stat] += exjob_obj["ranks"][max_rank][stat] * rate / 100;
+							}
+						}
+						else {
+							// If the stat rate bonus exist, add it to job_bonus
+							if (job_obj["ranks"][14] && job_obj["ranks"][14][stat]) {
+								job_bonus[stat] += job_obj["ranks"][14][stat] * rate / 100;
+							}
+							// Once again trick, stat may be only in origin job
+							else if (job_origin && job_origin["ranks"][14][stat]) {
+								job_bonus[stat] += job_origin["ranks"][14][stat] * rate / 100;
+							}
+						}
+					});
+				});
+			}
+			// Calculate the stats
+			stats_list.forEach((stat) => {
+				if (job_bonus[stat] == null) job_bonus[stat] = 0;
+				if (lvl_stats[stat]) {
+					rstats[i]["base"][stat] = lvl_stats[stat];
+					rstats[i]["base"][stat] += Math.floor(lvl_stats[stat] * job_bonus[stat] / 10000);
+				}
+				//else { rstats[i]["base"][stat] = ""; }
+				rstats[i]["total"][stat] = rstats[i]["base"][stat];
+			});
+			// Can't have kill stats with base stats
+			//rstats[i]["base"]["kill"] = [];
+			
+			//---------------------------
+			// Board stats
+			//---------------------------
+			if (i>0) {
+				// init
+				if (!rstats[i]["board"]) rstats[i]["board"] = {};
+				// Assume lvl99 = job lvl 15 is max, lvl 120 => main job level 25
+				let board_job_level = [0,15,25][i];
+				// Get the sum of bonuses for this job level
+				let board_bonus = get_unit_board_bonuses(unit_obj.iname, board_job_level);
+				// Add the bonuses to the hash "board"
+				
+				for (const [stat, bonus_amnt] of Object.entries(board_bonus["%"])) {
+					if (!rstats[i]["board"][stat]) rstats[i]["board"][stat] = 0;
+					if (!rstats[i]["total"][stat]) rstats[i]["total"][stat] = 0;
+					let gain = Math.floor(bonus_amnt * rstats[i]["base"][stat] / 100);
+					rstats[i]["board"][stat] += gain;
+					rstats[i]["total"][stat] += gain;
+				}
+				for (const [stat, bonus_amnt] of Object.entries(board_bonus["+"])) {
+					if (!rstats[i]["board"][stat]) rstats[i]["board"][stat] = 0;
+					if (!rstats[i]["total"][stat]) rstats[i]["total"][stat] = 0;
+					rstats[i]["board"][stat] += bonus_amnt;
+					rstats[i]["total"][stat] += bonus_amnt;
+				}
+				if (board_bonus["kill"]) rstats[i]["board"]["kill"] = union(rstats[i]["board"]["kill"], board_bonus["kill"]);
+				if (board_bonus["kill"]) rstats[i]["total"]["kill"] = union(rstats[i]["total"]["kill"], board_bonus["kill"]);
+				// Party bonuses
+				if (board_bonus["party"]) rstats[i]["board"]["party"] = board_bonus["party"];
+				if (board_bonus["party"]) rstats[i]["total"]["party"] = board_bonus["party"];
+			}
+			
+			//---------------------------
+			// Master skill stats
+			//---------------------------
+			if (i>0 && unit_obj.mstskl) {
+				// Get only the last master skill (when more than one, they don't stack)
+				let mst_skl_id = unit_obj.mstskl[unit_obj.mstskl.length-1];
+				let list_buffs = get_buffs_from_skill_id(mst_skl_id);
+				let bonuses = { "%":{}, "+":{} };
+				list_buffs.forEach((buff_id) => {
+					bonuses = sum_of_bonuses(bonuses, buff_id_to_stat_v2(buff_id));
+				});
+				// init
+				if (!rstats[i]["master"]) rstats[i]["master"] = {};
+				// Add master bonus to the hash "master"
+				for (const [stat, bonus_amnt] of Object.entries(bonuses["%"])) {
+					if (!rstats[i]["master"][stat]) rstats[i]["master"][stat] = 0;
+					if (!rstats[i]["total"][stat]) rstats[i]["total"][stat] = 0;
+					let gain = Math.floor(bonus_amnt * rstats[i]["base"][stat] / 100);
+					rstats[i]["master"][stat] += gain;
+					rstats[i]["total"][stat] += gain;
+				}
+				for (const [stat, bonus_amnt] of Object.entries(bonuses["+"])) {
+					if (!rstats[i]["master"][stat]) rstats[i]["master"][stat] = 0;
+					if (!rstats[i]["total"][stat]) rstats[i]["total"][stat] = 0;
+					rstats[i]["master"][stat] += bonus_amnt;
+					rstats[i]["total"][stat] += bonus_amnt;
+				}
+				if (bonuses["kill"]) rstats[i]["master"]["kill"] = union(rstats[i]["master"]["kill"], bonuses["kill"]);
+				if (bonuses["kill"]) rstats[i]["total"]["kill"] = union(rstats[i]["total"]["kill"], bonuses["kill"]);
+				
+				// Party bonuses
+				if (bonuses["party"]) rstats[i]["master"]["party"] = bonuses["party"];
+				if (bonuses["party"]) rstats[i]["total"]["party"] = sum_party_stats(rstats[i]["total"]["party"], bonuses["party"]);
+			}
+			
+			// Still doubting about -1 in acc and evade => cause rounding issue when negative ? may switch to "worse round"
+			// Accuracy = 11*dex^0.20 /20   + luk^0.96/200 -1
+			// Evade    = 11*agi^0.90 /1000 + luk^0.96/200 -1
+			// Crit     =    dex^0.35 / 4 -1
+			// Crit avd =    luk^0.37 / 5 -1
+			rstats[i]["base"]["hit_stat"]  = Math.floor( (100*11*Math.pow(rstats[i]["base"]["dex"], 0.20)/20) + (100*Math.pow(rstats[i]["base"]["luk"], 0.96)/200) - 100 )
+			rstats[i]["total"]["hit_stat"] = Math.floor( (100*11*Math.pow(rstats[i]["total"]["dex"], 0.20)/20) + (100*Math.pow(rstats[i]["total"]["luk"], 0.96)/200) - 100 )
+			if (rstats[i]["total"]["hit"]) rstats[i]["total"]["hit_stat"] += rstats[i]["total"]["hit"];
+			rstats[i]["base"]["avd_stat"]  = Math.floor( (100*11*Math.pow(rstats[i]["base"]["spd"], 0.90)/1000) + (100*Math.pow(rstats[i]["base"]["luk"], 0.96)/200) - 100 )
+			rstats[i]["total"]["avd_stat"] = Math.floor( (100*11*Math.pow(rstats[i]["total"]["spd"], 0.90)/1000) + (100*Math.pow(rstats[i]["total"]["luk"], 0.96)/200) - 100 )
+			if (rstats[i]["total"]["avd"]) rstats[i]["total"]["avd_stat"] += rstats[i]["total"]["avd"];
+		}
+	}
+	return rstats;
+}
+
+/*  v2
+	Return sum of 2 stats hashes
+*/
+function sum_of_stats(hash1, hash2) {
+	for (const [stat, value] of Object.entries(hash2)) {
+		if (hash1[stat]) hash1[stat] += hash2[stat];
+		else hash1[stat] = hash2[stat];
+	}
+	return hash1;
 }
 
 // 

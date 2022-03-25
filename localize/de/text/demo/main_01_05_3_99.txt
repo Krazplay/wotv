@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Mont ... Deinem Schicksal kannst du nicht entkommen!"
+        },
+        {
+            "key": "002",
+            "value": "Nein, aber ich kann es ändern! Ich weiß, dass ich es kann!"
+        },
+        {
+            "key": "003",
+            "value": "Das ist wahrlich ein Anblick für die Götter. Haha."
+        },
+        {
+            "key": "004",
+            "value": "Endlich werden wir uns Leonis’ entledigen!"
+        },
+        {
+            "key": "005",
+            "value": "Das werde ich nicht zulassen!"
+        },
+        {
+            "key": "006",
+            "value": "Was zur ...?!"
+        },
+        {
+            "key": "007",
+            "value": "... Gilgamesch!"
+        },
+        {
+            "key": "008",
+            "value": "Und so zeigt er sich ... "
+        },
+        {
+            "key": "009",
+            "value": "Ein solch entscheidender Kampf hier und jetzt würde meine Pläne ad absurdum führen."
+        },
+        {
+            "key": "010",
+            "value": "Das ist für mich unerheblich."
+        },
+        {
+            "key": "011",
+            "value": "... Habt ihr das schon vergessen? Ihr alle lebt und sterbt nach meiner Laune."
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "Ihr werdet euch zurückziehen, bis die Zeit reif ist."
+        },
+        {
+            "key": "014",
+            "value": "Und dann werde ich mich auch nicht mehr einmischen. Ihr werdet freie Hand haben, euch ganz nach Belieben gegenseitig umzubringen."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "J'apporte des nouvelles, Votre Majesté !"
+        },
+        {
+            "key": "002",
+            "value": "Je t'écoute."
+        },
+        {
+            "key": "003",
+            "value": "Il semble que les bandits se rassemblent dans la forêt devant nous."
+        },
+        {
+            "key": "004",
+            "value": "Ils sont trois fois plus nombreux que nous."
+        },
+        {
+            "key": "005",
+            "value": "Voilà qui confirme que ce ne sont pas des bandits ordinaires. Ils sont bien trop nombreux."
+        },
+        {
+            "key": "006",
+            "value": "De qui tiennent-ils leurs ordres ?"
+        },
+        {
+            "key": "007",
+            "value": "Ne faudrait-il pas demander à dame Machalie ?"
+        },
+        {
+            "key": "008",
+            "value": "Il semble évident que nous ne sommes pas leurs cibles. Ils en ont plutôt après vous."
+        },
+        {
+            "key": "009",
+            "value": "Malheureusement... j'ai beaucoup d'ennemis."
+        }
+    ]
+}

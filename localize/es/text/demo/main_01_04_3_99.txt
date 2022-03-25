@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Queréis saber lo que está sucediendo en Wezette?"
+        },
+        {
+            "key": "002",
+            "value": "Pues claro."
+        },
+        {
+            "key": "003",
+            "value": "¿Y eso por qué?"
+        },
+        {
+            "key": "004",
+            "value": "Estoy preocupado por Graciela."
+        },
+        {
+            "key": "005",
+            "value": "Lady Graciela no tiene ningún interés en que os convirtáis en los prisioneros del rey Kuri."
+        },
+        {
+            "key": "006",
+            "value": "¿Qué quieres decir?"
+        },
+        {
+            "key": "007",
+            "value": "¿Es que no lo sabéis? Lady Graciela está planeando hacerse con el trono."
+        },
+        {
+            "key": "008",
+            "value": "¡No digas tonterías!"
+        },
+        {
+            "key": "009",
+            "value": "Graciela ya es la heredera al trono. ¿Por qué iba a hacer algo así?"
+        },
+        {
+            "key": "010",
+            "value": "El trono le pertenece por derecho…"
+        },
+        {
+            "key": "011",
+            "value": "Lady Graciela necesita vuestra ayuda."
+        },
+        {
+            "key": "012",
+            "value": "Por eso, me envió a buscaros."
+        },
+        {
+            "key": "013",
+            "value": "¿Y qué pasa si nos negamos?"
+        },
+        {
+            "key": "014",
+            "value": "Me temo que esa no es una opción."
+        },
+        {
+            "key": "015",
+            "value": "¿Quién te crees que eres para decidir eso?"
+        },
+        {
+            "key": "016",
+            "value": "Yo lo decido porque, sin mi ayuda, no llegarías con vida a Wezette ni de milagro."
+        },
+        {
+            "key": "017",
+            "value": "¿A esto lo llamas tú ayuda?"
+        }
+    ]
+}

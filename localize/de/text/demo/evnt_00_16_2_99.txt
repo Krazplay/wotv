@@ -1,0 +1,364 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Du lässt sie einfach so davonziehen?"
+        },
+        {
+            "key": "002",
+            "value": "Ich brauche meine Zeit nicht mit Lakaien und Handlangern zu verschwenden."
+        },
+        {
+            "key": "003",
+            "value": "Ich verstehe."
+        },
+        {
+            "key": "004",
+            "value": "Nun gut. Wir haben die Klinge. Sollen wir heimgehen?"
+        },
+        {
+            "key": "005",
+            "value": "Der Alte macht sich sicher schon Sorgen um uns."
+        },
+        {
+            "key": "006",
+            "value": "Ich gehe nicht zurück."
+        },
+        {
+            "key": "007",
+            "value": "Was? Warum nicht?"
+        },
+        {
+            "key": "008",
+            "value": "Es war doch nur ein Scherz, dass du aufgehört hast, oder?"
+        },
+        {
+            "key": "009",
+            "value": "Ich habe keinen Ort mehr, an den ich zurückkehren kann."
+        },
+        {
+            "key": "010",
+            "value": "Nicht?"
+        },
+        {
+            "key": "011",
+            "value": "Die Stätte sucht bereits nach unserem Meister."
+        },
+        {
+            "key": "012",
+            "value": "Darum musste ich dich und Chell von diesem Ort wegführen."
+        },
+        {
+            "key": "013",
+            "value": "Ich tat dies nur, um unsere Feinde abzuschütteln."
+        },
+        {
+            "key": "014",
+            "value": "Und der Alte?"
+        },
+        {
+            "key": "015",
+            "value": "Er hat längst das Anwesen verlassen. Dessen bin ich mir sicher."
+        },
+        {
+            "key": "016",
+            "value": "Doch ich weiß nicht, wo er sich versteckt."
+        },
+        {
+            "key": "017",
+            "value": "Gut. Sollten wir ihn suchen?"
+        },
+        {
+            "key": "018",
+            "value": "Eine gute Idee. Das überlasse ich dir."
+        },
+        {
+            "key": "019",
+            "value": "Und wo willst du hingehen, Bruder?"
+        },
+        {
+            "key": "020",
+            "value": "Ich? Ich habe noch etwas zu erledigen."
+        },
+        {
+            "key": "021",
+            "value": "Die verbleibenden fünf Klingen?"
+        },
+        {
+            "key": "022",
+            "value": "Exakt. Und darum verabschieden wir uns hier."
+        },
+        {
+            "key": "023",
+            "value": "Nein. Wenn dem so ist, dann gehe ich mit dir."
+        },
+        {
+            "key": "024",
+            "value": "Ich möchte auch mit!"
+        },
+        {
+            "key": "025",
+            "value": "Nein, ich kann euch zwei nicht diesem Risiko aussetzen."
+        },
+        {
+            "key": "026",
+            "value": "Bruder ..."
+        },
+        {
+            "key": "027",
+            "value": "Aber warum? Warum können wir nicht mitgehen?"
+        },
+        {
+            "key": "028",
+            "value": "Die Lage ist nun anders. Meine Reise wird unangenehm sein."
+        },
+        {
+            "key": "029",
+            "value": "Weil die Stätte nicht aufgeben wird, bis sie die Klinge haben?"
+        },
+        {
+            "key": "030",
+            "value": "So sieht es aus."
+        },
+        {
+            "key": "031",
+            "value": "Männer wie Khamral sind nichts als Handlanger."
+        },
+        {
+            "key": "032",
+            "value": "Aber auch sie werden nichts unversucht lassen, um ihre bösartigen Ziele zu erreichen."
+        },
+        {
+            "key": "033",
+            "value": "Pass gut auf meine Geschwister auf."
+        },
+        {
+            "key": "034",
+            "value": "Das geht nicht. Ich ..."
+        },
+        {
+            "key": "035",
+            "value": "Du warst bereit dein Leben zu lassen, nicht wahr?"
+        },
+        {
+            "key": "036",
+            "value": "Willst du etwa sagen, dass ich es dir jetzt schulde?"
+        },
+        {
+            "key": "037",
+            "value": "Natürlich nicht. Du selbst hast dich dazu entschlossen, weiterzuleben."
+        },
+        {
+            "key": "038",
+            "value": "Du hast dem Tod widersagt und stattdessen an meiner Seite gekämpft."
+        },
+        {
+            "key": "039",
+            "value": "Ich habe ebenfalls eine offene Rechnung mit der Stätte. Das ist alles."
+        },
+        {
+            "key": "040",
+            "value": "Ich weiß. Und eben diese Stätte würde auch vor meiner Familie nicht halt machen."
+        },
+        {
+            "key": "041",
+            "value": "Aber warum ich?"
+        },
+        {
+            "key": "042",
+            "value": "Deine Stärke habe ich in unserem gemeinsamen Kampf deutlich sehen können."
+        },
+        {
+            "key": "043",
+            "value": "....."
+        },
+        {
+            "key": "044",
+            "value": "Ho-ho!"
+        },
+        {
+            "key": "045",
+            "value": "Verzeih, Chell. Ich muss eine Weile allein reisen."
+        },
+        {
+            "key": "046",
+            "value": "Nein, das lasse ich nicht zu! Ich will bei dir sein!"
+        },
+        {
+            "key": "047",
+            "value": "Für immer und immer! Immer und immer und immer!"
+        },
+        {
+            "key": "048",
+            "value": "Alle Männer erreichen in ihrem Leben eine Zeit, zu der sie ihre Pflicht erfüllen müssen."
+        },
+        {
+            "key": "049",
+            "value": "Es wird nicht lange dauern. Ich komme wieder, sobald meine Aufgabe erfüllt ist."
+        },
+        {
+            "key": "050",
+            "value": "Meinst du es auch? Wird es wirklich nicht lange dauern?"
+        },
+        {
+            "key": "051",
+            "value": "Ja, Chell. Das wird es nicht."
+        },
+        {
+            "key": "052",
+            "value": "Versprich mir, dass du in der Zwischenzeit auch deine Aufgabe gut erfüllst."
+        },
+        {
+            "key": "053",
+            "value": "Was denn für eine Aufgabe?"
+        },
+        {
+            "key": "054",
+            "value": "Du musst natürlich dieser jungen Dame ein Lächeln ins Gesicht zaubern."
+        },
+        {
+            "key": "055",
+            "value": "Ein Lächeln?"
+        },
+        {
+            "key": "056",
+            "value": "Du wolltest sie doch lächeln sehen, oder?"
+        },
+        {
+            "key": "057",
+            "value": "Stimmt!"
+        },
+        {
+            "key": "058",
+            "value": "Gut, warte nur ab! Genau das mache ich!"
+        },
+        {
+            "key": "059",
+            "value": "Und da ist noch mehr. Auch du musst stark werden."
+        },
+        {
+            "key": "060",
+            "value": "Das werde ich! Ich werde richtig stark."
+        },
+        {
+            "key": "061",
+            "value": "Und du musst noch schöner werden."
+        },
+        {
+            "key": "062",
+            "value": "Warum denn das?"
+        },
+        {
+            "key": "063",
+            "value": "Damit ich mich bei meiner Rückkehr auf noch mehr freuen kann."
+        },
+        {
+            "key": "064",
+            "value": "Alles klar!"
+        },
+        {
+            "key": "065",
+            "value": "Titus, bewahre Chell vor jeglichen hinterhältigen Ratten, die uns folgen."
+        },
+        {
+            "key": "066",
+            "value": "Ich bin nicht so im Kampfe wie du."
+        },
+        {
+            "key": "067",
+            "value": "Aber du bist mein Bruder. Du schaffst das."
+        },
+        {
+            "key": "068",
+            "value": "Sonst wärst du nicht als mein Bruder geboren worden."
+        },
+        {
+            "key": "069",
+            "value": "Ich weiß ja nicht, ob die Logik so stimmt.　"
+        },
+        {
+            "key": "070",
+            "value": "Verzeih, Titus. Wer mächtig ist wie ich, neigt zu überschäumendem Selbstvertrauen. Ich versuche bereits, mich zurückzuhalten, auch wenn es nicht so wirkt."
+        },
+        {
+            "key": "071",
+            "value": "Ich werde dir das mal abnehmen."
+        },
+        {
+            "key": "072",
+            "value": "Damit wäre das erledigt."
+        },
+        {
+            "key": "073",
+            "value": "Ich muss erneut nachfragen. Willst du wirklich deine Geschwister einer Fremden wie mir anvertrauen?"
+        },
+        {
+            "key": "074",
+            "value": "Chell ist mein kostbarer Schatz und mein ganzer Stolz."
+        },
+        {
+            "key": "075",
+            "value": "Verzeih."
+        },
+        {
+            "key": "076",
+            "value": "Wäre ich so stark wie mein Bruder, müssten wir dir dies nicht aufbürden."
+        },
+        {
+            "key": "077",
+            "value": "Nein ..."
+        },
+        {
+            "key": "078",
+            "value": "Es gibt nichts zu verzeihen. Ich schulde dir vielmehr meinen Dank."
+        },
+        {
+            "key": "079",
+            "value": "Warum das?"
+        },
+        {
+            "key": "080",
+            "value": "Wenn ich heute zu meinem verstorbenen Bruder gegangen wäre, wie ich es geplant hatte, hätte er mir nie verziehen."
+        },
+        {
+            "key": "081",
+            "value": "Er hätte mich gerügt, weil ich deine liebe Schwester nicht beschützt habe ..."
+        },
+        {
+            "key": "082",
+            "value": "Wenn ich ihn einst wiedersehe, möchte ich ihm mit erhobenem Kopf begegnen."
+        },
+        {
+            "key": "083",
+            "value": "Erlaube mir also, dies zu tun."
+        },
+        {
+            "key": "084",
+            "value": "....."
+        },
+        {
+            "key": "085",
+            "value": "Ich fürchte, ich kann dir kein Lächeln versprechen."
+        },
+        {
+            "key": "086",
+            "value": "Meine Wunden sind tief und die Narben verheilen nicht mehr."
+        },
+        {
+            "key": "087",
+            "value": "Dennoch ..."
+        },
+        {
+            "key": "088",
+            "value": "Vielleicht kann ich anderen ein Lächeln aufs Gesicht zaubern, wenn ich weiterlebe."
+        },
+        {
+            "key": "089",
+            "value": "Ja."
+        },
+        {
+            "key": "090",
+            "value": "Wenn das jemand kann, dann du."
+        }
+    ]
+}

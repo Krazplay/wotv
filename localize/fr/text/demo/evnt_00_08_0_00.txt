@@ -1,0 +1,132 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Écoutez-moi bien, misérables !"
+        },
+        {
+            "key": "002",
+            "value": "Vous feriez mieux de vous dépêcher si vous espérez pouvoir manger ce soir !"
+        },
+        {
+            "key": "003",
+            "value": "Ah... !"
+        },
+        {
+            "key": "004",
+            "value": "Velne ! Est-ce que ça va ? Tiens bon !"
+        },
+        {
+            "key": "005",
+            "value": "Qu'est-ce que vous fabriquez ?"
+        },
+        {
+            "key": "006",
+            "value": "Ma sœur est à bout de force. Laissez-la reprendre son souffle s'il vous plaît."
+        },
+        {
+            "key": "007",
+            "value": "La marque sur ton bras... Tu es de Yezagh."
+        },
+        {
+            "key": "008",
+            "value": "..."
+        },
+        {
+            "key": "009",
+            "value": "Vous n'êtes rien de plus que du bétail pour nous."
+        },
+        {
+            "key": "010",
+            "value": "Mais..."
+        },
+        {
+            "key": "011",
+            "value": "Le visage de cette fille n'est pas si mal quand on y regarde de plus près."
+        },
+        {
+            "key": "012",
+            "value": "Je vous interdis de poser le doigt sur Velne !"
+        },
+        {
+            "key": "013",
+            "value": "Oh... Ce joli visage a donc un nom."
+        },
+        {
+            "key": "014",
+            "value": "Eh bien Velne, je pourrais bien faire une exception. À toi de me convaincre que tu mérites cette pause."
+        },
+        {
+            "key": "015",
+            "value": "Viens avec moi !"
+        },
+        {
+            "key": "016",
+            "value": "Quoi ? Tu oses t'interposer ?"
+        },
+        {
+            "key": "017",
+            "value": "Touche-la, et tu es un homme mort."
+        },
+        {
+            "key": "018",
+            "value": "Intéressant."
+        },
+        {
+            "key": "019",
+            "value": "Et tu comptes m'en empêcher comment, esclave ?"
+        },
+        {
+            "key": "020",
+            "value": "..."
+        },
+        {
+            "key": "021",
+            "value": "Une fois que j'en aurai fini avec toi, je me chargerai d'accorder une longue et agréable pause à Velne..."
+        },
+        {
+            "key": "022",
+            "value": "C-ce ce ne serait pas... Vinera ?"
+        },
+        {
+            "key": "023",
+            "value": "Vinera ?"
+        },
+        {
+            "key": "024",
+            "value": "Pourquoi porte-t-elle d'aussi beaux habits ?"
+        },
+        {
+            "key": "025",
+            "value": "J'ai entendu les soldats en parler l'autre jour."
+        },
+        {
+            "key": "026",
+            "value": "Il paraît qu'elle s'apprête à épouser le prince de Hourne."
+        },
+        {
+            "key": "027",
+            "value": "Une femme de son rang, épouser un prince ?"
+        },
+        {
+            "key": "028",
+            "value": "C'est le genre de chose qui n'arrivent que dans les contes de fée. "
+        },
+        {
+            "key": "029",
+            "value": "Tu vois, Velne, il te suffit de te plier aux ordres et tu pourrais finir par vivre comme Vinera..."
+        },
+        {
+            "key": "030",
+            "value": "Hmm ?!"
+        },
+        {
+            "key": "031",
+            "value": "Punaise ! Où sont-il passés ?"
+        },
+        {
+            "key": "032",
+            "value": "Courrez autant que vous le voulez. Jamais vous ne vous échapperez d'ici."
+        }
+    ]
+}

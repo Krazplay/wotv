@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Tenemos noticias de que nuestra primera división, Equito, está luchando contra los hombres de Elde."
+        },
+        {
+            "key": "002",
+            "value": "Entonces, ¿ya habéis tomado vuestra decisión?"
+        },
+        {
+            "key": "003",
+            "value": "Justo como querías, ¿no es así? ¿Estás satisfecho?"
+        },
+        {
+            "key": "004",
+            "value": "¿Que si estoy… satisfecho? Je, je, je."
+        },
+        {
+            "key": "005",
+            "value": "¿Por qué te ríes?"
+        },
+        {
+            "key": "006",
+            "value": "Nuestro deseo era acabar con el rey Elde de Leonis, ¿no es así?"
+        },
+        {
+            "key": "007",
+            "value": "No lo he olvidado."
+        },
+        {
+            "key": "008",
+            "value": "¿Estáis seguro?"
+        },
+        {
+            "key": "009",
+            "value": "…"
+        },
+        {
+            "key": "010",
+            "value": "Si lo que queréis es disgustar a lord Sadali, tened en cuenta que un reino como este puede caer de la noche a la mañana."
+        },
+        {
+            "key": "011",
+            "value": "Si fuera vos, consideraría la situación con detenimiento."
+        },
+        {
+            "key": "012",
+            "value": "A menos que… sigáis sin entender la posición en la que se encuentra vuestro reino. ¿Es así?"
+        },
+        {
+            "key": "013",
+            "value": "¡¿Te estás burlando de mí?! ¡Maldito insolente!"
+        },
+        {
+            "key": "014",
+            "value": "Oh, dios, no pretendía ofenderos. Quizá deberíais desatar todo ese mal genio en el frente y dejaros de quejas arrogantes desde la seguridad de vuestro trono."
+        },
+        {
+            "key": "015",
+            "value": "Mmm. Las verdaderas intenciones de vuestros planes y maquinaciones son más que evidentes."
+        },
+        {
+            "key": "016",
+            "value": "Le tenéis miedo al anillo de Elde, ¿verdad?"
+        },
+        {
+            "key": "017",
+            "value": "…"
+        },
+        {
+            "key": "018",
+            "value": "Lo que pensaba."
+        },
+        {
+            "key": "019",
+            "value": "Pero si queréis el anillo, deberéis aceptar mis condiciones."
+        },
+        {
+            "key": "020",
+            "value": "No temáis."
+        },
+        {
+            "key": "021",
+            "value": "Hourne quedará destruido hasta los cimientos. Ese plan sigue en pie."
+        },
+        {
+            "key": "022",
+            "value": "Pero no se cumplirá hasta que la vida de Elde y ese anillo hayan caído en nuestras manos."
+        },
+        {
+            "key": "023",
+            "value": "A mi parecer, vuestras posibilidades de fracasar son bastante altas…"
+        },
+        {
+            "key": "024",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "025",
+            "value": "¡Ah!"
+        },
+        {
+            "key": "026",
+            "value": "¡Rey Kuri!"
+        },
+        {
+            "key": "027",
+            "value": "¡¿Por qué habéis atacado al emisario de Santocristal?!"
+        },
+        {
+            "key": "028",
+            "value": "No toleraré que nadie se ría de mí. ¡Sin excepciones!"
+        },
+        {
+            "key": "029",
+            "value": "Pe-pero…"
+        },
+        {
+            "key": "030",
+            "value": "Je, je, je. No es raro que los emisarios no regresen."
+        },
+        {
+            "key": "031",
+            "value": "Al fin y al cabo, lobos hambrientos rondan nuestras tierras sin descanso."
+        },
+        {
+            "key": "032",
+            "value": "¿Os referís a nosotras?"
+        },
+        {
+            "key": "033",
+            "value": "Majestad, ¿quiénes son?"
+        },
+        {
+            "key": "034",
+            "value": "Victra y Luarta. Digamos que cumplen con su deber donde otros fracasan."
+        },
+        {
+            "key": "035",
+            "value": "Ji, ji. Las cosas se han puesto bastante interesantes, ¿no?"
+        },
+        {
+            "key": "036",
+            "value": "Y no ha hecho más que empezar."
+        },
+        {
+            "key": "037",
+            "value": "Excelente. Así me gusta."
+        },
+        {
+            "key": "038",
+            "value": "Os pago cantidades muy generosas. No lo olvidéis."
+        },
+        {
+            "key": "039",
+            "value": "Debería ser yo la que os recuerde ese detalle."
+        },
+        {
+            "key": "040",
+            "value": "Y luego está nuestra promesa. Cumpliréis con vuestra palabra, ¿no es así?"
+        },
+        {
+            "key": "041",
+            "value": "La promesa de coronar reina a Victra si ganamos esta guerra."
+        },
+        {
+            "key": "042",
+            "value": "¿Lo haréis?"
+        },
+        {
+            "key": "043",
+            "value": "Sí, la promesa sigue en pie."
+        },
+        {
+            "key": "044",
+            "value": "Seré reina… Ah, qué dulce suenan esas palabras…"
+        },
+        {
+            "key": "045",
+            "value": "Y bien, ¿cuántos hijos debo daros?"
+        },
+        {
+            "key": "046",
+            "value": "Esa conversación puede esperar."
+        },
+        {
+            "key": "047",
+            "value": "Primero, debemos acabar con Leonis y Hourne para convertir a esta nación en la mayor región del este. Después de eso, nos dirigiremos a Rundal, al oeste."
+        },
+        {
+            "key": "048",
+            "value": "Aquellos que me abandonen, aquellos que se rían de mí…, ¡haré que se arrepientan!"
+        },
+        {
+            "key": "049",
+            "value": "Los planes de Sadali se desmoronarán, ¡del primero al último!"
+        },
+        {
+            "key": "050",
+            "value": "Mientras tanto, Mont y su grupo…"
+        }
+    ]
+}

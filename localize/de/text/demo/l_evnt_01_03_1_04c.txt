@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "201",
+            "value": "Kann es sein, dass die Monster immer aggressiver werden, je weiter wir reisen?"
+        },
+        {
+            "key": "202",
+            "value": "Du hast recht. Das zeigt meiner Meinung nach, dass wir dem Kernkristall immer näher kommen."
+        },
+        {
+            "key": "203",
+            "value": "Die Resonanz des Kristalls ist in der Nähe. Es sollte nicht lange dauern, um ihn zu erreichen."
+        },
+        {
+            "key": "204",
+            "value": "Könnte aber doch etwas dauern, wenn wir ständig gegen Monster kämpfen müssen."
+        },
+        {
+            "key": "205",
+            "value": "Stimmt. Vielleicht sollten wir uns ihr Fell überziehen?"
+        },
+        {
+            "key": "206",
+            "value": "Ihr Fell? Um uns warm zu halten?"
+        },
+        {
+            "key": "207",
+            "value": "Um unnötige Kämpfe zu vermeiden. Wir tarnen uns damit und verdecken unseren Geruch."
+        },
+        {
+            "key": "208",
+            "value": "Wenn sie uns abkaufen, dass wir zu ihnen gehören, greifen sie uns vielleicht nicht an."
+        },
+        {
+            "key": "209",
+            "value": "Ich verstehe. Eine geniale Idee!"
+        },
+        {
+            "key": "210",
+            "value": "Ja. Schnappen wir uns jetzt das Fell dieser Monster."
+        },
+        {
+            "key": "211",
+            "value": "Jawohl. Ich übernehme die hier. Übernimmst du die dort?"
+        },
+        {
+            "key": "212",
+            "value": "Leider habe ich keine passende Klinge. Du wirst doppelt arbeiten müssen."
+        },
+        {
+            "key": "213",
+            "value": "Das ist unfair."
+        },
+        {
+            "key": "214",
+            "value": "Die Felle sind warm, aber der Gestank macht mich ganz schwindelig ... Ugh!"
+        },
+        {
+            "key": "215",
+            "value": "Ja. Sie verdecken so unseren Geruch ... aber vielleicht war der Plan doch nicht so wohlüberlegt."
+        },
+        {
+            "key": "216",
+            "value": "Ranan? Wezette und Hourne sind also im Krieg?"
+        },
+        {
+            "key": "217",
+            "value": "Genauer gesagt, stehen sie kurz vor einem Krieg."
+        },
+        {
+            "key": "218",
+            "value": "Aber warum wollen sie überhaupt Krieg? Es wäre besser für beide, würden sie sich verstehen."
+        },
+        {
+            "key": "219",
+            "value": "Das geschieht aus Mangel an Entschlossenheit."
+        },
+        {
+            "key": "220",
+            "value": "Was meinst du?"
+        },
+        {
+            "key": "221",
+            "value": "Unentschlossenheit führt zu Verdächtigungen, was zu Konflikten führt. Konflikte erzeugen Feinde und Feinde zu Krieg."
+        },
+        {
+            "key": "222",
+            "value": "Um in dieser Welt zu überleben, bringen Menschen andere ohne zu zögern zu Fall. Das verursacht tiefe Abgründe zwischen ihnen."
+        },
+        {
+            "key": "223",
+            "value": "Du hast den Adel in der Stadt gesehen. Ihnen sind die normalen Bürger egal."
+        },
+        {
+            "key": "224",
+            "value": "Menschen sind weit grausamer als du glaubst, mein Schüler. Es ist selten, dass Menschen sich für andere opfern."
+        },
+        {
+            "key": "225",
+            "value": "Ich glaube nicht, dass das stimmt."
+        },
+        {
+            "key": "226",
+            "value": "Was?"
+        },
+        {
+            "key": "227",
+            "value": "Fast jeder Mensch, den ich bislang getroffen habe, war bereit, anderen zu helfen."
+        },
+        {
+            "key": "228",
+            "value": "Vinera, Tyrrel und Dario ... Sie alle haben mir beigebracht, wie wichtig es ist, sich um andere zu kümmern."
+        },
+        {
+            "key": "229",
+            "value": "Camillo und Elsirelle hielten an ihren Idealen fest und folgten dem Pfad, den sie für richtig hielten."
+        },
+        {
+            "key": "230",
+            "value": "Und vergiss nicht Glaziela und ihre Freunde. Sie warteten nicht ab, sondern traten in Aktion, um dieses Land zu einem besseren Ort für alle zu machen."
+        },
+        {
+            "key": "231",
+            "value": "Ich habe in meinen vorherigen Missionen gelernt, dass die Menschen nicht alle grausam und brutal sind. Sie können auch gut sein!"
+        },
+        {
+            "key": "232",
+            "value": "Und Frieden ist nicht nur ein Traum. Die Menschen können zusammenarbeiten, um eine Welt ohne Krieg zu erschaffen."
+        },
+        {
+            "key": "233",
+            "value": "Du bist jung und naiv."
+        },
+        {
+            "key": "234",
+            "value": "......"
+        },
+        {
+            "key": "235",
+            "value": "Aber du bist auch entschlossen. Du glaubst wirklich daran, was du sagst."
+        },
+        {
+            "key": "236",
+            "value": "Vielleicht habe ich dich unterschätzt. Deine Reisen waren wohl besser für dich, als zunächst gedacht."
+        },
+        {
+            "key": "237",
+            "value": "Ranan ..."
+        },
+        {
+            "key": "238",
+            "value": "Halte an deinen Idealen fest, mein kleiner Schüler. Lasse nie dein Herz vom Zweifel erfassen."
+        },
+        {
+            "key": "239",
+            "value": "Behalte ein starkes Herz, voller Entschlossenheit. Das wird der Pfeiler sein, auf den du dich stützen kannst."
+        },
+        {
+            "key": "240",
+            "value": "Jawohl."
+        },
+        {
+            "key": "241",
+            "value": "Der Schneesturm wird immer schlimmer. Ich kann kaum noch die Nase vor meinem Gesicht sehen. Was sollen wir tun, Ranan?"
+        },
+        {
+            "key": "242",
+            "value": "......"
+        },
+        {
+            "key": "243",
+            "value": "Ranan?"
+        },
+        {
+            "key": "244",
+            "value": "Was bin ich nur für ein Idiot."
+        },
+        {
+            "key": "245",
+            "value": "Stimmt etwas nicht?"
+        },
+        {
+            "key": "246",
+            "value": "Lucio. Ich fürchte ja."
+        },
+        {
+            "key": "247",
+            "value": "Wir sind vom Pfad abgekommen und in der Wildnis gelandet."
+        },
+        {
+            "key": "248",
+            "value": "Waaaaaas?"
+        }
+    ]
+}

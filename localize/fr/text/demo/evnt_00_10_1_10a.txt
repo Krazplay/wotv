@@ -1,0 +1,112 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Qu-que s'est-il passé ici ?"
+        },
+        {
+            "key": "002",
+            "value": "Et… et si on partait d'ici au plus vite ?"
+        },
+        {
+            "key": "003",
+            "value": "Attends ! Il y a peut-être des gens qui ont besoin de secours…"
+        },
+        {
+            "key": "004",
+            "value": "Écoute ! Tu entends ?!"
+        },
+        {
+            "key": "005",
+            "value": "Les villageois… On peut les entendre crier…"
+        },
+        {
+            "key": "006",
+            "value": "Je ne sais pas qui a pu faire ça mais… ils sont toujours là."
+        },
+        {
+            "key": "007",
+            "value": "Et alors ? On ne peut quand même pas abandonner ces gens…"
+        },
+        {
+            "key": "008",
+            "value": "Et pourquoi pas ?"
+        },
+        {
+            "key": "009",
+            "value": "On a une mission à accomplir après tout, non ? Si jamais on se fait tuer ici…"
+        },
+        {
+            "key": "010",
+            "value": "J'ai bien peur qu'il ne soit trop tard, Sylma…"
+        },
+        {
+            "key": "011",
+            "value": "… !"
+        },
+        {
+            "key": "012",
+            "value": "Hiiiiiii ! Ils sont là !"
+        },
+        {
+            "key": "013",
+            "value": "Une minute… Cet homme, c'est… !"
+        },
+        {
+            "key": "014",
+            "value": "Sire… Sterne…"
+        },
+        {
+            "key": "015",
+            "value": "Ildyra."
+        },
+        {
+            "key": "016",
+            "value": "Est-ce vraiment vous qui avez… réduit ce village à feu et à sang ?"
+        },
+        {
+            "key": "017",
+            "value": "Et si c'était le cas ?"
+        },
+        {
+            "key": "018",
+            "value": "Sire Sterne…"
+        },
+        {
+            "key": "019",
+            "value": "J'ai entendu dire que ces misérables villageois étaient des partisans d'Eldo."
+        },
+        {
+            "key": "020",
+            "value": "Je me devais de nettoyer cet endroit souillé."
+        },
+        {
+            "key": "021",
+            "value": "Pourquoi, Messire… Pourquoi ?"
+        },
+        {
+            "key": "022",
+            "value": "Je n'ai nullement besoin de me justifier, et encore moins auprès de vous."
+        },
+        {
+            "key": "023",
+            "value": "Vous êtes la division « Lumen », c'est ça ? N'êtes-vous pas supposés être la garde rapprochée de Mère ?"
+        },
+        {
+            "key": "024",
+            "value": "C'est… C'est exact…"
+        },
+        {
+            "key": "025",
+            "value": "Alors pourquoi diable n'êtes-vous pas auprès d'elle ?!"
+        },
+        {
+            "key": "026",
+            "value": "Vous ne valez pas mieux qu'Eldo !"
+        },
+        {
+            "key": "027",
+            "value": "Craignant pour vos misérables vies, vous vous êtes enfuis du château, et avez abandonné Mère à son sort !"
+        }
+    ]
+}

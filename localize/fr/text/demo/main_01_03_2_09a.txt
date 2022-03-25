@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Par ici, dépêchez-vous."
+        },
+        {
+            "key": "002",
+            "value": "… Prince Mont ?"
+        },
+        {
+            "key": "003",
+            "value": "Qu'y a-t-il ?"
+        },
+        {
+            "key": "004",
+            "value": "Je ne sais pas, j'ai comme un mauvais pressentiment."
+        },
+        {
+            "key": "005",
+            "value": "Hmm, tu n'es pas en train de perdre ton sang-froid ?"
+        },
+        {
+            "key": "006",
+            "value": "J'ai l'impression que c'est plus grave que ça…"
+        },
+        {
+            "key": "007",
+            "value": "Ramada, ne peux-tu pas lire les étoiles ?"
+        },
+        {
+            "key": "008",
+            "value": "La lune et les étoiles racontent qu'un mal apportera la division et répandra le feu de la destruction dans le monde."
+        },
+        {
+            "key": "009",
+            "value": "C'est-à-dire ?"
+        },
+        {
+            "key": "010",
+            "value": "Je n'en suis pas sûre, mon prince."
+        },
+        {
+            "key": "011",
+            "value": "Je ne fais que vous transmettre ce que les étoiles me murmurent."
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "Sterne, mère… J'espère que vous êtes sains et saufs."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Il semble que Rairyuu avait raison après tout."
+        },
+        {
+            "key": "002",
+            "value": "Il a dit que si nous attendions assez longtemps ici, tu finirais par montrer le bout de ton nez."
+        },
+        {
+            "key": "003",
+            "value": "Cette fois-ci, tu ne t'échapperas pas. Prépare-toi !"
+        },
+        {
+            "key": "004",
+            "value": "Haa… !"
+        },
+        {
+            "key": "005",
+            "value": "Ha ha ha !"
+        },
+        {
+            "key": "006",
+            "value": "Qu'est-ce qui te fait marrer ?"
+        },
+        {
+            "key": "007",
+            "value": "Tu es devenue folle ?"
+        },
+        {
+            "key": "008",
+            "value": "Je ne peux pas m'en empêcher."
+        },
+        {
+            "key": "009",
+            "value": "Des assassins du village de Gouga, ce serait une chose…"
+        },
+        {
+            "key": "010",
+            "value": "Mais vous, là ? On dirait une blague !"
+        },
+        {
+            "key": "011",
+            "value": "Apparemment, tu penses que nous ne sommes que trois."
+        },
+        {
+            "key": "012",
+            "value": "Nous sommes bien plus nombreux."
+        },
+        {
+            "key": "013",
+            "value": "Je n'ai qu'à donner le signal."
+        },
+        {
+            "key": "014",
+            "value": "Peu importe votre nombre."
+        },
+        {
+            "key": "015",
+            "value": "Amenez-vous."
+        }
+    ]
+}

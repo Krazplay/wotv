@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "REQUEST",
+            "value": "<voffset=0.3em>DEMANDE"
+        },
+        {
+            "key": "UNLOCK",
+            "value": "DÉBLOQUÉ !"
+        },
+        {
+            "key": "CLEAR",
+            "value": "<cspace=0.11em>TERMINÉ !"
+        },
+        {
+            "key": "REWARD",
+            "value": "<size=14>RÉCOMPENSE !"
+        },
+        {
+            "key": "FRIENDREQUEST_TITLE",
+            "value": "Demandes d'ami"
+        },
+        {
+            "key": "RANDOMSHOP_TITLE",
+            "value": "Boutique aléatoire"
+        },
+        {
+            "key": "FEVER_TITLE",
+            "value": "Chocoboost !"
+        },
+        {
+            "key": "RAIDBOSS_TITLE",
+            "value": "Un boss de raid est apparu !"
+        },
+        {
+            "key": "UNLOCK_TITLE",
+            "value": "DÉBLOQUÉ !"
+        },
+        {
+            "key": "MISSIONCLEAR_TITLE",
+            "value": "Mission terminée !"
+        },
+        {
+            "key": "SUBQUESTCLEAR_TITLE",
+            "value": "Quêtes secondaires terminées !"
+        },
+        {
+            "key": "SUPPORTREWARD_TITLE",
+            "value": "Récompenses du personnage de soutien !"
+        },
+        {
+            "key": "QUESTCOSTZERO_TITLE",
+            "value": "Coût de points d'endurance : 0"
+        },
+        {
+            "key": "ROYALRANKUP_TITLE",
+            "value": "Votre Rang royal a augmenté !"
+        },
+        {
+            "key": "RAIDBOSSENCOUNTSTOCK_TITLE",
+            "value": "Un boss de raid est apparu !"
+        },
+        {
+            "key": "STAMPMISSIONCLEAR_TITLE",
+            "value": "Insigne obtenu !"
+        },
+        {
+            "key": "FRIENDREQUEST_DESC",
+            "value": "Vous avez reçu {0} demande(s) d'ami(s)."
+        },
+        {
+            "key": "RANDOMSHOP_DESC",
+            "value": "Vous êtes tombé sur une boutique surprise."
+        },
+        {
+            "key": "FEVER_DESC",
+            "value": "Taux d'apparition rare augmenté !"
+        },
+        {
+            "key": "RAIDBOSS_DESC",
+            "value": "Vous avez croisé un {1} niv.{0}."
+        },
+        {
+            "key": "UNLOCK_DESC",
+            "value": "Débloqué(s) : {0}"
+        },
+        {
+            "key": "SUBQUESTCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "MISSIONCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "SUPPORTREWARD_DESC",
+            "value": "Accompagnez {0} joueur(s) et obtenez {1} gil(s) !"
+        },
+        {
+            "key": "QUESTCOSTZERO_DESC",
+            "value": "Coût de points d'endurance jusqu'au rang {0} : 0"
+        },
+        {
+            "key": "ROYALRANKUP_DESC",
+            "value": "Vous avez atteint le Rang royal {0}."
+        },
+        {
+            "key": "RAIDBOSSENCOUNTSTOCK_DESC",
+            "value": "Vous avez rencontré {0}."
+        },
+        {
+            "key": "STAMPMISSIONCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "GPPREWARDS_DESC",
+            "value": "Vous avez récupéré vos récompenses de Google Play Points !"
+        },
+        {
+            "key": "GPPREWARDS_TITLE",
+            "value": "Félicitations !"
+        },
+        {
+            "key": "GOOGLEPLAYPOINTREWARDS",
+            "value": "Récompenses<br>Google !"
+        }
+    ]
+}

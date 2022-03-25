@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh..."
+        },
+        {
+            "key": "002",
+            "value": "V-vite... Je dois... informer le roi Rob."
+        },
+        {
+            "key": "003",
+            "value": "Désolé, je ne peux pas te laisser faire ça."
+        },
+        {
+            "key": "004",
+            "value": "... !"
+        },
+        {
+            "key": "005",
+            "value": "Vous... vous êtes... ?!"
+        },
+        {
+            "key": "006",
+            "value": "Il semble que Rairyuu avait raison après tout."
+        },
+        {
+            "key": "007",
+            "value": "Il a dit que si nous attendions assez longtemps ici, tu finirais par montrer le bout de ton nez."
+        },
+        {
+            "key": "008",
+            "value": "Cette fois-ci, tu ne t'échapperas pas. Prépare-toi !"
+        },
+        {
+            "key": "009",
+            "value": "Que..."
+        }
+    ]
+}

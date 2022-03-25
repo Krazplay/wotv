@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Is this all you can muster!?"
+        },
+        {
+            "key": "002",
+            "value": "A castle as small as this is nothing before us! Surge forth and claim it!"
+        },
+        {
+            "key": "003",
+            "value": "Over my dead body."
+        },
+        {
+            "key": "004",
+            "value": "...Hm!? Who said that?"
+        },
+        {
+            "key": "005",
+            "value": "......!"
+        },
+        {
+            "key": "006",
+            "value": "That was much too close for comfort!"
+        },
+        {
+            "key": "007",
+            "value": "Ngh!"
+        },
+        {
+            "key": "008",
+            "value": "Your interference was quite unnecessary."
+        },
+        {
+            "key": "009",
+            "value": "Whether you live or die means naught to me."
+        },
+        {
+            "key": "010",
+            "value": "I simply thought it best to behave as a strategist."
+        },
+        {
+            "key": "011",
+            "value": "In that case, Lady Strategist, enlighten me. What should our next means of attack be?"
+        },
+        {
+            "key": "012",
+            "value": "Not an attack—a withdrawal."
+        },
+        {
+            "key": "013",
+            "value": "What is this nonsense you're spouting?!"
+        },
+        {
+            "key": "014",
+            "value": "Pharm Castle is impenetrable. Continuing this needless assault will cost us gravely."
+        },
+        {
+            "key": "015",
+            "value": "Cost us...? Would that not make a splendid story? Just how far one would go, no matter how great the sacrifice..."
+        },
+        {
+            "key": "016",
+            "value": "I am not going anywhere...no matter what may happen."
+        },
+        {
+            "key": "017",
+            "value": "Pharm must be taken, and I have my reasons for saying so."
+        }
+    ]
+}

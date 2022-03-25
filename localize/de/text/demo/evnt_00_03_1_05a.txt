@@ -1,0 +1,208 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Zögert nicht! Setzt ihnen nach!"
+        },
+        {
+            "key": "002",
+            "value": "Ja. Unsere Truppenstärke garantiert uns den Sieg."
+        },
+        {
+            "key": "003",
+            "value": "Erledigen wir sie hier und jetzt!"
+        },
+        {
+            "key": "004",
+            "value": "Das werde ich nicht zulassen."
+        },
+        {
+            "key": "005",
+            "value": "U-Unglaublich ..."
+        },
+        {
+            "key": "006",
+            "value": "Aber Ihr geltet doch als Feigling, der noch nie ein Schlachtfeld aus der Nähe gesehen hat ..."
+        },
+        {
+            "key": "007",
+            "value": "Oh. Verzeiht mir."
+        },
+        {
+            "key": "008",
+            "value": "Es gibt nichts zu verzeihen. Was du gesagt hast, entspricht der Wahrheit."
+        },
+        {
+            "key": "009",
+            "value": "Aber Ihr seid so stark ..."
+        },
+        {
+            "key": "010",
+            "value": "Es scheint, als könntet Ihr allein einen ganzen Zug in die Flucht schlagen, Euer Hoheit."
+        },
+        {
+            "key": "011",
+            "value": "*Hust, hust* ... *Hust, hust, hust*"
+        },
+        {
+            "key": "012",
+            "value": "Dario!"
+        },
+        {
+            "key": "013",
+            "value": "Euer Hoheit ... Ist alles in Ordnung? Dieser Husten klingt gar nicht gut ..."
+        },
+        {
+            "key": "014",
+            "value": "Ach ... Du weißt ja noch nicht davon."
+        },
+        {
+            "key": "015",
+            "value": "Ich habe nicht mehr lange zu leben."
+        },
+        {
+            "key": "016",
+            "value": "Wie ...?"
+        },
+        {
+            "key": "017",
+            "value": "Tyrrel. Du hast es also endlich bemerkt."
+        },
+        {
+            "key": "018",
+            "value": "Selbst wenn wir nicht wären, würde die klägliche Flamme dieses Prinzen sehr bald erlöschen."
+        },
+        {
+            "key": "019",
+            "value": "Schau ihn dir an. Er kann sich gerade mal so aufrecht halten."
+        },
+        {
+            "key": "020",
+            "value": "..."
+        },
+        {
+            "key": "021",
+            "value": "Tyrrel. Du bist kein Dummkopf, das weiß ich. Denk nach."
+        },
+        {
+            "key": "022",
+            "value": "Nach dem Tod des Prinzen, was wird wohl mit Vinera geschehen, hm?"
+        },
+        {
+            "key": "023",
+            "value": "Wird sie nach dem Ableben ihres geliebten Prinzen ein Dasein als Verräterin fristen?"
+        },
+        {
+            "key": "024",
+            "value": "Wenn Dario stirbt, tue ich das auch!"
+        },
+        {
+            "key": "025",
+            "value": "Nein. Das werde ich nicht zulassen."
+        },
+        {
+            "key": "026",
+            "value": "Aber was soll ich in einer Welt, in der es dich nicht mehr gibt ...?"
+        },
+        {
+            "key": "027",
+            "value": "Tyrrel ... Empfindest du Vinera nicht als bemitleidenswert?"
+        },
+        {
+            "key": "028",
+            "value": "..."
+        },
+        {
+            "key": "029",
+            "value": "Es ist noch nicht zu spät."
+        },
+        {
+            "key": "030",
+            "value": "Töte Dario. Tust du das, werde ich über euer beider verräterisches Handeln hinwegsehen."
+        },
+        {
+            "key": "031",
+            "value": "Meinst du das ... ernst?"
+        },
+        {
+            "key": "032",
+            "value": "Du vergibst uns, was wir getan haben?"
+        },
+        {
+            "key": "033",
+            "value": "Tyrrel?!"
+        },
+        {
+            "key": "034",
+            "value": "Hör nicht auf ihn! Glaub kein Wort von dem, was Doluza da sagt!"
+        },
+        {
+            "key": "035",
+            "value": "Tyrrel, stell es dir nur mal vor. Wie du wieder in deine Heimat zurückkehrst, wie du und Vinera fortan gemeinsam ein glückliches Leben führen ..."
+        },
+        {
+            "key": "036",
+            "value": "..."
+        },
+        {
+            "key": "037",
+            "value": "Ja, du hast recht. In einem Anfall fehlgeleiteter Leidenschaft hat Vinera einfach den Verstand verloren."
+        },
+        {
+            "key": "038",
+            "value": "Doch jemand muss sie wieder zu Sinnen bringen. Und der Einzige, der das kann ... bist du."
+        },
+        {
+            "key": "039",
+            "value": "Selbst wenn du tust, was er will ..."
+        },
+        {
+            "key": "040",
+            "value": "Man wird dir nicht vergeben, Tyrrel – egal, was er sagt."
+        },
+        {
+            "key": "041",
+            "value": "Vinera ..."
+        },
+        {
+            "key": "042",
+            "value": "Jeden, der sein Schwert gegen Dario richtet ... werde ich töten."
+        },
+        {
+            "key": "043",
+            "value": "Bedeutet er dir so viel ...?"
+        },
+        {
+            "key": "044",
+            "value": "*Hust, hust* ... *Hust, hust, hust*"
+        },
+        {
+            "key": "045",
+            "value": "... Das ist die Gelegenheit! Der Prinz ist zu schwach, um noch länger eine Bedrohung darzustellen!"
+        },
+        {
+            "key": "046",
+            "value": "Das sind immer noch ... so viele ..."
+        },
+        {
+            "key": "047",
+            "value": "..."
+        },
+        {
+            "key": "048",
+            "value": "Schon gut, Vinera."
+        },
+        {
+            "key": "049",
+            "value": "Ich werde Seine Hoheit beschützen!"
+        },
+        {
+            "key": "050",
+            "value": "Tyrrel ..."
+        },
+        {
+            "key": "051",
+            "value": "Sei unbesorgt, Vinera. Was auch geschehen<br>mag ... ich werde ihn beschützen! Um jeden Preis!"
+        }
+    ]
+}

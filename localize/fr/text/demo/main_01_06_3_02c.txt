@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh !"
+        },
+        {
+            "key": "002",
+            "value": "Même la grande Machalie ne peut se mesurer à nous deux !"
+        },
+        {
+            "key": "003",
+            "value": "Altesse !"
+        },
+        {
+            "key": "004",
+            "value": "N'approche pas !"
+        },
+        {
+            "key": "005",
+            "value": "Préviens mon père ! Xiza et Vistral nous ont trahis pour rejoindre l'Église !"
+        },
+        {
+            "key": "006",
+            "value": "M-mais..."
+        },
+        {
+            "key": "007",
+            "value": "Ne t'inquiète pas pour moi !"
+        },
+        {
+            "key": "008",
+            "value": "Mon père marche vers Wezett. Si tu veux toujours ces renforts, ne tarde pas !"
+        },
+        {
+            "key": "009",
+            "value": "Oui, Votre Altesse !"
+        },
+        {
+            "key": "010",
+            "value": "On la laisse filer ?"
+        },
+        {
+            "key": "011",
+            "value": "Bah, quelle importance ? Il faut bien que le roi Rob l'apprenne, de toute façon. Ce sera une bonne chose de faite."
+        },
+        {
+            "key": "012",
+            "value": "Retiens-toi un peu avec elle, tu veux ?"
+        },
+        {
+            "key": "013",
+            "value": "Ramenons-la au château de Leonis, alors."
+        },
+        {
+            "key": "014",
+            "value": "Pas... à l'Église ?"
+        },
+        {
+            "key": "015",
+            "value": "On n'a pas encore assez de visibilité. Mieux vaut peut-être ne pas attirer l'ennemi à domicile, si ?"
+        },
+        {
+            "key": "016",
+            "value": "On manque de visibilité ?"
+        },
+        {
+            "key": "017",
+            "value": "Oui."
+        },
+        {
+            "key": "018",
+            "value": "Bien. Ramenons-la au château de Leonis, alors."
+        },
+        {
+            "key": "019",
+            "value": "Préparez une voiture !"
+        }
+    ]
+}

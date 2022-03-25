@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Oh, et voilà... je ne vois plus notre unité principale."
+        },
+        {
+            "key": "002",
+            "value": "Quand est-ce qu'on va pouvoir partir, à la fin ?"
+        },
+        {
+            "key": "003",
+            "value": "Si nous ne nous dépêchons pas, les forces ennemies nous rattraperont bientôt..."
+        },
+        {
+            "key": "004",
+            "value": "Ton cerveau est aussi vide que ton ventre, ma parole ! Notre mission est justement de contenir ces forces !"
+        },
+        {
+            "key": "005",
+            "value": "Hein ? Vraiment ? Ha oui, c'est vrai !"
+        },
+        {
+            "key": "006",
+            "value": "Et pas simplement de les contenir."
+        },
+        {
+            "key": "007",
+            "value": "Une fois que l'unité principale sera suffisamment loin, nous battrons en retraite et recommencerons encore une fois."
+        },
+        {
+            "key": "008",
+            "value": "Vous voulez dire que pendant tout le trajet du retour au château..."
+        },
+        {
+            "key": "009",
+            "value": "Oui. Personne ne viendra nous aider, peu importe les dangers que nous rencontrerons."
+        },
+        {
+            "key": "010",
+            "value": "Si vous avez peur, vous pouvez partir devant."
+        },
+        {
+            "key": "011",
+            "value": "Partir devant... et rejoindre l'unité principale ?"
+        },
+        {
+            "key": "012",
+            "value": "Oui. Personne ne vous en voudra."
+        },
+        {
+            "key": "013",
+            "value": "Rejoindre l'unité principale vous garantirait un retour en toute sécurité au château."
+        },
+        {
+            "key": "014",
+            "value": "... Quel est le problème ?"
+        },
+        {
+            "key": "015",
+            "value": "Oh ? Il n'y a pas de volontaires."
+        },
+        {
+            "key": "016",
+            "value": "Ils... Ils arrivent !"
+        },
+        {
+            "key": "017",
+            "value": "On va donc devoir se battre..."
+        },
+        {
+            "key": "018",
+            "value": "Que les étoiles nous accordent leur protection divine..."
+        },
+        {
+            "key": "019",
+            "value": "Nous sommes « Caelum ». Nous n'échouerons pas !"
+        }
+    ]
+}

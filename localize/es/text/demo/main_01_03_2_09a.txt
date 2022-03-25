@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Por aquí, rápido."
+        },
+        {
+            "key": "002",
+            "value": "¿Príncipe Mont?"
+        },
+        {
+            "key": "003",
+            "value": "¿Pasa algo?"
+        },
+        {
+            "key": "004",
+            "value": "No lo sé. Me acaba de dar un escalofrío."
+        },
+        {
+            "key": "005",
+            "value": "Eh…, no te estarás echando atrás, ¿no?"
+        },
+        {
+            "key": "006",
+            "value": "Ojalá fuera eso."
+        },
+        {
+            "key": "007",
+            "value": "Ramada, ¿me haces el favor de interpretar los astros?"
+        },
+        {
+            "key": "008",
+            "value": "La luna y las estrellas están divididas por una presencia maligna, una presencia que hará que estas tierras sucumban a la destrucción."
+        },
+        {
+            "key": "009",
+            "value": "¿Y eso qué significa?"
+        },
+        {
+            "key": "010",
+            "value": "No lo tengo del todo claro, alteza."
+        },
+        {
+            "key": "011",
+            "value": "Yo solo repito lo que me cuentan las estrellas."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "Stern…, madre…, espero que os encontréis bien dondequiera que estéis."
+        }
+    ]
+}

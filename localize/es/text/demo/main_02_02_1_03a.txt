@@ -1,0 +1,240 @@
+﻿{
+    "infos": [
+        {
+            "key": "33_1",
+            "value": "Justo antes del choque entre ambos ejércitos..."
+        },
+        {
+            "key": "033",
+            "value": "La batalla ha comenzado... Embarcad y partid cuando veáis oportuno."
+        },
+        {
+            "key": "034",
+            "value": "Mmm…"
+        },
+        {
+            "key": "035",
+            "value": "¿Cuando veamos oportuno?..."
+        },
+        {
+            "key": "036",
+            "value": "¿Qué hay de nuestras órdenes?"
+        },
+        {
+            "key": "037",
+            "value": "Cualquier orden que dé nos llevará a la derrota."
+        },
+        {
+            "key": "038",
+            "value": "¿Y qué se supone que significa eso?"
+        },
+        {
+            "key": "039",
+            "value": "El enemigo solo dispone de un barco. Sin embargo, es mi hermana Moore la que lleva el mando de esa nave."
+        },
+        {
+            "key": "040",
+            "value": "E... Espera un momento. ¡¿Vamos a enfrentarnos a tu hermana?!  "
+        },
+        {
+            "key": "041",
+            "value": "No pasa nada. Ambas ya hemos tomado caminos diferentes."
+        },
+        {
+            "key": "042",
+            "value": "N-no creo que ese sea el problema..."
+        },
+        {
+            "key": "043",
+            "value": "Mi hermana es tan buena astróloga que es capaz de adivinar todos y cada uno de mis movimientos."
+        },
+        {
+            "key": "044",
+            "value": "¡Eso quiere decir que no tenemos la más mínima oportunidad de vencer!"
+        },
+        {
+            "key": "045",
+            "value": "Así es..., pero eso es justo lo que os hará brillar."
+        },
+        {
+            "key": "046",
+            "value": "Cada vez tiene todo menos sentido..."
+        },
+        {
+            "key": "047",
+            "value": "¡Cañones enemigos! Esto no pinta nada bien..."
+        },
+        {
+            "key": "048",
+            "value": "Por eso mismo debéis partir."
+        },
+        {
+            "key": "049",
+            "value": "Hmmm... Aún no lo entiendo..."
+        },
+        {
+            "key": "050",
+            "value": "Mmm…"
+        },
+        {
+            "key": "051",
+            "value": "¿Lo hacemos y ya vemos?"
+        },
+        {
+            "key": "052",
+            "value": "Lady Etra. Esta niebla es demasiado densa para adentrarnos así como así..."
+        },
+        {
+            "key": "053",
+            "value": "Snif, snif…"
+        },
+        {
+            "key": "054",
+            "value": "¿Lady Etra?..."
+        },
+        {
+            "key": "055",
+            "value": "¡Dirigid el barco en aquella dirección!"
+        },
+        {
+            "key": "056",
+            "value": "La... ¡Lady Yelma! ¡Si seguimos así...!"
+        },
+        {
+            "key": "057",
+            "value": "Lo sé."
+        },
+        {
+            "key": "058",
+            "value": "Pero nos estamos enfrentando a la hermana de lady Ramada. No tiene sentido planear una estrategia contra alguien como ella."
+        },
+        {
+            "key": "059",
+            "value": "E... Eso es verdad..."
+        },
+        {
+            "key": "060",
+            "value": "Bueno, me han encomendado liderar este barco, pero..."
+        },
+        {
+            "key": "061",
+            "value": "Estamos hablando de la hermana de lady Ramada, ¿no es así? Dicen que no tenemos oportunidad de vencerla..."
+        },
+        {
+            "key": "062",
+            "value": "Emmm, ¿lady Nasha?"
+        },
+        {
+            "key": "063",
+            "value": "Si continuamos en esta dirección, vuestro plan es..."
+        },
+        {
+            "key": "064",
+            "value": "¿Huir? ¡Pues claro que ese es mi plan!"
+        },
+        {
+            "key": "065",
+            "value": "Pero..."
+        },
+        {
+            "key": "066",
+            "value": "No me importa, ¡tan solo sigue adelante! ¿Vale?"
+        },
+        {
+            "key": "067",
+            "value": "¿De verdad está bien dejar a esas tres al mando?"
+        },
+        {
+            "key": "068",
+            "value": "Sí, no hay de qué preocuparse."
+        },
+        {
+            "key": "069",
+            "value": "Esta densa niebla engaña a los ojos haciéndolos ver cosas que no son..."
+        },
+        {
+            "key": "070",
+            "value": "Pero Etra no confiará en su visión para dar órdenes, sino que usará su sentido del olfato."
+        },
+        {
+            "key": "071",
+            "value": "Entiendo..."
+        },
+        {
+            "key": "072",
+            "value": "Por el contrario, Nasha probablemente huya mucho antes de encontrarse con el enemigo."
+        },
+        {
+            "key": "073",
+            "value": "Y entonces, ¿por qué le cedéis un barco?"
+        },
+        {
+            "key": "074",
+            "value": "Su sentido de la orientación es horrible. Si huyese como si la vida le fuera en ello..."
+        },
+        {
+            "key": "075",
+            "value": "Ni me imagino lo que podría pasar."
+        },
+        {
+            "key": "076",
+            "value": "Nadie se lo imagina... y eso nos vendrá bien."
+        },
+        {
+            "key": "077",
+            "value": "¿Y qué pasa con lady Yelma?"
+        },
+        {
+            "key": "078",
+            "value": "Ella tiene un gran sentido de la responsabilidad y el coraje necesario para ello."
+        },
+        {
+            "key": "079",
+            "value": "Emplear solo estrategias de distracción hará que el enemigo descubra nuestro plan."
+        },
+        {
+            "key": "080",
+            "value": "Ya veo... Así que la forma directa de combatir de lady Yelma es lo que nos permitirá acercarnos al enemigo."
+        },
+        {
+            "key": "081",
+            "value": "Esas tres son tan impredecibles que ni las estrellas saben qué decir."
+        },
+        {
+            "key": "082",
+            "value": "Pero..."
+        },
+        {
+            "key": "083",
+            "value": "No podemos depender solo de eso."
+        },
+        {
+            "key": "084",
+            "value": "Nosotros también nos uniremos a la batalla."
+        },
+        {
+            "key": "085",
+            "value": "¡Sí, milady!"
+        },
+        {
+            "key": "086",
+            "value": "¡Lady Moore!"
+        },
+        {
+            "key": "087",
+            "value": "¡Ver para creer!"
+        },
+        {
+            "key": "088",
+            "value": "¡¿Pero qué...?! Se supone que deberíamos estar echando a correr..."
+        },
+        {
+            "key": "089",
+            "value": "Emmm. Bueno, supongo que ya que estamos aquí..."
+        },
+        {
+            "key": "090",
+            "value": "¡Deberíamos aplastarlos con todas nuestras fuerzas!"
+        }
+    ]
+}

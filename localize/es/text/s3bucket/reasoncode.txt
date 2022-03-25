@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "GL_BAN_REASON_1000",
+            "value": "Se ha suspendido tu cuenta."
+        },
+        {
+            "key": "GL_BAN_REASON_2000",
+            "value": "Hemos suspendido tu cuenta permanentemente, ya que hemos detectado un uso fraudulento en cuanto al número de reembolsos solicitados desde tu tienda de aplicaciones y su respectivo beneficio económico sin alguna razón justificable. Hemos tomado esta decisión de acuerdo a las condiciones de uso."
+        },
+        {
+            "key": "GL_BAN_REASON_3000",
+            "value": "Hemos suspendido tu cuenta permanentemente, ya que hemos detectado al menos uno de los siguientes casos.<br><br>・Transferir, prestar, intercambiar o vender cuentas con dinero real<br> ・Falsificar datos de la aplicación para tener ventaja en el juego de forma injusta<br> ・Otras acciones que violan las condiciones de servicio"
+        },
+        {
+            "key": "GL_BAN_REASON_4000",
+            "value": "La cuenta no existe."
+        }
+    ]
+}

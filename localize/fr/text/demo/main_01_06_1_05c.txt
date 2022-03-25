@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Kof ! Kof !"
+        },
+        {
+            "key": "002",
+            "value": "Dario !"
+        },
+        {
+            "key": "003",
+            "value": "Comment fait-il pour être si puissant, alors qu'il est aux portes de la mort ?"
+        },
+        {
+            "key": "004",
+            "value": "On dirait qu'il connaît tous nos mouvements à l'avance !"
+        },
+        {
+            "key": "005",
+            "value": "C'est exactement cela."
+        },
+        {
+            "key": "006",
+            "value": "Quoi ?!"
+        },
+        {
+            "key": "007",
+            "value": "Vous êtes tellement prévisibles."
+        },
+        {
+            "key": "008",
+            "value": "En effet, je peux lire à l'avance toutes les attaques que vous lancez contre moi."
+        },
+        {
+            "key": "009",
+            "value": "..."
+        },
+        {
+            "key": "010",
+            "value": "C'est précisément pour cette raison que le combat me terrifie."
+        },
+        {
+            "key": "011",
+            "value": "Je me suis enfermé dans ce château pour échapper à la peur que m'inspire mon propre pouvoir."
+        },
+        {
+            "key": "011_1",
+            "value": "Kof ! Kof !"
+        },
+        {
+            "key": "012",
+            "value": "Dario !"
+        },
+        {
+            "key": "013",
+            "value": "C'est le moment ou jamais !"
+        },
+        {
+            "key": "014",
+            "value": "C'est fini pour moi, Vinera. Mais toi, au moins... sauve-toi."
+        },
+        {
+            "key": "015",
+            "value": "Je ne vous laisserai pas toucher à un seul de ses cheveux !"
+        }
+    ]
+}

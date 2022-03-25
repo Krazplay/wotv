@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Euer Majestät ..."
+        },
+        {
+            "key": "002",
+            "value": "Ja. Ich spüre es auch."
+        },
+        {
+            "key": "003",
+            "value": "Die Aura unzähliger Monster, die sich gesammelt haben  ..."
+        },
+        {
+            "key": "004",
+            "value": "Ganz so, als würden sie uns daran hindern wollen, die Steintruhen von hier zu entfernen."
+        },
+        {
+            "key": "005",
+            "value": "Wir werden uns durch sie nicht von unserem Vorhaben abbringen lassen."
+        },
+        {
+            "key": "006",
+            "value": "Und wenn wir dafür ihre Reihen mit Gewalt durchbrechen müssen."
+        },
+        {
+            "key": "007",
+            "value": "Jawohl, Euer Majestät. Lasst uns so schnell wie möglich zum Schlosstor zurückkehren."
+        }
+    ]
+}

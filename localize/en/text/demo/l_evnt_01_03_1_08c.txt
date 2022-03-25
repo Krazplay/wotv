@@ -1,0 +1,296 @@
+﻿{
+    "infos": [
+        {
+            "key": "312",
+            "value": "The blizzard has finally abated."
+        },
+        {
+            "key": "313",
+            "value": "...Sister! There are people ahead!"
+        },
+        {
+            "key": "314",
+            "value": "Aren't they the two we met in town?"
+        },
+        {
+            "key": "315",
+            "value": "Lucio and Ranan. I thought they were looking for that crystal."
+        },
+        {
+            "key": "316",
+            "value": "We can't leave them here."
+        },
+        {
+            "key": "317",
+            "value": "Well, well. The heir to the Wezette throne herself. I hardly expected to meet you out here, Your Highness."
+        },
+        {
+            "key": "318",
+            "value": "I'm not queen yet. Glaciela is fine."
+        },
+        {
+            "key": "319",
+            "value": "Please ignore him... Anyway, what are you doing out here?"
+        },
+        {
+            "key": "320",
+            "value": "I could ask you the same thing. Last we met, you were bound for the magic research institute."
+        },
+        {
+            "key": "321",
+            "value": "Yes, we were. But then this blizzard blew in..."
+        },
+        {
+            "key": "322",
+            "value": "It is hardly wise to wander across a strange land in the middle of a snowstorm."
+        },
+        {
+            "key": "323",
+            "value": "I wonder if we could prevail on you to show us the way."
+        },
+        {
+            "key": "324",
+            "value": "As you know, our mission is somewhat urgent. We cannot afford to get lost again."
+        },
+        {
+            "key": "325",
+            "value": "Tell me again what you intend to do with this Core Crystal, assuming you manage to locate it."
+        },
+        {
+            "key": "326",
+            "value": "I suppose if you are to help us, you deserve to know the truth."
+        },
+        {
+            "key": "327",
+            "value": "...And that is the sum of it."
+        },
+        {
+            "key": "328",
+            "value": "So, as a Warrior of the Crystals, you are here on a quest to restore the balance of the world..."
+        },
+        {
+            "key": "329",
+            "value": "Which means, your intention is to take this Core Crystal away from Wezette."
+        },
+        {
+            "key": "330",
+            "value": "Yes. We must bring it back home, if we are to fulfill our mission."
+        },
+        {
+            "key": "331",
+            "value": "I'm sorry. I know this makes us seem like enemies of Wezette..."
+        },
+        {
+            "key": "332",
+            "value": "I think not. I doubt very much if these ladies would want this Core Crystal in their kingdom."
+        },
+        {
+            "key": "333",
+            "value": "...Why do you say that?"
+        },
+        {
+            "key": "334",
+            "value": "I realized it back at the town, the moment you gave us the information about the Crystal's whereabouts."
+        },
+        {
+            "key": "335",
+            "value": "And now you stand before me, Lady Glaciela, and I see the fury burning in your eyes."
+        },
+        {
+            "key": "336",
+            "value": "......!"
+        },
+        {
+            "key": "337",
+            "value": "It's about them, isn't it? The ones who rule Wezette. You do not want them to have the power of the Core Crystal."
+        },
+        {
+            "key": "338",
+            "value": "You wanted to be sure that our intention was to take the Core Crystal far away from Wezette, for it conforms precisely with your own wishes."
+        },
+        {
+            "key": "339",
+            "value": "However, that task might prove difficult for just Lucio and I."
+        },
+        {
+            "key": "340",
+            "value": "We could fail, and then the power would fall into the hands of the Wezette army, potentially creating an irreversible course of events."
+        },
+        {
+            "key": "341",
+            "value": "...Of course, I speak merely of possibilities."
+        },
+        {
+            "key": "342",
+            "value": "......"
+        },
+        {
+            "key": "343",
+            "value": "Sister...?"
+        },
+        {
+            "key": "344",
+            "value": "If the Core Crystal does reach the magic research institute, it may well turn out as he says."
+        },
+        {
+            "key": "345",
+            "value": "...Tell me more."
+        },
+        {
+            "key": "346",
+            "value": "I've worked at the institute myself. I know the risks they are willing to take."
+        },
+        {
+            "key": "347",
+            "value": "If they were able to access the Crystal's power..."
+        },
+        {
+            "key": "348",
+            "value": "...And if the army could use it, Wezette would gain the ultimate secret weapon."
+        },
+        {
+            "key": "349",
+            "value": "We have to intercept it before it reaches the institute, or it may be too late."
+        },
+        {
+            "key": "350",
+            "value": "...It would seem there is but one choice to be made. But you two knew that from the beginning, didn't you?"
+        },
+        {
+            "key": "351",
+            "value": "Begging your pardon, Lady Glaciela...but what fills you with so much anger?"
+        },
+        {
+            "key": "352",
+            "value": "The truth is... We are in the midst of forming a rebel army. We aim to overthrow Khury."
+        },
+        {
+            "key": "353",
+            "value": "Khury? The king of Wezette?!"
+        },
+        {
+            "key": "354",
+            "value": "As long as the tyrant sits on the throne, this country has no future."
+        },
+        {
+            "key": "355",
+            "value": "B-but why...?"
+        },
+        {
+            "key": "356",
+            "value": "That is enough, Lucio. These matters are not our concern, and we'd best stay out of them."
+        },
+        {
+            "key": "357",
+            "value": "In any case, the short of it is that we do not want the Wezette army to grow any stronger."
+        },
+        {
+            "key": "358",
+            "value": "«Spirare» is ready to help you. Do you accept our offer?"
+        },
+        {
+            "key": "359",
+            "value": "What do you say, Lord Ranan?"
+        },
+        {
+            "key": "360",
+            "value": "Of course we accept. That was our wish from the very outset, after all."
+        },
+        {
+            "key": "361",
+            "value": "While your lack of resolution has cost us precious time, I respect your motivations."
+        },
+        {
+            "key": "362",
+            "value": "We shall make use of the full extent of your services, so that we may yet safely bring the Core Crystal back home."
+        },
+        {
+            "key": "363",
+            "value": "By all means, please do."
+        },
+        {
+            "key": "364",
+            "value": "Caravan escorts. This must be it."
+        },
+        {
+            "key": "365",
+            "value": "The Core Crystal must be in that carriage."
+        },
+        {
+            "key": "366",
+            "value": "They are almost at the magic research institute. We need to act quickly..."
+        },
+        {
+            "key": "367",
+            "value": "Perhaps we should wait for a better opportunity? Their defenses are well prepared."
+        },
+        {
+            "key": "368",
+            "value": "...I think we should attack right away."
+        },
+        {
+            "key": "369",
+            "value": "Hm."
+        },
+        {
+            "key": "370",
+            "value": "We have to get the Core Crystal before they reach the magic research institute, don't we?"
+        },
+        {
+            "key": "371",
+            "value": "I can't just sit here and do nothing!"
+        },
+        {
+            "key": "372",
+            "value": "Besides, there might even be more Wezette soldiers at the institute."
+        },
+        {
+            "key": "373",
+            "value": "I think we should strike before their forces become even stronger."
+        },
+        {
+            "key": "374",
+            "value": "...A suggestion truly devoid of forethought."
+        },
+        {
+            "key": "375",
+            "value": "......"
+        },
+        {
+            "key": "376",
+            "value": "But situationally, the prospects of a favorable conclusion are not entirely absent."
+        },
+        {
+            "key": "377",
+            "value": "Huh?"
+        },
+        {
+            "key": "378",
+            "value": "You are right, Lucio. Sometimes it is indeed best to act first and think later."
+        },
+        {
+            "key": "379",
+            "value": "Now, steel yourself. This shall not be an easy battle."
+        },
+        {
+            "key": "380",
+            "value": "Yes, sir! Thank you, Lord Ranan!"
+        },
+        {
+            "key": "381",
+            "value": "Then it's settled. We strike now. Get ready, everyone."
+        },
+        {
+            "key": "382",
+            "value": "It is time to recover that Core Crystal."
+        },
+        {
+            "key": "383",
+            "value": "Let's give the Wezette army a taste of «Spirare» steel!"
+        },
+        {
+            "key": "384",
+            "value": "All units, charge!"
+        }
+    ]
+}

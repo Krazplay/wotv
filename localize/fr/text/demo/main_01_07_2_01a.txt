@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "70213",
+            "value": "Hé ! Attendez-moi !"
+        },
+        {
+            "key": "70214",
+            "value": "Oh ? Tu as encore besoin de te reposer ?"
+        },
+        {
+            "key": "70215",
+            "value": "Encore ? On ne peut pas se permettre de s'arrêter tous les quarts d'heure !"
+        },
+        {
+            "key": "70216",
+            "value": "Je sais bien..."
+        },
+        {
+            "key": "70217",
+            "value": "Je sais qu'on doit apprendre la mort du seigneur Owe et de la reine Helena au roi Eldo..."
+        },
+        {
+            "key": "70218",
+            "value": "Et je sais qu'on doit prévenir le prince Mont de l'enlèvement de la princesse Machalie..."
+        },
+        {
+            "key": "70219",
+            "value": "Je sais tout ça, je ne l'oublie pas, mais..."
+        },
+        {
+            "key": "70220",
+            "value": "D'accord, d'accord. Faisons une pause. Mais une petite, alors."
+        },
+        {
+            "key": "70221",
+            "value": "Super !"
+        },
+        {
+            "key": "70222",
+            "value": "... ?!"
+        },
+        {
+            "key": "70223",
+            "value": "Sosha !"
+        },
+        {
+            "key": "70224",
+            "value": "Oui, je l'ai senti aussi."
+        },
+        {
+            "key": "70225",
+            "value": "Quoi ? Qu'est-ce qu'il se passe ?"
+        },
+        {
+            "key": "70226",
+            "value": "Des ennemis."
+        },
+        {
+            "key": "70227",
+            "value": "On est poursuivis ?"
+        },
+        {
+            "key": "70228",
+            "value": "Non, c'est plutôt l'aura... d'un monstre."
+        },
+        {
+            "key": "70229",
+            "value": "La pause est finie, Lillala."
+        },
+        {
+            "key": "70230",
+            "value": "Ah, encore raté."
+        }
+    ]
+}

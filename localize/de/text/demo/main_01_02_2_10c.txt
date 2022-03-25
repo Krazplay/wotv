@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Mont ..."
+        },
+        {
+            "key": "002",
+            "value": "Das Banner dort ...!"
+        },
+        {
+            "key": "003",
+            "value": "Hournes Hauptstreitmacht ... „Solidus“!"
+        },
+        {
+            "key": "004",
+            "value": "M-Mont!"
+        }
+    ]
+}

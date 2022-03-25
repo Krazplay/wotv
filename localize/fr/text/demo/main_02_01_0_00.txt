@@ -1,0 +1,100 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Princesse !"
+        },
+        {
+            "key": "002",
+            "value": "Sauvez-vous ! Vite !"
+        },
+        {
+            "key": "003",
+            "value": "On ne peut pas vous abandonner !"
+        },
+        {
+            "key": "004",
+            "value": "Argh !"
+        },
+        {
+            "key": "005",
+            "value": "Ils arrivent !"
+        },
+        {
+            "key": "006",
+            "value": "Alors ça y est, on s'est résignée ?"
+        },
+        {
+            "key": "007",
+            "value": "Croyez-moi, ça ne sera pas aussi facile de vous échapper cette fois."
+        },
+        {
+            "key": "008",
+            "value": "Vous… Vous êtes la princesse ? "
+        },
+        {
+            "key": "009",
+            "value": "Altesse, non !"
+        },
+        {
+            "key": "010",
+            "value": "C'est bien moi : Lucielle, la princesse d'Ovis que vous pourchassez."
+        },
+        {
+            "key": "011",
+            "value": "Vous n'avez affaire qu'avec moi. Laissez mes soldats partir et je me rendrai sans faire d'histoire."
+        },
+        {
+            "key": "012",
+            "value": "Non, Altesse ! Nous nous battrons pour vous jusqu'à la fin !"
+        },
+        {
+            "key": "013",
+            "value": "Ça m'est égal."
+        },
+        {
+            "key": "014",
+            "value": "Altesse !"
+        },
+        {
+            "key": "015",
+            "value": "Cessez. C'est la meilleure solution."
+        },
+        {
+            "key": "016",
+            "value": "Allez, maintenant. Je suis toute à vous !"
+        },
+        {
+            "key": "017",
+            "value": "À l'attaque !"
+        },
+        {
+            "key": "018",
+            "value": "Je ne vous laisserai pas faire ça !"
+        },
+        {
+            "key": "019",
+            "value": "Argh !"
+        },
+        {
+            "key": "020",
+            "value": "Oh, ma chère sœur…"
+        },
+        {
+            "key": "021",
+            "value": "L'anneau n'est pas là."
+        },
+        {
+            "key": "022",
+            "value": "Tss ! C'était un leurre !"
+        },
+        {
+            "key": "023",
+            "value": "La véritable princesse Lucielle doit encore se trouver dans le château d'Ovis."
+        },
+        {
+            "key": "024",
+            "value": "Retournons à la division principale sur-le-champ."
+        }
+    ]
+}

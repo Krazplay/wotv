@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "TITLE_START",
+            "value": "<cspace=2.5>TOUCH to START"
+        },
+        {
+            "key": "TITLE_DATA",
+            "value": "데이터"
+        },
+        {
+            "key": "TITLE_SUPPORT",
+            "value": "고객센터"
+        },
+        {
+            "key": "TITLE_VERSION",
+            "value": "ver."
+        },
+        {
+            "key": "TITLE_ID",
+            "value": "플레이어 ID:"
+        },
+        {
+            "key": "TITLE_COPYRIGHT",
+            "value": "<line-height=15>©2019 SQUARE ENIX CO., LTD. All Rights Reserved. Co-Developed by gumi Inc.<br>LOGO ILLUSTRATION: © 2018 YOSHITAKA AMANO<br>IMAGE ILLUSTRATION:  ISAMU KAMIKOKURYO"
+        },
+        {
+            "key": "TITLE_SUPPORT_TITLE",
+            "value": "고객센터"
+        },
+        {
+            "key": "TITLE_SUPPORT_NEWS",
+            "value": "공지"
+        },
+        {
+            "key": "TITLE_SUPPORT_HELP",
+            "value": "도움말"
+        },
+        {
+            "key": "TITLE_SUPPORT_CONTACT",
+            "value": "문의하기"
+        },
+        {
+            "key": "TITLE_DATA_TITLE",
+            "value": "데이터"
+        },
+        {
+            "key": "TITLE_DATA_CONNECT",
+            "value": "데이터 인계"
+        },
+        {
+            "key": "TITLE_DATA_DELETE",
+            "value": "다운로드 데이터 삭제"
+        },
+        {
+            "key": "TITLE_ACOUNT_DELETE",
+            "value": "계정 삭제"
+        },
+        {
+            "key": "WW_TITLE_COPYRIGHT",
+            "value": "<line-height=15>© 2019-2022 SQUARE ENIX CO., LTD. All Rights Reserved. Co-Developed by gumi Inc.<br>LOGO ILLUSTRATION: © 2018 YOSHITAKA AMANO<br>IMAGE ILLUSTRATION: ISAMU KAMIKOKURYO"
+        }
+    ]
+}

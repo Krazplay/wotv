@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "..."
+        },
+        {
+            "key": "002",
+            "value": "Minnwu ?"
+        },
+        {
+            "key": "003",
+            "value": "Oui, qu'y a-t-il ?"
+        },
+        {
+            "key": "004",
+            "value": "Ce chemin… es-tu sûre que c'est le bon ?"
+        },
+        {
+            "key": "005",
+            "value": "Arrête de t'en faire pour un rien, Mont."
+        },
+        {
+            "key": "006",
+            "value": "Laisse-la nous guider, elle est sur son terrain. C'est une règle de base."
+        },
+        {
+            "key": "007",
+            "value": "Oui, père."
+        },
+        {
+            "key": "008",
+            "value": "Nous devons atteindre l'autre versant de la montagne avant que nos poursuivants nous rattrapent."
+        },
+        {
+            "key": "009",
+            "value": "C'est tout ce qui importe pour le moment."
+        },
+        {
+            "key": "010",
+            "value": "Qu'est-ce qui vous tracasse, prince Mont ? Vous ne semblez pas d'accord."
+        },
+        {
+            "key": "011",
+            "value": "..."
+        },
+        {
+            "key": "012",
+            "value": "Ce n'est pas la première fois que je me rends au château de Wezett."
+        },
+        {
+            "key": "013",
+            "value": "Ah oui, c'est vrai… vous vous y êtes rendu il y a environ trois ans."
+        },
+        {
+            "key": "014",
+            "value": "Que ce soit à l'aller ou au retour, je n'ai jamais emprunté cette route…"
+        },
+        {
+            "key": "015",
+            "value": "Quoi ? Vous pensez que cette villageoise est en train de nous guider dans la mauvaise direction ?"
+        },
+        {
+            "key": "016",
+            "value": "Je sais bien que je devrais lui laisser le bénéfice du doute, mais…"
+        },
+        {
+            "key": "017",
+            "value": "Je n'arrive pas à lui faire confiance."
+        },
+        {
+            "key": "018",
+            "value": "Il est possible que ce soit juste votre imagination qui vous joue des tours, non ?"
+        },
+        {
+            "key": "019",
+            "value": "Il y a autre chose."
+        },
+        {
+            "key": "020",
+            "value": "Quand nous nous sommes rendus au village, cette Minnwu n'était pas là."
+        },
+        {
+            "key": "021",
+            "value": "Que devrions-nous faire prince Mont ? Vous n'avez qu'un mot à dire et je la ferai parler."
+        },
+        {
+            "key": "022",
+            "value": "Non… Attendons un peu de voir ce qu'il se passe."
+        },
+        {
+            "key": "023",
+            "value": "Est-ce prudent ? Il sera peut-être trop tard ?!"
+        },
+        {
+            "key": "024",
+            "value": "Fais-moi confiance."
+        },
+        {
+            "key": "025",
+            "value": "Entendu."
+        }
+    ]
+}

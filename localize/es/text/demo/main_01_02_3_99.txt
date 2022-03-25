@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bueno, bueno, bueno… Pero si han tomado el castillo de Leonis."
+        },
+        {
+            "key": "002",
+            "value": "Y eso no es todo."
+        },
+        {
+            "key": "003",
+            "value": "Han capturado a la reina Helena y el príncipe Stern."
+        },
+        {
+            "key": "004",
+            "value": "Lo que significa que Elde y Mont han conseguido escapar, ¿correcto?"
+        },
+        {
+            "key": "005",
+            "value": "Me temo que sí, su santidad."
+        },
+        {
+            "key": "006",
+            "value": "…"
+        },
+        {
+            "key": "007",
+            "value": "No pasa nada."
+        },
+        {
+            "key": "008",
+            "value": "En ese caso, puede que me pase por el castillo de Leonis yo también."
+        },
+        {
+            "key": "009",
+            "value": "Su santidad, ¿de verdad va a ir hasta allí?"
+        },
+        {
+            "key": "010",
+            "value": "Los pajaritos llevan un buen tiempo contándome rumores sobre Stern."
+        },
+        {
+            "key": "011",
+            "value": "Llevo tiempo deseando tenerlo bajo control."
+        },
+        {
+            "key": "012",
+            "value": "¿Quién iba a decirme que mi sueño iba a estar tan cerca de cumplirse?"
+        }
+    ]
+}

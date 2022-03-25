@@ -1,0 +1,308 @@
+﻿{
+    "infos": [
+        {
+            "key": "137",
+            "value": "Eran más fieros de lo que pensaba. Justo como decían los aldeanos."
+        },
+        {
+            "key": "138",
+            "value": "¡¿Qui-quiénes sois vosotros?!"
+        },
+        {
+            "key": "139",
+            "value": "Guerreros de los Cristales. Te hemos ayudado con la esperanza de que tuvieras información útil que ofrecernos."
+        },
+        {
+            "key": "140",
+            "value": "¿Guerreros de los Cristales?..."
+        },
+        {
+            "key": "141",
+            "value": "¡Pe-permíteme! Lo que en realidad quiere decir mi compañera es que estamos buscando algo..."
+        },
+        {
+            "key": "142",
+            "value": "Pero dinos, ¿cómo te encuentras?"
+        },
+        {
+            "key": "143",
+            "value": "Estoy bien."
+        },
+        {
+            "key": "144",
+            "value": "Gracias por salvarme."
+        },
+        {
+            "key": "145",
+            "value": "Pero un momento... No seréis asesinos que han acudido en mi ayuda para que baje la guardia, ¿verdad?"
+        },
+        {
+            "key": "146",
+            "value": "Enfunda tu espada, Tyrell."
+        },
+        {
+            "key": "147",
+            "value": "V-Vinera, te dije que te quedaras atrás."
+        },
+        {
+            "key": "148",
+            "value": "¡Podrían ser asesinos de Fennes!"
+        },
+        {
+            "key": "149",
+            "value": "Tranquilo. No te preocupes por estos dos."
+        },
+        {
+            "key": "150",
+            "value": "¡¿Có-cómo lo sabes?!"
+        },
+        {
+            "key": "151",
+            "value": "No quieren hacernos daño. No estoy en condiciones de luchar ahora mismo, pero no percibo intenciones hostiles en ellos."
+        },
+        {
+            "key": "152",
+            "value": "Si tú lo dices, será verdad..."
+        },
+        {
+            "key": "153",
+            "value": "Entonces acabo de apuntar con la espada a mis salvadores. Mis disculpas."
+        },
+        {
+            "key": "154",
+            "value": "Soy Tyrell. Vinera ha tenido que partir de viaje y yo la estoy acompañando. "
+        },
+        {
+            "key": "155",
+            "value": "Tal y como ha dicho Tyrell, mi nombre es Vinera."
+        },
+        {
+            "key": "156",
+            "value": "Y agradezco enormemente vuestra ayuda."
+        },
+        {
+            "key": "157",
+            "value": "Bien, pues. ¿Qué os trae por aquí?"
+        },
+        {
+            "key": "158",
+            "value": "Estamos buscando un cristal núcleo."
+        },
+        {
+            "key": "159",
+            "value": "Os lo explicaré..."
+        },
+        {
+            "key": "160",
+            "value": "... Y aquí estamos."
+        },
+        {
+            "key": "161",
+            "value": "Así que viajáis en busca de cristales que se han desperdigado por distintas tierras..."
+        },
+        {
+            "key": "162",
+            "value": "Es difícil de creer..., sobre todo la parte de vuestro reino."
+        },
+        {
+            "key": "163",
+            "value": "¿Y bien? ¿Tenéis alguna información sobre el cristal núcleo?"
+        },
+        {
+            "key": "164",
+            "value": "Siento decepcionaros, pero no."
+        },
+        {
+            "key": "165",
+            "value": "Ya veo. Pues hasta otra."
+        },
+        {
+            "key": "166",
+            "value": "¡U-un momento! ¡No te precipites!"
+        },
+        {
+            "key": "167",
+            "value": "No tenemos tiempo que perder."
+        },
+        {
+            "key": "168",
+            "value": "¿Por qué solo te fijas en las cosas por si son eficientes o no, Llum?"
+        },
+        {
+            "key": "169",
+            "value": "Ejem. Por el momento seré yo quien haga las preguntas."
+        },
+        {
+            "key": "170",
+            "value": "¿Qué hacéis los dos en este túnel? ¿Huis de alguien?"
+        },
+        {
+            "key": "171",
+            "value": "Bueno..."
+        },
+        {
+            "key": "172",
+            "value": "Nuestro propio reino atenta contra nuestras vidas."
+        },
+        {
+            "key": "173",
+            "value": "¡¿Vi-Vinera?!"
+        },
+        {
+            "key": "174",
+            "value": "Ellos nos han explicado por qué están aquí. No es justo que no se lo contemos nosotros, ¿no crees?"
+        },
+        {
+            "key": "175",
+            "value": "Supongo que tienes razón..."
+        },
+        {
+            "key": "176",
+            "value": "Nos refugiamos en estas minas para escapar de nuestros perseguidores de Fennes."
+        },
+        {
+            "key": "177",
+            "value": "Sin embargo, había más monstruos y más fieros de lo que creíamos, así que nos ha sido imposible avanzar más..."
+        },
+        {
+            "key": "178",
+            "value": "Y eso me lleva a proponeros algo..."
+        },
+        {
+            "key": "179",
+            "value": "¿Podríais escoltarnos a través de las minas?"
+        },
+        {
+            "key": "180",
+            "value": "¿Pe-pero qué estás diciendo? ¡Yo soy tu escolta, Vinera!"
+        },
+        {
+            "key": "181",
+            "value": "Tyrell..., no podemos arriesgarnos a que nos capturen."
+        },
+        {
+            "key": "182",
+            "value": "¿No crees que con más personas protegiéndonos se reducen las posibilidades de que eso ocurra?"
+        },
+        {
+            "key": "183",
+            "value": "¿Por qué no puedes luchar tú, Vinera?"
+        },
+        {
+            "key": "184",
+            "value": "Porque está embarazada."
+        },
+        {
+            "key": "185",
+            "value": "Así que no puede luchar. Y aunque quisiera, yo no se lo permitiría."
+        },
+        {
+            "key": "186",
+            "value": "¿Que no puedes luchar? ¿Entonces de qué te sirve la espada que llevas al cinto?"
+        },
+        {
+            "key": "187",
+            "value": "Alguien muy importante para mí me la confió."
+        },
+        {
+            "key": "188",
+            "value": "Es como un amuleto para mí."
+        },
+        {
+            "key": "189",
+            "value": "Ya veo... Por eso habéis terminado aquí... ¿Qué hacemos, Llum?"
+        },
+        {
+            "key": "190",
+            "value": "No es momento de desviarnos."
+        },
+        {
+            "key": "191",
+            "value": "Y no puedo tomar parte en una empresa tan ineficiente como la de proteger a los débiles."
+        },
+        {
+            "key": "192",
+            "value": "No os lo pediría sin ofreceros algo a cambio... Os ayudaremos a encontrar el cristal núcleo."
+        },
+        {
+            "key": "193",
+            "value": "Si creéis que podría estar en estas minas, ¿no sería mejor que lo buscaran tantos ojos como fuera posible?"
+        },
+        {
+            "key": "194",
+            "value": "Ya que se ofrecen a ayudarnos, lo menos que podemos hacer es protegerles por el camino, ¿no crees?"
+        },
+        {
+            "key": "195",
+            "value": "No entiendo por qué tenemos que proteger a una carga como Vinera."
+        },
+        {
+            "key": "196",
+            "value": "Escoltarlos a ellos solo nos pondrá en peligro a nosotros."
+        },
+        {
+            "key": "197",
+            "value": "No veo la necesidad de arriesgarme por su bien."
+        },
+        {
+            "key": "198",
+            "value": "No tengo mucha experiencia como Guerrero de los Cristales, y puede que esto no signifique mucho viniendo de alguien que no es humano..."
+        },
+        {
+            "key": "199",
+            "value": "Pero los humanos no viven pendientes solamente de lo que pueden perder o ganar."
+        },
+        {
+            "key": "200",
+            "value": "Además, no puedo abandonarlos a su suerte."
+        },
+        {
+            "key": "201",
+            "value": "No como Guerrero de los Cristales, sino por mí mismo..."
+        },
+        {
+            "key": "202",
+            "value": "Deja que te pregunte algo."
+        },
+        {
+            "key": "203",
+            "value": "¿Crees que tiene algún sentido que los fuertes protejan a los débiles?"
+        },
+        {
+            "key": "204",
+            "value": "No te sabría decir..."
+        },
+        {
+            "key": "205",
+            "value": "Lo único que sé es que si no les ayudo ahora, más tarde me arrepentiré."
+        },
+        {
+            "key": "206",
+            "value": "Está bien."
+        },
+        {
+            "key": "207",
+            "value": "Aceptamos tu propuesta."
+        },
+        {
+            "key": "208",
+            "value": "Pero solo hasta que encontremos el cristal, ¿de acuerdo?"
+        },
+        {
+            "key": "209",
+            "value": "Claro. Os lo agradezco."
+        },
+        {
+            "key": "210",
+            "value": "Al fin al cabo, siempre podemos usaros de cebo si las cosas se ponen feas..."
+        },
+        {
+            "key": "211",
+            "value": "Oye, Vinera. Quizá no deberíamos haberles pedido ayuda..."
+        },
+        {
+            "key": "212",
+            "value": "Ja, ja, ja..."
+        }
+    ]
+}

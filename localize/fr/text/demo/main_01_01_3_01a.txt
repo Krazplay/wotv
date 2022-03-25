@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ah... Je meurs de faim..."
+        },
+        {
+            "key": "002",
+            "value": "Tu ne vas pas te mettre à parler de ton estomac maintenant, quand même ?"
+        },
+        {
+            "key": "003",
+            "value": "Tu as si peur que tu veux déguerpir et retourner au château, c'est ça ?"
+        },
+        {
+            "key": "004",
+            "value": "B-bien sûr que j'aimerais bien y retourner ! Il n'y a pas d'ennemis au château. En revanche, il y a beaucoup de nourriture."
+        },
+        {
+            "key": "005",
+            "value": "Tu n'as pas envie d'y retourner aussi, Learte ?"
+        },
+        {
+            "key": "006",
+            "value": "Je ne suis pas comme toi, moi. J'aimerais prouver ma valeur au combat et être récompensée !"
+        },
+        {
+            "key": "007",
+            "value": "Récompensée ? Je croyais que l'honneur te suffisait ?"
+        },
+        {
+            "key": "008",
+            "value": "J'ai dit ça, moi ?"
+        },
+        {
+            "key": "009",
+            "value": "Et pas que ça. Tu disais aussi que tu voulais servir « Fortem » avec Sterne, plutôt que « Caelum »."
+        },
+        {
+            "key": "010",
+            "value": "Haa... Tiens donc ta langue ! Quelqu'un pourrait t'entendre..."
+        },
+        {
+            "key": "011",
+            "value": "Mais c'est vrai, n'est-ce pas ? Tu serais plus proche de Sterne si c'était le cas."
+        },
+        {
+            "key": "012",
+            "value": "J'ai changé d'avis ! Je crois que j'ai enfin compris..."
+        },
+        {
+            "key": "013",
+            "value": "Oh, ton affection se serait-elle reportée sur le prince Mont, finalement ?"
+        },
+        {
+            "key": "014",
+            "value": "Tu n'es qu'un idiot !"
+        },
+        {
+            "key": "015",
+            "value": "Tu ne comprends vraiment rien..."
+        },
+        {
+            "key": "016",
+            "value": "Hmm ?"
+        },
+        {
+            "key": "017",
+            "value": "Tu veux servir l'armée toute ta vie ?"
+        },
+        {
+            "key": "018",
+            "value": "C'est-à-dire ? Tu ne veux plus être soldat ?"
+        },
+        {
+            "key": "019",
+            "value": "Eh bien, je pourrais économiser assez pour m'acheter un petit endroit à moi et partir à la retraite."
+        },
+        {
+            "key": "020",
+            "value": "J'aurais jamais cru que tu pensais à ce genre de choses."
+        },
+        {
+            "key": "021",
+            "value": "Et toi ? L'avenir ne t'inquiète pas ?"
+        },
+        {
+            "key": "022",
+            "value": "Hmm. Tu sais, je suis un peu fataliste."
+        },
+        {
+            "key": "023",
+            "value": "Pfff... Comment j'ai fait pour tomber amoureuse d'un balourd pareil... ?"
+        },
+        {
+            "key": "024",
+            "value": "Pardon ? Tu as dit quelque chose ?"
+        },
+        {
+            "key": "025",
+            "value": "Rien du tout ! Prépare-toi, l'ennemi arrive !"
+        }
+    ]
+}

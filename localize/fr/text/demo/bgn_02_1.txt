@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "À présent, nous allons étudier deux éléments du combat. Le <color=#0000ff>changement de point de vue</color> et le <color=#0000ff>délai d'activation</color> des sorts, des aptitudes et autres."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Voyons d'abord ce qu'on appelle le point de vue. Si vous touchez l'icône jaune en <color=#0000ff>bas de l'écran</color>, vous pourrez afficher la carte du terrain <color=#0000ff>sous différents angles</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Cela devient très utile quand les ennemis se cachent derrière les arbres ou les obstacles !"
+        },
+        {
+            "key": "004",
+            "value": "Les deux icônes <color=#0000ff>en bas à gauche de l'écran</color> vous permettent de voir la carte <color=#0000ff>dans son ensemble</color> ou bien de l'afficher <color=#0000ff>en vue de haut</color>."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "004_2",
+            "value": "Vous pouvez aussi <color=#0000ff>faire pivoter</color> la carte en la maintenant avec deux doigts appuyés sur votre écran. Vous pourrez essayer plus tard."
+        },
+        {
+            "key": "//【文章追加】//",
+            "value": ""
+        },
+        {
+            "key": "005",
+            "value": "Voyons maintenant le <color=#0000ff>délai d'activation</color>, qui s'applique à la magie et à certaines aptitudes."
+        },
+        {
+            "key": "006",
+            "value": "Ces dernières ne s'activent pas immédiatement, mais requièrent au contraire <color=#0000ff>un certain temps</color> avant de se lancer."
+        },
+        {
+            "key": "007",
+            "value": "Pour savoir quand une compétence avec un délai d'activation sera lancée, il vous suffit de consulter la <color=#0000ff>barre d'action</color> à gauche de l'écran."
+        },
+        {
+            "key": "008",
+            "value": "Pour ce type d'aptitudes, vous devrez également indiquer une <color=#0000ff>unité</color> ou une <color=#0000ff>zone</color> cible après l'avoir lancée."
+        },
+        {
+            "key": "009",
+            "value": "Une <color=#0000ff>unité cible</color> est un <color=#0000ff>ennemi en particulier</color> sur lequel la compétence sera lancée, une <color=#0000ff>zone cible</color> est un <color=#0000ff>endroit du terrain</color> qui sera affecté par la compétence."
+        },
+        {
+            "key": "010",
+            "value": "En général, il vaut mieux indiquer une <color=#0000ff>unité cible</color>. Cela garantit que l'ennemi sera touché même s'il se déplace pendant le délais d'activation de l'aptitude."
+        },
+        {
+            "key": "011",
+            "value": "Il peut être intéressant d'indiquer une <color=#0000ff>zone cible</color> si vous réussisez à prédire le déplacement des ennemis ou à identifier une zone dans laquelle ils se rassemblent."
+        },
+        {
+            "key": "012",
+            "value": "Essayons de ne combattre qu'avec des <color=#0000ff>mages</color>, pour cette fois. Servez-vous des icônes pour <color=#0000ff>changer le point de vue sur la carte</color>, et attaquez les ennemis avec de la <color=#0000ff>magie</color>."
+        },
+        {
+            "key": "013",
+            "value": "Je vous recommande de lancer vos compétences sur des <color=#0000ff>unités cibles</color>, de sorte à pouvoir les toucher même si elles se déplacent."
+        },
+        {
+            "key": "014",
+            "value": "Bravo ! Vous avez repoussé tous les ennemis !"
+        },
+        {
+            "key": "015",
+            "value": "Il peut sembler difficile de gérer le délai d'activation des techniques, mais celles-ci sont <color=#0000ff>très puissantes</color>. Apprenez à vous en servir pour décupler votre impact en combat."
+        }
+    ]
+}

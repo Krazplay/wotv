@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "realmoney_tab_judge_sp",
+            "value": "Limitiert"
+        },
+        {
+            "key": "realmoney_tab_judge_day",
+            "value": "Täglich"
+        },
+        {
+            "key": "realmoney_tab_judge_week",
+            "value": "Wöchentlich"
+        },
+        {
+            "key": "realmoney_tab_judge_mon",
+            "value": "Monatlich"
+        },
+        {
+            "key": "realmoney_tab_beginner",
+            "value": "Anfänger"
+        },
+        {
+            "key": "realmoney_tab_comback",
+            "value": "Rückkehrer"
+        },
+        {
+            "key": "realmoney_tab_limited",
+            "value": "Limitiert"
+        },
+        {
+            "key": "realmoney_tab_normal",
+            "value": "Normal "
+        },
+        {
+            "key": "realmoney_tab_other",
+            "value": "Andere"
+        }
+    ]
+}

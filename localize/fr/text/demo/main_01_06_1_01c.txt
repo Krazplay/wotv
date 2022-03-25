@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Je vois une grotte."
+        },
+        {
+            "key": "002",
+            "value": "Minnwu ?"
+        },
+        {
+            "key": "003",
+            "value": "Le territoire de Wezett commence à la sortie de ce passage dans la montagne."
+        },
+        {
+            "key": "004",
+            "value": "Enfin..."
+        },
+        {
+            "key": "005",
+            "value": "Les hommes de Muraga ne devraient pas nous suivre à l'intérieur."
+        },
+        {
+            "key": "006",
+            "value": "Hm. Normalement, plus personne ne nous suit à la trace."
+        },
+        {
+            "key": "007",
+            "value": "Certainement pas après l'intervention terrifiante de Gilgamesh."
+        },
+        {
+            "key": "008",
+            "value": "Oui, mais..."
+        },
+        {
+            "key": "009",
+            "value": "Il y a un problème ?"
+        },
+        {
+            "key": "010",
+            "value": "Nous risquons maintenant d'être repérés par les gardes de Wezett."
+        },
+        {
+            "key": "011",
+            "value": "..."
+        },
+        {
+            "key": "012",
+            "value": "Il est trop tard pour faire demi-tour, de toute façon, non ?"
+        },
+        {
+            "key": "013",
+            "value": "Le roi et Schuzelt sont gravement blessés."
+        },
+        {
+            "key": "014",
+            "value": "Franchement, heureusement que Gilgamesh nous a aidés. Sans lui, on serait déjà morts."
+        },
+        {
+            "key": "015",
+            "value": "Oui."
+        },
+        {
+            "key": "016",
+            "value": "Minnwu... Qu'est-ce que tu sais de ce Gilgamesh ?"
+        },
+        {
+            "key": "017",
+            "value": "Je sais ce qu'en disent les rumeurs."
+        },
+        {
+            "key": "018",
+            "value": "Qu'il est un être suprême régnant sur tous les rois de ce monde."
+        },
+        {
+            "key": "019",
+            "value": "Mon père m'a confié un anneau, qu'il a lui-même reçu de Gilgamesh."
+        },
+        {
+            "key": "020",
+            "value": "Cela voudrait dire qu'il est de notre côté... n'est-ce pas ?"
+        },
+        {
+            "key": "021",
+            "value": "Remettons-nous en route, Sire."
+        },
+        {
+            "key": "022",
+            "value": "Oui."
+        }
+    ]
+}

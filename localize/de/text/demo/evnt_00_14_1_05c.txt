@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "*Keuch, keuch* Wa... Was ist los?"
+        },
+        {
+            "key": "002",
+            "value": "Ist euch Lykerosi schon der Saft ausgegangen?"
+        },
+        {
+            "key": "003",
+            "value": "Du hast dich gar nicht mal so schlecht geschlagen."
+        },
+        {
+            "key": "004",
+            "value": "Zur Belohnung werd ich es kurz machen."
+        },
+        {
+            "key": "005",
+            "value": "So viel zu Fennes."
+        },
+        {
+            "key": "006",
+            "value": "Fennes hat sich zurückgezogen, und Pharm ist so gut wie geschlagen."
+        },
+        {
+            "key": "007",
+            "value": "Ich würde sagen, wir besichtigen jetzt unser neues Schloss."
+        }
+    ]
+}

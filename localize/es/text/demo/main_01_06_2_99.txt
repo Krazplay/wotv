@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Traigo nuevas, majestad!"
+        },
+        {
+            "key": "002",
+            "value": "Una compañía de monjes marcha en nuestra dirección."
+        },
+        {
+            "key": "003",
+            "value": "Lo más probable es que los comande Sadali."
+        },
+        {
+            "key": "004",
+            "value": "Vaya…"
+        },
+        {
+            "key": "005",
+            "value": "¿Podría sospechar algo de nosotros?"
+        },
+        {
+            "key": "006",
+            "value": "No, mi señor. No hemos percibido ningún indicio de ello."
+        },
+        {
+            "key": "007",
+            "value": "Entonces, quizá podríamos pillarlos por sorpresa."
+        },
+        {
+            "key": "008",
+            "value": "¿Y qué hay de Muraga?"
+        },
+        {
+            "key": "009",
+            "value": "No se ha visto a Muraga por ningún sitio…, ni tampoco a los soldados de Fennes."
+        },
+        {
+            "key": "010",
+            "value": "A lo mejor Fennes sigue en el campo de batalla."
+        },
+        {
+            "key": "011",
+            "value": "¡Majestad!…"
+        },
+        {
+            "key": "012",
+            "value": "Mmm."
+        },
+        {
+            "key": "013",
+            "value": "Parece que Sadali planea regresar a la catedral de Dynverk."
+        },
+        {
+            "key": "014",
+            "value": "Eso sería de lo más favorable."
+        },
+        {
+            "key": "015",
+            "value": "Ahora yo, el rey Rob de Hourne, ¡haré que sufran el castigo que se merecen por sus crímenes y engaños!"
+        },
+        {
+            "key": "016",
+            "value": "Informa al ejército. ¡Todo el mundo en marcha!"
+        },
+        {
+            "key": "017",
+            "value": "¡Lanzaremos todas nuestras fuerzas contra los monjes de Santocristal!"
+        },
+        {
+            "key": "018",
+            "value": "¡Aplastadlos contra el suelo! ¡Teñid la hierba de rojo con la sangre de esos miserables!"
+        }
+    ]
+}

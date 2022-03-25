@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh !"
+        },
+        {
+            "key": "002",
+            "value": "Bon d'accord, tu es plus coriace que prévu. Mais maintenant, c'est l'heure de te faire mordre la poussière !"
+        },
+        {
+            "key": "003",
+            "value": "Attends."
+        },
+        {
+            "key": "004",
+            "value": "Qu'est-ce que tu fais encore en travers de mon chemin, toi ?"
+        },
+        {
+            "key": "005",
+            "value": "... ?"
+        },
+        {
+            "key": "006",
+            "value": "C'est qui tous ces gens ?"
+        },
+        {
+            "key": "007",
+            "value": "Regarde leur armure. Lykeros, n'est-ce pas ?"
+        },
+        {
+            "key": "008",
+            "value": "En effet."
+        },
+        {
+            "key": "009",
+            "value": "Je suis Khamral, commandant de la seconde division « Obtritus » de Lykeros."
+        },
+        {
+            "key": "010",
+            "value": "Et je suis son commandant en second, Jinok."
+        },
+        {
+            "key": "011",
+            "value": "Hu hu hu ! Il semble que nous ayons choisi le bon moment pour intervenir."
+        },
+        {
+            "key": "012",
+            "value": "Vous avez attendu en cachette jusqu'à ce qu'on s'épuise ?"
+        },
+        {
+            "key": "013",
+            "value": "Je conçois qu'il soit difficile pour des barbares dans votre genre de saisir le concept."
+        },
+        {
+            "key": "014",
+            "value": "Mais c'est ainsi qu'on mène une guerre, voyez-vous."
+        },
+        {
+            "key": "015",
+            "value": "Allez. Vous pouvez former une file d'attente, l'abattoir est ouvert !"
+        },
+        {
+            "key": "016",
+            "value": "Oldoa, nous ne pouvons pas nous permettre de combattre dans notre état."
+        },
+        {
+            "key": "017",
+            "value": "Ça va, j'avais compris."
+        },
+        {
+            "key": "018",
+            "value": "Oldoa ?"
+        },
+        {
+            "key": "019",
+            "value": "Laissez-moi faire. Toi, rassemble nos troupes et dépêche-toi de battre en retraite."
+        },
+        {
+            "key": "020",
+            "value": "Ne dis pas de bêtise. Tu ne vas pas affronter Lykeros toute seule…"
+        },
+        {
+            "key": "021",
+            "value": "Moi, on me remplacera. Mais le prix sera trop grand pour l'honneur de Muraga s'il perd sa première division, « Ruina »."
+        },
+        {
+            "key": "022",
+            "value": "Du coup…"
+        },
+        {
+            "key": "023",
+            "value": "…"
+        },
+        {
+            "key": "024",
+            "value": "Va-t'en, maintenant ! Tu veux y passer aussi ou quoi ?"
+        },
+        {
+            "key": "025",
+            "value": "Sois fidèle à sa Férocité en ma mémoire !"
+        },
+        {
+            "key": "026",
+            "value": "Nous battons en retraite."
+        },
+        {
+            "key": "027",
+            "value": "Et toi. Ne meurs pas ici."
+        },
+        {
+            "key": "028",
+            "value": "Tu crois vraiment pouvoir nous ralentir à toi toute seule ?"
+        },
+        {
+            "key": "029",
+            "value": "C'est vraiment à ce genre de raisonnement qu'on reconnaît les barbares."
+        },
+        {
+            "key": "030",
+            "value": "Ne boudez pas, vous savez combien d'hommes rêveraient de m'avoir pour eux seuls ?"
+        },
+        {
+            "key": "031",
+            "value": "Tu as la langue bien pendue, c'est déjà ça. Très bien… Nous ne ferons pas de quartier."
+        }
+    ]
+}

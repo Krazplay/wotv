@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "CM_GL_TEST_001_FACEBOOK",
+            "value": "출시 1주년 기념 영상을 공유해 주세요 | <split>https://fb.watch/40tf7nGBEM/<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_1_FACEBOOK",
+            "value": "출시 1주년 기념 영상 1을 공유해 주세요 | <split>https://fb.watch/40tf7nGBEM/<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_9_FACEBOOK",
+            "value": "출시 1주년 기념 영상 2를 공유해 주세요 | <split>https://fb.watch/40tf7nGBEM/<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_18_FACEBOOK",
+            "value": "출시 1주년 기념 영상 3을 공유해 주세요 | <split>https://fb.watch/40tf7nGBEM/<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_27_FACEBOOK",
+            "value": "출시 1주년 기념 영상 4를 공유해 주세요 | <split>https://fb.watch/40tf7nGBEM/<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_TEST_001_TWITTER",
+            "value": "출시 1주년 기념 영상을 공유해 주세요 | <split>https://twitter.com/SobenToma/status/1370271511836196867<split>WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_1_TWITTER",
+            "value": "출시 1주년 기념 영상 1을 공유해 주세요 | <split>https://twitter.com/SobenToma/status/1370271511836196867<split>WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_9_TWITTER",
+            "value": "출시 1주년 기념 영상 2를 공유해 주세요 | <split>https://twitter.com/SobenToma/status/1370271511836196867<split>WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_18_TWITTER",
+            "value": "출시 1주년 기념 영상 3을 공유해 주세요 | <split>https://twitter.com/SobenToma/status/1370271511836196867<split>WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_27_TWITTER",
+            "value": "출시 1주년 기념 영상 4를 공유해 주세요 | <split>https://twitter.com/SobenToma/status/1370271511836196867<split>WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_PRO_306_TWITTER",
+            "value": "NieR:Automata 콜라보 진행 중 <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_307_TWITTER",
+            "value": "NieR:Automata 콜라보 진행 중 <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_315_TWITTER",
+            "value": "NieR:Automata 콜라보 절찬리 진행 중! <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_2B_09_TWITTER",
+            "value": "NieR:Automata 콜라보 진행 중! <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_9S_09_TWITTER",
+            "value": "NieR:Automata 콜라보 절찬리 진행 중 <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_V_NIER_MV1_09_TWITTER",
+            "value": "NieR:Automata 콜라보 절찬리 진행 중! <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_FF6_01_TWITTER",
+            "value": "FFVI 콜라보 진행 중<br>'로크' 무료 획득 가능<br>지금 여기에서 플레이하세요: https://wotvffbeww.onelink.me/QN78/SNS<split>https://twitter.com/wotvffbe_ko/status/1505816487663181825<split>WOTVFFBE"
+        }
+    ]
+}

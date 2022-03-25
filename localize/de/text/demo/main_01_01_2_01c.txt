@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "König Yrde ... Können wir Euch wirklich vertrauen?"
+        },
+        {
+            "key": "002",
+            "value": "Bedankst du sich so bei dem König, der unter Einsatz Seines Lebens eures gerettet hat?"
+        },
+        {
+            "key": "003",
+            "value": "Meine Pflicht ist es sicherzustellen, dass die Prinzessin wohlbehalten in Fennes ankommt."
+        },
+        {
+            "key": "004",
+            "value": "Wenn das Anschuldigungen, dass ich unverschämt sei, mit sich bringt, nehme ich das gerne in Kauf."
+        },
+        {
+            "key": "005",
+            "value": "Das reicht, Schuzelt."
+        },
+        {
+            "key": "006",
+            "value": "Ich habe nicht vor, fennischen Boden zu betreten."
+        },
+        {
+            "key": "007",
+            "value": "Aber Euer Hoheit! Was ist mit der Verlobung mit König Muraga?"
+        },
+        {
+            "key": "008",
+            "value": "Dir kann nicht entgangen sein, dass hier etwas faul ist. Der Überfall ... ist sehr verdächtig."
+        },
+        {
+            "key": "009",
+            "value": "... Ja, Euer Hoheit."
+        },
+        {
+            "key": "010",
+            "value": "König Yrde. Ich würde gerne Schloss Leonis besuchen. Darf ich mich als eingeladen betrachten?"
+        },
+        {
+            "key": "011",
+            "value": "Das dürft ihr. Kommt und weidet Eure Augen am Anblick unserer berühmten Residenz, des Löwenschlosses."
+        }
+    ]
+}

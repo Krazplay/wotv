@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Non mais c'est vraiment tout ce dont vous êtes capables ?"
+        },
+        {
+            "key": "002",
+            "value": "Ce misérable petit château ne va pas nous tenir tête longtemps ! Chargez et prenez-le !"
+        },
+        {
+            "key": "003",
+            "value": "Pas sans m'affronter d'abord."
+        },
+        {
+            "key": "004",
+            "value": "Hein ? Qui a dit ça ?"
+        },
+        {
+            "key": "005",
+            "value": "... !"
+        },
+        {
+            "key": "006",
+            "value": "Dites donc, c'est pas passé loin !"
+        },
+        {
+            "key": "007",
+            "value": "Argh !"
+        },
+        {
+            "key": "008",
+            "value": "Mais je n'avais pas besoin de ton aide, à toi."
+        },
+        {
+            "key": "009",
+            "value": "Je ne cherche pas à sauver ta vie, qui m'importe peu."
+        },
+        {
+            "key": "010",
+            "value": "Non, je ne faisais que mon devoir de stratège."
+        },
+        {
+            "key": "011",
+            "value": "D'accord, alors Madame la stratège, éclaire ma lanterne. Par quel bout doit-on les attaquer, à ton avis ?"
+        },
+        {
+            "key": "012",
+            "value": "Les attaquer ? Nous devrions battre en retraite."
+        },
+        {
+            "key": "013",
+            "value": "T'as pris un coup sur la tête ou quoi ?"
+        },
+        {
+            "key": "014",
+            "value": "Le château de Pharm est imprenable. Nous allons perdre de précieuses ressources si nous poursuivons cet assaut inutile."
+        },
+        {
+            "key": "015",
+            "value": "Et alors ? Ça ne fera qu'embellir la légende, non ? Jusqu'où est-on prêts à aller, à quel sacrifices est-on prêts à consentir… ?"
+        },
+        {
+            "key": "016",
+            "value": "Je ne vais certainement pas battre en retraite. Quoi qu'il arrive."
+        },
+        {
+            "key": "017",
+            "value": "Nous devons prendre Pharm, je le sais, j'ai mes raisons."
+        }
+    ]
+}

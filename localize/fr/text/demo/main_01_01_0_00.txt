@@ -1,0 +1,116 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Un rapport de la frontière, Sire."
+        },
+        {
+            "key": "002",
+            "value": "Une brigade est attaquée par des bandits près de la frontière de Hourne."
+        },
+        {
+            "key": "003",
+            "value": "Des bandits ?!"
+        },
+        {
+            "key": "004",
+            "value": "Père ! Permettez-moi... !"
+        },
+        {
+            "key": "005",
+            "value": "Non, je vais m'y rendre."
+        },
+        {
+            "key": "006",
+            "value": "Mais pourquoi ? Vous m'en pensez incapable ?"
+        },
+        {
+            "key": "007",
+            "value": "Ne cherche pas tant la gloire."
+        },
+        {
+            "key": "008",
+            "value": "La gloire ne m'intéresse pas. S'il vous plaît, expliquez-moi..."
+        },
+        {
+            "key": "009",
+            "value": "Chaque chose en son temps."
+        },
+        {
+            "key": "010",
+            "value": "C'est ce que vous répétez à chaque fois, père. Dites-moi quand !"
+        },
+        {
+            "key": "011",
+            "value": "J'ai dit « en son temps ». Je n'ai rien à ajouter."
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "Vous dites toujours que rien ne vaut un bon combat en condition réelle..."
+        },
+        {
+            "key": "014",
+            "value": "N'est-ce pas le cas ?"
+        },
+        {
+            "key": "015",
+            "value": "C'est cela."
+        },
+        {
+            "key": "016",
+            "value": "Dans ce cas, expliquez-moi !"
+        },
+        {
+            "key": "017",
+            "value": "La lignée des Leonis doit perdurer, même s'il nous faut défier les dieux pour la défendre."
+        },
+        {
+            "key": "018",
+            "value": "C'est tout ce que j'ai à dire."
+        },
+        {
+            "key": "019",
+            "value": "..."
+        },
+        {
+            "key": "020",
+            "value": "Mont, commence les préparatifs. Rassemble la division « Caelum »."
+        },
+        {
+            "key": "021",
+            "value": "O-oui, père."
+        },
+        {
+            "key": "022",
+            "value": "Helena, occupe-toi du château en notre absence."
+        },
+        {
+            "key": "023",
+            "value": "Comme vous voudrez, mon roi. Mais soyez prudent."
+        },
+        {
+            "key": "024",
+            "value": "... Kitone."
+        },
+        {
+            "key": "025",
+            "value": "Surveille Sterne. Assure-toi qu'il ne commette pas d'imprudence."
+        },
+        {
+            "key": "026",
+            "value": "Comme vous le souhaitez."
+        },
+        {
+            "key": "027",
+            "value": "Pourquoi est-ce que père ne me fait pas confiance ?!"
+        },
+        {
+            "key": "028",
+            "value": "Je ne serai donc jamais autre chose que le prince cadet ?"
+        }
+    ]
+}

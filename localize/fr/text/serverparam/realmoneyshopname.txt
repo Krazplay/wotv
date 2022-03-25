@@ -1,0 +1,2332 @@
+﻿{
+    "infos": [
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact.001",
+            "value": "Équipement : Brise-métal"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.003",
+            "value": "Lot de lancement du jeu III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.002.01",
+            "value": "Lot de lancement du jeu II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.001",
+            "value": "Lot de lancement du jeu I"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_booster.001",
+            "value": "Lot augmentation d'endurance"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_cg.001",
+            "value": "Lot d'END et de Gilkhélones"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.001",
+            "value": "Lot d'éveil d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_awaken.001",
+            "value": "Lot d'éveil de chimère"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.001",
+            "value": "Lot de chocobo hebdomadaire"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.001",
+            "value": "Lot d'amélioration d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_exp.001",
+            "value": "Lot pour l'équipement"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.001",
+            "value": "Lot d'amélioration de chimère"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.001",
+            "value": "Lot d'amélioration d'atout-vision"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.001",
+            "value": "Lot d'endurance quotidien"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.001",
+            "value": "[Bonus] Lot de visiores A"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.002",
+            "value": "[Bonus] Lot de visiores B"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.003",
+            "value": "[Bonus] Lot de visiores C"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.004",
+            "value": "[Bonus] Lot de visiores D"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.005",
+            "value": "[Bonus] Lot de visiores E"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.006",
+            "value": "[Bonus] Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.007",
+            "value": "[Bonus] Lot de visiores G"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.001",
+            "value": "Lot de visiores A"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.002",
+            "value": "Lot de visiores B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.003",
+            "value": "Lot de visiores C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.004",
+            "value": "Lot de visiores D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.005",
+            "value": "Lot de visiores E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.006",
+            "value": "Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.007.01",
+            "value": "Lot de visiores G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.004",
+            "value": "Lot d'éveil mensuel : Feu"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.005",
+            "value": "Lot d'éveil mensuel : Eau"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.006",
+            "value": "Lot d'éveil mensuel : Vent"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.007",
+            "value": "Lot d'éveil mensuel : Foudre"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.008",
+            "value": "Lot d'éveil mensuel : Glace"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.009",
+            "value": "Lot d'éveil mensuel : Terre"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.010",
+            "value": "Lot d'éveil mensuel : Lumière"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.011",
+            "value": "Lot d'éveil mensuel : Ombre"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_01.rew",
+            "value": "Ticket d'invocation rare"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_02.rew",
+            "value": "Ticket d'invocation x10 rare"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_05.rew",
+            "value": "Visiore x100"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_03.rew",
+            "value": "Visiore x640"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_04.rew",
+            "value": "Visiore x1 350"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.009",
+            "value": "[Collab.] Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.010",
+            "value": "[Collab.] Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.011",
+            "value": "[Collab.] Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.012",
+            "value": "[Collab.] Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.003",
+            "value": "[Collab.] Lot arc-en-ciel"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.001",
+            "value": "Atout-vision : Cristal de job"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.daily.001",
+            "value": "Lot de visiores quotidien"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.012",
+            "value": "Lot arc-en-ciel mensuel"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.001",
+            "value": "Lot d'équipement physique"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.002",
+            "value": "Lot d'équipement magique"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.003",
+            "value": "Lot d'équipement vital"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.001",
+            "value": "Lot pour la Limite"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.001",
+            "value": "Lot d'aptitude d'équipement"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.001",
+            "value": "Lot de visiores 30 jours"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.006",
+            "value": "Lot de lancement III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.005",
+            "value": "Lot de lancement II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.004",
+            "value": "Lot de lancement I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "FF EXVIUS Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "FF EXVIUS Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "FF EXVIUS Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "FF EXVIUS Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "FF EXVIUS Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "FF EXVIUS Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "Lot quotidien spécial FFI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "Lot spécial FFI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.003",
+            "value": "Lot d'amélioration d'unité +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.003",
+            "value": "Lot d'amélioration d'atout-v.+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.015",
+            "value": "Lot d'éveil d'unité +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.001",
+            "value": "Lot de gilkhélones"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.014",
+            "value": "[Collab.] Lot arc-en-ciel"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.003",
+            "value": "Lot chocobo triplé de l'été"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.019",
+            "value": "[Collab.] Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.020",
+            "value": "[Collab.] Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.021",
+            "value": "[Collab.] Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.022",
+            "value": "[Collab.] Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.023",
+            "value": "[Collab.] Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.024",
+            "value": "[Collab.] Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "Passe de quêtes"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "Passe d'entraînement d'unités"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "Passe d'entraînement d'équip."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.016",
+            "value": "[Collab.] Lot arc-en-ciel"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.025",
+            "value": "[Collab.] Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.026",
+            "value": "[Collab.] Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.027",
+            "value": "[Collab.] Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.028",
+            "value": "[Collab.] Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.029",
+            "value": "[Collab.] Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.030",
+            "value": "[Collab.] Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst.001",
+            "value": "Lot pour la Limite"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability.001",
+            "value": "Lot d'aptitude d'équipement"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.001",
+            "value": "Lot quoti. pièces d'unité UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.002",
+            "value": "Lot spé. de pièces d'unité UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.001",
+            "value": "Lot de tickets évit'histoire"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.003",
+            "value": "Lot de tickets évit'événement"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.001",
+            "value": "Lot spécial de tickets évit'"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.031",
+            "value": "[Limité] Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.032",
+            "value": "[Limité] Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.033",
+            "value": "[Limité] Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.034",
+            "value": "[Limité] Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.035",
+            "value": "[Limité] Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.036",
+            "value": "[Limité] Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.008",
+            "value": "Lot de visiores B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.009",
+            "value": "Lot de visiores C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.010",
+            "value": "Lot de visiores D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.011",
+            "value": "Lot de visiores E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.012",
+            "value": "Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.013",
+            "value": "Lot de visiores G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.001",
+            "value": "Lot cadeau de MyCard"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.037",
+            "value": "[Limité] Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.038",
+            "value": "[Limité] Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.039",
+            "value": "[Limité] Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.040",
+            "value": "[Limité] Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.041",
+            "value": "[Limité] Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.042",
+            "value": "[Limité] Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.043",
+            "value": "[Limité] Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.008",
+            "value": "[Bonus] Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.014",
+            "value": "Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.044",
+            "value": "[Collab.] Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.045",
+            "value": "[Collab.] Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.046",
+            "value": "[Collab.] Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.047",
+            "value": "[Collab.] Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.048",
+            "value": "[Collab.] Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.049",
+            "value": "[Collab.] Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.050",
+            "value": "[Collab.] Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.002",
+            "value": "Black Friday-Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.003",
+            "value": "Black Friday-Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.004",
+            "value": "Black Friday-Lot de médailles"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.005",
+            "value": "Black Friday-Lot éveil d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.006",
+            "value": "Black Friday-Lot des atouts-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.007",
+            "value": "Black Friday-Lot des chimères"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.008",
+            "value": "Black Friday-Lot de Chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.009",
+            "value": "Black Friday-Lot arc-en-ciel"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.002",
+            "value": "[Limité] Lot festif 30 jours +"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.051",
+            "value": "Festivités-Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.052",
+            "value": "Festivités-Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.053",
+            "value": "Festivités-Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.054",
+            "value": "Festivités-Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.055",
+            "value": "Festivités-Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.056",
+            "value": "Festivités-Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.057",
+            "value": "Festivités-Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.010",
+            "value": "Hiver - Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.011",
+            "value": "Hiver - Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.012",
+            "value": "Lot de médailles festif"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.013",
+            "value": "Hiver - Lot d'éveil d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.014",
+            "value": "Hiver - Amélioration atout-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.015",
+            "value": "Hiver - Amélioration chimère"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.016",
+            "value": "Hiver - Lot de chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.017",
+            "value": "Hiver - Lot arc-en-ciel"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.058",
+            "value": "Année 2021-Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.059",
+            "value": "Année 2021-Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.060",
+            "value": "Année 2021-Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.061",
+            "value": "Année 2021-Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.062",
+            "value": "Année 2021-Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.063",
+            "value": "Année 2021-Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.064",
+            "value": "Année 2021-Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.065",
+            "value": "Hiver 2021-Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.066",
+            "value": "Hiver 2021-Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.067",
+            "value": "Hiver 2021-Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.068",
+            "value": "Hiver 2021-Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.069",
+            "value": "Hiver 2021-Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.070",
+            "value": "Hiver 2021-Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.071",
+            "value": "Hiver 2021-Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_egg.001",
+            "value": "Lot de PJ +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_egg.002",
+            "value": "Lot des ovalithes quotidien"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.001",
+            "value": "[Essai] Lot des clés de PJ"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.002",
+            "value": "Lot des clés de PJ mensuel"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.018",
+            "value": "Hiver 2021-Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.019",
+            "value": "Hiver 2021-Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.020",
+            "value": "Hiver 2021-Lot de médailles"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.021",
+            "value": "Hiver 2021-Lot d'éveil d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.022",
+            "value": "Hiver 2021-Lot des chimères"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.023",
+            "value": "Hiver 2021-Lot d'évit'quête"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.024",
+            "value": "Hiver 2021-Lot de chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.025",
+            "value": "Hiver 2021-Lot arc-en-ciel"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.001",
+            "value": "[Hebdo.] Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.002",
+            "value": "[Hebdo.] Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.003",
+            "value": "[Hebdo.] Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.003",
+            "value": "[Mensuel] Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.002",
+            "value": "[Mensuel] Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.001",
+            "value": "[Mensuel] Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.004",
+            "value": "Passe premium"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.003",
+            "value": "[1er anniv.] Lot de 30 jours"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.072",
+            "value": "1er anniv.-Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.073",
+            "value": "1er anniv.-Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.074",
+            "value": "1er anniv.-Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.075",
+            "value": "1er anniv.-Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.076",
+            "value": "1er anniv.-Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.077",
+            "value": "1er anniv.-Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.078",
+            "value": "1er anniv.-Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.001",
+            "value": "Lot de job EX"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.002",
+            "value": "Lot de stèles"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.003",
+            "value": "Lot de sculptures d'alcrist"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.004",
+            "value": "Lot d'équipement [DEF]"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.005",
+            "value": "Lot d'équipement [PSY]"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.006",
+            "value": "Lot d'équipement [ATT]"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.007",
+            "value": "Lot d'équipement [MAG]"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.026",
+            "value": "[1er anniv.] Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.027",
+            "value": "[1er anniv.] Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.007",
+            "value": "Lot spécial premiers pas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.028",
+            "value": "[1er anniv.] Lot de job EX"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.029",
+            "value": "Lot de médailles du 1er anniv."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.030",
+            "value": "[1er anniv.] Éveil d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.031",
+            "value": "[1er anniv.] Lot d'atout-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.032",
+            "value": "[1er anniv.] Lot chimérique"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.033",
+            "value": "[1er anniv.] Lot de chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.034",
+            "value": "[1er anniv.] Lot arc-en-ciel"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.079",
+            "value": "[NieR] Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.080",
+            "value": "[NieR] Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.081",
+            "value": "[NieR] Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.082",
+            "value": "[NieR] Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.083",
+            "value": "[NieR] Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.084",
+            "value": "[NieR] Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.085",
+            "value": "[NieR] Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.002",
+            "value": "Lot spécial de tickets évit'"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.035",
+            "value": "[NieR] Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.036",
+            "value": "[NieR] Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.037",
+            "value": "[NieR] Lot des fragments NieR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.008",
+            "value": "[NieR] Lot des premiers pas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.038",
+            "value": "[NieR] Lot de job EX"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.039",
+            "value": "[NieR] Lot du printemps 2021"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.040",
+            "value": "[NieR] Lot d'éveil d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.041",
+            "value": "[NieR] Lot d'atout-vision"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.042",
+            "value": "[NieR] Lot chimérique"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.043",
+            "value": "[NieR] Lot de chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.044",
+            "value": "[NieR] Lot arc-en-ciel"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.004",
+            "value": "Offre-Lot de 30 jours"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.086",
+            "value": "Offre-Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.087",
+            "value": "Offre-Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.088",
+            "value": "Offre-Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.089",
+            "value": "Offre-Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.090",
+            "value": "Offre-Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.091",
+            "value": "Offre-Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.092",
+            "value": "Offre-Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.visiore.001",
+            "value": "Lot de visiores débutant"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.comeback.001",
+            "value": "Sélection d'unité niv. 99"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.001",
+            "value": "Offre-Lot d'amélio. d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.001",
+            "value": "Offre-Lot chimère et atout-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.001",
+            "value": "Offre-Lot des matériaux"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.045",
+            "value": "Offre-Lot d'amélio. d'équip. +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.046",
+            "value": "Offre-Lot arc-en-ciel +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.047",
+            "value": "Offre-Lot chimérique +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.048",
+            "value": "Offre-Lot de job EX +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.049",
+            "value": "Offre-Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.050",
+            "value": "Offre-Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.051",
+            "value": "Offre-Lot des premiers pas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.052",
+            "value": "Offre-Lot d'éveil d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.053",
+            "value": "Offre-Lot d'atout-vision"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.054",
+            "value": "Offre-Lot de chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.055",
+            "value": "Offre-Lot arc-en-ciel"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.093",
+            "value": "Festiv. 3-Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.094",
+            "value": "Festiv. 3-Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.095",
+            "value": "Festiv. 3-Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.096",
+            "value": "Festiv. 3-Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.097",
+            "value": "Festiv. 3-Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.098",
+            "value": "Festiv. 3-Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.099",
+            "value": "Festiv. 3-Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.056",
+            "value": "Festiv. 3-Lot de Zazan (UR)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.057",
+            "value": "Festiv. 3-Lot de Duane"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.058",
+            "value": "Festiv. 3-Lot de Fryevia"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.100",
+            "value": "Été 2021-Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.101",
+            "value": "Été 2021-Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.102",
+            "value": "Été 2021-Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.103",
+            "value": "Été 2021-Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.104",
+            "value": "Été 2021-Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.105",
+            "value": "Été 2021-Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.106",
+            "value": "Été 2021-Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.004",
+            "value": "Lot de stèles"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.059",
+            "value": "Été 2021-Lot de Lilyth (Été)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.060",
+            "value": "Été 2021-Lot de Kitone (Été)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.061",
+            "value": "Été 2021-Lot de Kilphe (Été)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.062",
+            "value": "Été 2021-Lot d'Elsirelle (Été)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.002",
+            "value": "Été 2021-Lot entraîn. d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.002",
+            "value": "Été 2021-Lot chimère et a.-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.002",
+            "value": "Été 2021-Lot des matériaux"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.063",
+            "value": "Été 2021-Lot d'équipement +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.064",
+            "value": "Été 2021-Lot arc-en-ciel +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.065",
+            "value": "Été 2021-Lot chimérique +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.066",
+            "value": "Été 2021-Lot de job EX +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.067",
+            "value": "Été 2021-Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.068",
+            "value": "Été 2021-Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.069",
+            "value": "Été 2021-Lot des premiers pas"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.107",
+            "value": "[Collab.] Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.108",
+            "value": "[Collab.] Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.109",
+            "value": "[Collab.] Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.110",
+            "value": "[Collab.] Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.111",
+            "value": "[Collab.] Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.112",
+            "value": "[Collab.] Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.113",
+            "value": "[Collab.] Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.070",
+            "value": "[Collab.] Lot de Cloud"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.071",
+            "value": "[Collab.] Lot de Tifa"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.comeback.002",
+            "value": "Offre spéciale d'unité niv. 99"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.003",
+            "value": "[Collab.] Lot amélio. d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.003",
+            "value": "[Collab.] Lot chimère et a.-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.003",
+            "value": "[Collab.] Lot des matériaux"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.074",
+            "value": "[Collab.] Lot d'équipement +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.075",
+            "value": "[Collab.] Lot arc-en-ciel +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.076",
+            "value": "[Collab.] Lot chimérique +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.077",
+            "value": "[Collab.] Lot de job EX +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.078",
+            "value": "[Collab.] Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.079",
+            "value": "[Collab.] Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.080",
+            "value": "[Collab.] Lot des premiers pas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.081",
+            "value": "[Collab.] Lot de Barret"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.082",
+            "value": "[Collab.] Lot d'Aerith"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.114",
+            "value": "[1,5 an] Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.115",
+            "value": "[1,5 an] Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.116",
+            "value": "[1,5 an] Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.117",
+            "value": "[1,5 an] Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.118",
+            "value": "[1,5 an] Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.119",
+            "value": "[1,5 an] Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.120",
+            "value": "[1,5 an] Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.item.001",
+            "value": "Lot spécial des débutants"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.083",
+            "value": "[1,5 an] Lot de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.084",
+            "value": "[1,5 an] Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.085",
+            "value": "[1,5 an] Lot de Lara Croft"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.086",
+            "value": "[1,5 an] Lot des premiers pas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.004",
+            "value": "[1,5 an] Lot chimère et a.-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.004",
+            "value": "[1,5 an] Lot des matériaux"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.087",
+            "value": "[1,5 an] Lot de job EX +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.088",
+            "value": "[1,5 an] Lot arc-en-ciel +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.089",
+            "value": "[1,5 an] Lot chimérique +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.090",
+            "value": "[1,5 an] Lot d'équipement +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.091",
+            "value": "[1,5 an] Lot gilkhélones (XL)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.092",
+            "value": "Lot pour aptitude d'équipement"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.005",
+            "value": "1,5 an-Lot de 30 jours"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.093",
+            "value": "1,5 an-Lot sélect. fragments"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.094",
+            "value": "1,5 an-Lot invoc. débutant"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.095",
+            "value": "1,5 an-Lot invoc. du moment"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.096",
+            "value": "1,5 an-Lot unité UR niv. 99"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.121",
+            "value": "Halloween-Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.122",
+            "value": "Halloween-Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.123",
+            "value": "Halloween-Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.124",
+            "value": "Halloween-Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.125",
+            "value": "Halloween-Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.126",
+            "value": "Halloween-Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.127",
+            "value": "Halloween-Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.item.002",
+            "value": "Lot spécial objets débutant"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.097",
+            "value": "Halloween-Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.098",
+            "value": "Halloween-Lot sélec. fragments"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.099",
+            "value": "Halloween-Lot invoc. débutant"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.100",
+            "value": "Halloween-Lot tickets d'invoc."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.101",
+            "value": "Halloween-Lot des premiers pas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.005",
+            "value": "Halloween-Lot chimère et a.-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.005",
+            "value": "Halloween-Lot des matériaux"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.102",
+            "value": "Halloween-Lot de job EX +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.103",
+            "value": "Halloween-Lot arc-en-ciel +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.104",
+            "value": "Halloween-Lot chimérique +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.105",
+            "value": "Halloween-Lot d'équipement +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.106",
+            "value": "Halloween-Lot gilkhélones (XL)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.107",
+            "value": "Halloween-Lot quêtes des clés"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.108",
+            "value": "[Collab] Lot quête d'événement"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.109",
+            "value": "[Collab] Lot d'amélio. (terre)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.110",
+            "value": "[Collab] Lot d'amélio. (ombre)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.111",
+            "value": "[Collab] Lot d'amélio. (glace)"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.128",
+            "value": "Black Friday-Lot visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.129",
+            "value": "Black Friday-Lot visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.130",
+            "value": "Black Friday-Lot visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.131",
+            "value": "Black Friday-Lot visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.132",
+            "value": "Black Friday-Lot visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.133",
+            "value": "Black Friday-Lot visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.134",
+            "value": "Black Friday-Lot visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.112",
+            "value": "Black Friday-Lot visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.113",
+            "value": "Black Friday-Lot visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.114",
+            "value": "Black Friday-Sélec. unité UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.115",
+            "value": "Black Friday-Lot de job EX +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.116",
+            "value": "Black Friday-Lot entraîn'job +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.117",
+            "value": "Black Friday-Sélec. AV UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.118",
+            "value": "Black Friday-Sélec. chimère UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.119",
+            "value": "Black Friday-Lot étoilé unités"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.120",
+            "value": "Black Friday-Lot étoilé AV"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.121",
+            "value": "Black Friday-Lot tickets évit'"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.122",
+            "value": "Black Friday-Lot chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.123",
+            "value": "Black Friday-Lot de provisions"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.124",
+            "value": "[FFXV] Lot de Noctis"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.125",
+            "value": "[FFXV] Lot de Prompto"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.126",
+            "value": "[FFXV] Lot d'Aranea"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.135",
+            "value": "Hiver 2021-Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.136",
+            "value": "Hiver 2021-Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.137",
+            "value": "Hiver 2021-Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.138",
+            "value": "Hiver 2021-Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.139",
+            "value": "Hiver 2021-Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.140",
+            "value": "Hiver 2021-Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.141",
+            "value": "Hiver 2021-Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.127",
+            "value": "Hiver 2021-Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.128",
+            "value": "Hiver 2021-Lot invoc. débutant"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.129",
+            "value": "Hiver 2021-Lot tickets d'inv."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.130",
+            "value": "Hiver 2021-Lot Luartha (Hiver)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.131",
+            "value": "Hiver 2021-Lot premiers pas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.132",
+            "value": "Hiver 2021-Lot chimère et a-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.133",
+            "value": "Hiver 2021-Lot des matériaux"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.134",
+            "value": "Hiver 2021-Lot de job EX +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.135",
+            "value": "Hiver 2021-Lot arc-en-ciel + "
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.136",
+            "value": "Hiver 2021-Lot chimérique +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.137",
+            "value": "Hiver 2021-Lot d'équipement + "
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.138",
+            "value": "Hiver 2021-Lot gilkhélones XL"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.142",
+            "value": "Festiv. 5-Lot invoc. débutant"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.140",
+            "value": "Festiv. 5-Lot invoc. du moment"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.141",
+            "value": "Festiv. 5-Lot sélec. fragm."
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.142",
+            "value": "10M - Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.143",
+            "value": "10M - Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.144",
+            "value": "10M - Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.145",
+            "value": "10M - Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.146",
+            "value": "10M - Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.147",
+            "value": "10M - Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.148",
+            "value": "10M - Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.143",
+            "value": "10M - Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.144",
+            "value": "[FFIV] Lot de Golbez"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.145",
+            "value": "[FFIV] Lot de Cécil"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.146",
+            "value": "[FFIV] Lot de Kaïn"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.147",
+            "value": "[FFIV] Lot de Rosa"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.148",
+            "value": "10M - Lot premiers pas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.149",
+            "value": "10M - Lot chimère et a.-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.150",
+            "value": "10M - Lot évit'quête +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.151",
+            "value": "10M - Lot de provisions"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.152",
+            "value": "10M - Lot de job EX +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.153",
+            "value": "10M - Lot arc-en-ciel +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.154",
+            "value": "10M - Lot chimérique +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.155",
+            "value": "10M - Lot d'équipement +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.156",
+            "value": "10M - Lot gilkhélones (XL)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157",
+            "value": "Lune 2022-Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161",
+            "value": "Lune 2022-Lot invoc. débutant"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159",
+            "value": "Lune 2022-Lot invoc. du moment"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160",
+            "value": "Lune 2022-Lot de Moore lunaire"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162",
+            "value": "Carnaval-Lot quotidien spécial"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163",
+            "value": "Carnaval-Lot d'amélio. d'unité"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164",
+            "value": "Carnaval-Lot d'amélio. d'a.-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149",
+            "value": "2 ans - Lot de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150",
+            "value": "2 ans - Lot de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151",
+            "value": "2 ans - Lot de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152",
+            "value": "2 ans - Lot de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153",
+            "value": "2 ans - Lot de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154",
+            "value": "2 ans - Lot de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155",
+            "value": "2 ans - Lot de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003",
+            "value": "Essai - Lot de clés de PJ"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001",
+            "value": "Essai - Lot de clés aff/res"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009",
+            "value": "Débutant - Sélec. unité UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010",
+            "value": "Débutant - Lot d'éveil d'unité +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011",
+            "value": "Débutant - Sélec. AV UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003",
+            "value": "Lot chimérique"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002",
+            "value": "Lot de gilkhélones"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002",
+            "value": "Lot pour la limite"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002",
+            "value": "Lot pour aptitude d'équipement"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004",
+            "value": "Mensuel - Lot de clés de PJ"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002",
+            "value": "Mensuel - Lot de clés aff/res"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001",
+            "value": "Mensuel - Lot d'éveil +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165",
+            "value": "2 ans - Lot de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166",
+            "value": "FFVI - Lot invoc. débutant"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167",
+            "value": "FFVI - Lot invoc. du moment"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171",
+            "value": "2 ans - Lot des premiers pas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172",
+            "value": "2 ans - Lot chimère et a.-v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173",
+            "value": "2 ans - Lot évit'quête +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174",
+            "value": "2 ans - Lot de provisions"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175",
+            "value": "2 ans - Lot de job EX +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176",
+            "value": "2 ans - Lot arc-en-ciel +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177",
+            "value": "2 ans - Lot chimérique +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178",
+            "value": "2 ans - Lot d'équipement +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179",
+            "value": "2 ans - Lot gilkhélones (XL)"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001",
+            "value": "Lot de Celes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002",
+            "value": "Lot de Terra"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001",
+            "value": "Lot du 2e anniversaire"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate3)",
+            "value": ""
+        }
+    ]
+}

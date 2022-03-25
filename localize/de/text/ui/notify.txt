@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "REQUEST",
+            "value": "<voffset=0.3em>ANFRAGE"
+        },
+        {
+            "key": "UNLOCK",
+            "value": "FREIGESCHALTET!"
+        },
+        {
+            "key": "CLEAR",
+            "value": "<cspace=0.11em>ERLEDIGT!"
+        },
+        {
+            "key": "REWARD",
+            "value": "<size=14>BELOHNUNG!"
+        },
+        {
+            "key": "FRIENDREQUEST_TITLE",
+            "value": "Freundesanfragen"
+        },
+        {
+            "key": "RANDOMSHOP_TITLE",
+            "value": "Zufälliger Laden"
+        },
+        {
+            "key": "FEVER_TITLE",
+            "value": "Fieber!"
+        },
+        {
+            "key": "RAIDBOSS_TITLE",
+            "value": "Kraftproben-Boss erschienen!"
+        },
+        {
+            "key": "UNLOCK_TITLE",
+            "value": "Freigeschaltet!"
+        },
+        {
+            "key": "MISSIONCLEAR_TITLE",
+            "value": "Mission abgeschlossen!"
+        },
+        {
+            "key": "SUBQUESTCLEAR_TITLE",
+            "value": "Unterauftrag abgeschlossen!"
+        },
+        {
+            "key": "SUPPORTREWARD_TITLE",
+            "value": "Begleiterbelohnung!"
+        },
+        {
+            "key": "QUESTCOSTZERO_TITLE",
+            "value": "Ausdauerkosten 0"
+        },
+        {
+            "key": "ROYALRANKUP_TITLE",
+            "value": "Royaler Rang angestiegen!"
+        },
+        {
+            "key": "RAIDBOSSENCOUNTSTOCK_TITLE",
+            "value": "Kraftproben-Boss erschienen!"
+        },
+        {
+            "key": "STAMPMISSIONCLEAR_TITLE",
+            "value": "Abzeichen erhalten!"
+        },
+        {
+            "key": "FRIENDREQUEST_DESC",
+            "value": "Du hast {0} neue Freundesanfrage(n)!"
+        },
+        {
+            "key": "RANDOMSHOP_DESC",
+            "value": "Du bist einem Launischen Laden begegnet."
+        },
+        {
+            "key": "FEVER_DESC",
+            "value": "Seltene Drop-Rate gestiegen!"
+        },
+        {
+            "key": "RAIDBOSS_DESC",
+            "value": "Konfrontation mit: {1}, St. {0}!"
+        },
+        {
+            "key": "UNLOCK_DESC",
+            "value": "{0} freigeschaltet!"
+        },
+        {
+            "key": "SUBQUESTCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "MISSIONCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "SUPPORTREWARD_DESC",
+            "value": "Begleite {0} Spieler und erhalte {1} Gil!"
+        },
+        {
+            "key": "QUESTCOSTZERO_DESC",
+            "value": "Ausdauerkosten 0 bis Rang {0}"
+        },
+        {
+            "key": "ROYALRANKUP_DESC",
+            "value": "Du hast den Royalen Rang {0} erreicht."
+        },
+        {
+            "key": "RAIDBOSSENCOUNTSTOCK_DESC",
+            "value": "Du bist {0} begegnet."
+        },
+        {
+            "key": "STAMPMISSIONCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "GPPREWARDS_DESC",
+            "value": "Google Play Points-Belohnungen erhalten!"
+        },
+        {
+            "key": "GPPREWARDS_TITLE",
+            "value": "Glückwunsch!"
+        },
+        {
+            "key": "GOOGLEPLAYPOINTREWARDS",
+            "value": "Google-<br>Belohnungen!"
+        }
+    ]
+}

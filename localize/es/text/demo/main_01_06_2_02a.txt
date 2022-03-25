@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Uf! Hay demasiados. A este ritmo…"
+        },
+        {
+            "key": "002",
+            "value": "Parece que llego justo a tiempo."
+        },
+        {
+            "key": "003",
+            "value": "¡¿Quién…?!"
+        },
+        {
+            "key": "004",
+            "value": "¡E-es… Graciela!"
+        },
+        {
+            "key": "005",
+            "value": "Cuánto tiempo, ¿verdad, Mont?"
+        },
+        {
+            "key": "006",
+            "value": "Sí, demasiado."
+        },
+        {
+            "key": "007",
+            "value": "Habéis cambiado mucho desde la última vez que os vi. ¿Ha ocurrido algo?"
+        },
+        {
+            "key": "008",
+            "value": "Varias cosas… Muchas, más bien."
+        },
+        {
+            "key": "009",
+            "value": "En cualquier caso, me alegro de que hayáis llegado a Wezette sano y salvo."
+        },
+        {
+            "key": "010",
+            "value": "Sabía que podía contar con Minwu."
+        },
+        {
+            "key": "011",
+            "value": "¿Ah, sí?"
+        },
+        {
+            "key": "012",
+            "value": "Por supuesto."
+        },
+        {
+            "key": "013",
+            "value": "Si hubierais ido directamente a Wezette, ahora estaríais…"
+        },
+        {
+            "key": "014",
+            "value": "¿Los soldados de Wezette?…"
+        },
+        {
+            "key": "015",
+            "value": "Envié a Minwu para asegurarme de que eso no ocurriera."
+        },
+        {
+            "key": "016",
+            "value": "¿Qué está pasando aquí?"
+        },
+        {
+            "key": "017",
+            "value": "¿Entonces es verdad que estás intentando usurpar el trono del rey Kuri?"
+        },
+        {
+            "key": "018",
+            "value": "Exactamente. Ahora todo está en marcha."
+        },
+        {
+            "key": "019",
+            "value": "Mont…, todo comenzó cuando visitaste Wezette."
+        },
+        {
+            "key": "020",
+            "value": "El primer paso es encargarnos de Equito. Vamos."
+        }
+    ]
+}

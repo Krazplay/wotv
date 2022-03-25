@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Oye, ¿te has enterado? Parece que la petarda esa se viene con nosotros."
+        },
+        {
+            "key": "002",
+            "value": "La hermana de Adelardo, ¿verdad?… Saria creo que se llama."
+        },
+        {
+            "key": "003",
+            "value": "Supongo que habrá pensado que era demasiado peligroso dejarla en Hourne."
+        },
+        {
+            "key": "004",
+            "value": "Son los dos igual de ingenuos."
+        },
+        {
+            "key": "005",
+            "value": "Bueno, ya nos encargaremos de esos dos durante la expedición a la fortaleza. Glahz volverá a comandar Nitor muy pronto."
+        },
+        {
+            "key": "006",
+            "value": "Sí, y entonces podré volver a ganar guiles sin tener que trabajar tanto."
+        },
+        {
+            "key": "007",
+            "value": "Bueno, ¿dónde los asesinamos?"
+        },
+        {
+            "key": "008",
+            "value": "Primero, recuperemos la fortaleza, ¿vale? Ya los pillaremos cuando bajen la guardia…"
+        },
+        {
+            "key": "009",
+            "value": "Justo lo que me temía."
+        },
+        {
+            "key": "010",
+            "value": "Aun así, me pregunto si de verdad creen que son rival para nosotros."
+        }
+    ]
+}

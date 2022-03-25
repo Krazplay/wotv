@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "90065",
+            "value": "Quelque chose ne va pas ?"
+        },
+        {
+            "key": "90066",
+            "value": "Les étoiles s'éteignent..."
+        },
+        {
+            "key": "90067",
+            "value": "C'est que le soleil se lève, non ?"
+        },
+        {
+            "key": "90068",
+            "value": "Ah oui !"
+        },
+        {
+            "key": "90069",
+            "value": "Tu tiens le coup ?"
+        },
+        {
+            "key": "90070",
+            "value": "Ha ha ! Depuis quand tu t'inquiètes pour moi, toi ?"
+        },
+        {
+            "key": "90071",
+            "value": "On a à peine dormi depuis qu'on est partis de Leonis."
+        },
+        {
+            "key": "90072",
+            "value": "Eh oui, c'est la guerre."
+        },
+        {
+            "key": "90073",
+            "value": "En plus, la princesse Machalie est retenue au château, il faut absolument la retrouver."
+        },
+        {
+            "key": "90074",
+            "value": "Je sais. On dormira quand on sera morts, hein ?"
+        },
+        {
+            "key": "90075",
+            "value": "Hm..."
+        },
+        {
+            "key": "90076",
+            "value": "J'espère que tout se passe bien pour dame Graziella..."
+        },
+        {
+            "key": "90077",
+            "value": "Ne t'en fais pas. Viktora a dit qu'elle lui expliquerait pourquoi on a dû retarder l'attaque."
+        },
+        {
+            "key": "90078",
+            "value": "Tu crois... qu'elle était sincère ?"
+        },
+        {
+            "key": "90079",
+            "value": "Quoi ?"
+        },
+        {
+            "key": "90080",
+            "value": "Je crois que tu t'es laissé aveugler par ses charmes."
+        },
+        {
+            "key": "90081",
+            "value": "S-ses cha-charmes ? Qu-quels charmes ?"
+        },
+        {
+            "key": "90082",
+            "value": "..."
+        },
+        {
+            "key": "90083",
+            "value": "Toi, tu ne lui fais pas confiance, je me trompe ?"
+        },
+        {
+            "key": "90084",
+            "value": "Je n'ai aucune preuve contre elle."
+        },
+        {
+            "key": "90085",
+            "value": "Juste une intuition tenace..."
+        },
+        {
+            "key": "90086",
+            "value": "..."
+        },
+        {
+            "key": "90087",
+            "value": "Dépêchons-nous, alors. Le plus tôt on sera de retour à Wezett, mieux ça vaudra."
+        },
+        {
+            "key": "90088",
+            "value": "On ne peut rien faire d'autre pour l'instant."
+        },
+        {
+            "key": "90089",
+            "value": "N'est-ce pas ?"
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+﻿{
+    "infos": [
+        {
+            "key": "236",
+            "value": "Haben wir jetzt genug Gil zusammen, Camillo?"
+        },
+        {
+            "key": "237",
+            "value": "Nein, ein wenig fehlt uns noch."
+        },
+        {
+            "key": "238",
+            "value": "Du hast noch einen Job angenommen oder? Reicht es dann mit dem?"
+        },
+        {
+            "key": "239",
+            "value": "Ja. Der bringt viel Geld ein, aber das ist Risiko ist dementsprechend hoch."
+        },
+        {
+            "key": "240",
+            "value": "Was müssen wir tun?"
+        },
+        {
+            "key": "241",
+            "value": "Wir werden den Proviant dieses Dorfs vor Monstern und Dieben beschützen."
+        },
+        {
+            "key": "242",
+            "value": "Es scheint, dass diese Diebe, nachdem sie durch den Krieg in Schwierigkeiten geraten sind, Nacht für Nacht diesen Ort überfallen haben."
+        },
+        {
+            "key": "243",
+            "value": "Unglaublich, dass die auf Diebstahl zurückgegriffen haben. Ich werde sie wieder auf den rechten Pfad prügeln!"
+        },
+        {
+            "key": "244",
+            "value": "Als Ritter kann ich sie nicht ungestraft davonkommen lassen."
+        },
+        {
+            "key": "245",
+            "value": "Hehe. Ich wusste, dass wir uns gut vertragen würden, Elsirelle!"
+        },
+        {
+            "key": "246",
+            "value": "Warten wir vorerst einfach auf den Nachteinbruch. Ein Hinterhalt wäre hier wohl am effektivsten."
+        },
+        {
+            "key": "247",
+            "value": "Da stimme ich zu. Legt euch alle in der Nähe des Proviantlagers auf Lauer. Wir werden in Aktion treten, sobald der Feind sich zeigt."
+        },
+        {
+            "key": "248",
+            "value": "Schnappt euch, so viel ihr tragen könnt! Lasst den teuren Kram da und nehmt nur das Essen!"
+        },
+        {
+            "key": "249",
+            "value": "Sie sind da. Ich habe einen Pfeil für jeden einzelnen von denen."
+        },
+        {
+            "key": "250",
+            "value": "Urgh!"
+        },
+        {
+            "key": "251",
+            "value": "Agh!"
+        },
+        {
+            "key": "252",
+            "value": "Gar nicht mal schlecht. Ich sollte auch mal einschneidenden Eindruck schinden."
+        },
+        {
+            "key": "253",
+            "value": "Graaaaah!"
+        },
+        {
+            "key": "254",
+            "value": "Die sind viel zu stark! Ich verschwinde!"
+        },
+        {
+            "key": "255",
+            "value": "W-Warte! Ich auch!"
+        },
+        {
+            "key": "256",
+            "value": "Scheint, als wärst du der Letzte."
+        },
+        {
+            "key": "257",
+            "value": "B-Bitte lass mich gehen! Meine kranke Schwester wartet doch daheim auf mich!"
+        },
+        {
+            "key": "258",
+            "value": "Deine Schwester? Stiehlst du etwa für sie?"
+        },
+        {
+            "key": "259",
+            "value": "S-Sie glaubt mir?"
+        },
+        {
+            "key": "260",
+            "value": "Das ist noch nicht alles. Wenn ich nichts zu essen nach Hause bringe, werden meine Kinder verhungern."
+        },
+        {
+            "key": "261",
+            "value": "Das ist ja furchtbar! Dieser verdammte Krieg!"
+        },
+        {
+            "key": "262",
+            "value": "Setia! Der lügt doch wie gedruckt."
+        },
+        {
+            "key": "263",
+            "value": "Wer würde sich denn so etwas ausdenken? Glaubst du ihm etwa nicht?"
+        },
+        {
+            "key": "264",
+            "value": "Meiner Meinung nach gibt es hier ein noch tiefliegenderes Problem."
+        },
+        {
+            "key": "265",
+            "value": "Ich glaube ihm! Anderen zu vertrauen, bedeutet wahre Stärke!"
+        },
+        {
+            "key": "266",
+            "value": "Hahaha, wie erbärmlich einfach es war, dich reinzulegen, du Narr."
+        },
+        {
+            "key": "267",
+            "value": "Du bist hier der Narr. Ha!"
+        },
+        {
+            "key": "268",
+            "value": "Ugh!"
+        },
+        {
+            "key": "269",
+            "value": "Leihe niemals den Worten des Feindes dein Ohr. Dieben wie ihm fällt lügen so leicht wie atmen."
+        },
+        {
+            "key": "270",
+            "value": "A-Aber er ..."
+        },
+        {
+            "key": "271",
+            "value": "Camillo, wir haben die Lage unter Kontrolle."
+        },
+        {
+            "key": "272",
+            "value": "Gut. Beenden wir es."
+        },
+        {
+            "key": "273",
+            "value": "Das war der Letzte. Es waren mehr als erwartet. Große Probleme haben die aber nicht bereitet."
+        },
+        {
+            "key": "274",
+            "value": "..."
+        },
+        {
+            "key": "275",
+            "value": "Alles in Ordnung, Setia?"
+        },
+        {
+            "key": "276",
+            "value": "Ich verstehe Menschen wohl doch nicht so gut, wie ich dachte."
+        },
+        {
+            "key": "277",
+            "value": "Tut mir leid, dass ich deine Warnung ignoriert habe, Lucio."
+        },
+        {
+            "key": "278",
+            "value": "D-Du musst dich nicht entschuldigen. Ich war ohnehin keine große Hilfe. Es war ja Camillo, der dich gerettet hat."
+        },
+        {
+            "key": "279",
+            "value": "Du könntest uns auch danken, indem du unseren Anteil am Profit erhöhst."
+        },
+        {
+            "key": "280",
+            "value": "Klar! Du kannst ruhig alles haben!"
+        },
+        {
+            "key": "281",
+            "value": "D-Das war nur ein Witz! Ein Danke würde völlig ausreichen."
+        },
+        {
+            "key": "282",
+            "value": "Wirklich? Na gut. Danke, Camillo."
+        },
+        {
+            "key": "283",
+            "value": "Sie sollte das nicht sagen müssen, nachdem du sie dazu genötigt hast."
+        },
+        {
+            "key": "284",
+            "value": "Ich nötige niemanden zu gar nichts."
+        },
+        {
+            "key": "285",
+            "value": "Einer der gefangenen Diebe hat ihr Versteck verraten."
+        },
+        {
+            "key": "286",
+            "value": "Diesem Ruf hat ein Ritter zu folgen. Gehen wir und statten ihnen einen Besuch ab."
+        },
+        {
+            "key": "287",
+            "value": "Aber wir haben bereits mehr Gil als wir brauchen."
+        },
+        {
+            "key": "288",
+            "value": "Die Quelle der Proviantraube muss versiegen."
+        },
+        {
+            "key": "289",
+            "value": "Wir müssen es jetzt beenden, oder die Dorfbewohner werden weiter leiden."
+        },
+        {
+            "key": "290",
+            "value": "Ich stimme zu."
+        },
+        {
+            "key": "291",
+            "value": "Vor allem können wir nicht weiter zulassen, dass diese schwachherzigen Menschen weiter andere mit ihren Lügen verletzen."
+        },
+        {
+            "key": "292",
+            "value": "Wir müssen sie wieder auf den rechten Pfad führen."
+        },
+        {
+            "key": "293",
+            "value": "Wir greifen ihre Basis an? Das klingt riskant."
+        },
+        {
+            "key": "294",
+            "value": "Ist es nicht unsere Pflicht die Schwachen zu beschützen?"
+        },
+        {
+            "key": "295",
+            "value": "J-Ja. Ja, natürlich."
+        },
+        {
+            "key": "296",
+            "value": "Je weniger mögliche Probleme auf Ovis nach der Befreiung warten, desto besser."
+        },
+        {
+            "key": "297",
+            "value": "Es schadet wohl nicht, dem ein Ende zu setzen. Ich bin dabei."
+        },
+        {
+            "key": "298",
+            "value": "Und wenn Margery von dieser edlen Tat hört, stehen meine Chancen bei ihr umso besser."
+        },
+        {
+            "key": "299",
+            "value": "Da wir uns alle einig sind, gehen wir und merzen sie aus."
+        },
+        {
+            "key": "300",
+            "value": "Wie jetzt? Diesmal keine Probe?"
+        },
+        {
+            "key": "301",
+            "value": "Das mache ich doch nicht ständig."
+        },
+        {
+            "key": "302",
+            "value": "W-Wer seid ihr denn?"
+        },
+        {
+            "key": "303",
+            "value": "Wir sind hier für eine Morallektion."
+        },
+        {
+            "key": "304",
+            "value": "I-Immer mit der Ruhe. Reden wir erst mal mit ihm."
+        },
+        {
+            "key": "305",
+            "value": "Für wen haltet ihr euch? Schnappt sie euch, Jungs!"
+        },
+        {
+            "key": "306",
+            "value": "Er scheint nicht gerade offen für eine Unterhaltung zu sein."
+        },
+        {
+            "key": "307",
+            "value": "Das macht die Sache nur einfacher. Meine Pfeile sind gerecht und werden euch auf den rechten Pfad führen."
+        }
+    ]
+}

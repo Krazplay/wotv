@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Kiton ... Dein Gesichtsausdruck sagt mir, dass du schlechte Nachrichten bringst."
+        },
+        {
+            "key": "002",
+            "value": "Vergebt mir, Euer Majestät. Prinz Styr ist zu Felde gezogen."
+        },
+        {
+            "key": "003",
+            "value": "Mit seiner Hilfe können wir das Blatt in dieser Schlacht wenden!"
+        },
+        {
+            "key": "004",
+            "value": "Styr ... Du meinst den Thronfolger Leonis’."
+        },
+        {
+            "key": "005",
+            "value": "Oh, Entschuldigung ..."
+        },
+        {
+            "key": "006",
+            "value": "Nicht nötig. Styrs Fähigkeiten als Kämpfer übersteigen die meinen bei weitem. Das ist eine Tatsache."
+        },
+        {
+            "key": "007",
+            "value": "Dann ... verzichtest du also?"
+        },
+        {
+            "key": "008",
+            "value": "Verzichte ich auf was?"
+        },
+        {
+            "key": "009",
+            "value": "Du weißt, wovon ich rede. Den Thron Leonis’."
+        },
+        {
+            "key": "010",
+            "value": "Wer den Thron besteigen wird ... das entscheide ich."
+        },
+        {
+            "key": "011",
+            "value": "Kiton. Überbring Styr meine Anweisung, sich unverzüglich ins Schloss zurückzuziehen."
+        },
+        {
+            "key": "012",
+            "value": "Was zur Hölle denkt sich der Junge nur dabei, seine Mutter alleine zu lassen, um in den Krieg zu ziehen ..."
+        },
+        {
+            "key": "013",
+            "value": "Ich bitte um Vergebung, Euer Majestät, aber Königin Helena begleitet ihn."
+        },
+        {
+            "key": "014",
+            "value": "Sie was?!"
+        },
+        {
+            "key": "015",
+            "value": "Feindliche Truppen nähern sich!"
+        }
+    ]
+}

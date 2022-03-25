@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Sire !"
+        },
+        {
+            "key": "002",
+            "value": "Mon heure n'est pas encore venue."
+        },
+        {
+            "key": "003",
+            "value": "Je... Je ne vais pas mourir ici !"
+        },
+        {
+            "key": "004",
+            "value": "La lignée des Leonis doit perdurer, même s'il nous faut défier les dieux pour la défendre !"
+        }
+    ]
+}

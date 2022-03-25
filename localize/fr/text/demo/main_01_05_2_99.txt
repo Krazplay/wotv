@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Quoi, encore ? Mais ça n'en finit pas !"
+        },
+        {
+            "key": "002",
+            "value": "Ils sont toujours plus nombreux..."
+        },
+        {
+            "key": "003",
+            "value": "Franchement... Vous sous-estimez vraiment l'Église."
+        },
+        {
+            "key": "004",
+            "value": "Savez-vous seulement combien de fidèles adorent le seigneur Sadali ? Ha ! Vous n'en reviendriez pas !"
+        },
+        {
+            "key": "005",
+            "value": "Rappelez-vous. Le nombre, c'est la force."
+        },
+        {
+            "key": "006",
+            "value": "Bon... Il est temps de vous envoyer en Enfer !"
+        }
+    ]
+}

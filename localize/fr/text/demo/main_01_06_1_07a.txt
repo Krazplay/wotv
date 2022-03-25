@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ah... argh !"
+        },
+        {
+            "key": "002",
+            "value": "Sterne, mon enfant. Tes plaies te font souffrir ?"
+        },
+        {
+            "key": "003",
+            "value": "Ha... ha..."
+        },
+        {
+            "key": "004",
+            "value": "Quittons cet endroit. Tu dois guérir avant de repartir au combat."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Muraga, il y a un problème ?"
+        },
+        {
+            "key": "007",
+            "value": "Tuer... je vais les... tuer... tous... les tuer..."
+        },
+        {
+            "key": "008",
+            "value": "Sire ?"
+        },
+        {
+            "key": "009",
+            "value": "Argh ! Sire, par pitié !"
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "Peux pas tenir... plus longtemps... je dois... tuer..."
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "(Si l'armure magique de Sterne se nourrit de sa haine, celle de Muraga exploite son humiliation.)"
+        },
+        {
+            "key": "014",
+            "value": "(Mais j'ai peut-être mal jugé son efficacité. S'il gagne encore en puissance, sa rage peut exploser à tout moment.)"
+        },
+        {
+            "key": "015",
+            "value": "Muraga... Parle-moi."
+        },
+        {
+            "key": "016",
+            "value": "Tuer... massacrer... étriper..."
+        },
+        {
+            "key": "017",
+            "value": "Muraga... ?"
+        },
+        {
+            "key": "018",
+            "value": "Sadali... Donnez-moi une mission..."
+        },
+        {
+            "key": "019",
+            "value": "Je ne vais pas résister... plus longtemps... Je dois tuer..."
+        },
+        {
+            "key": "020",
+            "value": "Je comprends. Quitte le front immédiatement."
+        },
+        {
+            "key": "021",
+            "value": "Quitter le front ? J'peux pas !"
+        },
+        {
+            "key": "022",
+            "value": "Je ne t'ai pas demandé de fuir."
+        },
+        {
+            "key": "023",
+            "value": "Je suis en train de construire une forteresse à la frontière."
+        },
+        {
+            "key": "024",
+            "value": "En prévision de l'invasion de Wezett ?"
+        },
+        {
+            "key": "025",
+            "value": "Exactement."
+        },
+        {
+            "key": "026",
+            "value": "Si le royaume du Nord se rend sans faire d'histoire, tout ira bien."
+        },
+        {
+            "key": "027",
+            "value": "Mais s'ils ont le malheur de faire le choix inverse, leurs cendres rejoindront celles de Leonis..."
+        },
+        {
+            "key": "028",
+            "value": "D'accord."
+        },
+        {
+            "key": "029",
+            "value": "Pendant ce temps..."
+        },
+        {
+            "key": "008_1",
+            "value": "(*Hurle*)"
+        },
+        {
+            "key": "008_2",
+            "value": "(*Rugit*)"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Parece que Lairyu tenía razón al final."
+        },
+        {
+            "key": "002",
+            "value": "Dijo que acabarías apareciendo por aquí si nos quedábamos esperando."
+        },
+        {
+            "key": "003",
+            "value": "Que sepas que esta vez no te vas a librar. ¡Vete preparando!"
+        },
+        {
+            "key": "004",
+            "value": "¡Ah!"
+        },
+        {
+            "key": "005",
+            "value": "¡Ja, ja, ja, ja!"
+        },
+        {
+            "key": "006",
+            "value": "¿De qué te ríes?"
+        },
+        {
+            "key": "007",
+            "value": "¿Te has vuelto loca?"
+        },
+        {
+            "key": "008",
+            "value": "No puedo evitar echarme a reír."
+        },
+        {
+            "key": "009",
+            "value": "Una cosa es enfrentarse a los asesinos de Gouga…"
+        },
+        {
+            "key": "010",
+            "value": "¿Pero a vosotros? ¡Menudo chiste!"
+        },
+        {
+            "key": "011",
+            "value": "No te equivoques, no somos solo tres."
+        },
+        {
+            "key": "012",
+            "value": "Hay muchos más."
+        },
+        {
+            "key": "013",
+            "value": "Solo tengo que hacer la señal para que salgan los demás."
+        },
+        {
+            "key": "014",
+            "value": "Me da igual cuántos seáis."
+        },
+        {
+            "key": "015",
+            "value": "Venid a por mí."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+﻿{
+    "infos": [
+        {
+            "key": "MALE",
+            "value": "Masculin"
+        },
+        {
+            "key": "FEMALE",
+            "value": "Féminin"
+        },
+        {
+            "key": "UNKNOWN",
+            "value": "Inconnu"
+        }
+    ]
+}

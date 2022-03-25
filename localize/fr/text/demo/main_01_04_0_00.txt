@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ce village..."
+        },
+        {
+            "key": "002",
+            "value": "Fais-en c'que tu veux."
+        },
+        {
+            "key": "003",
+            "value": "C'est-à-dire ?"
+        },
+        {
+            "key": "004",
+            "value": "Ces villageois sont dévoués à c'te satané Eldo."
+        },
+        {
+            "key": "005",
+            "value": "Tu vas laisser vivre ces rebuts ?"
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Hé hé hé. C'est encore plus facile que j'le pensais."
+        },
+        {
+            "key": "008",
+            "value": "C'était plaisant ?"
+        },
+        {
+            "key": "009",
+            "value": "D'quoi tu parles ?"
+        },
+        {
+            "key": "010",
+            "value": "Ne faites pas comme si vous n'aviez rien entendu… les cris des villageois."
+        },
+        {
+            "key": "011",
+            "value": "C'est un aller sans retour pour le petit prince."
+        },
+        {
+            "key": "012",
+            "value": "Hé hé hé... C'est l'but."
+        }
+    ]
+}

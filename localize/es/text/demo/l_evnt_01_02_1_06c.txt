@@ -1,0 +1,292 @@
+﻿{
+    "infos": [
+        {
+            "key": "236",
+            "value": "¿Hemos conseguido suficientes guiles, Camilo?"
+        },
+        {
+            "key": "237",
+            "value": "No, todavía andamos escasos."
+        },
+        {
+            "key": "238",
+            "value": "Pero acabas de aceptar otro trabajo, ¿verdad? ¿Tendremos suficiente con ese?"
+        },
+        {
+            "key": "239",
+            "value": "Sí, pero debo advertiros que un trabajo bien pagado conlleva grandes riesgos."
+        },
+        {
+            "key": "240",
+            "value": "¿Qué tenemos que hacer?"
+        },
+        {
+            "key": "241",
+            "value": "Proteger el almacén de provisiones de la aldea de monstruos y ladrones."
+        },
+        {
+            "key": "242",
+            "value": "Parece que en estos tiempos difíciles que corren tras la guerra los ladrones han estado saqueando el almacén noche tras noche."
+        },
+        {
+            "key": "243",
+            "value": "No me puedo creer que alguien haga algo tan mezquino... ¡Ya me encargaré yo de enderezarlos de una buena tunda!"
+        },
+        {
+            "key": "244",
+            "value": "Como caballero que soy, yo tampoco puedo permitir que se vayan de rositas."
+        },
+        {
+            "key": "245",
+            "value": "Je, je. ¡Sabía que nos llevaríamos bien, Elsirel!"
+        },
+        {
+            "key": "246",
+            "value": "Por ahora, esperemos a que se haga de noche. Una emboscada será probablemente la mejor estrategia."
+        },
+        {
+            "key": "247",
+            "value": "Estoy de acuerdo. Bien, vigilaremos de cerca el almacén de provisiones y en cuanto aparezca el enemigo, atacaremos."
+        },
+        {
+            "key": "248",
+            "value": "¡Vamos, llevaos todo lo que podáis! ¡Ignorad el dinero e id a por la comida!"
+        },
+        {
+            "key": "249",
+            "value": "¡Están aquí! ¡Preparaos, que tengo flechas para todos!"
+        },
+        {
+            "key": "250",
+            "value": "¡Ugh!"
+        },
+        {
+            "key": "251",
+            "value": "¡Ah!"
+        },
+        {
+            "key": "252",
+            "value": "No está nada mal. ¡Ahora me toca a mí dar unos cuantos tajos!"
+        },
+        {
+            "key": "253",
+            "value": "¡Grrroar!"
+        },
+        {
+            "key": "254",
+            "value": "¡Son muy fuertes! ¡Y-yo me largo de aquí!"
+        },
+        {
+            "key": "255",
+            "value": "E-espera, ¡espérame!"
+        },
+        {
+            "key": "256",
+            "value": "Bueno, bueno... Parece que solo quedas tú."
+        },
+        {
+            "key": "257",
+            "value": "¡P-por favor, deja que me vaya! ¡Mi hermana está enferma y está esperando que vuelva a casa!"
+        },
+        {
+            "key": "258",
+            "value": "¡¿Tu hermana?! ¿Estabas robando por tu hermana?"
+        },
+        {
+            "key": "259",
+            "value": "¿M-me crees?"
+        },
+        {
+            "key": "260",
+            "value": "¡Y eso no es todo! ¡Si no les llevo esta comida a mis hijos, se morirán de hambre!"
+        },
+        {
+            "key": "261",
+            "value": "¡Eso es terrible! Grrr, ¡la guerra es algo imperdonable!..."
+        },
+        {
+            "key": "262",
+            "value": "¡Cetia, ¿no ves que está mintiendo?!"
+        },
+        {
+            "key": "263",
+            "value": "¡¿Quién sería capaz de mentir sobre algo así?! ¡¿Acaso tú no le crees?!"
+        },
+        {
+            "key": "264",
+            "value": "¡Tenemos un problema más gordo entre manos!"
+        },
+        {
+            "key": "265",
+            "value": "¡Yo le creo! ¡Para mí la auténtica fuerza reside en creer en los demás!"
+        },
+        {
+            "key": "266",
+            "value": "¡Ja, ja, ja, qué ridiculez! ¡Engañarte ha sido lo más fácil del mundo, estúpida!"
+        },
+        {
+            "key": "267",
+            "value": "El único estúpido que hay aquí eres tú. ¡Ja!"
+        },
+        {
+            "key": "268",
+            "value": "¡Ugh!"
+        },
+        {
+            "key": "269",
+            "value": "¡No escuches ni una sola palabra del enemigo! ¡Para un ladrón como él, mentir es tan fácil como respirar!"
+        },
+        {
+            "key": "270",
+            "value": "Pe-pero..."
+        },
+        {
+            "key": "271",
+            "value": "Camilo, por aquí ya está todo más o menos bajo control."
+        },
+        {
+            "key": "272",
+            "value": "¡Entonces creo que va siendo hora de terminar con esto!"
+        },
+        {
+            "key": "273",
+            "value": "Muy bien, ese era el último. Eran bastantes, pero nada del otro mundo."
+        },
+        {
+            "key": "274",
+            "value": "…"
+        },
+        {
+            "key": "275",
+            "value": "¿Estás bien, Cetia?"
+        },
+        {
+            "key": "276",
+            "value": "Parece que no puedo calar a las personas tan bien como creía."
+        },
+        {
+            "key": "277",
+            "value": "Siento haberte ignorado cuando tratabas de advertirme, Lucius."
+        },
+        {
+            "key": "278",
+            "value": "N-no tienes que disculparte. De todas formas no he sido de gran ayuda, ha sido Camilo quien te ha salvado."
+        },
+        {
+            "key": "279",
+            "value": "Podrías darnos las gracias aumentando nuestra parte de las ganancias."
+        },
+        {
+            "key": "280",
+            "value": "¡Claro! ¡Puedes quedártelo todo!"
+        },
+        {
+            "key": "281",
+            "value": "¡E-era broma, mujer! Unas palabras de agradecimiento serán más que suficientes."
+        },
+        {
+            "key": "282",
+            "value": "¿De verdad?... De acuerdo. Entonces, gracias, Camilo."
+        },
+        {
+            "key": "283",
+            "value": "No deberías haberla obligado a decirlo, no es así como funciona."
+        },
+        {
+            "key": "284",
+            "value": "¡Yo no he obligado a nadie!"
+        },
+        {
+            "key": "285",
+            "value": "Uno de los ladrones ha dicho no sé qué de un escondite por aquí cerca."
+        },
+        {
+            "key": "286",
+            "value": "Un caballero no puede pasar por alto esa información. Deberíamos hacerles una visita."
+        },
+        {
+            "key": "287",
+            "value": "Pero ya tenemos todos los guiles que necesitamos..."
+        },
+        {
+            "key": "288",
+            "value": "Seguirán saqueando las provisiones a menos que atajemos con la raíz del problema."
+        },
+        {
+            "key": "289",
+            "value": "Deberíamos solucionar el asunto ahora o los aldeanos sufrirán las consecuencias."
+        },
+        {
+            "key": "290",
+            "value": "Estoy de acuerdo."
+        },
+        {
+            "key": "291",
+            "value": "Y lo más importante es que no podemos dejar que esa panda de cobardes siga hiriendo a la gente con sus mentiras."
+        },
+        {
+            "key": "292",
+            "value": "¡Tenemos que llevarlos por el buen camino!"
+        },
+        {
+            "key": "293",
+            "value": "¿Vamos a entrar en la base enemiga? Eso suena arriesgado..."
+        },
+        {
+            "key": "294",
+            "value": "¿No es nuestro deber de proteger a los débiles?"
+        },
+        {
+            "key": "295",
+            "value": "¡...! ¡S-sí! ¡Tienes toda la razón!"
+        },
+        {
+            "key": "296",
+            "value": "En fin, cuantos menos problemas amenacen a Ovis tras su liberación, tanto mejor."
+        },
+        {
+            "key": "297",
+            "value": "Supongo que no está de más deshacernos del problema de raíz. De acuerdo, contad conmigo."
+        },
+        {
+            "key": "298",
+            "value": "¡Además, es posible que esta hazaña llegue a oídos de Machérie, y eso me daría puntos!"
+        },
+        {
+            "key": "299",
+            "value": "Ahora que ya sabemos por qué luchamos, vamos a acabar con ellos."
+        },
+        {
+            "key": "300",
+            "value": "Vaya, ¿no hay representación teatral esta vez?"
+        },
+        {
+            "key": "301",
+            "value": "¡Ni que lo hiciera cada dos por tres!"
+        },
+        {
+            "key": "302",
+            "value": "¡¿Quién narices sois vosotros?!"
+        },
+        {
+            "key": "303",
+            "value": "¡Hemos venido a inculcaros de nuevo unos cuantos valores morales!"
+        },
+        {
+            "key": "304",
+            "value": "C-calma, Cetia. Deberíamos intentar hablar con él primero..."
+        },
+        {
+            "key": "305",
+            "value": "¿Quién os habéis creído que sois? ¡A por ellos, muchachos!"
+        },
+        {
+            "key": "306",
+            "value": "No parece estar muy dispuesto a conversar."
+        },
+        {
+            "key": "307",
+            "value": "¡Eso simplifica las cosas! ¡Mío es el arco de la justicia y con él pienso enderezar vuestra retorcida conducta!"
+        }
+    ]
+}

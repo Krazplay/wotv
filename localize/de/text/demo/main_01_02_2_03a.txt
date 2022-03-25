@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Neuigkeiten vom Schlachtfeld, Euer Majestät!"
+        },
+        {
+            "key": "002",
+            "value": "Der 1. Zug unserer mit der Verfolgung des Feindes betrauten Division wurde vollständig aufgerieben."
+        },
+        {
+            "key": "003",
+            "value": "Anscheinend betreibt unser Gegner den Kampf ebenfalls mit aller Entschlossenheit."
+        },
+        {
+            "key": "004",
+            "value": "Es gibt keinen Grund zur Sorge. Die Schlacht hat gerade erst begonnen."
+        },
+        {
+            "key": "005",
+            "value": "Das ist noch nicht alles, Euer Majestät. Die Hauptstreitmacht des Feindes hat bereits den Rückzug angetreten."
+        },
+        {
+            "key": "006",
+            "value": "Sie haben also tatsächlich vor, sich im Schloss zu verschanzen."
+        },
+        {
+            "key": "007",
+            "value": "Was gewiss bedeutet, dass ihre Nachhut von Prinz Styr befehligt wird."
+        },
+        {
+            "key": "008",
+            "value": "Auch wenn sein Geschick mit dem Schwert dem König Yrdes ebenbürtig sein soll, hat er sich noch nie auf dem Schlachtfeld gezeigt."
+        },
+        {
+            "key": "009",
+            "value": "Er hat wohl zu große Angst vor mir, um zu Felde zu ziehen."
+        },
+        {
+            "key": "010",
+            "value": "Wäre dem so, würde mich das freuen. Allerdings ..."
+        },
+        {
+            "key": "011",
+            "value": "König Yrde. Er hat sicherlich schon einen Plan geschmiedet."
+        },
+        {
+            "key": "012",
+            "value": "Euer Majestät, nicht Styr befehligt die Nachhut, sondern der Kommandant „Caelums“. Ein Mann namens Mont."
+        },
+        {
+            "key": "013",
+            "value": "Prinz Mont?! Der zahnlose Teil der Löwenzwillinge?!"
+        },
+        {
+            "key": "014",
+            "value": "Ja, Euer Majestät."
+        },
+        {
+            "key": "015",
+            "value": "Das Schwein Yrde hat also vor, Styr in Reserve liegen zu lassen."
+        },
+        {
+            "key": "016",
+            "value": "Wenn das der Fall ist, dann hat er uns damit den Sieg geschenkt."
+        },
+        {
+            "key": "017",
+            "value": "„Solidus“ – rückt aus! Mäht den Feind nieder und zeigt keine Gnade!"
+        },
+        {
+            "key": "018",
+            "value": "Die 2. Division des Feindes rückt an!"
+        },
+        {
+            "key": "019",
+            "value": "Nicht nachgeben! Schlagt sie zurück!"
+        }
+    ]
+}

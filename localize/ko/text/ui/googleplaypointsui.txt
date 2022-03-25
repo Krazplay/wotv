@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "GPP_TITLE",
+            "value": "선물 수령 성공!"
+        },
+        {
+            "key": "GPP_LATER_BTN",
+            "value": "나중에"
+        },
+        {
+            "key": "GPP_GO2PRESENTS_BTN",
+            "value": "선물함으로 이동"
+        },
+        {
+            "key": "GPP_DESC",
+            "value": "구글 포인트 보상이 지급되었습니다. 아이템은 아이템 박스에 지급되었습니다. 환도석은 계정으로 지급되었습니다."
+        }
+    ]
+}

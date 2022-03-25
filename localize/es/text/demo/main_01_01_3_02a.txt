@@ -1,0 +1,124 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Aquí vamos a tenderles la emboscada, ¿verdad? Me parece un buen sitio."
+        },
+        {
+            "key": "002",
+            "value": "Esta zona la conocemos como la palma de la mano. Tenemos que sacarle partido."
+        },
+        {
+            "key": "003",
+            "value": "Es verdad, pero…"
+        },
+        {
+            "key": "004",
+            "value": "Esta noche hay demasiadas estrellas en el cielo…"
+        },
+        {
+            "key": "005",
+            "value": "Todas ellas muestran el peligro. Las sombras acechan en la oscuridad."
+        },
+        {
+            "key": "006",
+            "value": "¿A qué te refieres?"
+        },
+        {
+            "key": "007",
+            "value": "Déjame que te lo enseñe."
+        },
+        {
+            "key": "008",
+            "value": "¡¿Qué demonios?!…"
+        },
+        {
+            "key": "009",
+            "value": "¡No te muevas!"
+        },
+        {
+            "key": "010",
+            "value": "¡Tsk!"
+        },
+        {
+            "key": "011",
+            "value": "¿Una ninja de Hourne?"
+        },
+        {
+            "key": "012",
+            "value": "Ese colgante que llevas… creo que es de Machérie."
+        },
+        {
+            "key": "013",
+            "value": "¿Dónde está?"
+        },
+        {
+            "key": "014",
+            "value": "¿Es que estás ciega? ¿Es que no ves quién está ahí?"
+        },
+        {
+            "key": "015",
+            "value": "Lady Machérie… no está sola, Schuzelt va con ella."
+        },
+        {
+            "key": "016",
+            "value": "¿Te parece a ti que son nuestros prisioneros?"
+        },
+        {
+            "key": "017",
+            "value": "Ya veo. Os perdonaré la vida esta vez, aunque… la próxima a lo mejor no tenéis tanta suerte."
+        },
+        {
+            "key": "018",
+            "value": "Se ha esfumado."
+        },
+        {
+            "key": "019",
+            "value": "Discúlpame, lord Mont. Eso ha sido intolerable…"
+        },
+        {
+            "key": "020",
+            "value": "Ojalá le expliquen bien a esa ninja la situación…"
+        },
+        {
+            "key": "021",
+            "value": "¿Que le expliquen?"
+        },
+        {
+            "key": "022",
+            "value": "Si Machérie le cuenta que la ayudamos contra los bandidos que perseguían su carruaje…"
+        },
+        {
+            "key": "023",
+            "value": "A lo mejor esta guerra llegaría a su fin, aunque…"
+        },
+        {
+            "key": "024",
+            "value": "Ahora que estamos luchando contra Fennes, ¿no vendrá Hourne en su ayuda?"
+        },
+        {
+            "key": "025",
+            "value": "Si eso sucediera…, nuestras posibilidades de victoria serían casi nulas."
+        },
+        {
+            "key": "026",
+            "value": "Tienes razón. Mientras estemos en guerra con Fennes, Hourne también será nuestro enemigo."
+        },
+        {
+            "key": "027",
+            "value": "Y lo mismo pasa con Machérie…"
+        },
+        {
+            "key": "028",
+            "value": "Entonces, ¿qué vamos a hacer?"
+        },
+        {
+            "key": "029",
+            "value": "La única solución es que derrotemos a Muraga antes de que lleguen los refuerzos de Hourne."
+        },
+        {
+            "key": "030",
+            "value": "Tenemos que conseguirlo a toda costa."
+        }
+    ]
+}

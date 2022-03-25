@@ -1,0 +1,228 @@
+﻿{
+    "infos": [
+        {
+            "key": "187",
+            "value": "—King Roghza!"
+        },
+        {
+            "key": "188",
+            "value": "Is something the matter?"
+        },
+        {
+            "key": "189",
+            "value": "The water level, it's...!"
+        },
+        {
+            "key": "190",
+            "value": "The water surrounding the castle drops lower by the minute."
+        },
+        {
+            "key": "191",
+            "value": "At this rate, there'll be nothing left to stop the enemy from attacking!"
+        },
+        {
+            "key": "192",
+            "value": "Is that what has the three of you so excited?"
+        },
+        {
+            "key": "193",
+            "value": "Huh... What do you mean...?"
+        },
+        {
+            "key": "194",
+            "value": "It is by my decision that the water level falls."
+        },
+        {
+            "key": "195",
+            "value": "But why would you allow such a thing...?"
+        },
+        {
+            "key": "196",
+            "value": "I have been informed that Rundall has a siege cannon capable of laying waste to our castle."
+        },
+        {
+            "key": "197",
+            "value": "They've got a cannon that powerful!?"
+        },
+        {
+            "key": "198",
+            "value": "It would appear they mean to mount it upon their ship."
+        },
+        {
+            "key": "199",
+            "value": "Which means..."
+        },
+        {
+            "key": "200",
+            "value": "This castle will be reduced to rubble should that ship be allowed to move freely."
+        },
+        {
+            "key": "201",
+            "value": "But, we'll be overrun by their troops without the water to protect us."
+        },
+        {
+            "key": "202",
+            "value": "You think I have not considered this?"
+        },
+        {
+            "key": "203",
+            "value": "Oh, uh... I didn't mean it like that, Your Highness."
+        },
+        {
+            "key": "204",
+            "value": "The water has kept our enemies at bay for long enough."
+        },
+        {
+            "key": "205",
+            "value": "Do you mean...for reinforcements to come!?"
+        },
+        {
+            "key": "206",
+            "value": "Indeed."
+        },
+        {
+            "key": "207",
+            "value": "Naturally, our stratagem does not end with this."
+        },
+        {
+            "key": "208",
+            "value": "U-um..."
+        },
+        {
+            "key": "209",
+            "value": "What is it? Speak up."
+        },
+        {
+            "key": "210",
+            "value": "I heard that King Oberon is Lady Lucielle's betrothed."
+        },
+        {
+            "key": "211",
+            "value": "But Heindler still tries to bring down Ovis castle despite this..."
+        },
+        {
+            "key": "212",
+            "value": "That man is not capable of truly seeing such a deed done."
+        },
+        {
+            "key": "213",
+            "value": "(\"That man\"...? Why would she refer to him like that?)"
+        },
+        {
+            "key": "214",
+            "value": "But Heindler and Rundall have formed an alliance, haven't they?"
+        },
+        {
+            "key": "215",
+            "value": "Yes, that fact does not escape me."
+        },
+        {
+            "key": "216",
+            "value": "But of what consequence do you believe it to be?"
+        },
+        {
+            "key": "217",
+            "value": "The love that man bears for me is more substantial than any alliance."
+        },
+        {
+            "key": "218",
+            "value": "...What is the matter?"
+        },
+        {
+            "key": "219",
+            "value": "Do you not feel it? There is something peculiar about Lady Lucielle..."
+        },
+        {
+            "key": "220",
+            "value": "You mean the way she speaks of King Oberon."
+        },
+        {
+            "key": "221",
+            "value": "That's right."
+        },
+        {
+            "key": "222",
+            "value": "She referred to him as \"that man.\""
+        },
+        {
+            "key": "223",
+            "value": "And not once, but twice for that matter."
+        },
+        {
+            "key": "224",
+            "value": "Lady Lucielle and King Oberon... They share a love fostered over the period of many moons."
+        },
+        {
+            "key": "225",
+            "value": "A love that even I have been witness to."
+        },
+        {
+            "key": "226",
+            "value": "Yet now, I find it questionable..."
+        },
+        {
+            "key": "227",
+            "value": "It is possible that Lady Lucielle intends to exploit King Oberon in order to preserve Ovis..."
+        },
+        {
+            "key": "228",
+            "value": "True, but that may be merely a necessity born from our dire circumstances."
+        },
+        {
+            "key": "229",
+            "value": "What I cannot shake from my mind is the look in her eyes..."
+        },
+        {
+            "key": "230",
+            "value": "I too was bothered by that..."
+        },
+        {
+            "key": "231",
+            "value": "The chilling glint in her gaze."
+        },
+        {
+            "key": "232",
+            "value": "She sacrificed so much to help Lady Shalze and Lady Rasheena escape..."
+        },
+        {
+            "key": "233",
+            "value": "...Having done so, I thought she had resolved herself to share in the fate of Ovis Castle."
+        },
+        {
+            "key": "234",
+            "value": "Then it is likely prudent for us to assume that something has happened."
+        },
+        {
+            "key": "235",
+            "value": "We could investigate."
+        },
+        {
+            "key": "236",
+            "value": "But we must be sure not to rouse suspicion."
+        },
+        {
+            "key": "237",
+            "value": "I would not dream of it."
+        },
+        {
+            "key": "238",
+            "value": "At last, Mont and his comrades' march brings them to the domain of Ovis―"
+        },
+        {
+            "key": "239",
+            "value": "Ovis lies directly ahead of us."
+        },
+        {
+            "key": "240",
+            "value": "So, that lake far off in the distance is what protects the Castle."
+        },
+        {
+            "key": "241",
+            "value": "That is correct. However, I cannot imagine that will remain the case for long."
+        },
+        {
+            "key": "242",
+            "value": "Then let us make haste."
+        }
+    ]
+}

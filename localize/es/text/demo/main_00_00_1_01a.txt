@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "000_1",
+            "value": "El continente de Ardra, antaño parte del mundo de Lapis. Los antiguos relatos de los cristales de esta tierra cuentan cómo sus naciones  pelearon entre ellas por hacerse con la supremacía."
+        },
+        {
+            "key": "000_2",
+            "value": "Leonis, un reino pequeño rodeado de naciones más poderosas, consiguió prosperar gracias al anillo ancestral que el Alado les dio."
+        },
+        {
+            "key": "000_3",
+            "value": "Gracias a su capacidad de invocar y controlar las visiones, Leonis se convirtió en una amenaza evidente para el resto de reinos."
+        },
+        {
+            "key": "000_4",
+            "value": "Sin embargo, los constantes y crueles envites del destino acabarían carcomiendo los vínculos que mantenían al reino intacto."
+        },
+        {
+            "key": "000_5",
+            "value": "¿A quién sonreirán los cristales en esta tierra tan belicosa?"
+        },
+        {
+            "key": "001",
+            "value": "Esa tiene que ser la aldea…"
+        },
+        {
+            "key": "002",
+            "value": "¿Nervioso, hermano?"
+        },
+        {
+            "key": "003",
+            "value": "¿Y tú, Stern? No te lo estás pasando bien, ¿verdad?"
+        },
+        {
+            "key": "004",
+            "value": "Si luchar contra monstruos me permite acompañarte, entonces sí."
+        },
+        {
+            "key": "005",
+            "value": "Los muros del castillo me generan ansiedad."
+        },
+        {
+            "key": "006",
+            "value": "¿Ah, sí?"
+        },
+        {
+            "key": "007",
+            "value": "Ya habrá tiempo para charlar más tarde. Ahora…, tenemos que ocuparnos de esos boms."
+        },
+        {
+            "key": "008",
+            "value": "Hermano…"
+        },
+        {
+            "key": "009",
+            "value": "Estad preparados."
+        }
+    ]
+}

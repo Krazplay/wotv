@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "… Hein ?"
+        },
+        {
+            "key": "002",
+            "value": "Toute cette agitation… Il s'est passé quelque chose ?"
+        },
+        {
+            "key": "003",
+            "value": "Il s'est passé quelque chose, oui… Quelque chose qui s'appelle « être en guerre »…"
+        },
+        {
+            "key": "004",
+            "value": "En guerre… contre Fennes, j'imagine ?"
+        },
+        {
+            "key": "005",
+            "value": "Navrée, mais nous n'avons pas le temps de t'expliquer."
+        },
+        {
+            "key": "006",
+            "value": "Nous devons nous rendre à la salle des archives, et tu vas nous y escorter."
+        },
+        {
+            "key": "007",
+            "value": "Vous ne voulez pas demander à quelqu'un d'autre ? J'ai besoin de dormir encore un peu…"
+        },
+        {
+            "key": "008",
+            "value": "C'est un ordre de la reine Helena en personne."
+        },
+        {
+            "key": "009",
+            "value": "Argh… Bon, très bien, je vous suis."
+        },
+        {
+            "key": "010",
+            "value": "Bien ! Alors dépêche-toi !"
+        }
+    ]
+}

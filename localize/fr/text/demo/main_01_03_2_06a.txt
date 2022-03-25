@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Tchhhhh..."
+        },
+        {
+            "key": "002",
+            "value": "Un allié tente de vous contacter ?"
+        },
+        {
+            "key": "003",
+            "value": "Vous m'dites que toutes nos forces ont été balayées ?"
+        },
+        {
+            "key": "004",
+            "value": "Vos soldats ne sont décidément pas très utiles."
+        },
+        {
+            "key": "005",
+            "value": "Eldo poursuit sa route vers l'nord…"
+        },
+        {
+            "key": "006",
+            "value": "Bougez pas, on arrive, compris ?"
+        },
+        {
+            "key": "007",
+            "value": "Hmm, l'indécision habituelle."
+        },
+        {
+            "key": "008",
+            "value": "Comment ?"
+        },
+        {
+            "key": "009",
+            "value": "Tu es trop lent. Tout sera fichu si Eldo parvient jusqu'à Wezett et son armée."
+        },
+        {
+            "key": "010",
+            "value": "J'te demande pas ton avis, insecte !"
+        },
+        {
+            "key": "011",
+            "value": "Sadali t'a ordonné de m'aider à vaincre Eldo."
+        },
+        {
+            "key": "012",
+            "value": "Ne me dis pas que même toi tu l'as déjà oublié ?"
+        },
+        {
+            "key": "013",
+            "value": "Dis à tes hommes de continuer leur poursuite."
+        },
+        {
+            "key": "014",
+            "value": "..."
+        },
+        {
+            "key": "015",
+            "value": "… Nouveaux ordres. Continuez la poursuite."
+        },
+        {
+            "key": "016",
+            "value": "C'est mieux. Allons-y."
+        },
+        {
+            "key": "017",
+            "value": "Hé hé hé. Le puissant Muraga qui obéit au jeune prince, voilà qui est intéressant."
+        },
+        {
+            "key": "018",
+            "value": "Ferme-la, Rairyuu."
+        },
+        {
+            "key": "019",
+            "value": "Occupez-vous d'abord d'Eldo et je prendrai ensuite soin de votre petit problème princier. Qu'en pensez-vous ?"
+        },
+        {
+            "key": "020",
+            "value": "Et cette fois-ci, inutile de me payer, c'est moi qui régale !"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh !"
+        },
+        {
+            "key": "002",
+            "value": "Père !"
+        },
+        {
+            "key": "003",
+            "value": "Que se passe-t-il ? Tu nous avais pourtant assuré qu'aucun monstre ne se trouvait sur cette route !"
+        },
+        {
+            "key": "004",
+            "value": "..."
+        },
+        {
+            "key": "005",
+            "value": "Ça y est... Ça me revient."
+        },
+        {
+            "key": "006",
+            "value": "Minnwu... La dernière fois que nous nous sommes croisés, c'était sur le champ de bataille."
+        },
+        {
+            "key": "007",
+            "value": "Tu es une mage blanche de Wezett. Ne tente pas de le nier."
+        },
+        {
+            "key": "008",
+            "value": "Je l'étais, avant."
+        },
+        {
+            "key": "009",
+            "value": "... Avant ?"
+        },
+        {
+            "key": "010",
+            "value": "Maintenant je suis pourchassée par Wezett."
+        },
+        {
+            "key": "011",
+            "value": "Si c'était le cas, pourquoi aurais-tu accepté de nous servir de guide pour nous y conduire ?"
+        },
+        {
+            "key": "012",
+            "value": "Graziella m'en a donné l'ordre."
+        },
+        {
+            "key": "013",
+            "value": "Graziella ?"
+        },
+        {
+            "key": "014",
+            "value": "Mais que se passe-t-il à Wezett ?"
+        },
+        {
+            "key": "015",
+            "value": "Nous ne pouvons plus revenir sur nos pas."
+        },
+        {
+            "key": "016",
+            "value": "Si nous rebroussons chemin, nous tomberons très certainement nez à nez avec les troupes principales de Muraga."
+        },
+        {
+            "key": "017",
+            "value": "Espèce de... !"
+        },
+        {
+            "key": "018",
+            "value": "Nous n'avons pas d'autre choix, il faut continuer."
+        }
+    ]
+}

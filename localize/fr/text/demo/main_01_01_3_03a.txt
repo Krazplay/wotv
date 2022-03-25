@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Lynx ?"
+        },
+        {
+            "key": "002",
+            "value": "Êtes-vous blessée, ma dame ?"
+        },
+        {
+            "key": "003",
+            "value": "Je vois que mon père t'envoie. Il ne cesse de s'inquiéter pour moi depuis que je suis née."
+        },
+        {
+            "key": "004",
+            "value": "En fait, je suis ici de mon propre chef, ma dame."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Qu'y a-t-il ?"
+        },
+        {
+            "key": "007",
+            "value": "J'ai un message... pour Schuzelt."
+        },
+        {
+            "key": "008",
+            "value": "J'espère que ce n'est pas... à propos de Naiah ?"
+        },
+        {
+            "key": "009",
+            "value": "..."
+        },
+        {
+            "key": "010",
+            "value": "Que s'est-il passé ? Parle !"
+        },
+        {
+            "key": "011",
+            "value": "Naiah... n'est plus de ce monde."
+        },
+        {
+            "key": "012",
+            "value": "Que... qu'est-ce que tu dis ? C'est impossible !"
+        },
+        {
+            "key": "013",
+            "value": "Il y a eu des rumeurs, comme quoi vous seriez un espion de Leonis, conspirant avec les bandits pour prendre dame Machalie en otage."
+        },
+        {
+            "key": "014",
+            "value": "Q-quelles bouches oseraient proférer de tels mensonges ?"
+        },
+        {
+            "key": "015",
+            "value": "Un des shinobis de Muraga affirme avoir assisté à la mise en place de ce plan."
+        },
+        {
+            "key": "016",
+            "value": "..."
+        },
+        {
+            "key": "017",
+            "value": "Reprends-toi, Schuzelt."
+        },
+        {
+            "key": "018",
+            "value": "Lynx... j'ai besoin de l'entendre. Qui... a assassiné ma Naiah bien-aimée ?"
+        },
+        {
+            "key": "019",
+            "value": "Cette information n'est pas nécessaire, Lynx."
+        },
+        {
+            "key": "020",
+            "value": "..."
+        },
+        {
+            "key": "021",
+            "value": "Crache le morceau !"
+        },
+        {
+            "key": "022",
+            "value": "Je vais te tuer ici et maintenant si tu ne me le dis pas !"
+        },
+        {
+            "key": "023",
+            "value": "Pendant ce temps..."
+        },
+        {
+            "key": "024",
+            "value": "Dame Machalie ?!"
+        },
+        {
+            "key": "025",
+            "value": "Prince Mont, l'ennemi arrive !"
+        }
+    ]
+}

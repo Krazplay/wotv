@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Le voilà !"
+        },
+        {
+            "key": "002",
+            "value": "MURAGAAA !"
+        },
+        {
+            "key": "003",
+            "value": "Oh, mais qui voilà ? C'est ce renégat d'chevalier qui a trahi Fennes..."
+        },
+        {
+            "key": "004",
+            "value": "Langue de vipère ! Tes mensonges ne dupent personne !"
+        },
+        {
+            "key": "005",
+            "value": "Tu as ramené un brave p'tit chevalier avec toi, à ce que j'vois ?"
+        },
+        {
+            "key": "006",
+            "value": "Vous êtes venus pour tenter d'me tuer avant qu'les renforts de Hourne arrivent, c'est ça ?"
+        },
+        {
+            "key": "007",
+            "value": "..."
+        },
+        {
+            "key": "008",
+            "value": "Oh, mais tu es Lilyth ? J'me souviens de toi."
+        },
+        {
+            "key": "009",
+            "value": "Et il y a quelque chose dont tu devrais t'souvenir, toi aussi, c'est que tu es incapable d'me battre."
+        },
+        {
+            "key": "010",
+            "value": "J'ai changé. Cette fois-ci... je ne suis pas seule !"
+        },
+        {
+            "key": "011",
+            "value": "C'est inutile. Ce n'est pas un ou deux insectes qui vont réussir à m'piquer !"
+        },
+        {
+            "key": "012",
+            "value": "Assez fanfaronné ! En garde !"
+        },
+        {
+            "key": "013",
+            "value": "Hé hé hé ! Voyons voir d'quoi est capable le Champion d'la garde royale « Solidus ». Tentez donc d'me divertir un peu."
+        }
+    ]
+}

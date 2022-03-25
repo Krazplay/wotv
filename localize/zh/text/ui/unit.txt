@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "PIECE",
+            "value": "煉成"
+        },
+        {
+            "key": "REFRESH",
+            "value": "更新"
+        },
+        {
+            "key": "ATTACKABLE",
+            "value": "僅限可以出擊"
+        },
+        {
+            "key": "NOT_ENHANCE_WEAPON",
+            "value": "沒有可以強化的裝備"
+        }
+    ]
+}

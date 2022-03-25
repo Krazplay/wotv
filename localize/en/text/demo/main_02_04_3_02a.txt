@@ -1,0 +1,256 @@
+﻿{
+    "infos": [
+        {
+            "key": "506",
+            "value": "......!!"
+        },
+        {
+            "key": "507",
+            "value": "R-reporting. Battle has broken out in the forest...!"
+        },
+        {
+            "key": "508",
+            "value": "Battle...?"
+        },
+        {
+            "key": "509",
+            "value": "Perhaps they turned on each other."
+        },
+        {
+            "key": "510",
+            "value": "You believe that to be possible?"
+        },
+        {
+            "key": "511",
+            "value": "Yes, my lady."
+        },
+        {
+            "key": "512",
+            "value": "Unable to strike us from the front or retreat, they fled into the forest, only to turn upon their comrades..."
+        },
+        {
+            "key": "513",
+            "value": "No... That is not it."
+        },
+        {
+            "key": "514",
+            "value": "......"
+        },
+        {
+            "key": "515",
+            "value": "The smell of gunpowder lingers in the air, faintly yet surely so."
+        },
+        {
+            "key": "516",
+            "value": "You are right..."
+        },
+        {
+            "key": "517",
+            "value": "But neither Hourne nor Leonis commands a sizeable force of gunners..."
+        },
+        {
+            "key": "518",
+            "value": "...Incoming."
+        },
+        {
+            "key": "519",
+            "value": "Argh!"
+        },
+        {
+            "key": "520",
+            "value": "It came from the forest..."
+        },
+        {
+            "key": "521",
+            "value": "So you have accepted your fate."
+        },
+        {
+            "key": "522",
+            "value": "What...?"
+        },
+        {
+            "key": "523",
+            "value": "You are... Jayden!"
+        },
+        {
+            "key": "524",
+            "value": "Why is the army of Rundall here...?"
+        },
+        {
+            "key": "525",
+            "value": "King Jayden, let us go collect Khury's head."
+        },
+        {
+            "key": "526",
+            "value": "No, we will let Mont take care of that business."
+        },
+        {
+            "key": "527",
+            "value": "Then we shall take on their front line forces..."
+        },
+        {
+            "key": "528",
+            "value": "I suppose that could work. Feel free to clean up these small fry if you have nothing better to do."
+        },
+        {
+            "key": "529",
+            "value": "Small...fry!?"
+        },
+        {
+            "key": "530",
+            "value": "You dare insult Lady Melnia!?"
+        },
+        {
+            "key": "531",
+            "value": "Melnia...?"
+        },
+        {
+            "key": "532",
+            "value": "I've been briefed on you. So you are Melnia... Makes sense."
+        },
+        {
+            "key": "533",
+            "value": "Hungry for blood, she abandoned Saiga and drifted into the service of Fennes then Wezette."
+        },
+        {
+            "key": "534",
+            "value": "Ranell."
+        },
+        {
+            "key": "535",
+            "value": "You need not say anything."
+        },
+        {
+            "key": "536",
+            "value": "I shall deliver their punishment."
+        },
+        {
+            "key": "537",
+            "value": "I was almost ready to be forgiving if you crawled through the dirt and begged."
+        },
+        {
+            "key": "538",
+            "value": "This is not a bad thing. Now we can cut them down without the slightest restraint."
+        },
+        {
+            "key": "539",
+            "value": "I do hope they actually put up a good fight."
+        },
+        {
+            "key": "540",
+            "value": "You will die... All of you!"
+        },
+        {
+            "key": "541",
+            "value": "Good, that's the spirit."
+        },
+        {
+            "key": "542",
+            "value": "Well then, shall we?"
+        },
+        {
+            "key": "543",
+            "value": "Chunak... How shall we do this?"
+        },
+        {
+            "key": "544",
+            "value": "First, we have Ranell or whoever she is. You can take her if you like."
+        },
+        {
+            "key": "545",
+            "value": "Okay, she's all mine!"
+        },
+        {
+            "key": "546",
+            "value": "And with this I shall deliver you to hell."
+        },
+        {
+            "key": "547",
+            "value": "......"
+        },
+        {
+            "key": "548",
+            "value": "......"
+        },
+        {
+            "key": "549",
+            "value": "Wait just a wretched moment!"
+        },
+        {
+            "key": "550",
+            "value": "And you are...?"
+        },
+        {
+            "key": "551",
+            "value": "A walking corpse..."
+        },
+        {
+            "key": "552",
+            "value": "Death won't be finding me until I've gotten revenge for King Muraga."
+        },
+        {
+            "key": "553",
+            "value": "Hey, you will end up in the same place as her if you get in my way..."
+        },
+        {
+            "key": "554",
+            "value": "Let her have at it."
+        },
+        {
+            "key": "555",
+            "value": "Vengeance for one's master... It's not my thing, but the rage in her soul has my curiosity."
+        },
+        {
+            "key": "556",
+            "value": "Then, I can have her all to myself?"
+        },
+        {
+            "key": "557",
+            "value": "Be our guest."
+        },
+        {
+            "key": "558",
+            "value": "You see the way of things. I like that in a man."
+        },
+        {
+            "key": "559",
+            "value": "But...!"
+        },
+        {
+            "key": "560",
+            "value": "You are no King Muraga!"
+        },
+        {
+            "key": "561",
+            "value": "Hahahaha! Not a match for Muraga, huh? That's a shame."
+        },
+        {
+            "key": "562",
+            "value": "Oldoa, was it? Fight to your heart's content."
+        },
+        {
+            "key": "563",
+            "value": "But know that if things get messy, we will not be helping you."
+        },
+        {
+            "key": "564",
+            "value": "I trust you are prepared?"
+        },
+        {
+            "key": "565",
+            "value": "Naturally, to be sure!"
+        },
+        {
+            "key": "566",
+            "value": "Very well... Come and die."
+        },
+        {
+            "key": "567",
+            "value": "I will send you to Muraga's side."
+        },
+        {
+            "key": "568",
+            "value": "The great Oldoa strikes again! Here comes part two!"
+        }
+    ]
+}

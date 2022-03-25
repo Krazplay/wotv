@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "這次將講解<color=#0000ff>TP</color>、<color=#0000ff>AP</color>、還有<color=#0000ff>極限技<br></color>相關的知識。"
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "使用能力時，<br>根據能力的性質會消耗<color=#0000ff>TP</color>（戰術點數）<br>或是<color=#0000ff>AP</color>（攻擊點數）。"
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "擁有<color=#0000ff>輔助</color>效果的能力大多會消耗<color=#0000ff>TP</color>，<br>而直接造成<color=#0000ff>傷害</color>的能力則大多會消耗<color=#0000ff>AP</color>。"
+        },
+        {
+            "key": "004",
+            "value": "TP在戰鬥開始時<br>處於<color=#0000ff>最高值</color>，但消耗後若不使用以太等道具<br>就<color=#0000ff>不會恢復</color>。"
+        },
+        {
+            "key": "005",
+            "value": "而AP在戰鬥開始時處於較低值，<br>但通過使用普通攻擊與消耗TP的能力<br>可以<color=#0000ff>進行積蓄</color>。"
+        },
+        {
+            "key": "006",
+            "value": "<color=#0000ff>極限技</color>是部份兵員可以使用的相當於<br><color=#0000ff>必殺技</color>的強力能力，<br>需要<color=#0000ff>大量AP</color>才能使用。"
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "另外，不論何種能力都有<color=#0000ff>使用次數</color>的<br><color=#0000ff>限制</color>，敬請注意。"
+        },
+        {
+            "key": "008",
+            "value": "不愧是蒙特殿下！"
+        },
+        {
+            "key": "009",
+            "value": "需要消耗TP的能力會以<color=#0000ff>黃色</color>視窗顯示，<br>而需要消耗AP的能力則會以<color=#0000ff>粉色</color>視窗顯示，<br>您發現了嗎？"
+        },
+        {
+            "key": "010",
+            "value": "輔助系能力消耗TP，攻擊系能力消耗AP，<br>把握好各種能力的特色，<br>就能離戰鬥的達人更進一步了。"
+        }
+    ]
+}

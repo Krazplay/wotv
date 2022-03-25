@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Un village !"
+        },
+        {
+            "key": "002",
+            "value": "J'espère qu'ils ont quelque chose à manger…"
+        },
+        {
+            "key": "003",
+            "value": "Mais… Tu penses encore à manger ?!"
+        },
+        {
+            "key": "004",
+            "value": "Beilo, désolé, mais nous n'allons pas nous arrêter ici."
+        },
+        {
+            "key": "005",
+            "value": "Hein !… C'est vrai ?!"
+        },
+        {
+            "key": "006",
+            "value": "Nous devons nous rendre au château de Wezett aussi rapidement que possible."
+        },
+        {
+            "key": "007",
+            "value": "De plus, si nos poursuivants nous rattrapent, ces villageois risquent de payer les pots cassés."
+        },
+        {
+            "key": "008",
+            "value": "Oui, maintenant que vous le dites…"
+        },
+        {
+            "key": "009",
+            "value": "Kitone… que se passe-t-il ?"
+        },
+        {
+            "key": "010",
+            "value": "Nos poursuivants gagnent du terrain."
+        },
+        {
+            "key": "011",
+            "value": "Ce n'est pas possible… déjà ?"
+        },
+        {
+            "key": "012",
+            "value": "Maudits barbares… Ils sont rapides. Ils ont mangé du chocobo ou quoi ?"
+        },
+        {
+            "key": "013",
+            "value": "Père, dépêchons-nous. À ce rythme…"
+        },
+        {
+            "key": "014",
+            "value": "Allons-y ! Nous allons nous arrêter dans ce village."
+        },
+        {
+            "key": "015",
+            "value": "Comment ?"
+        },
+        {
+            "key": "016",
+            "value": "Nous ne pouvons pas faire une chose pareille ! Si nous nous arrêtons, le village sera... !"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Il est temps de nous dire ce que vous savez."
+        },
+        {
+            "key": "002",
+            "value": "Qu'entendez-vous par là ?"
+        },
+        {
+            "key": "003",
+            "value": "Pourquoi vous être introduits dans le pays de Leonis sans m'en avertir ?"
+        },
+        {
+            "key": "004",
+            "value": "C'est vrai. Je suppose que je vous dois une explication."
+        },
+        {
+            "key": "005",
+            "value": "Mon carrosse était en route pour Fennes."
+        },
+        {
+            "key": "006",
+            "value": "Pour Fennes ?! Mais vous n'êtes pas sans savoir que c'est l'ennemi de Leonis."
+        },
+        {
+            "key": "007",
+            "value": "Dans quel but ?"
+        },
+        {
+            "key": "008",
+            "value": "Pour épouser Muraga."
+        },
+        {
+            "key": "009",
+            "value": "Q-quoi ?! Épouser Muraga de Fennes... ?"
+        },
+        {
+            "key": "010",
+            "value": "Ne faites pas cette tête."
+        },
+        {
+            "key": "011",
+            "value": "Comment ça, quelle tête ?"
+        },
+        {
+            "key": "012",
+            "value": "Je vois. Il semble que nos soupçons n'étaient pas aussi infondés que cela après tout."
+        },
+        {
+            "key": "013",
+            "value": "Vous n'étiez donc pas au courant de ce mariage, roi Eldo ?"
+        },
+        {
+            "key": "014",
+            "value": "Attendez une minute..."
+        },
+        {
+            "key": "015",
+            "value": "En partant de Hourne, même s'il faut passer par les montagnes, vous auriez pu vous rendre à Fennes sans entrer dans Leonis."
+        },
+        {
+            "key": "016",
+            "value": "C'est cela."
+        },
+        {
+            "key": "017",
+            "value": "Cependant, notre cocher a choisi cette route afin d'éviter les monstres. Ce faisant, nous sommes entrés sur votre territoire."
+        },
+        {
+            "key": "018",
+            "value": "Et c'est à ce moment précis que les bandits ont décidé d'attaquer ? Dites donc, c'est une sacrée coïncidence !"
+        },
+        {
+            "key": "019",
+            "value": "Toute cette histoire est vraie !"
+        },
+        {
+            "key": "020",
+            "value": "... !"
+        },
+        {
+            "key": "021",
+            "value": "Il en arrive encore."
+        },
+        {
+            "key": "022",
+            "value": "Père..."
+        },
+        {
+            "key": "023",
+            "value": "Nous devrions battre en retraite avant de faire subir de nouvelles pertes à nos alliés."
+        },
+        {
+            "key": "024",
+            "value": "Tss..."
+        },
+        {
+            "key": "025",
+            "value": "C'est inacceptable."
+        },
+        {
+            "key": "026",
+            "value": "Q-quoi ?"
+        },
+        {
+            "key": "027",
+            "value": "Les hommes faibles ne m'intéressent pas."
+        },
+        {
+            "key": "028",
+            "value": "Faibles... ?"
+        },
+        {
+            "key": "029",
+            "value": "Mont, on dirait que tu lui plais."
+        },
+        {
+            "key": "030",
+            "value": "D-dame Machalie..."
+        },
+        {
+            "key": "031",
+            "value": "Montrez-moi votre force. Donnez à mon cœur une raison de s'emballer."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "No paran de venir."
+        },
+        {
+            "key": "002",
+            "value": "Mmm…"
+        },
+        {
+            "key": "003",
+            "value": "¿Vais a volver a sugerir que nos retiremos?"
+        },
+        {
+            "key": "004",
+            "value": "No nos queda otra. No podemos poner en riesgo vuestra vida."
+        },
+        {
+            "key": "005",
+            "value": "No me hagáis reír."
+        },
+        {
+            "key": "006",
+            "value": "¿Creéis que me asusta esta panda de inútiles?"
+        },
+        {
+            "key": "007",
+            "value": "Vaya, qué princesa más valiente."
+        },
+        {
+            "key": "008",
+            "value": "Permitidme demostraros cómo se mueve una mujer de mi porte en el campo de batalla."
+        },
+        {
+            "key": "009",
+            "value": "¡Schuzelt, a las armas!"
+        },
+        {
+            "key": "010",
+            "value": "¡Sí, milady!"
+        },
+        {
+            "key": "011",
+            "value": "¡¿Vas a luchar?! ¡No me lo creo!"
+        }
+    ]
+}

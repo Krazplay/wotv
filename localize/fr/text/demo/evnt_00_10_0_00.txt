@@ -1,0 +1,384 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Reine Helena ! Nous vous trouvons enfin !"
+        },
+        {
+            "key": "002",
+            "value": "Ildyra…"
+        },
+        {
+            "key": "003",
+            "value": "Votre Altesse, veuillez reculer !"
+        },
+        {
+            "key": "004",
+            "value": "Nous allons faire sauter cette porte avec notre magie !"
+        },
+        {
+            "key": "005",
+            "value": "Argh… ! Ça n'a pas marché !"
+        },
+        {
+            "key": "006",
+            "value": "Pas une égratignure… Mais par quel miracle… ?"
+        },
+        {
+            "key": "007",
+            "value": "N'oublie pas que ces cachots ont été construits pour y enfermer des criminels. On ne peut pas y entrer ni en sortir aussi facilement."
+        },
+        {
+            "key": "008",
+            "value": "Hors de question qu'on abandonne. On doit faire sauter cette porte coûte que coûte !"
+        },
+        {
+            "key": "009",
+            "value": "J'ai bien peur que ce ne soit impossible. Vous devez renoncer."
+        },
+        {
+            "key": "010",
+            "value": "Nous ne pouvons pas obéir à cet ordre, Votre Altesse. Après tout, nous sommes « Lumen », votre garde rapprochée."
+        },
+        {
+            "key": "011",
+            "value": "Il y a une autre tâche que j'aimerais vous confier."
+        },
+        {
+            "key": "012",
+            "value": "Votre Altesse… Est-ce que par hasard vous souhaiteriez… que nous partions à la poursuite du roi Eldo ?"
+        },
+        {
+            "key": "013",
+            "value": "Une minute, Ildyra… « Qu'on poursuive le roi Eldo », tu dis ?"
+        },
+        {
+            "key": "014",
+            "value": "Exactement."
+        },
+        {
+            "key": "015",
+            "value": "Tu nous expliques ?"
+        },
+        {
+            "key": "016",
+            "value": "Attends, ça voudrait dire que le roi Eldo… a quitté le château ?"
+        },
+        {
+            "key": "017",
+            "value": "Désolée de ne pas vous en avoir parlé plus tôt…"
+        },
+        {
+            "key": "018",
+            "value": "Sa Majesté le roi Eldo et le prince Mont se sont échappés par les portes arrières du château."
+        },
+        {
+            "key": "019",
+            "value": "C'est… C'est impensable…"
+        },
+        {
+            "key": "020",
+            "value": "Ils auraient abandonné Son Altesse Helena à son triste sort ?"
+        },
+        {
+            "key": "021",
+            "value": "Ils ne m'ont pas laissée. Je suis restée de mon plein gré."
+        },
+        {
+            "key": "022",
+            "value": "De plus, je ne suis pas seule. L'ensemble de la division « Fortem » est toujours dans l'enceinte du château."
+        },
+        {
+            "key": "023",
+            "value": "Tout ça, juste pour gagner du temps et couvrir la fuite de…"
+        },
+        {
+            "key": "024",
+            "value": "Mesure tes paroles, Sylma."
+        },
+        {
+            "key": "025",
+            "value": "P-Pardon…"
+        },
+        {
+            "key": "026",
+            "value": "Si c'est là ce que pensent nos alliés, alors on peut dire que le plan du roi est un succès."
+        },
+        {
+            "key": "027",
+            "value": "Le plan… du roi ?"
+        },
+        {
+            "key": "028",
+            "value": "Le roi et Mont se dirigent actuellement au devant d'un danger mortel, dans le but de nous sauver, Sterne et moi."
+        },
+        {
+            "key": "029",
+            "value": "Que voulez-vous dire ?"
+        },
+        {
+            "key": "030",
+            "value": "Non… Cela signifierait que… Wezett pourrait nous trahir ?"
+        },
+        {
+            "key": "031",
+            "value": "Selon moi, c'est une éventualité à ne pas écarter."
+        },
+        {
+            "key": "032",
+            "value": "C'est donc pour ça que le roi a envoyé Messires Mont et Sterne dans des directions différentes…"
+        },
+        {
+            "key": "033",
+            "value": "Mais Leonis et Wezett vont mener cette guerre ensemble, comme ils l'ont toujours fait, non ?"
+        },
+        {
+            "key": "034",
+            "value": "C'est également une possibilité, en effet. Cependant…"
+        },
+        {
+            "key": "035",
+            "value": "Le roi a estimé qu'il était trop risqué de jouer nos vies sur ce qui n'est au final qu'un simple pari."
+        },
+        {
+            "key": "036",
+            "value": "Mais alors… Qu'est-ce qui a bien pu pousser le roi à diviser la famille Leonis en deux ?"
+        },
+        {
+            "key": "037",
+            "value": "On pourrait presque croire qu'il se moque qu'une partie de la famille périsse, tant que survit la lignée."
+        },
+        {
+            "key": "038",
+            "value": "Le roi… est prêt à mourir des mains de Sterne. Pas seulement lui, d'ailleurs… Je crains que Mont ne l'envisage également."
+        },
+        {
+            "key": "039",
+            "value": "C'est horrible…"
+        },
+        {
+            "key": "040",
+            "value": "Si Sterne doit en arriver à de telles extrémités, il aura alors parfaitement servi les sombres manigances de ce fourbe de Sadali."
+        },
+        {
+            "key": "041",
+            "value": "Et s'il peut s'emparer par la même occasion de l'anneau détenu par Mont, j'ai bien peur qu'il n'hésitera pas."
+        },
+        {
+            "key": "042",
+            "value": "…"
+        },
+        {
+            "key": "043",
+            "value": "Le roi avait anticipé que nous aurions un jour à faire face à une telle éventualité."
+        },
+        {
+            "key": "044",
+            "value": "C'est pour cela qu'il a pris grand soin de garder Sterne éloigné des champs de bataille, afin de ne pas attiser les flammes de la guerre."
+        },
+        {
+            "key": "045",
+            "value": "C'est ce que nous nous devons de préserver à tout prix…"
+        },
+        {
+            "key": "046",
+            "value": "En tant que Gardienne du royaume de Leonis…"
+        },
+        {
+            "key": "047",
+            "value": "Gardienne ? Votre Altesse, que voulez-vous dire… ?"
+        },
+        {
+            "key": "048",
+            "value": "J'ai une mission à vous confier."
+        },
+        {
+            "key": "049",
+            "value": "Rendez-vous à la salle des archives du château, et brûlez l'Ancien manuscrit de Leonis."
+        },
+        {
+            "key": "050",
+            "value": "L'Ancien manuscrit… ?"
+        },
+        {
+            "key": "051",
+            "value": "Un ouvrage dont il ne m'a été permis de lire que de brefs passages."
+        },
+        {
+            "key": "052",
+            "value": "Il renferme en ses pages de nombreux secrets du royaume, des détails du pacte avec la Divinité et l'emplacement des reliques séculaires."
+        },
+        {
+            "key": "053",
+            "value": "Le pacte… avec la Divinité ?"
+        },
+        {
+            "key": "054",
+            "value": "Cela signifie… qu'il existe encore quelque part des reliques séculaires ?"
+        },
+        {
+            "key": "055",
+            "value": "Si ce manuscrit devait tomber entre les viles mains de Sadali, ce dernier pourrait alors s'emparer d'un pouvoir redoutable, contre lequel même la Divinité ne pourrait plus rien. "
+        },
+        {
+            "key": "056",
+            "value": "C'est pourquoi vous devez détruire ce manuscrit, tant qu'il est encore temps."
+        },
+        {
+            "key": "057",
+            "value": "…"
+        },
+        {
+            "key": "058",
+            "value": "Je regrette, Votre Altesse. Je ne peux me résoudre à accéder à votre requête."
+        },
+        {
+            "key": "059",
+            "value": "Ildyra… Mais pourquoi ?"
+        },
+        {
+            "key": "060",
+            "value": "Ce manuscrit ne serait-il pas justement la clé qui pourrait nous permettre de restaurer la gloire de Leonis ?"
+        },
+        {
+            "key": "061",
+            "value": "La clé… pour restaurer Leonis ?"
+        },
+        {
+            "key": "062",
+            "value": "À l'heure où nous parlons, le roi Eldo est en route pour Wezett. Cependant, si jamais nous lui apportions le manuscrit…"
+        },
+        {
+            "key": "063",
+            "value": "Ne pensez-vous pas que nous pourrions alors nous assurer la loyauté du roi Khory ?"
+        },
+        {
+            "key": "064",
+            "value": "Mais oui, tu as raison. Après tout, il ne serait surprenant pour personne d'apprendre que Leonis recèle encore quelques reliques séculaires."
+        },
+        {
+            "key": "065",
+            "value": "Je crains cependant qu'une telle entreprise n'aille perturber les plans du roi Eldo… Et pourtant…"
+        },
+        {
+            "key": "066",
+            "value": "Pourtant je n'entrevois aucun autre moyen de sauver le roi Eldo et Sire Mont."
+        },
+        {
+            "key": "067",
+            "value": "…"
+        },
+        {
+            "key": "068",
+            "value": "Reine Helena, de grâce !"
+        },
+        {
+            "key": "069",
+            "value": "Je ne peux pas me résoudre à abandonner Mont dans la gueule des loups."
+        },
+        {
+            "key": "070",
+            "value": "Et si jamais cette guerre venait à se prolonger… En tant que mère, je dois me battre, moi aussi."
+        },
+        {
+            "key": "071",
+            "value": "Ildyra, puis-je vous confier cette mission ?"
+        },
+        {
+            "key": "072",
+            "value": "Naturellement, Votre Altesse."
+        },
+        {
+            "key": "073",
+            "value": "En es-tu certaine ? La tâche sera éprouvante, et te mènera surement à faire certains choix…"
+        },
+        {
+            "key": "074",
+            "value": "Nous sommes « Lumen », Votre Altesse. Nous vivons pour vous servir."
+        },
+        {
+            "key": "075",
+            "value": "Nous sommes depuis longtemps préparés à donner nos vies pour vous."
+        },
+        {
+            "key": "076",
+            "value": "Mais… si jamais Wezett nous trahit avant que l'on n'atteigne notre destination…"
+        },
+        {
+            "key": "077",
+            "value": "Alors promets-moi que tu réduiras le manuscrit en cendres… Le jures-tu ?"
+        },
+        {
+            "key": "078",
+            "value": "Oui, ma reine… Je vous donne ma parole."
+        },
+        {
+            "key": "079",
+            "value": "Voici la clé de la salle des archives."
+        },
+        {
+            "key": "080",
+            "value": "Ne pouvons-nous pas vous libérer de ce cachot et nous y rendre ensemble… ?"
+        },
+        {
+            "key": "081",
+            "value": "J'ai peur que cela ne soit impossible."
+        },
+        {
+            "key": "082",
+            "value": "Mais, Votre Altesse, pourquoi… ?"
+        },
+        {
+            "key": "083",
+            "value": "Sterne et le reste de la division « Fortem » subissent un interrogatoire en ce moment même, quelque part dans ce château."
+        },
+        {
+            "key": "084",
+            "value": "Et je te l'ai dit : je ne peux pas abandonner mes fils lorsqu'ils sont en danger."
+        },
+        {
+            "key": "085",
+            "value": "C'est… Je…"
+        },
+        {
+            "key": "086",
+            "value": "Ildyra… Je me suis plus ou moins laissée emprisonner de mon propre gré."
+        },
+        {
+            "key": "087",
+            "value": "…"
+        },
+        {
+            "key": "088",
+            "value": "Sois sans crainte. Nos ennemis ont tout intérêt à me garder en vie."
+        },
+        {
+            "key": "089",
+            "value": "Même un rustre comme Muraga peut facilement le comprendre."
+        },
+        {
+            "key": "090",
+            "value": "Vos désirs sont des ordres, Votre Altesse…"
+        },
+        {
+            "key": "091",
+            "value": "Le château doit grouiller de soldats de Fennes à l'heure qu'il est."
+        },
+        {
+            "key": "092",
+            "value": "Vous devez vous rendre dans la chambre d'Elsirelle."
+        },
+        {
+            "key": "093",
+            "value": "Elsirelle… ? Mais elle a surement fui le château depuis longtemps…"
+        },
+        {
+            "key": "094",
+            "value": "Fais-moi confiance, elle sera dans sa chambre. Avec son aide, vous devriez pouvoir atteindre la salle des archives sans grande difficulté."
+        },
+        {
+            "key": "095",
+            "value": "… Compris. Nous partons à sa recherche."
+        }
+    ]
+}

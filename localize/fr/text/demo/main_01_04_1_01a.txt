@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Il doit y avoir une grotte à peine plus loin."
+        },
+        {
+            "key": "002",
+            "value": "Une grotte ?"
+        },
+        {
+            "key": "003",
+            "value": "Nous devrions nous reposer un instant."
+        },
+        {
+            "key": "004",
+            "value": "Dis-moi, Minnwu, y a-t-il une rivière dans le coin ?"
+        },
+        {
+            "key": "005",
+            "value": "J'aimerais boire un peu d'eau fraîche."
+        },
+        {
+            "key": "006",
+            "value": "Dans ce cas, il faut que vous descendiez en contrebas."
+        },
+        {
+            "key": "007",
+            "value": "Père, avancez un peu sans moi jusqu'à la grotte, je vais chercher de l'eau."
+        },
+        {
+            "key": "008",
+            "value": "Compris, mais dépêche-toi de revenir."
+        },
+        {
+            "key": "009",
+            "value": "Lilyth..."
+        },
+        {
+            "key": "010",
+            "value": "Hmm. Ce sont des soldats de Fennes."
+        },
+        {
+            "key": "011",
+            "value": "C'est censé être dans le coin…"
+        },
+        {
+            "key": "012",
+            "value": "Continuez de chercher cette grotte, ils doivent être à l'intérieur."
+        },
+        {
+            "key": "013",
+            "value": "… Qu'ont-ils dit ?"
+        },
+        {
+            "key": "014",
+            "value": "On dirait qu'ils sont au courant."
+        },
+        {
+            "key": "015",
+            "value": "J'ai un mauvais pressentiment."
+        },
+        {
+            "key": "016",
+            "value": "Retournons avertir les autres."
+        }
+    ]
+}

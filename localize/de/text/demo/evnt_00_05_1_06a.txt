@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Häuptling ...?"
+        },
+        {
+            "key": "002",
+            "value": "Das ist der Ort, an dem Loreila verstarb ..."
+        },
+        {
+            "key": "003",
+            "value": "Der neue Häuptling Gougas ...?"
+        },
+        {
+            "key": "004",
+            "value": "... Ich verstehe. Ohne sie gibt es niemandem, der eine Brücke zwischen den beiden Dörfern schlagen könnte. Dadurch konnte es so weit kommen."
+        },
+        {
+            "key": "005",
+            "value": "Loreila ... Bald schon werden wir in Gouga einfallen."
+        },
+        {
+            "key": "006",
+            "value": "Ich werde es zerstören ... Das Dorf, in dem du geboren wurdest und aufwuchst."
+        },
+        {
+            "key": "007",
+            "value": "... Bitte vergib mir."
+        },
+        {
+            "key": "008",
+            "value": "Häuptling Skahal ..."
+        },
+        {
+            "key": "009",
+            "value": "Gouga zerstören? Wie überaus amüsant."
+        },
+        {
+            "key": "010",
+            "value": "Niv’Lu ..."
+        },
+        {
+            "key": "011",
+            "value": "Das Ganze vor Loreilas Grab zu beenden ... Dein Sinn für Ironie imponiert mir."
+        },
+        {
+            "key": "012",
+            "value": "Ich werde dich genau hier töten ... und mir dann Marial und Zazan holen!"
+        },
+        {
+            "key": "013",
+            "value": "So? Dann versuch es doch, wenn du kannst."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "QUEST_AP",
+            "value": "AP消耗减少！"
+        },
+        {
+            "key": "QUEST_DROP_RATE",
+            "value": "掉落率UP"
+        },
+        {
+            "key": "QUEST_DROP_AMOUNT",
+            "value": "掉落數量<br>UP"
+        },
+        {
+            "key": "QUEST_PLAYER_EXP",
+            "value": "玩家經驗值<br>UP"
+        },
+        {
+            "key": "QUEST_UNIT_EXP",
+            "value": "兵員經驗值<br>UP"
+        },
+        {
+            "key": "QUEST_UNIT_JP",
+            "value": "兵員JP<br>掉落數2倍"
+        },
+        {
+            "key": "QUEST_ARTI_PROFICIENCY",
+            "value": "武具熟練度<br>UP"
+        },
+        {
+            "key": "QUEST_HARD_DROP_AMOUNT",
+            "value": "<cspace=-1.5>Hard<space=5>碎片{0}倍！"
+        },
+        {
+            "key": "QUEST_MULTI_AP",
+            "value": "協力AP<br>消耗减少！"
+        },
+        {
+            "key": "GACHA_PICKUP",
+            "value": "Pick<space=7>UP!"
+        },
+        {
+            "key": "GACHA_NEWUNIT",
+            "value": "新兵員"
+        },
+        {
+            "key": "SHOP_SECRET",
+            "value": "<line-height=20><cspace=1>OPEN!<br><cspace=-2.5>秘密商店"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hm ?!"
+        },
+        {
+            "key": "002",
+            "value": "Qu'est-ce que c'est que cette odeur ?"
+        },
+        {
+            "key": "003",
+            "value": "Snif... snif..."
+        },
+        {
+            "key": "004",
+            "value": "Beurk ! Qu'est-ce que ça pue !"
+        },
+        {
+            "key": "005",
+            "value": "Bouuuuh !"
+        },
+        {
+            "key": "006",
+            "value": "OK, OK, du calme... Il faut juste que je me prépare psychologiquement."
+        },
+        {
+            "key": "007",
+            "value": "Aaah ! Non ! Impossible !"
+        },
+        {
+            "key": "008",
+            "value": "Pardonnez-moi, prince Sterne !"
+        }
+    ]
+}

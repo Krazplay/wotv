@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Gib es zu ... Du hast sie verschont."
+        },
+        {
+            "key": "002",
+            "value": "Hm?"
+        },
+        {
+            "key": "003",
+            "value": "Tu nicht so, als wüsstest du nicht, wovon ich rede."
+        },
+        {
+            "key": "004",
+            "value": "Um zu wissen, ob du die Wahrheit sagst oder nicht, genügt ein Blick."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Das ist dir doch klar, oder? Wenn du dich auch weiterhin so verhältst ..."
+        },
+        {
+            "key": "007",
+            "value": "Einen Moment mal, ja?"
+        },
+        {
+            "key": "008",
+            "value": "Unser Auftrag lautet, Prinz Da... ich meine, Dario umzubringen, richtig?"
+        },
+        {
+            "key": "009",
+            "value": "Von hournschen Soldaten war dabei keine Rede."
+        },
+        {
+            "key": "010",
+            "value": "Außerdem ... Wie kann man jemanden, mit dem man sich bis eben gut verstanden und wie mit einem Kameraden unterhalten hat, einfach so ...?"
+        },
+        {
+            "key": "011",
+            "value": "War es das dann mit deiner Predigt?"
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "Sobald dieser Auftrag abgeschlossen ist, wirst du wieder in die „Schlangengrube“ zurückkehren und weiter abgehärtet werden."
+        },
+        {
+            "key": "014",
+            "value": "Bereite dich schonmal darauf vor."
+        },
+        {
+            "key": "015",
+            "value": "..."
+        },
+        {
+            "key": "016",
+            "value": "Also dann. Gehen wir!"
+        },
+        {
+            "key": "017",
+            "value": "Unser Ziel sind Darios Gemächer."
+        },
+        {
+            "key": "018",
+            "value": "Wir stoßen dort zu Vinera ... und erledigen den Prinzen!"
+        }
+    ]
+}

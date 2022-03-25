@@ -1,0 +1,12 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Príncipe Mont, se me ha ocurrido una <color=#0000ff>idea</color> para ahuyentar a los bandidos."
+        },
+        {
+            "key": "002",
+            "value": "Se trata del <color=#0000ff>Círculo de invocación</color>. Al activarlo, ocurrirá algo interesante."
+        }
+    ]
+}

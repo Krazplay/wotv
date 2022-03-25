@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Kiton, por la cara que traes, me imagino que las noticias no son buenas."
+        },
+        {
+            "key": "002",
+            "value": "Perdonadme, majestad. Stern ha decidido sumarse a la batalla."
+        },
+        {
+            "key": "003",
+            "value": "Con la ayuda de Stern, ¡podríamos cambiar las tornas del conflicto!"
+        },
+        {
+            "key": "004",
+            "value": "¿Stern? ¿Te refieres al heredero de la corona de Leonis?"
+        },
+        {
+            "key": "005",
+            "value": "Perdón, no pretendía…"
+        },
+        {
+            "key": "006",
+            "value": "No hace falta que te disculpes. El manejo que tiene Stern de la espada es increíble y supera mi técnica con creces."
+        },
+        {
+            "key": "007",
+            "value": "Eso significa que… ¿vas a ceder?"
+        },
+        {
+            "key": "008",
+            "value": "¿Ceder el qué?"
+        },
+        {
+            "key": "009",
+            "value": "¿Es que no es obvio? Pues el trono de Leonis, ¿qué si no?"
+        },
+        {
+            "key": "010",
+            "value": "Yo decido… quién ocupa mi lugar después de mí."
+        },
+        {
+            "key": "011",
+            "value": "Kiton, hazle llegar este mensaje a Stern: «Retiraos de inmediato al castillo»."
+        },
+        {
+            "key": "012",
+            "value": "¿Qué demonios estaría pensando ese crío? Abandonar a su madre para ir a la guerra…"
+        },
+        {
+            "key": "013",
+            "value": "Perdonad que os interrumpa, majestad, pero la reina Helena va con él…"
+        },
+        {
+            "key": "014",
+            "value": "¡¿Cómo?!"
+        },
+        {
+            "key": "015",
+            "value": "¡Se acerca el enemigo!"
+        }
+    ]
+}

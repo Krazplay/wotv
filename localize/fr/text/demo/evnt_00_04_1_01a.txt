@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Tu es le dernier !"
+        },
+        {
+            "key": "002",
+            "value": "En es-tu certain ?"
+        },
+        {
+            "key": "003",
+            "value": "Que... ?!"
+        },
+        {
+            "key": "004",
+            "value": "Argh !"
+        },
+        {
+            "key": "005",
+            "value": "On dirait bien que tu n'étais pas tout à fait prêt à prendre la tête de Saiga."
+        },
+        {
+            "key": "006",
+            "value": "Meurs !"
+        },
+        {
+            "key": "007",
+            "value": "Ne serait-ce pas Dame Loreila ?"
+        },
+        {
+            "key": "008",
+            "value": "Vous arrivez juste à temps. Nous étions sur le point de l'exécuter."
+        },
+        {
+            "key": "009",
+            "value": "Mais avant cela, je dois vous demander quelque chose."
+        },
+        {
+            "key": "010",
+            "value": "On raconte que Gouga et Saiga comptent s'allier pour ne former plus qu'une seule et même nation."
+        },
+        {
+            "key": "011",
+            "value": "Est-ce exact ?"
+        },
+        {
+            "key": "012",
+            "value": "Votre sort dépend de votre réponse."
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Je vois. Vous préférez donc croiser le fer avec nous plutôt que de répondre."
+        },
+        {
+            "key": "015",
+            "value": "Nous n'aurons aucune pitié à votre égard."
+        },
+        {
+            "key": "016",
+            "value": "Nous allons d'abord régler le compte du chef de Saiga, puis…"
+        },
+        {
+            "key": "017",
+            "value": "Nous nous amuserons un peu avec vous, Dame Loreila."
+        },
+        {
+            "key": "018",
+            "value": "Je vous interdis de toucher à un seul de ses cheveux."
+        },
+        {
+            "key": "019",
+            "value": "Eh bien… On dit pourtant que ceux de Gouga sont capables de tuer père et mère pour peu qu'on y mette le prix."
+        },
+        {
+            "key": "020",
+            "value": "La nation que je compte bâtir... sera complètement différente."
+        }
+    ]
+}

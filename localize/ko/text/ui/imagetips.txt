@@ -1,0 +1,176 @@
+﻿{
+    "infos": [
+        {
+            "key": "TutorialTips_001",
+            "value": "튜토리얼"
+        },
+        {
+            "key": "TutorialTips_001_a",
+            "value": "전투 기본 조작"
+        },
+        {
+            "key": "TutorialTips_001_b",
+            "value": "TP나 AP를 사용하는 어빌리티"
+        },
+        {
+            "key": "TutorialTips_002_a",
+            "value": "어빌리티의 특징"
+        },
+        {
+            "key": "TutorialTips_002_b",
+            "value": "소환마법"
+        },
+        {
+            "key": "GuidanceTips_Gacha",
+            "value": "소환"
+        },
+        {
+            "key": "GuidanceTips_Quest",
+            "value": "스토리 퀘스트"
+        },
+        {
+            "key": "GuidanceTips_ChallengeMission",
+            "value": "홈 화면"
+        },
+        {
+            "key": "GuidanceTips_UnitStrength",
+            "value": "유닛 강화"
+        },
+        {
+            "key": "GuidanceTips_UnitAwake",
+            "value": "각성과 한계 돌파"
+        },
+        {
+            "key": "GuidanceTips_ArtifactCraft",
+            "value": "장비"
+        },
+        {
+            "key": "GuidanceTips_EventQuest",
+            "value": "이벤트 퀘스트"
+        },
+        {
+            "key": "GuidanceTips_VisionCard",
+            "value": "비전 카드"
+        },
+        {
+            "key": "GuidanceTips_ExplorationChocobo",
+            "value": "탐험 초코보와 소환수"
+        },
+        {
+            "key": "GuidanceTips_Party",
+            "value": "편성"
+        },
+        {
+            "key": "GuidanceTips_MultiQuest",
+            "value": "멀티 퀘스트"
+        },
+        {
+            "key": "GuidanceTips_Arena",
+            "value": "결투장"
+        },
+        {
+            "key": "GuidanceTips_FreeMatch",
+            "value": "매치 전투"
+        },
+        {
+            "key": "GuidanceTips_GuildJoin",
+            "value": "길드 가입 및 설립"
+        },
+        {
+            "key": "GuidanceTips_GuildRookieJoin",
+            "value": "길드에 체험 가입"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendance",
+            "value": "길드 로비"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendanceRookie",
+            "value": "길드 로비(초보자 체험)"
+        },
+        {
+            "key": "GuidanceTips_GuildBarracks",
+            "value": "병영"
+        },
+        {
+            "key": "GuidanceTips_GuildStone",
+            "value": "길드 석상"
+        },
+        {
+            "key": "GuidanceTips_GuildBattle",
+            "value": "길드 전투"
+        },
+        {
+            "key": "GuidanceTips_UnitIntimacy",
+            "value": "친밀도"
+        },
+        {
+            "key": "GuidanceTips_SubQuest",
+            "value": "서브 퀘스트"
+        },
+        {
+            "key": "GuidanceTips_CharaQuest",
+            "value": "캐릭터 퀘스트"
+        },
+        {
+            "key": "GuidanceTips_ItemExchange",
+            "value": "아이템 교환"
+        },
+        {
+            "key": "GuidanceTips_SupportUnit",
+            "value": "동행자 설정"
+        },
+        {
+            "key": "GuidanceTips_Tower",
+            "value": "백자탑"
+        },
+        {
+            "key": "GuidanceTips_Pointquest",
+            "value": "심판의 시련"
+        },
+        {
+            "key": "GuidanceTips_LimitedGuildBattle",
+            "value": "기간 한정 길드 전투"
+        },
+        {
+            "key": "GuidanceTips_GuildHunt",
+            "value": "길드 퀘스트"
+        },
+        {
+            "key": "GuidanceTips_ExJob",
+            "value": "EX 직업"
+        },
+        {
+            "key": "GuidanceTips_Mastery",
+            "value": "마스터리"
+        },
+        {
+            "key": "GuidanceTips_BattleRoad",
+            "value": "선택 퀘스트"
+        },
+        {
+            "key": "GuidanceTips_DraftMatch",
+            "value": "픽업 매치"
+        },
+        {
+            "key": "GuidanceTips_GuildVCBarracks",
+            "value": "비전 카드의 제단"
+        },
+        {
+            "key": "GuidanceTips_GuildRaid",
+            "value": "길드 레이드"
+        },
+        {
+            "key": "GuidanceTips_LeagueGuildBattle",
+            "value": "길드 전투 정상 결전"
+        },
+        {
+            "key": "GuidanceTips_TrustMateria",
+            "value": "신명석"
+        },
+        {
+            "key": "GuidanceTips_Archive",
+            "value": "이계의 서고"
+        }
+    ]
+}

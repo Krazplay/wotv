@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Has sido blando con ellos o qué?"
+        },
+        {
+            "key": "002",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "003",
+            "value": "No te hagas el tonto…"
+        },
+        {
+            "key": "004",
+            "value": "Solo necesito mirarte a la cara para saber si dices la verdad o no."
+        },
+        {
+            "key": "005",
+            "value": "…"
+        },
+        {
+            "key": "006",
+            "value": "Tienes que entender que, si sigues actuando así…"
+        },
+        {
+            "key": "007",
+            "value": "¡Espera un momento!"
+        },
+        {
+            "key": "008",
+            "value": "Nuestra misión es asesinar a lord Da-darío, ¿verdad?"
+        },
+        {
+            "key": "009",
+            "value": "Pero ¿por qué también a los soldados de Hourne?…"
+        },
+        {
+            "key": "010",
+            "value": "Además, hasta hace unos minutos…, hemos estado confraternizando como si fuéramos aliados."
+        },
+        {
+            "key": "011",
+            "value": "¿Eso era lo que querías decir?"
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "En cuanto completemos esta misión, vas a ir de vuelta a la Guarida de la Serpiente para seguir entrenando."
+        },
+        {
+            "key": "014",
+            "value": "Así que vete preparando."
+        },
+        {
+            "key": "015",
+            "value": "…"
+        },
+        {
+            "key": "016",
+            "value": "Bueno, ¡pues a luchar se ha dicho!"
+        },
+        {
+            "key": "017",
+            "value": "Vamos a los aposentos de Darío."
+        },
+        {
+            "key": "018",
+            "value": "Allí nos encontraremos con Vinera… y nos encargaremos de él."
+        }
+    ]
+}

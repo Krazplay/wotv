@@ -1,0 +1,384 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... Majestät! Ihr wurdet also tatsächlich eingesperrt!"
+        },
+        {
+            "key": "002",
+            "value": "Ildyra ..."
+        },
+        {
+            "key": "003",
+            "value": "Tretet zurück, Euer Majestät!"
+        },
+        {
+            "key": "004",
+            "value": "Wir werden die Zellentür mit unserer Magie wegfegen!"
+        },
+        {
+            "key": "005",
+            "value": "Verdammt, es bringt nichts!"
+        },
+        {
+            "key": "006",
+            "value": "Sie hat nicht eine Delle ... Was ist da los ..."
+        },
+        {
+            "key": "007",
+            "value": "Hier werden normalerweise Verbrecher weggesperrt; so einfach wird die Tür nicht nachgeben."
+        },
+        {
+            "key": "008",
+            "value": "Aber wir können nicht aufgeben. Wir müssen die Königin unter allen Umständen hier rausholen."
+        },
+        {
+            "key": "009",
+            "value": "Nein, das wird nicht möglich sein. Lasst ab."
+        },
+        {
+            "key": "010",
+            "value": "Aber Majestät, wir können Euch doch nicht hier drinnen lassen. Wir vier sind schließlich Eure Leibgarde „Lumen“."
+        },
+        {
+            "key": "011",
+            "value": "Für euch gibt es im Moment etwas Wichtigeres zu tun."
+        },
+        {
+            "key": "012",
+            "value": "Wollt Ihr etwa, dass wir Seiner Majestät König Yrde folgen?"
+        },
+        {
+            "key": "013",
+            "value": "Ildyra – was sagst du da? König Yrde ... folgen?"
+        },
+        {
+            "key": "014",
+            "value": "... In der Tat."
+        },
+        {
+            "key": "015",
+            "value": "Wovon redest du?"
+        },
+        {
+            "key": "016",
+            "value": "Heißt das etwa, dass der König gar nicht mehr hier im Schloss ...?"
+        },
+        {
+            "key": "017",
+            "value": "Verzeiht. Ich konnte euch nichts sagen."
+        },
+        {
+            "key": "018",
+            "value": "König Yrde und Prinz Mont haben das Schloss vorhin durch das hintere Tor verlassen."
+        },
+        {
+            "key": "019",
+            "value": "A-Aber das ..."
+        },
+        {
+            "key": "020",
+            "value": "Sie sind ohne Königin Helena geflohen ...?"
+        },
+        {
+            "key": "021",
+            "value": "Dies geschah aus meinem Wunsch heraus. Ich entschied mich, hier zu bleiben."
+        },
+        {
+            "key": "022",
+            "value": "Und ich bin nicht alleine hier – auch „Fortem“ hält sich im Schloss auf."
+        },
+        {
+            "key": "023",
+            "value": "Ist das denn nicht nur ein Versuch, Zeit zu schinden, damit der König fliehen kann ...?"
+        },
+        {
+            "key": "024",
+            "value": "Sylma, sei vorsichtig mit dem, was du da sagst."
+        },
+        {
+            "key": "025",
+            "value": "A-Ah, Verzeihung ..."
+        },
+        {
+            "key": "026",
+            "value": "Wenn selbst unsere eigenen Leute das glauben, scheint die Strategie des Königs aufgegangen zu sein."
+        },
+        {
+            "key": "027",
+            "value": "Die ... Strategie Seiner Majestät?"
+        },
+        {
+            "key": "028",
+            "value": "... Der König und Mont laufen dem Tod in die Arme, um Styr und mich zu erretten."
+        },
+        {
+            "key": "029",
+            "value": "Majestät, was bedeutet das?"
+        },
+        {
+            "key": "030",
+            "value": "M-Meint Ihr etwa ... dass Wezette uns hintergehen könnte?!"
+        },
+        {
+            "key": "031",
+            "value": "Dies halte ich für nicht unwahrscheinlich."
+        },
+        {
+            "key": "032",
+            "value": "Deswegen hat der König Mont und Styr auf verschiedene Pfade geschickt ..."
+        },
+        {
+            "key": "033",
+            "value": "Aber es kann doch auch sein, dass Wezette und Leonis wie bisher auch als Allianz zusammen weiterkämpfen ..."
+        },
+        {
+            "key": "034",
+            "value": "Ja, auch diese Möglichkeit besteht."
+        },
+        {
+            "key": "035",
+            "value": "... Der König hielt es jedoch für zu gefährlich, darauf zu vertrauen."
+        },
+        {
+            "key": "036",
+            "value": "Doch warum war es dann notwendig, die leonische Königsfamilie auseinanderzureißen?"
+        },
+        {
+            "key": "037",
+            "value": "Es wirkt beinahe so, als interessierte ihn nur, dass zumindest einer überlebt ..."
+        },
+        {
+            "key": "038",
+            "value": "Unser König ist bereit ... an Styrs Klinge sein Ende zu finden. Nein, nicht nur er – auch Mont, wie ich befürchte ..."
+        },
+        {
+            "key": "039",
+            "value": "Oh nein ..."
+        },
+        {
+            "key": "040",
+            "value": "Sollte dies geschehen, wird Styr als wichtiges Werkzeug Sadalis weiterleben können."
+        },
+        {
+            "key": "041",
+            "value": "Solange er sich nur den Ring, den Mont bei sich trägt, zu eigen machen kann, wird es gewiss so kommen ..."
+        },
+        {
+            "key": "042",
+            "value": "..."
+        },
+        {
+            "key": "043",
+            "value": "Der König ahnte, dass wir uns eines Tages in dieser Lage wiederfinden würden."
+        },
+        {
+            "key": "044",
+            "value": "Deswegen hielt er Styr von den Schlachtfeldern fern, um nicht den Zorn der umgebenden Nationen zu provozieren."
+        },
+        {
+            "key": "045",
+            "value": "All dies ist Teil der Pflicht, die uns auferlegt <br>wurde ..."
+        },
+        {
+            "key": "046",
+            "value": "Uns, dem Wächter des Landes Leonis ..."
+        },
+        {
+            "key": "047",
+            "value": "Dem Wächter ...? Was bedeutet das ...?"
+        },
+        {
+            "key": "048",
+            "value": "Ich werde euch nun mit einer Aufgabe betrauen."
+        },
+        {
+            "key": "049",
+            "value": "Geht in die Bibliothek und verbrennt den Codex Leonicus."
+        },
+        {
+            "key": "050",
+            "value": "Den Codex ... Leonicus?"
+        },
+        {
+            "key": "051",
+            "value": "Eine antike Niederschrift, in die selbst mir nur bei einigen ausgewählten Stellen Einsicht gewährt wurde."
+        },
+        {
+            "key": "052",
+            "value": "In ihr finden sich Informationen zu dem Pakt mit der Gottheit sowie zu den Orten, an denen die Relikte der Altvorderen versteckt wurden."
+        },
+        {
+            "key": "053",
+            "value": "Zum ... Pakt mit der Gottheit?!"
+        },
+        {
+            "key": "054",
+            "value": "Bedeutet dies etwa, dass noch weitere Relikte der Altvorderen existieren?!"
+        },
+        {
+            "key": "055",
+            "value": "Sollte der Codex Sadali in die Hände fallen ... würde ihm das Zugang zu einer Macht verschaffen, die sogar die der Gottheit selbst in den Schatten stellt. "
+        },
+        {
+            "key": "056",
+            "value": "Bevor das passiert, muss er unbedingt zerstört werden ..."
+        },
+        {
+            "key": "057",
+            "value": "..."
+        },
+        {
+            "key": "058",
+            "value": "Vergebt mir, Euer Majestät. Doch das kann ich nicht tun."
+        },
+        {
+            "key": "059",
+            "value": "Ildyra ... Weshalb ...?"
+        },
+        {
+            "key": "060",
+            "value": "Ist der Codex denn nicht der Schlüssel zur Restauration Leonis‘?"
+        },
+        {
+            "key": "061",
+            "value": "Der Schlüssel ...?"
+        },
+        {
+            "key": "062",
+            "value": "König Yrde ist bereits nach Wezette aufgebrochen, doch wenn wir es schaffen, ihm den Codex zu bringen ..."
+        },
+        {
+            "key": "063",
+            "value": "Könnte das sicherstellen, dass Khuris Gunst Leonis weiterhin erhalten bleibt ...?"
+        },
+        {
+            "key": "064",
+            "value": "Ja, denn dies würde bezeugen, dass sich auf leonischem Grund und Boden noch mehr Relikte der Altvorderen befinden."
+        },
+        {
+            "key": "065",
+            "value": "Es mag sich zwar nicht mit dem Plan Seiner Majestät decken, doch ..."
+        },
+        {
+            "key": "066",
+            "value": "Das ist die einzige Möglichkeit, König Yrde und Prinz Mont zu retten ..."
+        },
+        {
+            "key": "067",
+            "value": "..."
+        },
+        {
+            "key": "068",
+            "value": "Ich bitte Euch, Euer Majestät!"
+        },
+        {
+            "key": "069",
+            "value": "Auch ich kann Mont nicht einfach den Wölfen zum Fraß vorwerfen."
+        },
+        {
+            "key": "070",
+            "value": "Selbst wenn es diesen Krieg noch weiter in die Länge ziehen sollte ... Als seine Mutter will ich zumindest versuchen, dem reißenden Strom zu trotzen ..."
+        },
+        {
+            "key": "071",
+            "value": "Ildyra, wirst du es für mich tun?"
+        },
+        {
+            "key": "072",
+            "value": "Selbstverständlich, meine Königin."
+        },
+        {
+            "key": "073",
+            "value": "Bist du dir deiner Worte sicher ...? Dieser Auftrag wird euch alles abverlangen, im schlimmsten Falle vielleicht sogar euer Leben ..."
+        },
+        {
+            "key": "074",
+            "value": "Wir könnten nicht „Lumen“, Eure Leibgarde, sein ..."
+        },
+        {
+            "key": "075",
+            "value": "... Wenn uns unser Leben zu schade wäre, Majestät."
+        },
+        {
+            "key": "076",
+            "value": "Aber ... falls Wezette mit uns brechen sollte, bevor wir das Buch zustellen können ..."
+        },
+        {
+            "key": "077",
+            "value": "Dann bleibt euch nichts anderes übrig, als es zu verbrennen ... Habt ihr mich verstanden?"
+        },
+        {
+            "key": "078",
+            "value": "Verstanden, Euer Majestät."
+        },
+        {
+            "key": "079",
+            "value": "Hier, der Bibliotheksschlüssel."
+        },
+        {
+            "key": "080",
+            "value": "Können wir Euch denn nicht zuerst befreien und dann gemeinsam in die Bibliothek gehen ...?"
+        },
+        {
+            "key": "081",
+            "value": "Nein, das ist nicht möglich."
+        },
+        {
+            "key": "082",
+            "value": "Aber weshalb ...?"
+        },
+        {
+            "key": "083",
+            "value": "Wie es scheint, werden Styr und die Mitglieder „Fortems“ gerade an einem anderen Ort einem Verhör unterzogen."
+        },
+        {
+            "key": "084",
+            "value": "Wie könnte ich sie und meinen Sohn zurücklassen?"
+        },
+        {
+            "key": "085",
+            "value": "D-Das ..."
+        },
+        {
+            "key": "086",
+            "value": "Letzten Endes bin ich freiwillig zur Geisel geworden."
+        },
+        {
+            "key": "087",
+            "value": "..."
+        },
+        {
+            "key": "088",
+            "value": "Um mich bedarf es keiner Sorge. Zweifellos bin ich ihnen lebendig nützlicher als tot."
+        },
+        {
+            "key": "089",
+            "value": "Selbst Muraga dürfte das klar sein."
+        },
+        {
+            "key": "090",
+            "value": "... Wie Ihr wünscht, Majestät."
+        },
+        {
+            "key": "091",
+            "value": "Im Schloss halten sich gewiss unzählige fennische Soldaten auf."
+        },
+        {
+            "key": "092",
+            "value": "Begebt euch ohne Umweg zu Elsirelles Gemach."
+        },
+        {
+            "key": "093",
+            "value": "Elsirelle ...? Selbst sie ist doch bestimmt bereits geflohen ..."
+        },
+        {
+            "key": "094",
+            "value": "Nein, sie hält sich vermutlich in ihrem Zimmer auf. Mit ihr als Eskorte sollte es euch ein Leichtes sein, bis zur Bibliothek vorzudringen."
+        },
+        {
+            "key": "095",
+            "value": "... Zu Befehl. Wir werden sie aufsuchen."
+        }
+    ]
+}

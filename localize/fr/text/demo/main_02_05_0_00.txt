@@ -1,0 +1,248 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "… !"
+        },
+        {
+            "key": "002",
+            "value": "Kitone."
+        },
+        {
+            "key": "003",
+            "value": "Je reviens de Wezett."
+        },
+        {
+            "key": "004",
+            "value": "Tu as des nouvelles de Graziella ?"
+        },
+        {
+            "key": "005",
+            "value": "Elle travaille dur aux côtés de son peuple pour remettre le pays sur pied."
+        },
+        {
+            "key": "006",
+            "value": "C'est qu'elle va bien donc. Parfait."
+        },
+        {
+            "key": "007",
+            "value": "Mont, je devrais t'accompagner…"
+        },
+        {
+            "key": "008",
+            "value": "Non, ta présence est essentielle ici."
+        },
+        {
+            "key": "009",
+            "value": "Tu n'ignores pas les rapports qui parlent de l'avancement des préparatifs de guerre de l'Église."
+        },
+        {
+            "key": "010",
+            "value": "Qui sait si Sadali vise Rundall ou Hourne…"
+        },
+        {
+            "key": "011",
+            "value": "Même avec Schuzelt qui commande « Solidus », nos défenses ne sont pas impénétrables."
+        },
+        {
+            "key": "012",
+            "value": "Je sais bien, mais…"
+        },
+        {
+            "key": "013",
+            "value": "On dirait que tu as oublié que tu allais t'attaquer à Rundall et Heindler en même temps !"
+        },
+        {
+            "key": "014",
+            "value": "Hourne et Leonis alliés ont prouvé leur puissance, mais rien ne garantit que nous ayons la moindre chance…"
+        },
+        {
+            "key": "015",
+            "value": "Adelard, c'est ce que tu penses aussi ?"
+        },
+        {
+            "key": "016",
+            "value": "Je… Je m'excuse, Sire, mais en l'état actuel des choses…"
+        },
+        {
+            "key": "017",
+            "value": "Nous avons eu tout le loisir d'apprécier la puissance de Rundall quand nous nous battions à ses côtés contre Wezett."
+        },
+        {
+            "key": "018",
+            "value": "Je ferais preuve de prudence, mais celle-ci ne doit pas m'empêcher d'agir quand je le dois."
+        },
+        {
+            "key": "019",
+            "value": "Mont…"
+        },
+        {
+            "key": "020",
+            "value": "Machalie, entends mes arguments."
+        },
+        {
+            "key": "021",
+            "value": "Si Rundall prend Ovis, ils en feront la porte d'entrée de leur percée vers nous, vers l'est d'Ardra."
+        },
+        {
+            "key": "022",
+            "value": "Après Ovis, c'est à Hourne qu'ils s'en prendront…"
+        },
+        {
+            "key": "023",
+            "value": "Il faut les arrêter avant cela, quoi qu'il en coûte."
+        },
+        {
+            "key": "024",
+            "value": "Tu as raison."
+        },
+        {
+            "key": "025",
+            "value": "Mon père s'inquiétait beaucoup de cette menace."
+        },
+        {
+            "key": "026",
+            "value": "C'est précisément ce qui l'a poussé à accepter cette alliance humiliante avec Fennes…"
+        },
+        {
+            "key": "027",
+            "value": "Je vais rester au château, mais je vous cède Saliah, Grahl et Reychess de bon cœur si besoin."
+        },
+        {
+            "key": "028",
+            "value": "Ce sont d'excellents guerriers… Mais peut-être de piètres compagnons, j'en conviens."
+        },
+        {
+            "key": "029",
+            "value": "Ta propre sœur aussi ?"
+        },
+        {
+            "key": "030",
+            "value": "Cela va sans dire."
+        },
+        {
+            "key": "031",
+            "value": "Il y a cependant quelque chose que je dois vous dire. À propos de Reychess…"
+        },
+        {
+            "key": "032",
+            "value": "*Soupire*"
+        },
+        {
+            "key": "033",
+            "value": "Et moi qui me faisais une joie à l'idée de voyager avec mon frère !"
+        },
+        {
+            "key": "034",
+            "value": "Je suis vraiment désolé."
+        },
+        {
+            "key": "035",
+            "value": "C'est pas de ta faute, va."
+        },
+        {
+            "key": "036",
+            "value": "Je ne parlais pas de ton programme contrarié."
+        },
+        {
+            "key": "037",
+            "value": "Ah oui ? De quoi, alors ?"
+        },
+        {
+            "key": "038",
+            "value": "J'ai appris que Reychess nous accompagnait."
+        },
+        {
+            "key": "039",
+            "value": "Ouais, il paraît."
+        },
+        {
+            "key": "040",
+            "value": "Mais tu sais, c'est sans doute pour le mieux."
+        },
+        {
+            "key": "041",
+            "value": "Si elle était restée bien au chaud ici avec mon frère alors que j'étais forcée de partir… Ben, j'aurais dû mettre le feu au château."
+        },
+        {
+            "key": "042",
+            "value": "En fait…"
+        },
+        {
+            "key": "043",
+            "value": "Cette expédition doit nous donner l'occasion de deviner les vraies motivations de Reychess."
+        },
+        {
+            "key": "044",
+            "value": "Oui, Adelard m'en a parlé."
+        },
+        {
+            "key": "045",
+            "value": "Vraiment ?"
+        },
+        {
+            "key": "046",
+            "value": "Elle devait servir Rundall, à la base, non ?"
+        },
+        {
+            "key": "047",
+            "value": "Mais elle est tombée amoureuse de mon frère et elle est partie pour Hourne à la place…"
+        },
+        {
+            "key": "048",
+            "value": "Ça fait pitié… Mais je comprends."
+        },
+        {
+            "key": "049",
+            "value": "Si les actions de Reychess te semblent douteuses…"
+        },
+        {
+            "key": "050",
+            "value": "Oh oui, ne t'inquiète pas. Je la réduirai en cendres avec la boule de feu la plus cruelle et la plus dévastatrice de ma collection."
+        },
+        {
+            "key": "051",
+            "value": "Tiens, c'est rare de vous voir tous les deux comme ça."
+        },
+        {
+            "key": "052",
+            "value": "J'espère que je ne vous dérange pas."
+        },
+        {
+            "key": "053",
+            "value": "Pourquoi tu nous dérangerais ?"
+        },
+        {
+            "key": "054",
+            "value": "Vous faites un joli couple. Un peu comme moi et Adelard."
+        },
+        {
+            "key": "055",
+            "value": "…"
+        },
+        {
+            "key": "056",
+            "value": "Saliah ? Youhou ? Tu vas vraiment me laisser dire ça sans réagir ?"
+        },
+        {
+            "key": "057",
+            "value": "Bataillon de sauvetage d'Ovis, en rangs !"
+        },
+        {
+            "key": "058",
+            "value": "Voilà nos armées alliées en route vers Ovis."
+        },
+        {
+            "key": "059",
+            "value": "Notre unique objectif : sauver le royaume."
+        },
+        {
+            "key": "060",
+            "value": "Nous ne pouvons tolérer plus longtemps l'oppression de Rundall et Heindler."
+        },
+        {
+            "key": "061",
+            "value": "En avant ! Le peuple d'Ovis compte sur nous."
+        }
+    ]
+}

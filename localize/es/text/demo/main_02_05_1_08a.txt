@@ -1,0 +1,444 @@
+﻿{
+    "infos": [
+        {
+            "key": "268",
+            "value": "El miasma del cristal no llega hasta aquí."
+        },
+        {
+            "key": "269",
+            "value": "Ya no es necesario el equipo de protección."
+        },
+        {
+            "key": "270",
+            "value": "Bueno, regresemos a Santocristal."
+        },
+        {
+            "key": "271",
+            "value": "¿Acaso no quieres dejar atrás tu tierra natal?"
+        },
+        {
+            "key": "272",
+            "value": "…"
+        },
+        {
+            "key": "273",
+            "value": "¿No has escuchado a lady Susurro? Es hora de irse."
+        },
+        {
+            "key": "274",
+            "value": "¡Ugh!..."
+        },
+        {
+            "key": "275",
+            "value": "¡¿Quién anda ahí?!"
+        },
+        {
+            "key": "276",
+            "value": "¿Quiénes sois?..."
+        },
+        {
+            "key": "277",
+            "value": "Rafala, y ella es Elisa."
+        },
+        {
+            "key": "278",
+            "value": "También conocidas como... las Espinas Reales."
+        },
+        {
+            "key": "279",
+            "value": "Las Espinas Reales..."
+        },
+        {
+            "key": "280",
+            "value": "¿Y osáis molestarnos sabiendo que esta es lady Susurro?"
+        },
+        {
+            "key": "281",
+            "value": "Por supuesto."
+        },
+        {
+            "key": "282",
+            "value": "Sabíamos que apareceríais tarde o temprano. Solo teníamos que ser pacientes."
+        },
+        {
+            "key": "283",
+            "value": "¡Ja! ¡No tenéis nada que hacer contra nosotros!"
+        },
+        {
+            "key": "284",
+            "value": "Ese tipo de mentalidad es la que hace que soldados como tú acaben convertidos en rodajas."
+        },
+        {
+            "key": "285",
+            "value": "¡¿Qué?!"
+        },
+        {
+            "key": "286",
+            "value": "Tenemos un gran número de compañeros a nuestra disposición, como podéis ver."
+        },
+        {
+            "key": "287",
+            "value": "Stern, ¿de qué lado te pondrás?"
+        },
+        {
+            "key": "288",
+            "value": "No me pondré de ningún lado en esto."
+        },
+        {
+            "key": "289",
+            "value": "…"
+        },
+        {
+            "key": "290",
+            "value": "No le debo nada a Sadali. Ni deudas ni fidelidad."
+        },
+        {
+            "key": "291",
+            "value": "¡Traidor!..."
+        },
+        {
+            "key": "292",
+            "value": "¿Seguro que queréis ir por ese camino?"
+        },
+        {
+            "key": "293",
+            "value": "Rara vez dejo que los necios que me apuntan con su espada escapen."
+        },
+        {
+            "key": "294",
+            "value": "¿Estas personas... no son de Leonis?"
+        },
+        {
+            "key": "295",
+            "value": "Ese es un lugar que hace mucho que abandoné. Sus gentes no me preocupan."
+        },
+        {
+            "key": "296",
+            "value": "Y además..."
+        },
+        {
+            "key": "297",
+            "value": "Dudo que necesiten mi ayuda."
+        },
+        {
+            "key": "298",
+            "value": "Creo que nosotros tenemos algo que decir al respecto..."
+        },
+        {
+            "key": "299",
+            "value": "Lili..."
+        },
+        {
+            "key": "300",
+            "value": "¡...!"
+        },
+        {
+            "key": "301",
+            "value": "No..."
+        },
+        {
+            "key": "302",
+            "value": "Parecen sorprendidos."
+        },
+        {
+            "key": "303",
+            "value": "Puedo verlo en sus rostros miserables, ¿no?"
+        },
+        {
+            "key": "304",
+            "value": "Hemos estado observando de cerca ese escondite que tenéis."
+        },
+        {
+            "key": "305",
+            "value": "Parece que esta renacuaja se ha quedado solita protegiendo el fuerte, ¿no?"
+        },
+        {
+            "key": "306",
+            "value": "Esos terribles recuerdos de sus amigos siendo destripados delante de sus propios ojos deben haberle sacudido el cuerpo cuando nos vio."
+        },
+        {
+            "key": "307",
+            "value": "Se sentó allí temblando. Ni siquiera gritó."
+        },
+        {
+            "key": "308",
+            "value": "Tranquilidad..."
+        },
+        {
+            "key": "309",
+            "value": "¿Sabéis qué le ocurrirá a la renacuaja si no jugáis a nuestro juego?"
+        },
+        {
+            "key": "310",
+            "value": "Esto no pinta bien..."
+        },
+        {
+            "key": "311",
+            "value": "¿Qué hacemos?..."
+        },
+        {
+            "key": "312",
+            "value": "Deja de llamarme... renacuaja..."
+        },
+        {
+            "key": "313",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "314",
+            "value": "Tengo un nombre increíble y adorable: ¡Lili!"
+        },
+        {
+            "key": "315",
+            "value": "¿Eh? ¿Qué dices?..."
+        },
+        {
+            "key": "316",
+            "value": "Mi corazón estaba roto..."
+        },
+        {
+            "key": "317",
+            "value": "No quería morir. Estaba preparada para hacer lo que fuese necesario para sobrevivir."
+        },
+        {
+            "key": "318",
+            "value": "Pero después de que Elisa y los demás me ayudasen, lo único que deseaba era la muerte. "
+        },
+        {
+            "key": "319",
+            "value": "No podía parar de preguntarme por qué era la única que estaba viva."
+        },
+        {
+            "key": "320",
+            "value": "Para. ¡No debes culparte a ti misma!"
+        },
+        {
+            "key": "321",
+            "value": "Incluso empecé a pensar que yo era la que debería haber muerto."
+        },
+        {
+            "key": "322",
+            "value": "Lloraba todos los días hasta más no poder. Aun así, mis lágrimas nunca se secaban."
+        },
+        {
+            "key": "323",
+            "value": "Pero entonces..."
+        },
+        {
+            "key": "324",
+            "value": "Me di cuenta de que había algo que debía hacer."
+        },
+        {
+            "key": "325",
+            "value": "Sobreviví a todo esto para asegurarme de que Valaido y Sosha fuesen vengados."
+        },
+        {
+            "key": "326",
+            "value": "Lili..."
+        },
+        {
+            "key": "327",
+            "value": "¿Tú eres la que va a llevar a cabo esa venganza?"
+        },
+        {
+            "key": "328",
+            "value": "Ja, ja, ¡esa sí que es buena, ¿no?!"
+        },
+        {
+            "key": "329",
+            "value": "¿Quieres venganza?"
+        },
+        {
+            "key": "330",
+            "value": "Inténtalo."
+        },
+        {
+            "key": "331",
+            "value": "¡Acaba con nosotros si puedes! ¡Venga, renacuaja! ¡Atrévete!"
+        },
+        {
+            "key": "332",
+            "value": "No tengo por qué ser yo quien acabe con vosotros."
+        },
+        {
+            "key": "333",
+            "value": "¿De qué estás hablando?"
+        },
+        {
+            "key": "334",
+            "value": "Pensabais que había perdido el conocimiento, así que habéis hablado de muchas cosas por el camino, ¿no es así?"
+        },
+        {
+            "key": "335",
+            "value": "Eh... ¿Muchas cosas?..."
+        },
+        {
+            "key": "336",
+            "value": "E-estaba fingiendo que se había desmayado..."
+        },
+        {
+            "key": "337",
+            "value": "Hice lo que tuve que hacer, y os doy gracias por ello..."
+        },
+        {
+            "key": "338",
+            "value": "¡Cierra la boca! ¡Si no lo haces, te la cerraremos nosotros!"
+        },
+        {
+            "key": "339",
+            "value": "¡Hazlo! ¡No podemos permitir que diga tonterías!"
+        },
+        {
+            "key": "340",
+            "value": "Ya basta."
+        },
+        {
+            "key": "341",
+            "value": "¡¿Eh?!..."
+        },
+        {
+            "key": "342",
+            "value": "¿Por qué nos detienes?"
+        },
+        {
+            "key": "343",
+            "value": "Porque esto me parece fascinante."
+        },
+        {
+            "key": "344",
+            "value": "¡Agh!"
+        },
+        {
+            "key": "345",
+            "value": "Urghhh..."
+        },
+        {
+            "key": "346",
+            "value": "Habla, niña."
+        },
+        {
+            "key": "347",
+            "value": "Estaban hablando de lo que pasó en el castillo del Yunque. De entre las reliquias ancestrales que nos robasteis, ocultasteis una para vosotros, ¿no?"
+        },
+        {
+            "key": "348",
+            "value": "¡Eh...!"
+        },
+        {
+            "key": "349",
+            "value": "¡N-no sabemos de lo que hablas!"
+        },
+        {
+            "key": "350",
+            "value": "Qué interesante. Explicaos..."
+        },
+        {
+            "key": "351",
+            "value": "Es... una historia muy larga..."
+        },
+        {
+            "key": "352",
+            "value": "¡Están pensando rebelarse contra Sadali!"
+        },
+        {
+            "key": "353",
+            "value": "No hemos dicho nada de eso, ¿verdad, hermano?"
+        },
+        {
+            "key": "354",
+            "value": "Solo hablamos de esas cosas cuando no hay nadie más cerca, ¿no?"
+        },
+        {
+            "key": "355",
+            "value": "Hermano…"
+        },
+        {
+            "key": "356",
+            "value": "¡Oh, no!…"
+        },
+        {
+            "key": "357",
+            "value": "Dorand, Gargas."
+        },
+        {
+            "key": "358",
+            "value": "Ya decidiré qué hacer con vosotros de vuelta en Santocristal."
+        },
+        {
+            "key": "359",
+            "value": "El crimen de conspirar contra lord Sadali es el más… imperdonable."
+        },
+        {
+            "key": "360",
+            "value": "¿Qu-qué hacemos, hermano?"
+        },
+        {
+            "key": "361",
+            "value": "¿Tienes que preguntar? Vamos de cabeza a la guillotina..."
+        },
+        {
+            "key": "362",
+            "value": "¡¿Va-van a cortarnos las cabezas?!"
+        },
+        {
+            "key": "363",
+            "value": "Supongo que tendremos que asegurarnos de que nadie nos descubra..."
+        },
+        {
+            "key": "364",
+            "value": "¿Y qué propones?"
+        },
+        {
+            "key": "365",
+            "value": "Susurro no tiene nada que hacer contra nosotros sin refuerzos, ¿no?"
+        },
+        {
+            "key": "366",
+            "value": "¿Sabes qué? Creo que tienes razón. Lo único que veo es a Susurro y a una panda de soldados."
+        },
+        {
+            "key": "367",
+            "value": "Bien, pues entonces solo hay una cosa que podemos hacer..."
+        },
+        {
+            "key": "368",
+            "value": "Lili, es un alivio ver que estás bien."
+        },
+        {
+            "key": "369",
+            "value": "Pensaba que era el fin cuando vi que te tenían."
+        },
+        {
+            "key": "370",
+            "value": "Siento haberos preocupado..."
+        },
+        {
+            "key": "371",
+            "value": "Bueno, hemos tomado una situación en desventaja y la hemos vuelto a nuestro favor."
+        },
+        {
+            "key": "372",
+            "value": "Así es. En cualquier caso, te debemos una."
+        },
+        {
+            "key": "373",
+            "value": "Je, je."
+        },
+        {
+            "key": "374",
+            "value": "Bien..."
+        },
+        {
+            "key": "375",
+            "value": "Si acabamos con Susurro ahora, seguro que Santocristal se verá debilitado."
+        },
+        {
+            "key": "376",
+            "value": "¿Creéis que tenéis lo que hace falta?"
+        },
+        {
+            "key": "377",
+            "value": "¡Estás a punto de verlo por ti misma!"
+        }
+    ]
+}

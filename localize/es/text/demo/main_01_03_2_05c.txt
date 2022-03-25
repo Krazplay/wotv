@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ya nos hemos deshecho de la mayoría de los enemigos. Por fin podemos marcharnos de aquí."
+        },
+        {
+            "key": "002",
+            "value": "¿Eh? ¿Y esa chica?"
+        },
+        {
+            "key": "003",
+            "value": "No tienes de qué preocuparte, tu aldea está a salvo."
+        },
+        {
+            "key": "004",
+            "value": "Y, en menos de lo que canta un gallo, ya nos habremos marchado."
+        },
+        {
+            "key": "005",
+            "value": "En realidad, me preguntaba… si podría acompañaros…"
+        },
+        {
+            "key": "006",
+            "value": "¿Quieres unirte a nuestro grupo?"
+        },
+        {
+            "key": "007",
+            "value": "Perdona, pero creo que estarías más segura con otra gente."
+        },
+        {
+            "key": "008",
+            "value": "Tenemos a Fennes pisándonos los talones."
+        },
+        {
+            "key": "009",
+            "value": "Os prometo que no seré ninguna carga. Por cierto, me llamo Minwu."
+        },
+        {
+            "key": "010",
+            "value": "Mmm."
+        },
+        {
+            "key": "011",
+            "value": "Padre, ni se te ocurra. No podemos arrastrar a ningún inocente a este conflicto."
+        },
+        {
+            "key": "012",
+            "value": "Os dirigís hacia Wezette, ¿verdad?"
+        },
+        {
+            "key": "013",
+            "value": "Correcto."
+        },
+        {
+            "key": "014",
+            "value": "Podría haceros de guía, me conozco estas tierras como la palma de mi mano."
+        },
+        {
+            "key": "015",
+            "value": "¿Por qué estás dispuesta a tomarte tantas molestias para ayudarnos?"
+        },
+        {
+            "key": "016",
+            "value": "Sobre todo, después de haber puesto tu aldea en peligro."
+        },
+        {
+            "key": "017",
+            "value": "Me ha conmovido la forma en que decidisteis seguir vuestro propio camino, príncipe Mont. Por eso…"
+        },
+        {
+            "key": "018",
+            "value": "¿Cómo? ¿Yo?"
+        },
+        {
+            "key": "019",
+            "value": "Ja, ja, ja. Entonces, acompáñalo en el camino que ha decidido seguir. ¡Venga, serás nuestra guía!"
+        },
+        {
+            "key": "020",
+            "value": "Sí, majestad. Por favor, seguidme."
+        },
+        {
+            "key": "021",
+            "value": "Pa-padre…"
+        }
+    ]
+}

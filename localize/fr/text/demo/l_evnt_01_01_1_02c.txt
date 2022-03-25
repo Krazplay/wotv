@@ -1,0 +1,300 @@
+﻿{
+    "infos": [
+        {
+            "key": "063",
+            "value": "Seuls les faibles ont besoin de combattre en meute. Ils ne sont rien face à moi."
+        },
+        {
+            "key": "064",
+            "value": "Toi en revanche… Tu as l'air d'avoir lutté."
+        },
+        {
+            "key": "065",
+            "value": "Pa-pardon. C'était mon premier vrai combat…"
+        },
+        {
+            "key": "066",
+            "value": "Ce n'est pas une excuse. Je t'ai dit que les faibles n'avaient pas leur place au sein des Guerriers des cristaux."
+        },
+        {
+            "key": "067",
+            "value": "Pour commencer, tu bouges trop. Analyse les déplacements de l'ennemi avant d'agir toi-même."
+        },
+        {
+            "key": "068",
+            "value": "Tu as laissé les monstres te mener par le bout du nez. C'est toi qui devrais imposer le rythme de la bataille."
+        },
+        {
+            "key": "069",
+            "value": "On ne tirera rien de toi si tu continues comme ça. Tu dois devenir plus fort, je me suis bien faite comprendre ?"
+        },
+        {
+            "key": "070",
+            "value": "Je… Merci pour votre franchise. Même si elle est un peu brutale."
+        },
+        {
+            "key": "071",
+            "value": "Ne perd pas de temps à t'apitoyer sur ton sort. Nous devons retrouver le cristal avant la tombée de la nuit."
+        },
+        {
+            "key": "072",
+            "value": "Les monstres redoublent d'ardeur en soirée."
+        },
+        {
+            "key": "073",
+            "value": "Ah ! Dame Jeaum, a-attendez !"
+        },
+        {
+            "key": "074",
+            "value": "On dirait un village… Il a l'air paisible."
+        },
+        {
+            "key": "075",
+            "value": "Je ressens la présence du cristal dans les parages. Voyons quels renseignements nous pouvons tirer de ces gens."
+        },
+        {
+            "key": "076",
+            "value": "Avez-vous vu un cristal fondamental ?"
+        },
+        {
+            "key": "077",
+            "value": "Un quoi ? De quoi vous parlez ?"
+        },
+        {
+            "key": "078",
+            "value": "Il devrait être quelque part ici. Dites-moi où il se trouve."
+        },
+        {
+            "key": "079",
+            "value": "Désolée M'dame, je ne vois pas de quoi vous parlez."
+        },
+        {
+            "key": "080",
+            "value": "Vous êtes complètement inutile."
+        },
+        {
+            "key": "081",
+            "value": "Eh ! Dites-donc ! Vous pourriez être plus polie si vous avez besoin d'aide."
+        },
+        {
+            "key": "082",
+            "value": "Qu'est-ce que je lui ai fait, à celui-là ? Bon, au suivant."
+        },
+        {
+            "key": "083",
+            "value": "Avez-vous vu un cristal fondamental ?"
+        },
+        {
+            "key": "084",
+            "value": "Un, euh, quoi ? Un cristal fondamental ?"
+        },
+        {
+            "key": "085",
+            "value": "Tout à fait. Il devrait être quelque part ici. Dites-moi où il se trouve."
+        },
+        {
+            "key": "086",
+            "value": "Ben, euh, moi, personnellement, non, j'ai rien vu. Navrée…"
+        },
+        {
+            "key": "087",
+            "value": "Ce n'est pas possible, les gens d'ici ne servent à rien !"
+        },
+        {
+            "key": "088",
+            "value": "Da-Dame Jeaum ! Vous ne pouvez pas… !"
+        },
+        {
+            "key": "089",
+            "value": "Quoi ? Je t'ai dit de ne pas traîner dans mes pattes."
+        },
+        {
+            "key": "090",
+            "value": "Vous n'apprendrez rien en vous y prenant comme ça. Vous ne faites que les mettre mal à l'aise."
+        },
+        {
+            "key": "091",
+            "value": "Je ne fais que dire la vérité, est-ce que c'est de ma faute s'ils ne savent pas l'affronter ?"
+        },
+        {
+            "key": "092",
+            "value": "Lai-Laissez-moi faire avec cette personne."
+        },
+        {
+            "key": "093",
+            "value": "Bonjour Madame, veuillez m'excuser. Avez-vous remarqué un changement autour du village, dernièrement ?"
+        },
+        {
+            "key": "094",
+            "value": "Un changement ? C'est vrai que maintenant que vous le dites…"
+        },
+        {
+            "key": "095",
+            "value": "Les monstres qui habitent dans les mines à quelques pas d'ici ont redoublé de férocité ces derniers temps."
+        },
+        {
+            "key": "096",
+            "value": "Certains affirment que c'est le signe d'une catastrophe à venir, mais la vérité c'est qu'on n'en sait rien…"
+        },
+        {
+            "key": "097",
+            "value": "Je vois… Vous n'avez pas aperçu d'objet scintillant dans cette zone-là, par hasard ?"
+        },
+        {
+            "key": "098",
+            "value": "Je n'y vais jamais. Il faut dire que c'est assez dangereux."
+        },
+        {
+            "key": "099",
+            "value": "J'aurais voulu plus vous aider, mais…"
+        },
+        {
+            "key": "100",
+            "value": "Au contraire !"
+        },
+        {
+            "key": "101",
+            "value": "C'est moi qui m'excuse pour le comportement de ma collègue."
+        },
+        {
+            "key": "102",
+            "value": "Merci beaucoup pour toutes ces informations !"
+        },
+        {
+            "key": "103",
+            "value": "Pfiou ! Personne ne vous a jamais dit que vous n'étiez pas très douée avec les gens ?"
+        },
+        {
+            "key": "104",
+            "value": "Aucun des autres Guerriers. Les gens ont simplement tendance à s'enfermer dans le silence quand je leur adresse la parole."
+        },
+        {
+            "key": "105",
+            "value": "C'est bien ce que je me disais, c'est un problème chez vous."
+        },
+        {
+            "key": "106",
+            "value": "Je ne fais qu'émettre les faits. Je n'y peux rien si les gens ne peuvent pas tenir le reste de la conversation."
+        },
+        {
+            "key": "107",
+            "value": "Il n'est pas toujours bon d'énoncer la vérité pure et simple."
+        },
+        {
+            "key": "108",
+            "value": "Vexer les gens n'est pas le meilleur moyen de les faire parler."
+        },
+        {
+            "key": "109",
+            "value": "Parce qu'ils sont faibles de caractère ?"
+        },
+        {
+            "key": "110",
+            "value": "Ce n'est pas une question de force ou de faiblesse…"
+        },
+        {
+            "key": "111",
+            "value": "En-Enfin bref. Cette dame a parlé de phénomènes étranges dans les mines non loin d'ici. Que fait-on de cette information ?"
+        },
+        {
+            "key": "112",
+            "value": "On va la vérifier par nous-même, bien entendu."
+        },
+        {
+            "key": "113",
+            "value": "L'agitation des monstres s'explique peut-être par la présence du cristal fondamental."
+        },
+        {
+            "key": "114",
+            "value": "J'espère qu'on le retrouvera vite, cela vaudra mieux pour ces villageois aussi…"
+        },
+        {
+            "key": "115",
+            "value": "Quoi, encore ?! Dame Jeaum ! Attendez-moi !"
+        },
+        {
+            "key": "116",
+            "value": "Voici les mines dont devait parler la dame. Elles seraient pleines de monstres ? C'est difficile à dire dans cette pénombre."
+        },
+        {
+            "key": "117",
+            "value": "Nous risquons d'être attaqués à tout moment. Ne baisse pas ta garde."
+        },
+        {
+            "key": "118",
+            "value": "Com-Compris."
+        },
+        {
+            "key": "119",
+            "value": "Quand on parle du loup."
+        },
+        {
+            "key": "120",
+            "value": "Dame Jeaum ! Les monstres s'en prennent à quelqu'un !"
+        },
+        {
+            "key": "121",
+            "value": "Argh !"
+        },
+        {
+            "key": "122",
+            "value": "Il a l'air en difficulté, allons l'aider, vite !"
+        },
+        {
+            "key": "123",
+            "value": "Nous aurions tout intérêt à le laisser attirer l'attention des monstres à notre place."
+        },
+        {
+            "key": "124",
+            "value": "Profitons-en pour chercher le cristal fondamental."
+        },
+        {
+            "key": "125",
+            "value": "Quoi ? Vous voulez le laisser là ?"
+        },
+        {
+            "key": "126",
+            "value": "C'est le destin des faibles de succomber face aux forts. Notre devoir n'est pas de renverser l'ordre des choses."
+        },
+        {
+            "key": "127",
+            "value": "C'est hors de question que je l'abandonne !"
+        },
+        {
+            "key": "128",
+            "value": "La raison d'être même des Guerriers des cristaux est d'aider les gens !"
+        },
+        {
+            "key": "129",
+            "value": "Absolument pas. C'est simplement de protéger les cristaux fondamentaux."
+        },
+        {
+            "key": "130",
+            "value": "Mais… Ce garçon sait peut-être où trouver celui qu'on cherche."
+        },
+        {
+            "key": "131",
+            "value": "Hm ?"
+        },
+        {
+            "key": "132",
+            "value": "Allons l'aider, cela nous permettra de trouver le cristal plus vite."
+        },
+        {
+            "key": "133",
+            "value": "Je vous en prie, Dame Jeaum. Votre épée peut lui sauver la vie."
+        },
+        {
+            "key": "134",
+            "value": "J'imagine que l'argument est valable si cela nous permet d'en apprendre plus."
+        },
+        {
+            "key": "135",
+            "value": "Ce sera l'affaire de quelques minutes. Ne t'avises pas de me gêner, vu ?"
+        },
+        {
+            "key": "136",
+            "value": "Compris !"
+        }
+    ]
+}

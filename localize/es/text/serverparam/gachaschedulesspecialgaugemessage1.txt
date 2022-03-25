@@ -1,0 +1,264 @@
+﻿{
+    "infos": [
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "fft_gacha_gl20200902_RAMZ_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "fft_gacha_gl20200902_ORND_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200909_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200909_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200916_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200916_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200923_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200923_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200930_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200930_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20201007_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20201007_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20201014_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20201021_RYER_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20201021_RIRY_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20201028_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20201104_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20201111_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20201118_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "ff4_gacha_gl20201118_CECL_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "ff4_gacha_gl20201125_ROSA_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "ff4_gacha_gl20201125_KAIN_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_gl20201209_RAMD_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_gl20201209_MACR_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20201216_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_gl20201216_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_gl20201223_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20201223_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20201230_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210106_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210113_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210120_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210203_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210217_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_gl20210224_RYER_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_gl20210224_RIRY_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210303_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "gacha_gl20210310_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_TIDU_gl20210324_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_YUNA_gl20210324_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_ARON_gl20210331_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_N2TB_gl20210421_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_N9TS_gl20210421_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210505_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "new-gacha_RYEL_gl20200519_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "new-gacha_HLNA_gl20210602_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "ff1_gacha_gl20210616_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210616_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "new-gacha_ZZAN_gl20210630_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210707_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210721_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210728_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "new-gacha_QILF_01_gl20210804_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20210804_10",
+            "value": "¡Unidad UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20201104_HWLT_10",
+            "value": "¡UR garantizada!"
+        },
+        {
+            "key": "new-gacha_gl20201104_SCAL_10",
+            "value": "¡UR garantizada!"
+        }
+    ]
+}

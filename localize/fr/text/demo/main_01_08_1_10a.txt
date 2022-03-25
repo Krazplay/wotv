@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "80209",
+            "value": "Muraga !"
+        },
+        {
+            "key": "80210",
+            "value": "Mont, sale vermine !"
+        },
+        {
+            "key": "80211",
+            "value": "Je vais te tuer ! Tuer ! Tous vous tuer ! Tuer !"
+        },
+        {
+            "key": "80212",
+            "value": "Sire ? Vous avez l'air bizarre..."
+        },
+        {
+            "key": "80213",
+            "value": "Yaaaah !"
+        },
+        {
+            "key": "80214",
+            "value": "Argh !"
+        },
+        {
+            "key": "80215",
+            "value": "L'humilation... me rend... fou ! La soif... de destruction... elle me brûle les veines !"
+        },
+        {
+            "key": "80216",
+            "value": "Vous ne... fuyez pas... ? Z'êtes braves... ou fous à lier !"
+        },
+        {
+            "key": "80217",
+            "value": "Mourez !"
+        }
+    ]
+}

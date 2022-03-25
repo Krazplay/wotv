@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...Well then, you mean to say you are yet to acquire leads on the six swords?"
+        },
+        {
+            "key": "002",
+            "value": "F-forgive us, Your Holiness..."
+        },
+        {
+            "key": "003",
+            "value": "What is the Arms Dealers' Guild doing?"
+        },
+        {
+            "key": "004",
+            "value": "Well, you see... Garvall is not being proactive."
+        },
+        {
+            "key": "005",
+            "value": "Out of consideration for the swordsmiths, I presume..."
+        },
+        {
+            "key": "006",
+            "value": "Most likely, yes."
+        },
+        {
+            "key": "007",
+            "value": "It may explain why all the prominent swordsmiths have already gone into hiding."
+        },
+        {
+            "key": "008",
+            "value": "And here I was thinking I would be able to wring the whereabouts of the six swords from those very swordsmiths."
+        },
+        {
+            "key": "009",
+            "value": "Have Eldric put pressure on Garvall."
+        },
+        {
+            "key": "010",
+            "value": "As you wish."
+        },
+        {
+            "key": "011",
+            "value": "And as for our other route to locating the swords?"
+        },
+        {
+            "key": "012",
+            "value": "We have already begun work on that front as well."
+        },
+        {
+            "key": "013",
+            "value": "And who is headed to the east?"
+        },
+        {
+            "key": "014",
+            "value": "Lameiga and Lumeide have already been dispatched."
+        },
+        {
+            "key": "015",
+            "value": "The pair will make contact with the masters who remain there. And if the swords are found in their possession, we shall claim them by any means necessary."
+        },
+        {
+            "key": "016",
+            "value": "The six swords..."
+        },
+        {
+            "key": "017",
+            "value": "Should it prove true they hold the power to strike down even the gods...then Gilgamesh would be reduced to nothing more than a defenseless child."
+        },
+        {
+            "key": "018",
+            "value": "And then, perhaps even..."
+        },
+        {
+            "key": "019",
+            "value": "Your Holiness...?"
+        },
+        {
+            "key": "020",
+            "value": "Ah, do not mind me."
+        },
+        {
+            "key": "021",
+            "value": "Our movements are surely already known to Gilgamesh."
+        },
+        {
+            "key": "022",
+            "value": "The swords must not fall into his hands. I trust you understand this."
+        },
+        {
+            "key": "023",
+            "value": "As you wish."
+        },
+        {
+            "key": "024",
+            "value": "Everything is now in motion."
+        },
+        {
+            "key": "025",
+            "value": "...Well, Gilgamesh. Just what will your next course of action be?"
+        },
+        {
+            "key": "026",
+            "value": "...What are you doing?"
+        },
+        {
+            "key": "027",
+            "value": "In regards to what do you speak?"
+        },
+        {
+            "key": "028",
+            "value": "You don't seem like a bad guy to me, but... You cannot possibly think even me to be your enemy?"
+        },
+        {
+            "key": "029",
+            "value": "......"
+        },
+        {
+            "key": "030",
+            "value": "Oh, and no playing dumb with me. That faint murderous aura you're giving off... I know I'm not just imagining it."
+        },
+        {
+            "key": "031",
+            "value": "...How about you clue me in?"
+        },
+        {
+            "key": "032",
+            "value": "It is that blade you carry."
+        },
+        {
+            "key": "033",
+            "value": "Ah, this thing? I like to call this the \"Odachi of Destruction\"..."
+        },
+        {
+            "key": "034",
+            "value": "You mean to say the \"Timeslayer,\" do you not...?"
+        },
+        {
+            "key": "035",
+            "value": "...Hm. I didn't think you'd know its true name..."
+        },
+        {
+            "key": "036",
+            "value": "I see. If this blade is what you seek...then you'd have no choice but to consider me your enemy."
+        },
+        {
+            "key": "037",
+            "value": "Do you intend to use it against me?"
+        },
+        {
+            "key": "038",
+            "value": "No—I'm assuming you have a reason for all this. I'll hear you out first."
+        },
+        {
+            "key": "039",
+            "value": "Sadali seeks the six swords."
+        },
+        {
+            "key": "040",
+            "value": "And one of those six is the blade by your side."
+        },
+        {
+            "key": "041",
+            "value": "That covetous fiend is, you say? I suppose he's seeking them in order to kill you... Right?"
+        },
+        {
+            "key": "042",
+            "value": "One reason among others."
+        },
+        {
+            "key": "043",
+            "value": "...Among others?"
+        },
+        {
+            "key": "044",
+            "value": "But I don't get it. Keeping them out of his hands should be a simple task for you."
+        },
+        {
+            "key": "045",
+            "value": "With your strength, you could obliterate the entire Sanctum... Am I wrong?"
+        },
+        {
+            "key": "046",
+            "value": "......"
+        },
+        {
+            "key": "047",
+            "value": "...There's more to it than you let on, huh?"
+        },
+        {
+            "key": "048",
+            "value": "I would ask your aid. My wounds will not heal for some time."
+        },
+        {
+            "key": "049",
+            "value": "Sure thing... But only on the condition that it will bring about some good for the people living in this land."
+        },
+        {
+            "key": "050",
+            "value": "I pray that it will bring about good... Truly."
+        },
+        {
+            "key": "051",
+            "value": "......"
+        },
+        {
+            "key": "052",
+            "value": "The six swords..."
+        },
+        {
+            "key": "053",
+            "value": "You have an inkling of their whereabouts?"
+        },
+        {
+            "key": "054",
+            "value": "I do for one. Owe's \"Thunderedge\"..."
+        },
+        {
+            "key": "055",
+            "value": "He refers to it by the false name \"Lightning Katana\" to keep its true nature unknown to others, mind you."
+        },
+        {
+            "key": "056",
+            "value": "However, regarding the whereabouts of the remaining four swords...I haven't the slightest clue."
+        },
+        {
+            "key": "057",
+            "value": "......"
+        },
+        {
+            "key": "058",
+            "value": "Tracking down every last one of them... This is going to be arduous work."
+        }
+    ]
+}

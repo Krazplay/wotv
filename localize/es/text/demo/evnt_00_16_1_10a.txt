@@ -1,0 +1,212 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ugh… Son demasiado fuertes…"
+        },
+        {
+            "key": "002",
+            "value": "¿Quién demonios… son?"
+        },
+        {
+            "key": "003",
+            "value": "Esa hoja es increíble…"
+        },
+        {
+            "key": "004",
+            "value": "¿Podría tratarse de la legendaria Lupus Umbra?"
+        },
+        {
+            "key": "005",
+            "value": "¡Sir Khamral! ¡Sir Jinoch!"
+        },
+        {
+            "key": "006",
+            "value": "Parece que mis ojos no me engañan."
+        },
+        {
+            "key": "007",
+            "value": "Perdimos nuestro hogar… y fuimos coaccionados a servir como mercenarios de Santocristal para poder subsistir…"
+        },
+        {
+            "key": "008",
+            "value": "¡Pero hoy la suerte nos vuelve a sonreír!"
+        },
+        {
+            "key": "009",
+            "value": "¡Y pensar encontraríamos el tesoro que nos mandó buscar lord Sadali en un lugar como este!"
+        },
+        {
+            "key": "010",
+            "value": "Por desgracia, unas sabandijas como vosotros no tendrán jamás el honor de poseer algo tan preciado."
+        },
+        {
+            "key": "011",
+            "value": "Oh…"
+        },
+        {
+            "key": "012",
+            "value": "Menudo fanfarrón... Realmente no sabes con quién estás hablando."
+        },
+        {
+            "key": "013",
+            "value": "Soy Khamral, antiguo comandante de Obtritus, la segunda división de Lykeros."
+        },
+        {
+            "key": "014",
+            "value": "¿Lykeros?"
+        },
+        {
+            "key": "015",
+            "value": "¡Ja, ja, ja! ¡Solo de escucharlo te han entrado escalofríos!"
+        },
+        {
+            "key": "016",
+            "value": "Ah... Ahora me acuerdo. Sabía que había escuchado el nombre en algún sitio."
+        },
+        {
+            "key": "017",
+            "value": "¿No es esa la nación que aplastó Rundal?"
+        },
+        {
+            "key": "018",
+            "value": "Y ahora sus supervivientes creen que pueden hacer lo que les plazca bajo el amparo de Santocristal…"
+        },
+        {
+            "key": "019",
+            "value": "¡¿Qué has dicho?!"
+        },
+        {
+            "key": "020",
+            "value": "Normalmente no me meto con los que son más débiles que yo…"
+        },
+        {
+            "key": "021",
+            "value": "Pero tampoco puedo dejar una batalla a medias."
+        },
+        {
+            "key": "022",
+            "value": "Si tenéis que echarle la culpa a algo, que sea a vuestra propia incompetencia."
+        },
+        {
+            "key": "023",
+            "value": "¡Debes tener muchas agallas para hablar así!"
+        },
+        {
+            "key": "024",
+            "value": "¡Me llevaré esa espada... y tu vida con ella!"
+        },
+        {
+            "key": "025",
+            "value": "Un momento. Me gustaría preguntarte algo."
+        },
+        {
+            "key": "026",
+            "value": "¡¿Hm?!"
+        },
+        {
+            "key": "027",
+            "value": "¿Por qué Santocristal se ha tomado las molestias de levantar una iglesia en este lugar tan remoto?"
+        },
+        {
+            "key": "028",
+            "value": "No solo aquí."
+        },
+        {
+            "key": "029",
+            "value": "Lord Sadali ha construido iglesias a lo largo de todo el reino por razones que se sabrán a su debido tiempo…"
+        },
+        {
+            "key": "030",
+            "value": "Je, lo sabía."
+        },
+        {
+            "key": "031",
+            "value": "¿Lo sabías?"
+        },
+        {
+            "key": "032",
+            "value": "He visto infinidad de esas iglesias a lo largo y ancho de estas tierras durante mis viajes."
+        },
+        {
+            "key": "033",
+            "value": "Pregunta a quien quieras y obtendrás la misma respuesta. Santocristal está ayudando a reconstruir comunidades arrasadas por la guerra."
+        },
+        {
+            "key": "034",
+            "value": "No… No puede ser…"
+        },
+        {
+            "key": "035",
+            "value": "Je. Lo has pillado rápido."
+        },
+        {
+            "key": "036",
+            "value": "Aquellos que han perdido toda esperanza se apoyarán en cualquiera que les tienda la mano."
+        },
+        {
+            "key": "037",
+            "value": "¿Aquellos que han perdido toda esperanza? Ahora todo tiene sentido…"
+        },
+        {
+            "key": "038",
+            "value": "La invasión de Fennes... ¡no fue más que una estratagema de Santocristal desde el principio!"
+        },
+        {
+            "key": "039",
+            "value": "¿Pero a qué vienen esas caras?"
+        },
+        {
+            "key": "040",
+            "value": "Gracias a aquello, esta pequeña aldea ahora dispone de una iglesia maravillosa."
+        },
+        {
+            "key": "041",
+            "value": "¡En cualquier caso, deberíais estar agradecidos! ¡Mua, ja, ja, ja!"
+        },
+        {
+            "key": "042",
+            "value": "Todas esas iglesias… Todo por la gloria de Sadali… Para conseguir más y más adeptos…"
+        },
+        {
+            "key": "043",
+            "value": "Nunca hemos querido nada de eso…"
+        },
+        {
+            "key": "044",
+            "value": "¡Lo único que queríamos era vivir nuestras vidas en paz!"
+        },
+        {
+            "key": "045",
+            "value": "¡No necesitábamos nada más! ¡Y aún así…!"
+        },
+        {
+            "key": "046",
+            "value": "¡Pagaréis por vuestras atrocidades!  "
+        },
+        {
+            "key": "047",
+            "value": "Y no solo vosotros dos…"
+        },
+        {
+            "key": "048",
+            "value": "¡Sadali! ¡Santocristal! ¡Todos pagarán por sus actos imperdonables!"
+        },
+        {
+            "key": "049",
+            "value": "Bueno, parece que esta historia te ha conmovido bastante."
+        },
+        {
+            "key": "050",
+            "value": "Cuando hace solo unos instantes estabas dispuesta a aceptar tu destino."
+        },
+        {
+            "key": "051",
+            "value": "¡No pienso morir hoy!"
+        },
+        {
+            "key": "052",
+            "value": "No... ¡Viviré y os haré pagar por vuestras fechorías!"
+        }
+    ]
+}

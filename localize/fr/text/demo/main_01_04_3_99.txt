@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous souhaitez savoir ce qui se passe à Wezett ?"
+        },
+        {
+            "key": "002",
+            "value": "Oui bien sûr."
+        },
+        {
+            "key": "003",
+            "value": "Et pour quelle raison ?"
+        },
+        {
+            "key": "004",
+            "value": "Je me fais du souci pour Graziella."
+        },
+        {
+            "key": "005",
+            "value": "Dame Graziella ne veut pas vous voir devenir les prisonniers du roi Khory."
+        },
+        {
+            "key": "006",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "007",
+            "value": "Vous n'êtes pas au courant ? Graziella a l'intention de prendre la place du roi Khory."
+        },
+        {
+            "key": "008",
+            "value": "C'est absurde !"
+        },
+        {
+            "key": "009",
+            "value": "Pourquoi se rebellerait-elle contre le roi alors qu'elle est son héritière ?"
+        },
+        {
+            "key": "010",
+            "value": "Elle n'a pas besoin de faire ça pour obtenir le trône…"
+        },
+        {
+            "key": "011",
+            "value": "Graziella a besoin de vous."
+        },
+        {
+            "key": "012",
+            "value": "C'est pour cela qu'elle m'a envoyée vers vous."
+        },
+        {
+            "key": "013",
+            "value": "… Et si je refuse ?"
+        },
+        {
+            "key": "014",
+            "value": "Refuser ne fait pas partie des options."
+        },
+        {
+            "key": "015",
+            "value": "Comment ?"
+        },
+        {
+            "key": "016",
+            "value": "Sans mon aide, vous n'arriverez jamais à Wezett en vie."
+        },
+        {
+            "key": "017",
+            "value": "Minnwu, tu…"
+        }
+    ]
+}

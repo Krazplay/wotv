@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...!!"
+        },
+        {
+            "key": "002",
+            "value": "(Mutter?!)"
+        },
+        {
+            "key": "003",
+            "value": "Was hast du?"
+        },
+        {
+            "key": "004",
+            "value": "Sehnst dich wohl schon nach Leonis, wie?"
+        },
+        {
+            "key": "005",
+            "value": "Das Einzige, wonach ich mich sehne, ist, Yrde tot zu sehen."
+        },
+        {
+            "key": "006",
+            "value": "Hahaha! Freut mich zu hören."
+        },
+        {
+            "key": "007",
+            "value": "Gehen wir weiter."
+        }
+    ]
+}

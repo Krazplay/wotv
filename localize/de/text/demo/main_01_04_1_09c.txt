@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...!!"
+        },
+        {
+            "key": "002",
+            "value": "Genau so, wie die Legende es beschreibt."
+        },
+        {
+            "key": "003",
+            "value": "Dann befinden sich die Relikte also ... in den unterirdischen Gewölben des Schlosses?"
+        },
+        {
+            "key": "004",
+            "value": "Ja."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Ist alles in Ordnung, Euer Majestät?"
+        },
+        {
+            "key": "007",
+            "value": "Fühlt Ihr das nicht? Eine Aura des Unnatürlichen ..."
+        },
+        {
+            "key": "008",
+            "value": "Doch, ich spüre sie. Und sie ist stark."
+        },
+        {
+            "key": "009",
+            "value": "Was auch immer uns in den Kellergewölben erwarten mag, es dürfte um ein Vielfaches schrecklicher sein als jedes Monster, dem wir bisher begegnet sind."
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "Doch habt keine Angst, Euer Majestät. Ihr gebe Euch mein Wort, dass uns kein Monster davon abhalten wird, die Relikte in die Hände zu bekommen."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Debería haber una cueva justo ahí delante."
+        },
+        {
+            "key": "002",
+            "value": "¿Una cueva, dices?"
+        },
+        {
+            "key": "003",
+            "value": "Quizá deberíamos descansar allí un rato."
+        },
+        {
+            "key": "004",
+            "value": "Minwu, ¿pasa algún río por aquí cerca?"
+        },
+        {
+            "key": "005",
+            "value": "El agua empieza a escasear."
+        },
+        {
+            "key": "006",
+            "value": "En tal caso bajad por ese camino, alteza."
+        },
+        {
+            "key": "007",
+            "value": "Iré a por un poco. Padre, tú dirígete a la cueva."
+        },
+        {
+            "key": "008",
+            "value": "De acuerdo, pero no tardes mucho."
+        },
+        {
+            "key": "009",
+            "value": "Lilit…"
+        },
+        {
+            "key": "010",
+            "value": "Son soldados de Fennes."
+        },
+        {
+            "key": "011",
+            "value": "Se supone que está por aquí cerca."
+        },
+        {
+            "key": "012",
+            "value": "Sí, seguid buscando la cueva. Tienen que estar allí."
+        },
+        {
+            "key": "013",
+            "value": "¿Han dicho «la cueva»?"
+        },
+        {
+            "key": "014",
+            "value": "Parece que saben de cuál se trata."
+        },
+        {
+            "key": "015",
+            "value": "Esto me da muy mala espina…"
+        },
+        {
+            "key": "016",
+            "value": "Deberíamos volver con mi padre cuanto antes."
+        }
+    ]
+}

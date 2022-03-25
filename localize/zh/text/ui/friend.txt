@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "FRIEND_INVITE_TITLE",
+            "value": "邀請好友"
+        },
+        {
+            "key": "FRIEND_INVITE_AMOUNT_TITLE",
+            "value": "邀請人數"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INVITE",
+            "value": "邀請您的好友"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INPUT",
+            "value": "輸入邀請碼"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_TITLE",
+            "value": "邀請好友報酬"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_DESC",
+            "value": "邀請好友進行遊戲吧！<br>好友遊玩的時候，您也能獲得獎勵！"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_CONDITION",
+            "value": "※邀請好友需要 Rank. {0} 以上。"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_TITLE",
+            "value": "邀請碼輸入報酬"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_CONDITION",
+            "value": "※請在 Rank. {0} 以前輸入邀請碼。"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_RANK",
+            "value": "Rank.{0}以上可以邀請"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_LIMIT",
+            "value": "邀請人數上限"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_CHALLANGE_MISSION",
+            "value": "好友達成新手挑戰第{0}頁的第{1}個"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_STORY",
+            "value": "好友通關劇情任務的{0}章{1}節{2}"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_LOGIN",
+            "value": "好友第{0}天登錄。"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_TITLE",
+            "value": "輸入邀請碼"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_DESC",
+            "value": "請輸入從<line-height=36>好友處<br>得到的邀請碼"
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_TITLE",
+            "value": "邀請好友成功！"
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_DESC",
+            "value": "恭喜。<br>邀請好友成功了。<br>報酬已送至禮物處。"
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_TITLE",
+            "value": "邀請失敗"
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_DESC",
+            "value": "邀請好友失敗。<br>您成功邀請的好友已達到{0}人。"
+        }
+    ]
+}

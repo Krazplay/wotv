@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "On dirait que nous nous sommes occupés de tous nos ennemis. Nous pouvons enfin partir."
+        },
+        {
+            "key": "002",
+            "value": "Hmm ? Qui est cette jeune fille ?"
+        },
+        {
+            "key": "003",
+            "value": "Ne t'inquiète pas, il n'y a plus d'ennemis à présent."
+        },
+        {
+            "key": "004",
+            "value": "Nous ne serons bientôt plus qu'un souvenir pour toi."
+        },
+        {
+            "key": "005",
+            "value": "En fait, je me posais la question… Est-ce que je peux me joindre à vous ?"
+        },
+        {
+            "key": "006",
+            "value": "Te joindre à nous ?"
+        },
+        {
+            "key": "007",
+            "value": "Désolée, mais tu seras plus en sécurité avec les tiens."
+        },
+        {
+            "key": "008",
+            "value": "Fennes est en ce moment même à nos trousses."
+        },
+        {
+            "key": "009",
+            "value": "Je vous promets de ne pas être un fardeau. Je m'appelle Minnwu."
+        },
+        {
+            "key": "010",
+            "value": "Hmmm."
+        },
+        {
+            "key": "011",
+            "value": "Père, non. Nous ne devons pas mêler les villageois à notre guerre."
+        },
+        {
+            "key": "012",
+            "value": "Vous allez à Wezett, n'est-ce pas ?"
+        },
+        {
+            "key": "013",
+            "value": "Tout à fait."
+        },
+        {
+            "key": "014",
+            "value": "Je serai votre guide, je connais ces terres sur le bout des doigts."
+        },
+        {
+            "key": "015",
+            "value": "Pourquoi souhaites-tu nous aider ?"
+        },
+        {
+            "key": "016",
+            "value": "À cause de nous, vous avez failli y passer."
+        },
+        {
+            "key": "017",
+            "value": "La façon dont vous avez choisi de vivre votre vie m'a touchée prince Mont, c'est pour cette raison…"
+        },
+        {
+            "key": "018",
+            "value": "Moi ?"
+        },
+        {
+            "key": "019",
+            "value": "Ha ha ha. Si ce n'est pas mignon ! Eh bien, montre-nous la voie dans ce cas !"
+        },
+        {
+            "key": "020",
+            "value": "Oui, Votre Majesté. Suivez-moi, je vous prie."
+        },
+        {
+            "key": "021",
+            "value": "P-père."
+        }
+    ]
+}

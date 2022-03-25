@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Membres de la Résistance, écoutez-moi !"
+        },
+        {
+            "key": "002",
+            "value": "L'issue de cette bataille est évidente. La région entière est encerclée par les forces de Rundall !"
+        },
+        {
+            "key": "003",
+            "value": "Nous ne tenons pas à verser le sang inutilement. Rendez-vous !"
+        },
+        {
+            "key": "004",
+            "value": "Ha… Ha…"
+        },
+        {
+            "key": "005",
+            "value": "Je ne crois pas que nous puissions faire beaucoup plus…"
+        },
+        {
+            "key": "006",
+            "value": "Corwell, que fait-on ?"
+        },
+        {
+            "key": "007",
+            "value": "Je veux bien aller négocier, si vous décidez de vous rendre."
+        },
+        {
+            "key": "008",
+            "value": "Non. Nous nous battrons jusqu'au bout."
+        },
+        {
+            "key": "009",
+            "value": "Quoi, vraiment ? Vous voyez bien qu'on n'a aucune chance de gagner !"
+        },
+        {
+            "key": "010",
+            "value": "Plutôt mourir que leur céder notre terre."
+        },
+        {
+            "key": "011",
+            "value": "Juste parce que vous y êtes né ?"
+        },
+        {
+            "key": "012",
+            "value": "Ce sol dévasté que vous voyez sous vos bottes, il y a encore moins d'un an c'était un village où le chant des oiseaux accueillait le matin."
+        },
+        {
+            "key": "013",
+            "value": "…"
+        },
+        {
+            "key": "014",
+            "value": "Ils comptent en faire un avant-poste de l'invasion de Hourne."
+        },
+        {
+            "key": "015",
+            "value": "Cet endroit est important pour vous, je le comprends."
+        },
+        {
+            "key": "016",
+            "value": "Mais vous pourriez aussi fuir les horreurs de la guerre et recommencer ailleurs, non ?"
+        },
+        {
+            "key": "017",
+            "value": "Vous en êtes capable, vous ? De supporter l'idée que vos souvenirs les plus chers soient ainsi piétinés ?"
+        },
+        {
+            "key": "018",
+            "value": "Je…"
+        },
+        {
+            "key": "019",
+            "value": "A-t-il été si facile, pour vous, d'abandonner la terre pour laquelle tant de vos camarades ont versé sang, sueur et larmes ?"
+        },
+        {
+            "key": "020",
+            "value": "Pour nous, voyez-vous, c'est impossible."
+        },
+        {
+            "key": "021",
+            "value": "Alors nous nous battons. Nous nous battons jusqu'à ce que nos jambes ne puissent plus nous porter."
+        },
+        {
+            "key": "022",
+            "value": "Je vois. Je comprends."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Je l'ai vu, d'mes propres yeux. Je ne peux pas m'tromper..."
+        },
+        {
+            "key": "002",
+            "value": "... Oui. Cette chimère est sortie de nulle part et a anéanti le premier bataillon."
+        },
+        {
+            "key": "003",
+            "value": "Personne à Leonis n'devrait posséder d'relique capable d'invoquer une chimère."
+        },
+        {
+            "key": "004",
+            "value": "Machalie est donc sûrement quelque part sur l'champ d'bataille."
+        },
+        {
+            "key": "005",
+            "value": "Je vais la localiser tout de suite."
+        },
+        {
+            "key": "006",
+            "value": "Non. Je vais m'occuper d'ça moi-même."
+        },
+        {
+            "key": "007",
+            "value": "Mais, Roi Muraga... ?!"
+        },
+        {
+            "key": "008",
+            "value": "La guerre c'est fait pour s'battre. Pas d'place pour les spectateurs."
+        },
+        {
+            "key": "009",
+            "value": "Le vrai plaisir d'la bataille réside dans l'agonie des blessés et les bains d'sang."
+        },
+        {
+            "key": "010",
+            "value": "Je plains ceux de Leonis, Votre Férocité."
+        },
+        {
+            "key": "011",
+            "value": "Ils n'auront pas à être plaints bien longtemps."
+        },
+        {
+            "key": "012",
+            "value": "Entendu."
+        },
+        {
+            "key": "013",
+            "value": "Vous êtes... le roi Muraga de Fennes !"
+        },
+        {
+            "key": "014",
+            "value": "C'est notre chance d'être promu ! Terrassons-le !"
+        },
+        {
+            "key": "015",
+            "value": "Même un démon ne pourrait rien face à nous, nous sommes bien trop nombreux !"
+        },
+        {
+            "key": "016",
+            "value": "Préparez-vous !"
+        },
+        {
+            "key": "017",
+            "value": "Silence ! Je n'veux entendre que la douce mélodie d'votre agonie."
+        },
+        {
+            "key": "018",
+            "value": "Tu seras l'prochain, Eldo !"
+        },
+        {
+            "key": "019",
+            "value": "Tu m'as volé Machalie, j'vais te l'faire payer !"
+        },
+        {
+            "key": "020",
+            "value": "Tenez bon, Machalie chérie !"
+        }
+    ]
+}

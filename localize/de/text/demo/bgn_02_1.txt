@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Dieses Mal möchte ich über zwei Dinge sprechen: Erstens darüber, wie man im Kampf <color=#0000ff>die Perspektive</color> zu ändern vermag, und zweitens über <color=#0000ff>Entfesselungszeiten</color> von Zaubern und anderen Fähigkeiten."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Lasst uns als Erstes über die Perspektive sprechen. Durch Antippen der gelben Symbole <color=#0000ff>im unteren Bildschirmbereich</color> lässt sich die Karte <color=#0000ff>aus unterschiedlichen Blickwinkeln</color> betrachten."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Bitte bedient Euch dieser Funktion, wenn ein Gegner sich hinter einem Baum oder einem anderen Hindernis versteckt."
+        },
+        {
+            "key": "004",
+            "value": "Wenn Ihr die beiden Symbole in der <color=#0000ff>unteren linken Bildschirmecke</color> antippt, könnt Ihr Euch einen <color=#0000ff>Überblick</color> über die Karte in ihrer Gesamtheit verschaffen oder das jeweilige Schlachtfeld <color=#0000ff>aus der Vogelperspektive</color> betrachten."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "004_2",
+            "value": "Es ist auch möglich, die Karte zu <color=#0000ff>drehen</color>, während der Bildschirm mit zwei Fingern berührt wird."
+        },
+        {
+            "key": "//【文章追加】//",
+            "value": ""
+        },
+        {
+            "key": "005",
+            "value": "Lasst uns nun aber über ein weiteres Thema sprechen. Das Wirken von Zaubern sowie das Auslösen bestimmter anderer Fähigkeiten nimmt <color=#0000ff>Entfesselungszeit</color> in Anspruch."
+        },
+        {
+            "key": "006",
+            "value": "Diese Aktionen werden nicht unmittelbar nach ihrer Auswahl aktiviert, sondern erst <color=#0000ff>nachdem eine gewisse Zeit verstrichen</color> ist."
+        },
+        {
+            "key": "007",
+            "value": "Darüber, wann die ausgewählte Aktion aktiviert wird, könnt Ihr Euch durch einen Blick auf die sich im linken Bildschirmbereich befindende <color=#0000ff>Aktionsreihenfolge</color> informieren."
+        },
+        {
+            "key": "008",
+            "value": "Bitte achtet darauf, dass zum Einsetzen dieser Fähigkeiten nach Auswahl der jeweiligen Aktion auch noch <color=#0000ff>Einheit</color> oder <color=#0000ff>Feld</color> bestimmt werden muss."
+        },
+        {
+            "key": "009",
+            "value": "Entscheidet Ihr Euch für <color=#0000ff>Einheit</color>, wird der ausgewählte <color=#0000ff>Feind</color> attackiert. Entscheidet Ihr euch dagegen für <color=#0000ff>Feld</color>, erfolgt der Angriff auf den ausgewählten <color=#0000ff>Bereich</color> des Schlachtfeldes."
+        },
+        {
+            "key": "010",
+            "value": "In der Regel ist es von Vorteil, <color=#0000ff>Einheit</color> auszuwählen, da die Fähigkeit auch dann auf den entsprechenden Gegner angewendet wird, wenn dieser sich während der Entfesselungszeit bewegen sollte."
+        },
+        {
+            "key": "011",
+            "value": "Dagegen erweist sich die Auswahl von <color=#0000ff>Feld</color> dann als effektiv, wenn der Weg, den ein Feind einschlägt, oder bestimmte Stellen, an denen sich Gegner sammeln, vorhergesagt werden können."
+        },
+        {
+            "key": "012",
+            "value": "Nun denn. Dieses Mal handelt es sich bei allen Einheiten um <color=#0000ff>Magier</color>. Lasst uns effektiven Gebrauch von der Funktion zum <color=#0000ff>Ändern der Perspektive</color> machen und ihnen mit <color=#0000ff>Zaubern</color> zusetzen."
+        },
+        {
+            "key": "013",
+            "value": "Ich empfehle ein Anvisieren des Gegners mittels <color=#0000ff>Einheit</color>, sodass der Angriff selbst dann trifft, wenn sich der betreffende Feind bewegt."
+        },
+        {
+            "key": "014",
+            "value": "Ausgezeichnet! Ihr habt alle Gegner restlos ausgelöscht."
+        },
+        {
+            "key": "015",
+            "value": "Auch wenn die Handhabung von Entfesselungszeiten eine gewisse Übung erfordert, sind die entsprechenden Zauber und Fähigkeiten von wahrhaft <color=#0000ff>mächtiger Natur</color>. Meistert Ihr den Gebrauch von Entfesselungszeiten, werdet Ihr auf dem Schlachtfeld zu einer wesentlich größeren Bedrohung für Eure Gegner."
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+﻿{
+    "infos": [
+        {
+            "key": "VIDEOADS",
+            "value": "동영상 광고"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_DESC",
+            "value": "동영상 광고를 시청하고 체력을 {0} 회복하세요!"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_CONFIRM_TITLE",
+            "value": "확인"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_CONFIRM_DESC",
+            "value": "동영상 광고가 재생됩니다."
+        },
+        {
+            "key": "AP_HEAL_VIDEO_RESULT_TITLE",
+            "value": "결과"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_RESULT_DESC",
+            "value": "성공!<br>체력이 회복되었습니다."
+        },
+        {
+            "key": "AP_HEAL_VIDEO_ERROR_TITLE",
+            "value": "오류"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_ERROR_DESC",
+            "value": "체력이 회복되지 않았습니다."
+        },
+        {
+            "key": "GACHA_WATCH_VIDEO",
+            "value": "동영상을 시청하세요!"
+        },
+        {
+            "key": "GACHA_FREE_AMOUNT_TITLE",
+            "value": "무료 기회:"
+        },
+        {
+            "key": "OFFERWALL",
+            "value": "선택형 광고"
+        },
+        {
+            "key": "GACHA_WATCH_VIDEO_TITLE",
+            "value": "소환"
+        },
+        {
+            "key": "GLOBAL_MAIN_VIDEOADS",
+            "value": "환도석을<br>소환하세요!"
+        },
+        {
+            "key": "GLOBAL_MAIN_VIDEOADS_APPEAL",
+            "value": "무료"
+        },
+        {
+            "key": "IT_LP_WW_01",
+            "value": "환도석"
+        },
+        {
+            "key": "IT_GIL_WW_01",
+            "value": "길"
+        },
+        {
+            "key": "GACHA_NO_VIDEO_AVAILABLE_TITLE",
+            "value": "준비된 동영상이 없음"
+        },
+        {
+            "key": "GACHA_NO_VIDEO_AVAILABLE_DESC",
+            "value": "준비된 동영상이 없습니다. 다시 시도해주세요."
+        },
+        {
+            "key": "GACHA_CHECK_TICKET_TITLE",
+            "value": "동영상을 시청하고 소환하세요!"
+        },
+        {
+            "key": "GACHA_CHECK_VIDEOADS_DESC",
+            "value": "동영상 광고 시청 횟수를 소비하여 소환하시겠습니까?"
+        },
+        {
+            "key": "GACHA_VIDEOADS_DISCLAIMER",
+            "value": "보상은 24시간 내 선물함을 통해 지급될 예정입니다."
+        },
+        {
+            "key": "BUY_LAPIS_OFFERWALL_REALMONEY",
+            "value": "무료"
+        },
+        {
+            "key": "BUY_LAPIS_OFFERWALL_DESC",
+            "value": "환도석"
+        },
+        {
+            "key": "BATTLE_RESULT_TITLE",
+            "value": "동영상 광고 체력 회복"
+        },
+        {
+            "key": "BATTLE_RESULT_DESC",
+            "value": "<color=#792E2E>체력</color> 부족"
+        },
+        {
+            "key": "GACHA_VIDEO_RESETS_IN",
+            "value": "초기화까지 <size=1.2em><color=#F0C040>{0}:{1}:{2}</color></size>"
+        },
+        {
+            "key": "VideoGacha_Normal",
+            "value": "동영상 소환"
+        },
+        {
+            "key": "VideoGacha_Normal_20210421",
+            "value": "동영상 소환"
+        },
+        {
+            "key": "VideoGacha_Normal_20210922",
+            "value": "동영상 소환"
+        },
+        {
+            "key": "VideoGacha_Normal_20211020",
+            "value": "동영상 소환"
+        },
+        {
+            "key": "VideoGacha_Normal_20220323",
+            "value": "동영상 소환"
+        },
+        {
+            "key": "CONTINUE",
+            "value": "이어하기"
+        },
+        {
+            "key": "CANCEL",
+            "value": "취소"
+        },
+        {
+            "key": "GACHA_VIDEO_REACHED_LIMIT_TITLE",
+            "value": "동영상 소환 횟수 한도 도달"
+        },
+        {
+            "key": "GACHA_VIDEO_REACHED_LIMIT_DESC",
+            "value": "동영상 소환 횟수 한도에 도달했습니다. 나중에 다시 시도하십시오."
+        },
+        {
+            "key": "GACHA_ON_CANCEL_TITLE",
+            "value": "오류"
+        },
+        {
+            "key": "GACHA_ON_CANCEL_DESC",
+            "value": "동영상 소환을 취소하였습니다."
+        },
+        {
+            "key": "OFFERWALL_BONUS_MULTIPLIER_DESC",
+            "value": "보너스 "
+        },
+        {
+            "key": "OFFERWALL_BONUS_MULTIPLIER",
+            "value": "× {0}"
+        }
+    ]
+}

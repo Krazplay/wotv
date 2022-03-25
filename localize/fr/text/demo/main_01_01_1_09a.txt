@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ça n'en finit pas."
+        },
+        {
+            "key": "002",
+            "value": "Hum..."
+        },
+        {
+            "key": "003",
+            "value": "Qu'y a-t-il ? Allez-vous nous suggérer une nouvelle fois de battre en retraite ?"
+        },
+        {
+            "key": "004",
+            "value": "Cela ne me fait pas plaisir, mais votre vie passe avant tout."
+        },
+        {
+            "key": "005",
+            "value": "Ne me faites pas rire."
+        },
+        {
+            "key": "006",
+            "value": "Vous pensez que je suis intimidée par ces moins-que-rien ?"
+        },
+        {
+            "key": "007",
+            "value": "Ha ha ha ! Vous êtes courageuse, Princesse."
+        },
+        {
+            "key": "008",
+            "value": "Permettez-moi de montrer à votre gracieuse Majesté et à son fils comment une dame se comporte sur le champ de bataille. "
+        },
+        {
+            "key": "009",
+            "value": "Schuzelt ! Aux armes !"
+        },
+        {
+            "key": "010",
+            "value": "Oui, Votre Altesse !"
+        },
+        {
+            "key": "011",
+            "value": "Vous allez vous battre ? Vous n'êtes pas sérieuse ?"
+        }
+    ]
+}

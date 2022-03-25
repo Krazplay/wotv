@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "70013",
+            "value": "Cela suffit !"
+        },
+        {
+            "key": "70014",
+            "value": "Je reconnais cette voix..."
+        },
+        {
+            "key": "70015",
+            "value": "Je suis descendu, attiré par les clameurs..."
+        },
+        {
+            "key": "70016",
+            "value": "Khory, Sire !"
+        },
+        {
+            "key": "70017",
+            "value": "... et voilà que je trouve ici mon fidèle allié, Eldo."
+        },
+        {
+            "key": "70018",
+            "value": "..."
+        },
+        {
+            "key": "70019",
+            "value": "Quand on m'a informé du passage inattendu d'une armée sur les terres de Wezett, j'ai immédiatement envoyé « Equito »..."
+        },
+        {
+            "key": "70020",
+            "value": "... Jamais je n'aurais imaginé que ce soit vous."
+        },
+        {
+            "key": "70021",
+            "value": "Sire, mon père est gravement blessé. Chaque minute compte."
+        },
+        {
+            "key": "70022",
+            "value": "En effet, je le vois."
+        },
+        {
+            "key": "70023",
+            "value": "Ainsi que ce... soldat de Hourne, qui me paraît bien pâle, lui aussi."
+        },
+        {
+            "key": "70024",
+            "value": "Vous deux, escortez ces blessés à l'abri et apportez-leur des soins."
+        },
+        {
+            "key": "70025",
+            "value": "Oui, Sire !"
+        },
+        {
+            "key": "70026",
+            "value": "La réputation de Schuzelt le précède..."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "PIECE",
+            "value": "Entrenar"
+        },
+        {
+            "key": "REFRESH",
+            "value": "Actualizar"
+        },
+        {
+            "key": "ATTACKABLE",
+            "value": "Solo unidades disponibles"
+        },
+        {
+            "key": "NOT_ENHANCE_WEAPON",
+            "value": "No tienes equipo que se pueda mejorar."
+        }
+    ]
+}

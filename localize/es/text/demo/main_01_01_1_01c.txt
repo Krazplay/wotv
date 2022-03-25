@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡L-lo he conseguido!"
+        },
+        {
+            "key": "002",
+            "value": "Reprime tus emociones, eres el príncipe de Leonis."
+        },
+        {
+            "key": "003",
+            "value": "Sí."
+        },
+        {
+            "key": "004",
+            "value": "Sigamos."
+        },
+        {
+            "key": "005",
+            "value": "Uf…"
+        },
+        {
+            "key": "006",
+            "value": "Buen trabajo, lord Mont. Tu liderazgo durante el combate ha sido excelente."
+        },
+        {
+            "key": "007",
+            "value": "Yo no estaría tan seguro…"
+        },
+        {
+            "key": "008",
+            "value": "No deberías menospreciar así tus habilidades, milord."
+        },
+        {
+            "key": "009",
+            "value": "Pe-pero…"
+        },
+        {
+            "key": "010",
+            "value": "Lo que quiero decir es que debes tener más confianza en ti mismo."
+        },
+        {
+            "key": "011",
+            "value": "¿Más confianza… en mí mismo?"
+        },
+        {
+            "key": "012",
+            "value": "Nadie pone en duda que cada vez eres más fuerte. Bueno, nadie aparte de ti."
+        },
+        {
+            "key": "013",
+            "value": "Tus habilidades son inigualables."
+        },
+        {
+            "key": "014",
+            "value": "¿Inigualables? Guárdate tu palabrería para Stern."
+        },
+        {
+            "key": "015",
+            "value": "Puede que no os parezcáis demasiado físicamente, pero está claro que sois hermanos."
+        },
+        {
+            "key": "016",
+            "value": "Que los dos venís de la misma camada."
+        },
+        {
+            "key": "017",
+            "value": "¡¿Que los dos venimos de la misma camada?! Deja de decir tonterías…"
+        },
+        {
+            "key": "018",
+            "value": "¡Ja! ¿Acaso me has visto gastar saliva en halagos y falsedades?"
+        },
+        {
+            "key": "019",
+            "value": "La verdad es que no."
+        },
+        {
+            "key": "020",
+            "value": "Pero nunca nadie me había dicho algo así."
+        },
+        {
+            "key": "021",
+            "value": "Siempre he querido ser tan fuerte como Stern para ganarme el aprecio de mi padre…"
+        },
+        {
+            "key": "022",
+            "value": "Paciencia, lord Mont, paciencia. Te garantizo que acabará llegando."
+        },
+        {
+            "key": "023",
+            "value": "¿A qué esperáis? ¡Venga, rápido!"
+        },
+        {
+            "key": "024",
+            "value": "¡Va-vale!"
+        },
+        {
+            "key": "025",
+            "value": "Vamos."
+        }
+    ]
+}

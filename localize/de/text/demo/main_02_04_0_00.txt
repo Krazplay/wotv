@@ -1,0 +1,108 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Was ist? Dachtest du etwa, ich würde weglaufen?"
+        },
+        {
+            "key": "002",
+            "value": "... Was geht dir gerade durch den Kopf?"
+        },
+        {
+            "key": "003",
+            "value": "Nichts. Ich hege keine besonderen Gefühle für diesen Ort."
+        },
+        {
+            "key": "004",
+            "value": "Überrascht dich das?"
+        },
+        {
+            "key": "005",
+            "value": "Du wirst erstmals seit Langem wieder Fuß in deine Heimat setzen. Dachte mir, dass so etwas von irgendeiner Empfindung begleitet sein müsste."
+        },
+        {
+            "key": "006",
+            "value": "Ich habe diesem Land den Rücken gekehrt. Ich habe keine Heimat mehr."
+        },
+        {
+            "key": "007",
+            "value": "... Ich verstehe."
+        },
+        {
+            "key": "008",
+            "value": "Hattest du dir eine andere Antwort erhofft?"
+        },
+        {
+            "key": "009",
+            "value": "Ich hätte gerne gewusst, was das wohl bedeutet ... Heimat."
+        },
+        {
+            "key": "010",
+            "value": "Wie man so hört, darfst du die Nährkammer der Kirche, in der du herangezüchtet wurdest, deine Heimat nennen."
+        },
+        {
+            "key": "011",
+            "value": "Das ist richtig."
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "... Willst du nicht langsam einmal mit der Wahrheit herausrücken?"
+        },
+        {
+            "key": "014",
+            "value": "Welche Wahrheit?"
+        },
+        {
+            "key": "015",
+            "value": "Weshalb wir hergekommen sind."
+        },
+        {
+            "key": "016",
+            "value": "Ihr sucht doch etwas hier in Leonis, habe ich recht?"
+        },
+        {
+            "key": "017",
+            "value": "..."
+        },
+        {
+            "key": "018",
+            "value": "Wenn ich nicht weiß, worum es geht, kann ich dir auch nicht helfen."
+        },
+        {
+            "key": "019",
+            "value": "Du wirst es bald herausfinden."
+        },
+        {
+            "key": "020",
+            "value": "Wie du meinst."
+        },
+        {
+            "key": "021",
+            "value": "Wir werden in Kürze die leonische Grenze überqueren."
+        },
+        {
+            "key": "022",
+            "value": "Du solltest besser deinen Schutzanzug anlegen."
+        },
+        {
+            "key": "023",
+            "value": "Wenn das Miasma in deine Lunge eindringt, verfault dein Körper von innen."
+        },
+        {
+            "key": "024",
+            "value": "Der Anzug mag dir widerstreben, aber ein solches Ende kann nicht in deinem Sinne sein."
+        },
+        {
+            "key": "025",
+            "value": "Diese menschlichen Körper sind wirklich unpraktisch ..."
+        },
+        {
+            "key": "026",
+            "value": "..."
+        }
+    ]
+}

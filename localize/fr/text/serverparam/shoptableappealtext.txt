@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "ItemSetA",
+            "value": "1 par jour"
+        },
+        {
+            "key": "ItemSetB",
+            "value": "10 par jour"
+        },
+        {
+            "key": "ItemSetC",
+            "value": "1 seulement"
+        },
+        {
+            "key": "ItemSetD",
+            "value": "10 seulement"
+        }
+    ]
+}

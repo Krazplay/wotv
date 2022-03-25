@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "178",
+            "value": "You've done a great service for us! As promised, here's your payment."
+        },
+        {
+            "key": "179",
+            "value": "Phew...so the Core Crystal was causing the monsters to become aggressive. This job was not good for the heart..."
+        },
+        {
+            "key": "180",
+            "value": "My apologies. We should have told you first."
+        },
+        {
+            "key": "181",
+            "value": "Well, they sweetened the pay because of the extra danger, so I guess it all worked out in the end."
+        },
+        {
+            "key": "182",
+            "value": "But we still don't have enough, not even close. Let's move on to the next job."
+        },
+        {
+            "key": "183",
+            "value": "What does the next one entail?"
+        },
+        {
+            "key": "184",
+            "value": "It should be much easier than the last one. No matter how you look at it, it's just collecting materials."
+        },
+        {
+            "key": "185",
+            "value": "Antidotes are said to be in short supply due to the war."
+        },
+        {
+            "key": "186",
+            "value": "So our task is to go to the nearby woods and track down some medicinal herbs and snake venom."
+        },
+        {
+            "key": "187",
+            "value": "Sounds like honest work to me! My legs could use the workout, so it's a win-win!"
+        },
+        {
+            "key": "188",
+            "value": "The forest... Should be a good place for a nap, especially in this nice weather."
+        },
+        {
+            "key": "189",
+            "value": "No, you'll be working, too. No messing around."
+        },
+        {
+            "key": "190",
+            "value": "...I have yet to see a single snake."
+        },
+        {
+            "key": "191",
+            "value": "I'm having no trouble finding herbs, though. Could it be that the monsters spooked them into their dens?"
+        },
+        {
+            "key": "192",
+            "value": "If you have time to complain, you have time to keep looking, new recruit! Just put in the effort and you'll find them!"
+        },
+        {
+            "key": "193",
+            "value": "Your superior is awfully strict."
+        },
+        {
+            "key": "194",
+            "value": "Hahaha... The fault lies in my lack of discipline..."
+        },
+        {
+            "key": "195",
+            "value": "Man to man, I think you ought to have a bit more confidence."
+        },
+        {
+            "key": "196",
+            "value": "Fine ladies don't give unconfident men the time of day."
+        },
+        {
+            "key": "197",
+            "value": "Though Lady Machérie does not give it to presumptuous men, either."
+        },
+        {
+            "key": "198",
+            "value": "O-oh, be quiet! Once we save Ovis, I'll become a man worthy of Machérie!"
+        },
+        {
+            "key": "199",
+            "value": "Hmph... Still no snakes to be found. Time for a breather."
+        },
+        {
+            "key": "200",
+            "value": "Hmm? I think there's some kind of hole where you're sitting..."
+        },
+        {
+            "key": "201",
+            "value": "Huh?"
+        },
+        {
+            "key": "202",
+            "value": "Gah! There's snakes coming out of it!"
+        },
+        {
+            "key": "203",
+            "value": "Why would their den be in a place like this!?"
+        },
+        {
+            "key": "204",
+            "value": "C-calm down! If you don't provoke them, they should leave you alone!"
+        },
+        {
+            "key": "205",
+            "value": "Lucio! There's one around your feet!"
+        },
+        {
+            "key": "206",
+            "value": "Whoa!"
+        },
+        {
+            "key": "207",
+            "value": "Look out!"
+        },
+        {
+            "key": "208",
+            "value": "You fell pretty hard. Are you okay?"
+        },
+        {
+            "key": "209",
+            "value": "Ouch... Th-thank you. And I'm sorry you had to come help me."
+        },
+        {
+            "key": "210",
+            "value": "It was my fault in the first place anyway."
+        },
+        {
+            "key": "211",
+            "value": "I see you are capable of helping more than just beautiful women."
+        },
+        {
+            "key": "212",
+            "value": "There's a reason why I'm so impartially nice."
+        },
+        {
+            "key": "213",
+            "value": "When Machérie sees how kind I am, it'll tug right at her heartstrings."
+        },
+        {
+            "key": "214",
+            "value": "You would risk your very life in the name of another...my, how wonderfully gallant!"
+        },
+        {
+            "key": "215",
+            "value": "Huh? What happened? He was fine a moment ago..."
+        },
+        {
+            "key": "216",
+            "value": "...He's doing it again."
+        },
+        {
+            "key": "217",
+            "value": "But of course, my sweet. I am the world's kindest gentleman, benevolent to all."
+        },
+        {
+            "key": "218",
+            "value": "Oh, my dearest Lord Camillo. You are a true gentleman indeed, befitting of the man who will take my hand and heart."
+        },
+        {
+            "key": "219",
+            "value": "At long last, you have recognized my appeal."
+        },
+        {
+            "key": "220",
+            "value": "Yes, I sense a heroic radiance from you, one that Mont lacks..."
+        },
+        {
+            "key": "221",
+            "value": "Indeed, my love. This radiance is where you belong, not with the likes of that heinous demon king."
+        },
+        {
+            "key": "222",
+            "value": "Yes... I wish only to be in your arms, Lord Camillo, not those of that despicable, evil man."
+        },
+        {
+            "key": "223",
+            "value": "As you wish. These arms are your shield. Nothing shall harm you as long as I live."
+        },
+        {
+            "key": "224",
+            "value": "Lord Camillo..."
+        },
+        {
+            "key": "225",
+            "value": "My sweet..."
+        },
+        {
+            "key": "226",
+            "value": "...Ah!"
+        },
+        {
+            "key": "227",
+            "value": "What is the matter? Is your little play over already?"
+        },
+        {
+            "key": "228",
+            "value": "I-I'm rehearsing! I don't want to get flustered when Machérie is finally swayed by my devotion."
+        },
+        {
+            "key": "229",
+            "value": "Lady Machérie will never be swayed by you. Is it not time you realized that?"
+        },
+        {
+            "key": "230",
+            "value": "But she will. Machérie and I will be wed no matter what, just wait and see!"
+        },
+        {
+            "key": "231",
+            "value": "...Hmph. So long as this delusion of yours remains just that, I guess you're free to do as you please."
+        },
+        {
+            "key": "232",
+            "value": "I can appreciate that kind of thing."
+        },
+        {
+            "key": "233",
+            "value": "Your determination to never give up is something to be admired!"
+        },
+        {
+            "key": "234",
+            "value": "...I'm very sorry to interrupt, but what are we going to do about the snakes?"
+        },
+        {
+            "key": "235",
+            "value": "Oh, sorry about that, Lucio. Let's get what we need and finish up the job!"
+        }
+    ]
+}

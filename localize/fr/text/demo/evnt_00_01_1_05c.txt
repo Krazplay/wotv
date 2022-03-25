@@ -1,0 +1,16 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "On a terrassé le chef des squelettes !"
+        },
+        {
+            "key": "002",
+            "value": "Je pense qu'on peut dire que c'est un succès."
+        },
+        {
+            "key": "003",
+            "value": "Youpi ! En route pour le château des Leonis !"
+        }
+    ]
+}

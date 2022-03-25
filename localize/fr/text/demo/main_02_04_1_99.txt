@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "256",
+            "value": "Nous allons entrer dans le château. Restez sur vos gardes."
+        },
+        {
+            "key": "257",
+            "value": "Le nuage toxique n'a pas fait fuir tous les monstres."
+        },
+        {
+            "key": "258",
+            "value": "…"
+        },
+        {
+            "key": "259",
+            "value": "Qu'est-ce que c'est que ça ?"
+        },
+        {
+            "key": "260",
+            "value": "Que veux-tu faire de cet énorme cristal ?"
+        },
+        {
+            "key": "261",
+            "value": "Nous allons en aspirer la magie et la livrer à l'Église."
+        },
+        {
+            "key": "262",
+            "value": "C'est donc ça que nous sommes venus faire ?"
+        },
+        {
+            "key": "263",
+            "value": "Entre autres."
+        },
+        {
+            "key": "264",
+            "value": "…"
+        },
+        {
+            "key": "265",
+            "value": "Allez, le château nous attend."
+        },
+        {
+            "key": "266",
+            "value": "Ce château qui vous a vu naître et grandir…"
+        }
+    ]
+}

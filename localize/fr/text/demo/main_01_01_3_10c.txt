@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Schuzelt, comment vont tes blessures ?"
+        },
+        {
+            "key": "002",
+            "value": "Pardonnez-moi, Dame Machalie."
+        },
+        {
+            "key": "003",
+            "value": "Ce n'est rien, ne t'excuse pas."
+        },
+        {
+            "key": "004",
+            "value": "Houaaaa !"
+        },
+        {
+            "key": "005",
+            "value": "Des renforts !"
+        },
+        {
+            "key": "006",
+            "value": "Des renforts ? Impossible..."
+        },
+        {
+            "key": "007",
+            "value": "Hourne ! Les renforts viennent de Hourne !"
+        },
+        {
+            "key": "008",
+            "value": "Nous allons manquer de temps..."
+        },
+        {
+            "key": "009",
+            "value": "..."
+        }
+    ]
+}

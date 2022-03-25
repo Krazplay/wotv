@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Eh?… ¡¿Lady Machérie?!"
+        },
+        {
+            "key": "002",
+            "value": "No puede ser… ¡La llevan prisionera! ¡¿A qué se debe todo esto?!"
+        },
+        {
+            "key": "003",
+            "value": "¿Acaso no sois de Hourne también?"
+        },
+        {
+            "key": "004",
+            "value": "¡Son unos traidores, eso es lo que son!"
+        },
+        {
+            "key": "005",
+            "value": "¡Aaaah, lo sabía!"
+        },
+        {
+            "key": "006",
+            "value": "¿Cómo te llamas?"
+        },
+        {
+            "key": "007",
+            "value": "Prefiero no compartir mi nombre, seguro que lo decís mal…"
+        },
+        {
+            "key": "008",
+            "value": "Va-vale, pues permíteme que te haga otra pregunta."
+        },
+        {
+            "key": "009",
+            "value": "¿Cómo va la guerra?"
+        },
+        {
+            "key": "010",
+            "value": "La verdad… es que nos tienen un poco contra las cuerdas."
+        },
+        {
+            "key": "011",
+            "value": "Entonces, os tenéis que retirar de inmediato."
+        },
+        {
+            "key": "012",
+            "value": "¿Cómo? ¿Acaso no queréis nuestra ayuda?"
+        },
+        {
+            "key": "013",
+            "value": "Meteros en esto me remordería la conciencia…"
+        },
+        {
+            "key": "014",
+            "value": "Pero…"
+        },
+        {
+            "key": "015",
+            "value": "No los subestiméis."
+        },
+        {
+            "key": "016",
+            "value": "Aunque sí que tengo un favor que pediros: enviadle este mensaje a Mont."
+        },
+        {
+            "key": "017",
+            "value": "¿A lord Mont?…"
+        },
+        {
+            "key": "018",
+            "value": "Decidle que lo estoy esperando."
+        },
+        {
+            "key": "019",
+            "value": "¿Ese es el mensaje?"
+        },
+        {
+            "key": "020",
+            "value": "Sí, ya podéis partir."
+        },
+        {
+            "key": "021",
+            "value": "¡De acuerdo! ¡¡¡Retirada!!!"
+        }
+    ]
+}

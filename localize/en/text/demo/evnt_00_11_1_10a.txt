@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Members of the Resistance..."
+        },
+        {
+            "key": "002",
+            "value": "This battle is already decided. Rundall has this entire region surrounded."
+        },
+        {
+            "key": "003",
+            "value": "We have no desire to spill blood needlessly. Surrender."
+        },
+        {
+            "key": "004",
+            "value": "...Ngh."
+        },
+        {
+            "key": "005",
+            "value": "I suppose this is as far as we go."
+        },
+        {
+            "key": "006",
+            "value": "What do we do, Corwell?"
+        },
+        {
+            "key": "007",
+            "value": "I don’t mind being the one to negotiate if you choose to yield."
+        },
+        {
+            "key": "008",
+            "value": "We fight to the end."
+        },
+        {
+            "key": "009",
+            "value": "Are you serious? You do realize we have no chance of winning, right?"
+        },
+        {
+            "key": "010",
+            "value": "I would sooner die than give them this land..."
+        },
+        {
+            "key": "011",
+            "value": "Because you were born here?"
+        },
+        {
+            "key": "012",
+            "value": "Though only scorched earth remains, this village was filled with the sound of songbirds less than a year ago."
+        },
+        {
+            "key": "013",
+            "value": "......"
+        },
+        {
+            "key": "014",
+            "value": "They plan to use it as an outpost for an invasion of Hourne."
+        },
+        {
+            "key": "015",
+            "value": "I understand this place is dear to you."
+        },
+        {
+            "key": "016",
+            "value": "But you can escape the horrors of war and start anew elsewhere, can you not?"
+        },
+        {
+            "key": "017",
+            "value": "Are you truly able to bear the memories you hold dear being sullied?"
+        },
+        {
+            "key": "018",
+            "value": "Uh..."
+        },
+        {
+            "key": "019",
+            "value": "Is it so easy for you to give up the land that your comrades shed blood, sweat, and tears to protect?"
+        },
+        {
+            "key": "020",
+            "value": "Well, it isn't for us."
+        },
+        {
+            "key": "021",
+            "value": "And so...we fight until we can no longer go on."
+        },
+        {
+            "key": "022",
+            "value": "...Very well."
+        }
+    ]
+}

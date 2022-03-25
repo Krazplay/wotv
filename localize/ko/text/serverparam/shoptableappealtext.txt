@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "ItemSetA",
+            "value": "1일 1개"
+        },
+        {
+            "key": "ItemSetB",
+            "value": "1일 10개"
+        },
+        {
+            "key": "ItemSetC",
+            "value": "1개 한정"
+        },
+        {
+            "key": "ItemSetD",
+            "value": "10개 한정"
+        }
+    ]
+}

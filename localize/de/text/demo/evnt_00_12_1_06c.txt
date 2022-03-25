@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hier hält sich der Meister auf? So weit draußen im Hinterland ...?"
+        },
+        {
+            "key": "002",
+            "value": "... Hier lang."
+        },
+        {
+            "key": "003",
+            "value": "Da bist du ja, Zakahl. Lange ist es her."
+        },
+        {
+            "key": "004",
+            "value": "Meister Harvas ... Ihr seid es!"
+        },
+        {
+            "key": "005",
+            "value": "Remyura. Wo warst du die letzten Tage?"
+        },
+        {
+            "key": "006",
+            "value": "Ich ..."
+        },
+        {
+            "key": "007",
+            "value": "... Es spielt keine Rolle."
+        },
+        {
+            "key": "008",
+            "value": "Was ist denn nun eigentlich mit Velrick?"
+        },
+        {
+            "key": "009",
+            "value": "Ich bin hier, zu deinem Unglück."
+        },
+        {
+            "key": "010",
+            "value": "Velrick ..."
+        },
+        {
+            "key": "011",
+            "value": "Ich war mir sicher, du würdest nicht kommen."
+        },
+        {
+            "key": "012",
+            "value": "Es gibt keinen Grund für mich, nicht zu erscheinen."
+        },
+        {
+            "key": "013",
+            "value": "... Ich verstehe."
+        },
+        {
+            "key": "014",
+            "value": "Meister, wir sind vollzählig."
+        },
+        {
+            "key": "015",
+            "value": "Vater zeigt sich anderen nicht mehr."
+        },
+        {
+            "key": "016",
+            "value": "... Weshalb?"
+        },
+        {
+            "key": "017",
+            "value": "Nachdem er euch, seine Lehrlinge, hinaus in die Welt geschickt hatte, begann es. "
+        },
+        {
+            "key": "018",
+            "value": "Die Verfolgung der Schwertschmiede ... Und es wurde immer schlimmer ..."
+        },
+        {
+            "key": "019",
+            "value": "Was?! Schwertschmiede werden verfolgt?!"
+        },
+        {
+            "key": "020",
+            "value": "Ja ..."
+        },
+        {
+            "key": "021",
+            "value": "Seit Garval den Vorsitz der Waffenhändlergilde übernommen hat."
+        },
+        {
+            "key": "022",
+            "value": "Er hat den direkten Handel zwischen Schmieden und den Nationen verboten."
+        },
+        {
+            "key": "023",
+            "value": "... Womit er die Leute also zwingen will, über die Gilde zu handeln."
+        },
+        {
+            "key": "024",
+            "value": "Durch diesen Schachzug hat es die Gilde zu so viel Macht und Reichtum gebracht, dass sie jetzt den Königreichen nahezu ebenbürtig ist."
+        },
+        {
+            "key": "025",
+            "value": "Es gab jedoch auch Leute wie Vater, die sich diesem Diktat widersetzten."
+        },
+        {
+            "key": "026",
+            "value": "Und deswegen ..."
+        },
+        {
+            "key": "027",
+            "value": "Ist dem Meister etwas geschehen?!"
+        },
+        {
+            "key": "028",
+            "value": "Man hat ihn vergiftet ... und dadurch vollkommen entstellt. "
+        },
+        {
+            "key": "029",
+            "value": "Was ...?!"
+        },
+        {
+            "key": "030",
+            "value": "Auf seinem ganzen Körper bildeten sich eitrige Geschwüre, ihm fielen die Haare aus, und beide Augen wurden trüb und blind."
+        },
+        {
+            "key": "031",
+            "value": "..."
+        },
+        {
+            "key": "032",
+            "value": "Solltet ihr mich in meiner jetzigen abscheulichen Gestalt dennoch nach draußen rufen, so werde ich mich zeigen ..."
+        },
+        {
+            "key": "033",
+            "value": "Nein bitte, schont Euch."
+        },
+        {
+            "key": "034",
+            "value": "Diese verdammten Gildenbastarde ..."
+        },
+        {
+            "key": "035",
+            "value": "Nun denn ... Lasset uns beginnen."
+        },
+        {
+            "key": "036",
+            "value": "Habt ihr euer schärfstes Schmiedgut mitgebracht, wie ich euch in meinem Brief angewiesen habe?"
+        },
+        {
+            "key": "037",
+            "value": "Dies ist mein Meisterstück."
+        },
+        {
+            "key": "038",
+            "value": "Verlieren kommt für mich nicht in Frage. Auch nicht, wenn du, Velrick, mein Gegner bist ..."
+        },
+        {
+            "key": "039",
+            "value": "... Hmmm. Ich sehe, du hast nicht nur große Worte zu bieten."
+        },
+        {
+            "key": "040",
+            "value": "Offenbar hast du die letzten zwei Jahre weise genutzt."
+        },
+        {
+            "key": "041",
+            "value": "Meister, Euer Urteil bitte. Dies sind die Früchte unserer Ausbildung."
+        },
+        {
+            "key": "042",
+            "value": "... Sieh an. Die endgültige Qualitätsprüfung obliegt allerdings nicht mir."
+        },
+        {
+            "key": "043",
+            "value": "Wem denn dann ...?"
+        },
+        {
+            "key": "044",
+            "value": "... Merkst du es denn nicht? Etwas nähert sich ..."
+        },
+        {
+            "key": "045",
+            "value": "...!"
+        },
+        {
+            "key": "046",
+            "value": "... Monster also."
+        },
+        {
+            "key": "047",
+            "value": "Was macht eine ganze Herde hier ...?"
+        },
+        {
+            "key": "048",
+            "value": "Ich habe sie angelockt."
+        },
+        {
+            "key": "049",
+            "value": "Um an ihnen die Schärfe unserer Klingen zu demonstrieren?"
+        },
+        {
+            "key": "050",
+            "value": "... Fangt an!"
+        }
+    ]
+}

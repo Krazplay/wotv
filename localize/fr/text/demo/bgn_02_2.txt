@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Cette leçon est consacrée aux notions de <color=#0000ff>PT</color>, de <color=#0000ff>PA</color> et de <color=#0000ff>Limite</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Pour être lancées, les aptitudes requièrent, selon leur type, soit des <color=#0000ff>PT (points techniques)</color>, soit des <color=#0000ff>PA (points d'attaque)</color>."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Les aptitudes qui requièrent des <color=#0000ff>PT</color> sont souvent des aptitudes de <color=#0000ff>soutien</color>, tandis que celles qui requièrent des <color=#0000ff>PA</color> sont souvent des aptitudes de <color=#0000ff>dégâts</color>."
+        },
+        {
+            "key": "004",
+            "value": "Au début du combat, vous disposez de <color=#0000ff>tous vos PT</color> mais <color=#0000ff>ils ne se régénèrent pas</color> sans l'utilisation d'objets tels que des Éthers."
+        },
+        {
+            "key": "005",
+            "value": "À l'inverse, comme vous disposez de peu de PA au début du combat, lancer des attaques normales ou consommatrices de PT permet d'en <color=#0000ff>accumuler naturellement</color>."
+        },
+        {
+            "key": "006",
+            "value": "Certaines unités possèdent des <color=#0000ff>Limites</color>. Ce sont des <color=#0000ff>techniques spéciales</color> qui requièrent <color=#0000ff>beaucoup de PA</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Attention ! Ces aptitudes ont un <color=#0000ff>nombre limité d'utilisations disponibles</color>."
+        },
+        {
+            "key": "008",
+            "value": "Vous triomphez, comme toujours, Sire !"
+        },
+        {
+            "key": "009",
+            "value": "Avez-vous remarqué que les aptitudes qui requièrent des PT sont affichées <color=#0000ff>en jaune</color>, tandis que celles qui requièrent des PA sont affichées <color=#0000ff>en rose</color> ?"
+        },
+        {
+            "key": "010",
+            "value": "Souvenez vous, les compétences de soutien utilisent des PT, tandis que les compétences d'attaque utilisent des PA. Mieux vous comprendrez leurs fonctionnements respectifs, plus vous brillerez au combat."
+        }
+    ]
+}

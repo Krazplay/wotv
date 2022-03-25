@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Euer Hoheit ...!"
+        },
+        {
+            "key": "002",
+            "value": "D-Das ist nicht der Ort, an dem mein Leben endet!"
+        },
+        {
+            "key": "003",
+            "value": "Nein ... Hier werde ich nicht mein Ende finden!"
+        },
+        {
+            "key": "004",
+            "value": "Das Haus Leonis wird fortbestehen, auch wenn wir uns den Zorn der Götter zuziehen müssen, um es zu verteidigen."
+        }
+    ]
+}

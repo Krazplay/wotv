@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Ahí está el muy canalla!"
+        },
+        {
+            "key": "002",
+            "value": "¡¡¡Muragaaaaa!!!"
+        },
+        {
+            "key": "003",
+            "value": "¿Eh? ¿A quién tenemos aquí? ¿Al caballero de las puñaladas traperas que traicionó a Fennes?"
+        },
+        {
+            "key": "004",
+            "value": "¡No saques a pasear esa lengua bífida, ahórrate el veneno!"
+        },
+        {
+            "key": "005",
+            "value": "Anda, ¿también traes compañía?"
+        },
+        {
+            "key": "006",
+            "value": "Queréis mi cabeza antes de que lleguen las tropas de Hourne, ¿verdad?"
+        },
+        {
+            "key": "007",
+            "value": "…"
+        },
+        {
+            "key": "008",
+            "value": "Lilit, ¿verdad? Me acuerdo de ti."
+        },
+        {
+            "key": "009",
+            "value": "Y tú también deberías acordarte… de que no tienes lo que hay que tener para vencerme."
+        },
+        {
+            "key": "010",
+            "value": "No soy la misma de antes. Y, como bien dices, esta vez no vengo sola."
+        },
+        {
+            "key": "011",
+            "value": "¿Qué es lo que ha cambiado? Nada de nada. ¿Una rata más? Bien, ahora sois dos ratas, pero lo seguís teniendo muy crudo."
+        },
+        {
+            "key": "012",
+            "value": "¡Basta de cháchara! ¡Desenvaina la espada!"
+        },
+        {
+            "key": "013",
+            "value": "Je, je, je. El Intrépido de la guardia real de Solidus, ¿verdad? ¡Qué bien me lo voy a pasar!"
+        }
+    ]
+}

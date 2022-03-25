@@ -1,0 +1,176 @@
+﻿{
+    "infos": [
+        {
+            "key": "TutorialTips_001",
+            "value": "Tutoriales"
+        },
+        {
+            "key": "TutorialTips_001_a",
+            "value": "Acciones básicas de batalla"
+        },
+        {
+            "key": "TutorialTips_001_b",
+            "value": "Consumo de PT y PA de las habilidades"
+        },
+        {
+            "key": "TutorialTips_002_a",
+            "value": "Habilidades"
+        },
+        {
+            "key": "TutorialTips_002_b",
+            "value": "Magia de invocación"
+        },
+        {
+            "key": "GuidanceTips_Gacha",
+            "value": "Invocaciones"
+        },
+        {
+            "key": "GuidanceTips_Quest",
+            "value": "Misiones de historia"
+        },
+        {
+            "key": "GuidanceTips_ChallengeMission",
+            "value": "Pantalla principal"
+        },
+        {
+            "key": "GuidanceTips_UnitStrength",
+            "value": "Mejorar unidades"
+        },
+        {
+            "key": "GuidanceTips_UnitAwake",
+            "value": "Despertar unidades y romper el límite"
+        },
+        {
+            "key": "GuidanceTips_ArtifactCraft",
+            "value": "Equipo"
+        },
+        {
+            "key": "GuidanceTips_EventQuest",
+            "value": "Misiones de evento"
+        },
+        {
+            "key": "GuidanceTips_VisionCard",
+            "value": "Cartas de visión"
+        },
+        {
+            "key": "GuidanceTips_ExplorationChocobo",
+            "value": "Expedición chocobo y espers"
+        },
+        {
+            "key": "GuidanceTips_Party",
+            "value": "Formaciones"
+        },
+        {
+            "key": "GuidanceTips_MultiQuest",
+            "value": "Multimisiones"
+        },
+        {
+            "key": "GuidanceTips_Arena",
+            "value": "Arena"
+        },
+        {
+            "key": "GuidanceTips_FreeMatch",
+            "value": "Duelos"
+        },
+        {
+            "key": "GuidanceTips_GuildJoin",
+            "value": "Gremios"
+        },
+        {
+            "key": "GuidanceTips_GuildRookieJoin",
+            "value": "Pruebas de gremio"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendance",
+            "value": "Vestíbulo del gremio"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendanceRookie",
+            "value": "Vestíbulo del gremio (prueba de principiantes)"
+        },
+        {
+            "key": "GuidanceTips_GuildBarracks",
+            "value": "Barracones"
+        },
+        {
+            "key": "GuidanceTips_GuildStone",
+            "value": "Estatuas del gremio"
+        },
+        {
+            "key": "GuidanceTips_GuildBattle",
+            "value": "Combates de gremio"
+        },
+        {
+            "key": "GuidanceTips_UnitIntimacy",
+            "value": "Afinidad"
+        },
+        {
+            "key": "GuidanceTips_SubQuest",
+            "value": "Misiones secundarias"
+        },
+        {
+            "key": "GuidanceTips_CharaQuest",
+            "value": "Misiones de personaje"
+        },
+        {
+            "key": "GuidanceTips_ItemExchange",
+            "value": "Intercambio de objetos"
+        },
+        {
+            "key": "GuidanceTips_SupportUnit",
+            "value": "Ajustes del compañero"
+        },
+        {
+            "key": "GuidanceTips_Tower",
+            "value": "Torre de Porcelana"
+        },
+        {
+            "key": "GuidanceTips_Pointquest",
+            "value": "Pruebas del Veredicto"
+        },
+        {
+            "key": "GuidanceTips_LimitedGuildBattle",
+            "value": "Combate de gremio limitado"
+        },
+        {
+            "key": "GuidanceTips_GuildHunt",
+            "value": "Misiones de gremio"
+        },
+        {
+            "key": "GuidanceTips_ExJob",
+            "value": "Profesiones EX"
+        },
+        {
+            "key": "GuidanceTips_Mastery",
+            "value": "Maestría"
+        },
+        {
+            "key": "GuidanceTips_BattleRoad",
+            "value": "Misiones selectas"
+        },
+        {
+            "key": "GuidanceTips_DraftMatch",
+            "value": "Duelo rápido"
+        },
+        {
+            "key": "GuidanceTips_GuildVCBarracks",
+            "value": "Altar de cartas de visión"
+        },
+        {
+            "key": "GuidanceTips_GuildRaid",
+            "value": "Asaltos de gremio"
+        },
+        {
+            "key": "GuidanceTips_LeagueGuildBattle",
+            "value": "Supremacía de combates de gremio"
+        },
+        {
+            "key": "GuidanceTips_TrustMateria",
+            "value": "Fidelicitas"
+        },
+        {
+            "key": "GuidanceTips_Archive",
+            "value": "Archivo del Etéreo"
+        }
+    ]
+}

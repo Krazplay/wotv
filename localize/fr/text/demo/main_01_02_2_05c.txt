@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Mont... Que faites-vous, bon sang ?"
+        },
+        {
+            "key": "002",
+            "value": "Cette attente devient insupportable."
+        },
+        {
+            "key": "003",
+            "value": "..."
+        },
+        {
+            "key": "004",
+            "value": "Je m'en doutais. Vous voilà."
+        },
+        {
+            "key": "005",
+            "value": "Vous devriez retourner au donjon. La brise nocturne n'est pas bonne pour vous."
+        },
+        {
+            "key": "006",
+            "value": "On dit que Mont est le prince aîné des Leonis."
+        },
+        {
+            "key": "007",
+            "value": "Il l'est. Pourquoi cette remarque ?"
+        },
+        {
+            "key": "008",
+            "value": "N'êtes-vous pas inquiet ?"
+        },
+        {
+            "key": "009",
+            "value": "Mont ne serait plus prince si son royaume tombait."
+        },
+        {
+            "key": "010",
+            "value": "Vous ne ressentez aucune compassion à son égard ?"
+        },
+        {
+            "key": "011",
+            "value": "Aucun père ne souhaiterait que son enfant ne rentre pas sain et sauf. Mais hélas..."
+        },
+        {
+            "key": "012",
+            "value": "On ne peut pas s'attendre à remplir son devoir de gardien si on laisse trop son cœur prendre le dessus."
+        },
+        {
+            "key": "013",
+            "value": "Son devoir de... gardien ? Que voulez-vous dire ?"
+        },
+        {
+            "key": "014",
+            "value": "Cela ne vous regarde pas."
+        },
+        {
+            "key": "015",
+            "value": "Maintenant, allez dans la tour du château."
+        },
+        {
+            "key": "016",
+            "value": "Après tout, le retour de Mont au château n'est pas garanti."
+        }
+    ]
+}

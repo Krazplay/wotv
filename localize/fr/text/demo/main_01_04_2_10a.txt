@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... !"
+        },
+        {
+            "key": "002",
+            "value": "(... Mère ?!)"
+        },
+        {
+            "key": "003",
+            "value": "Qu'est-ce qui n'va pas ?"
+        },
+        {
+            "key": "004",
+            "value": "Ton Leonis natal t'manque déjà ?"
+        },
+        {
+            "key": "005",
+            "value": "Je suis impatient de retrouver Eldo pour pouvoir le tuer."
+        },
+        {
+            "key": "006",
+            "value": "Hé hé hé, qu'c'est bon à entendre !"
+        },
+        {
+            "key": "007",
+            "value": "Alors, allons-y."
+        }
+    ]
+}

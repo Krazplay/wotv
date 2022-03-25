@@ -1,0 +1,176 @@
+﻿{
+    "infos": [
+        {
+            "key": "TutorialTips_001",
+            "value": "Tutoriels"
+        },
+        {
+            "key": "TutorialTips_001_a",
+            "value": "Opérations basiques de combat"
+        },
+        {
+            "key": "TutorialTips_001_b",
+            "value": "Aptitudes consommatrices de PA et de PT"
+        },
+        {
+            "key": "TutorialTips_002_a",
+            "value": "Caractéristiques d'aptitude"
+        },
+        {
+            "key": "TutorialTips_002_b",
+            "value": "Magie d'invocation"
+        },
+        {
+            "key": "GuidanceTips_Gacha",
+            "value": "Invoquer"
+        },
+        {
+            "key": "GuidanceTips_Quest",
+            "value": "Quêtes d'histoire"
+        },
+        {
+            "key": "GuidanceTips_ChallengeMission",
+            "value": "Écran d'accueil"
+        },
+        {
+            "key": "GuidanceTips_UnitStrength",
+            "value": "Amélioration d'unité"
+        },
+        {
+            "key": "GuidanceTips_UnitAwake",
+            "value": "Éveiller et briser la limite"
+        },
+        {
+            "key": "GuidanceTips_ArtifactCraft",
+            "value": "Équipement"
+        },
+        {
+            "key": "GuidanceTips_EventQuest",
+            "value": "Quêtes d'événement"
+        },
+        {
+            "key": "GuidanceTips_VisionCard",
+            "value": "Atouts-visions"
+        },
+        {
+            "key": "GuidanceTips_ExplorationChocobo",
+            "value": "Expédition chocobo et chimères"
+        },
+        {
+            "key": "GuidanceTips_Party",
+            "value": "Formations"
+        },
+        {
+            "key": "GuidanceTips_MultiQuest",
+            "value": "Quêtes multi"
+        },
+        {
+            "key": "GuidanceTips_Arena",
+            "value": "Arène"
+        },
+        {
+            "key": "GuidanceTips_FreeMatch",
+            "value": "Face-à-face"
+        },
+        {
+            "key": "GuidanceTips_GuildJoin",
+            "value": "Créer et rejoindre une guilde"
+        },
+        {
+            "key": "GuidanceTips_GuildRookieJoin",
+            "value": "Essais de guilde"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendance",
+            "value": "Hall de guilde"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendanceRookie",
+            "value": "Hall de guilde (Essai pour débutant)"
+        },
+        {
+            "key": "GuidanceTips_GuildBarracks",
+            "value": "La caserne"
+        },
+        {
+            "key": "GuidanceTips_GuildStone",
+            "value": "Statues de guilde"
+        },
+        {
+            "key": "GuidanceTips_GuildBattle",
+            "value": "Combats de guilde"
+        },
+        {
+            "key": "GuidanceTips_UnitIntimacy",
+            "value": "Affinité"
+        },
+        {
+            "key": "GuidanceTips_SubQuest",
+            "value": "Quêtes secondaires"
+        },
+        {
+            "key": "GuidanceTips_CharaQuest",
+            "value": "Quêtes de personnage"
+        },
+        {
+            "key": "GuidanceTips_ItemExchange",
+            "value": "Échange d'objets"
+        },
+        {
+            "key": "GuidanceTips_SupportUnit",
+            "value": "Paramètres des personnages de soutien"
+        },
+        {
+            "key": "GuidanceTips_Tower",
+            "value": "Tour de porcelaine"
+        },
+        {
+            "key": "GuidanceTips_Pointquest",
+            "value": "Épreuves du Jugement"
+        },
+        {
+            "key": "GuidanceTips_LimitedGuildBattle",
+            "value": "Combat de guilde limité"
+        },
+        {
+            "key": "GuidanceTips_GuildHunt",
+            "value": "Quêtes de guilde"
+        },
+        {
+            "key": "GuidanceTips_ExJob",
+            "value": "Jobs EX"
+        },
+        {
+            "key": "GuidanceTips_Mastery",
+            "value": "Maîtrise"
+        },
+        {
+            "key": "GuidanceTips_BattleRoad",
+            "value": "Quêtes sélectives"
+        },
+        {
+            "key": "GuidanceTips_DraftMatch",
+            "value": "Match à sélection rapide"
+        },
+        {
+            "key": "GuidanceTips_GuildVCBarracks",
+            "value": "Autel des atouts-visions"
+        },
+        {
+            "key": "GuidanceTips_GuildRaid",
+            "value": "Raids de guilde"
+        },
+        {
+            "key": "GuidanceTips_LeagueGuildBattle",
+            "value": "Combats de guilde : Lutte pour le sommet"
+        },
+        {
+            "key": "GuidanceTips_TrustMateria",
+            "value": "Tablettes sacrées"
+        },
+        {
+            "key": "GuidanceTips_Archive",
+            "value": "Archives de l'Au-delà"
+        }
+    ]
+}

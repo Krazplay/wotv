@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "449",
+            "value": "Puedo verlo. Ese es el castillo de Ovis."
+        },
+        {
+            "key": "450",
+            "value": "Aunque se pueda ver, aún nos queda un buen trecho."
+        },
+        {
+            "key": "451",
+            "value": "Todavía no estamos tan cerca como para saber qué está pasando."
+        },
+        {
+            "key": "452",
+            "value": "Eso me temo, majestad."
+        },
+        {
+            "key": "453",
+            "value": "Pues sigamos adelante."
+        },
+        {
+            "key": "454",
+            "value": "Sí, continuemos."
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... Es sind zu viele, das schaffen wir nicht ..."
+        },
+        {
+            "key": "002",
+            "value": "Velne, du musst an dich glauben. Und an mich. Gemeinsam stehen wir das durch."
+        },
+        {
+            "key": "003",
+            "value": "... Verstanden."
+        },
+        {
+            "key": "004",
+            "value": "... Was?!"
+        },
+        {
+            "key": "005",
+            "value": "Wer seid ihr und was wollt ihr?!"
+        },
+        {
+            "key": "006",
+            "value": "Wie Ghalzarks Leute seht ihr zumindest<br>nicht aus ..."
+        },
+        {
+            "key": "007",
+            "value": "Oh, ist Ghalzark ein Bekannter von euch?"
+        },
+        {
+            "key": "008",
+            "value": "Du bist ... von der Kirche?"
+        },
+        {
+            "key": "009",
+            "value": "Ja, ich bin Sadali von der Kirche des Kristalls."
+        },
+        {
+            "key": "010",
+            "value": "Ich bin Garval. Das ist meine Schwester Velne."
+        },
+        {
+            "key": "011",
+            "value": "Interessant ..."
+        },
+        {
+            "key": "012",
+            "value": "Nimm es mir nicht übel, aber mit Ghalzark will ich nichts zu tun haben."
+        },
+        {
+            "key": "013",
+            "value": "Ah, das ist gut zu wissen. Dann stehen wir also nicht unbedingt auf verschiedenen Seiten."
+        },
+        {
+            "key": "014",
+            "value": "Die Kirche und die Waffenhändlergilde sind also Gegner?"
+        },
+        {
+            "key": "015",
+            "value": "So wie es scheint, hältst du ja selbst nicht allzu viel von Ghalzark ..."
+        },
+        {
+            "key": "016",
+            "value": "Darf ich dich fragen, was genau vorgefallen ist?"
+        },
+        {
+            "key": "017",
+            "value": "Es war eine weise Entscheidung, sich nicht auf das Angebot dieses Mannes einzulassen."
+        },
+        {
+            "key": "018",
+            "value": "Ist er wirklich so gefährlich?"
+        },
+        {
+            "key": "019",
+            "value": "Ghalzarks Waffenhändlergilde ist wegen ihrer hochmütigen Vorgehensweise nicht gerade beliebt bei den Königreichen."
+        },
+        {
+            "key": "020",
+            "value": "Sie bedroht unabhängige Waffenschmiede und nutzt ihre Monopolstellung bei Verhandlungen selbst mit den größeren Nationen gnadenlos aus."
+        },
+        {
+            "key": "021",
+            "value": "Mit ihren Machenschaften sorgt die Gilde dafür, dass sich der Kreislauf von Krieg und Gewalt ewig fortsetzt. Und das einfache Volk zahlt den Preis."
+        },
+        {
+            "key": "022",
+            "value": "Es ist an der Zeit, dass die Waffenhändlergilde reformiert wird."
+        },
+        {
+            "key": "023",
+            "value": "... Und warum erzählst du uns das alles?"
+        },
+        {
+            "key": "024",
+            "value": "Aus deiner Frage schließe ich, dass ihr nicht in derart lästige Angelegenheiten verwickelt werden wollt?"
+        },
+        {
+            "key": "025",
+            "value": "..."
+        },
+        {
+            "key": "026",
+            "value": "Ghalzarks Gilde ist ein blutsaugendes Ungetüm."
+        },
+        {
+            "key": "027",
+            "value": "Dabei hat sie eigentlich durchaus einen Zweck, denn viele Waffenschmiede verdienen durch sie ihr Brot."
+        },
+        {
+            "key": "028",
+            "value": "... Mich beschleicht allmählich das Gefühl, dass du mir sagst, ich solle Ghalzark als Obmann der Waffenhändlergilde ersetzen."
+        },
+        {
+            "key": "029",
+            "value": "Stell dir nur einmal vor, wie viel leichter es die Yezagis mit der Unterstützung der Gilde haben könnten."
+        },
+        {
+            "key": "030",
+            "value": "Wäre es das nicht wert ...?"
+        },
+        {
+            "key": "031",
+            "value": "Du hast es also bemerkt."
+        },
+        {
+            "key": "032",
+            "value": "Alle Menschen sind gleich vor den Kristallen. Unterdrückung und Ausgrenzung müssen enden. Und um das zu erreichen ..."
+        },
+        {
+            "key": "033",
+            "value": "Gut, du hast mich überzeugt. Aber wie soll jemanden wie ich Ghalzark vom Thron stoßen?"
+        },
+        {
+            "key": "034",
+            "value": "Ich werde dir meine Mönchsoldaten zur Seite stellen."
+        },
+        {
+            "key": "035",
+            "value": "Unter einer Bedingung ... Solltest du erfolgreich sein, musst du Stillschweigen über die Rolle der Kirche in dieser Sache bewahren."
+        },
+        {
+            "key": "036",
+            "value": "Wenn unsere Absichten falsch verstanden würden, könnte das unseren Missionsbemühungen schaden."
+        },
+        {
+            "key": "037",
+            "value": "Wieso habt Ihr einen Fremden mit solch einer Aufgabe betraut ...?"
+        },
+        {
+            "key": "038",
+            "value": "Die Yezagis wurden immer wieder Opfer grausamer Verfolgung."
+        },
+        {
+            "key": "039",
+            "value": "Da kann ich nicht anders, als Mitgefühl mit ihnen zu haben."
+        },
+        {
+            "key": "040",
+            "value": "..."
+        },
+        {
+            "key": "041",
+            "value": "Und Ihr denkt, dass die Macht einer Waffenhändlergilde ihrem Volk eine würdevolle, friedliche Zukunft garantiert ...?"
+        },
+        {
+            "key": "042",
+            "value": "Hahaha, selbstverständlich nicht."
+        },
+        {
+            "key": "043",
+            "value": "Eine friedliche Zukunft käme uns nämlich ganz furchtbar ungelegen."
+        },
+        {
+            "key": "044",
+            "value": "Hahahaha ..."
+        }
+    ]
+}

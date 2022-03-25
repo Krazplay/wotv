@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Montre-toi…"
+        },
+        {
+            "key": "002",
+            "value": "Tss."
+        },
+        {
+            "key": "003",
+            "value": "Tu penses te cacher encore longtemps ?"
+        },
+        {
+            "key": "004",
+            "value": "Hé hé hé ! Je dois dire que tu m'impressionnes."
+        },
+        {
+            "key": "005",
+            "value": "Mais… ce n'est pas toi qu'on cherche."
+        },
+        {
+            "key": "006",
+            "value": "Je comprends mieux ce que ressent Miranda."
+        },
+        {
+            "key": "007",
+            "value": "Elle m'a parlé des mauvaises intentions de ceux qui osent s'introduire sur les terres sacrées de l'est."
+        },
+        {
+            "key": "008",
+            "value": "Et… Vous ne semblez pas enclins à suivre la voie du samouraï."
+        },
+        {
+            "key": "009",
+            "value": "Que venez-vous faire ici ? Et je te conseille de bien réfléchir à ta réponse…"
+        },
+        {
+            "key": "010",
+            "value": "Arrête avec cet air menaçant. Nous ne sommes pas aussi cruels que tu sembles le penser."
+        },
+        {
+            "key": "011",
+            "value": "Enfin… Où puis-je trouver ceux qu'on appelle « Maîtres de l'est » ?"
+        },
+        {
+            "key": "012",
+            "value": "Qu'est-ce que tu leur veux ?"
+        },
+        {
+            "key": "013",
+            "value": "Je n'ai aucun compte à rendre à des va-nu-pieds de ton espèce."
+        },
+        {
+            "key": "014",
+            "value": "On n'a pas toute la journée. Conduis-nous jusqu'à eux ou sinon…"
+        },
+        {
+            "key": "015",
+            "value": "Je ne pouvais rêver meilleure occasion de mettre en pratique ce que j'ai appris. Allez, venez !"
+        },
+        {
+            "key": "016",
+            "value": "C'est qu'elle en veut la bougresse ! Faites-la taire."
+        }
+    ]
+}

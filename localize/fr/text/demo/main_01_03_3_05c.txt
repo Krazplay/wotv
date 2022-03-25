@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "… L'armée de Hourne arrive ?"
+        },
+        {
+            "key": "002",
+            "value": "Oui, Votre Méchanceté."
+        },
+        {
+            "key": "003",
+            "value": "Il semble que leur seconde division, « Nitor » ait été affectée à cette mission."
+        },
+        {
+            "key": "004",
+            "value": "Qu'est-ce que c't'insecte de Rob a en tête… ?"
+        },
+        {
+            "key": "005",
+            "value": "N'êtes-vous pas allié à Hourne ? Des alliés qui envoient des renforts, rien d'anormal là-dedans."
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Quel est le problème ?"
+        },
+        {
+            "key": "008",
+            "value": "Même si Wezett tente de se défendre avec son armée, si nous avons l'aide de Hourne, ils détaleront comme des lapins."
+        },
+        {
+            "key": "009",
+            "value": "Tu n'sais pas d'quoi tu parles."
+        },
+        {
+            "key": "010",
+            "value": "J'ai compris."
+        },
+        {
+            "key": "011",
+            "value": "Ah ?"
+        },
+        {
+            "key": "012",
+            "value": "Le but, en réalité, c'est d'obtenir les reliques séculaires. Vas-y, prouve-moi que j'ai tort."
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Ho ho, dans le mille on dirait !"
+        },
+        {
+            "key": "015",
+            "value": "Si c'est le cas, effectivement, ce sera plus difficile avec Hourne dans les pattes."
+        }
+    ]
+}

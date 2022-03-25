@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "…"
+        },
+        {
+            "key": "002",
+            "value": "¿Qué sucede?"
+        },
+        {
+            "key": "003",
+            "value": "Estoy preocupado por madre y por Stern… Me pregunto si se encuentran bien."
+        },
+        {
+            "key": "004",
+            "value": "Serás necio."
+        },
+        {
+            "key": "005",
+            "value": "Padre, ¿es que a ti te da igual?"
+        },
+        {
+            "key": "006",
+            "value": "¡¿Ahora te vas a poner a preocuparte por los demás?!"
+        },
+        {
+            "key": "007",
+            "value": "Pronto vamos a entrar en Wezette."
+        },
+        {
+            "key": "008",
+            "value": "Entonces, seguro que los soldados de Fennes dejan de perseguirnos."
+        },
+        {
+            "key": "009",
+            "value": "Eso estaría muy bien, aunque…"
+        },
+        {
+            "key": "010",
+            "value": "¿Crees que Fennes también tiene pensado invadir Wezette?"
+        },
+        {
+            "key": "011",
+            "value": "Al estar aliados con Hourne, no podemos descartar esa opción."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "Aún nos queda mucho para llegar al castillo de Wezette."
+        },
+        {
+            "key": "014",
+            "value": "Eso está más que claro, a juzgar por la falta de soldados."
+        },
+        {
+            "key": "015",
+            "value": "Si nuestros perseguidores nos alcanzan antes de llegar al castillo, será el fin."
+        },
+        {
+            "key": "016",
+            "value": "Entendido, padre."
+        }
+    ]
+}

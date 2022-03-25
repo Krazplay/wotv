@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "178",
+            "value": "Vous nous avez rendu un grand service ! Voici votre dû, comme promis."
+        },
+        {
+            "key": "179",
+            "value": "Fiou… Donc ce cristal fondamental augmente l'agressivité des monstres… Cette mission n'était pas bonne pour le cœur…"
+        },
+        {
+            "key": "180",
+            "value": "Mes excuses. Nous aurions dû vous le préciser avant."
+        },
+        {
+            "key": "181",
+            "value": "Ils ont rajouté un petit extra sur la paye à cause du danger que nous avons encouru, donc je dirais que ce n'est pas bien grave."
+        },
+        {
+            "key": "182",
+            "value": "Mais on est loin de notre objectif final. Passons à la prochaine mission."
+        },
+        {
+            "key": "183",
+            "value": "Quelle est-elle ?"
+        },
+        {
+            "key": "184",
+            "value": "Elle devrait être bien plus simple que la précédente. J'ai beau essayer de lire entre les lignes de l'ordre de mission, je ne vois qu'une collecte de matériaux."
+        },
+        {
+            "key": "185",
+            "value": "La guerre a entraîné une pénurie d'antidotes."
+        },
+        {
+            "key": "186",
+            "value": "Notre mission consiste en nous rendre dans la forêt pour ramasser des herbes médicinales et trouver du venin de serpent."
+        },
+        {
+            "key": "187",
+            "value": "Ça m'a l'air bien ! J'ai besoin de me dégourdir les jambes, c'est donc gagnant-gagnant !"
+        },
+        {
+            "key": "188",
+            "value": "La forêt… Avec ce temps, ce sera l'endroit parfait pour faire une sieste."
+        },
+        {
+            "key": "189",
+            "value": "Ah non, tu vas travailler. Ne nous la fais pas à l'envers."
+        },
+        {
+            "key": "190",
+            "value": "Je ne vois aucun serpent."
+        },
+        {
+            "key": "191",
+            "value": "Par contre les herbes poussent à foison. Peut-être que les monstres les ont effrayés et ils se terrent dans leurs nids."
+        },
+        {
+            "key": "192",
+            "value": "Si tu as le temps de te plaindre, alors tu as le temps de continuer à chercher, le nouveau ! Mets-y un peu plus du tien et tu finiras par en trouver !"
+        },
+        {
+            "key": "193",
+            "value": "Ta supérieure est franchement pas drôle."
+        },
+        {
+            "key": "194",
+            "value": "Ha ha ha ! C'est plutôt mon manque de discipline que je blâme…"
+        },
+        {
+            "key": "195",
+            "value": "D'homme à homme, je pense que tu devrais avoir un peu plus confiance en toi."
+        },
+        {
+            "key": "196",
+            "value": "Les dames ne perdent pas de temps avec les hommes qui manquent de confiance."
+        },
+        {
+            "key": "197",
+            "value": "Dame Machalie n'accorde pas non plus son temps aux hommes présomptueux."
+        },
+        {
+            "key": "198",
+            "value": "Oh, tais-toi ! Une fois qu'on aura libéré Ovis, je serai un homme digne de Machalie !"
+        },
+        {
+            "key": "199",
+            "value": "Hmmm… Toujours aucun serpent en vue. Il est temps de faire une pause."
+        },
+        {
+            "key": "200",
+            "value": "Ah ? J'ai l'impression que vous vous êtes assis sur un genre de nid…"
+        },
+        {
+            "key": "201",
+            "value": "Hein ?"
+        },
+        {
+            "key": "202",
+            "value": "Ah ! Des serpents viennent d'en sortir !"
+        },
+        {
+            "key": "203",
+            "value": "Pourquoi ont-ils choisi de faire leur nid dans un endroit pareil ?!"
+        },
+        {
+            "key": "204",
+            "value": "C-Calmez-vous ! Ils ne devraient rien vous faire si vous les laissez tranquilles !"
+        },
+        {
+            "key": "205",
+            "value": "Lucio ! Il y en a un enroulé autour de ton pied !"
+        },
+        {
+            "key": "206",
+            "value": "Ouah !"
+        },
+        {
+            "key": "207",
+            "value": "Attention !"
+        },
+        {
+            "key": "208",
+            "value": "Tu t'es pas raté. Est-ce que ça va ?"
+        },
+        {
+            "key": "209",
+            "value": "Aïe… M-Merci. Je suis navré que vous ayez dû venir à mon secours."
+        },
+        {
+            "key": "210",
+            "value": "C'était ma faute à la base."
+        },
+        {
+            "key": "211",
+            "value": "Eh bien, je vois que tu ne te contentes pas uniquement de sauver les jolies demoiselles."
+        },
+        {
+            "key": "212",
+            "value": "Il y a une raison particulière derrière ça."
+        },
+        {
+            "key": "213",
+            "value": "Ma gentillesse saura faire mouche dans le cœur de Machalie."
+        },
+        {
+            "key": "214",
+            "value": "« Tu es prêt à mettre ta vie en jeu pour sauver une autre personne… C-Comme c'est courageux ! »"
+        },
+        {
+            "key": "215",
+            "value": "Hmm ? Qu'est-ce qui se passe ? Il allait bien il y a encore quelques instants…"
+        },
+        {
+            "key": "216",
+            "value": "Il recommence…"
+        },
+        {
+            "key": "217",
+            "value": "« Bien sûr, mon ange. Je suis l'homme le plus gentil sur terre, le plus grand gentleman qui soit. »"
+        },
+        {
+            "key": "218",
+            "value": "« Oh, mon tendre seigneur Camillo. Tu es en effet un véritable gentleman, l'homme idéal en droit de prendre ma main et mon cœur. »"
+        },
+        {
+            "key": "219",
+            "value": "« Enfin, vous reconnaissez ma magnificence. »"
+        },
+        {
+            "key": "220",
+            "value": "« Oui. Je peux ressentir cette flamme héroïque qui brûle en toi… Cette même flamme qui fait défaut à Mont… »"
+        },
+        {
+            "key": "221",
+            "value": "« Oui, mon amour. Cette flamme ne brille que pour toi, et pas pour ce roi démoniaque empli de haine. »"
+        },
+        {
+            "key": "222",
+            "value": "« Tu as raison… Je me languis de tes bras, mon Camillo, pas de ceux de ce vil personnage. »"
+        },
+        {
+            "key": "223",
+            "value": "« Comme il te plaira. Ces bras sont ton bouclier. Rien ne pourra t'atteindre tant que je suis en vie. »"
+        },
+        {
+            "key": "224",
+            "value": "« Seigneur Camillo… »"
+        },
+        {
+            "key": "225",
+            "value": "« Mon amour… »"
+        },
+        {
+            "key": "226",
+            "value": "Ah !"
+        },
+        {
+            "key": "227",
+            "value": "C'est quoi ton problème ? Tu as fini ton petit numéro ?"
+        },
+        {
+            "key": "228",
+            "value": "J-Je m'entraîne. Je ne veux pas perdre mes moyens le jour où Machalie sera enfin sous le charme de ma dévotion !"
+        },
+        {
+            "key": "229",
+            "value": "Dame Machalie ne te remarquera jamais. Quand vas-tu enfin le comprendre ?"
+        },
+        {
+            "key": "230",
+            "value": "Bien sûr qu'elle le fera. Et on sera mariés en un rien de temps, attends pour voir."
+        },
+        {
+            "key": "231",
+            "value": "Hmm… Tant que tes désillusions ne vont pas plus loin, je dirais que tu es libre de faire ce qu'il te plaît."
+        },
+        {
+            "key": "232",
+            "value": "Je reconnais une certaine valeur à cela."
+        },
+        {
+            "key": "233",
+            "value": "J'admire la détermination qui t'anime !"
+        },
+        {
+            "key": "234",
+            "value": "Navré de vous interrompre, mais qu'est-ce qu'on fait pour les serpents ?"
+        },
+        {
+            "key": "235",
+            "value": "Oh, pardonne-moi, Lucio. Ramassons ce dont on a besoin et terminons cette mission !"
+        }
+    ]
+}

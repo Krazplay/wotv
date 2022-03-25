@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "071",
+            "value": "¡Se acercan fuerzas enemigas!"
+        },
+        {
+            "key": "072",
+            "value": "¡Acabad con ellos!"
+        },
+        {
+            "key": "073",
+            "value": "¡Ni rastro del enemigo! ¡Seguimos adelante!"
+        },
+        {
+            "key": "074",
+            "value": "¡¿Hm?!..."
+        },
+        {
+            "key": "075",
+            "value": "¡¿Rey Jayden?!"
+        },
+        {
+            "key": "076",
+            "value": "Ey. ¿Sigues viva?"
+        },
+        {
+            "key": "077",
+            "value": "Mis disculpas. He subestimado al enemigo por el tamaño de su nación..."
+        },
+        {
+            "key": "078",
+            "value": "Ya lo sé."
+        },
+        {
+            "key": "079",
+            "value": "Son lobos disfrazados de ovejas."
+        },
+        {
+            "key": "080",
+            "value": "Sobre todo esa Luciela..."
+        },
+        {
+            "key": "081",
+            "value": "Que usa las visiones de forma diabólica."
+        },
+        {
+            "key": "082",
+            "value": "Tenéis toda la razón, majestad. Por lo que se ve..."
+        },
+        {
+            "key": "083",
+            "value": "No nos honra con su presencia en el frente."
+        },
+        {
+            "key": "084",
+            "value": "Seguramente la encontremos resguardada entre los muros del castillo de Ovis..."
+        },
+        {
+            "key": "085",
+            "value": "Da miedo pensar que puede invocar visiones desde tal distancia..."
+        },
+        {
+            "key": "086",
+            "value": "Mejor que le confisquemos ese anillo a esa bruja cuanto antes."
+        },
+        {
+            "key": "087",
+            "value": "A sus órdenes, majestad."
+        },
+        {
+            "key": "088",
+            "value": "Bien, pues vayamos a echarle una mano a Heindler en el frente."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... Hournsche Truppen sind auf dem Weg hierher?!"
+        },
+        {
+            "key": "002",
+            "value": "Ja, Euer Majestät."
+        },
+        {
+            "key": "003",
+            "value": "Anscheinend ist es die 2. Division „Nitor“, die in Marsch gesetzt wurde."
+        },
+        {
+            "key": "004",
+            "value": "Was hat dieser Molch Robb nur vor ...?"
+        },
+        {
+            "key": "005",
+            "value": "Ihr seid doch mit Hourne verbündet, oder? Was ist daran komisch, dass sie Verstärkung schicken?"
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Wo liegt das Problem?"
+        },
+        {
+            "key": "008",
+            "value": "Sind hournsche Kräfte hier, wird Wezette sofort wieder zurückgeworfen, selbst wenn sie Truppen ausheben sollten."
+        },
+        {
+            "key": "009",
+            "value": "Dich geht das alles nichts an. Also schweig."
+        },
+        {
+            "key": "010",
+            "value": "Ich weiß, was sie vorhaben."
+        },
+        {
+            "key": "011",
+            "value": "Aha?"
+        },
+        {
+            "key": "012",
+            "value": "Ihr wahres Ziel ist es, sich das Relikt der Altvorderen anzueignen. Ist das nicht offensichtlich?"
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Junge, Junge. Ganz schön gerissen."
+        },
+        {
+            "key": "015",
+            "value": "Das heißt dann wohl, dass das Pack aus Hourne uns in die Quere kommen wird."
+        }
+    ]
+}

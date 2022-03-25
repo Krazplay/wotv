@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "90534",
+            "value": "Je ne vois plus personne."
+        },
+        {
+            "key": "90535",
+            "value": "Lâches !"
+        },
+        {
+            "key": "90536",
+            "value": "Quand je pense qu'on s'est fait berner par des déserteurs !"
+        },
+        {
+            "key": "90537",
+            "value": "Commandant, que faisons-nous ? Nous attaquons le château ?"
+        },
+        {
+            "key": "90538",
+            "value": "Non !"
+        },
+        {
+            "key": "90539",
+            "value": "Battez en retraite immédiatement !"
+        },
+        {
+            "key": "90540",
+            "value": "Sire Rob ?"
+        },
+        {
+            "key": "90541",
+            "value": "Ne tombez pas dans le piège de Vistral."
+        },
+        {
+            "key": "90542",
+            "value": "Mais, Sire..."
+        },
+        {
+            "key": "90543",
+            "value": "L'ennemi s'est replié dans l'enceinte du château."
+        },
+        {
+            "key": "90544",
+            "value": "Je ne vois pas comment, dans cette situation..."
+        },
+        {
+            "key": "90545",
+            "value": "… !"
+        },
+        {
+            "key": "90546",
+            "value": "C-comment ?"
+        },
+        {
+            "key": "90547",
+            "value": "Une embuscade ?!"
+        },
+        {
+            "key": "90548",
+            "value": "Retraite !"
+        },
+        {
+            "key": "90549",
+            "value": "Oui, Sire !"
+        }
+    ]
+}

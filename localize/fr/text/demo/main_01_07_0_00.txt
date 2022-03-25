@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "70001",
+            "value": "Où étiez-vous passées ?"
+        },
+        {
+            "key": "70002",
+            "value": "On est parties prendre l'air, cet endroit devient irrespirable."
+        },
+        {
+            "key": "70003",
+            "value": "Veux-tu devenir reine ou pas ? Nous nous sommes peut-être mal compris..."
+        },
+        {
+            "key": "70004",
+            "value": "Ça n'a rien à voir. Je n'aime pas être enfermée, c'est tout."
+        },
+        {
+            "key": "70005",
+            "value": "Hm..."
+        },
+        {
+            "key": "70006",
+            "value": "Dites, au fait... c'est quoi ce boucan, dans la salle de réception ?"
+        },
+        {
+            "key": "70007",
+            "value": "Leonis est notre hôte."
+        },
+        {
+            "key": "70008",
+            "value": "Oh, oh ! Ils sont vraiment bien reçus, ça c'est sûr !"
+        },
+        {
+            "key": "70009",
+            "value": "Voulez-vous aller les saluer à votre tour ?"
+        },
+        {
+            "key": "70010",
+            "value": "Avant leur voyage vers l'enfer, vous voulez dire ?"
+        },
+        {
+            "key": "70011",
+            "value": "Oh, ils iront, sans aucun doute. Mais je crois bien qu'avant cela, ils pourraient encore servir..."
+        },
+        {
+            "key": "70012",
+            "value": "Hmmm... ! Et quand ils auront rempli leur rôle ?"
+        }
+    ]
+}

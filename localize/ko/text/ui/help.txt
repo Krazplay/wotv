@@ -1,0 +1,776 @@
+﻿{
+    "infos": [
+        {
+            "key": "HOMETOP_TITLE",
+            "value": "홈 화면"
+        },
+        {
+            "key": "BUYLAPIS_TITLE",
+            "value": "환도석 구매"
+        },
+        {
+            "key": "VIP_TITLE",
+            "value": "로열 랭크"
+        },
+        {
+            "key": "APHEAL_TITLE",
+            "value": "체력 회복"
+        },
+        {
+            "key": "EXPEDITION_TITLE",
+            "value": "탐험 초코보"
+        },
+        {
+            "key": "BEGINNER_TITLE",
+            "value": "초보자의 집"
+        },
+        {
+            "key": "GACHA_TITLE",
+            "value": "소환"
+        },
+        {
+            "key": "SHOP_TITLE",
+            "value": "상점"
+        },
+        {
+            "key": "UNIT_TOP_TITLE",
+            "value": "유닛"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE",
+            "value": "유닛 상세 정보"
+        },
+        {
+            "key": "UNIT_ABILITYBOARD_TITLE",
+            "value": "어빌리티 보드"
+        },
+        {
+            "key": "UNIT_RELEASE_TITLE",
+            "value": "어빌리티 개방"
+        },
+        {
+            "key": "UNIT_RELEASEALL_TITLE",
+            "value": "어빌리티 보드 일괄 개방"
+        },
+        {
+            "key": "UNIT_RESET_TITLE",
+            "value": "어빌리티 보드 초기화"
+        },
+        {
+            "key": "UNIT_INTIMACY_TITLE",
+            "value": "친밀도"
+        },
+        {
+            "key": "UNIT_INTIMACY_TITLE_NBEAST",
+            "value": "공명도"
+        },
+        {
+            "key": "GUILD_JOINSELECT_TITLE",
+            "value": "길드 설립 및 가입"
+        },
+        {
+            "key": "GUILD_SEARCH_TITLE",
+            "value": "길드 검색"
+        },
+        {
+            "key": "GUILD_TOP_TITLE",
+            "value": "길드 로비"
+        },
+        {
+            "key": "GUILD_LEADERREWARD_TITLE",
+            "value": "길드 마스터 보상"
+        },
+        {
+            "key": "GUILD_RANKING_TITLE",
+            "value": "길드 랭킹"
+        },
+        {
+            "key": "GUILD_ATTENDREWARD_TITLE",
+            "value": "길드 출석 보상"
+        },
+        {
+            "key": "GUILD_BARRACKS_TITLE",
+            "value": "길드 병영"
+        },
+        {
+            "key": "GUILD_STATUE_TITLE",
+            "value": "길드 석상"
+        },
+        {
+            "key": "GUILD_HUNT_TITLE",
+            "value": "길드 퀘스트"
+        },
+        {
+            "key": "GUILD_STATUEENHANCE_TITLE",
+            "value": "길드 석상 강화"
+        },
+        {
+            "key": "GUILDBATTLE_TITLE",
+            "value": "길드 전투"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "기간 한정 길드 전투"
+        },
+        {
+            "key": "GUILDBATTLE_LEAGUE_TITLE",
+            "value": "길드 전투 정상 결전"
+        },
+        {
+            "key": "GUILDBATTLE_EXERCISE_TITLE",
+            "value": "모의전(길드 전투)"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_EXERCISE_TITLE",
+            "value": "모의전(기간 한정 길드 전투)"
+        },
+        {
+            "key": "GUILDBATTLE_LEAGUE_EXERCISE_TITLE",
+            "value": "모의전(길드 전투 정상 결전)"
+        },
+        {
+            "key": "DUEL_TITLE",
+            "value": "PvP"
+        },
+        {
+            "key": "ARENA_TOP_TITLE",
+            "value": "결투장"
+        },
+        {
+            "key": "ARENA_PARTYEDIT_TITLE",
+            "value": "결투장 파티 편성"
+        },
+        {
+            "key": "ARENA_LIST_TITLE",
+            "value": "결투장 대전 상대 선택"
+        },
+        {
+            "key": "ARENA_REWARD_TITLE",
+            "value": "결투장 보상 목록"
+        },
+        {
+            "key": "ARENA_RANKINGREWARD_TITLE",
+            "value": "결투장 보상 수령"
+        },
+        {
+            "key": "MATCH_TITLE",
+            "value": "매치 전투"
+        },
+        {
+            "key": "MATCH_PARTYEDIT_TITLE",
+            "value": "매치 전투 파티 편성"
+        },
+        {
+            "key": "MATCH_MAKEROOM_TITLE",
+            "value": "친구 매치"
+        },
+        {
+            "key": "CLASSMATCH_TITLE",
+            "value": "클래스 매치"
+        },
+        {
+            "key": "CLASSMATCH_INFO_TITLE",
+            "value": "클래스 정보"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_TITLE",
+            "value": "클래스 매치 보상 목록"
+        },
+        {
+            "key": "LOBBY_TITLE",
+            "value": "이계의 성"
+        },
+        {
+            "key": "SUMMONQUEST_TITLE",
+            "value": "강적의 방"
+        },
+        {
+            "key": "SUPPORT_LIST_TITLE",
+            "value": "동행자 선택"
+        },
+        {
+            "key": "MULTI_TOP_TITLE",
+            "value": "멀티"
+        },
+        {
+            "key": "MULTI_QUESTLIST_TITLE",
+            "value": "멀티 퀘스트 선택"
+        },
+        {
+            "key": "MULTI_ROOMLIST_TITLE",
+            "value": "멀티 모집 목록"
+        },
+        {
+            "key": "MULTI_PLAYSTYLE_TITLE",
+            "value": "플레이 스타일 선택"
+        },
+        {
+            "key": "MULTI_ROOM_TITLE",
+            "value": "멀티 방"
+        },
+        {
+            "key": "MULTI_PARTYEDIT_TITLE",
+            "value": "멀티 편성 화면"
+        },
+        {
+            "key": "MULTI_RPLAYER_TITLE",
+            "value": "플레이어 정보"
+        },
+        {
+            "key": "MULTI_OTHERPLAYER_TITLE",
+            "value": "멀티 퀘스트 출격 유닛 정보"
+        },
+        {
+            "key": "RAID_ENCOUNT_TITLE",
+            "value": "레이드 출현"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "레이드"
+        },
+        {
+            "key": "RAID_ROOM_TITLE",
+            "value": "레이드 방"
+        },
+        {
+            "key": "RAID_BOSS_TITLE",
+            "value": "레이드 보스"
+        },
+        {
+            "key": "RAID_DEFEAT_TITLE",
+            "value": "레이드 토벌"
+        },
+        {
+            "key": "RAID_END_TITLE",
+            "value": "보상 수령 기간"
+        },
+        {
+            "key": "RAID_REWARD_TITLE",
+            "value": "레이드 보상"
+        },
+        {
+            "key": "RAID_PARTYEDIT_TITLE",
+            "value": "레이드 편성 화면"
+        },
+        {
+            "key": "RAID_HELP_TITLE",
+            "value": "구원 요청"
+        },
+        {
+            "key": "RAID_OTHERPLAYER_TITLE",
+            "value": "레이드 출격 유닛 정보"
+        },
+        {
+            "key": "OTHERPLAYER_TITLE",
+            "value": "다른 플레이어 정보"
+        },
+        {
+            "key": "EVENT_TITLE",
+            "value": "이벤트"
+        },
+        {
+            "key": "EVENT_QUESTLIST_TITLE",
+            "value": "이벤트 퀘스트 목록"
+        },
+        {
+            "key": "MOGSHOP_TITLE",
+            "value": "모그리 상점"
+        },
+        {
+            "key": "STORY_TITLE",
+            "value": "스토리 퀘스트"
+        },
+        {
+            "key": "STORY_SELECT_TITLE",
+            "value": "스토리 퀘스트"
+        },
+        {
+            "key": "STORY_SORTIE_TITLE",
+            "value": "출격 화면"
+        },
+        {
+            "key": "STORY_FORCEDSORTIE_TITLE",
+            "value": "스토리 강제 출격"
+        },
+        {
+            "key": "STORY_LIST_TITLE",
+            "value": "동행자 선택"
+        },
+        {
+            "key": "WORLD_TITLE",
+            "value": "월드 맵"
+        },
+        {
+            "key": "WORLD_AREA_TITLE",
+            "value": "지역 맵"
+        },
+        {
+            "key": "WORLD_QUESTLIST_TITLE",
+            "value": "월드 퀘스트 목록"
+        },
+        {
+            "key": "WORLD_SORTIE_TITLE",
+            "value": "편성 화면"
+        },
+        {
+            "key": "WORLD_FORCEDSORTIE_TITLE",
+            "value": "월드 강제 출격"
+        },
+        {
+            "key": "WORLD_LIST_TITLE",
+            "value": "동행자 선택"
+        },
+        {
+            "key": "WORLD_SUBQUEST_TITLE",
+            "value": "서브 퀘스트 목록"
+        },
+        {
+            "key": "FRIEND_TITLE",
+            "value": "친구"
+        },
+        {
+            "key": "FRIEND_GIFT_TITLE",
+            "value": "친구 선물"
+        },
+        {
+            "key": "SUBMENU_QUEST_TITLE",
+            "value": "퀘스트 편성"
+        },
+        {
+            "key": "SUBMENU_DUEL_TITLE",
+            "value": "PvP 편성"
+        },
+        {
+            "key": "SUBMENU_MULTI_TITLE",
+            "value": "멀티 편성"
+        },
+        {
+            "key": "SUBMENU_GUILD_TITLE",
+            "value": "길드 전투 편성"
+        },
+        {
+            "key": "SUBMENU_TEMPLATE_TITLE",
+            "value": ""
+        },
+        {
+            "key": "SUBMENU_SUPPORT_TITLE",
+            "value": "동행자 설정"
+        },
+        {
+            "key": "ARTI_TITLE",
+            "value": "장비 정보"
+        },
+        {
+            "key": "ARTI_LIST_TITLE",
+            "value": "장비 목록"
+        },
+        {
+            "key": "ARTI_ENHANCE_TITLE",
+            "value": "장비 강화"
+        },
+        {
+            "key": "ARTI_AWAKE_TITLE",
+            "value": "장비 각성"
+        },
+        {
+            "key": "ARTI_STATUS_TITLE",
+            "value": "장비 제련"
+        },
+        {
+            "key": "ARTI_ABILITY_TITLE",
+            "value": "장비 어빌리티 강화"
+        },
+        {
+            "key": "ARTI_RESET_TITLE",
+            "value": "장비 초기화"
+        },
+        {
+            "key": "ARTI_CRAFT_TITLE",
+            "value": "제작"
+        },
+        {
+            "key": "ARTI_CRAFT_DETAIL_TITLE",
+            "value": "제작 정보"
+        },
+        {
+            "key": "ARTI_SELL_TITLE",
+            "value": "장비 판매"
+        },
+        {
+            "key": "ARTI_BULK_TITLE",
+            "value": "장비 분해"
+        },
+        {
+            "key": "NETHERBEAST_LIST_TITLE",
+            "value": "소환수 목록"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_TITLE",
+            "value": "소환수 정보"
+        },
+        {
+            "key": "NETHERBEAST_ENHANCE_TITLE",
+            "value": "일괄 강화"
+        },
+        {
+            "key": "NETHERBEAST_ABILITYBOARD_TITLE",
+            "value": "소환수 육성 보드"
+        },
+        {
+            "key": "NETHERBEAST_RELEASE_TITLE",
+            "value": "소환수 육성 보드"
+        },
+        {
+            "key": "NETHERBEAST_RELEASEALL_TITLE",
+            "value": "소환수 육성 보드 일괄 개방"
+        },
+        {
+            "key": "NETHERBEAST_RESET_TITLE",
+            "value": "소환수 육성 보드 초기화"
+        },
+        {
+            "key": "VISION_LIST_TITLE",
+            "value": "비전 카드 목록"
+        },
+        {
+            "key": "VISION_ENHANCE_TITLE",
+            "value": "강화"
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_TITLE",
+            "value": "카드 통합"
+        },
+        {
+            "key": "VISION_SELL_TITLE",
+            "value": "비전 카드 판매"
+        },
+        {
+            "key": "VISION_DETAIL_TITLE",
+            "value": "비전 카드"
+        },
+        {
+            "key": "MISSION_TITLE",
+            "value": "미션"
+        },
+        {
+            "key": "OPTION_TITLE",
+            "value": "메뉴"
+        },
+        {
+            "key": "OPTION_PLAYERINFO_TITLE",
+            "value": "플레이어 정보"
+        },
+        {
+            "key": "OPTION_STORYMEMORY_TITLE",
+            "value": "스토리 회상"
+        },
+        {
+            "key": "ITEM_TITLE",
+            "value": "아이템"
+        },
+        {
+            "key": "CHARGEBONUS_TITLE",
+            "value": "매일 구매 보너스"
+        },
+        {
+            "key": "EXCHANGE_TITLE",
+            "value": "아이템 교환소"
+        },
+        {
+            "key": "TOWER_TOP_TITLE",
+            "value": "백자탑"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "정보"
+        },
+        {
+            "key": "TOWER_PARTY_TITLE",
+            "value": "백자탑 출격 화면"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "자동 전투 대상 어빌리티"
+        },
+        {
+            "key": "CONTACT_US_TITLE",
+            "value": "문의/도움말"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_INFO_TITLE",
+            "value": "플레이어 정보"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_IDENTIFIER_TITLE",
+            "value": "플레이어 ID"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_NAME_TITLE",
+            "value": "플레이어명"
+        },
+        {
+            "key": "CONTACT_US_INQUIRIES_TITLE",
+            "value": "질문"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_TYPE_TITLE",
+            "value": "문제 유형"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_AREA_TITLE",
+            "value": "문제 발생 부분"
+        },
+        {
+            "key": "CONTACT_US_EMAIL_TITLE",
+            "value": "이메일(선택)"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_TITLE",
+            "value": "코멘트"
+        },
+        {
+            "key": "CONTACT_US_SEND_BUTTON",
+            "value": "전송"
+        },
+        {
+            "key": "CONTACT_US_TICKETS_BUTTON",
+            "value": "내 문의"
+        },
+        {
+            "key": "ISSUE_TYPE_GENERAL",
+            "value": "일반"
+        },
+        {
+            "key": "ISSUE_TYPE_ACCOUNT",
+            "value": "계정"
+        },
+        {
+            "key": "ISSUE_TYPE_GAMEPLAY",
+            "value": "게임 플레이"
+        },
+        {
+            "key": "ISSUE_TYPE_BUG",
+            "value": "버그"
+        },
+        {
+            "key": "ISSUE_TYPE_EVENT",
+            "value": "이벤트"
+        },
+        {
+            "key": "ISSUE_TYPE_FEEDBACK",
+            "value": "피드백"
+        },
+        {
+            "key": "ISSUE_TYPE_IN_APP_PURCHASE",
+            "value": "인앱 구매"
+        },
+        {
+            "key": "ISSUE_TYPE_BILLING",
+            "value": "청구서"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_LOST",
+            "value": "계정 분실"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_SHARD",
+            "value": "조각 누락"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_LAPIS",
+            "value": "환도석 누락"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_EQUIPMENT",
+            "value": "장비 누락"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_SUSPENDED",
+            "value": "계정 중지"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_OTHERS",
+            "value": "기타"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_MISSING_REWARDS",
+            "value": "보상 누락"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_CRASH",
+            "value": "이벤트 도중 종료 현상"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_BUG",
+            "value": "이벤트 버그"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_OTHERS",
+            "value": "기타"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_UNABLE_TO_DOWNLOAD",
+            "value": "다운로드 불가능"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_LOADING",
+            "value": "불러오기"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_QUEST",
+            "value": "퀘스트"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_GACHA",
+            "value": "소환"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_ARENA",
+            "value": "결투장"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_CONNECTION_ERROR",
+            "value": "접속 오류"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_OTHERS",
+            "value": "기타"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_IMAGE",
+            "value": "이미지"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TEXT",
+            "value": "텍스트"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TRANSLATION",
+            "value": "번역"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_SKILL",
+            "value": "스킬"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_OTHERS",
+            "value": "기타"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_MISSING_PURCHASE",
+            "value": "구매 누락"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_REFUND",
+            "value": "환불"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_BUNDLE",
+            "value": "번들"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_APPLE",
+            "value": "애플 앱스토어"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_GOOGLE",
+            "value": "구글 플레이 스토어"
+        },
+        {
+            "key": "SUPPORT_TICKETS_TITLE",
+            "value": "내 문의"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_CAPTION",
+            "value": "질문을 입력하십시오."
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_DIALOG_TITLE",
+            "value": "회신"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_SUCCESS_DIALOG_DESC",
+            "value": "메시지가 성공적으로 전송되었습니다."
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_FAIL_DIALOG_DESC",
+            "value": "오류가 발생하여 메시지가 전송되지 못했습니다."
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_TITLE",
+            "value": "확인"
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
+            "value": "메시지를 보내시겠습니까?"
+        },
+        {
+            "key": "POINT_QUEST_TOP_TITLE",
+            "value": "심판의 시련"
+        },
+        {
+            "key": "STAMP_TITLE",
+            "value": "인장"
+        },
+        {
+            "key": "MASTERY_TITLE",
+            "value": "마스터리"
+        },
+        {
+            "key": "DRAFTMATCH_TITLE",
+            "value": "픽업 매치"
+        },
+        {
+            "key": "DRAFTMATCH_INFO_TITLE",
+            "value": "클래스 정보"
+        },
+        {
+            "key": "DRAFTMATCH_REWARD_TITLE",
+            "value": "픽업 매치 보상 목록"
+        },
+        {
+            "key": "BATTLEROAD_TITLE",
+            "value": "선택 퀘스트"
+        },
+        {
+            "key": "BATTLEROAD_QUESTLIST_TITLE",
+            "value": "선택 퀘스트 목록"
+        },
+        {
+            "key": "FIRSTBONUS_TITLE",
+            "value": "첫 구매 보너스"
+        },
+        {
+            "key": "GUILDRAID_TOP_TITLE",
+            "value": "길드 레이드"
+        },
+        {
+            "key": "GUILDRAID_BOSS_TITLE",
+            "value": "길드 레이드 보스"
+        },
+        {
+            "key": "GUILDRAID_PARTYEDIT_TITLE",
+            "value": "길드 레이드 편성 화면"
+        },
+        {
+            "key": "UNIT_OTHERPLAYER_TITLE",
+            "value": "다른 플레이어 정보"
+        },
+        {
+            "key": "MATERIAL_LIST_TITLE",
+            "value": "신명석 목록"
+        },
+        {
+            "key": "MATERIAL_ENHANCE_TITLE",
+            "value": "신명석 강화"
+        },
+        {
+            "key": "MATERIAL_CRAFT_TITLE",
+            "value": "신명석 연성"
+        },
+        {
+            "key": "MATERIAL_SELL_TITLE",
+            "value": "신명석 분해"
+        }
+    ]
+}

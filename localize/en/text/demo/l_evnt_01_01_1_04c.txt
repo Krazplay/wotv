@@ -1,0 +1,308 @@
+﻿{
+    "infos": [
+        {
+            "key": "137",
+            "value": "...They were quite tougher than I anticipated. Ferocious, even, just as the villagers said."
+        },
+        {
+            "key": "138",
+            "value": "Wh-who are you?"
+        },
+        {
+            "key": "139",
+            "value": "Warriors of the Crystals. We aided you in the hope of you knowing something useful."
+        },
+        {
+            "key": "140",
+            "value": "Warriors of the Crystals...?"
+        },
+        {
+            "key": "141",
+            "value": "A-allow me! She means we came here in search of something."
+        },
+        {
+            "key": "142",
+            "value": "But more important than that, how do you fare?"
+        },
+        {
+            "key": "143",
+            "value": "F-fine, thanks to you two."
+        },
+        {
+            "key": "144",
+            "value": "I really appreciate the help."
+        },
+        {
+            "key": "145",
+            "value": "But what if you're actually assassins who only saved me in order to lower my guard...?"
+        },
+        {
+            "key": "146",
+            "value": "Lower your blade, Tyrrell."
+        },
+        {
+            "key": "147",
+            "value": "V-Vinera. You shouldn't come out here."
+        },
+        {
+            "key": "148",
+            "value": "For all we know, they could be Fennes assassins!"
+        },
+        {
+            "key": "149",
+            "value": "It's all right. You needn't worry about these two."
+        },
+        {
+            "key": "150",
+            "value": "H-how can you tell!?"
+        },
+        {
+            "key": "151",
+            "value": "They mean us no harm. Though I am in no condition to fight at the moment, I can still sense that much."
+        },
+        {
+            "key": "152",
+            "value": "If Vinera says you're okay..."
+        },
+        {
+            "key": "153",
+            "value": "Then I just turned my blade on the people who saved me. My apologies."
+        },
+        {
+            "key": "154",
+            "value": "I'm Tyrrell. Circumstances have forced Vinera on the road, and I've been accompanying her ever since. "
+        },
+        {
+            "key": "155",
+            "value": "As he said, my name is Vinera."
+        },
+        {
+            "key": "156",
+            "value": "Firstly, allow me to express my gratitude. Thank you for helping us."
+        },
+        {
+            "key": "157",
+            "value": "Now, then. What has brought you here?"
+        },
+        {
+            "key": "158",
+            "value": "We're looking for a Core Crystal."
+        },
+        {
+            "key": "159",
+            "value": "...Let me give you a more detailed explanation."
+        },
+        {
+            "key": "160",
+            "value": "...And here we are."
+        },
+        {
+            "key": "161",
+            "value": "So you're traveling in search of Crystals that have been strewn about to different lands..."
+        },
+        {
+            "key": "162",
+            "value": "It's quite difficult to believe...especially about your realm."
+        },
+        {
+            "key": "163",
+            "value": "To continue, do you have any information regarding the Core Crystal?"
+        },
+        {
+            "key": "164",
+            "value": "Sorry to disappoint you, but I do not."
+        },
+        {
+            "key": "165",
+            "value": "I see. Then we're off."
+        },
+        {
+            "key": "166",
+            "value": "A-a moment! That decision was made a bit too hastily!"
+        },
+        {
+            "key": "167",
+            "value": "We have no time to waste."
+        },
+        {
+            "key": "168",
+            "value": "Why do you only see things based on their efficiency, Lady Jeume?"
+        },
+        {
+            "key": "169",
+            "value": "Ahem. I will be the one asking questions for the time being."
+        },
+        {
+            "key": "170",
+            "value": "Why are you two in this tunnel? I assume you're running from someone?"
+        },
+        {
+            "key": "171",
+            "value": "Well..."
+        },
+        {
+            "key": "172",
+            "value": "Our homeland is out to take our lives."
+        },
+        {
+            "key": "173",
+            "value": "V-Vinera!?"
+        },
+        {
+            "key": "174",
+            "value": "We've heard what brought them here. Is it not fair for us to share as well?"
+        },
+        {
+            "key": "175",
+            "value": "I guess you're right..."
+        },
+        {
+            "key": "176",
+            "value": "We took refuge in these mines to escape our pursuers from Fennes."
+        },
+        {
+            "key": "177",
+            "value": "The vicious monsters proved to be too great in number, however, so we have been unable to advance any farther..."
+        },
+        {
+            "key": "178",
+            "value": "...Which leads me to a proposition."
+        },
+        {
+            "key": "179",
+            "value": "Would you escort us through the mines?"
+        },
+        {
+            "key": "180",
+            "value": "Wh-what are you saying!? I'm the only escort you need..."
+        },
+        {
+            "key": "181",
+            "value": "Tyrrell... We cannot afford any chance of being caught."
+        },
+        {
+            "key": "182",
+            "value": "So would it not be better to have as many people guarding us as possible?"
+        },
+        {
+            "key": "183",
+            "value": "What keeps you from fighting as well, Lady Vinera?"
+        },
+        {
+            "key": "184",
+            "value": "Vinera is carrying a child."
+        },
+        {
+            "key": "185",
+            "value": "So she can't fight. Even if she wanted to, I wouldn't let her."
+        },
+        {
+            "key": "186",
+            "value": "Can't fight...? Then what purpose does the sword on your hip serve?"
+        },
+        {
+            "key": "187",
+            "value": "...Someone very dear to me entrusted me with it."
+        },
+        {
+            "key": "188",
+            "value": "I think of it as a lucky charm."
+        },
+        {
+            "key": "189",
+            "value": "So that's how you ended up here... What should we do, Lady Jeume?"
+        },
+        {
+            "key": "190",
+            "value": "We don't have the time for detours."
+        },
+        {
+            "key": "191",
+            "value": "Even more so, I can't take part in something as inefficient as protecting the weak."
+        },
+        {
+            "key": "192",
+            "value": "Of course, I would not ask without offering something in return. We shall help you find the Core Crystal."
+        },
+        {
+            "key": "193",
+            "value": "If you think it might be in the mines somewhere, would it not make sense to have as many people looking for it as possible?"
+        },
+        {
+            "key": "194",
+            "value": "Since they've offered to help us, the least we could do is escort them, don't you think?"
+        },
+        {
+            "key": "195",
+            "value": "I don't understand why we would guard a burden such as Vinera."
+        },
+        {
+            "key": "196",
+            "value": "Escorting them means putting ourselves at risk."
+        },
+        {
+            "key": "197",
+            "value": "I don't find it necessary to endanger myself for the sake of others."
+        },
+        {
+            "key": "198",
+            "value": "I'm inexperienced as a Warrior of the Crystals, and it may not mean much coming from someone who is not human..."
+        },
+        {
+            "key": "199",
+            "value": "But humans do not live their lives based solely on what they might lose or gain."
+        },
+        {
+            "key": "200",
+            "value": "Moreover, I can't just leave them to fend for themselves."
+        },
+        {
+            "key": "201",
+            "value": "Not as a Warrior of the Crystals, but as the being that I am..."
+        },
+        {
+            "key": "202",
+            "value": "...Just answer one thing."
+        },
+        {
+            "key": "203",
+            "value": "Do you think there is meaning in the strong protecting the weak?"
+        },
+        {
+            "key": "204",
+            "value": "I cannot say."
+        },
+        {
+            "key": "205",
+            "value": "But I do know that if I fail to offer my assistance in this moment, I'll live to regret it later."
+        },
+        {
+            "key": "206",
+            "value": "...All right."
+        },
+        {
+            "key": "207",
+            "value": "We'll heed your request."
+        },
+        {
+            "key": "208",
+            "value": "But only until we find the Crystal. Agreed?"
+        },
+        {
+            "key": "209",
+            "value": "Of course. You have my thanks."
+        },
+        {
+            "key": "210",
+            "value": "...We could always use you as bait if things take a turn, after all."
+        },
+        {
+            "key": "211",
+            "value": "Hey, Vinera? Maybe these were the wrong people to ask for help after all..."
+        },
+        {
+            "key": "212",
+            "value": "H-hahaha..."
+        }
+    ]
+}

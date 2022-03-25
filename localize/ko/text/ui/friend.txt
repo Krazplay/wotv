@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "FRIEND_INVITE_TITLE",
+            "value": "친구 초대"
+        },
+        {
+            "key": "FRIEND_INVITE_AMOUNT_TITLE",
+            "value": "초대 인원 수"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INVITE",
+            "value": "친구를 초대"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INPUT",
+            "value": "초대 코드 입력"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_TITLE",
+            "value": "친구 초대 보상"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_DESC",
+            "value": "친구를 게임에 초대하세요!<br>친구가 플레이를 시작하면 보상을 선물합니다!"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_CONDITION",
+            "value": "※ 친구 초대는 Rank.{0} 이상부터 가능합니다."
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_TITLE",
+            "value": "초대 코드 입력 보상"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_CONDITION",
+            "value": "※ 초대 코드는 Rank.{0} 이후로 입력할 수 있습니다."
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_RANK",
+            "value": "Rank.{0} 이상이면 초대 가능"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_LIMIT",
+            "value": "초대 인원 수 한도"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_CHALLANGE_MISSION",
+            "value": "친구가 도전 미션 {0}번째 장의 {1}을(를) 달성"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_STORY",
+            "value": "친구가 스토리 퀘스트 제{0}장 제{1}절 {2}을(를) 완료"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_LOGIN",
+            "value": "친구가 {0}일째 출석함."
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_TITLE",
+            "value": "초대 코드 입력"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_DESC",
+            "value": "<line-height=36>친구에게 받은<br>초대 코드를 입력하십시오."
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_TITLE",
+            "value": "친구 초대 성립!"
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_DESC",
+            "value": "축하합니다. <br>친구 초대가 성립했습니다.<br>보상을 선물함으로 지급했습니다."
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_TITLE",
+            "value": "성립 실패"
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_DESC",
+            "value": "친구 초대 성립에 실패했습니다. <br>친구가 이미 {0}명 초대를 성립했습니다."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Houla... Quelqu'un cherche la bagarre..."
+        },
+        {
+            "key": "002",
+            "value": "Schuzelt..."
+        },
+        {
+            "key": "003",
+            "value": "N'êtes-vous pas l'escorte de dame Machalie ?"
+        },
+        {
+            "key": "004",
+            "value": "Où croyez-vous aller de la sorte ?"
+        },
+        {
+            "key": "005",
+            "value": "En finir avec Muraga."
+        },
+        {
+            "key": "006",
+            "value": "Muraga est aussi notre ennemi. Nous devrions faire front commun..."
+        },
+        {
+            "key": "007",
+            "value": "Non. Il est à moi. Hors de mon chemin !"
+        },
+        {
+            "key": "008",
+            "value": "Les étoiles sont bien bavardes ce soir."
+        },
+        {
+            "key": "009",
+            "value": "Devrais-je le poursuivre ?"
+        },
+        {
+            "key": "010",
+            "value": "Ce n'est pas une question à laquelle il est facile de répondre."
+        },
+        {
+            "key": "011",
+            "value": "..."
+        },
+        {
+            "key": "012",
+            "value": "Devons-nous vivre avec le désespoir... ?"
+        },
+        {
+            "key": "013",
+            "value": "Ou faut-il préférer la mort, pour gagner la paix de l'âme ?"
+        },
+        {
+            "key": "014",
+            "value": "Vous n'êtes pas en train de suggérer qu'il est préférable de le laisser mourir, n'est-ce pas ?"
+        },
+        {
+            "key": "015",
+            "value": "Il n'y a pas de réponse... Le destin est perpétuellement en mouvement."
+        },
+        {
+            "key": "016",
+            "value": "..."
+        },
+        {
+            "key": "017",
+            "value": "Je ne peux pas laisser cet idiot partir seul ainsi."
+        },
+        {
+            "key": "018",
+            "value": "Que prévois-tu de faire, dans ce cas ?"
+        },
+        {
+            "key": "019",
+            "value": "Je demande votre permission d'aller le chercher."
+        },
+        {
+            "key": "020",
+            "value": "Soit je le ramènerai, soit je combattrai à ses côtés. Je ne sais pas encore ce qui arrivera."
+        },
+        {
+            "key": "021",
+            "value": "Mais... nous ne devons pas le laisser y aller seul."
+        },
+        {
+            "key": "022",
+            "value": "Je comprends. Vas-y."
+        },
+        {
+            "key": "023",
+            "value": "Merci, Prince Mont. Je serai de retour rapidement."
+        },
+        {
+            "key": "024",
+            "value": "Lilyth doit sûrement se reconnaître en sire Schuzelt."
+        }
+    ]
+}

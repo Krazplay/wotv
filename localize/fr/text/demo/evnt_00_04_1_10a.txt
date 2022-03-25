@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Eh bien, je dois dire que je suis impressionné. Tu les as tous tués sans pitié."
+        },
+        {
+            "key": "002",
+            "value": "Qui est-ce ?"
+        },
+        {
+            "key": "003",
+            "value": "Zazan. Il est du côté de Gouga."
+        },
+        {
+            "key": "004",
+            "value": "Je me disais bien qu'il y avait quelque chose d'étrange."
+        },
+        {
+            "key": "005",
+            "value": "Cette douce odeur mélangée à celle du sang sur tes vêtements."
+        },
+        {
+            "key": "006",
+            "value": "Douce odeur ?"
+        },
+        {
+            "key": "007",
+            "value": "Tout s'éclaire. Ce membre de Saiga est ton amant et vous vous retrouviez en secret."
+        },
+        {
+            "key": "008",
+            "value": "Maintenant que tu as tout découvert..."
+        },
+        {
+            "key": "009",
+            "value": "Je ne te laisserai pas regagner le village."
+        },
+        {
+            "key": "010",
+            "value": "Ha ha ha ! Si c'est pas mignon ! Il y a de quoi mourir de rire."
+        },
+        {
+            "key": "011",
+            "value": "Imagine comment je serais acclamé, moi, si je ramenais les têtes des chefs de Gouga et Saiga."
+        },
+        {
+            "key": "012",
+            "value": "... Bon, et si on s'amusait un peu ?"
+        }
+    ]
+}

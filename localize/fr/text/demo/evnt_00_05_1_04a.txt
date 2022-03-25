@@ -1,0 +1,108 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Tu ne peux plus fuir, rends-toi !"
+        },
+        {
+            "key": "002",
+            "value": "Quoi... ?"
+        },
+        {
+            "key": "003",
+            "value": "Mia ? C'est toi ? Pourquoi fais-tu cela ?"
+        },
+        {
+            "key": "004",
+            "value": "Pa-pardonne moi."
+        },
+        {
+            "key": "005",
+            "value": "Tu devais avoir une bonne raison."
+        },
+        {
+            "key": "006",
+            "value": "Je te croyais partie pour Lykeros."
+        },
+        {
+            "key": "007",
+            "value": "J'y suis allée."
+        },
+        {
+            "key": "008",
+            "value": "Mais ce royaume a été détruit par Rundall il y a longtemps, c'est ça ?"
+        },
+        {
+            "key": "009",
+            "value": "Oui... Ma mère et moi avons fui jusqu'à la frontière."
+        },
+        {
+            "key": "010",
+            "value": "Et tu es revenue quand tu as reçu la mauvaise nouvelle, c'est ça ?"
+        },
+        {
+            "key": "011",
+            "value": "O-oui."
+        },
+        {
+            "key": "012",
+            "value": "Alors pourquoi as-tu cherché à fuir ?"
+        },
+        {
+            "key": "013",
+            "value": "Hein ?"
+        },
+        {
+            "key": "014",
+            "value": "Tu as quelque chose à te reprocher… Mia ?"
+        },
+        {
+            "key": "015",
+            "value": "Lynx, ça suffit."
+        },
+        {
+            "key": "016",
+            "value": "Ne te mêle pas de ça."
+        },
+        {
+            "key": "017",
+            "value": "…"
+        },
+        {
+            "key": "018",
+            "value": "Alors ? Tu n'as pas répondu."
+        },
+        {
+            "key": "019",
+            "value": "J'ai cru que vous m'en voudriez d'avoir abandonné mon royaume."
+        },
+        {
+            "key": "020",
+            "value": "Si tu n'as plus de royaume, tu n'as plus de compte à lui rendre."
+        },
+        {
+            "key": "021",
+            "value": "Et ta mère et toi méritez de revenir vivre au village."
+        },
+        {
+            "key": "022",
+            "value": "Je... Merci, du fond du cœur."
+        },
+        {
+            "key": "023",
+            "value": "…"
+        },
+        {
+            "key": "024",
+            "value": "Contre nous tous, Gouga n'a aucune chance !"
+        },
+        {
+            "key": "025",
+            "value": "En effet, je doute qu'ils s'attendent à ce que nous attaquions."
+        },
+        {
+            "key": "026",
+            "value": "En avant ! Vers Gouga !"
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "......"
+        },
+        {
+            "key": "002",
+            "value": "What was happening to me? And what was that strange light that came pouring out of me?"
+        },
+        {
+            "key": "003",
+            "value": "Ranan seemed to know something―but he made it clear he didn't want to speculate."
+        },
+        {
+            "key": "004",
+            "value": "Was it a sign that I'm on the path to becoming a Warrior of the Crystals? Hmm..."
+        },
+        {
+            "key": "005",
+            "value": "I can't just ignore what happened... So what do I do?"
+        },
+        {
+            "key": "006",
+            "value": "Greetings, apprentice. You're talking to yourself, you know."
+        },
+        {
+            "key": "007",
+            "value": "Oh, Lord Velis! ...Actually, something's troubling me and maybe you can―"
+        },
+        {
+            "key": "008",
+            "value": "Ah, stop, stop! Not another word."
+        },
+        {
+            "key": "009",
+            "value": "But..."
+        },
+        {
+            "key": "010",
+            "value": "If you're looking for worldly advice, go talk to Cetia or Ranan."
+        },
+        {
+            "key": "011",
+            "value": "I'm not one for getting involved in anything remotely bothersome. The woes of my junior compatriots are none of my business."
+        },
+        {
+            "key": "012",
+            "value": "So save your breath, all right? I hear nothing, I see nothing. Clear?"
+        },
+        {
+            "key": "013",
+            "value": "Crystal clear... I guess I'll talk to one of the others when I have the chance."
+        },
+        {
+            "key": "014",
+            "value": "That's more like it. A better use of both our time, I assure you."
+        },
+        {
+            "key": "015",
+            "value": "And speaking of which, I have a matter to discuss with you."
+        },
+        {
+            "key": "016",
+            "value": "Let me guess. Is it about recovering another Core Crystal?"
+        },
+        {
+            "key": "017",
+            "value": "Excellent, you catch on fast. Suppose that's why they call you the promising one."
+        },
+        {
+            "key": "018",
+            "value": "I-I don't think I'm all that promising, to be honest..."
+        },
+        {
+            "key": "019",
+            "value": "You'd best enjoy praise when it comes your way. You'll hear precious little of it when you get older, trust me."
+        },
+        {
+            "key": "020",
+            "value": "But we're getting off track. For this task, you'll be going back in time again, even further in the past than your adventure with Ranan."
+        },
+        {
+            "key": "021",
+            "value": "You remember the rules, right? No interfering, no careless chatter about events yet to happen."
+        },
+        {
+            "key": "022",
+            "value": "Find the Core Crystal and bring it back. Nothing more. Got it?"
+        },
+        {
+            "key": "023",
+            "value": "I won't let you down, sir! I swear we will bring the Core Crystal back!"
+        },
+        {
+            "key": "024",
+            "value": "That's the spirit. The other three weren't wrong about you."
+        },
+        {
+            "key": "025",
+            "value": "Well then! I leave the rest in your capable hands! Show me what you can do, new recruit!"
+        },
+        {
+            "key": "026",
+            "value": "Huh!? W-wait a minute! What about you?"
+        },
+        {
+            "key": "027",
+            "value": "What about me? I've explained your task, which means my work here is done."
+        },
+        {
+            "key": "028",
+            "value": "Do you mean to say, I'm to go on my own?"
+        },
+        {
+            "key": "029",
+            "value": "Well, I'm supposed to be joining you, but these find-and-retrieve missions are just so mind-numbing."
+        },
+        {
+            "key": "030",
+            "value": "That's an astonishing admission for a Warrior of the Crystals..."
+        },
+        {
+            "key": "031",
+            "value": "You've already found three Core Crystals. You're practically an expert now. Trust me―you'll be fine."
+        },
+        {
+            "key": "032",
+            "value": "I'll be with you in spirit. Walk tall and have at it!"
+        },
+        {
+            "key": "033",
+            "value": "This really doesn't feel right..."
+        },
+        {
+            "key": "034",
+            "value": "Look, I'm the most senior Warrior, and that makes me sort of a leader around here. Catch my drift?"
+        },
+        {
+            "key": "035",
+            "value": "You really don't want to lift a finger, do you sir..."
+        },
+        {
+            "key": "036",
+            "value": "What are you two dilly-dallying here for? You should be long gone by now."
+        },
+        {
+            "key": "037",
+            "value": "Gah! Ranan..."
+        },
+        {
+            "key": "038",
+            "value": "Don't \"gah\" me, Velis. You had better not be trying to foist this mission onto our young recruit."
+        },
+        {
+            "key": "039",
+            "value": "Th-the thought never crossed my mind! I was only jesting! Right, Lucio?"
+        },
+        {
+            "key": "040",
+            "value": "Sure..."
+        },
+        {
+            "key": "041",
+            "value": "*sigh* You never change, do you Velis? Now get a move on―you're wasting valuable time."
+        },
+        {
+            "key": "042",
+            "value": "Fine, fine."
+        },
+        {
+            "key": "043",
+            "value": "Oh, and Lucio? I want you to be particularly heedful on this quest."
+        },
+        {
+            "key": "044",
+            "value": "Why is that, sir?"
+        },
+        {
+            "key": "045",
+            "value": "I'm concerned we may be taking too long to restore the Core Crystals."
+        },
+        {
+            "key": "046",
+            "value": "Call it a bad feeling, if you will. In any case, stay on your toes."
+        },
+        {
+            "key": "047",
+            "value": "That's a bit vague..."
+        },
+        {
+            "key": "048",
+            "value": "Come on, new recruit. Let's get moving before a certain someone lectures the life out of us."
+        },
+        {
+            "key": "049",
+            "value": "N-n-no, wait! I still have something to ask Lord Ranan―"
+        },
+        {
+            "key": "050",
+            "value": "And here we are. In the domain of Leonis, to be precise."
+        },
+        {
+            "key": "051",
+            "value": "Now I won't be able to talk to Lord Ranan until we get back..."
+        },
+        {
+            "key": "052",
+            "value": "Haha, sorry about that. But I had the feeling we'd end up being subjected to something both long-winded and mind-numbing."
+        },
+        {
+            "key": "053",
+            "value": "...You know, I'm starting to think that I'm not in the safest pair of hands."
+        },
+        {
+            "key": "054",
+            "value": "I'd be insulted, except I can definitely see where you're coming from."
+        },
+        {
+            "key": "055",
+            "value": "But chin up, eh? You have the most senior Warrior at your side."
+        },
+        {
+            "key": "056",
+            "value": "I...almost feel convinced this might go well."
+        },
+        {
+            "key": "057",
+            "value": "Trust me, there's no need to dwell on what is now past... Hm, what's this?"
+        },
+        {
+            "key": "058",
+            "value": "What's what?"
+        },
+        {
+            "key": "059",
+            "value": "I just sensed the Core Crystal. But there's something... Mmm. No, that doesn't bode well."
+        },
+        {
+            "key": "060",
+            "value": "It doesn't?"
+        },
+        {
+            "key": "061",
+            "value": "I sense the Core Crystal is close, but something approaches it at terrific speed."
+        },
+        {
+            "key": "062",
+            "value": "Th-then we have to hurry, right?"
+        },
+        {
+            "key": "063",
+            "value": "Definitely. Alas, it's going to require far too much effort to beat it to the mark, so it's probably best we give up now."
+        },
+        {
+            "key": "064",
+            "value": "We can't do that!"
+        },
+        {
+            "key": "065",
+            "value": "I jest, I jest. It's not worth risking Ranan's wrath over something like this."
+        },
+        {
+            "key": "066",
+            "value": "Let's hurry to the Core Crystal, and pray that it isn't lost by the time we get to it."
+        },
+        {
+            "key": "067",
+            "value": "*pant pant* ...Wh-where is it?"
+        },
+        {
+            "key": "068",
+            "value": "Over there. Just lying in the dirt."
+        },
+        {
+            "key": "069",
+            "value": "Then we'd better retrieve it!"
+        },
+        {
+            "key": "070",
+            "value": "I'd like nothing more, but it looks like we're too late."
+        },
+        {
+            "key": "071",
+            "value": "Huh...?"
+        },
+        {
+            "key": "072",
+            "value": "A monster! And it's enormous!"
+        },
+        {
+            "key": "073",
+            "value": "Wait, no don't...! Argh!"
+        },
+        {
+            "key": "074",
+            "value": "What do we do now? The monster's swallowed the Core Crystal whole!"
+        },
+        {
+            "key": "075",
+            "value": "Gah... This is the worst thing that could've happened. We'll have to make it cough up the Crystal."
+        },
+        {
+            "key": "076",
+            "value": "This should make for a good warm-up. Hope you're ready to taste steel, you gluttonous gulper!"
+        },
+        {
+            "key": "077",
+            "value": "This should do it...!"
+        },
+        {
+            "key": "078",
+            "value": "I-I had no idea you were so strong!"
+        },
+        {
+            "key": "079",
+            "value": "Stop gawking like you've never seen someone bring a behemoth to its knees and finish it off!"
+        },
+        {
+            "key": "080",
+            "value": "Yes, sir!"
+        },
+        {
+            "key": "081",
+            "value": "Wh-what's happening!?"
+        },
+        {
+            "key": "082",
+            "value": "It called more monsters!"
+        },
+        {
+            "key": "083",
+            "value": "More than just that. The behemoth compelled them with that roar to protect it, like the leader of a pack would."
+        },
+        {
+            "key": "084",
+            "value": "There's too many of them. We can't get close!"
+        },
+        {
+            "key": "085",
+            "value": "It ran away... We have to go after it!"
+        },
+        {
+            "key": "086",
+            "value": "Hold it. There's such a thing as trying too hard, and we put ourselves at far too much risk against those numbers."
+        },
+        {
+            "key": "087",
+            "value": "First things first. Are you all right? Ranan would have me for lunch AND dinner if you got hurt."
+        },
+        {
+            "key": "088",
+            "value": "I'm fine. Just a few scratches. But, isn't it strange that the monster turned tail and fled?"
+        },
+        {
+            "key": "089",
+            "value": "I've seen monsters made berserk by the Core Crystals, but I've never seen one act like this before."
+        },
+        {
+            "key": "090",
+            "value": "Assuming all your reports have been correct, then yes, this is something new."
+        },
+        {
+            "key": "091",
+            "value": "It's mighty odd for a behemoth to retreat in the face of defeat. Very un-monster-like."
+        },
+        {
+            "key": "092",
+            "value": "Perhaps someone has latched onto its mind and has the beast doing their bidding!"
+        },
+        {
+            "key": "093",
+            "value": "...Lord Ranan said he had a bad feeling, remember? Could this be what he meant?"
+        },
+        {
+            "key": "094",
+            "value": "That was just meant to be a joke... But, I suppose we can't entirely dismiss the annoying possibility."
+        },
+        {
+            "key": "095",
+            "value": "...Then again, I don't sense anything else of power in the area. Perhaps we just happened to run into the only intelligent behemoth in Leonis."
+        },
+        {
+            "key": "096",
+            "value": "Either way, we need to follow the monster. Fortunately, it has kindly left nice, gigantic footprints for us..."
+        },
+        {
+            "key": "097",
+            "value": "And don't go straight after the big one. Take down as many of its minions as we can while we pursue, and things will be easier afterwards."
+        },
+        {
+            "key": "098",
+            "value": "Divide and conquer, right sir?"
+        }
+    ]
+}

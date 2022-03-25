@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "Guild",
+            "value": "Guild DESC"
+        },
+        {
+            "key": "Summon",
+            "value": "Summon DESC"
+        },
+        {
+            "key": "EventQuestTab",
+            "value": "EventQuestTab DESC"
+        },
+        {
+            "key": "EventQuestSection",
+            "value": "EventQuestSection DESC"
+        },
+        {
+            "key": "ChallengeMission",
+            "value": "ChallengeMission DESC"
+        },
+        {
+            "key": "ClassMatch",
+            "value": "ClassMatch DESC"
+        },
+        {
+            "key": "Shop",
+            "value": "Shop DESC"
+        },
+        {
+            "key": "SpecialShop",
+            "value": "SpecialShop DESC"
+        },
+        {
+            "key": "ChocoboExpedition",
+            "value": "ChocoboExpedition DESC"
+        },
+        {
+            "key": "MogShop",
+            "value": "MogShop DESC"
+        }            
+    ]
+}

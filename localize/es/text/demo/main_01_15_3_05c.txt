@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "150653",
+            "value": "¡R-rey Mont!"
+        },
+        {
+            "key": "150654",
+            "value": "¡Kiton!"
+        },
+        {
+            "key": "150655",
+            "value": "¿Qué es lo que ocurre? ¿Por qué estás aquí?"
+        },
+        {
+            "key": "150656",
+            "value": "Lady Machérie…"
+        },
+        {
+            "key": "150657",
+            "value": "Cuéntame qué ha pasado."
+        },
+        {
+            "key": "150658",
+            "value": "Debes... apresurarte al castillo de Bordisse. Si no lo haces, lady Graciela acabará con lady Machérie..."
+        },
+        {
+            "key": "150659",
+            "value": "Entendido. Iré inmediatamente."
+        }
+    ]
+}

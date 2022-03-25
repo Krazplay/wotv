@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "GPP_TITLE",
+            "value": "已成功領取贈禮！"
+        },
+        {
+            "key": "GPP_LATER_BTN",
+            "value": "稍後再說"
+        },
+        {
+            "key": "GPP_GO2PRESENTS_BTN",
+            "value": "前往禮物箱"
+        },
+        {
+            "key": "GPP_DESC",
+            "value": "已兌換您的Google Point獎勵。道具已寄送至道具欄中。幻導石已送至帳號。"
+        }
+    ]
+}

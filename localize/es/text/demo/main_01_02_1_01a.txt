@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Lord Stern…"
+        },
+        {
+            "key": "002",
+            "value": "Lo sé."
+        },
+        {
+            "key": "003",
+            "value": "Maldito Muraga… Sabía que era un salvaje, pero no me esperaba semejante conspiración."
+        },
+        {
+            "key": "004",
+            "value": "No es lo que uno espera de quien solo se sirve de la fuerza bruta para conseguir lo que quiere, ¿verdad? Ja, ja, ja."
+        },
+        {
+            "key": "005",
+            "value": "En cualquier caso, parece que nuestros enemigos no son tan numerosos como esperaba."
+        },
+        {
+            "key": "006",
+            "value": "Hace tiempo que no entramos en acción… ¿Qué tal si les damos una buena tunda, maestro?"
+        },
+        {
+            "key": "007",
+            "value": "¡Adelante!"
+        },
+        {
+            "key": "008",
+            "value": "Es hora de que Fortem infunda terror a los vasallos de Muraga."
+        }
+    ]
+}

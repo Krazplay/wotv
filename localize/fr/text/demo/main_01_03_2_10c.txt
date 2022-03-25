@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Kitone, tu es là ?"
+        },
+        {
+            "key": "002",
+            "value": "Ici, Votre Majesté."
+        },
+        {
+            "key": "003",
+            "value": "Qu'en est-il de nos poursuivants ?"
+        },
+        {
+            "key": "004",
+            "value": "Il ne reste qu'une poignée de survivants."
+        },
+        {
+            "key": "005",
+            "value": "Je pensais qu'ils attendraient leurs renforts, mais…"
+        },
+        {
+            "key": "006",
+            "value": "C'est impossible, tu es en train de me dire qu'ils sont toujours à nos trousses ?"
+        },
+        {
+            "key": "007",
+            "value": "Oui, Votre Majesté."
+        },
+        {
+            "key": "008",
+            "value": "Ils doivent nous penser très affaiblis pour persévérer de la sorte."
+        },
+        {
+            "key": "009",
+            "value": "Nous ne devons pas baisser notre garde."
+        },
+        {
+            "key": "010",
+            "value": "Nous n'en avons pas l'intention."
+        },
+        {
+            "key": "011",
+            "value": "Ceci dit, nous aurons bientôt franchi les montagnes, nous devrions sous peu apercevoir les premières habitations du royaume et nous serons donc sur le territoire de Wezett."
+        },
+        {
+            "key": "012",
+            "value": "Ils vont tenter de nous avoir avant. Nous ne pouvons pas nous le permettre."
+        },
+        {
+            "key": "013",
+            "value": "Réjouis-toi, Mont. Cela fait longtemps que tu n'as pas vu Graziella."
+        },
+        {
+            "key": "014",
+            "value": "Prince Mont, alors il y a bien quelque chose entre vous et Graziella…"
+        },
+        {
+            "key": "015",
+            "value": "Il... Il n'y a rien du tout. De plus, elle ne se souvient sûrement pas de moi."
+        },
+        {
+            "key": "016",
+            "value": "..."
+        },
+        {
+            "key": "017",
+            "value": "Il y a plus grave."
+        },
+        {
+            "key": "018",
+            "value": "Qu'est-ce qui vous préoccupe cette fois, Prince Mont ?"
+        },
+        {
+            "key": "019",
+            "value": "Wezett… Vont-ils vraiment venir à notre secours ?"
+        },
+        {
+            "key": "020",
+            "value": "Bien sûr que oui."
+        },
+        {
+            "key": "021",
+            "value": "Ce sont les alliés de Leonis après tout."
+        },
+        {
+            "key": "022",
+            "value": "Je l'espère, mais…"
+        }
+    ]
+}

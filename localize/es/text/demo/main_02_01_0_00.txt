@@ -1,0 +1,100 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Princesa!"
+        },
+        {
+            "key": "002",
+            "value": "Poneos a salvo... ¡Rápido!"
+        },
+        {
+            "key": "003",
+            "value": "¡No podemos abandonaros!"
+        },
+        {
+            "key": "004",
+            "value": "¡...!"
+        },
+        {
+            "key": "005",
+            "value": "¡Aquí vienen!"
+        },
+        {
+            "key": "006",
+            "value": "¿Os rendís por fin?"
+        },
+        {
+            "key": "007",
+            "value": "Dejamos que vuestra unidad se escabullese una vez, pero no volveremos a cometer el mismo error."
+        },
+        {
+            "key": "008",
+            "value": "Tú... eres la princesa, ¿verdad? "
+        },
+        {
+            "key": "009",
+            "value": "Alteza... ¡No!"
+        },
+        {
+            "key": "010",
+            "value": "Efectivamente. Soy Luciela, la princesa de Ovis, a quien buscáis."
+        },
+        {
+            "key": "011",
+            "value": "Yo soy vuestra presa. Dejad que mis soldados vivan y a cambio me rendiré ante vosotros."
+        },
+        {
+            "key": "012",
+            "value": "¡Alteza! ¡Nosotros lucharemos hasta el final!"
+        },
+        {
+            "key": "013",
+            "value": "Como desees."
+        },
+        {
+            "key": "014",
+            "value": "¡Majestad!"
+        },
+        {
+            "key": "015",
+            "value": "Ya basta. Está todo controlado."
+        },
+        {
+            "key": "016",
+            "value": "Y ahora, ¡haced de una vez lo que tengáis que hacer!"
+        },
+        {
+            "key": "017",
+            "value": "... ¡Muy bien!"
+        },
+        {
+            "key": "018",
+            "value": "¡No lo permitiré!"
+        },
+        {
+            "key": "019",
+            "value": "¡Ugh...!"
+        },
+        {
+            "key": "020",
+            "value": "Hermana..."
+        },
+        {
+            "key": "021",
+            "value": "No lleva el anillo consigo..."
+        },
+        {
+            "key": "022",
+            "value": "Lo que significa que no es más que una doble."
+        },
+        {
+            "key": "023",
+            "value": "Parece que la verdadera princesa se encuentra aún en el castillo de Ovis."
+        },
+        {
+            "key": "024",
+            "value": "Regresemos deprisa junto a la división principal."
+        }
+    ]
+}

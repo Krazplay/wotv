@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... !"
+        },
+        {
+            "key": "002",
+            "value": "Tout est comme dans la légende."
+        },
+        {
+            "key": "003",
+            "value": "Alors les reliques séculaires sont ici… sous le château ?"
+        },
+        {
+            "key": "004",
+            "value": "Oui."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Quelque chose ne va pas ?"
+        },
+        {
+            "key": "007",
+            "value": "Vous ne ressentez rien ? Il y a quelque chose d'étrange."
+        },
+        {
+            "key": "008",
+            "value": "Oui, effectivement."
+        },
+        {
+            "key": "009",
+            "value": "En bas de ces escaliers nous attend un danger probablement bien plus grand que tous les monstres que nous avons combattus jusqu'à présent."
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "Mais ne craignez rien. Aucun monstre ne nous empêchera de mettre la main sur ces reliques séculaires."
+        }
+    ]
+}

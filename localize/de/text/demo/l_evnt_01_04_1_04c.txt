@@ -1,0 +1,312 @@
+﻿{
+    "infos": [
+        {
+            "key": "147",
+            "value": "Es ist zu ruhig. Haben die Tiere die Monsterschar gespürt und sind geflohen?"
+        },
+        {
+            "key": "148",
+            "value": "Wir müssen uns beeilen. Kein einziger der Dorfbewohner darf ihnen zum Opfer fallen."
+        },
+        {
+            "key": "149",
+            "value": "...?!"
+        },
+        {
+            "key": "150",
+            "value": "E-Ein Mensch?"
+        },
+        {
+            "key": "151",
+            "value": "Dich kenne ich nicht. Was tust du hier?"
+        },
+        {
+            "key": "152",
+            "value": "W-Wir führen nichts Böses im Schilde, versprochen! Wir sind total unverdächtig!"
+        },
+        {
+            "key": "153",
+            "value": "Das lässt uns erst recht verdächtig klingen."
+        },
+        {
+            "key": "154",
+            "value": "Velis! Wie wäre es, wenn du auch mal etwas sagst. Dich geht das schließlich auch was an!"
+        },
+        {
+            "key": "155",
+            "value": "Na gut. Grüße! Habt ihr Jungs vielleicht hier in der Nähe eine Schar Monster gesehen?"
+        },
+        {
+            "key": "156",
+            "value": "Monster, sagst du?"
+        },
+        {
+            "key": "157",
+            "value": "Ja. Eines davon ist echt groß und hässlich und dabei sind noch eine Menge kleiner Viecher. Die sind vielleicht hier durch."
+        },
+        {
+            "key": "158",
+            "value": "Ihr seid also nicht aus Fennes?"
+        },
+        {
+            "key": "159",
+            "value": "Fennes? Oh, ach so. Nein, wir sind einfach nur reisende Söldner."
+        },
+        {
+            "key": "160",
+            "value": "Wir jagen gerade ein Monster, dass uns etwas Wichtiges stiebitzt hat."
+        },
+        {
+            "key": "161",
+            "value": "Ein Monster, das Teil einer größeren Schar ist."
+        },
+        {
+            "key": "162",
+            "value": "Genau. Habt ihr vielleicht etwas derartiges gesehen?"
+        },
+        {
+            "key": "163",
+            "value": "Es scheint, dass unsere Ziele übereinstimmen. Wir sind auf dem Weg, die Dorfbewohner zu evakuieren, bevor diese Monster über sie herfallen."
+        },
+        {
+            "key": "164",
+            "value": "Oh? Irgendetwas sagt mir, dass du mehr bist als nur ein Typ mit einem Herz aus Gold ..."
+        },
+        {
+            "key": "165",
+            "value": "Ach, entschuldigt. Ich habe mich noch nicht vorgestellt. ich heiße Mont Leonis."
+        },
+        {
+            "key": "166",
+            "value": "Wir haben einen Bericht von unseren Truppen erhalten ..."
+        },
+        {
+            "key": "167",
+            "value": "Und jetzt bin ich hier."
+        },
+        {
+            "key": "168",
+            "value": "Das Leben der Dorfbewohner ist also in Gefahr ... Mist, das ist vielleicht teilweise unsere Schuld."
+        },
+        {
+            "key": "169",
+            "value": "Inwiefern?"
+        },
+        {
+            "key": "170",
+            "value": "Nun, äh ... Sollen wir, Velis?"
+        },
+        {
+            "key": "171",
+            "value": "Wir haben nichts zu verbergen. Es kann nicht schaden, die Wahrheit zu sagen."
+        },
+        {
+            "key": "172",
+            "value": "Ich werde die Konsequenzen tragen. Ranan findet immer etwas, worüber er mich belehren kann, also bin ich das mittlerweile gewohnt."
+        },
+        {
+            "key": "173",
+            "value": "D-Danke."
+        },
+        {
+            "key": "174",
+            "value": "Gut. Dann erkläre ich das alles mal. Wir sind hier, um einen sogenannten Kernkristall zu holen ..."
+        },
+        {
+            "key": "175",
+            "value": "Ihr seid also Kristallkrieger, die in dieser Welt unterwegs sind, um einen Kernkristall zu finden."
+        },
+        {
+            "key": "176",
+            "value": "Normalerweise hättet ihr ihn bereits, aber ein riesiger Behemoth hat ihn verschlungen."
+        },
+        {
+            "key": "177",
+            "value": "Und die Magie des Kernkristalls verlieh dem Monster zusätzliche Kraft. Wir konnten es nicht erledigen."
+        },
+        {
+            "key": "178",
+            "value": "Wir berieten uns gerade über unsere nächsten Schritte, als wir auf eure Männer trafen."
+        },
+        {
+            "key": "179",
+            "value": "Das Ganze tut uns wirklich leid, vor allem, weil eure Leute nun in Gefahr sind."
+        },
+        {
+            "key": "180",
+            "value": "Ihr müsst euch nicht enschuldigen. Wir haben diese Monster zu lange frei herumlaufen lassen."
+        },
+        {
+            "key": "181",
+            "value": "Wenn es allerdings stimmt, was ihr sagt, müssen wir schnell handeln."
+        },
+        {
+            "key": "182",
+            "value": "Die Dorfbewohner müssen evakuiert werden, bevor die Monster sie erreichen."
+        },
+        {
+            "key": "183",
+            "value": "Lasst uns helfen."
+        },
+        {
+            "key": "184",
+            "value": "Da wir das Monster entkommen ließen, sind wir es dir und dem Volk von Leonis schuldig, das wieder gut zu machen."
+        },
+        {
+            "key": "185",
+            "value": "Es ist unsere moralische Pflicht, dafür zu sorgen, dass keine Unschuldigen zu Schaden kommen."
+        },
+        {
+            "key": "186",
+            "value": "Unsere Wege sind ohnehin die gleichen. Als Gruppe ist es für uns sicherer."
+        },
+        {
+            "key": "187",
+            "value": "Gerne nehme ich euer Angebot an. Ich wollte soeben denselben Vorschlag unterbreiten."
+        },
+        {
+            "key": "188",
+            "value": "Lucio, Velis. Leiht mir eure Klingen. Gemeinsam werden wir meine Bürger retten."
+        },
+        {
+            "key": "189",
+            "value": "Jawohl! Es ist uns eine Ehre!"
+        },
+        {
+            "key": "190",
+            "value": "Na ja, solange ich nur die Zahlen ein wenig ausgleichen soll, wird das schon laufen."
+        },
+        {
+            "key": "191",
+            "value": "Ein jeder kann sehen, dass du mehr bist als nur ein fauler Krieger. Wir alle zählen auf dich."
+        },
+        {
+            "key": "192",
+            "value": "Bevormundet von einem Neuling! Der Tag wird schlimmer und schlimmer."
+        },
+        {
+            "key": "193",
+            "value": "Beeilen wir uns."
+        },
+        {
+            "key": "194",
+            "value": "Jawohl!"
+        },
+        {
+            "key": "195",
+            "value": "Ähm ... Mont! Du bist ein Prinz, nicht wahr?"
+        },
+        {
+            "key": "196",
+            "value": "Ja, wobei ich mich manchmal nicht so fühle, weil mein Vater mich stets für meine närrischen Handlungen und meine Schwäche zurechtweist."
+        },
+        {
+            "key": "197",
+            "value": "Aber du wirst eines Tages König sein, nicht wahr?"
+        },
+        {
+            "key": "198",
+            "value": "Ich weiß nicht ... Mein jüngerer Bruder ist da geeigneter."
+        },
+        {
+            "key": "199",
+            "value": "Aber ob ich nun König werde oder nicht, ich möchte die Beziehungen zu anderen Ländern verbessern und Leonis zu einer Nation machen, die mit allen freundschaftlich verfährt."
+        },
+        {
+            "key": "200",
+            "value": "Eine Nation, die Seite an Seite mit den anderen großen Häusern steht, anstatt sich mit ihnen zu bekriegen."
+        },
+        {
+            "key": "201",
+            "value": "Ein Land, das niemandem schadet. Das ist ein wunderschöner Traum."
+        },
+        {
+            "key": "202",
+            "value": "Findest du? Die meisten tun mein Vorhaben als naiv ab ... wenn sie nicht gerade lauthals darüber lachen."
+        },
+        {
+            "key": "203",
+            "value": "Eine Welt ohne Krieg aufzubauen, in der ein jeder in Frieden leben kann ... Ich kann mir nichts Schöneres vorstellen."
+        },
+        {
+            "key": "204",
+            "value": "Es freut mich wirklich, das zu hören, auch wenn nur wenige diese Meinung teilen."
+        },
+        {
+            "key": "205",
+            "value": "Auf meiner letzten Reise kam ich in ein Land, das von Tyrannei beherrscht wurde, und sah mit eigenen Augen, was das bedeutet."
+        },
+        {
+            "key": "206",
+            "value": "Die Menschen dort hatten jegliche Hoffnung verloren und konnten dennoch aufgrund des Krieges nirgends hin."
+        },
+        {
+            "key": "207",
+            "value": "Aber auch dies lässt sich ändern, wenn jemand wie du die Krone trägt."
+        },
+        {
+            "key": "208",
+            "value": "Ich möchte Länder sehen, wie du sie aufbauen willst."
+        },
+        {
+            "key": "209",
+            "value": "Dann werde ich alles in meiner Macht stehende tun, um meinen Traum zu verwirklichen."
+        },
+        {
+            "key": "210",
+            "value": "Bleibe stark und habe Selbstvertrauen. Du wirst ein guter König sein."
+        },
+        {
+            "key": "211",
+            "value": "Meiner Erfahrung nach kümmern sich nur die Stärksten um das Glück anderer."
+        },
+        {
+            "key": "212",
+            "value": "Ich danke dir. Das Schicksal meinte es gut mit mir, denn ich konnte dich treffen."
+        },
+        {
+            "key": "213",
+            "value": "Es tut mir leid, so direkt zu sein. Ich sollte nicht so vertraut mit einem Prinzen reden, schon gar nicht in seinem eigenen Land."
+        },
+        {
+            "key": "214",
+            "value": "Ich hatte wohl einfach das Gefühl, dass wir die Welt mit denselben Augen sehen ..."
+        },
+        {
+            "key": "215",
+            "value": "Du musst dich nicht entschuldigen."
+        },
+        {
+            "key": "216",
+            "value": "Du hast weder gelacht, noch verächtlich reagiert. Vielleicht sehen wir die Dinge wirklich gleich."
+        },
+        {
+            "key": "217",
+            "value": "Vielen Dank, Mont."
+        },
+        {
+            "key": "218",
+            "value": "E-Erstatte Bericht!"
+        },
+        {
+            "key": "219",
+            "value": "Die Monster sind in den Wäldern in der Nähe des Dorfes! Es werden immer mehr. Sie steuern direkt auf das Dorf zu!"
+        },
+        {
+            "key": "220",
+            "value": "Sie sind schneller als ich dachte. Die Späher sollen sie im Auge behalten."
+        },
+        {
+            "key": "221",
+            "value": "Jawohl!"
+        },
+        {
+            "key": "222",
+            "value": "Beeilen wir uns, Lucio. Wir müssen das Dorf erreichen, bevor es zu spät ist."
+        },
+        {
+            "key": "223",
+            "value": "Verstanden! Den Dorfbewohnern darf nichts geschehen!"
+        }
+    ]
+}

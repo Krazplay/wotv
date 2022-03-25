@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Eh...?"
+        },
+        {
+            "key": "002",
+            "value": "Cuánto ruido... ¿Qué está pasando?"
+        },
+        {
+            "key": "003",
+            "value": "¡¿Cómo que qué está pasando?! ¡Estamos en guerra!"
+        },
+        {
+            "key": "004",
+            "value": "Oh... ¿Y estamos luchando contra... Fennes?"
+        },
+        {
+            "key": "005",
+            "value": "Lo siento, pero no hay tiempo para explicaciones en este momento."
+        },
+        {
+            "key": "006",
+            "value": "Nos dirigimos al archivo. Ayúdanos."
+        },
+        {
+            "key": "007",
+            "value": "¿No se lo podéis pedir a otra? Aún tengo sueño."
+        },
+        {
+            "key": "008",
+            "value": "Es una orden directa de la reina Helena."
+        },
+        {
+            "key": "009",
+            "value": "Ufff... Bien, iré con vosotros."
+        },
+        {
+            "key": "010",
+            "value": "¡Pues levántate y ponte en marcha!"
+        }
+    ]
+}

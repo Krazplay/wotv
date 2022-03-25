@@ -1,0 +1,100 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Princess!"
+        },
+        {
+            "key": "002",
+            "value": "Save yourselves... Go, quickly!"
+        },
+        {
+            "key": "003",
+            "value": "We cannot leave you!"
+        },
+        {
+            "key": "004",
+            "value": "......!"
+        },
+        {
+            "key": "005",
+            "value": "Here they come!"
+        },
+        {
+            "key": "006",
+            "value": "Resigned yourself to your fate, have you?"
+        },
+        {
+            "key": "007",
+            "value": "We let your unit slip by before, but we won't be repeating the same mistake."
+        },
+        {
+            "key": "008",
+            "value": "You... You're the princess, aren't you? "
+        },
+        {
+            "key": "009",
+            "value": "Your Highness... You mustn't!"
+        },
+        {
+            "key": "010",
+            "value": "Precisely so. I am Lucielle, the princess of Ovis you seek."
+        },
+        {
+            "key": "011",
+            "value": "I am your prey. Let my soldiers live and I will gladly surrender my life to you."
+        },
+        {
+            "key": "012",
+            "value": "Your Highness! We will fight to the bitter end!"
+        },
+        {
+            "key": "013",
+            "value": "Have it your way."
+        },
+        {
+            "key": "014",
+            "value": "Your Highness!"
+        },
+        {
+            "key": "015",
+            "value": "Stop. This is how it must be."
+        },
+        {
+            "key": "016",
+            "value": "Now, carry out your true intentions!"
+        },
+        {
+            "key": "017",
+            "value": "...Very well!"
+        },
+        {
+            "key": "018",
+            "value": "I will not allow it!"
+        },
+        {
+            "key": "019",
+            "value": "Ungh...!"
+        },
+        {
+            "key": "020",
+            "value": "My dear sister..."
+        },
+        {
+            "key": "021",
+            "value": "She doesn't have the ring on her..."
+        },
+        {
+            "key": "022",
+            "value": "Which means she must be a mere decoy."
+        },
+        {
+            "key": "023",
+            "value": "It would appear the real Princess Lucielle is still in Ovis Castle."
+        },
+        {
+            "key": "024",
+            "value": "We return to the main division at once."
+        }
+    ]
+}

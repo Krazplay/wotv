@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hm ... Das ist also Schloss Wezette. Aber ..."
+        },
+        {
+            "key": "002",
+            "value": "Es ist nicht eine Sterbensseele zu sehen."
+        },
+        {
+            "key": "003",
+            "value": "Kein Empfangskomitee ... Einen Moment, Euer Hoheit. Ich nehme ... unbändigen Blutdurst wahr."
+        },
+        {
+            "key": "004",
+            "value": "Wir sind umzingelt!"
+        },
+        {
+            "key": "005",
+            "value": "Was machen wir jetzt, was machen wir jetzt?"
+        },
+        {
+            "key": "006",
+            "value": "Kommandant Sarjes ..."
+        },
+        {
+            "key": "007",
+            "value": "Ihr alle, tretet zurück."
+        },
+        {
+            "key": "008",
+            "value": "N-Nein ... Bitte überlasst das mir, Euer Hoheit."
+        },
+        {
+            "key": "009",
+            "value": "Soldaten, herhören. Steckt eure Waffen weg."
+        },
+        {
+            "key": "010",
+            "value": "Hiermit sei bekanntgegeben, dass die hier anwesenden Leoniten sich Wezette offiziell ergeben haben."
+        },
+        {
+            "key": "011",
+            "value": "Sicherlich besteht keine Veranlassung, Waffen gegen diejenigen zu richten, die bereits vor uns kapituliert haben?"
+        },
+        {
+            "key": "012",
+            "value": "Wir führen den Befehl Seiner Majestät aus."
+        },
+        {
+            "key": "013",
+            "value": "Ver..."
+        },
+        {
+            "key": "014",
+            "value": "Tritt beiseite, Sarjes."
+        },
+        {
+            "key": "015",
+            "value": "A-Aber ...!"
+        },
+        {
+            "key": "016",
+            "value": "Kein Grund zur Sorge. Ich bin zuversichtlich, dass der König Vernunft walten lassen wird."
+        },
+        {
+            "key": "017",
+            "value": "So wie du, als du uns dein Vertrauen geschenkt hast."
+        }
+    ]
+}

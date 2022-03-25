@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Es ist gut, dich heil wiederzuhaben. Das war eine beachtliche Leistung."
+        },
+        {
+            "key": "002",
+            "value": "Ich habe nur meine Pflicht getan, Euer Majestät."
+        },
+        {
+            "key": "003",
+            "value": "Genug der Förmlichkeiten. Erheb dich, Lu’Cia."
+        },
+        {
+            "key": "004",
+            "value": "Es ist keine Belohnung per se, aber ... Ich habe beschlossen, dir das Kommando über eine neue Division anzuvertrauen."
+        },
+        {
+            "key": "005",
+            "value": "Mir …?"
+        },
+        {
+            "key": "006",
+            "value": "Sagen wir einmal so: Du wurdest von bestimmter Seite mit großem Eifer empfohlen."
+        },
+        {
+            "key": "007",
+            "value": "War es … Vizekommandantin Elshura?"
+        },
+        {
+            "key": "008",
+            "value": "Nicht nur die. Sogar unser Rhaldor!"
+        },
+        {
+            "key": "009",
+            "value": "Unglaublich … Ich hätte nie gedacht, dass der Kommandant ..."
+        },
+        {
+            "key": "010",
+            "value": "Rhaldor sagte Folgendes."
+        },
+        {
+            "key": "011",
+            "value": "„Wir sehen einer Ära der Feuerwaffen entgegen.“"
+        },
+        {
+            "key": "012",
+            "value": "„Lu’Cia ist als Schützin unübertroffen und behält selbst unter widrigsten Bedingungen einen klaren Kopf.“"
+        },
+        {
+            "key": "013",
+            "value": "„Wenn Ihr einen Kommandanten für eine neue Division sucht, gibt es keine bessere Kandidatin als Lu’Cia.“"
+        },
+        {
+            "key": "014",
+            "value": "Kaum zu glauben … Der Kommandant hat mir wirklich seine Anerkennung ausgesprochen?"
+        },
+        {
+            "key": "015",
+            "value": "Rhaldor mag ein Dickschädel und ein Rüpel sein, ein Narr ist er jedoch ganz bestimmt nicht."
+        },
+        {
+            "key": "016",
+            "value": "Er ist ein tapferer Mann, der stets das Wohl Rundalls im Sinne hat."
+        },
+        {
+            "key": "017",
+            "value": "Ja. Das habe ich im letzten Kampf mit eigenen Augen gesehen."
+        },
+        {
+            "key": "018",
+            "value": "Dann sag ja. Er soll nicht umsonst über seinen Schatten gesprungen sein."
+        },
+        {
+            "key": "019",
+            "value": "Sehr wohl."
+        },
+        {
+            "key": "020",
+            "value": "Ich weiß, er tut es nur, um seine Soldaten anzuspornen, aber ... Wenn er nur ein bisschen taktvoller wäre, würden seine Leute ihn auf Händen tragen."
+        },
+        {
+            "key": "021",
+            "value": "Aber dafür geniert er sich wohl zu sehr."
+        },
+        {
+            "key": "022",
+            "value": "Feuerwaffen werden von nun an das Schicksal der Welt entscheiden. Davon bin auch ich überzeugt."
+        },
+        {
+            "key": "023",
+            "value": "... Ich hätte nur eine Bitte."
+        },
+        {
+            "key": "024",
+            "value": "Heraus damit."
+        },
+        {
+            "key": "025",
+            "value": "Ich möchte Creysse in meiner Division haben."
+        },
+        {
+            "key": "026",
+            "value": "Einverstanden. Rhaldor wird sicher nichts dagegen haben."
+        },
+        {
+            "key": "027",
+            "value": "Habt Dank."
+        },
+        {
+            "key": "028",
+            "value": "... Welchen Namen soll die neue Division tragen?"
+        },
+        {
+            "key": "029",
+            "value": "Welchen Namen ..."
+        },
+        {
+            "key": "030",
+            "value": "Ich kann sie natürlich auch selbst benennen."
+        },
+        {
+            "key": "031",
+            "value": "... „Calorum“ soll sie heißen."
+        },
+        {
+            "key": "032",
+            "value": "„Calorum“ also ... Aber bringt etwas so flüchtig Glimmendes wie „Glut“ als Truppenname nicht Unglück?"
+        },
+        {
+            "key": "033",
+            "value": "Meine Soldaten sollen wie verborgene Glut sein. Erst unbemerkt, dann entfesseln sie in Sekunden einen Feuersturm."
+        },
+        {
+            "key": "034",
+            "value": "Ich verstehe. Faszinierend."
+        },
+        {
+            "key": "035",
+            "value": "So sei es denn. Lu’Cia, hiermit ernenne ich dich zur Kommandantin von „Calorum“, Rundalls dritter Division."
+        },
+        {
+            "key": "036",
+            "value": "Ich erwarte Großes von dir."
+        },
+        {
+            "key": "037",
+            "value": "Jawohl, Euer Majestät. „Calorum“ soll all Eure Erwartungen übertreffen."
+        },
+        {
+            "key": "038",
+            "value": "Ich habe da gleich eine Aufgabe für dich."
+        },
+        {
+            "key": "039",
+            "value": "Zeig unserem Freund hier, wie gastfreundlich wir hier in Rundall sind."
+        },
+        {
+            "key": "040",
+            "value": "Oh, wie ... gastfreundlich?"
+        },
+        {
+            "key": "041",
+            "value": "Ganz recht."
+        },
+        {
+            "key": "042",
+            "value": "Du hast freie Wahl der Mittel."
+        },
+        {
+            "key": "043",
+            "value": "Quetsch aus ihm heraus, wer Sadalis Maulwurf ist."
+        },
+        {
+            "key": "044",
+            "value": "Und wenn du mit ihm fertig bist, landet er auf dem Schafott. Wir statuieren ein Exempel an ihm."
+        },
+        {
+            "key": "045",
+            "value": "Ach was, nicht nur an ihm. Beseitige alle, die es gewagt haben, sich gegen Rundall zu erheben."
+        },
+        {
+            "key": "046",
+            "value": "Verlasst Euch auf mich. Wenn es um meine Pflicht geht, kenne ich keine Skrupel."
+        },
+        {
+            "key": "047",
+            "value": "Du wirst schon sehen, wie grausam ernst wir es in Rundall mit der Gastfreundschaft nehmen."
+        },
+        {
+            "key": "048",
+            "value": "Hahahaha, köstlich. Ich bin sicher, dass wir von dir noch viel hören werden."
+        }
+    ]
+}

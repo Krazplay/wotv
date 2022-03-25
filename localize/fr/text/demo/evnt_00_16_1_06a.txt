@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Comment ont-ils réussi à reconstruire aussi rapidement ces lieux après l'assaut de Fennes ?"
+        },
+        {
+            "key": "002",
+            "value": "Mais tu es… !"
+        },
+        {
+            "key": "003",
+            "value": "Kilphe ! Tu es vivante !"
+        },
+        {
+            "key": "004",
+            "value": "Kelz ? Est-ce vraiment toi ?"
+        },
+        {
+            "key": "005",
+            "value": "Bien sûr ! J-Je pensais ne jamais te revoir !"
+        },
+        {
+            "key": "006",
+            "value": "Et ton frère ? Qu'est-il arrivé à Mallius ?"
+        },
+        {
+            "key": "007",
+            "value": "Désolé… Je ne savais pas…"
+        },
+        {
+            "key": "008",
+            "value": "Cet édifice…"
+        },
+        {
+            "key": "009",
+            "value": "Ah, oui."
+        },
+        {
+            "key": "010",
+            "value": "L'Église s'en sert pour répandre sa doctrine à travers la région."
+        },
+        {
+            "key": "011",
+            "value": "D'après l'un des moines, il appartenait à Fennes avant que le seigneur Sadali ne s'en empare."
+        },
+        {
+            "key": "012",
+            "value": "« Seigneur »… Sadali ?"
+        },
+        {
+            "key": "013",
+            "value": "Oui. C'est un véritable dieu vivant."
+        },
+        {
+            "key": "014",
+            "value": "J'avais moi-même mes propres inquiétudes concernant ses agissements."
+        },
+        {
+            "key": "015",
+            "value": "Du moins jusqu'à ce que je le rencontre. Je peux t'assurer que le suivre est la garantie de faire le bien."
+        },
+        {
+            "key": "016",
+            "value": "Dis, Kilphe. Tu ne voudrais pas te faire baptiser ?"
+        },
+        {
+            "key": "017",
+            "value": "Tu pourrais laisser derrière toi ton sombre passé, tout comme je l'ai fait."
+        },
+        {
+            "key": "018",
+            "value": "Je parie que tu retrouverais le sourire. Prier a été un véritable salut pour moi."
+        },
+        {
+            "key": "019",
+            "value": "Non, je…"
+        },
+        {
+            "key": "020",
+            "value": "Oh, mais qui est donc cette ravissante demoiselle ?"
+        },
+        {
+            "key": "021",
+            "value": "Ton visage ne me dit rien."
+        },
+        {
+            "key": "022",
+            "value": "Voici Kilphe. Elle habitait le village autrefois…"
+        },
+        {
+            "key": "023",
+            "value": "Bouge."
+        },
+        {
+            "key": "024",
+            "value": "Obéis-moi et je ferai de toi une femme riche."
+        },
+        {
+            "key": "025",
+            "value": "Espèce de moine dégénéré."
+        },
+        {
+            "key": "026",
+            "value": "Comment oses-tu ?"
+        },
+        {
+            "key": "027",
+            "value": "Argh…"
+        },
+        {
+            "key": "028",
+            "value": "Kilphe ! Qu'as-tu fait ?"
+        },
+        {
+            "key": "029",
+            "value": "J-Je… Je n'ai rien à voir avec tout ça !"
+        },
+        {
+            "key": "030",
+            "value": "Petite insolente !"
+        },
+        {
+            "key": "031",
+            "value": "Ploie devant la lumière du Cristal !"
+        },
+        {
+            "key": "032",
+            "value": "Refuse et tu souffriras…"
+        },
+        {
+            "key": "033",
+            "value": "Vous comptez me tuer ?"
+        },
+        {
+            "key": "034",
+            "value": "Je suis déjà résolue à rendre mon dernier souffle ici même."
+        },
+        {
+            "key": "035",
+            "value": "Si je peux vous entraîner dans ma chute, alors elle ne sera que meilleure."
+        },
+        {
+            "key": "036",
+            "value": "Tu es… ?"
+        },
+        {
+            "key": "037",
+            "value": "Sombre idiot ! Tu comptes prendre son parti ?"
+        },
+        {
+            "key": "038",
+            "value": "Je me nomme Howlet et vous feriez bien de vous rappeler mon nom."
+        },
+        {
+            "key": "039",
+            "value": "Toutes les femmes de cette ville s’en souviennent déjà."
+        },
+        {
+            "key": "040",
+            "value": "Personne ne t'a demandé de faire le malin !"
+        },
+        {
+            "key": "041",
+            "value": "Pourquoi te mettre l'Église à dos ?"
+        },
+        {
+            "key": "042",
+            "value": "Entre un moine repoussant et une belle femme mélancolique, le choix est vite fait."
+        },
+        {
+            "key": "043",
+            "value": "Je peux très bien me défendre toute seule."
+        },
+        {
+            "key": "044",
+            "value": "Pourtant tu sembles toujours aussi déterminée à en finir que lorsqu'on s'est croisés un peu plus tôt…"
+        },
+        {
+            "key": "045",
+            "value": "…"
+        },
+        {
+            "key": "046",
+            "value": "Je suis née dans ce village…"
+        },
+        {
+            "key": "047",
+            "value": "Quand Fennes a débarqué, ils ont capturé mon frère et s'en sont servi pour m'obliger à me battre à leurs côtés."
+        },
+        {
+            "key": "048",
+            "value": "Ton frère…"
+        },
+        {
+            "key": "049",
+            "value": "Mallius… Il est décédé depuis."
+        },
+        {
+            "key": "050",
+            "value": "C'est quoi ces messes basses ? Je vais en finir avec vous !"
+        }
+    ]
+}

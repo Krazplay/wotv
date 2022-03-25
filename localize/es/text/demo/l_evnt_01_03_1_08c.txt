@@ -1,0 +1,296 @@
+﻿{
+    "infos": [
+        {
+            "key": "312",
+            "value": "Por fin ha amainado la ventisca."
+        },
+        {
+            "key": "313",
+            "value": "¡Hermana! ¡Veo a dos personas más adelante!"
+        },
+        {
+            "key": "314",
+            "value": "¿No son los que conocimos en la ciudad?"
+        },
+        {
+            "key": "315",
+            "value": "Lucius y Thranan. Pensaba que estaban buscando ese cristal."
+        },
+        {
+            "key": "316",
+            "value": "No podemos dejarlos aquí."
+        },
+        {
+            "key": "317",
+            "value": "Vaya, si es la mismísima heredera al trono de Wezette. No esperaba verte aquí, majestad."
+        },
+        {
+            "key": "318",
+            "value": "Todavía no soy reina. Puedes llamarme Graciela."
+        },
+        {
+            "key": "319",
+            "value": "Discúlpale, por favor... De todas formas, ¿qué estáis haciendo aquí?"
+        },
+        {
+            "key": "320",
+            "value": "Yo podría preguntaros lo mismo. La última vez que nos vimos dijisteis que os dirigíais al instituto de investigación mágica."
+        },
+        {
+            "key": "321",
+            "value": "Sí, esa era la intención, pero de repente nos pilló la ventisca y…"
+        },
+        {
+            "key": "322",
+            "value": "No es muy sabio vagabundear por tierras extrañas en medio de una tormenta de nieve."
+        },
+        {
+            "key": "323",
+            "value": "En tal caso, ¿seríais tan amables de mostrarnos el camino?"
+        },
+        {
+            "key": "324",
+            "value": "Como ya sabéis, nuestra misión es bastante urgente. No podemos perdernos de nuevo."
+        },
+        {
+            "key": "325",
+            "value": "Entonces decidme: ¿qué pensáis hacer con el cristal núcleo si lo encontráis?"
+        },
+        {
+            "key": "326",
+            "value": "Supongo que si estás dispuesta a ayudarnos, mereces saber la verdad."
+        },
+        {
+            "key": "327",
+            "value": "Y esa es la historia."
+        },
+        {
+            "key": "328",
+            "value": "Así que, como Guerreros de los Cristales, habéis venido en una misión para restaurar el equilibrio del mundo…"
+        },
+        {
+            "key": "329",
+            "value": "Y eso significa que pretendéis llevaros el cristal núcleo lejos de Wezette."
+        },
+        {
+            "key": "330",
+            "value": "Sí. Nuestra misión no habrá concluido hasta que lo devolvamos a casa."
+        },
+        {
+            "key": "331",
+            "value": "Lo siento. Sé que esto nos hace parecer enemigos de Wezette…"
+        },
+        {
+            "key": "332",
+            "value": "Pues yo no lo creo. Dudo mucho que estas señoritas quieran el cristal núcleo en su reino."
+        },
+        {
+            "key": "333",
+            "value": "¿Por qué dices eso?..."
+        },
+        {
+            "key": "334",
+            "value": "Me di cuenta en la ciudad, en el mismo momento en que nos diste la información sobre el paradero del cristal."
+        },
+        {
+            "key": "335",
+            "value": "Y ahora que te tengo enfrente, Graciela. Veo arder la furia en tus ojos."
+        },
+        {
+            "key": "336",
+            "value": "¡...!"
+        },
+        {
+            "key": "337",
+            "value": "Es por ellos, ¿verdad? Por los que controlan Wezette. No quieres que el poder del cristal núcleo termine en sus manos."
+        },
+        {
+            "key": "338",
+            "value": "Querías asegurarte de que nuestra intención era llevarnos el cristal lejos de Wezette, pues ese es tu auténtico deseo."
+        },
+        {
+            "key": "339",
+            "value": "Sin embargo, esa puede ser una tarea difícil si debemos llevarla a cabo solo Lucius y yo."
+        },
+        {
+            "key": "340",
+            "value": "Podríamos fracasar, y entonces el poder caería en manos del ejército de Wezette, desencadenando así una sucesión de eventos irreversibles."
+        },
+        {
+            "key": "341",
+            "value": "Aunque por supuesto, todo esto son meras posibilidades."
+        },
+        {
+            "key": "342",
+            "value": "…"
+        },
+        {
+            "key": "343",
+            "value": "¿Hermana?"
+        },
+        {
+            "key": "344",
+            "value": "Si el cristal núcleo llega al instituto de investigación mágica, podría ocurrir lo que dice."
+        },
+        {
+            "key": "345",
+            "value": "Explícate."
+        },
+        {
+            "key": "346",
+            "value": "Yo misma he trabajado allí. Conozco los riesgos que están dispuestos a asumir."
+        },
+        {
+            "key": "347",
+            "value": "Si lograran acceder al poder del cristal…"
+        },
+        {
+            "key": "348",
+            "value": "Y si el ejército fuera capaz de servirse de él, Wezette se haría con el arma secreta definitiva."
+        },
+        {
+            "key": "349",
+            "value": "Debemos interceptarlo antes de que llegue al instituto o puede que sea demasiado tarde."
+        },
+        {
+            "key": "350",
+            "value": "Parece que no nos queda alternativa. Pero vosotros eso lo sabíais desde el principio, ¿verdad?"
+        },
+        {
+            "key": "351",
+            "value": "Discúlpame, Graciela, pero… ¿cuál es la causa de tanta ira?"
+        },
+        {
+            "key": "352",
+            "value": "Lo cierto es que... Estamos creando un ejército rebelde. Nuestro objetivo es derrocar a Kuri."
+        },
+        {
+            "key": "353",
+            "value": "¿Kuri? ¡¿El rey de Wezette?!"
+        },
+        {
+            "key": "354",
+            "value": "Mientras ese tirano siga en el trono, este país no tiene futuro."
+        },
+        {
+            "key": "355",
+            "value": "¿Pe-pero por qué?…"
+        },
+        {
+            "key": "356",
+            "value": "Ya es suficiente, Lucius. Estos temas no nos conciernen, y será mejor que nos mantengamos al margen."
+        },
+        {
+            "key": "357",
+            "value": "En cualquier caso, el resumen de todo esto es que no queremos que el ejército de Wezette se haga más fuerte."
+        },
+        {
+            "key": "358",
+            "value": "Spirare está dispuesto a ayudaros. ¿Aceptáis nuestra oferta?"
+        },
+        {
+            "key": "359",
+            "value": "¿Tú qué dices, Thranan?"
+        },
+        {
+            "key": "360",
+            "value": "Claro que la acepto. Ese era nuestro deseo desde el principio, al fin y al cabo."
+        },
+        {
+            "key": "361",
+            "value": "Vuestra falta de resolución nos ha costado un tiempo precioso, pero respeto vuestras motivaciones."
+        },
+        {
+            "key": "362",
+            "value": "Sacaremos el máximo provecho de vuestros servicios para poder llevarnos de vuelta a casa sano y salvo el cristal núcleo."
+        },
+        {
+            "key": "363",
+            "value": "Claro, así será."
+        },
+        {
+            "key": "364",
+            "value": "La caravana. Deben de ser ellos."
+        },
+        {
+            "key": "365",
+            "value": "El cristal núcleo tiene que estar en ese carruaje."
+        },
+        {
+            "key": "366",
+            "value": "Ya casi han llegado al instituto de investigación mágica. Hay que actuar con rapidez…"
+        },
+        {
+            "key": "367",
+            "value": "¿No sería mejor esperar una ocasión más favorable? Están bien defendidos."
+        },
+        {
+            "key": "368",
+            "value": "Yo creo que deberíamos atacar de inmediato."
+        },
+        {
+            "key": "369",
+            "value": "Hm."
+        },
+        {
+            "key": "370",
+            "value": "Tenemos que hacernos con el cristal núcleo antes de que lleguen al instituto, ¿no?"
+        },
+        {
+            "key": "371",
+            "value": "No puedo quedarme de brazos cruzados sin hacer nada."
+        },
+        {
+            "key": "372",
+            "value": "Además, puede que haya más soldados de Wezette en las instalaciones."
+        },
+        {
+            "key": "373",
+            "value": "Opino que deberíamos atacar antes de que se hagan más fuertes."
+        },
+        {
+            "key": "374",
+            "value": "Una sugerencia que denota falta de reflexión."
+        },
+        {
+            "key": "375",
+            "value": "…"
+        },
+        {
+            "key": "376",
+            "value": "Pero dadas las circunstancias, las perspectivas de una conclusión favorable no están descartadas."
+        },
+        {
+            "key": "377",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "378",
+            "value": "Tienes razón, Lucius. A veces es mejor actuar primero y pensar después."
+        },
+        {
+            "key": "379",
+            "value": "Y ahora, prepárate. Este combate no será fácil."
+        },
+        {
+            "key": "380",
+            "value": "¡De acuerdo! ¡Gracias, Thranan!"
+        },
+        {
+            "key": "381",
+            "value": "Decidido, pues. Atacaremos ahora. ¡Preparaos!"
+        },
+        {
+            "key": "382",
+            "value": "Es hora de recuperar el cristal núcleo."
+        },
+        {
+            "key": "383",
+            "value": "¡Démosle a probar al ejército de Wezette un poco del acero de Spirare!"
+        },
+        {
+            "key": "384",
+            "value": "¡A la carga!"
+        }
+    ]
+}

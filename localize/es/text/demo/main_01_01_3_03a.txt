@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Numbra?"
+        },
+        {
+            "key": "002",
+            "value": "¿Te encuentras bien, milady?"
+        },
+        {
+            "key": "003",
+            "value": "Mi padre estaba preocupado y te ha enviado, ¿no es así?"
+        },
+        {
+            "key": "004",
+            "value": "Yo misma decidí venir a buscarte, milady."
+        },
+        {
+            "key": "005",
+            "value": "…"
+        },
+        {
+            "key": "006",
+            "value": "¿Qué pasa?"
+        },
+        {
+            "key": "007",
+            "value": "Tengo un mensaje… para Schuzelt."
+        },
+        {
+            "key": "008",
+            "value": "¿De qué se trata? ¿Es sobre Naia?"
+        },
+        {
+            "key": "009",
+            "value": "…"
+        },
+        {
+            "key": "010",
+            "value": "¿Qué ha pasado? Habla."
+        },
+        {
+            "key": "011",
+            "value": "Naia… ya no se encuentra entre nosotros."
+        },
+        {
+            "key": "012",
+            "value": "¡¿Qu-qué dices?! ¡No puede ser!"
+        },
+        {
+            "key": "013",
+            "value": "Se extendió el rumor de que eras un espía de Leonis y que estabas conspirando con unos bandidos para tomar a lady Machérie como rehén."
+        },
+        {
+            "key": "014",
+            "value": "¡¿D-de qué boca ha salido esa sarta de mentiras?!"
+        },
+        {
+            "key": "015",
+            "value": "Uno de los ninjas del rey Muraga dijo que fue testigo de todo."
+        },
+        {
+            "key": "016",
+            "value": "…"
+        },
+        {
+            "key": "017",
+            "value": "Respira hondo, Schuzelt."
+        },
+        {
+            "key": "018",
+            "value": "Numbra, tienes que decírmelo. ¿Quién… ha matado a mi querida Naia?"
+        },
+        {
+            "key": "019",
+            "value": "No hace falta que lo hagas, Numbra."
+        },
+        {
+            "key": "020",
+            "value": "…"
+        },
+        {
+            "key": "021",
+            "value": "Habla o si no…"
+        },
+        {
+            "key": "022",
+            "value": "¡Pienso hacerte pedazos aquí mismo!"
+        },
+        {
+            "key": "023",
+            "value": "Mientras tanto…"
+        },
+        {
+            "key": "024",
+            "value": "¿Lady Machérie?"
+        },
+        {
+            "key": "025",
+            "value": "Lord Mont, ¡vienen directos hacia nosotros!"
+        }
+    ]
+}

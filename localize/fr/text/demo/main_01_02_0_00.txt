@@ -1,0 +1,216 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "V-votre Altesse ! Pendant la bataille avec Fennes, l'armée de Hourne..."
+        },
+        {
+            "key": "002",
+            "value": "Le plan de père est sûrement d'anéantir Muraga avant l'arrivée des renforts de Hourne."
+        },
+        {
+            "key": "003",
+            "value": "Hélas, si les choses continuent ainsi, une bataille avec son allié semble inévitable..."
+        },
+        {
+            "key": "004",
+            "value": "Un moment, Sterne. Si le malentendu avec Hourne venait à être réglé, nous pourrions éviter cette bataille."
+        },
+        {
+            "key": "005",
+            "value": "La princesse de Hourne a survécu à sa rencontre avec les bandits grâce aux Leonis. Ils nous sont redevables."
+        },
+        {
+            "key": "006",
+            "value": "Jusqu'à présent, nos relations avec Hourne ont toujours été amicales."
+        },
+        {
+            "key": "007",
+            "value": "Peut-être qu'en apprenant la vérité ils retireront leurs soldats. Pour l'instant, au moins..."
+        },
+        {
+            "key": "008",
+            "value": "Pour l'instant ?"
+        },
+        {
+            "key": "009",
+            "value": "Oui, selon moi, ils reviendront tôt ou tard à la charge."
+        },
+        {
+            "key": "010",
+            "value": "Ha ha ha ! Vous êtes un petit futé, vous le savez ?"
+        },
+        {
+            "key": "011",
+            "value": "Owe, vous êtes d'accord ?"
+        },
+        {
+            "key": "012",
+            "value": "Le roi Rob semble être un général sage et doté d'un profond respect pour la droiture."
+        },
+        {
+            "key": "013",
+            "value": "Il se pourrait que les attaques cessent. Cependant, si Fennes attaquait de nouveau Leonis..."
+        },
+        {
+            "key": "014",
+            "value": "Hourne donnerait tout ce qu'ils ont pour détruire le château des Lions..."
+        },
+        {
+            "key": "015",
+            "value": "Merci pour ces conseils avisés. Il semble clair qu'aucun plan n'est en mesure de réduire la menace que représente Hourne."
+        },
+        {
+            "key": "016",
+            "value": "Ce n'est pas tout à fait exact, Votre Altesse. Il existe... une alternative."
+        },
+        {
+            "key": "017",
+            "value": "Je vous écoute."
+        },
+        {
+            "key": "018",
+            "value": "Nous devons tuer Muraga."
+        },
+        {
+            "key": "019",
+            "value": "Maître, accepteriez-vous de nous prêter votre force ?"
+        },
+        {
+            "key": "020",
+            "value": "Hmm..."
+        },
+        {
+            "key": "021",
+            "value": "J'ai entendu dire que même Lilyth n'avait eu aucune chance contre lui. Mais avec votre aide..."
+        },
+        {
+            "key": "022",
+            "value": "S'il vous plaît, nous sollicitons humblement votre secours."
+        },
+        {
+            "key": "023",
+            "value": "Et voilà... Au moment même où j'envisageais de me retirer."
+        },
+        {
+            "key": "024",
+            "value": "Maître..."
+        },
+        {
+            "key": "025",
+            "value": "Je ne peux rien vous refuser."
+        },
+        {
+            "key": "026",
+            "value": "Voyons si cette vieille épée peut encore me servir !"
+        },
+        {
+            "key": "027",
+            "value": "Merci, Maître. Vous savoir à mes côtés a quelque chose de rassurant."
+        },
+        {
+            "key": "028",
+            "value": "Un conseil : soyez prêt !"
+        },
+        {
+            "key": "029",
+            "value": "Muraga est un adversaire coriace. Si vous n'êtes pas prêt à vous sacrifier pour le vaincre, autant que vous restiez au château ! Ha ha ha !"
+        },
+        {
+            "key": "030",
+            "value": "Je ne vous laisserai pas partir ! Vous oubliez les ordres du roi..."
+        },
+        {
+            "key": "031",
+            "value": "Kitone, retourne à ton poste !"
+        },
+        {
+            "key": "032",
+            "value": "M-mais..."
+        },
+        {
+            "key": "033",
+            "value": "Kitone, tu dois comprendre. Une fois que les épées sont tirées, le prince Sterne ne recule plus."
+        },
+        {
+            "key": "034",
+            "value": "..."
+        },
+        {
+            "key": "035",
+            "value": "P-pardonnez-moi... Mais Sa Majesté a déjà terminé les préparatifs de la retraite."
+        },
+        {
+            "key": "036",
+            "value": "Comment peut-il... ?"
+        },
+        {
+            "key": "037",
+            "value": "Père voudrait que nous nous terrions dans le château, mais nous ne sommes pas préparés pour une telle situation."
+        },
+        {
+            "key": "038",
+            "value": "Même en commençant maintenant, nous ne pourrions de toute façon pas terminer à temps. Ha ha ha."
+        },
+        {
+            "key": "039",
+            "value": "Il semble qu'il ne nous reste plus qu'une seule option."
+        },
+        {
+            "key": "040",
+            "value": "Dans ce cas, je viens aussi."
+        },
+        {
+            "key": "041",
+            "value": "V-Vous... mère ?! Vous n'y pensez pas ?"
+        },
+        {
+            "key": "042",
+            "value": "À quoi bon survivre si je suis seule ? Je préfère mourir avec vous."
+        },
+        {
+            "key": "043",
+            "value": "M-mais..."
+        },
+        {
+            "key": "044",
+            "value": "Tu te présentes comme un grand guerrier et tu serais incapable de protéger ta propre mère ?"
+        },
+        {
+            "key": "045",
+            "value": "Ils ne toucheront pas un seul de vos cheveux. J'en fais le serment !"
+        },
+        {
+            "key": "046",
+            "value": "Merci, Sterne."
+        },
+        {
+            "key": "047",
+            "value": "« Fortem », déploiement !"
+        },
+        {
+            "key": "048",
+            "value": "Je sais que ce que je te demande n'est pas facile, mais je te laisse annoncer tout ça au roi Eldo, d'accord ?"
+        },
+        {
+            "key": "049",
+            "value": "... Entendu."
+        },
+        {
+            "key": "050",
+            "value": "Tu pourrais sourire au moins ! Allez essaye, je sais que tu en es capable !"
+        },
+        {
+            "key": "051",
+            "value": "Essaye de voir le bon côté des choses ! Au moins, tu seras aux côtés du prince Mont. Je crois savoir que rien ne pourrait te faire plus plaisir, je me trompe ? Ha ha ha !"
+        },
+        {
+            "key": "052",
+            "value": "Pas un mot de plus."
+        },
+        {
+            "key": "053",
+            "value": "Je protégerai le prince Sterne de ma vie. J'attends de toi que tu en fasses autant... pour le prince Mont."
+        }
+    ]
+}

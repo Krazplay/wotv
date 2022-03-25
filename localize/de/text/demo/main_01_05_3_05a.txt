@@ -1,0 +1,192 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Du verräterischer Hund!"
+        },
+        {
+            "key": "002",
+            "value": "Ich kann mich nicht daran erinnern, dir jemals die Treue geschworen zu haben!"
+        },
+        {
+            "key": "003",
+            "value": "Verkommener Wurm ..."
+        },
+        {
+            "key": "004",
+            "value": "Prinz Styr, lasst nicht nach! Ihr könnt Muraga ...!"
+        },
+        {
+            "key": "005",
+            "value": "Was in aller Welt geht hier vor?"
+        },
+        {
+            "key": "006",
+            "value": "Euer Heiligkeit! Dieser räudige Köter ... Styr ... hat uns hintergangen!"
+        },
+        {
+            "key": "007",
+            "value": "Ich bin nicht derjenige, der hier Verrat begangen hat, Sadali."
+        },
+        {
+            "key": "008",
+            "value": "Mir wurde versprochen, dass ich es sein würde, der Yrde tötet ..."
+        },
+        {
+            "key": "009",
+            "value": "Und dem ist auch so. Er gehört dir, und sonst niemandem."
+        },
+        {
+            "key": "010",
+            "value": "Ach ja?! Verrate mir den Namen des Bastards, der ihn angegriffen hat!"
+        },
+        {
+            "key": "011",
+            "value": "Styr! Es reicht! Hör nicht auf ihn!"
+        },
+        {
+            "key": "012",
+            "value": "Mont ..."
+        },
+        {
+            "key": "013",
+            "value": "Hast du etwa vergessen, was wir uns damals geschworen haben?"
+        },
+        {
+            "key": "014",
+            "value": "... Wovon redest du?"
+        },
+        {
+            "key": "015",
+            "value": "Wir schworen uns, gemeinsam Leonis zum größten Reich auf dem Kontinent zu machen."
+        },
+        {
+            "key": "016",
+            "value": "..."
+        },
+        {
+            "key": "017",
+            "value": "Mich hat vor Kurzem eine traurige Meldung erreicht."
+        },
+        {
+            "key": "018",
+            "value": "Wie es scheint, weilen sowohl Königin Helena als auch der Ritter Ornh nicht mehr unter den Lebenden."
+        },
+        {
+            "key": "019",
+            "value": "Anscheinend war es zu internen Streitigkeiten gekommen, die letzten Endes tödlich ausgingen."
+        },
+        {
+            "key": "020",
+            "value": "... Was sagst du da?!"
+        },
+        {
+            "key": "021",
+            "value": "Das ..."
+        },
+        {
+            "key": "022",
+            "value": "D-Du Lügner! Was du sagst, kann unmöglich wahr sein!"
+        },
+        {
+            "key": "023",
+            "value": "Keine Silbe von dem, was ich gesagt habe, ist gelogen."
+        },
+        {
+            "key": "024",
+            "value": "Königin Helena und Ornh waren Gefangene des fennischen Reiches."
+        },
+        {
+            "key": "025",
+            "value": "Doch anscheinend konnten sie sich mit ihrer Lage nicht abfinden."
+        },
+        {
+            "key": "026",
+            "value": "Die Königin soll sich von ihren Fesseln befreit und tollkühn in den Kampf gestürzt haben, was jedoch ..."
+        },
+        {
+            "key": "027",
+            "value": "Sie sind also ... wirklich tot? Mutter ... Meister ..."
+        },
+        {
+            "key": "028",
+            "value": "Dem ist leider so, fürchte ich. Eine wahrlich herzzerreißende Tragödie."
+        },
+        {
+            "key": "029",
+            "value": "Sie mögen Gefangene aus einer feindlich gesinnten Nation gewesen sein, aber ich hatte strikte Order gegeben, sie mit allem gebührenden Respekt zu behandeln."
+        },
+        {
+            "key": "030",
+            "value": "Doch leider ... Ich möchte mein zutiefst empfundenes Beileid ausdrücken."
+        },
+        {
+            "key": "031",
+            "value": "Unsinn! Ihr wart es, die meine Mutter umgebracht haben! Daran besteht kein Zweifel!"
+        },
+        {
+            "key": "032",
+            "value": "Denkst du das wirklich?"
+        },
+        {
+            "key": "033",
+            "value": "Königin Helena war der Eckpfeiler unserer Strategie. Mit ihr in unserer Gewalt hätten wir eure bedingungslose Kapitulation erzwingen können."
+        },
+        {
+            "key": "034",
+            "value": "Sicherlich leuchtet dir das doch ein?"
+        },
+        {
+            "key": "035",
+            "value": "D-Das ..."
+        },
+        {
+            "key": "036",
+            "value": "Es mag zwar nicht mehr als Spekulation meinerseits darstellen, aber ..."
+        },
+        {
+            "key": "037",
+            "value": "Ich würde wetten, dass sie es vorzogen, ihr Leben in der Hitze des Gefechts zu geben, als weiterhin ein Dasein als Gefangene zu fristen. Entspricht dies nicht auch dem, was König Yrde seinerzeit befohlen hatte?"
+        },
+        {
+            "key": "038",
+            "value": "...!!"
+        },
+        {
+            "key": "039",
+            "value": "Yrde. Antworte! "
+        },
+        {
+            "key": "040",
+            "value": "Ich bin niemandem ... eine Antwort schuldig."
+        },
+        {
+            "key": "041",
+            "value": "Also ist es tatsächlich deine Schuld! Du bist der Grund, warum Mutter tot ist!"
+        },
+        {
+            "key": "042",
+            "value": "Styr! Komm zur Vernunft!"
+        },
+        {
+            "key": "043",
+            "value": "Geh mir aus dem Weg!"
+        },
+        {
+            "key": "044",
+            "value": "Wenn du dich zwischen uns stellst ... werde ich dich auch umbringen, Mont!"
+        },
+        {
+            "key": "045",
+            "value": "..."
+        },
+        {
+            "key": "046",
+            "value": "Nein. Ich bleibe da, wo ich bin!"
+        },
+        {
+            "key": "047",
+            "value": "Ich werde die Blutlinie von Leonis verteidigen – wenn es sein muss, gegen meinen eigenen Bruder!"
+        }
+    ]
+}

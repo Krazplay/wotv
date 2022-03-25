@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "70520",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "70521",
+            "value": "¿Qué te pasa?"
+        },
+        {
+            "key": "70522",
+            "value": "¿Es que estás sordo? Se escuchan espadas…"
+        },
+        {
+            "key": "70523",
+            "value": "¿Hay una batalla cerca de aquí?"
+        },
+        {
+            "key": "70524",
+            "value": "Vayamos a ver."
+        },
+        {
+            "key": "70525",
+            "value": "Estos soldados…"
+        },
+        {
+            "key": "70526",
+            "value": "Hourne está luchando contra los monjes de Santocristal."
+        },
+        {
+            "key": "70527",
+            "value": "Parece que los hemos alcanzado."
+        },
+        {
+            "key": "70528",
+            "value": "¿Y ahora qué?"
+        },
+        {
+            "key": "70529",
+            "value": "¿Hace falta que te lo diga?"
+        },
+        {
+            "key": "70530",
+            "value": "Tenemos que ayudar a Hourne."
+        },
+        {
+            "key": "70531",
+            "value": "Buen plan. ¡Estoy deseándolo!"
+        },
+        {
+            "key": "70532",
+            "value": "¡Entonces, adelante!"
+        }
+    ]
+}

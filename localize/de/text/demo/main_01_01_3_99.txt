@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Der Tag bricht an ..."
+        },
+        {
+            "key": "002",
+            "value": "Was zauderst du noch? Wir müssen von hier verschwinden, sonst erwischen sie uns noch!"
+        },
+        {
+            "key": "003",
+            "value": "Margery ... Wie wäre es, wenn wenigstens du nach Hourne zurückkehrtest?"
+        },
+        {
+            "key": "004",
+            "value": "Wenn du deinem Vater die Situation erklären würdest, würde sich sicherlich eine Einigung herstellen lassen."
+        },
+        {
+            "key": "005",
+            "value": "Bist du wirklich so ein Narr?"
+        },
+        {
+            "key": "006",
+            "value": "W-Wie bitte?"
+        },
+        {
+            "key": "007",
+            "value": "Begreifst du das denn nicht, Mont?"
+        },
+        {
+            "key": "008",
+            "value": "Die Einzige, die dabei gerettet werden würde, ist Prinzessin Margery. Sonst niemand."
+        },
+        {
+            "key": "009",
+            "value": "In der Tat, das ist sie nicht."
+        },
+        {
+            "key": "010",
+            "value": "Deshalb müsst ihr mich als Geisel nehmen, um bei den Verhandlungen mit meinem Vater etwas in der Hand zu haben."
+        },
+        {
+            "key": "011",
+            "value": "Als Geisel nehmen? A-Aber das geht ..."
+        },
+        {
+            "key": "012",
+            "value": "War dein Schwur, mich um jeden Preis zu beschützen, also nichts weiter als ein Lippenbekenntnis?!"
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Nun?"
+        },
+        {
+            "key": "015",
+            "value": "Ich habe es seinerzeit geschworen und schwöre es hier und jetzt erneut. Ich werde dich beschützen!"
+        },
+        {
+            "key": "016",
+            "value": "So ist es gut."
+        },
+        {
+            "key": "017",
+            "value": "Dann lasst uns den Rückzug antreten. Schloss Leonis erwartet meine Rückkehr."
+        }
+    ]
+}

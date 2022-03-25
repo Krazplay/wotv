@@ -1,0 +1,444 @@
+﻿{
+    "infos": [
+        {
+            "key": "268",
+            "value": "The miasma from the crystal does not pervade this far."
+        },
+        {
+            "key": "269",
+            "value": "You may remove your protective gear."
+        },
+        {
+            "key": "270",
+            "value": "Now, let us return to the Sanctum."
+        },
+        {
+            "key": "271",
+            "value": "You do not wish to part with your homeland?"
+        },
+        {
+            "key": "272",
+            "value": "......"
+        },
+        {
+            "key": "273",
+            "value": "Did you not hear Lady \"Whisper\"? It is time to move."
+        },
+        {
+            "key": "274",
+            "value": "Urgh...!"
+        },
+        {
+            "key": "275",
+            "value": "Who goes there!?"
+        },
+        {
+            "key": "276",
+            "value": "Who would you be...?"
+        },
+        {
+            "key": "277",
+            "value": "Rafale. And this is Eliza."
+        },
+        {
+            "key": "278",
+            "value": "Otherwise known as...the «Royal Thorns»"
+        },
+        {
+            "key": "279",
+            "value": "The «Royal Thorns»..."
+        },
+        {
+            "key": "280",
+            "value": "You waylaid us knowing that this is Lady \"Whisper\"?"
+        },
+        {
+            "key": "281",
+            "value": "Oh, but of course."
+        },
+        {
+            "key": "282",
+            "value": "We knew you would show up sooner or later. All we had to do is wait."
+        },
+        {
+            "key": "283",
+            "value": "Hah. The two of you will achieve nothing against us!"
+        },
+        {
+            "key": "284",
+            "value": "That kind of thinking is what gets grunts like you cut down first."
+        },
+        {
+            "key": "285",
+            "value": "What!?"
+        },
+        {
+            "key": "286",
+            "value": "We have our fair share of dependable friends, you see?"
+        },
+        {
+            "key": "287",
+            "value": "Sterne. To whom will you side?"
+        },
+        {
+            "key": "288",
+            "value": "I will take no sides in this."
+        },
+        {
+            "key": "289",
+            "value": "......"
+        },
+        {
+            "key": "290",
+            "value": "I owe Sadali nothing—not any debts nor my allegiance."
+        },
+        {
+            "key": "291",
+            "value": "Traitor...!"
+        },
+        {
+            "key": "292",
+            "value": "Are you sure you want to do that?"
+        },
+        {
+            "key": "293",
+            "value": "Rarely do I allow fools to get away with pointing their blades at me."
+        },
+        {
+            "key": "294",
+            "value": "Those people... Do they not hail from Leonis?"
+        },
+        {
+            "key": "295",
+            "value": "That is a place I have long abandoned. Its people are no longer my concern."
+        },
+        {
+            "key": "296",
+            "value": "And besides..."
+        },
+        {
+            "key": "297",
+            "value": "I doubt they would even need my help."
+        },
+        {
+            "key": "298",
+            "value": "...I think we might have something to say about that."
+        },
+        {
+            "key": "299",
+            "value": "Little Leela..."
+        },
+        {
+            "key": "300",
+            "value": "...!"
+        },
+        {
+            "key": "301",
+            "value": "No..."
+        },
+        {
+            "key": "302",
+            "value": "They look surprised."
+        },
+        {
+            "key": "303",
+            "value": "I can see it on their miserable faces, aye!"
+        },
+        {
+            "key": "304",
+            "value": "We kept a nice close eye on that hideout of yours."
+        },
+        {
+            "key": "305",
+            "value": "Turns out the runt was left to hold the fort all on her own, aye?"
+        },
+        {
+            "key": "306",
+            "value": "Those painful memories of her friends getting slaughtered in front of her eyes must've all come flooding back when she saw us."
+        },
+        {
+            "key": "307",
+            "value": "She just sat there tremblin'. Didn't even get a single scream out of her."
+        },
+        {
+            "key": "308",
+            "value": "Ah, easy now."
+        },
+        {
+            "key": "309",
+            "value": "You know what happens to the runt if you don't play along, aye?"
+        },
+        {
+            "key": "310",
+            "value": "This isn't good..."
+        },
+        {
+            "key": "311",
+            "value": "What do we do...?"
+        },
+        {
+            "key": "312",
+            "value": "Stop...calling me runt..."
+        },
+        {
+            "key": "313",
+            "value": "Huh?"
+        },
+        {
+            "key": "314",
+            "value": "I have an amazing and extremely lovely name—it's Little Leela."
+        },
+        {
+            "key": "315",
+            "value": "Huh? You what now...?"
+        },
+        {
+            "key": "316",
+            "value": "I was all but broken inside..."
+        },
+        {
+            "key": "317",
+            "value": "I didn't want to die. I was ready to do whatever it took to survive."
+        },
+        {
+            "key": "318",
+            "value": "But after Eliza and the others helped me, death was the thing I started to want. "
+        },
+        {
+            "key": "319",
+            "value": "I couldn't stop asking myself why I was the only one to survive."
+        },
+        {
+            "key": "320",
+            "value": "Stop. You mustn't blame yourself!"
+        },
+        {
+            "key": "321",
+            "value": "I even started to think that I was the one who was supposed to die back there."
+        },
+        {
+            "key": "322",
+            "value": "Everyday I cried my eyes out. No matter how much I wailed and wept, my tears never ran dry."
+        },
+        {
+            "key": "323",
+            "value": "But eventually..."
+        },
+        {
+            "key": "324",
+            "value": "I realized there was something I had to do."
+        },
+        {
+            "key": "325",
+            "value": "I survived all of this to make sure that Vallaide and Sosha were avenged..."
+        },
+        {
+            "key": "326",
+            "value": "Little Leela..."
+        },
+        {
+            "key": "327",
+            "value": "You're gonna be the one doing the avenging?"
+        },
+        {
+            "key": "328",
+            "value": "Haha, that's a good one, aye!"
+        },
+        {
+            "key": "329",
+            "value": "You want vengeance?"
+        },
+        {
+            "key": "330",
+            "value": "Come and get it."
+        },
+        {
+            "key": "331",
+            "value": "Kill us if you can! Come on, runt! Come on!"
+        },
+        {
+            "key": "332",
+            "value": "It really doesn't have to be me who kills you."
+        },
+        {
+            "key": "333",
+            "value": "...What are you getting at?"
+        },
+        {
+            "key": "334",
+            "value": "You two thought I'd passed out, so you blabbed on about a whole lot of things on the way here, didn't you?"
+        },
+        {
+            "key": "335",
+            "value": "Uh... A whole lot of what things...?"
+        },
+        {
+            "key": "336",
+            "value": "Sh-she was just pretending, aye..."
+        },
+        {
+            "key": "337",
+            "value": "I did what I had to do, thank you very much..."
+        },
+        {
+            "key": "338",
+            "value": "Shut yer face! If you don't, we'll do it for you!"
+        },
+        {
+            "key": "339",
+            "value": "Just do it! We don't need her spilling nothing..."
+        },
+        {
+            "key": "340",
+            "value": "Enough."
+        },
+        {
+            "key": "341",
+            "value": "Huh...!?"
+        },
+        {
+            "key": "342",
+            "value": "Why are you stopping us, aye?"
+        },
+        {
+            "key": "343",
+            "value": "Because I find this fascinating."
+        },
+        {
+            "key": "344",
+            "value": "Gah..."
+        },
+        {
+            "key": "345",
+            "value": "Urghhh..."
+        },
+        {
+            "key": "346",
+            "value": "Speak, child."
+        },
+        {
+            "key": "347",
+            "value": "They were talking about what happened at Anvil Castle. Those ancient relics you took from us—you kept one hidden for yourselves, didn't you?"
+        },
+        {
+            "key": "348",
+            "value": "Eh...!"
+        },
+        {
+            "key": "349",
+            "value": "W-w-we don't know what you're talking about! Aye?"
+        },
+        {
+            "key": "350",
+            "value": "...How very interesting. Explain yourselves."
+        },
+        {
+            "key": "351",
+            "value": "It's uh...quite the story..."
+        },
+        {
+            "key": "352",
+            "value": "They're planning to turn on Sadali!"
+        },
+        {
+            "key": "353",
+            "value": "We didn't say anything of the sort, did we Brother?"
+        },
+        {
+            "key": "354",
+            "value": "We only talk about that kind of thing when there's no one else around, aye?"
+        },
+        {
+            "key": "355",
+            "value": "Brother..."
+        },
+        {
+            "key": "356",
+            "value": "Oh hell...!"
+        },
+        {
+            "key": "357",
+            "value": "Dorando, Gargas."
+        },
+        {
+            "key": "358",
+            "value": "I shall decide on how to deal with you upon our return to the Sanctum."
+        },
+        {
+            "key": "359",
+            "value": "The crime of conspiracy against Lord Sadali is one most...intolerable."
+        },
+        {
+            "key": "360",
+            "value": "Wh-what do we do, Brother?"
+        },
+        {
+            "key": "361",
+            "value": "You need to ask? We're headed straight for the chopping block at this rate, aye..."
+        },
+        {
+            "key": "362",
+            "value": "Th-they're gonna have our heads!?"
+        },
+        {
+            "key": "363",
+            "value": "I guess we'll just have to make sure no one finds out..."
+        },
+        {
+            "key": "364",
+            "value": "What're you thinking?"
+        },
+        {
+            "key": "365",
+            "value": "\"Whisper\" won't stand a chance if we don't get in there, aye?"
+        },
+        {
+            "key": "366",
+            "value": "You know what? I think you're right. All I see is \"Whisper\" and a whole lot of grunts."
+        },
+        {
+            "key": "367",
+            "value": "Well then, there's just one thing left for us to do..."
+        },
+        {
+            "key": "368",
+            "value": "Little Leela, it's a relief to see you're all right."
+        },
+        {
+            "key": "369",
+            "value": "I thought it was over when I saw they had you."
+        },
+        {
+            "key": "370",
+            "value": "I'm sorry I made you worry..."
+        },
+        {
+            "key": "371",
+            "value": "Well, we just turned a precarious situation into a perfect opportunity."
+        },
+        {
+            "key": "372",
+            "value": "That's right. If anything, we owe you one."
+        },
+        {
+            "key": "373",
+            "value": "Hee hee."
+        },
+        {
+            "key": "374",
+            "value": "Now then..."
+        },
+        {
+            "key": "375",
+            "value": "We deal with \"Whisper\" here and the Sanctum will surely be weakened."
+        },
+        {
+            "key": "376",
+            "value": "You think yourselves capable?"
+        },
+        {
+            "key": "377",
+            "value": "You're about to find out that we are!"
+        }
+    ]
+}

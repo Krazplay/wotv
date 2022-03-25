@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Verdammt. Ausgerechnet jetzt …"
+        },
+        {
+            "key": "002",
+            "value": "Hier seid ihr also."
+        },
+        {
+            "key": "003",
+            "value": "Diese Stimme …"
+        },
+        {
+            "key": "004",
+            "value": "Euer Majestät!"
+        },
+        {
+            "key": "005",
+            "value": "König Yrde?!"
+        },
+        {
+            "key": "006",
+            "value": "Ihr habt mit Muraga die Klingen gekreuzt?"
+        },
+        {
+            "key": "007",
+            "value": "Mit dem Ergebnis, das Ihr hier sehen könnt."
+        },
+        {
+            "key": "008",
+            "value": "Dann bleibt mir wohl nichts anderes übrig. Ich selbst werde ihm die Stirn bieten."
+        },
+        {
+            "key": "009",
+            "value": "Nein, Euer Majestät. Einstweilen sollten wir uns wohl besser zurückziehen."
+        },
+        {
+            "key": "010",
+            "value": "Oh? Die tapfere Prinzessin rät zum Rückzug?"
+        },
+        {
+            "key": "011",
+            "value": "Nun gut. Zuerst müssen wir uns aber um dieses Pack hier kümmern."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Uf, uf, uf... ¿Y bien?"
+        },
+        {
+            "key": "002",
+            "value": "¡¿Esto es todo lo que Lykeros puede hacer?!"
+        },
+        {
+            "key": "003",
+            "value": "No está nada mal. Dicho eso..."
+        },
+        {
+            "key": "004",
+            "value": "Tendré piedad al mandarte al otro mundo."
+        },
+        {
+            "key": "005",
+            "value": "Y con esto, nos libramos de Fennes."
+        },
+        {
+            "key": "006",
+            "value": "Las tropas de Fennes se han retirado, y Pharm ha quedado desolado."
+        },
+        {
+            "key": "007",
+            "value": "Es la hora de reclamar el castillo."
+        }
+    ]
+}

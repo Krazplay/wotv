@@ -1,0 +1,208 @@
+﻿{
+    "infos": [
+        {
+            "key": "UNIT_LEVELUP",
+            "value": "SUBE DE NIVEL"
+        },
+        {
+            "key": "UNIT_AWAKE",
+            "value": "DESPERTAR"
+        },
+        {
+            "key": "UNIT_RANKUP",
+            "value": "RUPTURA DE LÍMITE"
+        },
+        {
+            "key": "TRUST_MASTER",
+            "value": "MAESTRO FIEL"
+        },
+        {
+            "key": "JOB_LEVELUP",
+            "value": "NV. DE PROFESIÓN↑"
+        },
+        {
+            "key": "MASTER_ABILITY",
+            "value": "¡Nuevo poder desbloqueado!"
+        },
+        {
+            "key": "MASTER_ABILITY_GRADEUP",
+            "value": "¡Poder mejorado!"
+        },
+        {
+            "key": "LIMITBURST_LEVELUP",
+            "value": "SUBE DE NIVEL"
+        },
+        {
+            "key": "ENCHANT",
+            "value": "PROFESIÓN EX DESBLOQUEADA"
+        },
+        {
+            "key": "PLAYER_RANKUP",
+            "value": "Rango↑"
+        },
+        {
+            "key": "PLAYER_RANKUP_RANK",
+            "value": "Rango"
+        },
+        {
+            "key": "PLAYER_RANKUP_STAMINA",
+            "value": "Energía máx."
+        },
+        {
+            "key": "PLAYER_RANKUP_FRIEND",
+            "value": "N.º de amigos máx."
+        },
+        {
+            "key": "PLAYER_RANKUP_OPEN",
+            "value": "Desbloqueado"
+        },
+        {
+            "key": "ARTI_LEVELUP",
+            "value": "SUBE DE NIVEL"
+        },
+        {
+            "key": "ARTI_STATUSUP",
+            "value": "ATRIBUTOS MEJORADOS"
+        },
+        {
+            "key": "CHALLENGE_CLEAR",
+            "value": "MISIÓN CUMPLIDA"
+        },
+        {
+            "key": "CHALLENGE_BINGO",
+            "value": "¡BINGO!"
+        },
+        {
+            "key": "DEMO_TOBECONTINUED",
+            "value": "Continuará…"
+        },
+        {
+            "key": "EXPEDITION_ITEM_GET",
+            "value": "¡Éxito!"
+        },
+        {
+            "key": "RAID_APPEAR_TITLE",
+            "value": "¡Ha aparecido un jefe de asalto!"
+        },
+        {
+            "key": "VISION_LEVELUP",
+            "value": "SUBE DE NIVEL"
+        },
+        {
+            "key": "VISION_AWAKE",
+            "value": "DESPERTAR"
+        },
+        {
+            "key": "VISION_GROWTH_MAX",
+            "value": "Bonifi. de entrenamiento máX."
+        },
+        {
+            "key": "NEW_BONUS",
+            "value": "Bonif. 1.ª vez"
+        },
+        {
+            "key": "GUILD_EFF_ESTABLISHMENT",
+            "value": "Se ha establecido el gremio"
+        },
+        {
+            "key": "GUILD_STATUE_LEVELUP",
+            "value": "SUBE DE NIVEL"
+        },
+        {
+            "key": "GUILD_STATUE_EFF",
+            "value": "Desbloquear efecto"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKUP",
+            "value": "¡SUBE en la liga!"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKDOWN",
+            "value": "¡BAJA en la liga!"
+        },
+        {
+            "key": "GUILD_BATTLE_RESULT",
+            "value": "RESULTADOS"
+        },
+        {
+            "key": "BATTLE_FEVER",
+            "value": "¡FRENESÍ!"
+        },
+        {
+            "key": "GUERILLA_TITLE",
+            "value": "Tienda fugaz"
+        },
+        {
+            "key": "GUERILLA_SUBTITLE",
+            "value": "Tienda fugaz"
+        },
+        {
+            "key": "GUERILLA_OPEN",
+            "value": "ABIERTA"
+        },
+        {
+            "key": "GUERILLA_BTN_LATER",
+            "value": "Más tarde"
+        },
+        {
+            "key": "GUERILLA_BTN_TRY",
+            "value": "A la tienda fugaz"
+        },
+        {
+            "key": "RESULT_FIRST_CLEAR",
+            "value": "¡Tienes recompensas de 1.ª vez!"
+        },
+        {
+            "key": "RESULT_CLEAR",
+            "value": "¡Tienes recompensas por completar!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_TITLE",
+            "value": "¡Conseguido!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_POINT",
+            "value": "ptos. alcanzados"
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_HIGH_SCORE",
+            "value": "Recompensas por conseguir récord."
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_TOTAL",
+            "value": "Recompensas por acumulación de puntos adquiridos."
+        },
+        {
+            "key": "MASTERRANK_LEVELUP",
+            "value": "SUBE DE NIVEL"
+        },
+        {
+            "key": "MATERIA_FRAME_OPEN",
+            "value": "Pedestal desbloqueado"
+        },
+        {
+            "key": "MATERIA_FEAME_LEVELUP",
+            "value": "SUBE DE NIVEL"
+        },
+        {
+            "key": "MATERIA_TRAIN_OPEN",
+            "value": "Forja completada"
+        },
+        {
+            "key": "MATERIA_GET_TITLE",
+            "value": "Fidelicita adquirida"
+        },
+        {
+            "key": "MATERIA_ENHANCE_TITLE",
+            "value": "Fidelicita mejorada"
+        },
+        {
+            "key": "MATERIA_CAPACITY_TITLE",
+            "value": "Habilidad mejorada"
+        },
+        {
+            "key": "MATERIA_INTEGRA_TITLE",
+            "value": "Habilidades fusionadas"
+        }
+    ]
+}

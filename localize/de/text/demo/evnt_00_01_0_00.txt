@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... Hm?!"
+        },
+        {
+            "key": "002",
+            "value": "Was ist das für ein Geruch ...?"
+        },
+        {
+            "key": "003",
+            "value": "*Schnupper, schnupper* ..."
+        },
+        {
+            "key": "004",
+            "value": "Igitt, wie widerlich!"
+        },
+        {
+            "key": "005",
+            "value": "Bäh!"
+        },
+        {
+            "key": "006",
+            "value": "Ich muss mich nur geistig darauf vorbereiten ..."
+        },
+        {
+            "key": "007",
+            "value": "N-Nein, es geht nicht! Ich kann einfach nicht!"
+        },
+        {
+            "key": "008",
+            "value": "Tut mir leid, Styr!"
+        }
+    ]
+}

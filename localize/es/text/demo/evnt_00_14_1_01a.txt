@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡¿Esto es todo lo que podéis hacer?!"
+        },
+        {
+            "key": "002",
+            "value": "¡Un castillo tan minúsculo como este no supone nada para nosotros! ¡Hagámosnos con él!"
+        },
+        {
+            "key": "003",
+            "value": "Por encima de mi cadáver."
+        },
+        {
+            "key": "004",
+            "value": "¡¿Hmm?! ¿Quién anda ahí?"
+        },
+        {
+            "key": "005",
+            "value": "¡...!"
+        },
+        {
+            "key": "006",
+            "value": "¡Vas a acabar haciéndote daño!"
+        },
+        {
+            "key": "007",
+            "value": "¡Ugh!"
+        },
+        {
+            "key": "008",
+            "value": "Tu intervención no ha servido de nada."
+        },
+        {
+            "key": "009",
+            "value": "No me incumbe en absoluto si vives o mueres."
+        },
+        {
+            "key": "010",
+            "value": "Simplemente pensé que sería mejor actuar como una estratega."
+        },
+        {
+            "key": "011",
+            "value": "En ese caso, dime, doña estratega. ¿Cuál debería ser nuestro siguiente ataque?"
+        },
+        {
+            "key": "012",
+            "value": "Ninguno. La retirada."
+        },
+        {
+            "key": "013",
+            "value": "¡¿Pero qué tonterías estás diciendo?!"
+        },
+        {
+            "key": "014",
+            "value": "El castillo de Pharm es impenetrable. Continuar este ataque solo servirá para cobrarse vidas."
+        },
+        {
+            "key": "015",
+            "value": "¿Cobrarse vidas? ¿No es esa acaso una gran historia? Un gran sacrificio por una buena causa..."
+        },
+        {
+            "key": "016",
+            "value": "Pase lo que pase... no pienso retirarme."
+        },
+        {
+            "key": "017",
+            "value": "Debemos hacernos con Pharm, y tengo razones para decir eso."
+        }
+    ]
+}

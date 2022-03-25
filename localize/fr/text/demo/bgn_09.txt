@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Voulez-vous savoir ce qui se passe quand vous tombez <color=#0000ff>KO</color> et que vous êtes <color=#0000ff>transporté hors du combat</color> ?"
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Si <color=#0000ff>les PV d'une unité tombent à 0</color>, elle devient alors <color=#0000ff>incapable de combattre (KO)</color> et le <color=#0000ff>chiffre 3 apparaîtra en rouge</color> au-dessus de sa tête."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Tant qu'un chiffre est visible au-dessus de l'unité, vous pourrez la <color=#0000ff>ressusciter</color> grâce à une <color=#0000ff>queue de phénix</color> ou en utilisant le sort <color=#0000ff>Vie</color>."
+        },
+        {
+            "key": "004",
+            "value": "En revanche, si l'unité reste KO <color=#0000ff>pendant trop de tours</color> et que le chiffre au-dessus de sa tête <color=#0000ff>tombe à 0</color>, alors..."
+        },
+        {
+            "key": "005",
+            "value": "... au prochain tour, l'unité est <color=#0000ff>transportée hors du combat</color>. N'ayez crainte, elle est simplement mise de côté pour cette bataille, <color=#0000ff>vous ne la perdez pas</color>."
+        },
+        {
+            "key": "006",
+            "value": "Néanmoins, celle-ci ne pourra plus participer à la bataille en cours."
+        },
+        {
+            "key": "007",
+            "value": "Voyons... ces ennemis ont l'air très forts."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "008",
+            "value": "Servez-vous des techniques <color=#0000ff>Soin</color> et <color=#0000ff>Vie</color> d'Ayaka pour résister à leurs assauts !"
+        }
+    ]
+}

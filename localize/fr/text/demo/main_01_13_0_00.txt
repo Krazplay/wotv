@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "130001",
+            "value": "Ce n'est pas beau à voir."
+        },
+        {
+            "key": "130002",
+            "value": "C'est même pire."
+        },
+        {
+            "key": "130003",
+            "value": "C'est répugnant."
+        },
+        {
+            "key": "130004",
+            "value": "Nous sommes d'accord. Maintenant..."
+        },
+        {
+            "key": "130005",
+            "value": "Comment Muraga en est-il arrivé là ?"
+        },
+        {
+            "key": "130006",
+            "value": "C'est l'armure magique."
+        },
+        {
+            "key": "130007",
+            "value": "La quoi ?"
+        },
+        {
+            "key": "130008",
+            "value": "L'idiot a choisi de faire confiance à Sadali."
+        },
+        {
+            "key": "130009",
+            "value": "Ah oui... j'ai déjà entendu cette promesse."
+        },
+        {
+            "key": "130010",
+            "value": "« Abandonne ton humanité et tu hériteras d'un immense pouvoir... »"
+        },
+        {
+            "key": "130011",
+            "value": "N'importe quoi."
+        },
+        {
+            "key": "130012",
+            "value": "..."
+        },
+        {
+            "key": "130013",
+            "value": "Vous comptez encore le suivre ? Jusqu'à ce qu'il soit rattrapé par son destin ?"
+        },
+        {
+            "key": "130014",
+            "value": "..."
+        },
+        {
+            "key": "130015",
+            "value": "Dame Melenia ?"
+        },
+        {
+            "key": "130016",
+            "value": "Vas-tu te taire cinq minutes que je puisse réfléchir ?"
+        },
+        {
+            "key": "130017",
+            "value": "T-toutes mes excuses..."
+        },
+        {
+            "key": "130018",
+            "value": "Nous allons le suivre."
+        },
+        {
+            "key": "130019",
+            "value": "Et être les témoins des derniers jours du dernier roi."
+        }
+    ]
+}

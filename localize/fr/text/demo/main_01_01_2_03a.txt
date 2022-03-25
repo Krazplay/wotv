@@ -1,0 +1,112 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Qu'est-ce qu'il y a, Schuzelt ? Il ne serait pas poli de faire attendre plus longtemps le roi Eldo..."
+        },
+        {
+            "key": "002",
+            "value": "Le doute me taraude, ma dame."
+        },
+        {
+            "key": "003",
+            "value": "Tu te demandes si Muraga a vraiment une fille... ?"
+        },
+        {
+            "key": "004",
+            "value": "Je ne vois aucune raison pour le roi Muraga de vouloir nous duper."
+        },
+        {
+            "key": "005",
+            "value": "La duperie mène à la trahison. Hourne ne trouvera sans doute pas un véritable allié en Muraga."
+        },
+        {
+            "key": "006",
+            "value": "Vous croyez qu'il serait vraiment capable d'aller jusque là ?"
+        },
+        {
+            "key": "007",
+            "value": "S'ils me prenaient en otage, il leur serait facile de faire plier Hourne."
+        },
+        {
+            "key": "008",
+            "value": "..."
+        },
+        {
+            "key": "009",
+            "value": "Tu n'es toujours pas convaincu ?"
+        },
+        {
+            "key": "010",
+            "value": "Mais dans ce cas, par qui étaient manipulés ces bandits qui nous ont attaqués ?"
+        },
+        {
+            "key": "011",
+            "value": "Le roi Eldo semble certain qu'ils avaient été payés par le roi Muraga."
+        },
+        {
+            "key": "012",
+            "value": "Et pourtant, s'il voulait vous prendre en otage, ou pire, mettre fin à votre vie, il existe des méthodes beaucoup plus simples et efficaces."
+        },
+        {
+            "key": "013",
+            "value": "Tu as raison. Malgré tout, je n'ai aucun désir de retourner à Hourne pour le moment."
+        },
+        {
+            "key": "014",
+            "value": "Je n'arrive pas encore à bien cerner le roi Eldo, mais son fils Mont ne me semble pas être méchant."
+        },
+        {
+            "key": "015",
+            "value": "..."
+        },
+        {
+            "key": "016",
+            "value": "Je comprends, Dame Machalie. Si vous en êtes réellement convaincue…"
+        },
+        {
+            "key": "017",
+            "value": "Je suis désolée pour tout ceci, Schuzelt."
+        },
+        {
+            "key": "018",
+            "value": "Vous êtes trop aimable."
+        },
+        {
+            "key": "019",
+            "value": "Promets-moi que quoi qu'il arrive, tu retourneras chez toi sain et sauf."
+        },
+        {
+            "key": "020",
+            "value": "Le jour de ton mariage approche, n'est-ce pas ?"
+        },
+        {
+            "key": "021",
+            "value": "Oui, c'est dans trois jours."
+        },
+        {
+            "key": "022",
+            "value": "Je vous souhaite d'être heureux, Naiah et toi."
+        },
+        {
+            "key": "023",
+            "value": "Mais nous le sommes déjà."
+        },
+        {
+            "key": "024",
+            "value": "Il n'y a pas de limite au bonheur, je vous souhaite d'être plus heureux encore que vous ne pourriez jamais l'imaginer."
+        },
+        {
+            "key": "025",
+            "value": "C'est bien vrai, je vous remercie du fond du cœur, ma dame."
+        },
+        {
+            "key": "026",
+            "value": "Bien, allons-y. Les faire attendre davantage serait impoli."
+        },
+        {
+            "key": "027",
+            "value": "Une fois que nous aurons traversé cette forêt, nous devrions apercevoir le château des Lions."
+        }
+    ]
+}

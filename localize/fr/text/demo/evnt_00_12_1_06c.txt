@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Qu'est venu faire le maître dans un endroit si reculé ?"
+        },
+        {
+            "key": "002",
+            "value": "C'est par ici."
+        },
+        {
+            "key": "003",
+            "value": "Te voilà donc, Zakar. Beaucoup de temps est passé."
+        },
+        {
+            "key": "004",
+            "value": "La voix de maître Harvas !"
+        },
+        {
+            "key": "005",
+            "value": "Rémyur ? Je ne t'ai pas vue ces derniers jours, où étais-tu ?"
+        },
+        {
+            "key": "006",
+            "value": "Je, euh…"
+        },
+        {
+            "key": "007",
+            "value": "Ça n'a pas d'importance."
+        },
+        {
+            "key": "008",
+            "value": "Velrik est déjà là ?"
+        },
+        {
+            "key": "009",
+            "value": "Oui, malheureusement pour toi, mon frère."
+        },
+        {
+            "key": "010",
+            "value": "Velrik…"
+        },
+        {
+            "key": "011",
+            "value": "Je ne pensais pas que tu viendrais, je t'avoue."
+        },
+        {
+            "key": "012",
+            "value": "Quelle raison aurais-je de fuir ?"
+        },
+        {
+            "key": "013",
+            "value": "Tu as gagné en confiance, je vois."
+        },
+        {
+            "key": "014",
+            "value": "Maître. Nous sommes là tous les deux."
+        },
+        {
+            "key": "015",
+            "value": "Mon père ne se montre plus en public."
+        },
+        {
+            "key": "016",
+            "value": "Quoi ? Pourquoi ?"
+        },
+        {
+            "key": "017",
+            "value": "C'est arrivé quand il vous a lâchés dans le monde, tous les deux. "
+        },
+        {
+            "key": "018",
+            "value": "La chasse aux forgerons a dégénéré…"
+        },
+        {
+            "key": "019",
+            "value": "Quoi ? Quelle chasse aux forgerons ?"
+        },
+        {
+            "key": "020",
+            "value": "Tu n'es pas au courant ?"
+        },
+        {
+            "key": "021",
+            "value": "Elle a commencé quand Garvall a pris le contrôle de la guilde des trafiquants d'armes."
+        },
+        {
+            "key": "022",
+            "value": "Il a interdit tout commerce direct entre les forgerons et les royaumes."
+        },
+        {
+            "key": "023",
+            "value": "Il faut désormais passer par la guilde pour le moindre échange, sous peine de représailles."
+        },
+        {
+            "key": "024",
+            "value": "Résultat, la guilde a réussi à accumuler autant de fortune et de pouvoir qu'une véritable nation."
+        },
+        {
+            "key": "025",
+            "value": "Et quand des forgerons comme mon père ont osé émettre des critiques…"
+        },
+        {
+            "key": "026",
+            "value": "Et ce qui en a découlé..."
+        },
+        {
+            "key": "027",
+            "value": "Qu'est-il arrivé au maître ?"
+        },
+        {
+            "key": "028",
+            "value": "Il a été infecté par un poison qui… lui a fait perdre toute apparence humaine. "
+        },
+        {
+            "key": "029",
+            "value": "Co-comment ça ?!"
+        },
+        {
+            "key": "030",
+            "value": "Sa peau s'est écorchée, ses cheveux sont tombés par poignées et ses yeux se sont couverts d'un voile qui empêche la lumière d'y pénétrer."
+        },
+        {
+            "key": "031",
+            "value": "…"
+        },
+        {
+            "key": "032",
+            "value": "Mais si vous insistez malgré tout pour que je me présente à vous dans cet état disgracieux, je consens à sortir."
+        },
+        {
+            "key": "033",
+            "value": "Non, ce n'est pas la peine, nous comprenons."
+        },
+        {
+            "key": "034",
+            "value": "Ces sales trafiquants d'armes !"
+        },
+        {
+            "key": "035",
+            "value": "Peut-on commencer, maintenant ?"
+        },
+        {
+            "key": "036",
+            "value": "Dans ma lettre, je vous demandais d'apporter votre meilleure lame."
+        },
+        {
+            "key": "037",
+            "value": "Voici la mienne."
+        },
+        {
+            "key": "038",
+            "value": "Je ne suis pas venu pour perdre, même contre toi, Velrik."
+        },
+        {
+            "key": "039",
+            "value": "Oh, je vois que tu as de quoi soutenir tes prétentions, finalement."
+        },
+        {
+            "key": "040",
+            "value": "Ces deux dernières années semblent t'avoir été bénéfiques."
+        },
+        {
+            "key": "041",
+            "value": "Nous attendons votre verdict, maître. Vous avez devant vous les fruits de notre entraînement."
+        },
+        {
+            "key": "042",
+            "value": "En effet. Mais ce n'est pas moi qui serai le juge de leur efficacité."
+        },
+        {
+            "key": "043",
+            "value": "Qui, dans ce cas ?"
+        },
+        {
+            "key": "044",
+            "value": "Vous ne sentez donc pas la présence qui se rapproche ?"
+        },
+        {
+            "key": "045",
+            "value": "… !"
+        },
+        {
+            "key": "046",
+            "value": "Des monstres !"
+        },
+        {
+            "key": "047",
+            "value": "Comment sont-ils venus jusqu'ici ?"
+        },
+        {
+            "key": "048",
+            "value": "C'est moi qui les ai attirés."
+        },
+        {
+            "key": "049",
+            "value": "Pour que nous prouvions la qualité de nos lames sur leurs dos ?"
+        },
+        {
+            "key": "050",
+            "value": "Eh bien, qu'attendez-vous ?"
+        }
+    ]
+}

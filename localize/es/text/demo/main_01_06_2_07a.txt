@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Aún no se ve el castillo de Wezette…"
+        },
+        {
+            "key": "002",
+            "value": "No, aún no."
+        },
+        {
+            "key": "003",
+            "value": "Parece que la herida del rey Elde es más profunda de lo que me imaginaba…"
+        },
+        {
+            "key": "004",
+            "value": "Sí que lo es."
+        },
+        {
+            "key": "005",
+            "value": "Debemos apresurarnos. Si no recibe la atención necesaria, podríamos perderlo."
+        },
+        {
+            "key": "006",
+            "value": "Deprisa, ¡al castillo!"
+        }
+    ]
+}

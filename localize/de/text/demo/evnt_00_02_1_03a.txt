@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hey, hast du schon gehört? Anscheinend kommt dieses dumme Weibsbild auch mit uns."
+        },
+        {
+            "key": "002",
+            "value": "Ja, Adelards Schwester ... „Salire“ war‘s, glaube ich."
+        },
+        {
+            "key": "003",
+            "value": "Er hielt es wohl für zu gefährlich, sie in Hourne zurückzulassen."
+        },
+        {
+            "key": "004",
+            "value": "Ehrlich ... Großer Bruder wie kleine Schwester, beide sind dumm wie Brot."
+        },
+        {
+            "key": "005",
+            "value": "Lasst uns die beiden während dieser Expedition in den Westen aus dem Weg räumen. Wir werden dafür sorgen, dass Glahz wieder als Kommandant eingesetzt wird."
+        },
+        {
+            "key": "006",
+            "value": "Ja, auf jeden Fall. Ich vermisse die Zeiten, als wir uns die Taschen füllen konnten, ohne uns wie jetzt abplagen zu müssen."
+        },
+        {
+            "key": "007",
+            "value": "Gut ... Wann und wo bringen wir sie um die Ecke?"
+        },
+        {
+            "key": "008",
+            "value": "Lasst uns warten, bis wir die Festung zurückerobert haben und sie abgelenkt sind. Dann schlagen wir zu."
+        },
+        {
+            "key": "009",
+            "value": "... Hatte ich’s mir doch gedacht."
+        },
+        {
+            "key": "010",
+            "value": "Aber ganz ehrlich ... Glauben die wirklich, dass sie es mit uns aufnehmen können?"
+        }
+    ]
+}

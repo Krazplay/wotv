@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "PIECE",
+            "value": "Entraîner"
+        },
+        {
+            "key": "REFRESH",
+            "value": "Rafraîchir"
+        },
+        {
+            "key": "ATTACKABLE",
+            "value": "Unités prêtes pour le combat uniquement"
+        },
+        {
+            "key": "NOT_ENHANCE_WEAPON",
+            "value": "Aucun équipement ne peut être amélioré."
+        }
+    ]
+}

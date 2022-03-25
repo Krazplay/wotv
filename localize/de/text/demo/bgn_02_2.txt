@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Dieses Mal möchte ich mit Euch mein Wissen über <color=#0000ff>TP</color>, <color=#0000ff>AP</color> und <color=#0000ff>Limiträusche</color> teilen."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Um eine Fähigkeit einsetzen zu können, werden je nach Art entweder <color=#0000ff>TP (Taktikpunkte)</color> oder <color=#0000ff>AP (Angriffspunkte)</color> benötigt."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Es sind hauptsächlich Fähigkeiten mit <color=#0000ff>unterstützender</color> Wirkung, die <color=#0000ff>TP</color> konsumieren, während es sich bei <color=#0000ff>AP</color> verbrauchenden Fähigkeiten hauptsächlich um solche handelt, die unmittelbar <color=#0000ff>Schaden verursachen</color>."
+        },
+        {
+            "key": "004",
+            "value": "Zu Beginn eines Kampfes ist Euer Vorrat an TP stets <color=#0000ff>vollständig aufgefüllt</color>. Dieser <color=#0000ff>regeneriert sich jedoch nicht von selbst</color> und kann nur durch Verwendung von Gegenständen wie etwa Äther wiederhergestellt werden."
+        },
+        {
+            "key": "005",
+            "value": "Im Gegensatz dazu verfügt Ihr zu Kampfbeginn nur über eine geringe Menge von AP, die jedoch durch Ausführen normaler Attacken oder den Einsatz von TP verbrauchenden Fähigkeiten <color=#0000ff>anwächst</color>."
+        },
+        {
+            "key": "006",
+            "value": "Bestimmte Einheiten verfügen über <color=#0000ff>Limiträusche</color> genannte Fähigkeiten, die <color=#0000ff>Spezialangriffen</color> entsprechen und für deren Verwendung <color=#0000ff>eine große Menge AP</color> benötigt wird."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Achtet bitte darauf, dass jede Fähigkeit <color=#0000ff>nur eine bestimmte Zahl von Malen eingesetzt</color> werden kann."
+        },
+        {
+            "key": "008",
+            "value": "Ganz so, wie ich es mir von Euch erwartet hatte, Euer Hoheit!"
+        },
+        {
+            "key": "009",
+            "value": "Habt Ihr bemerkt, dass die Fenster der TP benötigenden Fertigkeiten <color=#0000ff>gelb</color>, die der AP benötigenden dagegen <color=#0000ff>rosa</color> sind?"
+        },
+        {
+            "key": "010",
+            "value": "Für unterstützende Wirkung TP, für destruktive Wirkung AP ... Die jeweiligen Charakteristika zu erfassen, wird Euch dem Ziel, ein Meister des Kampfes zu werden, einen Schritt näherbringen."
+        }
+    ]
+}

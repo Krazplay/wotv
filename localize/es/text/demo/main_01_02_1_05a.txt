@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Traigo novedades. Parece que refuerzos de Fennes vienen de camino hacia aquí."
+        },
+        {
+            "key": "002",
+            "value": "¿Refuerzos… de Fennes?"
+        },
+        {
+            "key": "003",
+            "value": "Parece que Muraga se ha enterado de que el castillo está vacío. El muy canalla se las sabe todas."
+        },
+        {
+            "key": "004",
+            "value": "Maestro, ¿qué opinas de esa reacción por su parte?"
+        },
+        {
+            "key": "005",
+            "value": "El muy salvaje… parece que no se fía de vos."
+        },
+        {
+            "key": "006",
+            "value": "¿De mí?"
+        },
+        {
+            "key": "007",
+            "value": "El rey Elde se opuso rotundamente a enviaros a luchar contra Fennes."
+        },
+        {
+            "key": "008",
+            "value": "Por eso Muraga os tiene miedo, alteza. Seguro que se piensa que sois nuestra arma secreta. Ja, ja, ja."
+        },
+        {
+            "key": "009",
+            "value": "¿Estás diciendo que mi padre me mantuvo en la retaguardia para…?"
+        },
+        {
+            "key": "010",
+            "value": "Bueno, al menos ahora tenemos la posibilidad de vencer, por muy pequeña que sea."
+        },
+        {
+            "key": "011",
+            "value": "¿A qué te refieres?"
+        },
+        {
+            "key": "012",
+            "value": "Que Muraga podría estar subestimando las habilidades de lord Mont."
+        },
+        {
+            "key": "013",
+            "value": "Tan perspicaz como siempre, maestro. Yo también había llegado a una conclusión similar."
+        },
+        {
+            "key": "014",
+            "value": "Quizá su manejo de la espada deje mucho que desear comparado con vos, lord Stern, aunque…"
+        },
+        {
+            "key": "015",
+            "value": "Lo cierto es que ha participado en innumerables contiendas. A veces, las flores crecen hasta en el campo de batalla."
+        },
+        {
+            "key": "016",
+            "value": "Yo también lo creo, Owe."
+        },
+        {
+            "key": "017",
+            "value": "¿En marcha pues? Tengo que ponerme a tono. Estoy oxidado de tanto servir en el castillo."
+        }
+    ]
+}

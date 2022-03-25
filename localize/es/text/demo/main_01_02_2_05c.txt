@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Mont, ¿qué diantres estás haciendo?"
+        },
+        {
+            "key": "002",
+            "value": "Tanta espera se está convirtiendo en un martirio."
+        },
+        {
+            "key": "003",
+            "value": "…"
+        },
+        {
+            "key": "004",
+            "value": "Lo que pensaba, aquí estáis."
+        },
+        {
+            "key": "005",
+            "value": "Deberíais volver a la torre del castillo. El viento vespertino es agotador."
+        },
+        {
+            "key": "006",
+            "value": "Dicen que Mont es el primogénito de Leonis."
+        },
+        {
+            "key": "007",
+            "value": "Sí que lo es. ¿Y?"
+        },
+        {
+            "key": "008",
+            "value": "¿No os preocupa?"
+        },
+        {
+            "key": "009",
+            "value": "Mont perdería su condición de príncipe si el reino cayera."
+        },
+        {
+            "key": "010",
+            "value": "¿Es que no corre por vuestras venas la misma sangre?"
+        },
+        {
+            "key": "011",
+            "value": "Cualquier padre se desvive por la seguridad de sus hijos, pero…"
+        },
+        {
+            "key": "012",
+            "value": "No podría cumplir con mi deber de guardián si dejase que mi corazón se inmiscuyera en asuntos de ese calado."
+        },
+        {
+            "key": "013",
+            "value": "¿Vuestro deber de guardián? ¿De qué habláis?"
+        },
+        {
+            "key": "014",
+            "value": "No es de vuestra incumbencia."
+        },
+        {
+            "key": "015",
+            "value": "Ahora, volved a la torre del castillo."
+        },
+        {
+            "key": "016",
+            "value": "Al fin y al cabo, nadie nos asegura que Mont consiga regresar."
+        }
+    ]
+}

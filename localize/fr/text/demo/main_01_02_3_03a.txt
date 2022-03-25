@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Allons-y."
+        },
+        {
+            "key": "002",
+            "value": "Si tu as l'occasion de te rendre, ne la laisse pas passer. La lignée des Leonis doit perdurer, ne l'oublie jamais."
+        },
+        {
+            "key": "003",
+            "value": "Je sais."
+        },
+        {
+            "key": "004",
+            "value": "Mère... je vous en supplie, capitulez dès que vous le pourrez."
+        },
+        {
+            "key": "005",
+            "value": "Ne dis pas de bêtises, Mont. Si elle se rendait trop rapidement, qu'elle reste ici ne servirait à rien."
+        },
+        {
+            "key": "006",
+            "value": "Vous mettez leurs vies en danger pour sauver la nôtre."
+        },
+        {
+            "key": "007",
+            "value": "C'est pour le bien de la lignée des Leonis."
+        },
+        {
+            "key": "008",
+            "value": "Mont..."
+        },
+        {
+            "key": "009",
+            "value": "Faites attention à vous."
+        },
+        {
+            "key": "010",
+            "value": "Autant que je le pourrai."
+        },
+        {
+            "key": "011",
+            "value": "... L'heure a sonné, allons-y !"
+        },
+        {
+            "key": "012",
+            "value": "Schuzelt... ça va ?"
+        },
+        {
+            "key": "013",
+            "value": "... Oui, Prince Mont."
+        }
+    ]
+}

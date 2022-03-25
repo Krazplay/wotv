@@ -1,0 +1,132 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... Argh !"
+        },
+        {
+            "key": "002",
+            "value": "Je ne laisserai pas ces blessures... me ralentir..."
+        },
+        {
+            "key": "003",
+            "value": "... !"
+        },
+        {
+            "key": "004",
+            "value": "L'odeur du sang les a attirés."
+        },
+        {
+            "key": "005",
+            "value": "Hmm, ça n'a pas l'air d'aller fort."
+        },
+        {
+            "key": "006",
+            "value": "C-cette voix... Impossible !"
+        },
+        {
+            "key": "007",
+            "value": "Kitone !"
+        },
+        {
+            "key": "008",
+            "value": "Que... Qu'est ce que tu fais ici ? Tu n'es pas censée être à Wezett ?"
+        },
+        {
+            "key": "009",
+            "value": "Je suis de retour. Sans la permission du roi."
+        },
+        {
+            "key": "010",
+            "value": "Mais pourquoi... ? Tu veux saisir cette occasion pour m'achever ?"
+        },
+        {
+            "key": "011",
+            "value": "Ta vie ne m'intéresse pas. Ne sommes-nous pas toutes les deux des shinobis de Saiga après tout ?"
+        },
+        {
+            "key": "012",
+            "value": "Nous sommes pourtant des ennemis en ce moment."
+        },
+        {
+            "key": "013",
+            "value": "Tu le penses vraiment ?"
+        },
+        {
+            "key": "014",
+            "value": "..."
+        },
+        {
+            "key": "015",
+            "value": "Si c'est réellement ce que tu penses, je n'ai plus rien à te dire. Je vais te tuer sur place."
+        },
+        {
+            "key": "016",
+            "value": "... Que s'est-il passé ?"
+        },
+        {
+            "key": "017",
+            "value": "Je suis retournée sur mes pas, car j'étais inquiète d'avoir laissé la reine Helena. Quand je l'ai retrouvée... elle et Owe étaient..."
+        },
+        {
+            "key": "018",
+            "value": "N-Non..."
+        },
+        {
+            "key": "019",
+            "value": "Je l'ai vue de mes propres yeux. Son visage figé par la douleur, couvert de sang et de terre..."
+        },
+        {
+            "key": "020",
+            "value": "Muraga... quel monstre... !"
+        },
+        {
+            "key": "021",
+            "value": "Jamais je ne pourrai lui pardonner, jamais !"
+        },
+        {
+            "key": "022",
+            "value": "Je ferai n'importe quoi pour me venger..."
+        },
+        {
+            "key": "023",
+            "value": "Je te comprends."
+        },
+        {
+            "key": "024",
+            "value": "Je suis en route pour rejoindre Adelard."
+        },
+        {
+            "key": "025",
+            "value": "Il a l'intention de rejoindre Muraga."
+        },
+        {
+            "key": "026",
+            "value": "Je dois l'informer de la trahison de Muraga avant qu'il y parvienne."
+        },
+        {
+            "key": "027",
+            "value": "Adelard... le commandant de « Nitor » ? Tu penses pouvoir le rattraper ? "
+        },
+        {
+            "key": "028",
+            "value": "Je n'ai pas d'autre choix."
+        },
+        {
+            "key": "029",
+            "value": "Je suis certaine d'y arriver... Mais ce serait plus facile avec ton aide."
+        },
+        {
+            "key": "030",
+            "value": "D'accord."
+        },
+        {
+            "key": "031",
+            "value": "Rattrapons d'abord Adelard... et ensuite nous nous occuperons de Muraga."
+        },
+        {
+            "key": "032",
+            "value": "Compris. Allons-y !"
+        }
+    ]
+}

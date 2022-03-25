@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Arg! Qué mala suerte que haya monstruos aquí."
+        },
+        {
+            "key": "002",
+            "value": "¡Proteged a Lady Machérie!"
+        },
+        {
+            "key": "003",
+            "value": "¿Qué es este alboroto?"
+        },
+        {
+            "key": "004",
+            "value": "Han aparecido unos monstruos. Pero no os preocupéis, alteza. Los eliminaremos de inmediato."
+        },
+        {
+            "key": "005",
+            "value": "Qué casualidad, justo estaba pensando en salir a tomar el aire."
+        },
+        {
+            "key": "006",
+            "value": "Yo me encargo."
+        }
+    ]
+}

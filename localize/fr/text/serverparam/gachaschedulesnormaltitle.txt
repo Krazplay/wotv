@@ -1,0 +1,2916 @@
+﻿{
+    "infos": [
+        {
+            "key": "Normal_gacha_A",
+            "value": "Invocation normale"
+        },
+        {
+            "key": "Normal_gacha_A_10",
+            "value": "Invocation x10 normale"
+        },
+        {
+            "key": "Raregacha_A",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_GL20200408",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200408",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200408",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_GL20200422",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200422",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200422",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_GL20200520",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200520",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200520",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_p_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201111_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201111_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201111_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201118_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201118_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201118_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201125_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201125_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201125_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201202_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201202_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201202_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201230_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201230_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20201230_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210106_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210106_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210106_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210113_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210113_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210113_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210120_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210120_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210120_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210127_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210127_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210127_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210203_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210203_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210203_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210210_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210210_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210210_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210217_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210217_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210217_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210303_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210303_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210303_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210310_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210310_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210310_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210317_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210317_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210317_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210331_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210331_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210331_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210407_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210407_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210407_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210421_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210421_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210421_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210428_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210428_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210428_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210519_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210519_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210519_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210526_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210526_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210526_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210602_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210602_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210602_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210609_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210609_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210609_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210616_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210616_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210616_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210623_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210623_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210623_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210630_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210630_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210630_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210707_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210707_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210707_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210714_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210714_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210714_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210721_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210721_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210721_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210728_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210728_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210728_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210811_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210811_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210811_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210818_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210818_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210818_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210825_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210825_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210825_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210901_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210901_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210901_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210908_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210908_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210908_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210915_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210915_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210915_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210922_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210922_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210922_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210929_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210929_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20210929_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211006_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211006_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211006_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211013_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211013_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211013_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211020_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211020_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211020_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211027_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211027_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211027_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211103_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211103_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211103_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211117_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211117_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211117_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211124_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211124_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211124_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211201_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211201_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20211201_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220112_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220112_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220112_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220126_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220126_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220126_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220209_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220209_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220209_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220302_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220302_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220302_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130",
+            "value": "Célébration pour la sortie du jeu - Invocation normale limitée"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130_10",
+            "value": "Célébration pour la sortie du jeu - Invocation x10 normale limitée"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401",
+            "value": "1er million de téléchargements - Invocation normale limitée"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401_10",
+            "value": "1er million de téléchargements - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408",
+            "value": "2 millions de téléchargements - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408_10",
+            "value": "2 millions de téléchargements - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422",
+            "value": "3 millions de téléchargements - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422_10",
+            "value": "3 millions de téléchargements - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_01",
+            "value": "4 millions de téléchargements - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_10",
+            "value": "4 millions de téléchargements - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_01",
+            "value": "Sortie du chapitre 6 ! - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_10",
+            "value": "Sortie du chapitre 6 ! - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_01",
+            "value": "5 millions de téléchargements - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_10",
+            "value": "5 millions de téléchargements - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_01",
+            "value": "Célébration de la nouvelle version - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_01",
+            "value": "Célébration de raid - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_10",
+            "value": "Célébration de raid - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_01",
+            "value": "Début de l'été - Invocation normale"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_10",
+            "value": "Début de l'été - Invocation x10 normale"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "Sortie du chapitre 7 ! - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "FF EXVIUS Universe - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "FF EXVIUS Universe - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "FF EXVIUS Universe - Invocation normale limitée [Partie II]"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "FF EXVIUS Universe - Invocation x10 normale limitée [Partie II]"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200902_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200902_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200909_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200909_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Campaign_gacha_gl20200909_10",
+            "value": "Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200916_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200916_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Campaign_gacha_gl20200916_10",
+            "value": "Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200923_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200923_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200930_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200930_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201007_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201007_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201014_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201014_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201021_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201021_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Campaign_gacha_gl20201021_10",
+            "value": "Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201021_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201028_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201028_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201104_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201104_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Campaign_gacha_gl20201104_10",
+            "value": "Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201111_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201111_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Campaign_gacha_gl20201111_10",
+            "value": "Invocation d'atout-vision MR+ garanti"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201118_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201118_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201125_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201125_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Campaign_gacha_gl20201125_10",
+            "value": "Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201209_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201209_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201209_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Campaign_gacha_gl20201209_10",
+            "value": "Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201216_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201216_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201216_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201223_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201223_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201223_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201230_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201230_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201230_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210106_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210106_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210113_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210113_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210120_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210120_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "beginner_gacha_gl20210120_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Campaign_gacha_gl20210120_10",
+            "value": "Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210127_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210127_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Campaign_gacha_gl20210127_10",
+            "value": "Invocation d'atout-vision MR+ garanti"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210127_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210203_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210203_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210203_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Campaign_gacha_gl20210203_10",
+            "value": "Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "beginner_gacha_gl20210203_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210210_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210210_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210217_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210217_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210217_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210224_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210224_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210224_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210303_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210303_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "beginner_gacha_gl20210303_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Campaign_gacha_gl20210303_10",
+            "value": "Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210303_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210310_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210310_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210310_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210317_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210317_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210317_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210324_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210324_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "beginner_gacha_gl20210407_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210407_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210407_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210414_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210414_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210421_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210421_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210421_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210428_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210428_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210428_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210505_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210505_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "beginner_gacha_gl20210505_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210505_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210512_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210512_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210512_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210519_01",
+            "value": "Célébration de la nouvelle version - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210519_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210519_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "Campaign_gacha_gl20210519_10",
+            "value": "8 millions de téléchargements [Partie III] - Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210526_01",
+            "value": "Spécial Tour de porcelaine - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210526_10",
+            "value": "Spécial Tour de porcelaine - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Campaign_gacha_gl20210526_10",
+            "value": "8 millions de téléchargements [Partie IV] - Invocation d'atout-vision MR+ garanti"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210602_01",
+            "value": "Festival des roses - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210602_10",
+            "value": "Festival des roses - Invocation x10 normale limitée"
+        },
+        {
+            "key": "beginner_gacha_gl20210602_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210609_01",
+            "value": "Festival du chocolat 2021 - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210609_10",
+            "value": "Festival du chocolat 2021 - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210616_01",
+            "value": "Célébration de la nouvelle version - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210616_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Campaign_gacha_gl20210616_10",
+            "value": "Célébration de la nouvelle version - Invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210623_01",
+            "value": "Intermède : Chapitre II, Partie 1 - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210623_10",
+            "value": "Intermède : Chapitre II, Partie 1 - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Campaign_gacha_gl20210623_10",
+            "value": "Intermède : Chapitre II, Partie 1 - Invocation d'atout-vision MR+ garanti"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210630_01",
+            "value": "Festivités de la globale - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210630_10",
+            "value": "Festivités de la globale - Invocation x10 normale limitée"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210630_10",
+            "value": "Matériaux d'amélioration d'équipement - Invocation x10 normale GRATUITE"
+        },
+        {
+            "key": "beginner_gacha_gl20210707_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210707_01",
+            "value": "Nouvel événement de l'histoire - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210707_10",
+            "value": "Nouvel événement de l'histoire - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210714_01",
+            "value": "Célébration de la nouvelle version - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210714_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210721_01",
+            "value": "Spécial été 2021 [Partie I] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210721_10",
+            "value": "Spécial été 2021 [Partie I] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210728_01",
+            "value": " 9 millions de téléchargements [Partie I] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210728_10",
+            "value": " 9 millions de téléchargements [Partie I] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "beginner_gacha_gl20210804_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210804_01",
+            "value": "Spécial été 2021 [Partie II] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210804_10",
+            "value": "Spécial été 2021 [Partie II] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_QILF_01_gl20210804_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_QILF_01_gl20210804_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20210804_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20210804_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210811_01",
+            "value": "Spécial Tanabata 2021 - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210811_10",
+            "value": "Spécial Tanabata 2021 - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20210811_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_gl20210811_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_gl20210811_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210818_01",
+            "value": "Spécial été 2021 [Partie III] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210818_10",
+            "value": "Spécial été 2021 [Partie III] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_ELSR_01_gl20210818_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_ELSR_01_gl20210818_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_ELSR_01_gl20210818_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20210818_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20210818_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20210818_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_CLOUD_gl20210825_01",
+            "value": "FINAL FANTASY VII REMAKE - Invocation de la collaboration : Cloud"
+        },
+        {
+            "key": "new-gacha_CLOUD_gl20210825_10",
+            "value": "FINAL FANTASY VII REMAKE - Invocation x10 de la collaboration : Cloud"
+        },
+        {
+            "key": "new-gacha_CLOUD_gl20210825_P",
+            "value": "FINAL FANTASY VII REMAKE - Invocation de la collaboration : Cloud"
+        },
+        {
+            "key": "new-gacha_TIFA_gl20210825_01",
+            "value": "FINAL FANTASY VII REMAKE - Invocation de la collaboration : Tifa"
+        },
+        {
+            "key": "new-gacha_TIFA_gl20210825_10",
+            "value": "FINAL FANTASY VII REMAKE - Invocation x10 de la collaboration : Tifa"
+        },
+        {
+            "key": "new-gacha_TIFA_gl20210825_P",
+            "value": "FINAL FANTASY VII REMAKE - Invocation de la collaboration : Tifa"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210825_01",
+            "value": "Compte à rebours de l'anniversaire des un an et six mois [Partie I] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210825_10",
+            "value": "Compte à rebours de l'anniversaire des un an et six mois [Partie I] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210901_01",
+            "value": "Compte à rebours de l'anniversaire des un an et six mois [Partie II] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210901_10",
+            "value": "Compte à rebours de l'anniversaire des un an et six mois [Partie II] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_AERT_gl20210901_01",
+            "value": "FINAL FANTASY VII REMAKE - Invocation de la collaboration : Aerith"
+        },
+        {
+            "key": "new-gacha_AERT_gl20210901_10",
+            "value": "FINAL FANTASY VII REMAKE - Invocation x10 de la collaboration : Aerith"
+        },
+        {
+            "key": "new-gacha_AERT_gl20210901_P",
+            "value": "FINAL FANTASY VII REMAKE - Invocation de la collaboration : Aerith"
+        },
+        {
+            "key": "new-gacha_BART_gl20210901_01",
+            "value": "FINAL FANTASY VII REMAKE - Invocation de la collaboration : Barret"
+        },
+        {
+            "key": "new-gacha_BART_gl20210901_10",
+            "value": "FINAL FANTASY VII REMAKE - Invocation x10 de la collaboration : Barret"
+        },
+        {
+            "key": "new-gacha_BART_gl20210901_P",
+            "value": "FINAL FANTASY VII REMAKE - Invocation de la collaboration : Barret"
+        },
+        {
+            "key": "beginner_gacha_gl20210901_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210908_01",
+            "value": "Compte à rebours de l'anniversaire des un an et six mois [Partie III] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210908_10",
+            "value": "Compte à rebours de l'anniversaire des un an et six mois [Partie III] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20210908_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20210908_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20210908_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210915_01",
+            "value": "Compte à rebours de l'anniversaire des un an et six mois [Partie IV] - Invocation normale limitée "
+        },
+        {
+            "key": "Normal_gacha_A_gl20210915_10",
+            "value": "Compte à rebours de l'anniversaire des un an et six mois [Partie IV] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20210915_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_gl20210915_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_gl20210915_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_LSWL_gl20210915_01",
+            "value": "Invocation des unités du moment"
+        },
+        {
+            "key": "new-gacha_LSWL_gl20210915_10",
+            "value": "Invocation x10 des unités du moment"
+        },
+        {
+            "key": "new-gacha_LSWL_gl20210915_P",
+            "value": "Invocation des unités du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210922_01",
+            "value": "Anniversaire des un an et six mois - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210922_10",
+            "value": "Anniversaire des un an et six mois - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_TOMBR_gl20210922_01",
+            "value": "Invocation de la collaboration avec Tomb Raider"
+        },
+        {
+            "key": "new-gacha_TOMBR_gl20210922_10",
+            "value": "Invocation x10 de la collaboration avec Tomb Raider"
+        },
+        {
+            "key": "new-gacha_TOMBR_gl20210922_P",
+            "value": "Invocation de la collaboration avec Tomb Raider"
+        },
+        {
+            "key": "new-gacha_WINTER1_gl20210922_01",
+            "value": "Retour des exclusivités saisonnières - Invocation du moment de l'hiver I"
+        },
+        {
+            "key": "new-gacha_WINTER1_gl20210922_10",
+            "value": "Retour des exclusivités saisonnières - Invocation x10 du moment de l'hiver I"
+        },
+        {
+            "key": "new-gacha_WINTER1_gl20210922_P",
+            "value": "Retour des exclusivités saisonnières - Invocation du moment de l'hiver I"
+        },
+        {
+            "key": "new-gacha_WINTER2_gl20210922_01",
+            "value": "Retour des exclusivités saisonnières - Invocation du moment de l'hiver II"
+        },
+        {
+            "key": "new-gacha_WINTER2_gl20210922_10",
+            "value": "Retour des exclusivités saisonnières - Invocation x10 du moment de l'hiver II"
+        },
+        {
+            "key": "new-gacha_WINTER2_gl20210922_P",
+            "value": "Retour des exclusivités saisonnières - Invocation du moment de l'hiver II"
+        },
+        {
+            "key": "new-gacha_WINTER3_gl20210922_01",
+            "value": "Retour des exclusivités saisonnières - Invocation du moment de l'hiver III"
+        },
+        {
+            "key": "new-gacha_WINTER3_gl20210922_10",
+            "value": "Retour des exclusivités saisonnières - Invocation x10 du moment de l'hiver III"
+        },
+        {
+            "key": "new-gacha_WINTER3_gl20210922_P",
+            "value": "Retour des exclusivités saisonnières - Invocation du moment de l'hiver III"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210929_01",
+            "value": "Anniversaire des un an et six mois [Partie II] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210929_10",
+            "value": "Anniversaire des un an et six mois [Partie II] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_unit_gl20210929_01",
+            "value": "Festivités de la globale : invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_unit_gl20210929_10",
+            "value": "Festivités de la globale : invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_unit_gl20210929_P",
+            "value": "Festivités de la globale : invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20210929_01",
+            "value": "Festivités de la globale : invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20210929_10",
+            "value": "Festivités de la globale : invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20210929_P",
+            "value": "Festivités de la globale : invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211006_01",
+            "value": "Anniversaire des un an et six mois [Partie III] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211006_10",
+            "value": "Anniversaire des un an et six mois [Partie III] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20211006_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_gl20211006_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_gl20211006_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "beginner_gacha_gl20211006_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211013_01",
+            "value": "Anniversaire des un an et six mois [Partie IV] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211013_10",
+            "value": "Anniversaire des un an et six mois [Partie IV] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_JEDN_gl20211013_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_JEDN_gl20211013_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_JEDN_gl20211013_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20211013_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_gl20211013_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_gl20211013_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211020_01",
+            "value": "Célébration de la nouvelle version - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211020_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20211020_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20211020_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20211020_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211027_01",
+            "value": "Festivités d'Halloween 2021 - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211027_10",
+            "value": "Festivités d'Halloween 2021 - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_HALLOW2_gl20211027_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_HALLOW2_gl20211027_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_HALLOW2_gl20211027_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_HALL2_gl20211027_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_HALL2_gl20211027_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_HALL2_gl20211027_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211103_01",
+            "value": "À l'aube des deux ans de la version japonaise - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211103_10",
+            "value": "À l'aube des deux ans de la version japonaise - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20211103_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20211103_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20211103_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "beginner_gacha_gl20211103_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211110_01",
+            "value": "Les deux ans de la version japonaise - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211110_10",
+            "value": "Les deux ans de la version japonaise - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20211110_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_gl20211110_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_gl20211110_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211117_01",
+            "value": "Célébration de la nouvelle version - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211117_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20211117_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20211117_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20211117_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211124_01",
+            "value": "Black Friday - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211124_10",
+            "value": "Black Friday - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_NCTS_gl20211124_01",
+            "value": "FINAL FANTASY XV - Invocation de la collaboration : Noctis"
+        },
+        {
+            "key": "new-gacha_NCTS_gl20211124_10",
+            "value": "FINAL FANTASY XV - Invocation x10 de la collaboration : Noctis"
+        },
+        {
+            "key": "new-gacha_NCTS_gl20211124_P",
+            "value": "FINAL FANTASY XV - Invocation de la collaboration : Noctis"
+        },
+        {
+            "key": "new-gacha_PRMP_gl20211124_01",
+            "value": "FINAL FANTASY XV - Invocation de la collaboration : Prompto"
+        },
+        {
+            "key": "new-gacha_PRMP_gl20211124_10",
+            "value": "FINAL FANTASY XV - Invocation x10 de la collaboration : Prompto"
+        },
+        {
+            "key": "new-gacha_PRMP_gl20211124_P",
+            "value": "FINAL FANTASY XV - Invocation de la collaboration : Prompto"
+        },
+        {
+            "key": "new-gacha_OATH_gl20211124_01",
+            "value": "FINAL FANTASY XV - Invocation de la collaboration : « Serment de secours »"
+        },
+        {
+            "key": "new-gacha_OATH_gl20211124_10",
+            "value": "FINAL FANTASY XV - Invocation x10 de la collaboration : « Serment de secours »"
+        },
+        {
+            "key": "new-gacha_OATH_gl20211124_P",
+            "value": "FINAL FANTASY XV - Invocation de la collaboration : « Serment de secours »"
+        },
+        {
+            "key": "beginner_gacha_gl20211201_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211201_01",
+            "value": "Premières neiges 2021 - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211201_10",
+            "value": "Premières neiges 2021 - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20211201_01",
+            "value": "FINAL FANTASY XV - Invocation de la collaboration : Aranea"
+        },
+        {
+            "key": "new-gacha_gl20211201_10",
+            "value": "FINAL FANTASY XV - Invocation x10 de la collaboration : Aranea"
+        },
+        {
+            "key": "new-gacha_gl20211201_P",
+            "value": "FINAL FANTASY XV - Invocation de la collaboration : Aranea"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211208_01",
+            "value": "Premières neiges 2021 [Partie II] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211208_10",
+            "value": "Premières neiges 2021 [Partie II] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20211208_01",
+            "value": "FINAL FANTASY XV - Invocation de la collaboration : « AM-X Manipulus »"
+        },
+        {
+            "key": "new-gacha_gl20211208_10",
+            "value": "FINAL FANTASY XV - Invocation x10 de la collaboration : « AM-X Manipulus »"
+        },
+        {
+            "key": "new-gacha_gl20211208_P",
+            "value": "FINAL FANTASY XV - Invocation de la collaboration : « AM-X Manipulus »"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211215_01",
+            "value": "Spécial hiver 2021 - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211215_10",
+            "value": "Spécial hiver 2021 - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_unit_gl20211215_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_unit_gl20211215_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_unit_gl20211215_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20211215_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20211215_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20211215_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211222_01",
+            "value": "Festivités de la globale - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211222_10",
+            "value": "Festivités de la globale - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_unit_gl20211222_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_unit_gl20211222_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_unit_gl20211222_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20211222_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20211222_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20211222_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211229_01",
+            "value": "À l'aube de 2022 - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211229_10",
+            "value": "À l'aube de 2022 - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_vc_gl20211229_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20211229_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20211229_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220105_01",
+            "value": "Festival du cristal - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220105_10",
+            "value": "Festival du cristal - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20220105_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20220105_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20220105_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220112_01",
+            "value": "Vent d'hiver 2022 - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220112_10",
+            "value": "Vent d'hiver 2022 - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_vc_gl20220112_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220112_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220112_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220119_01",
+            "value": "Vent d'hiver 2022 [Partie II] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220119_10",
+            "value": "Vent d'hiver 2022 [Partie II] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20220119_01",
+            "value": "Invocation de la nouvelle unité du moment : Golbez"
+        },
+        {
+            "key": "new-gacha_gl20220119_10",
+            "value": "Invocation x10 de la nouvelle unité du moment : Golbez"
+        },
+        {
+            "key": "new-gacha_gl20220119_P",
+            "value": "Invocation de la nouvelle unité du moment : Golbez"
+        },
+        {
+            "key": "gacha_CECL_gl20220119_01",
+            "value": "Invocation de la réédition de l'unité du moment : Cécil"
+        },
+        {
+            "key": "gacha_CECL_gl20220119_10",
+            "value": "Invocation x10 de la réédition de l'unité du moment : Cécil"
+        },
+        {
+            "key": "gacha_CECL_gl20220119_P",
+            "value": "Invocation de la réédition de l'unité du moment : Cécil"
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_01",
+            "value": "Invocation de la réédition de l'unité du moment : Kaïn"
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_10",
+            "value": "Invocation x10 de la réédition de l'unité du moment : Kaïn"
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_P",
+            "value": "Invocation de la réédition de l'unité du moment : Kaïn"
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_01",
+            "value": "Invocation de la réédition de l'unité du moment : Rosa"
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_10",
+            "value": "Invocation x10 de la réédition de l'unité du moment : Rosa"
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_P",
+            "value": "Invocation de la réédition de l'unité du moment : Rosa"
+        },
+        {
+            "key": "gacha_reissue_gl20220119_01",
+            "value": "Invocation de la réédition de l'atout-vision du moment : « Mur démonique »"
+        },
+        {
+            "key": "gacha_reissue_gl20220119_10",
+            "value": "Invocation x10 de la réédition de l'atout-vision du moment : « Mur démonique »"
+        },
+        {
+            "key": "gacha_reissue_gl20220119_P",
+            "value": "Invocation de la réédition de l'atout-vision du moment : « Mur démonique »"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220126_01",
+            "value": "10 millions de téléchargements [Partie II] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220126_10",
+            "value": "10 millions de téléchargements [Partie II] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_vc_gl20220126_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220126_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220126_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_a_01",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_a_10",
+            "value": "Invocation x10 d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_a_P",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_b_01",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_b_10",
+            "value": "Invocation x10 d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_b_P",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_c_01",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_c_10",
+            "value": "Invocation x10 d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_c_P",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_d_01",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_d_10",
+            "value": "Invocation x10 d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_d_P",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_e_01",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_e_10",
+            "value": "Invocation x10 d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_e_P",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_f_01",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_f_10",
+            "value": "Invocation x10 d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_f_P",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_g_01",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_g_10",
+            "value": "Invocation x10 d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_g_P",
+            "value": "Invocation d'unité UR (coût : 100) du moment"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20220126_10",
+            "value": "Invocation x10 normale gratuite de matériaux d'amélioration d'équipement"
+        },
+        {
+            "key": "beginner_gacha_gl20220202_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220202_01",
+            "value": "Festivités du Nouvel An lunaire 2022 - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220202_10",
+            "value": "Festivités du Nouvel An lunaire 2022 - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20220202_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20220202_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20220202_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220202_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220202_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220202_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220209_01",
+            "value": "Festival du cristal - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220209_10",
+            "value": "Festival du cristal - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20220209_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20220209_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20220209_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220216_01",
+            "value": "Célébration de la nouvelle version - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220216_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_vc_gl20220216_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220216_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220216_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_a_01",
+            "value": "Invocation des éléments du moment I"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_a_10",
+            "value": "Invocation x10 des éléments du moment I"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_a_P",
+            "value": "Invocation des éléments du moment I"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_b_01",
+            "value": "Invocation des éléments du moment II"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_b_10",
+            "value": "Invocation x10 des éléments du moment II"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_b_P",
+            "value": "Invocation des éléments du moment II"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_c_01",
+            "value": "Invocation des éléments du moment III"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_c_10",
+            "value": "Invocation x10 des éléments du moment III"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_c_P",
+            "value": "Invocation des éléments du moment III"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_d_01",
+            "value": "Invocation des éléments du moment IV"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_d_10",
+            "value": "Invocation x10 des éléments du moment IV"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_d_P",
+            "value": "Invocation des éléments du moment IV"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220223_01",
+            "value": "Compte à rebours du 2e anniversaire [Partie I] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220223_10",
+            "value": "Compte à rebours du 2e anniversaire [Partie I] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "gacha_KTON_01_gl20220223_01",
+            "value": "Invocation des unités du moment I"
+        },
+        {
+            "key": "gacha_KTON_01_gl20220223_10",
+            "value": "Invocation x10 des unités du moment I"
+        },
+        {
+            "key": "gacha_KTON_01_gl20220223_P",
+            "value": "Invocation des unités du moment I"
+        },
+        {
+            "key": "gacha_LILS_01_gl20220223_01",
+            "value": "Invocation des unités du moment II"
+        },
+        {
+            "key": "gacha_LILS_01_gl20220223_10",
+            "value": "Invocation x10 des unités du moment II"
+        },
+        {
+            "key": "gacha_LILS_01_gl20220223_P",
+            "value": "Invocation des unités du moment II"
+        },
+        {
+            "key": "gacha_QILF_01_gl20220223_01",
+            "value": "Invocation des unités du moment III"
+        },
+        {
+            "key": "gacha_QILF_01_gl20220223_10",
+            "value": "Invocation x10 des unités du moment III"
+        },
+        {
+            "key": "gacha_QILF_01_gl20220223_P",
+            "value": "Invocation des unités du moment III"
+        },
+        {
+            "key": "gacha_ELSR_01_gl20220223_01",
+            "value": "Invocation des unités du moment IV"
+        },
+        {
+            "key": "gacha_ELSR_01_gl20220223_10",
+            "value": "Invocation x10 des unités du moment IV"
+        },
+        {
+            "key": "gacha_ELSR_01_gl20220223_P",
+            "value": "Invocation des unités du moment IV"
+        },
+        {
+            "key": "beginner_gacha_gl20220302_10",
+            "value": "7 premiers jours du débutant seulement - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220302_01",
+            "value": "Compte à rebours du 2e anniversaire [Partie II] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220302_10",
+            "value": "Compte à rebours du 2e anniversaire [Partie II] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "gacha_FDRC_01_gl20220302_01",
+            "value": "Invocation des unités du moment I"
+        },
+        {
+            "key": "gacha_FDRC_01_gl20220302_10",
+            "value": "Invocation x10 des unités du moment I"
+        },
+        {
+            "key": "gacha_FDRC_01_gl20220302_P",
+            "value": "Invocation des unités du moment I"
+        },
+        {
+            "key": "gacha_RYER_01_gl20220302_01",
+            "value": "Invocation des unités du moment II"
+        },
+        {
+            "key": "gacha_RYER_01_gl20220302_10",
+            "value": "Invocation x10 des unités du moment II"
+        },
+        {
+            "key": "gacha_RYER_01_gl20220302_P",
+            "value": "Invocation des unités du moment II"
+        },
+        {
+            "key": "gacha_RIRY_01_gl20220302_01",
+            "value": "Invocation des unités du moment III"
+        },
+        {
+            "key": "gacha_RIRY_01_gl20220302_10",
+            "value": "Invocation x10 des unités du moment III"
+        },
+        {
+            "key": "gacha_RIRY_01_gl20220302_P",
+            "value": "Invocation des unités du moment III"
+        },
+        {
+            "key": "gacha_reissue_gl20220302_01",
+            "value": "Invocation des atouts-visions du moment"
+        },
+        {
+            "key": "gacha_reissue_gl20220302_10",
+            "value": "Invocation x10 des atouts-visions du moment"
+        },
+        {
+            "key": "gacha_reissue_gl20220302_P",
+            "value": "Invocation des atouts-visions du moment"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220309_01",
+            "value": "Festival du cristal - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220309_10",
+            "value": "Festival du cristal - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_gl20220309_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20220309_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_gl20220309_P",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_a_01",
+            "value": "Invocation des éléments du moment : Foudre et Ombre"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_a_10",
+            "value": "Invocation x10 des éléments du moment : Foudre et Ombre"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_a_P",
+            "value": "Invocation des éléments du moment : Foudre et Ombre"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_b_01",
+            "value": "Invocation des éléments du moment : Vent et Terre"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_b_10",
+            "value": "Invocation x10 des éléments du moment : Vent et Terre"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_b_P",
+            "value": "Invocation des éléments du moment : Vent et Terre"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220316_01",
+            "value": "Compte à rebours du 2e anniversaire [Partie IV] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220316_10",
+            "value": "Compte à rebours du 2e anniversaire [Partie IV] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_MV4_gl20220316_01",
+            "value": "FFXIV : Endwalker - Invocation de la collaboration"
+        },
+        {
+            "key": "new-gacha_MV4_gl20220316_10",
+            "value": "FFXIV : Endwalker - Invocation x10 de la collaboration"
+        },
+        {
+            "key": "new-gacha_MV4_gl20220316_P",
+            "value": "FFXIV : Endwalker - Invocation de la collaboration"
+        },
+        {
+            "key": "gacha_FFXIV_gl20220316_01",
+            "value": "FFXIV : Shadowbringers [réédition] - Invocation de la collaboration"
+        },
+        {
+            "key": "gacha_FFXIV_gl20220316_10",
+            "value": "FFXIV : Shadowbringers [réédition] - Invocation x10 de la collaboration"
+        },
+        {
+            "key": "gacha_FFXIV_gl20220316_P",
+            "value": "FFXIV : Shadowbringers [réédition] - Invocation de la collaboration"
+        },
+        {
+            "key": "new-gacha_vc_gl20220316_01",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220316_10",
+            "value": "Invocation x10 des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "new-gacha_vc_gl20220316_P",
+            "value": "Invocation des nouveaux atouts-visions du moment"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_a_01",
+            "value": "Invocation des éléments du moment : Glace et Lumière"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_a_10",
+            "value": "Invocation x10 des éléments du moment : Glace et Lumière"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_a_P",
+            "value": "Invocation des éléments du moment : Glace et Lumière"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_b_01",
+            "value": "Invocation des éléments du moment : Feu et Eau"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_b_10",
+            "value": "Invocation x10 des éléments du moment : Feu et Eau"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_b_P",
+            "value": "Invocation des éléments du moment : Feu et Eau"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220323_01",
+            "value": "2e anniversaire - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220323_10",
+            "value": "2e anniversaire - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_TERA_gl20220323_01",
+            "value": "FINAL FANTASY VI - Invocation de la collaboration : Terra"
+        },
+        {
+            "key": "new-gacha_TERA_gl20220323_10",
+            "value": "FINAL FANTASY VI - Invocation x10 de la collaboration : Terra"
+        },
+        {
+            "key": "new-gacha_TERA_gl20220323_P",
+            "value": "FINAL FANTASY VI - Invocation de la collaboration : Terra"
+        },
+        {
+            "key": "new-gacha_CLES_gl20220323_01",
+            "value": "FINAL FANTASY VI - Invocation de la collaboration : Celes"
+        },
+        {
+            "key": "new-gacha_CLES_gl20220323_10",
+            "value": "FINAL FANTASY VI - Invocation x10 de la collaboration : Celes"
+        },
+        {
+            "key": "new-gacha_CLES_gl20220323_P",
+            "value": "FINAL FANTASY VI - Invocation de la collaboration : Celes"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_a_01",
+            "value": "Invocation des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_a_10",
+            "value": "Invocation x10 des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_a_P",
+            "value": "Invocation des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_b_01",
+            "value": "Invocation des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_b_10",
+            "value": "Invocation x10 des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_b_P",
+            "value": "Invocation des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_c_01",
+            "value": "Invocation des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_c_10",
+            "value": "Invocation x10 des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_c_P",
+            "value": "Invocation des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_d_01",
+            "value": "Invocation des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_d_10",
+            "value": "Invocation x10 des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_d_P",
+            "value": "Invocation des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_e_01",
+            "value": "Invocation des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_e_10",
+            "value": "Invocation x10 des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_e_P",
+            "value": "Invocation des unités de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_a_01",
+            "value": "Invocation des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_a_10",
+            "value": "Invocation x10 des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_a_P",
+            "value": "Invocation des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_c_01",
+            "value": "Invocation des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_c_10",
+            "value": "Invocation x10 des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_c_P",
+            "value": "Invocation des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_b_01",
+            "value": "Invocation des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_b_10",
+            "value": "Invocation x10 des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_b_P",
+            "value": "Invocation des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_d_01",
+            "value": "Invocation des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_d_10",
+            "value": "Invocation x10 des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_d_P",
+            "value": "Invocation des atouts-visions de la globale du moment"
+        },
+        {
+            "key": "gacha_FF_unit_gl20220323_01",
+            "value": "Invocation des unités de la série FF"
+        },
+        {
+            "key": "gacha_FF_unit_gl20220323_10",
+            "value": "Invocation x10 des unités de la série FF"
+        },
+        {
+            "key": "gacha_FF_unit_gl20220323_P",
+            "value": "Invocation des unités de la série FF"
+        },
+        {
+            "key": "gacha_FF_vc_gl20220323_01",
+            "value": "Invocation des atouts-visions de la série FF"
+        },
+        {
+            "key": "gacha_FF_vc_gl20220323_10",
+            "value": "Invocation x10 des atouts-visions de la série FF"
+        },
+        {
+            "key": "gacha_FF_vc_gl20220323_P",
+            "value": "Invocation des atouts-visions de la série FF"
+        }
+    ]
+}

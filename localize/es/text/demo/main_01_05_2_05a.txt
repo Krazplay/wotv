@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Quieto ahí!"
+        },
+        {
+            "key": "002",
+            "value": "¿Lord Mont?"
+        },
+        {
+            "key": "003",
+            "value": "Schuzelt, ¿estás seguro de que es él?"
+        },
+        {
+            "key": "004",
+            "value": "Sin duda alguna. Lo hemos pillado dejando señales con unas piedras en el cruce."
+        },
+        {
+            "key": "005",
+            "value": "…"
+        },
+        {
+            "key": "006",
+            "value": "No me puedo creer que se nos haya colado un secuaz de Muraga en nuestras filas…"
+        },
+        {
+            "key": "007",
+            "value": "Conque por fin os habéis dado cuenta, ¿eh?"
+        },
+        {
+            "key": "008",
+            "value": "Estás rodeado. Ríndete."
+        },
+        {
+            "key": "009",
+            "value": "Je, je, je."
+        },
+        {
+            "key": "010",
+            "value": "¿Qué es lo que te hace tanta gracia?"
+        },
+        {
+            "key": "011",
+            "value": "Alguien me obsequió con un poder bastante interesante."
+        },
+        {
+            "key": "012",
+            "value": "¡Sed testigos de mi fuerza colosal!"
+        },
+        {
+            "key": "013",
+            "value": "¡Aaaaaaaah!"
+        },
+        {
+            "key": "014",
+            "value": "¡Se ha transformado en ogro!"
+        },
+        {
+            "key": "015",
+            "value": "Lord Mont, quedaos atrás."
+        }
+    ]
+}

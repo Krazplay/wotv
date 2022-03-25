@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "099",
+            "value": "Au rapport, Votre Majesté ! Des troupes de Fennes ont été aperçues non loin de nos frontières ! Elles semblent se diriger droit sur nous. Quels sont vos ordres ?"
+        },
+        {
+            "key": "100",
+            "value": "Réservons-leur un comité d'accueil. Que tous les hommes disponibles rejoignent les rangs."
+        },
+        {
+            "key": "101",
+            "value": "Entendu ! Et... il y a aussi quelque chose d'autre, Votre Majesté."
+        },
+        {
+            "key": "102",
+            "value": "Je t'écoute."
+        },
+        {
+            "key": "103",
+            "value": "Une horde de monstres serait en approche. Il se peut qu'elle détruise un de nos villages sur son passage…"
+        },
+        {
+            "key": "104",
+            "value": "Les villageois sont-ils au courant ?"
+        },
+        {
+            "key": "105",
+            "value": "Pas encore. Nous venons seulement de…"
+        },
+        {
+            "key": "106",
+            "value": "Laisse tomber. Notre priorité est l'armée de Fennes."
+        },
+        {
+            "key": "107",
+            "value": "M-Mais…"
+        },
+        {
+            "key": "108",
+            "value": "Oserais-tu remettre mes ordres en question ?"
+        },
+        {
+            "key": "109",
+            "value": "Pas le moins du monde, Votre Majesté ! Nous allons nous préparer pour la bataille !"
+        },
+        {
+            "key": "110",
+            "value": "Tu as entendu, Mont ?"
+        },
+        {
+            "key": "111",
+            "value": "Prends la tête de « Caelum » et pars à la rencontre de Fennes."
+        },
+        {
+            "key": "112",
+            "value": "Avez-vous réellement l'intention d'abandonner les villageois à leur triste sort, Père ?"
+        },
+        {
+            "key": "113",
+            "value": "Je n'aime pas avoir à me répéter. Oublie cette histoire de village."
+        },
+        {
+            "key": "114",
+            "value": "Mais qu'en-est-il de notre devoir de protéger notre peuple ? Il a besoin de nous !"
+        },
+        {
+            "key": "115",
+            "value": "Il a raison, Père ! Un simple escadron devrait suffire…"
+        },
+        {
+            "key": "116",
+            "value": "Notre royaume est menacé d'invasion. Nous ne pouvons décemment pas prendre le risque de détacher quelques troupes pour sauver un petit village."
+        },
+        {
+            "key": "117",
+            "value": "Je pense avoir été suffisamment clair."
+        },
+        {
+            "key": "118",
+            "value": "…"
+        },
+        {
+            "key": "119",
+            "value": "Si nous ne pouvons pas sauver le village, nous devrions au moins le faire évacuer !"
+        },
+        {
+            "key": "120",
+            "value": "Ne rien faire alors que nous avons les moyens de sauver des vies…"
+        },
+        {
+            "key": "121",
+            "value": "Mont. Tu serais dans le vrai si tu n’avais des comptes à rendre qu’à toi-même."
+        },
+        {
+            "key": "122",
+            "value": "Mais protéger un royaume implique des sacrifices."
+        },
+        {
+            "key": "123",
+            "value": "Oui, mais… !"
+        },
+        {
+            "key": "124",
+            "value": "Si tu ne penses pas avoir les épaules pour, alors je prendrai la tête de « Caelum »."
+        },
+        {
+            "key": "125",
+            "value": "« Fortem » restera ici pour protéger le château."
+        },
+        {
+            "key": "126",
+            "value": "Je t'interdis d'envoyer des renforts dans ce village."
+        },
+        {
+            "key": "127",
+            "value": "Mise à part ça, fais ce que bon te semble."
+        },
+        {
+            "key": "128",
+            "value": "En-Entendu."
+        },
+        {
+            "key": "129",
+            "value": "Ce sera tout."
+        },
+        {
+            "key": "130",
+            "value": "Père…"
+        },
+        {
+            "key": "131",
+            "value": "Ce n'est pas le moment de flancher. La menace qui plane sur notre peuple grandit d'heure en heure."
+        },
+        {
+            "key": "132",
+            "value": "L'armée doit rester ici, et je n'ai que quelques hommes à ma disposition… Mais je dois agir quoi qu'il en soit."
+        },
+        {
+            "key": "133",
+            "value": "Je refuse de rester les bras croisés et laisser d'innocentes âmes perdre la vie !"
+        },
+        {
+            "key": "134",
+            "value": "Mont !"
+        },
+        {
+            "key": "135",
+            "value": "Sterne !"
+        },
+        {
+            "key": "136",
+            "value": "Tu n'as pas plus d'hommes ? Ce ne sera pas suffisant."
+        },
+        {
+            "key": "137",
+            "value": "Laisse-moi t'accompagner."
+        },
+        {
+            "key": "138",
+            "value": "Non, Sterne. Tu as d'autres chats à fouetter."
+        },
+        {
+            "key": "139",
+            "value": "Je n'ai pas envie de t'entraîner dans mon insubordination."
+        },
+        {
+            "key": "140",
+            "value": "Il n'est pas trop tard. Tu peux encore demander à Père de t'allouer certains de ses soldats."
+        },
+        {
+            "key": "141",
+            "value": "Non, il a raison. Protéger le royaume est une priorité et il a besoin de tous les hommes disponibles pour ça."
+        },
+        {
+            "key": "142",
+            "value": "Mais…"
+        },
+        {
+            "key": "143",
+            "value": "Ne t'inquiète pas. Nous reviendrons avec les villageois sains et saufs avant le coucher du soleil."
+        },
+        {
+            "key": "144",
+            "value": "Protège le château, Sterne."
+        },
+        {
+            "key": "145",
+            "value": "Compte sur moi. En tant que commandant de « Fortem », je jure de remplir ma mission."
+        },
+        {
+            "key": "146",
+            "value": "Merci."
+        }
+    ]
+}

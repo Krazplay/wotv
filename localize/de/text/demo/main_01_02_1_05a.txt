@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ich bringe Meldung, Euer Hoheit. Fennische Verstärkungstruppen scheinen Kurs auf diese Position zu nehmen."
+        },
+        {
+            "key": "002",
+            "value": "Verstärkungstruppen ... aus Fennes?"
+        },
+        {
+            "key": "003",
+            "value": "Anscheinend hat Muraga mitbekommen, dass wir das Schloss verlassen haben. Er ist gewiefter, als ich dachte."
+        },
+        {
+            "key": "004",
+            "value": "Meister, was haltet Ihr von seinem Vorgehen?"
+        },
+        {
+            "key": "005",
+            "value": "Dieser Barbar ... Es sieht ganz danach aus, als wäre er vor dir auf der Hut."
+        },
+        {
+            "key": "006",
+            "value": "Vor mir?"
+        },
+        {
+            "key": "007",
+            "value": "König Yrde beharrte hartnäckig darauf, dich nicht in den Kampf mit Fennes zu schicken."
+        },
+        {
+            "key": "008",
+            "value": "Deswegen fürchtet Muraga dich, Styr. Du bist wohl das, was man eine Geheimwaffe nennt. Hyahyahya!"
+        },
+        {
+            "key": "009",
+            "value": "Ihr wollt damit sagen, dass Vater mich für eine Situation wie diese im Schloss zurückgehalten hat?"
+        },
+        {
+            "key": "010",
+            "value": "Wie auch immer. Es gibt uns eine Chance auf den Sieg, so gering sie auch sein mag."
+        },
+        {
+            "key": "011",
+            "value": "Wie meinst du das?"
+        },
+        {
+            "key": "012",
+            "value": "Es könnte sein, dass Muraga die Fähigkeiten deines Bruders unterschätzt."
+        },
+        {
+            "key": "013",
+            "value": "Einsichtsvoll wie immer, Meister. Ich bin zu einem ähnlichen Schluss gekommen."
+        },
+        {
+            "key": "014",
+            "value": "Mont mag bei weitem nicht so geschickt im Umgang mit dem Schwert sein wie du. <br>Allerdings ..."
+        },
+        {
+            "key": "015",
+            "value": "Er hat an unzähligen Kämpfen teilgenommen. Manchmal kommen selbst auf dem Schlachtfeld Blumen zur Blüte."
+        },
+        {
+            "key": "016",
+            "value": "Das denke ich auch."
+        },
+        {
+            "key": "017",
+            "value": "Wollen wir dann mal? Durch den Dienst im Schloss bin ich eingerostet und brauche die Bewegung."
+        }
+    ]
+}

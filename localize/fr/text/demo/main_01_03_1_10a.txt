@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Tu te débrouilles bien, dis-moi ! Moi qui pensais que tu n'avais que de la gueule !"
+        },
+        {
+            "key": "002",
+            "value": "Maintenant j'comprends pourquoi Eldo l'gardait en réserve..."
+        },
+        {
+            "key": "003",
+            "value": "Ce serait du gâchis d'le tuer."
+        },
+        {
+            "key": "004",
+            "value": "Déjà en train de me supplier de t'épargner ? Ne te cache donc pas derrière tes soldats, montre-toi et bats-toi !"
+        },
+        {
+            "key": "005",
+            "value": "Une fois que je me serai débarrassé de toi, j'irai à Wezett."
+        },
+        {
+            "key": "006",
+            "value": "Ton vieux père t'manque déjà ?"
+        },
+        {
+            "key": "007",
+            "value": "D'une certaine manière."
+        },
+        {
+            "key": "008",
+            "value": "Je ne peux pas lui pardonner ce qu'il a fait."
+        },
+        {
+            "key": "009",
+            "value": "C'est-à-dire ?"
+        },
+        {
+            "key": "010",
+            "value": "On dirait que le petit prince a été abandonné par son papa ?!"
+        },
+        {
+            "key": "011",
+            "value": "..."
+        },
+        {
+            "key": "012",
+            "value": "C'est donc ça."
+        }
+    ]
+}

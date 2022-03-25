@@ -1,0 +1,352 @@
+﻿{
+    "infos": [
+        {
+            "key": "305",
+            "value": "Das ist deine Chance, Lucio!"
+        },
+        {
+            "key": "306",
+            "value": "Jawohl! Zeit, es zu beenden!"
+        },
+        {
+            "key": "307",
+            "value": "GAAAAAAARGH ..."
+        },
+        {
+            "key": "308",
+            "value": "*Keuch* W-Wir haben es geschafft ... Endlich ..."
+        },
+        {
+            "key": "309",
+            "value": "Der Rest von ihnen flieht. Ohne ihren Anführer haben sie ihre Lust auf den Kampf verloren."
+        },
+        {
+            "key": "310",
+            "value": "Puh. Wir konnten eine Tragödie verhindern."
+        },
+        {
+            "key": "311",
+            "value": "Und ich habe unseren kleinen Wettbewerb gewonnen."
+        },
+        {
+            "key": "312",
+            "value": "Hahaha. Werde ich dich je schlagen können?"
+        },
+        {
+            "key": "313",
+            "value": "Ihr wart beeindruckend! Unglaublich, wie viele Monster ihr zu zweit besiegt habt."
+        },
+        {
+            "key": "314",
+            "value": "Das kann ich nur zurückgeben."
+        },
+        {
+            "key": "315",
+            "value": "Es ist keine leichte Aufgabe, eine solche Bestie zu erlegen."
+        },
+        {
+            "key": "316",
+            "value": "Heute habt ihr mir die wahre Stärke der Kristallkrieger gezeigt."
+        },
+        {
+            "key": "317",
+            "value": "Dank euch konnten wir die Dorfbewohner retten. Ich bin so dankb..."
+        },
+        {
+            "key": "318",
+            "value": "GWAAAARGH!"
+        },
+        {
+            "key": "319",
+            "value": "W-Was geschieht hier?"
+        },
+        {
+            "key": "320",
+            "value": "Das Monster ... es kehrt ins Leben zurück! Aber wie?"
+        },
+        {
+            "key": "321",
+            "value": "GRAAAH! GWAAARGH!"
+        },
+        {
+            "key": "322",
+            "value": "Es verwandelt sich! Wie kann das sein?"
+        },
+        {
+            "key": "323",
+            "value": "Es tut noch mehr. Schaut nur! Es absorbiert etwas aus den Leichen der erschlagenen Monster."
+        },
+        {
+            "key": "324",
+            "value": "Das sieht übel aus. Wir sind bereits mit unseren Kräften am Ende."
+        },
+        {
+            "key": "325",
+            "value": "Aber wir müssen handeln. Solange diese Bestie lebt, sind unsere Bürger nicht sicher."
+        },
+        {
+            "key": "326",
+            "value": "GWAAAARGH!"
+        },
+        {
+            "key": "327",
+            "value": "Vorsicht, Mont!"
+        },
+        {
+            "key": "328",
+            "value": "Ugh!"
+        },
+        {
+            "key": "329",
+            "value": "Ngh!"
+        },
+        {
+            "key": "330",
+            "value": "Er hat den Angriff abgewehrt!"
+        },
+        {
+            "key": "331",
+            "value": "Lucio!"
+        },
+        {
+            "key": "332",
+            "value": "Es darf niemand mehr ... verletzt werden ..."
+        },
+        {
+            "key": "333",
+            "value": "Ich werde sie beschützen ... damit niemand mehr sterben muss!"
+        },
+        {
+            "key": "334",
+            "value": "Aaaaaaargh!"
+        },
+        {
+            "key": "335",
+            "value": "Was war das für ein Licht?"
+        },
+        {
+            "key": "336",
+            "value": "Er hat es mit einem Schlag niedergestreckt ..."
+        },
+        {
+            "key": "337",
+            "value": "Das meinte Ranan also."
+        },
+        {
+            "key": "338",
+            "value": "Unser Neuling wird wohl langsam ein wahrer Kristallkrieger."
+        },
+        {
+            "key": "339",
+            "value": "*Keuch* *Keuch*"
+        },
+        {
+            "key": "340",
+            "value": "*Keuch* Puh ... Seid ihr alle in Ordnung?"
+        },
+        {
+            "key": "341",
+            "value": "Uns geht es gut. Aber was ist passiert, Lucio?"
+        },
+        {
+            "key": "342",
+            "value": "Ich weiß es nicht genau. Ich konnte an nichts anderes mehr denken, als alle zu beschützen und plötzlich schwellte diese Kraft in mir heran."
+        },
+        {
+            "key": "343",
+            "value": "Es ist ein Zeichen, Lucio. Ein Zeichen, dass du als Kristallkrieger erwachst."
+        },
+        {
+            "key": "344",
+            "value": "Ich erwache?"
+        },
+        {
+            "key": "345",
+            "value": "Das bedeutet, heute ist dein Abschlusstag. Herzlichen Glückwunsch."
+        },
+        {
+            "key": "346",
+            "value": "Was? Wirklich? Moment ... Meine Beine fühlen sich wie Wackelpudding an."
+        },
+        {
+            "key": "347",
+            "value": "Das ist nur natürlich. Es war ein langer, anstrengender Kampf, und dann kommt auch noch deine neu erwachte Kraft dazu."
+        },
+        {
+            "key": "348",
+            "value": "Du wirst hart trainieren müssen, um zu lernen, wie du diese Macht kontrollieren und geschickt einsetzen kannst."
+        },
+        {
+            "key": "349",
+            "value": "Haha ... Noch mehr Training."
+        },
+        {
+            "key": "350",
+            "value": "Ich würde sagen, das sind genug Lektionen für heute."
+        },
+        {
+            "key": "351",
+            "value": "Wir haben den Kernkristall. Gehen wir heim."
+        },
+        {
+            "key": "352",
+            "value": "Heim? Ach ja, ihr seid ja nicht aus dieser Welt."
+        },
+        {
+            "key": "353",
+            "value": "Dann ist dies wohl unser Abschied."
+        },
+        {
+            "key": "354",
+            "value": "Lucio. Ich hoffe, wir sehen uns bald wieder."
+        },
+        {
+            "key": "355",
+            "value": "Das werden wir. Ich meine, ich muss ja zurückkommen, um mir deine Vision der Zukunft anzusehen."
+        },
+        {
+            "key": "356",
+            "value": "Ich möchte deine Welt mit eigenen Augen sehen."
+        },
+        {
+            "key": "357",
+            "value": "Ich verspreche, bis zu unserem nächsten Treffen meine Vision in die Tat umzusetzen."
+        },
+        {
+            "key": "358",
+            "value": "Ich freue mich darauf und verspreche, es nicht zu vergessen."
+        },
+        {
+            "key": "359",
+            "value": "Und ich schwöre, es umzusetzen, wer oder was auch immer mir im Weg stehen mag."
+        },
+        {
+            "key": "360",
+            "value": "Sag, Bruder. Wer waren diese Leute?"
+        },
+        {
+            "key": "361",
+            "value": "Unersetzliche Freunde, aus einer Welt, die wir nie sehen werden."
+        },
+        {
+            "key": "362",
+            "value": "Nun ist alles bereit."
+        },
+        {
+            "key": "363",
+            "value": "Endlich kann es beginnen."
+        },
+        {
+            "key": "364",
+            "value": "Ich werde sie von den Ketten des Schicksals befreien."
+        },
+        {
+            "key": "365",
+            "value": "Und so mein Versprechen erfüllen."
+        },
+        {
+            "key": "366",
+            "value": "Die Freiheit ist zum Greifen nahe."
+        },
+        {
+            "key": "367",
+            "value": "Ich muss dich beglückwünschen. Du bist erwacht."
+        },
+        {
+            "key": "368",
+            "value": "Ich wusste, dass du es schaffst! Ich sagte von Anfang an, dass Lucio das packt, oder?"
+        },
+        {
+            "key": "369",
+            "value": "Er ist erwacht? Dann zeig mal her."
+        },
+        {
+            "key": "370",
+            "value": "Das geht nicht einfach so. Es geschah quasi zufällig. Ich weiß ehrlich gesagt nicht wie."
+        },
+        {
+            "key": "371",
+            "value": "Oh ... Wie enttäuschend."
+        },
+        {
+            "key": "372",
+            "value": "Es ist dennoch ein großer Schritt! Du musst nur noch lernen, es zu kontrollieren."
+        },
+        {
+            "key": "373",
+            "value": "Danach wirst du wirklich mächtig sein!"
+        },
+        {
+            "key": "374",
+            "value": "Also müssen wir ihn gnadenlos trainieren, bis er diese Kraft auf Kommando einsetzen kann."
+        },
+        {
+            "key": "375",
+            "value": "Genau! Er braucht nur das nötige Training."
+        },
+        {
+            "key": "376",
+            "value": "Hahaha! Du bist wahrlich der Mann der Stunde, Lucio."
+        },
+        {
+            "key": "377",
+            "value": "Langsam habe ich das Gefühl, ich hab das Tor zu noch mehr Pein aufgestoßen."
+        },
+        {
+            "key": "378",
+            "value": "Du hast sicher viel zu berichten, aber lass mich erst einmal sagen: Gut gemacht."
+        },
+        {
+            "key": "379",
+            "value": "Velis, es kommt nicht oft vor, dass du eine Mission bis zum Ende durchziehst. Du hast dir deine Ruhepause ausnahmsweise verdient."
+        },
+        {
+            "key": "380",
+            "value": "Das kannst du laut sagen. Ich werde nie wieder an einem einzelnen Tag so viele Heldentaten verbringen."
+        },
+        {
+            "key": "381",
+            "value": "Lucio. Du musst dich auch ausruhen. Aber eine Sache wäre da noch."
+        },
+        {
+            "key": "382",
+            "value": "Stimmt, ich muss den Kernkristall zurückbringen."
+        },
+        {
+            "key": "383",
+            "value": "Gut, ich werde ihn hier platzieren."
+        },
+        {
+            "key": "384",
+            "value": "Damit hätten wir alle Kernkristalle. Das sollte die Welt wieder ins Gleichgewicht bringen, oder?"
+        },
+        {
+            "key": "385",
+            "value": "Das sagte zumindest der Wille des Lichts."
+        },
+        {
+            "key": "386",
+            "value": "Seltsam. Es geschieht nichts."
+        },
+        {
+            "key": "387",
+            "value": "Vielleicht haben wir nicht genug."
+        },
+        {
+            "key": "388",
+            "value": "Das kann nicht sein. Das sind alle Kernkristalle. Mehr gibt es nicht."
+        },
+        {
+            "key": "389",
+            "value": "Oder es stimmt etwas mit ihnen nicht."
+        },
+        {
+            "key": "390",
+            "value": "Das Licht der Kernkristalle verschwindet!"
+        },
+        {
+            "key": "391",
+            "value": "Was hat das zu bedeuten?"
+        }
+    ]
+}

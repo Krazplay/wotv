@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Kitone... à ta pâleur, je devine que tu nous apportes de mauvaises nouvelles."
+        },
+        {
+            "key": "002",
+            "value": "Pardonnez-moi, Votre Grâce. Sterne est parti au combat."
+        },
+        {
+            "key": "003",
+            "value": "Avec l'aide de Sterne, nous pouvons changer le cours de la bataille !"
+        },
+        {
+            "key": "004",
+            "value": "Sterne... Vous voulez dire, l'héritier de la couronne de Leonis."
+        },
+        {
+            "key": "005",
+            "value": "Oh, mes excuses..."
+        },
+        {
+            "key": "006",
+            "value": "Vous n'avez pas besoin de vous excuser. La maîtrise de l'épée de Sterne n'est pas une légende, elle surpasse largement la mienne."
+        },
+        {
+            "key": "007",
+            "value": "Alors... vous avez renoncé ?"
+        },
+        {
+            "key": "008",
+            "value": "Renoncé à quoi ?"
+        },
+        {
+            "key": "009",
+            "value": "N'est-ce pas évident ? Au trône de Leonis."
+        },
+        {
+            "key": "010",
+            "value": "C'est moi qui choisirai celui qui me succèdera sur le trône."
+        },
+        {
+            "key": "011",
+            "value": "Kitone, relaie mon message à Sterne. Battez immédiatement en retraite au château."
+        },
+        {
+            "key": "012",
+            "value": "Mais bon sang, à quoi pensait ce garçon ? Laisser Helena..."
+        },
+        {
+            "key": "013",
+            "value": "Pardonnez-moi, Votre Grâce, mais la reine Helena l'accompagne."
+        },
+        {
+            "key": "014",
+            "value": "Elle quoi ?!"
+        },
+        {
+            "key": "015",
+            "value": "L'ennemi arrive !"
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+﻿{
+    "infos": [
+        {
+            "key": "691",
+            "value": "Argh !"
+        },
+        {
+            "key": "692",
+            "value": "Oh, te revoilà !"
+        },
+        {
+            "key": "693",
+            "value": "… !"
+        },
+        {
+            "key": "694",
+            "value": "Ne me touche pas !"
+        },
+        {
+            "key": "695",
+            "value": "Oh ça va, je m'inquiétais, pardon."
+        },
+        {
+            "key": "696",
+            "value": "Je ne t'ai rien demandé."
+        },
+        {
+            "key": "697",
+            "value": "…"
+        },
+        {
+            "key": "698",
+            "value": "Tss. Tu te prétends mon amie mais tu me trahis dès que j'ai le dos tourné…"
+        },
+        {
+            "key": "699",
+            "value": "De quoi tu parles ? Je ne t'ai pas trahie."
+        },
+        {
+            "key": "700",
+            "value": "Tu me prends pour une idiote, en plus ?"
+        },
+        {
+            "key": "701",
+            "value": "Je sais que tu l'as laissée s'échapper, la shinobi de Leonis."
+        },
+        {
+            "key": "702",
+            "value": "Ah ! Elle… Je pensais que ce serait plus amusant de la laisser filer, c'est vrai."
+        },
+        {
+            "key": "703",
+            "value": "Amusant ?!"
+        },
+        {
+            "key": "704",
+            "value": "Tu veux surtout m'éliminer pour récupérer Khory pour toi toute seule, n'est-ce pas ?"
+        },
+        {
+            "key": "705",
+            "value": "Mais enfin, pas du tout !"
+        },
+        {
+            "key": "706",
+            "value": "Tu sais bien, ce qui m'intéresse dans la vie, non ?"
+        },
+        {
+            "key": "707",
+            "value": "Si je dois choisir une voie, je prends toujours celle qui a l'air plus intéressante."
+        },
+        {
+            "key": "708",
+            "value": "Khory doit savoir que tu as épargné cette shinobi."
+        },
+        {
+            "key": "709",
+            "value": "Ah… Et c'est pour ça que tu reviens dans cet état ?"
+        },
+        {
+            "key": "710",
+            "value": "Ah là là ! On ne peut rien lui cacher, à celui-là !"
+        },
+        {
+            "key": "711",
+            "value": "Mais allez… Ça ne peut que devenir plus excitant, non ?"
+        },
+        {
+            "key": "712",
+            "value": "…"
+        },
+        {
+            "key": "713",
+            "value": "Viktora ?"
+        },
+        {
+            "key": "714",
+            "value": "Quelle est ta véritable ambition ? Qui es-tu, exactement ?"
+        },
+        {
+            "key": "715",
+            "value": "Depuis que je t'ai rencontrée par hasard et que je voyage avec toi, je ne t'ai jamais entendu te confier."
+        },
+        {
+            "key": "716",
+            "value": "Je pense qu'il serait temps de le faire. Maintenant."
+        },
+        {
+            "key": "717",
+            "value": "Tu veux la vérité ?"
+        },
+        {
+            "key": "718",
+            "value": "Oui. Avoue-moi tout."
+        },
+        {
+            "key": "719",
+            "value": "Et en fonction de ce que tu me diras, je déciderai quoi faire de toi."
+        },
+        {
+            "key": "720",
+            "value": "…"
+        },
+        {
+            "key": "721",
+            "value": "Qu'est-ce qu'il y a ? C'est un secret indicible ?"
+        },
+        {
+            "key": "722",
+            "value": "Je ne suis pas sûre que tu aies envie de le savoir…"
+        },
+        {
+            "key": "723",
+            "value": "Oh mais si, j'en meurs d'envie."
+        },
+        {
+            "key": "724",
+            "value": "Bon. D'accord."
+        },
+        {
+            "key": "725",
+            "value": "J'étais au service de l'Église. Jusqu'à ce que je te rencontre, en tout cas."
+        },
+        {
+            "key": "726",
+            "value": "L'Église ? Tu veux dire Sadali ?"
+        },
+        {
+            "key": "727",
+            "value": "Voilà."
+        },
+        {
+            "key": "728",
+            "value": "Pour quelle raison te serais-tu alliée à un type pareil ?"
+        },
+        {
+            "key": "729",
+            "value": "Oh, je n'avais pas besoin d'une raison. En fait, je n'ai surtout pas eu le choix."
+        },
+        {
+            "key": "730",
+            "value": "Je suis un homonculus, créé par Sadali."
+        },
+        {
+            "key": "731",
+            "value": "Un quoi ?"
+        },
+        {
+            "key": "732",
+            "value": "… !"
+        },
+        {
+            "key": "733",
+            "value": "Je me disais bien qu'on finirait par vous retrouver."
+        },
+        {
+            "key": "734",
+            "value": "Vous êtes prêtes à vous battre ?"
+        },
+        {
+            "key": "735",
+            "value": "À nous battre ?"
+        },
+        {
+            "key": "736",
+            "value": "Sur ordre du roi Khory lui-même. Vous devez rejoindre la première ligne."
+        },
+        {
+            "key": "737",
+            "value": "Tss. C'est à cela qu'il pense que je lui sers ?"
+        },
+        {
+            "key": "738",
+            "value": "Arrrgh !"
+        },
+        {
+            "key": "739",
+            "value": "E-Eh ! Qu'est-ce que tu fais ?!"
+        },
+        {
+            "key": "740",
+            "value": "Eh bah alors ? Je croyais que tu voulais t'amuser, Luartha ?"
+        },
+        {
+            "key": "741",
+            "value": "Regarde bien, je m'apprête à rendre les choses très, très amusantes."
+        },
+        {
+            "key": "742",
+            "value": "Sorcière ! Qu'est-ce que vous avez fait ?"
+        },
+        {
+            "key": "743",
+            "value": "Oh allez, arrêtez avec vos simagrées."
+        },
+        {
+            "key": "744",
+            "value": "Vous croyez que je ne vois pas que vous êtes des assassins ?"
+        },
+        {
+            "key": "745",
+            "value": "…"
+        },
+        {
+            "key": "746",
+            "value": "Tss. Vous avez l'esprit aussi affuté que la pointe de votre lame."
+        },
+        {
+            "key": "747",
+            "value": "Vous avez raison. Nous devons vous exécuter si vous refuser d'obéir."
+        },
+        {
+            "key": "748",
+            "value": "J'en étais sûre."
+        },
+        {
+            "key": "749",
+            "value": "Très bien, je vais m'occuper de vous. Je commençais à me lasser de cet endroit, de toute façon."
+        },
+        {
+            "key": "750",
+            "value": "Et toi ? Tu as pris une décision ?"
+        },
+        {
+            "key": "751",
+            "value": "Comme si tu ne t'en doutais pas."
+        },
+        {
+            "key": "752",
+            "value": "Ah, Viktora. Vraiment, on ne s'ennuie jamais avec toi."
+        },
+        {
+            "key": "753",
+            "value": "Je te suivrai. N'importe où."
+        }
+    ]
+}

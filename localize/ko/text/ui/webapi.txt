@@ -1,0 +1,1760 @@
+﻿{
+    "infos": [
+        {
+            "key": "ERROR_CONNECT",
+            "value": "서버 연결에 실패했습니다."
+        },
+        {
+            "key": "MAINTENANCE",
+            "value": "점검 중입니다. <br>자세한 내용은 공지를 참조하시기 바랍니다."
+        },
+        {
+            "key": "ACCOUNT_BAN",
+            "value": "정지된 계정입니다."
+        },
+        {
+            "key": "VERSION_UPDATE",
+            "value": "최신 버전으로 업데이트하십시오."
+        },
+        {
+            "key": "DLC_UPDATE",
+            "value": "업데이트된 DLC가 있습니다."
+        },
+        {
+            "key": "SESSION_ERROR",
+            "value": "무효 세션입니다."
+        },
+        {
+            "key": "INVALID_DEVICE",
+            "value": "존재하지 않는 계정입니다. <br>계정을 초기화합니다."
+        },
+        {
+            "key": "NOTICE",
+            "value": "일시 정지 중인 기능입니다. <br>자세한 내용은 공지를 참조하시기 바랍니다."
+        },
+        {
+            "key": "TITLE_NOTICE",
+            "value": "공지"
+        },
+        {
+            "key": "OVER_DAY",
+            "value": "날짜가 바뀌었습니다."
+        },
+        {
+            "key": "TITLE_OVER_DAY",
+            "value": "날짜 변경"
+        },
+        {
+            "key": "CONNECT_DEVICE_DOES_NOT_EXIST",
+            "value": "게임 계정을 찾을 수 없습니다."
+        },
+        {
+            "key": "HAS_ADD_DEVICE_CONNECT_NOT_FOUND",
+            "value": "데이터가 연계된 정보를<br>찾을 수 없습니다."
+        },
+        {
+            "key": "HAS_IDPW_USER_NOT_FOUND",
+            "value": "데이터가 연계된 유저를<br>찾을 수 없습니다."
+        },
+        {
+            "key": "HAS_IDPW_INVALID_SCHEMA",
+            "value": "데이터가 연계된 암호 형식이 잘못되었습니다."
+        },
+        {
+            "key": "HAS_IDPW_VERIFY_FAILES",
+            "value": "데이터가 연계된 인증 오류입니다."
+        },
+        {
+            "key": "HAS_BRIDGE_USER_NOT_FOUND",
+            "value": "SQUARE ENIX BRIDGE에<br>등록되지 않았습니다."
+        },
+        {
+            "key": "HAS_BRIDGE_FAILES_TITLE",
+            "value": "중도에 종료되었습니다"
+        },
+        {
+            "key": "HAS_BRIDGE_FAILES",
+            "value": "조작이 중간에 중단되었습니다.<br>의도치 않게 중단된 경우엔,<br>오류가 발생했을 수 있습니다.<br>불명확한 점등이 있으시면, 타이틀 화면의 지원에 문의 바랍니다."
+        },
+        {
+            "key": "APP_ERROR_UNKNOWN",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_10",
+            "value": "구매 진행 중에 오류가 발생했습니다.<br>반영되기까지 시간이 걸리는 경우가 있습니다.<br><br>게임이나 단말기를 다시 부팅한 후에,<br>확인 부탁드립니다."
+        },
+        {
+            "key": "APP_ERROR_501",
+            "value": "코인 혹은 메달이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_502",
+            "value": "아이템이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_503",
+            "value": "이 이상 길을 소지할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_505",
+            "value": "알 수 없는 보상입니다."
+        },
+        {
+            "key": "APP_ERROR_506",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_507",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_508",
+            "value": "길이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_511",
+            "value": "데이터 오류: 완료 데이터에 이상이 확인되었습니다."
+        },
+        {
+            "key": "APP_ERROR_1000",
+            "value": "계정이 존재하지 않습니다."
+        },
+        {
+            "key": "APP_ERROR_1001",
+            "value": "이 이상 체력을 얻을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1002",
+            "value": "체력 회복 한도를 초과하였습니다. (환도석)"
+        },
+        {
+            "key": "APP_ERROR_1003",
+            "value": "체력 회복 한도를 초과하였습니다. (아이템)"
+        },
+        {
+            "key": "APP_ERROR_1004",
+            "value": "결투장 BP 회복 한도를 초과하였습니다. (환도석)"
+        },
+        {
+            "key": "APP_ERROR_1005",
+            "value": "결투장 BP 회복 한도를 초과하였습니다. (아이템)"
+        },
+        {
+            "key": "APP_ERROR_1006",
+            "value": "플레이어 이름을 다시 변경하려면 변경 후로부터 10일이 경과해야 합니다.<br><br>로열 랭크 2가 되면<br>대기 시간이 면제됩니다."
+        },
+        {
+            "key": "APP_ERROR_1007",
+            "value": "입력하신 내용에 사용할 수 없는 내용이 포함되었습니다."
+        },
+        {
+            "key": "APP_ERROR_1008",
+            "value": "입력하신 내용에 사용할 수 없는 내용이 포함되었습니다."
+        },
+        {
+            "key": "APP_ERROR_1009",
+            "value": "칭호를 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1010",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_1100",
+            "value": "알 수 없는 유닛입니다."
+        },
+        {
+            "key": "APP_ERROR_1101",
+            "value": "알 수 없는 직업입니다."
+        },
+        {
+            "key": "APP_ERROR_1102",
+            "value": "알 수 없는 어빌리티입니다."
+        },
+        {
+            "key": "APP_ERROR_1103",
+            "value": "유닛 레벨이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_1104",
+            "value": "유닛의 JP가 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_1105",
+            "value": "유닛의 직업 레벨이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_1106",
+            "value": "유닛의 숙련도가 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_1107",
+            "value": "이 유닛은 훈련할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1108",
+            "value": "직업을 설정할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1109",
+            "value": "이미 최대로 각성했습니다."
+        },
+        {
+            "key": "APP_ERROR_1110",
+            "value": "이미 최대로 한계 돌파했습니다."
+        },
+        {
+            "key": "APP_ERROR_1111",
+            "value": "이미 직업 레벨이 최대입니다."
+        },
+        {
+            "key": "APP_ERROR_1112",
+            "value": "한계 돌파하려면 먼저 각성시켜야 합니다."
+        },
+        {
+            "key": "APP_ERROR_1113",
+            "value": "어빌리티 레벨이 최대입니다."
+        },
+        {
+            "key": "APP_ERROR_1114",
+            "value": "설정할 수 있는 서포트 어빌리티가 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_1115",
+            "value": "설정할 수 있는 리액션 어빌리티가 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_1116",
+            "value": "설정 가능한 어빌리티가 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_1117",
+            "value": "이미 다른 슬롯에 장착된 어빌리티입니다."
+        },
+        {
+            "key": "APP_ERROR_1118",
+            "value": "이미 개방된 어빌리티 보드입니다."
+        },
+        {
+            "key": "APP_ERROR_1119",
+            "value": "이 유닛은 마스터 어빌리티가 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1120",
+            "value": "이 유닛은 리미트 버스트가 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1121",
+            "value": "유닛의 리미트 버스트가 최대치입니다."
+        },
+        {
+            "key": "APP_ERROR_1122",
+            "value": "장착할 수 없는 장비입니다."
+        },
+        {
+            "key": "APP_ERROR_1123",
+            "value": "다른 칸에 장착한 장비입니다."
+        },
+        {
+            "key": "APP_ERROR_1124",
+            "value": "장착할 수 없는 장비입니다."
+        },
+        {
+            "key": "APP_ERROR_1125",
+            "value": "장착할 수 없는 장비입니다."
+        },
+        {
+            "key": "APP_ERROR_1126",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_1127",
+            "value": "유닛을 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1133",
+            "value": "외형 변경에 실패했습니다.<br>장착 가능 조건을 충족하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_1200",
+            "value": "알 수 없는 소환수입니다."
+        },
+        {
+            "key": "APP_ERROR_1201",
+            "value": "소환수의 레벨이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_1202",
+            "value": "소환수의 SP가 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_1203",
+            "value": "이미 최대로 각성한 소환수입니다."
+        },
+        {
+            "key": "APP_ERROR_1204",
+            "value": "개방할 수 없는 어빌리티 보드입니다."
+        },
+        {
+            "key": "APP_ERROR_1205",
+            "value": "이미 개방된 어빌리티 보드입니다."
+        },
+        {
+            "key": "APP_ERROR_1300",
+            "value": "존재하지 않는 장비입니다."
+        },
+        {
+            "key": "APP_ERROR_1301",
+            "value": "이미 최대로 각성한 장비입니다."
+        },
+        {
+            "key": "APP_ERROR_1302",
+            "value": "장비 레벨이 최대입니다."
+        },
+        {
+            "key": "APP_ERROR_1303",
+            "value": "장비 레벨이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_1304",
+            "value": "장비 소지 칸이 최대입니다."
+        },
+        {
+            "key": "APP_ERROR_1305",
+            "value": "장비 ID가 지정되지 않았습니다."
+        },
+        {
+            "key": "APP_ERROR_1306",
+            "value": "장비 제작에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_1307",
+            "value": "장비 분해에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_1308",
+            "value": "장비 강화에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_1309",
+            "value": "장비 판매에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_1310",
+            "value": "이 장비는 일시적으로 제작 정지되었습니다."
+        },
+        {
+            "key": "APP_ERROR_1311",
+            "value": "판매할 수 없는 장비가 포함되었습니다."
+        },
+        {
+            "key": "APP_ERROR_1400",
+            "value": "비전 카드가 존재하지 않습니다."
+        },
+        {
+            "key": "APP_ERROR_1401",
+            "value": "이미 최대로 각성한 비전 카드입니다."
+        },
+        {
+            "key": "APP_ERROR_1402",
+            "value": "비전 카드 레벨이 최대입니다."
+        },
+        {
+            "key": "APP_ERROR_1403",
+            "value": "비전 카드 레벨이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_1404",
+            "value": "비전 카드 소지 칸이 최대입니다."
+        },
+        {
+            "key": "APP_ERROR_1405",
+            "value": "비전 카드 ID가 지정되지 않았습니다."
+        },
+        {
+            "key": "APP_ERROR_1406",
+            "value": "비전 카드 강화에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_1407",
+            "value": "비전 카드 판매에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_1500",
+            "value": "선물을 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1501",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_1502",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_1503",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_1600",
+            "value": "파티를 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1601",
+            "value": "파티 편성에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_1602",
+            "value": "파티 편성에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_1603",
+            "value": "입력하신 내용에 사용할 수 없는 내용이 포함되었습니다."
+        },
+        {
+            "key": "APP_ERROR_1700",
+            "value": "친구가 존재하지 않습니다."
+        },
+        {
+            "key": "APP_ERROR_1701",
+            "value": "친구 수가 한도에 도달하여 <br>친구 신청을 할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1702",
+            "value": "친구 수가 한도에 도달하여 <br>친구 승인을 할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1703",
+            "value": "친구 신청 내역이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1704",
+            "value": "ID가 지정되지 않았습니다."
+        },
+        {
+            "key": "APP_ERROR_1705",
+            "value": "검색한 플레이어를 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1706",
+            "value": "검색한 플레이어가 본인입니다."
+        },
+        {
+            "key": "APP_ERROR_1707",
+            "value": "친구 선물 수령이 불가능합니다."
+        },
+        {
+            "key": "APP_ERROR_1708",
+            "value": "친구 선물 중 원하는 선물이 존재하지 않습니다."
+        },
+        {
+            "key": "APP_ERROR_1709",
+            "value": "친구 신청 송신에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_1710",
+            "value": "차단한 플레이어입니다."
+        },
+        {
+            "key": "APP_ERROR_1800",
+            "value": "차단 내역이 존재하지 않습니다."
+        },
+        {
+            "key": "APP_ERROR_1801",
+            "value": "차단 수가 한도에 도달하여<br>차단 목록에 추가할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_1802",
+            "value": "지정한 플레이어가 본인입니다."
+        },
+        {
+            "key": "APP_ERROR_2000",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2001",
+            "value": "코스트를 초과했습니다."
+        },
+        {
+            "key": "APP_ERROR_2002",
+            "value": "개최 기간이 아닌 퀘스트입니다."
+        },
+        {
+            "key": "APP_ERROR_2003",
+            "value": "퀘스트를 시작하지 못했습니다. 개최 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_2004",
+            "value": "퀘스트를 시작하지 못했습니다. 도전 조건을 충족하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_2005",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2006",
+            "value": "알 수 없는 유닛이 편성되었습니다."
+        },
+        {
+            "key": "APP_ERROR_2007",
+            "value": "중단 후 복귀에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_2008",
+            "value": "이어하기가 불가능합니다."
+        },
+        {
+            "key": "APP_ERROR_2009",
+            "value": "오늘 도전 횟수 한도에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_2010",
+            "value": "편성 규칙을 위반했습니다."
+        },
+        {
+            "key": "APP_ERROR_2011",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2012",
+            "value": "선택한 동행자를 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2100",
+            "value": "방을 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2101",
+            "value": "방에 입장하지 않았습니다."
+        },
+        {
+            "key": "APP_ERROR_2102",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2103",
+            "value": "방장이 출격을 확정하지 않았습니다."
+        },
+        {
+            "key": "APP_ERROR_2104",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2105",
+            "value": "이미 출격 완료했습니다."
+        },
+        {
+            "key": "APP_ERROR_2106",
+            "value": "복귀할 수 없습니다. 이미 전투가 종료되었습니다."
+        },
+        {
+            "key": "APP_ERROR_2150",
+            "value": "건너뛰기 티켓을 사용할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2151",
+            "value": "미션을 전부 완료하지 않아 건너뛰기 티켓을 사용할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2152",
+            "value": "입력하신 내용에 사용할 수 없는 내용이 포함되었습니다."
+        },
+        {
+            "key": "APP_ERROR_2153",
+            "value": "동행자 갱신에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_2161",
+            "value": "퀘스트가 닫혔습니다."
+        },
+        {
+            "key": "APP_ERROR_2163",
+            "value": "건너뛰기 중에 오류가 발생했습니다.<br>오류 발생 직전의 결과까지 반영하고<br>타이틀 화면으로 돌아갑니다."
+        },
+        {
+            "key": "APP_ERROR_2200",
+            "value": "레이드를 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2201",
+            "value": "레이드 도전 가능 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_2202",
+            "value": "레이드 보상 수령 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_2203",
+            "value": "레이드 랭킹 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_2204",
+            "value": "레이드 보스를 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2205",
+            "value": "알 수 없는 레이드 보스입니다."
+        },
+        {
+            "key": "APP_ERROR_2206",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2207",
+            "value": "레이드 보스가 도망쳤습니다."
+        },
+        {
+            "key": "APP_ERROR_2208",
+            "value": "알 수 없는 방입니다."
+        },
+        {
+            "key": "APP_ERROR_2209",
+            "value": "레이드 보스를 발견하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_2210",
+            "value": "이미 도전 중인 레이드 보스가 존재합니다."
+        },
+        {
+            "key": "APP_ERROR_2211",
+            "value": "방을 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2212",
+            "value": "이미 토벌한 레이드 보스입니다."
+        },
+        {
+            "key": "APP_ERROR_2213",
+            "value": "대리 발견자가 아니므로 도전할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2214",
+            "value": "레이드 보스에 도전하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_2215",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2216",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2217",
+            "value": "도전 가능 횟수 한도에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_2218",
+            "value": "방에 멤버가 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2219",
+            "value": "레이드 보스를 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2220",
+            "value": "알 수 없는 레이드 퀘스트입니다."
+        },
+        {
+            "key": "APP_ERROR_2221",
+            "value": "도전 중인 레이드 퀘스트가 있어 시작할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2222",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2223",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2224",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2225",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2226",
+            "value": "레이드 구슬 회복 한도를 초과하였습니다.<br>(환도석)"
+        },
+        {
+            "key": "APP_ERROR_2227",
+            "value": "이 이상 레이드 구슬을 회복할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2228",
+            "value": "이 아이템으로 RP를 회복할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2229",
+            "value": "레이드 구슬 회복 한도를 초과하였습니다.<br>(아이템)"
+        },
+        {
+            "key": "APP_ERROR_2230",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2231",
+            "value": "이미 조우자가 존재합니다."
+        },
+        {
+            "key": "APP_ERROR_2232",
+            "value": "레이드 보상 수령에 실패했습니다."
+        },
+        {
+            "key": "APP_ERROR_2233",
+            "value": "레이드 보스를 토벌하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_2234",
+            "value": "구원을 요청하지 않았습니다."
+        },
+        {
+            "key": "APP_ERROR_2235",
+            "value": "이미 출격하였으므로 입장할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2236",
+            "value": "동시에 도전 가능한 레이드 퀘스트 한도에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_2237",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2238",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2239",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2240",
+            "value": "대리 발견자가 될 수 있는 횟수가 한도에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_2241",
+            "value": "입력하신 내용에 사용할 수 없는 내용이 포함되었습니다."
+        },
+        {
+            "key": "APP_ERROR_2243",
+            "value": "복귀할 수 없습니다. 이미 전투가 종료되었습니다."
+        },
+        {
+            "key": "APP_ERROR_2300",
+            "value": "상점을 찾을 수 없습니다. 오픈 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_2301",
+            "value": "변덕쟁이 상점을 찾을 수 없습니다.<br>오픈 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_2302",
+            "value": "구매 가능 횟수를 초과했습니다."
+        },
+        {
+            "key": "APP_ERROR_2303",
+            "value": "알 수 없는 아이템을 구매하려고 했습니다."
+        },
+        {
+            "key": "APP_ERROR_2304",
+            "value": "구매 가능 횟수를 초과했습니다."
+        },
+        {
+            "key": "APP_ERROR_2305",
+            "value": "구매 가능 횟수를 초과했습니다."
+        },
+        {
+            "key": "APP_ERROR_2306",
+            "value": "상품 판매 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_2307",
+            "value": "상점이 갱신되었습니다."
+        },
+        {
+            "key": "APP_ERROR_2308",
+            "value": "상점을 찾을 수 없습니다. "
+        },
+        {
+            "key": "APP_ERROR_2309",
+            "value": "상점 오류(추첨 정보 취득 실패)"
+        },
+        {
+            "key": "APP_ERROR_2310",
+            "value": "지불 방식이 유효하지 않습니다."
+        },
+        {
+            "key": "APP_ERROR_2311",
+            "value": "상점 오류(추첨 정보 취득 실패)"
+        },
+        {
+            "key": "APP_ERROR_2312",
+            "value": "상점 오류(추첨 정보 취득 실패)"
+        },
+        {
+            "key": "APP_ERROR_2313",
+            "value": "상점 오류(추첨 정보 취득 실패)"
+        },
+        {
+            "key": "APP_ERROR_2314",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2324",
+            "value": "구매(교환)하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_2327",
+            "value": "1번에 구매(교환)할 수 있는 개수 이상은 구매할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2328",
+            "value": "상점 상품이 갱신되었습니다."
+        },
+        {
+            "key": "APP_ERROR_2400",
+            "value": "소환을 실행하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_2401",
+            "value": "소환을 실행하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_2402",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2403",
+            "value": ""
+        },
+        {
+            "key": "APP_ERROR_2404",
+            "value": "소환 횟수 한도에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_2405",
+            "value": "소환 횟수 한도에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_2406",
+            "value": "소환할 수 없습니다. 환도석 또는 티켓이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_2407",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2408",
+            "value": "소환 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_2409",
+            "value": "소환 오류(이미 소환했습니다)"
+        },
+        {
+            "key": "APP_ERROR_2410",
+            "value": "소환 오류(재소환 중입니다)"
+        },
+        {
+            "key": "APP_ERROR_2411",
+            "value": "재소환 횟수 한도에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_2412",
+            "value": "알 수 없는 소환입니다."
+        },
+        {
+            "key": "APP_ERROR_2413",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2414",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2415",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2416",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2417",
+            "value": "소환을 실행하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_2418",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2419",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2420",
+            "value": "소환 오류(추첨 정보 취득 실패)"
+        },
+        {
+            "key": "APP_ERROR_2421",
+            "value": "소환 오류"
+        },
+        {
+            "key": "APP_ERROR_2422",
+            "value": "소환 오류"
+        },
+        {
+            "key": "APP_ERROR_2423",
+            "value": "소환 오류"
+        },
+        {
+            "key": "APP_ERROR_2424",
+            "value": "소환 오류"
+        },
+        {
+            "key": "APP_ERROR_2427",
+            "value": "컴백 기간이 지나 진행할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2501",
+            "value": "도전 미션 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_2531",
+            "value": "미션 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_2560",
+            "value": "개방 조건을 충족하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_2600",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2601",
+            "value": "환도석이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_2602",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2603",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2604",
+            "value": "알 수 없는 지역으로 출발하려고 했습니다."
+        },
+        {
+            "key": "APP_ERROR_2605",
+            "value": "이 아이템으로는 고속 탐험할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2606",
+            "value": "오늘 고속 탐험 횟수 한도에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_2607",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2608",
+            "value": "회수할 수 있는 아이템이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2609",
+            "value": "알 수 없는 유닛입니다."
+        },
+        {
+            "key": "APP_ERROR_2700",
+            "value": "잠시 후에 다시 입력하십시오."
+        },
+        {
+            "key": "APP_ERROR_2701",
+            "value": "채널을 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2702",
+            "value": "알 수 없는 이모티콘입니다."
+        },
+        {
+            "key": "APP_ERROR_2703",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_2704",
+            "value": "이용약관을 위반하여 해당 계정은 채팅 기능을 사용할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_2800",
+            "value": "존재하지 않는 날짜입니다."
+        },
+        {
+            "key": "APP_ERROR_2900",
+            "value": "개최 기간이 다릅니다."
+        },
+        {
+            "key": "APP_ERROR_2901",
+            "value": "파티가 설정되어 있지 않습니다."
+        },
+        {
+            "key": "APP_ERROR_2902",
+            "value": "잘못된 파티입니다."
+        },
+        {
+            "key": "APP_ERROR_2903",
+            "value": "잘못된 전투 결과입니다."
+        },
+        {
+            "key": "APP_ERROR_3000",
+            "value": "이미 길드에 소속되어 있습니다."
+        },
+        {
+            "key": "APP_ERROR_3001",
+            "value": "길드를 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3002",
+            "value": "길드에 소속되어 있지 않습니다."
+        },
+        {
+            "key": "APP_ERROR_3003",
+            "value": "입력하신 내용에 사용할 수 없는 내용이 포함되었습니다."
+        },
+        {
+            "key": "APP_ERROR_3004",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3005",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3006",
+            "value": "알 수 없는 문장입니다."
+        },
+        {
+            "key": "APP_ERROR_3007",
+            "value": "길드를 탈퇴한 후에는<br>24시간이 지나야 다시 가입할 수 있습니다."
+        },
+        {
+            "key": "APP_ERROR_3008",
+            "value": "길드원 수가 한도에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_3009",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3010",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3011",
+            "value": "길드 마스터는 탈퇴할 수 없습니다. 권한을 양도한 후 탈퇴하십시오."
+        },
+        {
+            "key": "APP_ERROR_3012",
+            "value": "이미 출석했습니다."
+        },
+        {
+            "key": "APP_ERROR_3013",
+            "value": "출석 기능이 개방되지 않았습니다."
+        },
+        {
+            "key": "APP_ERROR_3014",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3015",
+            "value": "길드 서브 마스터 수가 한도에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_3016",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3017",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3018",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3019",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3020",
+            "value": "가입 신청 중인 길드입니다."
+        },
+        {
+            "key": "APP_ERROR_3021",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3022",
+            "value": "길드 가입 신청 내역을 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3023",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3025",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3026",
+            "value": "이미 수령했습니다."
+        },
+        {
+            "key": "APP_ERROR_3027",
+            "value": "이미 수령했습니다."
+        },
+        {
+            "key": "APP_ERROR_3028",
+            "value": "선물 유효 기간이 지났습니다."
+        },
+        {
+            "key": "APP_ERROR_3029",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3030",
+            "value": "개방되지 않았습니다."
+        },
+        {
+            "key": "APP_ERROR_3031",
+            "value": "최대 레벨이므로 더는 강화할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3032",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3033",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3034",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3035",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3036",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3037",
+            "value": "입력하신 내용에 사용할 수 없는 내용이 포함되었습니다."
+        },
+        {
+            "key": "APP_ERROR_3038",
+            "value": "입력하신 내용에 사용할 수 없는 내용이 포함되었습니다."
+        },
+        {
+            "key": "APP_ERROR_3039",
+            "value": "가입 조건을 충족하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_3040",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3041",
+            "value": "권한이 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3042",
+            "value": "길드명이 너무 깁니다."
+        },
+        {
+            "key": "APP_ERROR_3043",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3044",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3045",
+            "value": "길드 개방 조건을 충족하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_3046",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3047",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3048",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3049",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3050",
+            "value": "이미 동일한 문장을 사용하고 있습니다."
+        },
+        {
+            "key": "APP_ERROR_3051",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3059",
+            "value": "획득 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_3060",
+            "value": "체험 가입하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_3061",
+            "value": "체험 가입하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_3062",
+            "value": "체험 가입하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_3063",
+            "value": "체험 가입하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_3064",
+            "value": "신입이 아니므로 멤버로 승격할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3065",
+            "value": "사용 제한 개수에 도달했습니다."
+        },
+        {
+            "key": "APP_ERROR_3100",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3101",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3102",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3103",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3104",
+            "value": "대전 상대의 정보가 갱신되어 전투를 시작하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_3105",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3106",
+            "value": "길드 전투 중에는<br>길드를 해산할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3107",
+            "value": "길드 멤버의 정보가 갱신되었습니다. 정보를 재취득하기 위해 홈으로 돌아갑니다."
+        },
+        {
+            "key": "APP_ERROR_3108",
+            "value": "전투 시간이 지났습니다."
+        },
+        {
+            "key": "APP_ERROR_3109",
+            "value": "기간 한정 길드 전투가 시작되었습니다."
+        },
+        {
+            "key": "APP_ERROR_3200",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3201",
+            "value": "구매할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3202",
+            "value": "구매할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3203",
+            "value": "이미 구매했습니다."
+        },
+        {
+            "key": "APP_ERROR_3204",
+            "value": "환도석이 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_3205",
+            "value": "구매할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3300",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3301",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3302",
+            "value": "개최 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_3303",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3304",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3305",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3306",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3307",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3308",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3309",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3310",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3311",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3312",
+            "value": "전투 개최 기간이 지났습니다."
+        },
+        {
+            "key": "APP_ERROR_3400",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3401",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3402",
+            "value": "개최 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_3403",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3404",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3405",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3406",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3407",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3408",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3409",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3410",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3411",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3412",
+            "value": "전투 개최 기간이 지났습니다."
+        },
+        {
+            "key": "APP_ERROR_3500",
+            "value": "PvP 전투를 시작하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_3501",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3502",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3503",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3504",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3600",
+            "value": "튜토리얼을 찾을 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3601",
+            "value": "튜토리얼을 시작할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_3602",
+            "value": "이미 끝난 튜토리얼입니다."
+        },
+        {
+            "key": "APP_ERROR_3700",
+            "value": "알 수 없는 오류입니다."
+        },
+        {
+            "key": "APP_ERROR_3701",
+            "value": "잠겨 있습니다."
+        },
+        {
+            "key": "APP_ERROR_3800",
+            "value": "초대 코드를 발행할 수 있는 플레이어 랭크에 도달하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_3801",
+            "value": "초대 코드를 등록할 수 있는 플레이어 랭크에 도달하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_3802",
+            "value": "상대방이 이미 최대 인원을 초대했습니다."
+        },
+        {
+            "key": "APP_ERROR_3803",
+            "value": "입력한 초대 코드가 잘못되었습니다."
+        },
+        {
+            "key": "APP_ERROR_3804",
+            "value": "이미 다른 초대 코드를 등록하였습니다."
+        },
+        {
+            "key": "APP_ERROR_4027",
+            "value": "즐겨찾기에 장착 중인 신명석은 강화 재료로 사용할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_4028",
+            "value": "장착 중인 신명석은 강화 재료로 사용할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_4102",
+            "value": "기간 내 교환 환율이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_4106",
+            "value": "캠페인 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_5101",
+            "value": "전투를 시작하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_5102",
+            "value": "전투를 시작하지 못했습니다."
+        },
+        {
+            "key": "APP_ERROR_5103",
+            "value": "편성 코스트 한도를 초과했습니다."
+        },
+        {
+            "key": "APP_ERROR_5104",
+            "value": "편성 유닛 수 한도를 초과했습니다."
+        },
+        {
+            "key": "APP_ERROR_5105",
+            "value": "도전할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_5106",
+            "value": "전투불능 유닛이 편성되었습니다."
+        },
+        {
+            "key": "APP_ERROR_5107",
+            "value": "전투를 재개할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_5108",
+            "value": "회복할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_5109",
+            "value": "처음부터 재도전할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_5110",
+            "value": "이어하기가 불가능합니다."
+        },
+        {
+            "key": "APP_ERROR_5111",
+            "value": "개최 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_5112",
+            "value": "편성 규칙을 위반했습니다."
+        },
+        {
+            "key": "APP_ERROR_5201",
+            "value": "존재하지 않는 코드입니다."
+        },
+        {
+            "key": "APP_ERROR_5202",
+            "value": "캠페인 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_5203",
+            "value": "캠페인 최대 수령 횟수를 초과했습니다."
+        },
+        {
+            "key": "APP_ERROR_5204",
+            "value": "이미 사용된 시리얼 코드입니다."
+        },
+        {
+            "key": "APP_ERROR_5205",
+            "value": "무효한 플랫폼입니다."
+        },
+        {
+            "key": "APP_ERROR_5300",
+            "value": "대상 파티가 잘못되었습니다."
+        },
+        {
+            "key": "APP_ERROR_5301",
+            "value": "행동 횟수가 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_5302",
+            "value": "파티가 변경되었습니다.<br>새로 고침 후 다시 시도하십시오."
+        },
+        {
+            "key": "APP_ERROR_5303",
+            "value": "전투 시간이 지났습니다."
+        },
+        {
+            "key": "APP_ERROR_5304",
+            "value": "기간 한정 길드 전투는 종료되었습니다."
+        },
+        {
+            "key": "APP_ERROR_5305",
+            "value": "대상 파티 정보는 이미 알려졌습니다."
+        },
+        {
+            "key": "APP_ERROR_5306",
+            "value": "대상 파티의 행동 횟수가 최대입니다."
+        },
+        {
+            "key": "APP_ERROR_5307",
+            "value": "대상 파티의 어빌리티 사용 횟수가 최대입니다."
+        },
+        {
+            "key": "ALREADY_CONNECTED",
+            "value": "이미 다른 플레이어 계정에 연동된 소셜 플랫폼 계정입니다."
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "SNS 계정 한도에 도달했습니다."
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "SNS 계정 연동 한도에 도달했습니다."
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "SNS 한도에 도달했습니다."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_TITLE",
+            "value": "일시 정지"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_TITLE",
+            "value": "영구 정지"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_MESSAGE",
+            "value": "계정이 {0} 세계시간 (PST)까지 정지되었습니다.<br><br>자세한 내용을 알아보려면 타이틀 화면에서 [고객센터] > [문의하기]를 눌러 연락해 주시기 바랍니다."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE",
+            "value": "계정이 정지되었습니다.<br><br>자세한 내용을 알아보려면 타이틀 화면에서 [고객센터] > [문의하기]를 눌러 연락해 주시기 바랍니다."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TITLE",
+            "value": "계정 정지"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_MSG_SUPPORT",
+            "value": "자세한 내용을 알아보려면 타이틀 화면에서 [고객센터] > [문의하기]를 눌러 연락해 주시기 바랍니다."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_DEFAULT",
+            "value": "계정이 정지되었습니다."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERIOD",
+            "value": "남은 기간 {0}일({1} 세계시간 (PST)까지)"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE_2",
+            "value": "기간: 영구 정지"
+        },
+        {
+            "key": "APP_ERROR_5308",
+            "value": "적용할 응원 횟수 한도를 초과했습니다."
+        },
+        {
+            "key": "APP_ERROR_5309",
+            "value": "동일한 파티에 해당 응원을<br>중첩해서 적용할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_5310",
+            "value": "기간 한정 길드 전투 편성 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_5600",
+            "value": "개최 기간 외 오류"
+        },
+        {
+            "key": "APP_ERROR_5601",
+            "value": "현재 시각 길드 레이드 개최 기간 외 오류"
+        },
+        {
+            "key": "APP_ERROR_5602",
+            "value": "전투 기간 외 오류"
+        },
+        {
+            "key": "APP_ERROR_5603",
+            "value": "시험 전투 기간 외 오류"
+        },
+        {
+            "key": "APP_ERROR_5604",
+            "value": "행동 횟수를 초과한 전투 진행"
+        },
+        {
+            "key": "APP_ERROR_5605",
+            "value": "이미 보스 토벌 완료"
+        },
+        {
+            "key": "APP_ERROR_5606",
+            "value": "중단된 퀘스트 정상 재개 불가능(길드 레이드 이외의 중단된 퀘스트 데이터)"
+        },
+        {
+            "key": "APP_ERROR_5607",
+            "value": "보스 전투가 시작되지 않음"
+        },
+        {
+            "key": "APP_ERROR_5608",
+            "value": "중단된 퀘스트 데이터 손상"
+        },
+        {
+            "key": "APP_ERROR_5609",
+            "value": "BP 감산 불가(BP 부족)"
+        },
+        {
+            "key": "APP_ERROR_5700",
+            "value": "입력하신 내용에 사용할 수 없는 내용이 포함되었습니다."
+        },
+        {
+            "key": "APP_ERROR_5703",
+            "value": "이미 스카우트를 보냈습니다."
+        },
+        {
+            "key": "APP_ERROR_5704",
+            "value": "길드 멤버가 정원에 도달하여<br>스카우트할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_5705",
+            "value": "이미 길드에 소속 중이므로<br>스카우트할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_5800",
+            "value": "대상 파티가 잘못되었습니다."
+        },
+        {
+            "key": "APP_ERROR_5801",
+            "value": "행동 횟수가 부족합니다."
+        },
+        {
+            "key": "APP_ERROR_5802",
+            "value": "파티가 변경되었습니다.<br>새로 고침 후 다시 시도하십시오."
+        },
+        {
+            "key": "APP_ERROR_5803",
+            "value": "전투 시간이 지났습니다."
+        },
+        {
+            "key": "APP_ERROR_5804",
+            "value": "길드 전투 정상 결전은 종료되었습니다."
+        },
+        {
+            "key": "APP_ERROR_5805",
+            "value": "대상 파티 정보는 이미 알려졌습니다."
+        },
+        {
+            "key": "APP_ERROR_5806",
+            "value": "대상 파티의 행동 횟수가 최대입니다."
+        },
+        {
+            "key": "APP_ERROR_5807",
+            "value": "대상 파티의 어빌리티 사용 횟수가 최대입니다."
+        },
+        {
+            "key": "APP_ERROR_5808",
+            "value": "적용할 응원 횟수 한도를 초과했습니다."
+        },
+        {
+            "key": "APP_ERROR_5809",
+            "value": "동일한 파티에 해당 응원을<br>중첩해서 적용할 수 없습니다."
+        },
+        {
+            "key": "APP_ERROR_5810",
+            "value": "길드 전투 정상 결전 편성 기간이 아닙니다."
+        },
+        {
+            "key": "APP_ERROR_6002",
+            "value": "개최 기간이 지났거나, 다른 이유로 인해 소환을 진행할 수 없습니다."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Lasst uns nun über den <color=#0000ff>Zustand „Kampfunfähig“</color> und das <color=#0000ff>Ausscheiden aus dem Kampfgeschehen</color> sprechen."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Fallen die <color=#0000ff>LP einer Einheit auf Null</color>, dann ist diese Einheit <color=#0000ff>kampfunfähig</color>, und <color=#0000ff>eine rote Sprechblase</color> mit der Zahl „3“ wird über ihrem Kopf eingeblendet."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Solange diese Sprechblase angezeigt wird, ist eine <color=#0000ff>Wiederbelebung</color> Eurer Einheit durch Verwendung einer <color=#0000ff>Phönixfeder</color> oder Wirken des Zaubers <color=#0000ff>Engel</color> möglich."
+        },
+        {
+            "key": "004",
+            "value": "Sollte die betreffende Einheit jedoch auch <color=#0000ff>während ihrer folgenden Züge</color> im Zustand „Kampfunfähig“ verbleiben und die Zahl in der Sprechblase <color=#0000ff>auf Null fallen</color>, dann kommt es im nächsten Zug ..."
+        },
+        {
+            "key": "005",
+            "value": "... zu einem <color=#0000ff>Ausscheiden</color> der Einheit aus dem Kampf. Seid jedoch nicht beunruhigt – selbst wenn eine Einheit aus einem Kampfgeschehen ausscheiden muss, wird sie <color=#0000ff>nicht aus dem Bestand Euer gesammelten Einheiten entfernt</color>."
+        },
+        {
+            "key": "006",
+            "value": "Allerdings solltet Ihr beachten, dass Einheiten, die aus einem Kampf ausgeschieden sind, nicht mehr in diesen eingreifen können."
+        },
+        {
+            "key": "007",
+            "value": "Nun denn ... Dieses Mal scheinen wir uns sehr starken Feinden gegenüberzusehen."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "008",
+            "value": "Bitte setzt Ayakas Fähigkeiten <color=#0000ff>Vita</color> and <color=#0000ff>Engel</color> geschickt ein, um den Gegner zu erledigen."
+        }
+    ]
+}

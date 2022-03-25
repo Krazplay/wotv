@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Urk! Wer hätte ahnen können, dass wir hier auf Monster stoßen würden?!"
+        },
+        {
+            "key": "002",
+            "value": "Beschützt Prinzessin Margery!"
+        },
+        {
+            "key": "003",
+            "value": "Was soll der Krawall?"
+        },
+        {
+            "key": "004",
+            "value": "Wir wurden von Monstern überrascht. Sorgt euch jedoch nicht, Euer Hoheit. Wir werden die Brut unverzüglich beseitigen."
+        },
+        {
+            "key": "005",
+            "value": "Das trifft sich hervorragend. Ich wollte ohnehin ein wenig frische Luft schnappen."
+        },
+        {
+            "key": "006",
+            "value": "Überlasst das nur mir."
+        }
+    ]
+}

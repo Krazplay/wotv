@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "No hace mucho que el líder del gremio de mercaderes de armas cambió."
+        },
+        {
+            "key": "002",
+            "value": "Sí, yo también lo he oído. ¿Y qué?"
+        },
+        {
+            "key": "003",
+            "value": "Desde entonces, el gremio de mercaderes de armas, que siempre se mantuvo neutral, está bajo la influencia de Santocristal."
+        },
+        {
+            "key": "004",
+            "value": "Y por ello, Santocristal ahora posee información sobre los movimientos de varios ejércitos."
+        },
+        {
+            "key": "005",
+            "value": "Así es…"
+        },
+        {
+            "key": "006",
+            "value": "Santocristal mandó un decreto al gremio."
+        },
+        {
+            "key": "007",
+            "value": "«Buscad y encontrad a lo largo del reino las seis grandes espadas forjadas por los maestros herreros cueste lo que cueste»."
+        },
+        {
+            "key": "008",
+            "value": "Ahora empiezo a comprender las cosas. Así que crees que la espada que has conseguido es una de ellas…"
+        },
+        {
+            "key": "009",
+            "value": "Así es, hermano."
+        },
+        {
+            "key": "010",
+            "value": "No soy un experto como para hablar del tema, pero ¿estás seguro?"
+        },
+        {
+            "key": "011",
+            "value": "¡Oh, Howletito! ¿Es tan valiosa esa espada que posees?"
+        },
+        {
+            "key": "012",
+            "value": "Y tanto que lo es, Chel."
+        },
+        {
+            "key": "013",
+            "value": "¡Se podrían comprar un montón de esos mochis de chocobo que tanto te gustan con ella!"
+        },
+        {
+            "key": "014",
+            "value": "¿Un montón? ¿Cuántos mochis son eso?"
+        },
+        {
+            "key": "015",
+            "value": "Por lo menos cien tendrías asegurados."
+        },
+        {
+            "key": "016",
+            "value": "¡Guau! ¡Son muchos más de los que podría comer!"
+        },
+        {
+            "key": "017",
+            "value": "¿Y qué pretende el viejo que hagas con la espada?"
+        },
+        {
+            "key": "018",
+            "value": "No sabría qué decir."
+        },
+        {
+            "key": "019",
+            "value": "No conozco los detalles, pero se dice que se puede adquirir un gran poder al reunir las seis espadas…"
+        },
+        {
+            "key": "020",
+            "value": "¿Y Santocristal está usando al gremio de mercaderes de armas para conseguirlo?"
+        },
+        {
+            "key": "021",
+            "value": "Es lo más probable."
+        },
+        {
+            "key": "022",
+            "value": "Pero hay algo más que no entiendo. ¿Qué tiene que ver el viejo con todo esto?"
+        },
+        {
+            "key": "023",
+            "value": "No se le ocurrirá hacerse con este gran poder, ¿verdad?"
+        },
+        {
+            "key": "024",
+            "value": "¿Eh? ¿Es que no sabías que el maestro fue un gran herrero en sus tiempos?"
+        },
+        {
+            "key": "025",
+            "value": "¡¿Cómo dices?! Primera vez que lo oigo."
+        },
+        {
+            "key": "026",
+            "value": "El maestro forjó esta espada para un gran samurái del este a modo de obsequio. Por desgracia, ese samurái perdió la vida en la batalla."
+        },
+        {
+            "key": "027",
+            "value": "Así que desde entonces, el paradero de la espada se desconocía…"
+        },
+        {
+            "key": "028",
+            "value": "Una de las seis grandes espadas, la Lupus Umbra…"
+        },
+        {
+            "key": "029",
+            "value": "¿El viejo forjó esa espada? No me lo puedo creer…"
+        },
+        {
+            "key": "030",
+            "value": "Esa chica que acaba de pasar… tenía una cara muy triste."
+        },
+        {
+            "key": "031",
+            "value": "Tienes razón…"
+        },
+        {
+            "key": "032",
+            "value": "Parecía una valiosa joya despojada de su brillo, perdida en un mar de arena…"
+        },
+        {
+            "key": "033",
+            "value": "¡Oye, Howletito!"
+        },
+        {
+            "key": "034",
+            "value": "¡Me encantaría poder ver sonreír a esa chica! ¿Podrías conseguirlo?"
+        },
+        {
+            "key": "035",
+            "value": "Esa es una idea maravillosa, Chel. En realidad, me has leído la mente."
+        },
+        {
+            "key": "036",
+            "value": "¡Genial!"
+        },
+        {
+            "key": "037",
+            "value": "E-espera un momento. ¿Vas a seguir a esa pobre mujer?"
+        },
+        {
+            "key": "038",
+            "value": "¿Es que no has escuchado nuestra conversación?"
+        },
+        {
+            "key": "039",
+            "value": "¿Pero y qué hacemos con la búsqueda de las otras cinco espadas?"
+        },
+        {
+            "key": "040",
+            "value": "Hay tiempo para todo, hermano."
+        },
+        {
+            "key": "041",
+            "value": "Y como siempre, priorizas ir tras una chica antes que tus tareas."
+        },
+        {
+            "key": "042",
+            "value": "Taitas, me duele que pienses eso."
+        },
+        {
+            "key": "043",
+            "value": "Yo no voy «detrás de las chicas»."
+        },
+        {
+            "key": "044",
+            "value": "En todo caso, son ellas las que me siguen a mí."
+        },
+        {
+            "key": "045",
+            "value": "¿En serio?"
+        },
+        {
+            "key": "046",
+            "value": "Tú no podrías comprenderlo."
+        },
+        {
+            "key": "047",
+            "value": "¡Ni quiero!"
+        },
+        {
+            "key": "048",
+            "value": "Lo único que quiero es que dejes de meterte en problemas de una vez…"
+        }
+    ]
+}

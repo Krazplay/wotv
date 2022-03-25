@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "COPYRIGHT_TITLE",
+            "value": ""
+        },
+        {
+            "key": "COPYRIGHT_MESSAGE",
+            "value": ""
+        },
+        {
+            "key": "TERMS_OF_SERVICE_TITLE",
+            "value": ""
+        },
+        {
+            "key": "TERMS_OF_SERVICE_MESSAGE1",
+            "value": ""
+        },
+        {
+            "key": "TERMS_OF_SERVICE_MESSAGE2",
+            "value": ""
+        },
+        {
+            "key": "ASCT_TITLE",
+            "value": ""
+        },
+        {
+            "key": "ASCT_MESSAGE",
+            "value": ""
+        },
+        {
+            "key": "APS_TITLE",
+            "value": ""
+        },
+        {
+            "key": "APS_MESSAGE",
+            "value": ""
+        },
+        {
+            "key": "PRIVAVY_POLICY_TITLE",
+            "value": ""
+        },
+        {
+            "key": "PRIVAVY_POLICY_MESSAGE1",
+            "value": ""
+        },
+        {
+            "key": "PRIVAVY_POLICY_MESSAGE2",
+            "value": ""
+        },
+        {
+            "key": "HOLDER_TITLE",
+            "value": ""
+        },
+        {
+            "key": "HOLDER_MESSAGE1",
+            "value": ""
+        },
+        {
+            "key": "HOLDER_MESSAGE2",
+            "value": ""
+        }
+    ]
+}

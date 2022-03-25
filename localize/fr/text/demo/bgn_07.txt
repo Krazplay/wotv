@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Cette leçon porte sur les <color=#0000ff>caractéristiques de l'arc</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Plus vous attaquez d'une <color=#0000ff>position surélevée</color>, plus <color=#0000ff>la portée de vos flèches augmente</color>."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "En haut à droite de l'écran, vous pouvez voir que dans ce cas précis, la <color=#0000ff>hauteur</color> est indiquée par une mention de type « 4h »."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "La portée d'une unité augmente <color=#0000ff>d'une case par tranche de 2h</color>. Ainsi, pour une hauteur de 6h, la portée de vos flèches s'étale sur 3 cases."
+        },
+        {
+            "key": "005",
+            "value": "À l'inverse, tirer depuis une position basse réduit la portée de vos flèches. Vous <color=#0000ff>perdez une case de portée par tranche de 2h</color> si vous visez un <color=#0000ff>ennemi placé en hauteur par rapport à vous</color>."
+        },
+        {
+            "key": "006",
+            "value": "Essayez de placer Learte sur la falaise, vous verrez qu'elle peut attaquer presque tous les ennemis en contrebas."
+        },
+        {
+            "key": "007",
+            "value": "Bravo ! De fait, prêtez attention <color=#0000ff>aux archers ennemis positionnés en hauteur</color>."
+        },
+        {
+            "key": "008",
+            "value": "Cette portée changeante est spécifique aux armes de type arc. Elle ne s'applique pas aux autres armes à distance comme les fusils, par exemple, dont nous discuterons plus tard."
+        }
+    ]
+}

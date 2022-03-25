@@ -1,0 +1,212 @@
+﻿{
+    "infos": [
+        {
+            "key": "241",
+            "value": "Así mejor..."
+        },
+        {
+            "key": "242",
+            "value": "E... ¡Eeeh...!"
+        },
+        {
+            "key": "243",
+            "value": "Dijiste que dejaríamos el frente momentáneamente para analizar al enemigo, ¿no?"
+        },
+        {
+            "key": "244",
+            "value": "Y lo primero que haces es ponerte a descansar..."
+        },
+        {
+            "key": "245",
+            "value": "Pero qué pesada que eres. Este tipo de vida desgasta cuando se tiene cierta edad."
+        },
+        {
+            "key": "246",
+            "value": "Increíble..."
+        },
+        {
+            "key": "247",
+            "value": "¿Y...?"
+        },
+        {
+            "key": "248",
+            "value": "¿Y... qué?"
+        },
+        {
+            "key": "249",
+            "value": "¿Qué opinas de la situación de la guerra?"
+        },
+        {
+            "key": "250",
+            "value": "Hmmm, bueno."
+        },
+        {
+            "key": "251",
+            "value": "Llegué a pensar que la unión de Hourne y Leonis se hizo deprisa y corriendo, pero parece que ambos se las apañan perfectamente."
+        },
+        {
+            "key": "252",
+            "value": "Desde luego, Solidus, la primera división de Hourne, tiene el reconocimiento que merece. Son una base sólida."
+        },
+        {
+            "key": "253",
+            "value": "Y luego están las unidades que cubren los flancos."
+        },
+        {
+            "key": "254",
+            "value": "Pensaba que Leonis se quedaría corto en cuanto a potencia militar, pero lo están haciendo bastante bien."
+        },
+        {
+            "key": "255",
+            "value": "¿Y...?"
+        },
+        {
+            "key": "256",
+            "value": "¿Y... qué?"
+        },
+        {
+            "key": "257",
+            "value": "¿Quién crees que saldrá victorioso?"
+        },
+        {
+            "key": "258",
+            "value": "No me digas que después de haber llegado hasta aquí, ¡¿ahora estás pensando en cambiarte al bando con mayor ventaja?!"
+        },
+        {
+            "key": "259",
+            "value": "¿Es que te da igual morir?"
+        },
+        {
+            "key": "260",
+            "value": "Cla... ¡Claro que no! ¡Hay un montón de cosas que aún quiero hacer en mi vida!"
+        },
+        {
+            "key": "261",
+            "value": "¿Y...?"
+        },
+        {
+            "key": "262",
+            "value": "..."
+        },
+        {
+            "key": "263",
+            "value": "No me gusta admitirlo, pero…"
+        },
+        {
+            "key": "264",
+            "value": "Lo sabía."
+        },
+        {
+            "key": "265",
+            "value": "Fue igual para el rey de Lykeros."
+        },
+        {
+            "key": "266",
+            "value": "Cuando maquinaban sus planes para su invasión al este, el rey dijo que Wezette sería su enemigo más problemático..."
+        },
+        {
+            "key": "267",
+            "value": "Por lo que he oído, parece que el rey Jayden de Rundal comparte el mismo sentimiento."
+        },
+        {
+            "key": "268",
+            "value": "Eso parece."
+        },
+        {
+            "key": "269",
+            "value": "Hmmm. Me pregunto por qué todo el mundo le tiene tanta estima a Wezette."
+        },
+        {
+            "key": "270",
+            "value": "La verdad es que he escuchado una cosa o dos sobre esto."
+        },
+        {
+            "key": "271",
+            "value": "Se dice que Wezette está intentando traer de vuelta algún tipo de magia ancestral perdida en secreto."
+        },
+        {
+            "key": "272",
+            "value": "¿Magia ancestral?"
+        },
+        {
+            "key": "273",
+            "value": "¿Una que puede mandar a los enemigos por los aires con un solo conjuro?"
+        },
+        {
+            "key": "274",
+            "value": "¿Quién sabe?"
+        },
+        {
+            "key": "275",
+            "value": "En cualquier caso, eso era por lo que el rey de Lykeros era cauteloso."
+        },
+        {
+            "key": "276",
+            "value": "Tiene sentido, la verdad."
+        },
+        {
+            "key": "277",
+            "value": "No estaba segura de decirlo entonces, pero sentí... algo inquietante en el comportamiento de Wezette."
+        },
+        {
+            "key": "278",
+            "value": "Probablemente estén planeando algo."
+        },
+        {
+            "key": "279",
+            "value": "¿Y...?"
+        },
+        {
+            "key": "280",
+            "value": "Y... ¡¿Y qué?!"
+        },
+        {
+            "key": "281",
+            "value": "¿Has llegado a alguna conclusión?"
+        },
+        {
+            "key": "282",
+            "value": "Bueno, hemos encontrado un nuevo hogar al que servir."
+        },
+        {
+            "key": "283",
+            "value": "Y lady Machérie parece ser inteligente y honesta."
+        },
+        {
+            "key": "284",
+            "value": "Así que no merece la pena abandonarlo todo simplemente porque podríamos estar en desventaja."
+        },
+        {
+            "key": "285",
+            "value": "Entonces, ¿nos quedamos?"
+        },
+        {
+            "key": "286",
+            "value": "Nos quedamos."
+        },
+        {
+            "key": "287",
+            "value": "Bien. Pues no tengo nada más que añadir."
+        },
+        {
+            "key": "288",
+            "value": "¿Qué hubieses hecho si dijera que quiero aliarme con Wezette?"
+        },
+        {
+            "key": "289",
+            "value": "Te habría partido la cara, y me habría preparado para salir corriendo por si acaso."
+        },
+        {
+            "key": "290",
+            "value": "Me alegra que no lo hicieras..."
+        },
+        {
+            "key": "291",
+            "value": "Bueno, ¿regresemos junto a la tropa principal entonces?"
+        },
+        {
+            "key": "292",
+            "value": "Sí, vayamos."
+        }
+    ]
+}

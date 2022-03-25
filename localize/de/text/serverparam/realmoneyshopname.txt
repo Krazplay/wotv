@@ -1,0 +1,2332 @@
+﻿{
+    "infos": [
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact.001",
+            "value": "Ausrüstung: Metallbrecher"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.003",
+            "value": "Veröffentlichungspaket III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.002.01",
+            "value": "Veröffentlichungspaket II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.001",
+            "value": "Veröffentlichungspaket I"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_booster.001",
+            "value": "Ausdauerpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_cg.001",
+            "value": "Ausdauer- & Gilkrötenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.001",
+            "value": "Einheitenerweckungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_awaken.001",
+            "value": "Espererweckungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.001",
+            "value": "Wöchentliches Chocobopaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.001",
+            "value": "Einheitenstärkungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_exp.001",
+            "value": "Ausrüstungsstärkungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.001",
+            "value": "Esperstärkungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.001",
+            "value": "Visionskartenstärkungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.001",
+            "value": "Tägliches Ausdauerpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.001",
+            "value": "[Gratisbonus] Visiorepaket A"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.002",
+            "value": "[Gratisbonus] Visiorepaket B"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.003",
+            "value": "[Gratisbonus] Visiorepaket C"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.004",
+            "value": "[Gratisbonus] Visiorepaket D"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.005",
+            "value": "[Gratisbonus] Visiorepaket E"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.006",
+            "value": "[Gratisbonus] Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.007",
+            "value": "[Gratisbonus] Visiorepaket G"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.001",
+            "value": "Visiorepaket A"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.002",
+            "value": "Visiorepaket B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.003",
+            "value": "Visiorepaket C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.004",
+            "value": "Visiorepaket D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.005",
+            "value": "Visiorepaket E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.006",
+            "value": "Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.007.01",
+            "value": "Visiorepaket G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.004",
+            "value": "Monatliches Feuerpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.005",
+            "value": "Monatliches Wasserpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.006",
+            "value": "Monatliches Windpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.007",
+            "value": "Monatliches Blitzpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.008",
+            "value": "Monatliches Eispaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.009",
+            "value": "Monatliches Erdpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.010",
+            "value": "Monatliches Lichtpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.011",
+            "value": "Monatliches Dunkelpaket"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_01.rew",
+            "value": "Rares Beschwörungsticket"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_02.rew",
+            "value": "Rares Beschwörungsticket (10-malig)"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_05.rew",
+            "value": "Visiore x100"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_03.rew",
+            "value": "Visiore x640"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_04.rew",
+            "value": "Visiore x1.350"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.009",
+            "value": "[Kollabo] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.010",
+            "value": "[Kollabo] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.011",
+            "value": "[Kollabo] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.012",
+            "value": "[Kollabo] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.003",
+            "value": "[Kollabo] Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.001",
+            "value": "Visionskarte: „Jobkristall“"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.daily.001",
+            "value": "Tägliches Visiorepaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.012",
+            "value": "Monatliches Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.001",
+            "value": "ANG-Ausrüstungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.002",
+            "value": "MAG-Ausrüstungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.003",
+            "value": "Ausrüstungspaket: Leben"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.001",
+            "value": "Limitrauschpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.001",
+            "value": "Ausrüstungsfähigkeitenpaket"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.001",
+            "value": "Besonderes 30-Tage-Visiorepaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.006",
+            "value": "Starterpaket III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.005",
+            "value": "Starterpaket II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.004",
+            "value": "Starterpaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "[FF EXVIUS] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "[FF EXVIUS] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "[FF EXVIUS] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "[FF EXVIUS] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "[FF EXVIUS] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "[FF EXVIUS] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "Tägliches FFI-Vorfreudepaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "FFI-Vorfreudepaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.003",
+            "value": "Einheiten-Superpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.003",
+            "value": "Visionskarten-Superpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.015",
+            "value": "Erweckungs-Superpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.001",
+            "value": "Gilkrötenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.014",
+            "value": "[Kollabo] Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.003",
+            "value": "Sommer-Dreifach-Chocobopaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.019",
+            "value": "[Kollabo] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.020",
+            "value": "[Kollabo] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.021",
+            "value": "[Kollabo] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.022",
+            "value": "[Kollabo] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.023",
+            "value": "[Kollabo] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.024",
+            "value": "[Kollabo] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "Herausforderungspass"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "Einheitentrainingspass"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "Ausrüstungstrainingspass"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.016",
+            "value": "[Kollabo] Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.025",
+            "value": "[Kollabo] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.026",
+            "value": "[Kollabo] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.027",
+            "value": "[Kollabo] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.028",
+            "value": "[Kollabo] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.029",
+            "value": "[Kollabo] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.030",
+            "value": "[Kollabo] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst.001",
+            "value": "Limitrauschpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability.001",
+            "value": "Ausrüstungsfähigkeitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.001",
+            "value": "Tägl. [UR]-Einheitenteilepaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.002",
+            "value": "Bes. [UR]-Einheitenteilepaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.001",
+            "value": "Storyüberspringpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.003",
+            "value": "Eventüberspringpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.001",
+            "value": "Überspringticket-Spezialpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.031",
+            "value": "[Limitiert] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.032",
+            "value": "[Limitiert] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.033",
+            "value": "[Limitiert] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.034",
+            "value": "[Limitiert] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.035",
+            "value": "[Limitiert] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.036",
+            "value": "[Limitiert] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.008",
+            "value": "Visiorepaket B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.009",
+            "value": "Visiorepaket C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.010",
+            "value": "Visiorepaket D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.011",
+            "value": "Visiorepaket E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.012",
+            "value": "Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.013",
+            "value": "Visiorepaket G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.001",
+            "value": "MyCard Veröffentlichungspaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.037",
+            "value": "[Limitiert] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.038",
+            "value": "[Limitiert] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.039",
+            "value": "[Limitiert] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.040",
+            "value": "[Limitiert] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.041",
+            "value": "[Limitiert] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.042",
+            "value": "[Limitiert] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.043",
+            "value": "[Limitiert] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.008",
+            "value": "[Gratisbonus] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.014",
+            "value": "Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.044",
+            "value": "[Kollabo] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.045",
+            "value": "[Kollabo] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.046",
+            "value": "[Kollabo] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.047",
+            "value": "[Kollabo] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.048",
+            "value": "[Kollabo] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.049",
+            "value": "[Kollabo] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.050",
+            "value": "[Kollabo] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.002",
+            "value": "[Black Friday] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.003",
+            "value": "[Black Friday] Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.004",
+            "value": "„Black Friday”-Medaillenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.005",
+            "value": "[Black Friday] Einheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.006",
+            "value": "[Black Friday] Visionspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.007",
+            "value": "[Black Friday] Esperpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.008",
+            "value": "[Black Friday] Chocobopaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.009",
+            "value": "[Black Friday] Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.002",
+            "value": "[Limitiert] 30-Tage-Superpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.051",
+            "value": "[Globalfest] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.052",
+            "value": "[Globalfest] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.053",
+            "value": "[Globalfest] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.054",
+            "value": "[Globalfest] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.055",
+            "value": "[Globalfest] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.056",
+            "value": "[Globalfest] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.057",
+            "value": "[Globalfest] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.010",
+            "value": "Winter-Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.011",
+            "value": "Winter-Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.012",
+            "value": "Globalfest-Medaillenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.013",
+            "value": "Winter-Einheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.014",
+            "value": "Winter-Visionskartenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.015",
+            "value": "Winter-Esperpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.016",
+            "value": "Winter-Chocobopaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.017",
+            "value": "Winter-Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.058",
+            "value": "[Neujahr '21] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.059",
+            "value": "[Neujahr '21] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.060",
+            "value": "[Neujahr '21] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.061",
+            "value": "[Neujahr '21] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.062",
+            "value": "[Neujahr '21] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.063",
+            "value": "[Neujahr '21] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.064",
+            "value": "[Neujahr '21] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.065",
+            "value": "[Winter 2021] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.066",
+            "value": "[Winter 2021] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.067",
+            "value": "[Winter 2021] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.068",
+            "value": "[Winter 2021] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.069",
+            "value": "[Winter 2021] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.070",
+            "value": "[Winter 2021] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.071",
+            "value": "[Winter 2021] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_egg.001",
+            "value": "JP-Erhöhungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_egg.002",
+            "value": "Tägliches Ovoidpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.001",
+            "value": "[Probe] JP-Schlüsselpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.002",
+            "value": "Monatliches JP-Schlüsselpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.018",
+            "value": "[Winter 2021] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.019",
+            "value": "[Winter 2021] Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.020",
+            "value": "[Winter 2021] Medaillenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.021",
+            "value": "[Winter 2021] Einheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.022",
+            "value": "[Winter 2021] Esperpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.023",
+            "value": "[Winter 2021] Überspringpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.024",
+            "value": "[Winter 2021] Chocobopaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.025",
+            "value": "[Winter 2021] Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.001",
+            "value": "[Wöchentlich] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.002",
+            "value": "[Wöchentlich] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.003",
+            "value": "[Wöchentlich] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.003",
+            "value": "[Monatlich] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.002",
+            "value": "[Monatlich] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.001",
+            "value": "[Monatlich] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.004",
+            "value": "Premiumpass"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.003",
+            "value": "[1. Jubiläum] 30-Tage-Paket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.072",
+            "value": "[1. Jubiläum] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.073",
+            "value": "[1. Jubiläum] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.074",
+            "value": "[1. Jubiläum] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.075",
+            "value": "[1. Jubiläum] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.076",
+            "value": "[1. Jubiläum] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.077",
+            "value": "[1. Jubiläum] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.078",
+            "value": "[1. Jubiläum] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.001",
+            "value": "EX-Job-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.002",
+            "value": "Symboltafelpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.003",
+            "value": "Element-Alkriststatuenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.004",
+            "value": "ABW-Ausrüstungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.005",
+            "value": "PSY-Ausrüstungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.006",
+            "value": "ANG-Ausrüstungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.007",
+            "value": "MAG-Ausrüstungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.026",
+            "value": "[1. Jubiläum] Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.027",
+            "value": "[1. Jubiläum] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.007",
+            "value": "Besonderes Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.028",
+            "value": "[1. Jubiläum] EX-Job-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.029",
+            "value": "„1. Jubiläum”-Medaillenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.030",
+            "value": "[1. Jubiläum] Einheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.031",
+            "value": "[1. Jubiläum] Visionspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.032",
+            "value": "[1. Jubiläum] Esperpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.033",
+            "value": "[1. Jubiläum] Chocobopaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.034",
+            "value": "[1. Jubiläum] Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.079",
+            "value": "[NieR] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.080",
+            "value": "[NieR] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.081",
+            "value": "[NieR] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.082",
+            "value": "[NieR] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.083",
+            "value": "[NieR] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.084",
+            "value": "[NieR] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.085",
+            "value": "[NieR] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.002",
+            "value": "Überspringticket-Spezialpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.035",
+            "value": "[NieR] Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.036",
+            "value": "[NieR] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.037",
+            "value": "[NieR] NieR-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.008",
+            "value": "[NieR] Besonderes Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.038",
+            "value": "[NieR] EX-Job-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.039",
+            "value": "[NieR] Frühlingspaket 2021"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.040",
+            "value": "[NieR] Einheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.041",
+            "value": "[NieR] Visionspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.042",
+            "value": "[NieR] Esperpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.043",
+            "value": "[NieR] Chocobopaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.044",
+            "value": "[NieR] Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.004",
+            "value": "[Angebot] 30-Tage-Paket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.086",
+            "value": "[Angebot] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.087",
+            "value": "[Angebot] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.088",
+            "value": "[Angebot] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.089",
+            "value": "[Angebot] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.090",
+            "value": "[Angebot] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.091",
+            "value": "[Angebot] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.092",
+            "value": "[Angebot] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.visiore.001",
+            "value": "Starter-Visiorepaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.comeback.001",
+            "value": "Auswählbare St99-[UR]-Einheit"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.001",
+            "value": "[Angebot] Einheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.001",
+            "value": "[Angebot] Esper-/VK-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.001",
+            "value": "[Angebot] Materialienpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.045",
+            "value": "[Angebot] Ausrüstungspaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.046",
+            "value": "[Angebot] Regenbogenpaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.047",
+            "value": "[Angebot] Espertrainingspaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.048",
+            "value": "[Angebot] EX-Job-Paket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.049",
+            "value": "[Angebot] Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.050",
+            "value": "[Angebot] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.051",
+            "value": "[Angebot] Spezial-Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.052",
+            "value": "[Angebot] Erweckungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.053",
+            "value": "[Angebot] Visionskartenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.054",
+            "value": "[Angebot] Chocobopaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.055",
+            "value": "[Angebot] Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.093",
+            "value": "[GL-Fest 3] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.094",
+            "value": "[GL-Fest 3] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.095",
+            "value": "[GL-Fest 3] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.096",
+            "value": "[GL-Fest 3] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.097",
+            "value": "[GL-Fest 3] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.098",
+            "value": "[GL-Fest 3] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.099",
+            "value": "[GL-Fest 3] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.056",
+            "value": "[GL3] [UR]-Zazan-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.057",
+            "value": "[GL3] Deen-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.058",
+            "value": "[GL3] Fryevia-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.100",
+            "value": "[Sommer 2021] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.101",
+            "value": "[Sommer 2021] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.102",
+            "value": "[Sommer 2021] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.103",
+            "value": "[Sommer 2021] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.104",
+            "value": "[Sommer 2021] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.105",
+            "value": "[Sommer 2021] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.106",
+            "value": "[Sommer 2021] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.004",
+            "value": "Symboltafelpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.059",
+            "value": "[Sommer 2021] Lilith-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.060",
+            "value": "[Sommer 2021] Kiton-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.061",
+            "value": "[Sommer 2021] Kilphe-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.062",
+            "value": "[Sommer 2021] Elsirelle-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.002",
+            "value": "[Sommer 2021] Einheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.002",
+            "value": "[Sommer 2021] Esper-VK-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.002",
+            "value": "[Sommer 2021] Materialienpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.063",
+            "value": "[Sommer 2021] Ausrüstungspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.064",
+            "value": "[Sommer 2021] Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.065",
+            "value": "[Sommer 2021] Esperpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.066",
+            "value": "[Sommer 2021] EX-Job-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.067",
+            "value": "[Sommer 2021] Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.068",
+            "value": "[Sommer 2021] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.069",
+            "value": "[Sommer 2021] Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.107",
+            "value": "[Kollabo] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.108",
+            "value": "[Kollabo] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.109",
+            "value": "[Kollabo] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.110",
+            "value": "[Kollabo] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.111",
+            "value": "[Kollabo] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.112",
+            "value": "[Kollabo] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.113",
+            "value": "[Kollabo] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.070",
+            "value": "[Kollabo] Cloud-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.071",
+            "value": "[Kollabo] Tifa-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.comeback.002",
+            "value": "[Rückkehrer] St99-[UR]-Einheit"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.003",
+            "value": "[Kollabo] Einheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.003",
+            "value": "[Kollabo] Esperpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.003",
+            "value": "[Kollabo] Materialienpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.074",
+            "value": "[Kollabo] Ausrüstungspaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.075",
+            "value": "[Kollabo] Regenbogenpaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.076",
+            "value": "[Kollabo] Esperpaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.077",
+            "value": "[Kollabo] EX-Job-Paket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.078",
+            "value": "[Kollabo] Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.079",
+            "value": "[Kollabo] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.080",
+            "value": "[Kollabo] Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.081",
+            "value": "[Kollabo] Barret-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.082",
+            "value": "[Kollabo] Aerith-Paket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.114",
+            "value": "[1,5 Jahre] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.115",
+            "value": "[1,5 Jahre] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.116",
+            "value": "[1,5 Jahre] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.117",
+            "value": "[1,5 Jahre] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.118",
+            "value": "[1,5 Jahre] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.119",
+            "value": "[1,5 Jahre] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.120",
+            "value": "[1,5 Jahre] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.item.001",
+            "value": "Starter-Gegenstandspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.083",
+            "value": "[1,5 Jahre] Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.084",
+            "value": "[1,5 Jahre] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.085",
+            "value": "[1,5 Jahre] Lara Croft-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.086",
+            "value": "[1,5 Jahre] Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.004",
+            "value": "[1,5 Jahre] VK/Esper-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.004",
+            "value": "[1,5 Jahre] Materialienpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.087",
+            "value": "[1,5 Jahre] EX-Job-Paket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.088",
+            "value": "[1,5 Jahre] Regenbogenpaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.089",
+            "value": "[1,5 Jahre] Esperpaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.090",
+            "value": "[1,5 Jahre] Ausrüstungspaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.091",
+            "value": "[1,5 Jahre] Gilkrötenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.092",
+            "value": "Ausrüstungsfähigkeitenpaket"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.005",
+            "value": "[1,5 Jahre] 30-Tage-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.093",
+            "value": "[1,5 Jahre] GL-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.094",
+            "value": "[1,5 Jahre] GL-Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.095",
+            "value": "[1,5 Jahre] GL-Beschwörungsp."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.096",
+            "value": "[1,5 Jahre] St99-[UR]-Einheit"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.121",
+            "value": "Halloween-Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.122",
+            "value": "Halloween-Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.123",
+            "value": "Halloween-Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.124",
+            "value": "Halloween-Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.125",
+            "value": "Halloween-Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.126",
+            "value": "Halloween-Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.127",
+            "value": "Halloween-Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.item.002",
+            "value": "Starter-Gegenstandspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.097",
+            "value": "Halloween-Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.098",
+            "value": "Halloween-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.099",
+            "value": "Halloween-BP-Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.100",
+            "value": "Halloween-Ticketpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.101",
+            "value": "Halloween-Spezial-Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.005",
+            "value": "Halloween-VK/Esper-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.005",
+            "value": "Halloween-Materialienpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.102",
+            "value": "Halloween-EX-Job-Paket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.103",
+            "value": "Halloween-Regenbogenpaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.104",
+            "value": "Halloween-Esperpaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.105",
+            "value": "Halloween-Ausrüstungspaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.106",
+            "value": "Halloween-Gilkrötenpaket (XL)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.107",
+            "value": "Halloween-Schlüsselpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.108",
+            "value": "[Kollabo] Eventpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.109",
+            "value": "[Kollabo] Erdeinheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.110",
+            "value": "[Kollabo] Dunkeleinheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.111",
+            "value": "[Kollabo] Eiseinheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.128",
+            "value": "Black Friday-Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.129",
+            "value": "Black Friday-Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.130",
+            "value": "Black Friday-Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.131",
+            "value": "Black Friday-Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.132",
+            "value": "Black Friday-Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.133",
+            "value": "Black Friday-Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.134",
+            "value": "Black Friday-Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.112",
+            "value": "Black Friday-Visiorepaket F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.113",
+            "value": "Black Friday-Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.114",
+            "value": "Black Friday-Einheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.115",
+            "value": "Black Friday-EX-Job-Paket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.116",
+            "value": "Black Friday-Job-Paket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.117",
+            "value": "Black Friday-[UR]-VK-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.118",
+            "value": "Black Friday-Esper-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.119",
+            "value": "Black Friday-Seelensternpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.120",
+            "value": "Black Friday-Visionssternpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.121",
+            "value": "Black Friday-Überspringpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.122",
+            "value": "Black Friday-Chocobo-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.123",
+            "value": "Black Friday-Kasernenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.124",
+            "value": "[FFXV] Noctis-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.125",
+            "value": "[FFXV] Prompto-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.126",
+            "value": "[FFXV] Aranea-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.135",
+            "value": "Winter 2021-Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.136",
+            "value": "Winter 2021-Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.137",
+            "value": "Winter 2021-Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.138",
+            "value": "Winter 2021-Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.139",
+            "value": "Winter 2021-Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.140",
+            "value": "Winter 2021-Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.141",
+            "value": "Winter 2021-Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.127",
+            "value": "Winter 2021-Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.128",
+            "value": "Winter 2021-BP-Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.129",
+            "value": "Winter 2021-Blickpunktpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.130",
+            "value": "Winter 2021-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.131",
+            "value": "Winter 2021-Starterpaket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.132",
+            "value": "Winter 2021-VK/Esper-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.133",
+            "value": "Winter 2021-Materialienpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.134",
+            "value": "Winter 2021-EX-Job-Paket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.135",
+            "value": "Winter 2021-Regenbogenpaket + "
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.136",
+            "value": "Winter 2021-Esperpaket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.137",
+            "value": "Winter 2021-Ausrüstungspaket + "
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.138",
+            "value": "Winter 2021-Gilkrötenpak. (XL)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.142",
+            "value": "5. Globalfest-BP-Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.140",
+            "value": "5. Globalfest-Blickpunktpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.141",
+            "value": "5. Globalfest-Fragmentpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.142",
+            "value": "[10 Mil.] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.143",
+            "value": "[10 Mil.] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.144",
+            "value": "[10 Mil.] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.145",
+            "value": "[10 Mil.] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.146",
+            "value": "[10 Mil.] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.147",
+            "value": "[10 Mil.] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.148",
+            "value": "[10 Mil.] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.143",
+            "value": "[10 Mil.] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.144",
+            "value": "[FFIV] „Golbez“-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.145",
+            "value": "[FFIV] „Cecil“-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.146",
+            "value": "[FFIV] „Kain“-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.147",
+            "value": "[FFIV] „Rosa“-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.148",
+            "value": "[10 Mil.] Besonderes Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.149",
+            "value": "[10 Mil.] VK/Esper-Paket <br>"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.150",
+            "value": "[10 Mil.] Überspringticketpaket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.151",
+            "value": "[10 Mil.] Ausrüstungspaket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.152",
+            "value": "[10 Mil.] EX-Job-Paket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.153",
+            "value": "[10 Mil.] Regenbogenpaket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.154",
+            "value": "[10 Mil.] Esperpaket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.155",
+            "value": "[10 Mil.] Ausrüstungspaket +"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.156",
+            "value": "[10 Mil.] Gilkrötenpaket (XL)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157",
+            "value": "Mondjahr 2022-Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161",
+            "value": "Mondjahr 2022-BP-Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159",
+            "value": "Mondjahr 2022-Blickpunktpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160",
+            "value": "M. 2022-„Moore (Festtag)“-Pak."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162",
+            "value": "[Karneval] Besonderes tägliches Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163",
+            "value": "[Karneval] Einheitentrainingspaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164",
+            "value": "[Karneval] Visionskartenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149",
+            "value": "[2. Jubiläum] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150",
+            "value": "[2. Jubiläum] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151",
+            "value": "[2. Jubiläum] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152",
+            "value": "[2. Jubiläum] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153",
+            "value": "[2. Jubiläum] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154",
+            "value": "[2. Jubiläum] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155",
+            "value": "[2. Jubiläum] Visiorepaket VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003",
+            "value": "[Probe] JP-Schlüsselpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001",
+            "value": "[Probe] Vertr./Res.-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009",
+            "value": "[Starter] UR-Einheitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010",
+            "value": "[Starter] Erweckungspaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011",
+            "value": "[Starter] UR-VK-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003",
+            "value": "Esperpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002",
+            "value": "Gilkrötenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002",
+            "value": "Limitrauschpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002",
+            "value": "Ausrüstungsfähigkeitenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004",
+            "value": "[Monatlich] JP-Schlüsselpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002",
+            "value": "[Monatlich] Vertr./Res.-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001",
+            "value": "[Monatlich] Erweckungspaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165",
+            "value": "[2. Jubiläum] Visiorepaket H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166",
+            "value": "[FFVI] BP-Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167",
+            "value": "[FFVI] Blickpunktpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171",
+            "value": "[2. Jubiläum] Starterpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172",
+            "value": "[2. Jubiläum] VK/Esper-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173",
+            "value": "[2. Jubiläum] Überspring-TP+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174",
+            "value": "[2. Jubiläum] Kasernenpaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175",
+            "value": "[2. Jubiläum] EX-Job-Paket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176",
+            "value": "[2. Jubiläum] Regenbogenpaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177",
+            "value": "[2. Jubiläum] Esperpaket+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178",
+            "value": "[2. Jubiläum] Ausrüstungsp.+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179",
+            "value": "[2. Jubiläum] Gilkrötenp. (XL)"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001",
+            "value": "„Celes“-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002",
+            "value": "„Terra“-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001",
+            "value": "2. Jubiläum-Paket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate3)",
+            "value": ""
+        }
+    ]
+}

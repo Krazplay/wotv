@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Beau travail, Owe. Il ne nous reste qu'à rapporter ces reliques..."
+        },
+        {
+            "key": "002",
+            "value": "Non, Reine Helena. J'ai bien peur que la véritable épreuve ne commence que maintenant..."
+        },
+        {
+            "key": "003",
+            "value": "... !"
+        },
+        {
+            "key": "004",
+            "value": "Pile au bon moment."
+        },
+        {
+            "key": "005",
+            "value": "Vous, je vous reconnais, vous êtes... Dorando et Gargas."
+        },
+        {
+            "key": "006",
+            "value": "Oh, nous aussi nous sommes devenus célèbres !"
+        },
+        {
+            "key": "007",
+            "value": "Quel honneur ! Le chevalier Owe connaît nos noms !"
+        },
+        {
+            "key": "008",
+            "value": "Pourquoi êtes-vous ici ?"
+        },
+        {
+            "key": "009",
+            "value": "C'est pas important."
+        },
+        {
+            "key": "010",
+            "value": "On est là pour se battre. On est venus pour ça."
+        },
+        {
+            "key": "011",
+            "value": "Owe, qui sont-ils ?"
+        },
+        {
+            "key": "012",
+            "value": "Ils sont sous les ordres de Sadali, mais ils dirigent les troupes de Fennes."
+        },
+        {
+            "key": "013",
+            "value": "Ils sont donc ici à la demande de Muraga."
+        },
+        {
+            "key": "014",
+            "value": "Vos soldats là-bas, qu'est-ce qu'ils transportent... ?"
+        },
+        {
+            "key": "015",
+            "value": "Je vois. C'est sûrement ce que ce maudit Muraga recherche."
+        },
+        {
+            "key": "016",
+            "value": "Battre en retraite ne me semble pas être une option."
+        },
+        {
+            "key": "017",
+            "value": "Reine Helena, reculez, laissez-moi m'occuper d'eux."
+        },
+        {
+            "key": "018",
+            "value": "Oh, vous n'détalez pas ? Impressionnant."
+        },
+        {
+            "key": "019",
+            "value": "Quelle journée parfaite ! Je vais pouvoir repartir avec la tête d'Owe !"
+        },
+        {
+            "key": "020",
+            "value": "Ma tête est très bien sur mes épaules... mais si vous voulez essayer, approchez !"
+        }
+    ]
+}

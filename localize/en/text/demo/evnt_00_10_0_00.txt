@@ -1,0 +1,384 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...Queen Helena! There you are!"
+        },
+        {
+            "key": "002",
+            "value": "Ildyra..."
+        },
+        {
+            "key": "003",
+            "value": "Your Highness, please stand back!"
+        },
+        {
+            "key": "004",
+            "value": "We'll blow the cell wide open with our magic!"
+        },
+        {
+            "key": "005",
+            "value": "Curses, it is to no avail!"
+        },
+        {
+            "key": "006",
+            "value": "It didn't even budge... That can't be right..."
+        },
+        {
+            "key": "007",
+            "value": "This place serves its purpose keeping criminals locked away. We shall not be getting in so easily."
+        },
+        {
+            "key": "008",
+            "value": "And yet we cannot give up. This cell must be breached no matter what."
+        },
+        {
+            "key": "009",
+            "value": "No, you will find that to be impossible. You must stop."
+        },
+        {
+            "key": "010",
+            "value": "We simply cannot do that, Your Highness. We are «Lumen», your personal guard, after all."
+        },
+        {
+            "key": "011",
+            "value": "There is something of graver importance for you to do."
+        },
+        {
+            "key": "012",
+            "value": "You do not mean to have us follow King Oelde do you, Your Highness?"
+        },
+        {
+            "key": "013",
+            "value": "Hold on, Ildyra. Follow...King Oelde, you say?"
+        },
+        {
+            "key": "014",
+            "value": "...Yes, that is correct."
+        },
+        {
+            "key": "015",
+            "value": "What is it you speak of?"
+        },
+        {
+            "key": "016",
+            "value": "Don’t tell me King Oelde isn't even in the castle anymore..."
+        },
+        {
+            "key": "017",
+            "value": "Forgive my silence."
+        },
+        {
+            "key": "018",
+            "value": "King Oelde and Lord Mont exited the castle through the rear gate not so long ago."
+        },
+        {
+            "key": "019",
+            "value": "Th-that cannot be..."
+        },
+        {
+            "key": "020",
+            "value": "They fled and left Queen Helena to her fate...?"
+        },
+        {
+            "key": "021",
+            "value": "I was not left here—it was my choice to stay."
+        },
+        {
+            "key": "022",
+            "value": "And it is not only I who stayed. «Fortem» remains within the walls as well."
+        },
+        {
+            "key": "023",
+            "value": "Isn't that just to buy time for King Oelde to<br>escape...?"
+        },
+        {
+            "key": "024",
+            "value": "Sylma, choose your words with caution."
+        },
+        {
+            "key": "025",
+            "value": "Oh... M-my apologies."
+        },
+        {
+            "key": "026",
+            "value": "If our own people believe it so, then it is safe to say the king's strategy was successful."
+        },
+        {
+            "key": "027",
+            "value": "The king's strategy...?"
+        },
+        {
+            "key": "028",
+            "value": "...The king and Mont venture into the maws of death in order to save Sterne and myself."
+        },
+        {
+            "key": "029",
+            "value": "What are you implying?"
+        },
+        {
+            "key": "030",
+            "value": "Y-you cannot mean to say Wezette could...betray us!?"
+        },
+        {
+            "key": "031",
+            "value": "I believe that possibility to be more than slight."
+        },
+        {
+            "key": "032",
+            "value": "Thus the king put Lord Mont and Lord Sterne on separate paths..."
+        },
+        {
+            "key": "033",
+            "value": "But Leonis and Wezette might still stand together in alliance as they always have..."
+        },
+        {
+            "key": "034",
+            "value": "Yes, that is indeed possible. Alas..."
+        },
+        {
+            "key": "035",
+            "value": "The king has deemed it perilous to wager our lives on only such a possibility."
+        },
+        {
+            "key": "036",
+            "value": "Then what need could there be to divide the Leonis family in two?"
+        },
+        {
+            "key": "037",
+            "value": "It’s as if he does not care as long as one of them survives..."
+        },
+        {
+            "key": "038",
+            "value": "The king...is prepared to die at Sterne's hand. No, not only the king, but Mont as well, I am afraid..."
+        },
+        {
+            "key": "039",
+            "value": "No..."
+        },
+        {
+            "key": "040",
+            "value": "In which case, Sterne will live on as a significant pawn to Sadali's designs."
+        },
+        {
+            "key": "041",
+            "value": "Should he claim the ring Mont bears, surely this will come to pass..."
+        },
+        {
+            "key": "042",
+            "value": "......"
+        },
+        {
+            "key": "043",
+            "value": "The king had foreseen this eventuality to be one that we would someday face."
+        },
+        {
+            "key": "044",
+            "value": "Which is why he took care to keep Sterne off the battlefield as to not incur the ire of the surrounding nations."
+        },
+        {
+            "key": "045",
+            "value": "It is to these lengths we must go..."
+        },
+        {
+            "key": "046",
+            "value": "As the guardian of the realm of Leonis..."
+        },
+        {
+            "key": "047",
+            "value": "Guardian...? What is it you mean by this...?"
+        },
+        {
+            "key": "048",
+            "value": "I must now entrust a task upon you all."
+        },
+        {
+            "key": "049",
+            "value": "Make for the archives and burn the ancient tome of Leonis."
+        },
+        {
+            "key": "050",
+            "value": "Ancient tome...?"
+        },
+        {
+            "key": "051",
+            "value": "A text of which even I was only granted brief access to limited sections."
+        },
+        {
+            "key": "052",
+            "value": "Within its pages dwells information of the accord with the Deity and the hidden locations of ancient relics."
+        },
+        {
+            "key": "053",
+            "value": "The accord with...the Deity!?"
+        },
+        {
+            "key": "054",
+            "value": "Does this mean that there are still other ancient relics in existence?"
+        },
+        {
+            "key": "055",
+            "value": "Should that tome find its way into the wretched hands of Sadali...he will attain a power beyond even that of the Deity. "
+        },
+        {
+            "key": "056",
+            "value": "This is why you must destroy it before such a nightmare can come to pass..."
+        },
+        {
+            "key": "057",
+            "value": "......"
+        },
+        {
+            "key": "058",
+            "value": "I am sorry, Your Highness. I cannot heed to this request."
+        },
+        {
+            "key": "059",
+            "value": "Ildyra... Why...?"
+        },
+        {
+            "key": "060",
+            "value": "Would the tome not be the very key to restoring Leonis?"
+        },
+        {
+            "key": "061",
+            "value": "The key to restoring Leonis...?"
+        },
+        {
+            "key": "062",
+            "value": "King Oelde travels for Wezette as we speak, but if we could deliver the tome to him..."
+        },
+        {
+            "key": "063",
+            "value": "It could ensure that King Khury's heart does not stray from Leonis...?"
+        },
+        {
+            "key": "064",
+            "value": "That is correct. This information is as useful as Leonis harboring a number of ancient relics yet unseen, after all."
+        },
+        {
+            "key": "065",
+            "value": "This may not adhere to King Oelde's plan, however..."
+        },
+        {
+            "key": "066",
+            "value": "There is no other way in which we can save King Oelde and Lord Mont..."
+        },
+        {
+            "key": "067",
+            "value": "......"
+        },
+        {
+            "key": "068",
+            "value": "Queen Helena, I implore you!"
+        },
+        {
+            "key": "069",
+            "value": "I, too, am unable to abandon Mont to the wolves."
+        },
+        {
+            "key": "070",
+            "value": "Even should this war be prolonged...I wish to struggle against the tide, for I am a mother..."
+        },
+        {
+            "key": "071",
+            "value": "Ildyra, will you undertake this task?"
+        },
+        {
+            "key": "072",
+            "value": "Of course, Your Highness."
+        },
+        {
+            "key": "073",
+            "value": "Are you truly sure...? It will be an unrelenting task, one which may demand difficult choices..."
+        },
+        {
+            "key": "074",
+            "value": "We are «Lumen», Your Highness's personal guard."
+        },
+        {
+            "key": "075",
+            "value": "We have long been prepared to place our lives on the line."
+        },
+        {
+            "key": "076",
+            "value": "But...if Wezette betrays us before we are able to deliver the ancient tome..."
+        },
+        {
+            "key": "077",
+            "value": "Then you have no choice but to burn it to ashes... Understood?"
+        },
+        {
+            "key": "078",
+            "value": "Yes, we understand."
+        },
+        {
+            "key": "079",
+            "value": "Here is the key to the archives."
+        },
+        {
+            "key": "080",
+            "value": "Can we not free you from your cell and make for the archives together...?"
+        },
+        {
+            "key": "081",
+            "value": "No, I am afraid you cannot."
+        },
+        {
+            "key": "082",
+            "value": "Why, Your Highness...?"
+        },
+        {
+            "key": "083",
+            "value": "Sterne and the rest of «Fortem» seem to be undergoing interrogations in a different location."
+        },
+        {
+            "key": "084",
+            "value": "How could I abandon my sons when they are in peril?"
+        },
+        {
+            "key": "085",
+            "value": "W-well..."
+        },
+        {
+            "key": "086",
+            "value": "I am something of a prisoner by my own desire."
+        },
+        {
+            "key": "087",
+            "value": "......"
+        },
+        {
+            "key": "088",
+            "value": "You need not fear for me. I am undoubtedly of greater value if I am kept alive."
+        },
+        {
+            "key": "089",
+            "value": "Not even Muraga is foolish enough to be oblivious of this fact."
+        },
+        {
+            "key": "090",
+            "value": "...So be it, Your Highness."
+        },
+        {
+            "key": "091",
+            "value": "The castle likely teems with Fennes soldiers now."
+        },
+        {
+            "key": "092",
+            "value": "Make haste to Elsirelle's room."
+        },
+        {
+            "key": "093",
+            "value": "Elsirelle...? Surely even she has fled in the chaos..."
+        },
+        {
+            "key": "094",
+            "value": "No, you shall find her in her room. With her help, you should have little trouble reaching the archives."
+        },
+        {
+            "key": "095",
+            "value": "...Very well. We shall find her."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "PIECE",
+            "value": "Trainieren"
+        },
+        {
+            "key": "REFRESH",
+            "value": "Aktualisieren"
+        },
+        {
+            "key": "ATTACKABLE",
+            "value": "Nur einsatzfähige Einheiten"
+        },
+        {
+            "key": "NOT_ENHANCE_WEAPON",
+            "value": "Du hast keine Ausrüstung, die verbessert werden könnte."
+        }
+    ]
+}

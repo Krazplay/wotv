@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "178",
+            "value": "Ihr habt hervorragende Arbeit geleistet. Hier ist euer Lohn."
+        },
+        {
+            "key": "179",
+            "value": "Puh ... Der Kernkristall war also für die Kampfeslust dieser Monster verantwortlich. Der Job hat mir einiges abverlangt."
+        },
+        {
+            "key": "180",
+            "value": "Entschuldigt. Wir hätten euch alles sagen sollen."
+        },
+        {
+            "key": "181",
+            "value": "Zumindest wurden wir durch die zusätzliche Gefahr auch besser bezahlt. Ende gut, alles gut."
+        },
+        {
+            "key": "182",
+            "value": "Aber das reicht noch nicht. Auf zum nächsten Job."
+        },
+        {
+            "key": "183",
+            "value": "Wie lautet denn der nächste Auftrag?"
+        },
+        {
+            "key": "184",
+            "value": "Der sollte viel einfacher sein als der letzte. Wir müssen nur Material sammeln."
+        },
+        {
+            "key": "185",
+            "value": "Durch den Krieg fehlt es an allen Ecken und Enden an Gegengiften."
+        },
+        {
+            "key": "186",
+            "value": "Unsere Aufgabe lautet, in den Wäldern nach Heilkräutern und Schlangengift zu suchen."
+        },
+        {
+            "key": "187",
+            "value": "Das ist doch mal Arbeit, die man ruhigen Gewissens erledigen kann. Und ich könnte einen Spaziergang gut vertragen. Quasi zwei Fliegen mit einer Klappe!"
+        },
+        {
+            "key": "188",
+            "value": "Im Wald lässt es sich bestimmt gut schlafen, besonders bei dem schönen Wetter."
+        },
+        {
+            "key": "189",
+            "value": "Du arbeitest gefälligst auch."
+        },
+        {
+            "key": "190",
+            "value": "Keine einzige Schlange zu sehen."
+        },
+        {
+            "key": "191",
+            "value": "Kräuter gibt es allerdings jede Menge. Haben sich die Schlangen vielleicht aus Angst vor den Monstern verkrochen?"
+        },
+        {
+            "key": "192",
+            "value": "Nutz die Zeit fürs Meckern lieber zum Suchen, Frischling. Mit genug Einsatz wirst du schon welche finden."
+        },
+        {
+            "key": "193",
+            "value": "Deine Vorgesetzte ist ganz schön streng."
+        },
+        {
+            "key": "194",
+            "value": "Hahaha. Mir fehlt es einfach an Disziplin."
+        },
+        {
+            "key": "195",
+            "value": "Ganz ehrlich, dir fehlt es eher an Selbstvertrauen."
+        },
+        {
+            "key": "196",
+            "value": "Schöne Damen schenken Männern ohne Selbstvertrauen keine Aufmerksamkeit."
+        },
+        {
+            "key": "197",
+            "value": "Wobei Margery anmaßende Männer ebenfalls nicht ausstehen kann."
+        },
+        {
+            "key": "198",
+            "value": "Ach, stei still. Sobald wir Ovis gerettet haben, werde ich für Margery würdig genug sein!"
+        },
+        {
+            "key": "199",
+            "value": "Hm ... Immer noch keine Schlangen in Sicht. Zeit, sich etwas auszuruhen."
+        },
+        {
+            "key": "200",
+            "value": "Oh, ich glaube da ist ein Loch. Da wo du gerade sitzt."
+        },
+        {
+            "key": "201",
+            "value": "Wie?"
+        },
+        {
+            "key": "202",
+            "value": "Ah! Da kommen ja Schlangen raus!"
+        },
+        {
+            "key": "203",
+            "value": "Warum haben die denn hier ihr Nest?"
+        },
+        {
+            "key": "204",
+            "value": "B-Beruhig dich doch! Wenn du sie nicht provozierst, lassen sie dich sicher in Ruhe."
+        },
+        {
+            "key": "205",
+            "value": "Lucio! Da ist eine direkt vor deinen Füßen!"
+        },
+        {
+            "key": "206",
+            "value": "Oha!"
+        },
+        {
+            "key": "207",
+            "value": "Vorsicht!"
+        },
+        {
+            "key": "208",
+            "value": "Du bist ganz schön hart aufgekommen. Alles in Ordnung?"
+        },
+        {
+            "key": "209",
+            "value": "Autsch ... D-Danke. Die Umstände tun mir leid."
+        },
+        {
+            "key": "210",
+            "value": "Es war ja ohnehin meine Schuld."
+        },
+        {
+            "key": "211",
+            "value": "Du hilfst also nicht nur schönen Frauen, wie ich sehe."
+        },
+        {
+            "key": "212",
+            "value": "Ich bin aus einem bestimmten Grund nett zu jedermann."
+        },
+        {
+            "key": "213",
+            "value": "Margery wird von meiner Freundlichkeit sicher bezirzt sein."
+        },
+        {
+            "key": "214",
+            "value": "Du riskierst dein Leben für jemand anderen ... Ein wahrer Gentleman."
+        },
+        {
+            "key": "215",
+            "value": "Was ist passiert? Eben ging es ihm doch noch so gut."
+        },
+        {
+            "key": "216",
+            "value": "Er macht es schon wieder."
+        },
+        {
+            "key": "217",
+            "value": "Natürlich, meine Teuerste. Ich bin der weltweit netteste Gentleman, Retter in jeder Notlage."
+        },
+        {
+            "key": "218",
+            "value": "Mein liebster Camillo. Du bist ein wahrer Gentleman und es wert, meine Hand zu nehmen."
+        },
+        {
+            "key": "219",
+            "value": "Endlich hast du meinen Wert erkannt!"
+        },
+        {
+            "key": "220",
+            "value": "Ja, ich spüre deine heldenhafte Aura. Die kann Mont nicht vorweisen."
+        },
+        {
+            "key": "221",
+            "value": "Recht hast du, meine Liebe. Tritt ein in meine Aura und nicht in die von diesem verbrecherischen Dämonenkönig."
+        },
+        {
+            "key": "222",
+            "value": "Nur in deinen Armen möchte ich liegen, Camillo, nicht in den Armen dieses bösartigen Mannes."
+        },
+        {
+            "key": "223",
+            "value": "Dein Wunsch ist mein Befehl. Diese Arme werden dein Schild sein. Solange ich lebe, soll nichts dir schaden können."
+        },
+        {
+            "key": "224",
+            "value": "Camillo ..."
+        },
+        {
+            "key": "225",
+            "value": "Meine Süße ..."
+        },
+        {
+            "key": "226",
+            "value": "Ah!"
+        },
+        {
+            "key": "227",
+            "value": "Was ist los? Schon fertig mit dem Theater?"
+        },
+        {
+            "key": "228",
+            "value": "I-Ich probe doch nur. Ich will ja vorbereitet sein, wenn Margery meiner Leidenschaft erliegt."
+        },
+        {
+            "key": "229",
+            "value": "Das wird niemals passieren. So langsam sollte dir das klar sein."
+        },
+        {
+            "key": "230",
+            "value": "Doch, das wird es! Margery und ich werden heiraten, warte nur ab."
+        },
+        {
+            "key": "231",
+            "value": "Hm. Solange es nur eine Wahnvorstellung bleibt, kann ich dich wohl gewähren lassen."
+        },
+        {
+            "key": "232",
+            "value": "Ich weiß so etwas zu schätzen."
+        },
+        {
+            "key": "233",
+            "value": "Es ist bewundernswert, dass du dich nicht unterkriegen lässt."
+        },
+        {
+            "key": "234",
+            "value": "Entschuldigt, wenn ich euch unterbreche, aber was machen wir wegen der Schlangen?"
+        },
+        {
+            "key": "235",
+            "value": "Oh, tut mir leid, Lucio. Holen wir uns, was wir brauchen, und melden dann, dass der Job erledigt ist."
+        }
+    ]
+}

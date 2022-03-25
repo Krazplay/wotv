@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Buen trabajo, hermano."
+        },
+        {
+            "key": "002",
+            "value": "Pero si solo he…"
+        },
+        {
+            "key": "003",
+            "value": "Lord Mont, vuestro hermano tiene razón."
+        },
+        {
+            "key": "004",
+            "value": "Ahora es cuestión de aprender a ganar experiencia con el anillo."
+        },
+        {
+            "key": "005",
+            "value": "Ah…, la visión ha desaparecido."
+        },
+        {
+            "key": "006",
+            "value": "Parece que todavía no controlas del todo su poder…"
+        },
+        {
+            "key": "007",
+            "value": "Eso parece, lord Stern."
+        },
+        {
+            "key": "008",
+            "value": "Bueno, va siendo hora de regresar al castillo. El camino de vuelta debería brindarnos más oportunidades para practicar."
+        }
+    ]
+}

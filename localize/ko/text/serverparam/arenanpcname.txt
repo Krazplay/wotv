@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "ARENA_NPC01",
+            "value": "잭"
+        },
+        {
+            "key": "ARENA_NPC02",
+            "value": "실비아"
+        },
+        {
+            "key": "ARENA_NPC03",
+            "value": "헌터"
+        },
+        {
+            "key": "ARENA_NPC04",
+            "value": "블루"
+        },
+        {
+            "key": "ARENA_NPC05",
+            "value": "루시안"
+        },
+        {
+            "key": "ARENA_NPC06",
+            "value": "미스티"
+        },
+        {
+            "key": "ARENA_NPC07",
+            "value": "화이트"
+        },
+        {
+            "key": "ARENA_NPC08",
+            "value": "블랙"
+        },
+        {
+            "key": "ARENA_NPC09",
+            "value": "엔젤"
+        },
+        {
+            "key": "ARENA_NPC10",
+            "value": "키르"
+        },
+        {
+            "key": "ARENA_NPC11",
+            "value": "진"
+        },
+        {
+            "key": "ARENA_NPC12",
+            "value": "센추리"
+        },
+        {
+            "key": "ARENA_NPC13",
+            "value": "갓파더"
+        },
+        {
+            "key": "ARENA_NPC14",
+            "value": "그린"
+        },
+        {
+            "key": "ARENA_NPC15",
+            "value": "김렛"
+        },
+        {
+            "key": "ARENA_NPC16",
+            "value": "보드카"
+        },
+        {
+            "key": "ARENA_NPC17",
+            "value": "옐로우"
+        },
+        {
+            "key": "ARENA_NPC18",
+            "value": "오렌지"
+        },
+        {
+            "key": "ARENA_NPC19",
+            "value": "블로섬"
+        },
+        {
+            "key": "ARENA_NPC20",
+            "value": "자자"
+        }
+    ]
+}

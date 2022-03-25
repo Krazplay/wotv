@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Tu n'as nulle part où t'échapper."
+        },
+        {
+            "key": "002",
+            "value": "M'échapper ? Me fais pas rire !"
+        },
+        {
+            "key": "003",
+            "value": "Le royaume des Leonis est maintenant à moi !"
+        },
+        {
+            "key": "004",
+            "value": "Prince Sterne… Muraga semble être plutôt doué au combat."
+        },
+        {
+            "key": "005",
+            "value": "Je le vois bien. Si je meurs… Prenez soin de mère."
+        },
+        {
+            "key": "006",
+            "value": "Attendez…"
+        },
+        {
+            "key": "007",
+            "value": "Qui… ?"
+        },
+        {
+            "key": "008",
+            "value": "Seigneur Sadali… !"
+        },
+        {
+            "key": "009",
+            "value": "Il a dit Sadali ?"
+        },
+        {
+            "key": "010",
+            "value": "C'est le fondateur de l'Église du Cristal."
+        },
+        {
+            "key": "011",
+            "value": "Laissez-moi régler ce conflit."
+        },
+        {
+            "key": "012",
+            "value": "M-mais…"
+        },
+        {
+            "key": "013",
+            "value": "Eh bien Muraga… ? Avez-vous l'intention de me désobéir ?"
+        },
+        {
+            "key": "014",
+            "value": "..."
+        },
+        {
+            "key": "015",
+            "value": "La vie ne doit pas être gâchée. Est-ce que vous comprenez ?"
+        }
+    ]
+}

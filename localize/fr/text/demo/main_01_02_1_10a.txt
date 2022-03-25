@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ramada... Que disent les étoiles ?"
+        },
+        {
+            "key": "002",
+            "value": "Je n'en sais trop rien... Pas grand-chose."
+        },
+        {
+            "key": "003",
+            "value": "Vous ne voulez pas nous le dire ? Non... Cela signifie sûrement que..."
+        },
+        {
+            "key": "004",
+            "value": "Est-ce que notre unité est condamnée ?"
+        },
+        {
+            "key": "005",
+            "value": "Ce n'est pas ce que je veux dire. Le futur trahit celui qui le connait. C'est pour cela qu'il ne doit pas être révélé."
+        },
+        {
+            "key": "006",
+            "value": "Je ne comprends pas..."
+        },
+        {
+            "key": "007",
+            "value": "Si je venais à dire ici et maintenant que notre retraite sera couronnée de succès... quelles en seraient les conséquences ?"
+        },
+        {
+            "key": "008",
+            "value": "Les soldats seraient peut-être soulagés et deviendraient trop confiants."
+        },
+        {
+            "key": "009",
+            "value": "À l'inverse, si je venais à dire que personne ne sera laissé en vie, ils pourraient perdre courage et fuir avant même que les combats commencent."
+        },
+        {
+            "key": "010",
+            "value": "C'est juste..."
+        },
+        {
+            "key": "011",
+            "value": "Dans un cas comme dans l'autre, connaître ne serait-ce que la moitié de ce que l'avenir vous réserve vous perdrait."
+        },
+        {
+            "key": "012",
+            "value": "Donc vous essayez de nous dire qu'il vaut mieux ne pas savoir ?"
+        },
+        {
+            "key": "013",
+            "value": "Il est souvent préférable de ne rien savoir, oui."
+        },
+        {
+            "key": "014",
+            "value": "Eh bien, allons-y et forgeons nous-mêmes notre futur, d'accord ?"
+        }
+    ]
+}

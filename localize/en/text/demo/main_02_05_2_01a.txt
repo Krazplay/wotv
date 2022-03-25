@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "449",
+            "value": "I can see it. That's the castle of Ovis."
+        },
+        {
+            "key": "450",
+            "value": "In sight it may be, but there is still a ways to go."
+        },
+        {
+            "key": "451",
+            "value": "I guess we are not yet close enough to tell how they fare."
+        },
+        {
+            "key": "452",
+            "value": "I am afraid not, Your Highness."
+        },
+        {
+            "key": "453",
+            "value": "Then we should keep moving."
+        },
+        {
+            "key": "454",
+            "value": "Yes, let us press on."
+        }
+    ]
+}

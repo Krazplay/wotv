@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ha llegado el momento de que nos contéis lo que sabéis."
+        },
+        {
+            "key": "002",
+            "value": "Preguntad."
+        },
+        {
+            "key": "003",
+            "value": "¿Por qué entrasteis en mi reino sin informarme del viaje?"
+        },
+        {
+            "key": "004",
+            "value": "No puedo negar que hemos entrado en Leonis sin permiso, así que dejad que me explique."
+        },
+        {
+            "key": "005",
+            "value": "Mi carruaje iba rumbo a Fennes."
+        },
+        {
+            "key": "006",
+            "value": "¡¿A Fennes?! Sabes que Fennes es nuestro enemigo, ¡¿verdad?!"
+        },
+        {
+            "key": "007",
+            "value": "¿Y a qué se debía el viaje?"
+        },
+        {
+            "key": "008",
+            "value": "A mi boda con Muraga."
+        },
+        {
+            "key": "009",
+            "value": "¡¿Co-cómo?! ¿Que vas a casarte con el rey Muraga de Fennes?"
+        },
+        {
+            "key": "010",
+            "value": "¿A qué viene tanta desilusión?"
+        },
+        {
+            "key": "011",
+            "value": "¿Desilusión?"
+        },
+        {
+            "key": "012",
+            "value": "Vale, vale. Parece que nuestras sospechas no eran infundadas después de todo."
+        },
+        {
+            "key": "013",
+            "value": "No sabíais nada de esta unión, ¿verdad, rey Elde?"
+        },
+        {
+            "key": "014",
+            "value": "Un momento…"
+        },
+        {
+            "key": "015",
+            "value": "Aunque hubierais tenido que atravesar las montañas, podríais haber llegado hasta Fennes sin poner un pie en Leonis."
+        },
+        {
+            "key": "016",
+            "value": "Exactamente."
+        },
+        {
+            "key": "017",
+            "value": "Sin embargo, nuestro cochero eligió esta ruta para evitar toparnos con monstruos. Por eso acabamos entrando en vuestras tierras."
+        },
+        {
+            "key": "018",
+            "value": "Y en ese preciso instante fue cuando los bandidos decidieron atacar… Vaya casualidad, ¿no?"
+        },
+        {
+            "key": "019",
+            "value": "¡Os he contado toda la verdad!"
+        },
+        {
+            "key": "020",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "021",
+            "value": "Vienen más."
+        },
+        {
+            "key": "022",
+            "value": "Padre…"
+        },
+        {
+            "key": "023",
+            "value": "Deberíamos retirarnos antes de que suframos más bajas."
+        },
+        {
+            "key": "024",
+            "value": "Mmm…"
+        },
+        {
+            "key": "025",
+            "value": "Me temo que no puedo tolerarlo."
+        },
+        {
+            "key": "026",
+            "value": "¿Qu-qué estás di…?"
+        },
+        {
+            "key": "027",
+            "value": "No me interesa en absoluto la gente débil."
+        },
+        {
+            "key": "028",
+            "value": "¿La gente débil?…"
+        },
+        {
+            "key": "029",
+            "value": "Mont, parece que le gustas a lady Machérie."
+        },
+        {
+            "key": "030",
+            "value": "¿A la-lady Machérie?…"
+        },
+        {
+            "key": "031",
+            "value": "Muéstrame la fuerza que es capaz de conmover hasta al más duro de los corazones."
+        }
+    ]
+}

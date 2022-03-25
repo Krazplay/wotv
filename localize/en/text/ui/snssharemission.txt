@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "CM_GL_TEST_001_FACEBOOK",
+            "value": "Share this Anniversary video | <split>https://fb.watch/40tf7nGBEM/<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_1_FACEBOOK",
+            "value": "Share this Anniversary video 1 | <split>https://fb.watch/40tf7nGBEM/<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_9_FACEBOOK",
+            "value": "Share this Anniversary video 2 | <split>https://fb.watch/40tf7nGBEM/<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_18_FACEBOOK",
+            "value": "Share this Anniversary video 3 | <split>https://fb.watch/40tf7nGBEM/<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_27_FACEBOOK",
+            "value": "Share this Anniversary video 4 | <split>https://fb.watch/40tf7nGBEM/<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_TEST_001_TWITTER",
+            "value": "Share this Anniversary video | <split>https://twitter.com/SobenToma/status/1370271511836196867<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_1_TWITTER",
+            "value": "Share this Anniversary video 1 | <split>https://twitter.com/SobenToma/status/1370271511836196867<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_9_TWITTER",
+            "value": "Share this Anniversary video 2 | <split>https://twitter.com/SobenToma/status/1370271511836196867<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_18_TWITTER",
+            "value": "Share this Anniversary video 3 | <split>https://twitter.com/SobenToma/status/1370271511836196867<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_GL_PRO_SNS_27_TWITTER",
+            "value": "Share this Anniversary video 4 | <split>https://twitter.com/SobenToma/status/1370271511836196867<split>#WOTVFFBE_{SERIALCODE}"
+        },
+        {
+            "key": "CM_PRO_306_TWITTER",
+            "value": "NieR:Automata collaboration on now. <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_307_TWITTER",
+            "value": "NieR:Automata collaboration on now <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_315_TWITTER",
+            "value": "NieR:Automata collaboration on now! <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_2B_09_TWITTER",
+            "value": "NieR:Automata collaboration on now! <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_9S_09_TWITTER",
+            "value": "Long-awaited NieR:Automata collaboration on now. <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_V_NIER_MV1_09_TWITTER",
+            "value": "Long-awaited NieR:Automata collaboration on now! <split> https://twitter.com/wotvffbe/status/1384099460347613187 <split>"
+        },
+        {
+            "key": "CM_PRO_GL_FF6_01_TWITTER",
+            "value": "FFVI collaboration on now! <br>Acquire Locke for free!<br>Play now at https://wotvffbeww.onelink.me/QN78/SNS<split>https://twitter.com/wotvffbe/status/1505816481354989569<split>WOTVFFBE"
+        }
+    ]
+}

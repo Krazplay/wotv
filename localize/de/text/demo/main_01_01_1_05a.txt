@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Noch mehr Verstärkung ..."
+        },
+        {
+            "key": "002",
+            "value": "Wie es aussieht, werden sie nicht ruhen, solange ich am Leben bin."
+        },
+        {
+            "key": "003",
+            "value": "So leidenschaftlich hat man mir noch nie nachgestellt."
+        },
+        {
+            "key": "004",
+            "value": "Nachgestellt ...?"
+        },
+        {
+            "key": "005",
+            "value": "König Yrde. Wenn das so weitergeht ..."
+        },
+        {
+            "key": "006",
+            "value": "Der Feind lässt nicht ab. Uns bleibt keine Wahl, als ihm gebührend Kontra zu geben."
+        },
+        {
+            "key": "007",
+            "value": "Du meinst damit den Ring, nicht wahr?"
+        },
+        {
+            "key": "008",
+            "value": "... Ring?"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "El informe no se equivocaba… No hay ni un soldado de Fennes a la vista."
+        },
+        {
+            "key": "002",
+            "value": "¿Ves algo, Federica?"
+        },
+        {
+            "key": "003",
+            "value": "¡Nada, cariño!"
+        },
+        {
+            "key": "004",
+            "value": "No me llames así."
+        },
+        {
+            "key": "005",
+            "value": "Aparte de los soldados de Fennes, tampoco se ve a Muraga ni a ninguno de sus súbditos por ninguna parte."
+        },
+        {
+            "key": "006",
+            "value": "Aquí no hay nadie. Ni el ninja de Gouga, ni Dorand, ni tampoco Gargas…"
+        },
+        {
+            "key": "007",
+            "value": "Eh, nos hayamos en territorio enemigo…"
+        },
+        {
+            "key": "008",
+            "value": "Intentar regresar a Santocristal sin escolta es una negligencia."
+        },
+        {
+            "key": "009",
+            "value": "¿Dónde está Sadali?"
+        },
+        {
+            "key": "010",
+            "value": "Mmm… ¿Dónde estará?…"
+        },
+        {
+            "key": "011",
+            "value": "¡Ah! ¡Lo he encontrado! Estaba ahí detrás todo este tiempo…"
+        },
+        {
+            "key": "012",
+            "value": "Buen trabajo, Federica…"
+        },
+        {
+            "key": "013",
+            "value": "¡Je, je! Por qué no me das un besito de recompensa, ¿eh?"
+        },
+        {
+            "key": "014",
+            "value": "No recuerdo haberte ofrecido ninguna recompensa…"
+        },
+        {
+            "key": "015",
+            "value": "¡Jum!"
+        },
+        {
+            "key": "016",
+            "value": "Conque hasta aquí llegan los infortunios de Sadali, ¿eh?"
+        },
+        {
+            "key": "017",
+            "value": "Esparcid las cenizas de estas sabandijas de Santocristal en el aire y seguid marchando."
+        },
+        {
+            "key": "018",
+            "value": "¡Nuestro objetivo es cortarle la cabeza a Sadali!"
+        },
+        {
+            "key": "019",
+            "value": "¡Je, je! ¡Me muero de ganas!"
+        }
+    ]
+}

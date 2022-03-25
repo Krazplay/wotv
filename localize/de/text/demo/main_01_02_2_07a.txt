@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ich verstehe ..."
+        },
+        {
+            "key": "002",
+            "value": "Um König Robb zu erreichen, muss ich erst durch diese Linie brechen."
+        },
+        {
+            "key": "003",
+            "value": "..."
+        },
+        {
+            "key": "004",
+            "value": "Mir bleibt keine andere Wahl."
+        }
+    ]
+}

@@ -1,0 +1,312 @@
+﻿{
+    "infos": [
+        {
+            "key": "147",
+            "value": "It is too quiet... Did the animals sense the monster swarm and flee before it arrives?"
+        },
+        {
+            "key": "148",
+            "value": "We must hurry. We cannot let a single one of these villagers die this day."
+        },
+        {
+            "key": "149",
+            "value": "...!?"
+        },
+        {
+            "key": "150",
+            "value": "A-a person!"
+        },
+        {
+            "key": "151",
+            "value": "I know you not. What are you doing out here?"
+        },
+        {
+            "key": "152",
+            "value": "N-nothing bad, I promise! We're not suspicious at all!"
+        },
+        {
+            "key": "153",
+            "value": "You know, saying that just makes us look even more suspicious."
+        },
+        {
+            "key": "154",
+            "value": "Lord Velis! Stop acting like this isn't your problem and say something!"
+        },
+        {
+            "key": "155",
+            "value": "Fine... Hail and well met. Did you fellows happen to see a mob of monsters?"
+        },
+        {
+            "key": "156",
+            "value": "A mob of monsters?"
+        },
+        {
+            "key": "157",
+            "value": "Right. One big ugly brute, and a score or so of smaller ones. They may have passed this way..."
+        },
+        {
+            "key": "158",
+            "value": "Then you do not hail from Fennes?"
+        },
+        {
+            "key": "159",
+            "value": "Fennes? ...Oh, I see. No, no. We're just mercenaries on the road."
+        },
+        {
+            "key": "160",
+            "value": "We're chasing down a monster that's made off with something fairly important to us."
+        },
+        {
+            "key": "161",
+            "value": "...A monster that is part of a bigger swarm."
+        },
+        {
+            "key": "162",
+            "value": "Exactly. I don't suppose you've seen what we're hunting?"
+        },
+        {
+            "key": "163",
+            "value": "It appears our goals are aligned. We are on our way to evacuate local villagers before the swarm sets upon them."
+        },
+        {
+            "key": "164",
+            "value": "Oh? Something tells me that you're more than just a random fellow with a heart of gold..."
+        },
+        {
+            "key": "165",
+            "value": "Apologies. I failed to introduce myself. My name is Mont Leonis."
+        },
+        {
+            "key": "166",
+            "value": "Our troops delivered a report..."
+        },
+        {
+            "key": "167",
+            "value": "...And so here I am."
+        },
+        {
+            "key": "168",
+            "value": "The villagers' lives are in danger... Argh, I think it may partly be our fault."
+        },
+        {
+            "key": "169",
+            "value": "How so?"
+        },
+        {
+            "key": "170",
+            "value": "Well, er... Lord Velis, should we...?"
+        },
+        {
+            "key": "171",
+            "value": "We have nothing to hide. It won't do any harm to tell the truth."
+        },
+        {
+            "key": "172",
+            "value": "The consequences are on me. Ranan always finds something to lecture me about, so I'm well used to it by now."
+        },
+        {
+            "key": "173",
+            "value": "Th-thank you."
+        },
+        {
+            "key": "174",
+            "value": "Well then, allow me to explain. We're here to recover something called a Core Crystal..."
+        },
+        {
+            "key": "175",
+            "value": "So, you are Warriors of the Crystals...journeying in this world on a quest to recover another Core Crystal."
+        },
+        {
+            "key": "176",
+            "value": "It would've been safely in our possession, except an oversized behemoth swallowed it first."
+        },
+        {
+            "key": "177",
+            "value": "The magic of the Core Crystal gave the monster extra strength, and it was too much for us to handle."
+        },
+        {
+            "key": "178",
+            "value": "We were just debating what to do, when we happened to run into your band of men."
+        },
+        {
+            "key": "179",
+            "value": "We're very sorry for causing trouble, and for putting the lives of your people at risk."
+        },
+        {
+            "key": "180",
+            "value": "You have no reason to apologize. We have been remiss in letting those monsters roam free for so long."
+        },
+        {
+            "key": "181",
+            "value": "However, if what you say is true, then we must act with haste."
+        },
+        {
+            "key": "182",
+            "value": "The villagers must be evacuated before the monster mob reaches them."
+        },
+        {
+            "key": "183",
+            "value": "...Let us help you."
+        },
+        {
+            "key": "184",
+            "value": "As the ones who let the monster get away, we owe it to you and the people of Leonis to set this right."
+        },
+        {
+            "key": "185",
+            "value": "We have a moral duty to make sure no innocent people are harmed by our presence here."
+        },
+        {
+            "key": "186",
+            "value": "We're heading the same way anyway. Safety in numbers, as they say."
+        },
+        {
+            "key": "187",
+            "value": "I accept your proposal, gladly. I would have suggested the same, had you not spoken first."
+        },
+        {
+            "key": "188",
+            "value": "Lucio, Velis. Lend me your blades, and together we shall save my people."
+        },
+        {
+            "key": "189",
+            "value": "Yes, sir! It is an honor to join you!"
+        },
+        {
+            "key": "190",
+            "value": "Well, as long as you only expect me to even the headcount and little else, I think this will work."
+        },
+        {
+            "key": "191",
+            "value": "I think everyone can tell you are more than just a lazy warrior. We're all counting on you."
+        },
+        {
+            "key": "192",
+            "value": "Patronized by a new recruit! This day just keeps finding ways to get worse and worse."
+        },
+        {
+            "key": "193",
+            "value": "Now let us make haste."
+        },
+        {
+            "key": "194",
+            "value": "Yes, sir!"
+        },
+        {
+            "key": "195",
+            "value": "Er... Lord Mont? You're a prince, is that right?"
+        },
+        {
+            "key": "196",
+            "value": "Yes, though sometimes I don't feel like one with Father constantly rebuking me for being foolish and weak."
+        },
+        {
+            "key": "197",
+            "value": "But even so, that means you'll be a king one day, doesn't it?"
+        },
+        {
+            "key": "198",
+            "value": "I wonder... My younger brother is a better fit for the throne, I'd say."
+        },
+        {
+            "key": "199",
+            "value": "But whether or not I become king, my dream is to build bridges with other lands, and make Leonis a nation that is a friend to all."
+        },
+        {
+            "key": "200",
+            "value": "A nation that stands side by side with the other great houses, not across from them on a battlefield."
+        },
+        {
+            "key": "201",
+            "value": "A country that never does harm... I think that's a wonderful dream."
+        },
+        {
+            "key": "202",
+            "value": "...You do? Most people scoff to hear it, and tell me I'm naive―if they're not too busy laughing, that is."
+        },
+        {
+            "key": "203",
+            "value": "Building a world without war, where everyone lives in peace... I can't think of anything better."
+        },
+        {
+            "key": "204",
+            "value": "It is truly heartening to hear that, even if few others share your opinion."
+        },
+        {
+            "key": "205",
+            "value": "...On my last journey, I went to a country gripped by tyranny, and saw what that meant with my own eyes."
+        },
+        {
+            "key": "206",
+            "value": "The people there had no hope, their spirits were crushed, and because of war, they had nowhere to flee."
+        },
+        {
+            "key": "207",
+            "value": "But it doesn't have to be like that, especially if someone like you wears the crown."
+        },
+        {
+            "key": "208",
+            "value": "I want to see nations like the one you dream of building."
+        },
+        {
+            "key": "209",
+            "value": "...Then I shall do all in my power to make it so."
+        },
+        {
+            "key": "210",
+            "value": "You shouldn't doubt yourself, you know. About being a king, I mean."
+        },
+        {
+            "key": "211",
+            "value": "I've learned that the strongest people are those who care about the happiness of others."
+        },
+        {
+            "key": "212",
+            "value": "...I appreciate that. It was a kind twist of fate, us meeting here."
+        },
+        {
+            "key": "213",
+            "value": "I-I'm sorry to speak frankly. I shouldn't be so familiar with a royal prince, especially not in his own lands."
+        },
+        {
+            "key": "214",
+            "value": "I guess I just felt that we see the world in the same way, so I couldn't help myself..."
+        },
+        {
+            "key": "215",
+            "value": "You have naught to apologize for."
+        },
+        {
+            "key": "216",
+            "value": "You didn't laugh nor scoff. Perhaps we truly do see things in the same way."
+        },
+        {
+            "key": "217",
+            "value": "...Thank you, Mont."
+        },
+        {
+            "key": "218",
+            "value": "M-my lord, a report!"
+        },
+        {
+            "key": "219",
+            "value": "The monster swarm is in the woods near the village! It's growing in size and headed straight for the village!"
+        },
+        {
+            "key": "220",
+            "value": "They're moving faster than I thought. Tell the scouts to keep tracking them."
+        },
+        {
+            "key": "221",
+            "value": "Yes, my lord!"
+        },
+        {
+            "key": "222",
+            "value": "Let's make haste, Lucio. We need to reach the village before it's too late."
+        },
+        {
+            "key": "223",
+            "value": "Understood! We can't let those villagers come to harm!"
+        }
+    ]
+}

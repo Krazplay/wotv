@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Sind das ...?!"
+        },
+        {
+            "key": "002",
+            "value": "Selbst zu zweit hatten sie keine Chance gegen <br>ihn ..."
+        },
+        {
+            "key": "003",
+            "value": "Da bist du ja endlich, meine Liebe!"
+        },
+        {
+            "key": "004",
+            "value": "Komm, fleh um dein Leben! Sag mir, dass du es nicht erwarten kannst, mir einen Sohn zu gebären!"
+        },
+        {
+            "key": "005",
+            "value": "Tu es ... und vielleicht zeig ich Gnade und bring dich nicht um."
+        },
+        {
+            "key": "006",
+            "value": "Ekelhaft. Du widerst mich an."
+        },
+        {
+            "key": "007",
+            "value": "Ekelhaft? Ich? Dann verrecke, so wie all die anderen auch!"
+        },
+        {
+            "key": "008",
+            "value": "Luchs!"
+        },
+        {
+            "key": "009",
+            "value": "Was zur ...?!"
+        },
+        {
+            "key": "010",
+            "value": "Guarrr, eine Rauchbombe ..."
+        },
+        {
+            "key": "011",
+            "value": "Gewürm!"
+        },
+        {
+            "key": "012",
+            "value": "Dachtest du, ich wäre unvorbereitet hierhergekommen? Das hier ist Runde zwei!"
+        },
+        {
+            "key": "013",
+            "value": "Feige Würmer! Wir werden uns wiedersehen!"
+        },
+        {
+            "key": "014",
+            "value": "Und dann werdet ihr mir hierfür mit Blut bezahlen!"
+        }
+    ]
+}

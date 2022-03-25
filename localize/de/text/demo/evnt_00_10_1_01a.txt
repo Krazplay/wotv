@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Wir haben Elsirelles Gemach erreicht."
+        },
+        {
+            "key": "002",
+            "value": "..."
+        },
+        {
+            "key": "003",
+            "value": "... Keine Antwort."
+        },
+        {
+            "key": "004",
+            "value": "Das Schloss ist mittlerweile ein reines <br>Schlachtfeld ... Da kann sie sich unmöglich in ihrem Zimmer aufhalten ..."
+        },
+        {
+            "key": "005",
+            "value": "Ich habe allerdings schon öfter gehört, dass Elsirelle sich in ihrem Schlaf von nichts und niemandem stören lässt ..."
+        },
+        {
+            "key": "006",
+            "value": "... Gehen wir rein und sehen nach."
+        },
+        {
+            "key": "007",
+            "value": "Sie schläft ja wirklich ..."
+        },
+        {
+            "key": "008",
+            "value": "Da-Das ist doch unfassbar ..."
+        },
+        {
+            "key": "009",
+            "value": "Elsirelle, aufwachen!"
+        },
+        {
+            "key": "010",
+            "value": "Chr ... Chr ..."
+        },
+        {
+            "key": "011",
+            "value": "Es hat keinen Zweck. Die wacht so schnell nicht auf ..."
+        },
+        {
+            "key": "012",
+            "value": "...!!"
+        },
+        {
+            "key": "013",
+            "value": "Oh nein ..."
+        },
+        {
+            "key": "014",
+            "value": "Uns kam die offenstehende Tür komisch vor, und siehe da!"
+        },
+        {
+            "key": "015",
+            "value": "Haben wir doch gleich ein paar Ratten auf frischer Tat ertappt!"
+        },
+        {
+            "key": "016",
+            "value": "Wir haben keine Wahl – wir kämpfen ohne Elsirelle."
+        },
+        {
+            "key": "017",
+            "value": "Wenn sie sich nicht bald dazu herablässt, aufzuwachen, könnte das ... unschön enden."
+        },
+        {
+            "key": "018",
+            "value": "Dabei sollten Ritter doch die Beschützer sein, und nicht umgekehrt ..."
+        }
+    ]
+}

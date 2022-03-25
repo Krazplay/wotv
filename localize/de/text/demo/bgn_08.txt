@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Dies ist eine gute Gelegenheit, um mit Euch über <color=#0000ff>Agilität und die Aktionsreihenfolge</color> zu sprechen."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Kiton – die Ninja, die dieses Mal am Kampfgeschehen teilnimmt – ist für ihre flinken Bewegungen bekannt."
+        },
+        {
+            "key": "003",
+            "value": "Einheiten mit einem hohen Agilitätswert sind in der Lage, <color=#0000ff>schneller</color> zu handeln als andere, und sie kommen nach Ausführen besagter Aktion auch wieder <color=#0000ff>schneller an die Reihe</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Der Oger dort im hinteren Bereich ist zwar ein starkes Monster, aber auch ein sehr langsames. Lasst uns Kiton befehlen, sich ihm rasch zu nähern."
+        },
+        {
+            "key": "005",
+            "value": "Sobald Kiton ihn erreicht hat, ist es besser, sie <color=#0000ff>keine Aktionen</color> (wie Angriff oder das Aktivieren von Fähigkeiten) ausführen zu lassen, sondern sie lediglich in <color=#0000ff>Bereitschaftszustand</color> zu versetzen."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "006",
+            "value": "Ihr seid <color=#0000ff>schneller</color> wieder in der Lage, eine Aktion auszuführen, wenn Ihr Euch <color=#0000ff>nur bewegt</color> und dann wartet, <color=#0000ff>nur angreift</color> und dann wartet, oder <color=#0000ff>keinerlei Aktion ausführt</color> und dann wartet, als wenn ihr dem Muster „Bewegung plus Angriff“ folgt."
+        },
+        {
+            "key": "007",
+            "value": "Versucht nun, so schnell es geht mit Kiton an den Oger heranzukommen und ihn mit ihren <color=#0000ff>angriffsorientierten Fähigkeiten</color> zur Strecke zu bringen."
+        },
+        {
+            "key": "008",
+            "value": "In der Zwischenzeit werden Euer Hoheit und ich uns um die Wölfe in der Umgebung kümmern."
+        }
+    ]
+}

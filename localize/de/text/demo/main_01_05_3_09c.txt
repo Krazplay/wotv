@@ -1,0 +1,12 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Du hast lange genug warten müssen, Mont ..."
+        },
+        {
+            "key": "002",
+            "value": "Doch jetzt ... bist du an der Reihe!"
+        }
+    ]
+}

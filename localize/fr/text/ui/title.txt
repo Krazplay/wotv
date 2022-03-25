@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "TITLE_START",
+            "value": "<cspace=2.5>APPUYEZ POUR COMMENCER"
+        },
+        {
+            "key": "TITLE_DATA",
+            "value": "Données"
+        },
+        {
+            "key": "TITLE_SUPPORT",
+            "value": "Aide"
+        },
+        {
+            "key": "TITLE_VERSION",
+            "value": "Ver."
+        },
+        {
+            "key": "TITLE_ID",
+            "value": "Identifiant :"
+        },
+        {
+            "key": "TITLE_COPYRIGHT",
+            "value": "<line-height=15>© SQUARE ENIX CO., LTD. All Rights Reserved. Co-Developed by gumi Inc.<br>LOGO ILLUSTRATION: © 2018 YOSHITAKA AMANO<br>IMAGE ILLUSTRATION: ISAMU KAMIKOKURYO"
+        },
+        {
+            "key": "TITLE_SUPPORT_TITLE",
+            "value": "Aide"
+        },
+        {
+            "key": "TITLE_SUPPORT_NEWS",
+            "value": "Annonces"
+        },
+        {
+            "key": "TITLE_SUPPORT_HELP",
+            "value": "FAQ"
+        },
+        {
+            "key": "TITLE_SUPPORT_CONTACT",
+            "value": "Nous contacter"
+        },
+        {
+            "key": "TITLE_DATA_TITLE",
+            "value": "Données"
+        },
+        {
+            "key": "TITLE_DATA_CONNECT",
+            "value": "Transfert de données"
+        },
+        {
+            "key": "TITLE_DATA_DELETE",
+            "value": "Supprimer les données téléchargées"
+        },
+        {
+            "key": "TITLE_ACOUNT_DELETE",
+            "value": "Supprimer un compte"
+        },
+        {
+            "key": "WW_TITLE_COPYRIGHT",
+            "value": "<line-height=15>© 2019-2022 SQUARE ENIX CO., LTD. All Rights Reserved. Co-Developed by gumi Inc.<br>LOGO ILLUSTRATION: © 2018 YOSHITAKA AMANO<br>IMAGE ILLUSTRATION: ISAMU KAMIKOKURYO"
+        }
+    ]
+}

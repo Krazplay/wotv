@@ -1,0 +1,2332 @@
+﻿{
+    "infos": [
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact.001",
+            "value": "武具：金屬殺手"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.003",
+            "value": "上市紀念：啟程禮包III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.002.01",
+            "value": "上市紀念：啟程禮包II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.001",
+            "value": "上市紀念：啟程禮包I"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_booster.001",
+            "value": "體力加速禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_cg.001",
+            "value": "體力&金幣龜禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.001",
+            "value": "兵員覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_awaken.001",
+            "value": "召喚獸覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.001",
+            "value": "每週陸行鳥禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.001",
+            "value": "兵員強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_exp.001",
+            "value": "武具強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.001",
+            "value": "召喚獸強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.001",
+            "value": "幻兵卡強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.001",
+            "value": "每日體力禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.001",
+            "value": "「免費石增量」幻導石禮包A"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.002",
+            "value": "「免費石增量」幻導石禮包B"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.003",
+            "value": "「免費石增量」幻導石禮包C"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.004",
+            "value": "「免費石增量」幻導石禮包D"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.005",
+            "value": "「免費石增量」幻導石禮包E"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.006",
+            "value": "「免費石增量」幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.007",
+            "value": "「免費石增量」幻導石禮包G"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.001",
+            "value": "幻導石禮包A"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.002",
+            "value": "幻導石禮包B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.003",
+            "value": "幻導石禮包C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.004",
+            "value": "幻導石禮包D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.005",
+            "value": "幻導石禮包E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.006",
+            "value": "幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.007.01",
+            "value": "幻導石禮包G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.004",
+            "value": "每月覺醒禮包：火"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.005",
+            "value": "每月覺醒禮包：水"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.006",
+            "value": "每月覺醒禮包：風"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.007",
+            "value": "每月覺醒禮包：雷"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.008",
+            "value": "每月覺醒禮包：冰"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.009",
+            "value": "每月覺醒禮包：土"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.010",
+            "value": "每月覺醒禮包：光"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.011",
+            "value": "每月覺醒禮包：暗"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_01.rew",
+            "value": "稀有召喚券"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_02.rew",
+            "value": "稀有10連召喚券"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_05.rew",
+            "value": "幻導石 x 100"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_03.rew",
+            "value": "幻導石 x 640"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_04.rew",
+            "value": "幻導石 x 1,350"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.009",
+            "value": "【聯動紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.010",
+            "value": "【聯動紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.011",
+            "value": "【聯動紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.012",
+            "value": "【聯動紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.003",
+            "value": "「聯動紀念」彩虹覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.001",
+            "value": "幻兵卡：職業水晶"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.daily.001",
+            "value": "每日幻導石禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.012",
+            "value": "每月彩虹覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.001",
+            "value": "武具育成【攻】禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.002",
+            "value": "武具育成【魔】禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.003",
+            "value": "武具育成【命】禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.001",
+            "value": "極限技強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.001",
+            "value": "武具能力強化禮包"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.001",
+            "value": "30天幻導石禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.006",
+            "value": "啟程禮包III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.005",
+            "value": "啟程禮包II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.004",
+            "value": "啟程禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "FF EXVIUS幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "FF EXVIUS幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "FF EXVIUS幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "FF EXVIUS幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "FF EXVIUS幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "FF EXVIUS幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "FFI 每日曙光禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "FFI 曙光禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.003",
+            "value": "兵員強化超級禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.003",
+            "value": "幻兵卡強化超級禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.015",
+            "value": "兵員覺醒超級禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.001",
+            "value": "金幣龜禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.014",
+            "value": "聯動紀念彩虹覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.003",
+            "value": "夏日3倍陸行鳥禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.019",
+            "value": "【聯動紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.020",
+            "value": "【聯動紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.021",
+            "value": "【聯動紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.022",
+            "value": "【聯動紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.023",
+            "value": "【聯動紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.024",
+            "value": "【聯動紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "任務挑戰優待證"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "兵員育成優待證"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "武具育成優待證"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.016",
+            "value": "聯動紀念彩虹覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.025",
+            "value": "【聯動紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.026",
+            "value": "【聯動紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.027",
+            "value": "【聯動紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.028",
+            "value": "【聯動紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.029",
+            "value": "【聯動紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.030",
+            "value": "【聯動紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst.001",
+            "value": "極限技強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability.001",
+            "value": "武具能力強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.001",
+            "value": "UR兵員的拼圖每日禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.002",
+            "value": "UR兵員的拼圖特別禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.001",
+            "value": "劇情跳過券禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.003",
+            "value": "活動跳過券禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.001",
+            "value": "跳過券特別禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.031",
+            "value": "【限定】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.032",
+            "value": "【限定】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.033",
+            "value": "【限定】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.034",
+            "value": "【限定】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.035",
+            "value": "【限定】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.036",
+            "value": "【限定】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.008",
+            "value": "幻導石禮包B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.009",
+            "value": "幻導石禮包C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.010",
+            "value": "幻導石禮包D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.011",
+            "value": "幻導石禮包E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.012",
+            "value": "幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.013",
+            "value": "幻導石禮包G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.001",
+            "value": "MyCard上線紀念禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.037",
+            "value": "【限定】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.038",
+            "value": "【限定】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.039",
+            "value": "【限定】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.040",
+            "value": "【限定】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.041",
+            "value": "【限定】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.042",
+            "value": "【限定】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.043",
+            "value": "【限定】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.008",
+            "value": "「免費石增量」幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.014",
+            "value": "幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.044",
+            "value": "【聯動紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.045",
+            "value": "【聯動紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.046",
+            "value": "【聯動紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.047",
+            "value": "【聯動紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.048",
+            "value": "【聯動紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.049",
+            "value": "【聯動紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.050",
+            "value": "【聯動紀念】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.002",
+            "value": "黑色星期五幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.003",
+            "value": "黑色星期五幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.004",
+            "value": "黑色星期五獎牌禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.005",
+            "value": "黑色星期五兵員覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.006",
+            "value": "黑色星期五幻兵卡育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.007",
+            "value": "黑色星期五召喚獸育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.008",
+            "value": "黑色星期五陸行鳥禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.009",
+            "value": "黑色星期五彩虹禮包"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.002",
+            "value": "【限定】30天超值禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.051",
+            "value": "【國際慶典紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.052",
+            "value": "【國際慶典紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.053",
+            "value": "【國際慶典紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.054",
+            "value": "【國際慶典紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.055",
+            "value": "【國際慶典紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.056",
+            "value": "【國際慶典紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.057",
+            "value": "【國際慶典紀念】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.010",
+            "value": "冬日佳節幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.011",
+            "value": "冬日佳節幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.012",
+            "value": "國際慶典獎牌禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.013",
+            "value": "冬日佳節兵員覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.014",
+            "value": "冬日佳節幻兵卡育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.015",
+            "value": "冬日佳節召喚獸育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.016",
+            "value": "冬日佳節陸行鳥禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.017",
+            "value": "冬日佳節彩虹禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.058",
+            "value": "【2021新年紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.059",
+            "value": "【2021新年紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.060",
+            "value": "【2021新年紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.061",
+            "value": "【2021新年紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.062",
+            "value": "【2021新年紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.063",
+            "value": "【2021新年紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.064",
+            "value": "【2021新年紀念】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.065",
+            "value": "【2021冬日尾聲紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.066",
+            "value": "【2021冬日尾聲紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.067",
+            "value": "【2021冬日尾聲紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.068",
+            "value": "【2021冬日尾聲紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.069",
+            "value": "【2021冬日尾聲紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.070",
+            "value": "【2021冬日尾聲紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.071",
+            "value": "【2021冬日尾聲紀念】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_egg.001",
+            "value": "JP加速禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_egg.002",
+            "value": "每日鵝卵石禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.001",
+            "value": "【體驗】指引JP的鑰匙禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.002",
+            "value": "每月指引JP的鑰匙禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.018",
+            "value": "2021冬日尾聲幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.019",
+            "value": "2021冬日尾聲幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.020",
+            "value": "2021冬日尾聲獎牌禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.021",
+            "value": "2021冬日尾聲兵員覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.022",
+            "value": "2021冬日尾聲幻兵卡育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.023",
+            "value": "2021冬日尾聲召喚獸育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.024",
+            "value": "2021冬日尾聲陸行鳥禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.025",
+            "value": "2021冬日尾聲彩虹禮包"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.001",
+            "value": "【每週】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.002",
+            "value": "【每週】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.003",
+            "value": "【每週】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.003",
+            "value": "每月幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.002",
+            "value": "每月幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.001",
+            "value": "每月幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.004",
+            "value": "豪華優待證"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.003",
+            "value": "【1週年紀念】30天超值禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.072",
+            "value": "【1週年紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.073",
+            "value": "【1週年紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.074",
+            "value": "【1週年紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.075",
+            "value": "【1週年紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.076",
+            "value": "【1週年紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.077",
+            "value": "【1週年紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.078",
+            "value": "【1週年紀念】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.001",
+            "value": "EX職業禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.002",
+            "value": "焦印石禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.003",
+            "value": "屬性之輝石像禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.004",
+            "value": "武具育成【防】禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.005",
+            "value": "武具育成【精】禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.006",
+            "value": "武具育成【攻】禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.007",
+            "value": "武具育成【魔】禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.026",
+            "value": "【1週年紀念】幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.027",
+            "value": "【1週年紀念】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.007",
+            "value": "特別啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.028",
+            "value": "【1週年紀念】EX職業禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.029",
+            "value": "1週年獎牌禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.030",
+            "value": "【1週年紀念】兵員覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.031",
+            "value": "【1週年紀念】幻兵卡育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.032",
+            "value": "【1週年紀念】召喚獸育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.033",
+            "value": "【1週年紀念】陸行鳥禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.034",
+            "value": "【1週年紀念】彩虹禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.079",
+            "value": "【NieR聯動紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.080",
+            "value": "【NieR聯動紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.081",
+            "value": "【NieR聯動紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.082",
+            "value": "【NieR聯動紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.083",
+            "value": "【NieR聯動紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.084",
+            "value": "【NieR聯動紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.085",
+            "value": "【NieR聯動紀念】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.002",
+            "value": "跳過券特別禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.035",
+            "value": "【NieR聯動紀念】幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.036",
+            "value": "【NieR聯動紀念】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.037",
+            "value": "【NieR聯動紀念】NieR碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.008",
+            "value": "【NieR聯動紀念】特別啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.038",
+            "value": "【NieR聯動紀念】EX職業禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.039",
+            "value": "【NieR聯動紀念】2021春日獎牌禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.040",
+            "value": "【NieR聯動紀念】兵員覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.041",
+            "value": "【NieR聯動紀念】幻兵卡育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.042",
+            "value": "【NieR聯動紀念】召喚獸育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.043",
+            "value": "【NieR聯動紀念】陸行鳥禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.044",
+            "value": "【NieR聯動紀念】彩虹禮包"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.004",
+            "value": "【時限特惠】30天超值禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.086",
+            "value": "【時限特惠】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.087",
+            "value": "【時限特惠】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.088",
+            "value": "【時限特惠】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.089",
+            "value": "【時限特惠】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.090",
+            "value": "【時限特惠】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.091",
+            "value": "【時限特惠】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.092",
+            "value": "【時限特惠】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.visiore.001",
+            "value": "【啟程】幻導石禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.comeback.001",
+            "value": "【回歸】自選1名UR等級99兵員特價禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.001",
+            "value": "【時限特惠】兵員育成必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.001",
+            "value": "【時限特惠】幻兵卡/召喚獸育成必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.001",
+            "value": "【時限特惠】素材收集必備支援禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.045",
+            "value": "【時限特惠】武具強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.046",
+            "value": "【時限特惠】彩虹禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.047",
+            "value": "【時限特惠】召喚獸強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.048",
+            "value": "【時限特惠】EX職業禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.049",
+            "value": "【時限特惠】幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.050",
+            "value": "【時限特惠】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.051",
+            "value": "【時限特惠】特別啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.052",
+            "value": "【時限特惠】兵員覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.053",
+            "value": "【時限特惠】幻兵卡育成禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.054",
+            "value": "【時限特惠】陸行鳥禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.055",
+            "value": "【時限特惠】彩虹禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.093",
+            "value": "【國際慶典第3波】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.094",
+            "value": "【國際慶典第3波】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.095",
+            "value": "【國際慶典第3波】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.096",
+            "value": "【國際慶典第3波】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.097",
+            "value": "【國際慶典第3波】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.098",
+            "value": "【國際慶典第3波】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.099",
+            "value": "【國際慶典第3波】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.056",
+            "value": "【國際慶典第3波】不死身的扎贊的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.057",
+            "value": "【國際慶典第3波】杜安的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.058",
+            "value": "【國際慶典第3波】弗雷比亞的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.100",
+            "value": "【2021夏日】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.101",
+            "value": "【2021夏日】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.102",
+            "value": "【2021夏日】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.103",
+            "value": "【2021夏日】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.104",
+            "value": "【2021夏日】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.105",
+            "value": "【2021夏日】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.106",
+            "value": "【2021夏日】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.004",
+            "value": "焦印石禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.059",
+            "value": "【2021夏日】莉莉絲（夏日）的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.060",
+            "value": "【2021夏日】基頓（夏日）的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.061",
+            "value": "【2021夏日】基爾菲（夏日）的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.062",
+            "value": "【2021夏日】埃爾西蕾爾（夏日）的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.002",
+            "value": "【2021夏日】兵員育成必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.002",
+            "value": "【2021夏日】幻兵卡/召喚獸育成必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.002",
+            "value": "【2021夏日】素材收集必備支援禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.063",
+            "value": "【2021夏日】武具強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.064",
+            "value": "【2021夏日】彩虹禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.065",
+            "value": "【2021夏日】召喚獸強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.066",
+            "value": "【2021夏日】EX職業禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.067",
+            "value": "【2021夏日】幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.068",
+            "value": "【2021夏日】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.069",
+            "value": "【2021夏日】特別啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.107",
+            "value": "【聯動紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.108",
+            "value": "【聯動紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.109",
+            "value": "【聯動紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.110",
+            "value": "【聯動紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.111",
+            "value": "【聯動紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.112",
+            "value": "【聯動紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.113",
+            "value": "【聯動紀念】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.070",
+            "value": "【聯動紀念】克勞德的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.071",
+            "value": "【聯動紀念】蒂法的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.comeback.002",
+            "value": "【回歸】1名UR等級99兵員特價禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.003",
+            "value": "【聯動紀念】兵員強化必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.003",
+            "value": "【聯動紀念】幻兵卡/召喚獸強化必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.003",
+            "value": "【聯動紀念】素材收集必備支援禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.074",
+            "value": "【聯動紀念】武具強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.075",
+            "value": "【聯動紀念】彩虹禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.076",
+            "value": "【聯動紀念】召喚獸強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.077",
+            "value": "【聯動紀念】EX職業禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.078",
+            "value": "【聯動紀念】幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.079",
+            "value": "【聯動紀念】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.080",
+            "value": "【聯動紀念】特別啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.081",
+            "value": "【聯動紀念】巴雷特的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.082",
+            "value": "【聯動紀念】艾莉絲的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.114",
+            "value": "【1.5週年紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.115",
+            "value": "【1.5週年紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.116",
+            "value": "【1.5週年紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.117",
+            "value": "【1.5週年紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.118",
+            "value": "【1.5週年紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.119",
+            "value": "【1.5週年紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.120",
+            "value": "【1.5週年紀念】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.item.001",
+            "value": "「啟程」特別道具禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.083",
+            "value": "【1.5週年紀念】幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.084",
+            "value": "【1.5週年紀念】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.085",
+            "value": "【1.5週年紀念】蘿拉‧卡芙特的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.086",
+            "value": "【1.5週年紀念】特別啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.004",
+            "value": "【1.5週年紀念】幻兵卡/召喚獸強化必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.004",
+            "value": "【1.5週年紀念】素材收集必備支援禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.087",
+            "value": "【1.5週年紀念】EX職業禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.088",
+            "value": "【1.5週年紀念】彩虹禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.089",
+            "value": "【1.5週年紀念】召喚獸強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.090",
+            "value": "【1.5週年紀念】武具強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.091",
+            "value": "【1.5週年紀念】金幣龜（極）禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.092",
+            "value": "【1.5週年紀念】鑰匙任務禮包"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.005",
+            "value": "【1.5週年紀念】30天超值禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.093",
+            "value": "【1.5週年紀念】國際兵員碎片自選禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.094",
+            "value": "【1.5週年紀念】國際慶典精選召喚券啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.095",
+            "value": "【1.5週年紀念】國際慶典精選召喚券禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.096",
+            "value": "【1.5週年紀念】1名UR等級99兵員特別禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.121",
+            "value": "【2021萬聖節】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.122",
+            "value": "【2021萬聖節】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.123",
+            "value": "【2021萬聖節】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.124",
+            "value": "【2021萬聖節】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.125",
+            "value": "【2021萬聖節】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.126",
+            "value": "【2021萬聖節】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.127",
+            "value": "【2021萬聖節】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.item.002",
+            "value": "「啟程」特別道具禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.097",
+            "value": "【2021萬聖節】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.098",
+            "value": "【2021萬聖節】萬聖節兵員碎片自選禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.099",
+            "value": "【2021萬聖節】萬聖節精選召喚券啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.100",
+            "value": "【2021萬聖節】萬聖節精選召喚券禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.101",
+            "value": "【2021萬聖節】特別啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.005",
+            "value": "【2021萬聖節】幻兵卡/召喚獸強化必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.005",
+            "value": "【2021萬聖節】素材收集必備支援禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.102",
+            "value": "【2021萬聖節】EX職業禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.103",
+            "value": "【2021萬聖節】彩虹禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.104",
+            "value": "【2021萬聖節】召喚獸強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.105",
+            "value": "【2021萬聖節】武具強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.106",
+            "value": "【2021萬聖節】金幣龜（極）禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.107",
+            "value": "【2021萬聖節】鑰匙任務禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.108",
+            "value": "【聯動將至】活動任務準備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.109",
+            "value": "【聯動將至】兵員強化禮包（土）"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.110",
+            "value": "【聯動將至】兵員強化禮包（冰）"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.111",
+            "value": "【聯動將至】兵員強化禮包（暗）"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.128",
+            "value": "【黑色星期五】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.129",
+            "value": "【黑色星期五】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.130",
+            "value": "【黑色星期五】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.131",
+            "value": "【黑色星期五】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.132",
+            "value": "【黑色星期五】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.133",
+            "value": "【黑色星期五】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.134",
+            "value": "【黑色星期五】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.112",
+            "value": "【黑色星期五】幻導石禮包F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.113",
+            "value": "【黑色星期五】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.114",
+            "value": "【黑色星期五】UR兵員極限突破自選禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.115",
+            "value": "【黑色星期五】EX職業強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.116",
+            "value": "【黑色星期五】職業強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.117",
+            "value": "【黑色星期五】UR幻兵卡完全突破自選禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.118",
+            "value": "【黑色星期五】召喚獸強化自選禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.119",
+            "value": "【黑色星期五】魂星禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.120",
+            "value": "【黑色星期五】幻星禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.121",
+            "value": "【黑色星期五】跳過券禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.122",
+            "value": "【黑色星期五】探險陸行鳥禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.123",
+            "value": "【黑色星期五】兵舍糧食禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.124",
+            "value": "【FFXV聯動紀念】諾克提斯的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.125",
+            "value": "【FFXV聯動紀念】普羅恩普特的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.126",
+            "value": "【FFXV聯動紀念】艾拉妮亞的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.135",
+            "value": "【2021冬日】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.136",
+            "value": "【2021冬日】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.137",
+            "value": "【2021冬日】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.138",
+            "value": "【2021冬日】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.139",
+            "value": "【2021冬日】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.140",
+            "value": "【2021冬日】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.141",
+            "value": "【2021冬日】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.127",
+            "value": "【2021冬日】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.128",
+            "value": "【2021冬日】冬日慶典精選召喚券啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.129",
+            "value": "【2021冬日】冬日慶典精選召喚券禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.130",
+            "value": "【2021冬日】璐亞瑟（冬日）的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.131",
+            "value": "【2021冬日】特別啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.132",
+            "value": "【2021冬日】幻兵卡/召喚獸強化必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.133",
+            "value": "【2021冬日】素材收集必備支援禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.134",
+            "value": "【2021冬日】EX職業禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.135",
+            "value": "【2021冬日】彩虹禮包SP "
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.136",
+            "value": "【2021冬日】召喚獸強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.137",
+            "value": "【2021冬日】武具強化禮包SP "
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.138",
+            "value": "【2021冬日】金幣龜（極）禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.142",
+            "value": "【國際慶典第5波】國際慶典精選召喚券啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.140",
+            "value": "【國際慶典第5波】國際慶典精選召喚券禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.141",
+            "value": "【國際慶典第5波】國際兵員碎片自選禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.142",
+            "value": "【1000萬下載】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.143",
+            "value": "【1000萬下載】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.144",
+            "value": "【1000萬下載】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.145",
+            "value": "【1000萬下載】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.146",
+            "value": "【1000萬下載】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.147",
+            "value": "【1000萬下載】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.148",
+            "value": "【1000萬下載】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.143",
+            "value": "【1000萬下載】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.144",
+            "value": "【FFIV聯動】高貝扎的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.145",
+            "value": "【FFIV聯動】塞西爾的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.146",
+            "value": "【FFIV聯動】凱因的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.147",
+            "value": "【FFIV聯動】羅莎的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.148",
+            "value": "【1000萬下載】特別啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.149",
+            "value": "【1000萬下載】幻兵卡/召喚獸強化必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.150",
+            "value": "【1000萬下載】跳過券禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.151",
+            "value": "【1000萬下載】兵舍糧食禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.152",
+            "value": "【1000萬下載】EX職業禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.153",
+            "value": "【1000萬下載】彩虹禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.154",
+            "value": "【1000萬下載】召喚獸強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.155",
+            "value": "【1000萬下載】武具強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.156",
+            "value": "【1000萬下載】金幣龜（極）禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157",
+            "value": "【2022農曆新年】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161",
+            "value": "【2022農曆新年】精選召喚券啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159",
+            "value": "【2022農曆新年】精選召喚券禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160",
+            "value": "【2022農曆新年】祝祭的穆雅的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162",
+            "value": "【嘉年華】特別每日禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163",
+            "value": "【嘉年華】兵員強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164",
+            "value": "【嘉年華】幻兵卡強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149",
+            "value": "【2週年紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150",
+            "value": "【2週年紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151",
+            "value": "【2週年紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152",
+            "value": "【2週年紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153",
+            "value": "【2週年紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154",
+            "value": "【2週年紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155",
+            "value": "【2週年紀念】幻導石禮包VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003",
+            "value": "【體驗】指引JP的鑰匙禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001",
+            "value": "【體驗】指引親密共鳴的鑰匙"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009",
+            "value": "【啟程】UR兵員自選禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010",
+            "value": "【啟程】兵員覺醒禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011",
+            "value": "【啟程】UR幻兵卡自選禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003",
+            "value": "召喚獸強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002",
+            "value": "金幣龜禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002",
+            "value": "極限技強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002",
+            "value": "武具能力強化禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004",
+            "value": "【每月】指引JP的鑰匙禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002",
+            "value": "【每月】指引親密共鳴的鑰匙禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001",
+            "value": "【每月】覺醒禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165",
+            "value": "【2週年紀念】幻導石禮包H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166",
+            "value": "【FFVI】精選召喚券啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167",
+            "value": "【FFVI】精選召喚券禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171",
+            "value": "【2週年紀念】特別啟程禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172",
+            "value": "【2週年紀念】幻兵卡/召喚獸強化必備禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173",
+            "value": "【2週年紀念】跳過券禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174",
+            "value": "【2週年紀念】兵舍糧食禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175",
+            "value": "【2週年紀念】EX職業禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176",
+            "value": "【2週年紀念】彩虹禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177",
+            "value": "【2週年紀念】召喚獸強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178",
+            "value": "【2週年紀念】武具強化禮包SP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179",
+            "value": "【2週年紀念】金幣龜（極）禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001",
+            "value": "塞麗絲的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002",
+            "value": "蒂娜的碎片禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001",
+            "value": "2週年紀念禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate3)",
+            "value": ""
+        }
+    ]
+}

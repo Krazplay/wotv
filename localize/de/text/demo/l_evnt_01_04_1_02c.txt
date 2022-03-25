@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "099",
+            "value": "Euer Hoheit! An unseren Grenzen wurden Fennes-Truppen gesichtet! Sie marschieren offenbar auf uns zu. Wie sollen wir vorgehen?"
+        },
+        {
+            "key": "100",
+            "value": "Wir werden uns ihnen stellen. Mobilisiert alle verfügbaren Truppen!"
+        },
+        {
+            "key": "101",
+            "value": "Jawohl! Da wäre noch etwas, Euer Hoheit."
+        },
+        {
+            "key": "102",
+            "value": "Was ist?"
+        },
+        {
+            "key": "103",
+            "value": "Eine große Schar Monster nähert sich ebenfalls. Möglicherweise werden sie in eines unserer Dörfer einfallen ..."
+        },
+        {
+            "key": "104",
+            "value": "Sind die Dorfbewohner unterrichtet?"
+        },
+        {
+            "key": "105",
+            "value": "Nein, noch nicht. Wir ..."
+        },
+        {
+            "key": "106",
+            "value": "Dann ist es auch nicht nötig. Die Fennes-Armee hat Priorität."
+        },
+        {
+            "key": "107",
+            "value": "A-Aber ..."
+        },
+        {
+            "key": "108",
+            "value": "Willst du mir widersprechen?"
+        },
+        {
+            "key": "109",
+            "value": "N-Nein, Euer Majestät! Wir werden uns sofort auf den Kampf vorbereiten!"
+        },
+        {
+            "key": "110",
+            "value": "Hast du alles gehört, Mont?"
+        },
+        {
+            "key": "111",
+            "value": "Marschiere sofort mit Caelum und stelle dich Fennes."
+        },
+        {
+            "key": "112",
+            "value": "Vater, willst du wirklich das Dorf von Monstern überrennen lassen?"
+        },
+        {
+            "key": "113",
+            "value": "Ich werde mich nicht wiederholen. Das Dorf braucht dich nicht kümmern."
+        },
+        {
+            "key": "114",
+            "value": "Aber wir stehen unseren Untertanen gegenüber in der Pflicht! Wir müssen sie beschützen!"
+        },
+        {
+            "key": "115",
+            "value": "Er hat recht, Vater! Selbst ein kleiner Trupp würde ausreichen."
+        },
+        {
+            "key": "116",
+            "value": "Der Feind fällt in unser Reich ein. Wir können unsere Armee nicht für ein kleines, unbedeutendes Dorf aufspalten."
+        },
+        {
+            "key": "117",
+            "value": "Ich werde diese Angelegenheit nicht weiter besprechen."
+        },
+        {
+            "key": "118",
+            "value": "....."
+        },
+        {
+            "key": "119",
+            "value": "Wenn wir das Dorf nicht beschützen, sollten wir zumindest seine Bewohner evakuieren."
+        },
+        {
+            "key": "120",
+            "value": "Wir können nicht einfach zusehen, wie Unschuldige ihr Leben lassen."
+        },
+        {
+            "key": "121",
+            "value": "Mont. Du hättest das Recht dazu - wenn du ein Mann wärst, der niemandem außer sich selbst verpflichtet ist."
+        },
+        {
+            "key": "122",
+            "value": "Aber es braucht mehr, als recht zu haben, will man ein ganzes Land beschützen."
+        },
+        {
+            "key": "123",
+            "value": "Aber ..."
+        },
+        {
+            "key": "124",
+            "value": "Wenn du nicht den Mumm dazu hast, werde ich Caelum selbst anführen."
+        },
+        {
+            "key": "125",
+            "value": "Fortem bleibt hier und beschützt das Schloss."
+        },
+        {
+            "key": "126",
+            "value": "Ich verbiete dir, Truppen in dieses Dorf zu schicken."
+        },
+        {
+            "key": "127",
+            "value": "Ansonsten hast du freie Hand."
+        },
+        {
+            "key": "128",
+            "value": "V-Verstanden."
+        },
+        {
+            "key": "129",
+            "value": "Das wäre alles."
+        },
+        {
+            "key": "130",
+            "value": "Vater ..."
+        },
+        {
+            "key": "131",
+            "value": "Nein, jetzt ist nicht die Zeit, den Mut zu verlieren. Die Bedrohung für unser Volk rückt mit jedem Moment näher."
+        },
+        {
+            "key": "132",
+            "value": "Die Armee muss hier bleiben, und ich habe nur wenige Männer zur Verfügung ... Dennoch müssen wir etwas unternehmen."
+        },
+        {
+            "key": "133",
+            "value": "Ich werde nicht einfach zusehen. Niemand wird unter meiner Obhut sterben!"
+        },
+        {
+            "key": "134",
+            "value": "Bruder!"
+        },
+        {
+            "key": "135",
+            "value": "Styr."
+        },
+        {
+            "key": "136",
+            "value": "Sind das alle deine Männer? Die werden nicht reichen."
+        },
+        {
+            "key": "137",
+            "value": "Bruder ... Ich sollte mit dir gehen!"
+        },
+        {
+            "key": "138",
+            "value": "Nein, Styr. Du hast deine eigenen Pflichten."
+        },
+        {
+            "key": "139",
+            "value": "Es ist meine Entscheidung, ich werde dich nicht dort hineinziehen und dir die Konsequenzen aufbürden."
+        },
+        {
+            "key": "140",
+            "value": "Es ist noch nicht zu spät. Du könntest Vater um ein paar seiner Soldaten bitten."
+        },
+        {
+            "key": "141",
+            "value": "Nein, er hatte recht. Der Schutz unseres Reiches hat Vorrang und dabei kann er keinen Mann entbehren."
+        },
+        {
+            "key": "142",
+            "value": "Aber ..."
+        },
+        {
+            "key": "143",
+            "value": "Keine Sorge. Wir werden noch vor Ende des Tages die Bürger in Sicherheit bringen."
+        },
+        {
+            "key": "144",
+            "value": "Beschütze du das Schloss, Styr."
+        },
+        {
+            "key": "145",
+            "value": "Das werde ich. Als Kommandant von Fortem werde ich meine Eidespflicht erfüllen."
+        },
+        {
+            "key": "146",
+            "value": "Ich danke dir."
+        }
+    ]
+}

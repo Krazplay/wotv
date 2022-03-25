@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Queréis decir que aún no tenéis ni idea de dónde pueden encontrarse las seis espadas?"
+        },
+        {
+            "key": "002",
+            "value": "Dis... Disculpadnos, su santidad..."
+        },
+        {
+            "key": "003",
+            "value": "¿Qué está haciendo el gremio de mercaderes de armas?"
+        },
+        {
+            "key": "004",
+            "value": "Bueno... Digamos que Garval no está muy por la labor de ayudar."
+        },
+        {
+            "key": "005",
+            "value": "No le importan nada los herreros, me imagino..."
+        },
+        {
+            "key": "006",
+            "value": "Es más que probable."
+        },
+        {
+            "key": "007",
+            "value": "Eso explicaría por qué todos los herreros distinguidos han desaparecido del mapa."
+        },
+        {
+            "key": "008",
+            "value": "Y yo que pensaba que podría sonsacarles a esos herreros dónde se encuentran las seis espadas."
+        },
+        {
+            "key": "009",
+            "value": "Que Eldric le meta presión a Garval."
+        },
+        {
+            "key": "010",
+            "value": "A sus órdenes."
+        },
+        {
+            "key": "011",
+            "value": "¿Y qué hay de la otra ruta para localizar las espadas?"
+        },
+        {
+            "key": "012",
+            "value": "Estamos trabajando en ello también."
+        },
+        {
+            "key": "013",
+            "value": "¿Y quién se dirige al este?"
+        },
+        {
+            "key": "014",
+            "value": "Lameiga y Lumeide. Ya han partido."
+        },
+        {
+            "key": "015",
+            "value": "Se encontrarán con los maestros que allí quedan. En caso de que las espadas estén en su posesión, nos haremos con ellas cueste lo que cueste."
+        },
+        {
+            "key": "016",
+            "value": "Las seis espadas..."
+        },
+        {
+            "key": "017",
+            "value": "Si es verdad que contienen tal poder como para derribar incluso a los dioses..., acabar con Gilgamesh será como robarle un caramelo a un niño. "
+        },
+        {
+            "key": "018",
+            "value": "Y entonces, incluso quizás..."
+        },
+        {
+            "key": "019",
+            "value": "¿Su santidad?..."
+        },
+        {
+            "key": "020",
+            "value": "Ah, no me toméis en serio."
+        },
+        {
+            "key": "021",
+            "value": "Es muy probable que Gilgamesh ya sepa todos y cada uno de nuestros movimientos."
+        },
+        {
+            "key": "022",
+            "value": "No podemos permitir que las espadas acaben es sus manos. Confío en que entendáis esto."
+        },
+        {
+            "key": "023",
+            "value": "A sus órdenes."
+        },
+        {
+            "key": "024",
+            "value": "Todo está en marcha ya."
+        },
+        {
+            "key": "025",
+            "value": "Bien, Gilgamesh... ¿Qué es lo siguiente que tienes pensado hacer?"
+        },
+        {
+            "key": "026",
+            "value": "¿Qué estás haciendo?..."
+        },
+        {
+            "key": "027",
+            "value": "¿A qué te refieres?"
+        },
+        {
+            "key": "028",
+            "value": "No me pareces un mal tipo, pero... no pensarás que incluso yo soy un enemigo, ¿verdad?"
+        },
+        {
+            "key": "029",
+            "value": "…"
+        },
+        {
+            "key": "030",
+            "value": "No te hagas el tonto. Esa aura sanguinaria que desprendes... Sé que no se trata solo de imaginaciones mías."
+        },
+        {
+            "key": "031",
+            "value": "¿Qué tal si me das una pista?"
+        },
+        {
+            "key": "032",
+            "value": "Esa espada que llevas."
+        },
+        {
+            "key": "033",
+            "value": "Ah, ¿te refieres a esto? Me gusta llamarla la «Odachi de la destrucción»..."
+        },
+        {
+            "key": "034",
+            "value": "Te refieres a la «Cronocida», ¿no es así?..."
+        },
+        {
+            "key": "035",
+            "value": "Hmm... No me imaginaba que supieras su nombre real..."
+        },
+        {
+            "key": "036",
+            "value": "Ya veo. Si esta espada es lo que deseas..., tendrás que pasar por encima de mi cadáver para conseguirla."
+        },
+        {
+            "key": "037",
+            "value": "¿Pretendes usarla contra mí?"
+        },
+        {
+            "key": "038",
+            "value": "No. Me imagino que tienes una razón para hacer todo esto. Me gustaría escucharla antes de nada."
+        },
+        {
+            "key": "039",
+            "value": "Sadali está buscando las seis espadas."
+        },
+        {
+            "key": "040",
+            "value": "Y una de esas espadas es esa que llevas contigo."
+        },
+        {
+            "key": "041",
+            "value": "¿Te refieres a esa sanguijuela codiciosa? Me imagino que las necesita para acabar con tu vida..., ¿verdad?"
+        },
+        {
+            "key": "042",
+            "value": "Esa es una de las razones."
+        },
+        {
+            "key": "043",
+            "value": "¿Una de las razones?..."
+        },
+        {
+            "key": "044",
+            "value": "Pero no entiendo una cosa. Mantener las espadas fuera de su alcance debería ser una tarea sencilla para ti."
+        },
+        {
+            "key": "045",
+            "value": "Con tu poder podrías reducir a cenizas todo Santocristal... ¿Me equivoco?"
+        },
+        {
+            "key": "046",
+            "value": "…"
+        },
+        {
+            "key": "047",
+            "value": "Hay algo más, ¿eh?..."
+        },
+        {
+            "key": "048",
+            "value": "Me gustaría pedirte ayuda. Mis heridas van a tardar tiempo en cicatrizar."
+        },
+        {
+            "key": "049",
+            "value": "Por supuesto..., pero solo con la condición de que eso repercuta en el bienestar de las gentes de esta tierra."
+        },
+        {
+            "key": "050",
+            "value": "Rezo porque así sea... De verdad."
+        },
+        {
+            "key": "051",
+            "value": "…"
+        },
+        {
+            "key": "052",
+            "value": "Las seis espadas..."
+        },
+        {
+            "key": "053",
+            "value": "¿Tienes alguna de idea de dónde se pueden encontrar?"
+        },
+        {
+            "key": "054",
+            "value": "Sé dónde puede encontrarse una. El «Filo Relámpago» de Owe..."
+        },
+        {
+            "key": "055",
+            "value": "Él se refiere a ella con con el falso nombre de «katana eléctrica» para que los demás no se den cuenta de su verdadero poder."
+        },
+        {
+            "key": "056",
+            "value": "Sin embargo, el paradero de las cuatro restantes... es un misterio para mí."
+        },
+        {
+            "key": "057",
+            "value": "…"
+        },
+        {
+            "key": "058",
+            "value": "Va a ser difícil encontrarlas todas..."
+        }
+    ]
+}

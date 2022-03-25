@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Alors c'est ça, le château de Wezett ? Tiens ? Mais..."
+        },
+        {
+            "key": "002",
+            "value": "Il n'y a... personne ?"
+        },
+        {
+            "key": "003",
+            "value": "Bonjour le comité d'accueil. Attendez, Sire ! Je détecte une présence hostile !"
+        },
+        {
+            "key": "004",
+            "value": "Nous sommes encerclés !"
+        },
+        {
+            "key": "005",
+            "value": "Oh non ! Oh non !"
+        },
+        {
+            "key": "006",
+            "value": "Commandant ?"
+        },
+        {
+            "key": "007",
+            "value": "Laissez-nous !"
+        },
+        {
+            "key": "008",
+            "value": "N-non... Sire. Laissez-moi faire."
+        },
+        {
+            "key": "009",
+            "value": "Baissez vos armes, soldats !"
+        },
+        {
+            "key": "010",
+            "value": "Les forces de Leonis ici présentes se sont rendues !"
+        },
+        {
+            "key": "011",
+            "value": "Vous n'allez pas attaquer des otages ?"
+        },
+        {
+            "key": "012",
+            "value": "Nous suivons les ordres du roi."
+        },
+        {
+            "key": "013",
+            "value": "Tss."
+        },
+        {
+            "key": "014",
+            "value": "Serjes, écartez-vous."
+        },
+        {
+            "key": "015",
+            "value": "M-mais... !"
+        },
+        {
+            "key": "016",
+            "value": "Ne craignez rien. Je suis certain que le roi Khory saura se montrer raisonnable."
+        },
+        {
+            "key": "017",
+            "value": "Vous nous avez bien fait confiance, vous."
+        }
+    ]
+}

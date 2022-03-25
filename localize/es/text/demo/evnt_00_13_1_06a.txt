@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Gracias por traernos."
+        },
+        {
+            "key": "002",
+            "value": "Tranquilo. Ahora somos amigos, ¿no?"
+        },
+        {
+            "key": "003",
+            "value": "Nos vamos, pues."
+        },
+        {
+            "key": "004",
+            "value": "Lady Lumeide..."
+        },
+        {
+            "key": "005",
+            "value": "Ve a despertar a Lameiga. Todavía estará dormido en la bodega del barco."
+        },
+        {
+            "key": "006",
+            "value": "Estoy despierto."
+        },
+        {
+            "key": "007",
+            "value": "¿Adónde se dirigen esos dos?"
+        },
+        {
+            "key": "008",
+            "value": "Seguramente a la tumba de Owe."
+        },
+        {
+            "key": "009",
+            "value": "No quieren que nadie más se haga con su espada. Deben de tener mucha prisa por llegar."
+        },
+        {
+            "key": "010",
+            "value": "Tan retorcida como siempre, Lumeide."
+        },
+        {
+            "key": "011",
+            "value": "Bueno, ¿nos preparamos para partir nosotros también?"
+        }
+    ]
+}

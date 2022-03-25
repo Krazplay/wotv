@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "549",
+            "value": "Dame Resnick… ?"
+        },
+        {
+            "key": "550",
+            "value": "Où allons-nous ? Nous ne devrions pas abandonner notre poste…"
+        },
+        {
+            "key": "551",
+            "value": "Puis-je vous poser une question ?"
+        },
+        {
+            "key": "552",
+            "value": "Qu'en pensez-vous, personnellement, de ce plan d'envahir le château d'Ovis et ramener la tête de la princesse Lucielle ?"
+        },
+        {
+            "key": "553",
+            "value": "Je… Euh, j'avoue que ça ne me plaît pas trop."
+        },
+        {
+            "key": "554",
+            "value": "Après tout, la princesse est fiancée au roi Obéron."
+        },
+        {
+            "key": "555",
+            "value": "Vous êtes tous d'accord, non ?"
+        },
+        {
+            "key": "556",
+            "value": "C'est bien ce que je pensais."
+        },
+        {
+            "key": "557",
+            "value": "Nous faisons présentement sécession de la division principale pour secourir la princesse Lucielle."
+        },
+        {
+            "key": "558",
+            "value": "Nous allons sauver son Altesse ?!"
+        },
+        {
+            "key": "559",
+            "value": "Et pour cela, nous allons demander l'aide du chef de la guilde des trafiquants d'armes, Garvall."
+        },
+        {
+            "key": "560",
+            "value": "Ce rat ?!"
+        },
+        {
+            "key": "561",
+            "value": "Depuis qu'il a pris le contrôle de la guilde et de son commerce d'une main de fer, il est devenu l'une des grandes puissances du continent."
+        },
+        {
+            "key": "562",
+            "value": "Nous élever contre lui reviendrait à épuiser notre source d'armement et nous faire malmener par les nations rivales."
+        },
+        {
+            "key": "563",
+            "value": "Alors comment pourrait-il nous aider ?"
+        },
+        {
+            "key": "564",
+            "value": "Laissez-moi vous expliquer."
+        },
+        {
+            "key": "565",
+            "value": "En tant que trafiquant d'armes, Garvall se pose par défaut comme une entité neutre. De cette façon, il peut entrer en contact avec Lucielle."
+        },
+        {
+            "key": "566",
+            "value": "À travers lui, nous convaincrons la princesse de nous confier son anneau, la relique séculaire."
+        },
+        {
+            "key": "567",
+            "value": "Vu la position précaire dans laquelle se trouve Ovis en ce moment, elle est susceptible d'accepter."
+        },
+        {
+            "key": "568",
+            "value": "Mais… c'est de la folie de laisser l'anneau tomber entre les mains de Garvall."
+        },
+        {
+            "key": "569",
+            "value": "Neia."
+        },
+        {
+            "key": "570",
+            "value": "Je suis là."
+        },
+        {
+            "key": "571",
+            "value": "Qu-qui est-ce ?!"
+        },
+        {
+            "key": "572",
+            "value": "Elle est née à Yezagh. Depuis que je l'ai recueillie, elle travaille à mon service."
+        },
+        {
+            "key": "573",
+            "value": "Yezagh… c'est aussi l'origine de Garvall…"
+        },
+        {
+            "key": "574",
+            "value": "Neia, que penses-tu du plan de Ganzback ?"
+        },
+        {
+            "key": "575",
+            "value": "Il me semble savoir que tu connais Garvall."
+        },
+        {
+            "key": "576",
+            "value": "En effet."
+        },
+        {
+            "key": "577",
+            "value": "Garvall acceptera immédiatement, en espérant s'emparer de l'anneau."
+        },
+        {
+            "key": "578",
+            "value": "Parfait."
+        },
+        {
+            "key": "579",
+            "value": "Oh, je comprends. C'est l'anneau que convoite Jayden. Or s'il venait à être volé…"
+        },
+        {
+            "key": "580",
+            "value": "Son appétit délaissera Ovis pour se tourner vers la guilde des trafiquants d'armes..."
+        },
+        {
+            "key": "581",
+            "value": "Mais il ne faut pas prendre le soutien de la guilde pour acquis."
+        },
+        {
+            "key": "582",
+            "value": "Tu as raison."
+        },
+        {
+            "key": "583",
+            "value": "Quoi qu'il en soit, la corde autour du cou d'Ovis se desserrera un petit peu."
+        },
+        {
+            "key": "584",
+            "value": "Et je serais surprise de voir une nation s'allier avec Garvall."
+        },
+        {
+            "key": "585",
+            "value": "Pourquoi cela ?"
+        },
+        {
+            "key": "586",
+            "value": "Les grands royaumes de l'est, comme Hourne et Wezett, sont embourbés dans leur propre guerre."
+        },
+        {
+            "key": "587",
+            "value": "Aucun n'aura le temps de s'inquiéter d'une dispute autour d'un anneau."
+        },
+        {
+            "key": "588",
+            "value": "Une fois la princesse Lucielle à l'abri, nous délivrerons Alaya."
+        },
+        {
+            "key": "589",
+            "value": "Alors la vraie bataille pourra commencer."
+        },
+        {
+            "key": "590",
+            "value": "Nos divisions ont été éclatées, dispersées et forcées de se ranger sous la bannière de Rundall, mais bientôt nous aurons l'occasion de retourner notre fureur contre cette injustice."
+        },
+        {
+            "key": "591",
+            "value": "Nous allons nous libérer de la tyrannie de Rundall !"
+        },
+        {
+            "key": "592",
+            "value": "…"
+        },
+        {
+            "key": "593",
+            "value": "Dame Resnick ?"
+        },
+        {
+            "key": "594",
+            "value": "Avant de commencer, vous devez comprendre une chose."
+        },
+        {
+            "key": "595",
+            "value": "Le roi Obéron n'a aucune idée de ce que nous préparons."
+        },
+        {
+            "key": "596",
+            "value": "Argh !"
+        },
+        {
+            "key": "597",
+            "value": "Ganzback et moi avons pris cette décision nous-mêmes parce que nous craignons pour l'avenir de Heindler."
+        },
+        {
+            "key": "598",
+            "value": "Nous devons éviter d'éveiller les soupçons de Rundall à tout prix, tout en gardant sa Majesté dans l'ignorance. Cette mission est extrêmement dangereuse."
+        },
+        {
+            "key": "599",
+            "value": "C'est pourquoi je ne vous obligerai pas à me suivre, si vous ne le désirez pas. "
+        },
+        {
+            "key": "600",
+            "value": "Si, Dame Resnick ! Vous pouvez compter sur nous. "
+        },
+        {
+            "key": "601",
+            "value": "Je vous en remercie."
+        },
+        {
+            "key": "602",
+            "value": "Nous châtierons tous ceux qui osent traîner le nom de Heindler dans la boue ! Quels qu'ils soient !"
+        },
+        {
+            "key": "603",
+            "value": "Jayden compte sûrement abandonner le roi Obéron, une fois qu'il aura ce qu'il veut."
+        },
+        {
+            "key": "604",
+            "value": "Et nous ne le permettrons pas !"
+        },
+        {
+            "key": "605",
+            "value": "Je vois que votre décision est prise."
+        },
+        {
+            "key": "606",
+            "value": "À présent hâtons-nous, car le temps joue contre nous."
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hey, Ti-Ti."
+        },
+        {
+            "key": "002",
+            "value": "Wann kommt Ho-Ho wieder?"
+        },
+        {
+            "key": "003",
+            "value": "Das weiß ich leider nicht."
+        },
+        {
+            "key": "004",
+            "value": "Bist du müde, Chell?"
+        },
+        {
+            "key": "005",
+            "value": "Kein Stück! Ich bin hellwach!"
+        },
+        {
+            "key": "006",
+            "value": "Sehr gut. Ich bin stolz auf dich, Chell."
+        },
+        {
+            "key": "007",
+            "value": "Mann. Wo bleibt er nur?"
+        },
+        {
+            "key": "008",
+            "value": "Er meinte, er wäre sofort zurück. Wir warten hier schon ewig."
+        },
+        {
+            "key": "009",
+            "value": "Ob ihm etwas passiert ist?"
+        },
+        {
+            "key": "010",
+            "value": "Der läuft nur wieder irgendwelchen Mädels hinterher."
+        },
+        {
+            "key": "011",
+            "value": "Hmm."
+        },
+        {
+            "key": "012",
+            "value": "Was weiß so ein langweiliger Kerl wie du schon davon, wie man die Damenwelt umwirbt?"
+        },
+        {
+            "key": "013",
+            "value": "Vergib mir, Chell. Und du auch, Titus."
+        },
+        {
+            "key": "014",
+            "value": "Ähm ... Was ist das bitte für ein Outfit?"
+        },
+        {
+            "key": "015",
+            "value": "Was redest du denn da, Chell? Dein Brüderchen ist darin doch ansehnlicher als je zuvor, oder?"
+        },
+        {
+            "key": "016",
+            "value": "Du siehst toll aus, Ho-Ho!"
+        },
+        {
+            "key": "017",
+            "value": "Du bist wegen der Klinge hier, oder?"
+        },
+        {
+            "key": "018",
+            "value": "Musstest du dir denn unbedingt auch neue Kleidung kaufen?"
+        },
+        {
+            "key": "019",
+            "value": "Ich muss eben mein volles Potential ausschöpfen. Das hat auch die Stimme in meinem Inneren gesagt."
+        },
+        {
+            "key": "020",
+            "value": "Ich werde nicht mal versuchen, dein Gerede nachzuvollziehen."
+        },
+        {
+            "key": "021",
+            "value": "Also, was ist mit der Klinge?"
+        },
+        {
+            "key": "022",
+            "value": "Ach ja. Das Schwert, dass ich für Meister suchen soll. Die Sache ist schon so gut wie erledigt."
+        },
+        {
+            "key": "023",
+            "value": "Der Alte will, dass du es suchst?"
+        },
+        {
+            "key": "024",
+            "value": "Ich dachte, er habe deinen Schülerstatus bei ihm aberkannt."
+        },
+        {
+            "key": "025",
+            "value": "Was? Ach, das war doch nur ein Witz von mir."
+        },
+        {
+            "key": "026",
+            "value": "Du hast uns reingelegt? Aber wozu?"
+        },
+        {
+            "key": "027",
+            "value": "Ho-Ho! Du hast uns angelogen!"
+        },
+        {
+            "key": "028",
+            "value": "Chell, eine Lüge ist nicht immer etwas Schlechtes."
+        },
+        {
+            "key": "029",
+            "value": "Nein?"
+        },
+        {
+            "key": "030",
+            "value": "Angenommen, wir hätten uns versprochen, uns hier zu treffen."
+        },
+        {
+            "key": "031",
+            "value": "Da ich es natürlich kaum erwarten kann, mein liebes Schwesterherz zu sehen, bin ich eine ganze Weile früher angekommen."
+        },
+        {
+            "key": "032",
+            "value": "Das würde mich so glücklich machen!"
+        },
+        {
+            "key": "033",
+            "value": "Und eine Weile später tauchst du dann auf und fragst mich etwas."
+        },
+        {
+            "key": "034",
+            "value": "Und zwar, ob ich lange gewartet habe."
+        },
+        {
+            "key": "035",
+            "value": "Ja, das würde ich wohl fragen."
+        },
+        {
+            "key": "036",
+            "value": "Wie würdest du dich fühlen, wenn ich dir sage, dass du mich eine ewig lange Zeit hast warten lassen?"
+        },
+        {
+            "key": "037",
+            "value": "Dann wäre ich noch glücklicher. Schließlich hätte mein geliebter Bruder eine ewig lange Zeit auf mich gewartet."
+        },
+        {
+            "key": "038",
+            "value": "Ähm ... Okay ..."
+        },
+        {
+            "key": "039",
+            "value": "Und wenn ich dir sagen würde, dass ich gerade erst gekommen wäre und somit gar nicht warten musste?"
+        },
+        {
+            "key": "040",
+            "value": "Dann wärst du ein Lügner. Lügen sind etwas Schlimmes! Das weißt du doch!"
+        },
+        {
+            "key": "041",
+            "value": "Ja. Ja, ich schätze schon."
+        },
+        {
+            "key": "042",
+            "value": "Da hat Chell dich aber erwischt, Bruder."
+        },
+        {
+            "key": "043",
+            "value": "Kannst du uns jetzt mehr über die Klinge sagen?"
+        },
+        {
+            "key": "044",
+            "value": "Das kann ich, aber nicht hier. Das mache ich unterwegs."
+        },
+        {
+            "key": "045",
+            "value": "Ist es denn geheim?"
+        },
+        {
+            "key": "046",
+            "value": "Nicht wirklich. Aber wenn so viele weibliche Augen auf mir ruhen, sollte ich besser diskret sein."
+        },
+        {
+            "key": "047",
+            "value": "Nicht, dass du das nachvollziehen könntest."
+        },
+        {
+            "key": "048",
+            "value": "Ich beneide dich fast darum, wie unscheinbar und unauffällig du für die Damenwelt bist."
+        },
+        {
+            "key": "049",
+            "value": "Ja, ja, red du nur."
+        }
+    ]
+}

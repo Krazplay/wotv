@@ -1,0 +1,308 @@
+﻿{
+    "infos": [
+        {
+            "key": "330",
+            "value": "Ihr habt nicht nur unsere Verpflegung beschützt, sondern auch das Diebesversteck ausgeräuchert?"
+        },
+        {
+            "key": "331",
+            "value": "Ich bin euch zu großem Dank verpflichtet. Ihr habt viel mehr geleistet, als von euch verlangt wurde."
+        },
+        {
+            "key": "332",
+            "value": "Ich tat nur meine Pflicht als Ritter."
+        },
+        {
+            "key": "333",
+            "value": "Was für ein warmer Empfang. Ich wünschte, ich wäre von Anfang an dabei gewesen."
+        },
+        {
+            "key": "334",
+            "value": "Da bist du ja, Camillo. Wo warst du denn?"
+        },
+        {
+            "key": "335",
+            "value": "Ich habe unser Boot gekauft, da wir ja jetzt genügend Gil beisammen haben."
+        },
+        {
+            "key": "336",
+            "value": "Und noch was. Hier, wie versprochen."
+        },
+        {
+            "key": "337",
+            "value": "Der Kernkristall! Vielen Dank!"
+        },
+        {
+            "key": "338",
+            "value": "Nichts zu danken. Das war ja schließlich abgemacht."
+        },
+        {
+            "key": "339",
+            "value": "Jetzt, wo das geklärt ist, muss ich dich um einen Gefallen bitten. Kannst du mir helfen, das Boot zu bewegen? Es ist ein bisschen zu schwer für mich allein."
+        },
+        {
+            "key": "340",
+            "value": "Natürlich. Sollen wir Setia und Elsirelle ebenfalls um Hilfe bitten?"
+        },
+        {
+            "key": "341",
+            "value": "Nein, nein. Das machen wir beide. Damit können wir ein wenig vor den Damen angeben. Verstehst du, was ich meine?"
+        },
+        {
+            "key": "342",
+            "value": "Ich schätze schon."
+        },
+        {
+            "key": "343",
+            "value": "Da bin ich mir sicher. Also, los geht's."
+        },
+        {
+            "key": "344",
+            "value": "Lassen wir sie einfach machen."
+        },
+        {
+            "key": "345",
+            "value": "Ja. Zeig uns, was du kannst, Frischling."
+        },
+        {
+            "key": "346",
+            "value": "Hau ruck! Na los, stemmen, Lucio!"
+        },
+        {
+            "key": "347",
+            "value": "Ugh ... Selbst auf dem Gestell ist das Boot echt schwer."
+        },
+        {
+            "key": "348",
+            "value": "Hast du dich etwa gerade beschwert, Frischling? Du bist ein Kristallkrieger. Benimm dich gefälligst auch so."
+        },
+        {
+            "key": "349",
+            "value": "E-Entschuldigung."
+        },
+        {
+            "key": "350",
+            "value": "Sag mal, Lucio. Sind alle Kristallkrieger so wie sie?"
+        },
+        {
+            "key": "351",
+            "value": "Hmm ... Sie sind an sich alle ziemlich streng, wie ich zugeben muss."
+        },
+        {
+            "key": "352",
+            "value": "Ich wurde für diese Aufgabe direkt aus Jumes Intensivtraining geholt, ohne dass mir eine Pause gewährt wurde."
+        },
+        {
+            "key": "353",
+            "value": "Jume?"
+        },
+        {
+            "key": "354",
+            "value": "Ach so, ja. Also, sie war die erste dort, von der ich so einiges lernen durfte."
+        },
+        {
+            "key": "355",
+            "value": "Sie redet nicht viel und wird daher oft missverstanden. Das Training mit ihr ist härter als jeder Kampf gegen Monster."
+        },
+        {
+            "key": "356",
+            "value": "Du scheinst ein hartes Leben zu führen, mein Freund."
+        },
+        {
+            "key": "357",
+            "value": "Aber ich lerne auch viel von ihr und den anderen Kriegern."
+        },
+        {
+            "key": "358",
+            "value": "Ich möchte dort immer mein Bestes geben, damit man mich nicht ständig ausschimpft."
+        },
+        {
+            "key": "359",
+            "value": "Auch wenn es mir noch an Erfahrung fehlt, habe ich das Gefühl, dass ich ein guter Kristallkrieger werde, wenn ich weiter von ihnen lerne."
+        },
+        {
+            "key": "360",
+            "value": "Ooh! Es scheint, du hast wirklich tolle Ausbilder, was?"
+        },
+        {
+            "key": "361",
+            "value": "Au! W-Wofür war das denn?"
+        },
+        {
+            "key": "362",
+            "value": "Ich bewundere dich, Kleiner."
+        },
+        {
+            "key": "363",
+            "value": "Hör zu, Lucio. Eine Sache solltest du dir zu Herzen nehmen."
+        },
+        {
+            "key": "364",
+            "value": "Dein gesamtes Leben kann sich über Nacht ändern, wenn du eine besondere Frau triffst."
+        },
+        {
+            "key": "365",
+            "value": "Als ich Margery traf, hat sich mein Leben von Grund auf geändert."
+        },
+        {
+            "key": "366",
+            "value": "Gilt das auch für Elsirelle?"
+        },
+        {
+            "key": "367",
+            "value": "Das könnte man so sagen ... auch wenn sie die meiste Zeit schläft."
+        },
+        {
+            "key": "368",
+            "value": "Oh, scheint wir sind angekommen."
+        },
+        {
+            "key": "369",
+            "value": "Gute Arbeit, Frischling. Das war auch gutes Training, oder?"
+        },
+        {
+            "key": "370",
+            "value": "Hahaha."
+        },
+        {
+            "key": "371",
+            "value": "Wie sieht der weitere Plan für euch aus?"
+        },
+        {
+            "key": "372",
+            "value": "Wir kehren zurück in unsere Welt. Der Kristall muss wieder an seinen rechtmäßigen Ort."
+        },
+        {
+            "key": "373",
+            "value": "Dann ist dies wohl unser Abschied. Wir werden euch vermissen."
+        },
+        {
+            "key": "374",
+            "value": "Wir sind ja nicht für immer weg. Wir können uns jederzeit wieder treffen."
+        },
+        {
+            "key": "375",
+            "value": "Das stimmt. Auf das wir uns wiedersehen."
+        },
+        {
+            "key": "376",
+            "value": "Arbeite weiter an deinem Selbstvertrauen, Lucio."
+        },
+        {
+            "key": "377",
+            "value": "Hahaha. Ich werde es versuchen."
+        },
+        {
+            "key": "378",
+            "value": "Komm mich besuchen, wenn du eine Pause brauchst. Du wirst ein paar wahre Leckerbissen bekommen."
+        },
+        {
+            "key": "379",
+            "value": "Was für eine tolle Idee. Machen wir ein Festmahl daraus, auf deine Kosten."
+        },
+        {
+            "key": "380",
+            "value": "Und warum sollte ich für dich ein Festmahl veranstalten?"
+        },
+        {
+            "key": "381",
+            "value": "Was für einen unerwartet herzlosen Gefährten ich doch habe. Ich muss Magery davon berichten."
+        },
+        {
+            "key": "382",
+            "value": "Das ist doch Erpressung!"
+        },
+        {
+            "key": "383",
+            "value": "Hahaha! Mit euch beiden hat man immer Spaß! Toll, Kameraden zu haben, die einem so nahe stehen."
+        },
+        {
+            "key": "384",
+            "value": "Allerdings ist es nun Zeit für uns zu gehen, Camillo und Elsirelle."
+        },
+        {
+            "key": "385",
+            "value": "Erfüllt gewissenhaft eure Pflichten als Kristallkrieger, klar?"
+        },
+        {
+            "key": "386",
+            "value": "Aber ihr müsst auch genug Schlaf bekommen, um euch zu erholen. Schlaf macht alles besser."
+        },
+        {
+            "key": "387",
+            "value": "Natürlich. Macht es gut, ihr beiden."
+        },
+        {
+            "key": "388",
+            "value": "Bis bald."
+        },
+        {
+            "key": "389",
+            "value": "Damit hätten wir zwei Kristalle. Es läuft alles nach Plan."
+        },
+        {
+            "key": "390",
+            "value": "Willkommen zurück. Das dauerte unerwartet lange."
+        },
+        {
+            "key": "391",
+            "value": "Wir haben ein recht lustiges Pärchen getroffen."
+        },
+        {
+            "key": "392",
+            "value": "Wir reden später über alles. Lucio, Zeit dein Training fortzusetzen."
+        },
+        {
+            "key": "393",
+            "value": "Was? Aber ich bin gerade erst zurückgekommen."
+        },
+        {
+            "key": "394",
+            "value": "Das spielt keine Rolle."
+        },
+        {
+            "key": "395",
+            "value": "A-Aber ..."
+        },
+        {
+            "key": "396",
+            "value": "Dann werde ich mal mitmachen."
+        },
+        {
+            "key": "397",
+            "value": "Ich werde dich trainieren lassen, bis du vergessen hast, wie man rumheult!"
+        },
+        {
+            "key": "398",
+            "value": "Das klingt fast wie Gehirnwäsche."
+        },
+        {
+            "key": "399",
+            "value": "Ich werde mich in der Zwischenzeit vorbereiten. Komm nicht zu spät."
+        },
+        {
+            "key": "400",
+            "value": "Du erledigst alles auf deine eigene Art, was?"
+        },
+        {
+            "key": "401",
+            "value": "Gerade von dir muss ich mir das nicht sagen lassen."
+        },
+        {
+            "key": "402",
+            "value": "W-Warte! Lass mich nicht zurück!"
+        },
+        {
+            "key": "403",
+            "value": "Ist der Kristall gerade etwas dunkel geworden?"
+        },
+        {
+            "key": "404",
+            "value": "Beeilung, Lucio."
+        },
+        {
+            "key": "405",
+            "value": "I-Ich bin gleich da!"
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡...!"
+        },
+        {
+            "key": "002",
+            "value": "Kiton."
+        },
+        {
+            "key": "003",
+            "value": "He vuelto de Wezette."
+        },
+        {
+            "key": "004",
+            "value": "¿Y Graciela?..."
+        },
+        {
+            "key": "005",
+            "value": "Ella y los suyos trabajan duro para restaurar Wezette."
+        },
+        {
+            "key": "006",
+            "value": "Entiendo. Mientras ella esté bien..."
+        },
+        {
+            "key": "007",
+            "value": "Mont, creo que debería ir contigo..."
+        },
+        {
+            "key": "008",
+            "value": "No, es aquí donde te necesitan."
+        },
+        {
+            "key": "009",
+            "value": "Seguro que has escuchado los informes sobre Santocristal apresurándose en sus preparativos para la guerra."
+        },
+        {
+            "key": "010",
+            "value": "No sabemos si el objetivo de Sadali es Rundal o Hourne..."
+        },
+        {
+            "key": "011",
+            "value": "Incluso con Schuzelt como comandante de Solidus, no disponemos de una defensa sólida."
+        },
+        {
+            "key": "012",
+            "value": "Lo sé muy bien..."
+        },
+        {
+            "key": "013",
+            "value": "¿Pero se te ha olvidado que te enfrentas a los ejércitos aliados de Rundal y Heindler?"
+        },
+        {
+            "key": "014",
+            "value": "Por muy increíble que sea el poder unido de Hourne y Leonis, no hay garantía de que tengamos la más mínima oportunidad..."
+        },
+        {
+            "key": "015",
+            "value": "Adelardo, ¿tú también piensas así?"
+        },
+        {
+            "key": "016",
+            "value": "Lo siento, majestad. Tal como están las cosas..."
+        },
+        {
+            "key": "017",
+            "value": "Luchar junto a Rundal contra Wezette nos ha mostrado hasta cierto punto de lo que son capaces."
+        },
+        {
+            "key": "018",
+            "value": "No bajaré la guardia, pero no tanto como para no tomar cartas en el asunto cuando haga falta."
+        },
+        {
+            "key": "019",
+            "value": "Mont..."
+        },
+        {
+            "key": "020",
+            "value": "Necesito que lo entiendas, Machérie."
+        },
+        {
+            "key": "021",
+            "value": "La invasión de Ovis le dará a Rundal un motivo para poner pie en esta tierra... de camino al este de Ardra."
+        },
+        {
+            "key": "022",
+            "value": "Si toman Ovis, su próximo objetivo probablemente será Hourne..."
+        },
+        {
+            "key": "023",
+            "value": "Debemos pararles los pies antes de que eso suceda, pase lo que pase."
+        },
+        {
+            "key": "024",
+            "value": "Tienes razón..."
+        },
+        {
+            "key": "025",
+            "value": "Mi padre era bastante consciente de la amenaza que Rundal supone."
+        },
+        {
+            "key": "026",
+            "value": "Por esa razón cedió a la humillación que supone aliarse con Fennes..."
+        },
+        {
+            "key": "027",
+            "value": "Permaneceré en el castillo, pero llevad con vos a Saria, Grahl y Reiches."
+        },
+        {
+            "key": "028",
+            "value": "Sus habilidades son dignas de admirar..., aunque no puedo decir lo mismo de sus personalidades."
+        },
+        {
+            "key": "029",
+            "value": "¿Estás seguro? Es tu hermana..."
+        },
+        {
+            "key": "030",
+            "value": "Por supuesto."
+        },
+        {
+            "key": "031",
+            "value": "Pero debo advertiros de algo que concierne a Reiches..."
+        },
+        {
+            "key": "032",
+            "value": "Ay..."
+        },
+        {
+            "key": "033",
+            "value": "Ahora que estaba ilusionada con irme de viaje con mi hermano."
+        },
+        {
+            "key": "034",
+            "value": "Debo disculparme."
+        },
+        {
+            "key": "035",
+            "value": "Nada de esto es tu culpa."
+        },
+        {
+            "key": "036",
+            "value": "Mi intención no era estropear tus planes."
+        },
+        {
+            "key": "037",
+            "value": "Entonces..., ¿qué quieres decir?"
+        },
+        {
+            "key": "038",
+            "value": "Han decidido que Reiches también venga con nosotros."
+        },
+        {
+            "key": "039",
+            "value": "Lo sé."
+        },
+        {
+            "key": "040",
+            "value": "Pero puede ser algo bueno, ¿no crees?"
+        },
+        {
+            "key": "041",
+            "value": "Me hubiese vuelto loca pensando en mi hermano y ella por ahí solitos mientras yo no estoy."
+        },
+        {
+            "key": "042",
+            "value": "Bueno, la verdad es que..."
+        },
+        {
+            "key": "043",
+            "value": "Esta expedición también es una oportunidad para conocer el carácter real de Reiches."
+        },
+        {
+            "key": "044",
+            "value": "Lo sé, mi hermano me lo ha contado."
+        },
+        {
+            "key": "045",
+            "value": "¿En serio?"
+        },
+        {
+            "key": "046",
+            "value": "Ella tenía intención de servir a Rundal, ¿no es así?"
+        },
+        {
+            "key": "047",
+            "value": "Pero entonces se enamoró de mi hermano y vino aquí a Hourne..."
+        },
+        {
+            "key": "048",
+            "value": "Es tan patético... Sin embargo, lo comprendo."
+        },
+        {
+            "key": "049",
+            "value": "Si Reiches actúa de manera sospechosa..."
+        },
+        {
+            "key": "050",
+            "value": "Oh, no te preocupes, déjame eso a mí. La reduciré a cenizas con el hechizo Fulgor más poderoso y despiadado que pueda conjurar."
+        },
+        {
+            "key": "051",
+            "value": "Oh, qué raro veros a los dos juntos."
+        },
+        {
+            "key": "052",
+            "value": "Espero no interrumpir nada."
+        },
+        {
+            "key": "053",
+            "value": "¿Interrumpir qué?"
+        },
+        {
+            "key": "054",
+            "value": "Los dos hacéis buena pareja. Al igual que lord Adelardo y yo."
+        },
+        {
+            "key": "055",
+            "value": "…"
+        },
+        {
+            "key": "056",
+            "value": "¿Qu-qué es lo que pasa? De repente se os ha comido la lengua el gato..."
+        },
+        {
+            "key": "057",
+            "value": "¡Escuadrón de expedición de Ovis, formad filas!"
+        },
+        {
+            "key": "058",
+            "value": "Nuestro ejército aliado parte hacia Ovis en estos momentos. "
+        },
+        {
+            "key": "059",
+            "value": "Tenemos un solo objetivo: la liberación de Ovis."
+        },
+        {
+            "key": "060",
+            "value": "Su opresión bajo Rundal y Heindler no puede seguir."
+        },
+        {
+            "key": "061",
+            "value": "Partamos, pues. La gente de Ovis nos espera."
+        }
+    ]
+}

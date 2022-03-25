@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "GPP_TITLE",
+            "value": "¡Regalos recibidos!"
+        },
+        {
+            "key": "GPP_LATER_BTN",
+            "value": "Más tarde"
+        },
+        {
+            "key": "GPP_GO2PRESENTS_BTN",
+            "value": "Ir a Regalos"
+        },
+        {
+            "key": "GPP_DESC",
+            "value": "Se han canjeado tus puntos de Google Play Points por recompensas y estas se han enviado a tu caja de regalos. Los visiores se han añadido a tu cuenta."
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Sire ! Vous êtes rentré."
+        },
+        {
+            "key": "002",
+            "value": "Mais ! Que font-elles avec vous ?"
+        },
+        {
+            "key": "003",
+            "value": "Ha ha ! Il a fallu que le prince vienne vous sauver de la grotte aux squelettes, c'est ça ?"
+        },
+        {
+            "key": "004",
+            "value": "Elle se moque encore de nous !"
+        },
+        {
+            "key": "005",
+            "value": "Je n'en peux plus de cette femme !"
+        },
+        {
+            "key": "006",
+            "value": "Ce n'était pas ça du tout !"
+        },
+        {
+            "key": "007",
+            "value": "En réalité..."
+        },
+        {
+            "key": "008",
+            "value": "Quoi ? Elles ont défait les soldats de Fennes ?"
+        },
+        {
+            "key": "009",
+            "value": "Impossible..."
+        },
+        {
+            "key": "010",
+            "value": "Hmm, hmm !"
+        },
+        {
+            "key": "011",
+            "value": "La relève est arrivée, vieille bique ! Huhuhu !"
+        },
+        {
+            "key": "012",
+            "value": "Ouais !"
+        },
+        {
+            "key": "013",
+            "value": "C'est moi la vieille bique ?!"
+        },
+        {
+            "key": "014",
+            "value": "Ce n'est pas un peu fini, ce vacarme ?"
+        },
+        {
+            "key": "015",
+            "value": "Oh ! Encore un beau et noble garçon !"
+        },
+        {
+            "key": "016",
+            "value": "Mais c'est..."
+        },
+        {
+            "key": "017",
+            "value": "C'est Son Altesse Sterne !"
+        },
+        {
+            "key": "018",
+            "value": "Quel charisme... Celui-là, il est fort. Ça ne fait aucun doute."
+        },
+        {
+            "key": "019",
+            "value": "Ces jeunes femmes voudraient s'engager dans « Fortem »."
+        },
+        {
+            "key": "020",
+            "value": "..."
+        },
+        {
+            "key": "021",
+            "value": "Et ton avis, mon frère ?"
+        },
+        {
+            "key": "022",
+            "value": "Elles ont contenu la menace de Fennes à elles trois."
+        },
+        {
+            "key": "023",
+            "value": "Un simple coup de chance."
+        },
+        {
+            "key": "024",
+            "value": "Peut-être. Il n'empêche..."
+        },
+        {
+            "key": "025",
+            "value": "Je pense qu'elles ont du potentiel."
+        },
+        {
+            "key": "026",
+            "value": "Entendu. Laissez-les s'engager."
+        },
+        {
+            "key": "027",
+            "value": "Sire !"
+        },
+        {
+            "key": "028",
+            "value": "Youuuuhouuu !"
+        },
+        {
+            "key": "029",
+            "value": "On a réussi !"
+        },
+        {
+            "key": "030",
+            "value": "Victoire !"
+        },
+        {
+            "key": "031",
+            "value": "Ça ne pouvait se terminer que de cette manière."
+        }
+    ]
+}

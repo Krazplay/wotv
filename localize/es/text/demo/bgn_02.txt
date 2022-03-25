@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Creo que ahora es un buen momento para hablar de los <color=#0000ff>combos</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "En la batalla anterior, habéis generado un combo junto a lord Stern."
+        },
+        {
+            "key": "003",
+            "value": "Si uno o más aliados y vos atacáis a un enemigo con el mismo <color=#0000ff>tipo de ataque</color> <color=#0000ff>de forma consecutiva</color>, generaréis un combo y, por tanto, <color=#0000ff>aumentaréis</color> la cantidad de daño que le infligís al enemigo."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Cuanto mayor sea el número de ataques de un combo, mayor será la cantidad de daño infligido."
+        },
+        {
+            "key": "005",
+            "value": "Sin embargo, el combo volverá a cero en cuanto <color=#0000ff>el enemigo sea capaz de reaccionar</color>."
+        },
+        {
+            "key": "006",
+            "value": "Ahora mismo, tenemos a varios guerreros bastante especializados en los ataques de corte, como es el caso de lord Stern y vos mismo, lord Mont."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Os aconsejo que primero despachéis al bandido con un <color=#0000ff>combo de ataques normales</color> y que luego derrotéis al ogro con un combo que combine ataques normales y <color=#0000ff>habilidades de corte</color>."
+        },
+        {
+            "key": "008",
+            "value": "¡No me esperaba menos de vos! ¡Buen trabajo, lord Mont!"
+        },
+        {
+            "key": "009",
+            "value": "Os habéis dado cuenta de cómo <color=#0000ff>aumentaba el daño infligido</color> al ir encadenando combos, ¿verdad?"
+        },
+        {
+            "key": "010",
+            "value": "Observad la barra de acción e intentad encadenar siempre todos los combos que podáis."
+        }
+    ]
+}

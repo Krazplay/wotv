@@ -1,0 +1,112 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Père ! Non !"
+        },
+        {
+            "key": "002",
+            "value": "Ne... t'inquiète... pas..."
+        },
+        {
+            "key": "003",
+            "value": "Minnwu, il est à bout de forces."
+        },
+        {
+            "key": "004",
+            "value": "Mont... je vais... très... bien..."
+        },
+        {
+            "key": "005",
+            "value": "Non ! Père, vous ne pouvez plus avancer."
+        },
+        {
+            "key": "006",
+            "value": "Mais nous ne pouvons pas faire marche arrière, Sire."
+        },
+        {
+            "key": "007",
+            "value": "Si ce sont les soldats de Fennes qui t'inquiètent, je crois que nous les avons semés."
+        },
+        {
+            "key": "008",
+            "value": "Vous comptez donc faire halte ici un moment ?"
+        },
+        {
+            "key": "009",
+            "value": "Oui. Mon père ne tiendra pas longtemps à ce rythme."
+        },
+        {
+            "key": "010",
+            "value": "Si vous n'apportez pas votre aide à la princesse Graziella..."
+        },
+        {
+            "key": "011",
+            "value": "Tu cherches à nous faire tuer ?"
+        },
+        {
+            "key": "012",
+            "value": "Moi ? Jamais."
+        },
+        {
+            "key": "013",
+            "value": "C'est le roi Khory qu'il faut accuser de telles intentions."
+        },
+        {
+            "key": "014",
+            "value": "Je refuse de croire cela."
+        },
+        {
+            "key": "015",
+            "value": "Wezett et Leonis sont alliés !"
+        },
+        {
+            "key": "016",
+            "value": "Il n'y a que Leonis pour le croire."
+        },
+        {
+            "key": "017",
+            "value": "En ce moment même, les meilleurs soldats de Wezett sont à notre recherche."
+        },
+        {
+            "key": "018",
+            "value": "Pourquoi le roi Khory en aurait-il après nous ?"
+        },
+        {
+            "key": "019",
+            "value": "Croit-il que nous allons aider Graziella à se révolter ?"
+        },
+        {
+            "key": "020",
+            "value": "Il est possible qu'il le pense. Mais en réalité, c'est avec Fennes que le roi cherche à faire alliance."
+        },
+        {
+            "key": "021",
+            "value": "Ce n'est pas possible !"
+        },
+        {
+            "key": "022",
+            "value": "Tu veux dire qu'il serait prêt à offrir nos têtes sur un plateau pour une alliance avec Muraga ?"
+        },
+        {
+            "key": "023",
+            "value": "Tu m'as bien comprise."
+        },
+        {
+            "key": "024",
+            "value": "Le roi vise cette alliance depuis longtemps. Il ne prend aucune décision à la légère, vous savez."
+        },
+        {
+            "key": "025",
+            "value": "Pour préserver son royaume, il ne voit d'autre issue que de s'allier avec Fennes, plutôt qu'avec Leonis."
+        },
+        {
+            "key": "026",
+            "value": "Ce que tu veux dire, c'est que nous arrêter ici nous mettrait à portée des forces de Wezett ?"
+        },
+        {
+            "key": "027",
+            "value": "En effet. Je crains que nous ne soyons obligés d'avancer."
+        }
+    ]
+}

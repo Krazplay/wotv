@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Lynx… !"
+        },
+        {
+            "key": "002",
+            "value": "Mais… tu es blessée…"
+        },
+        {
+            "key": "003",
+            "value": "Attends ici, je reviens tout de suite avec un mage blanc."
+        },
+        {
+            "key": "004",
+            "value": "N-non. Je peux arrêter l'hémorragie. Cette blessure n'est pas si…"
+        },
+        {
+            "key": "005",
+            "value": "M-mais…"
+        },
+        {
+            "key": "006",
+            "value": "Qui t'a fait ça ?"
+        },
+        {
+            "key": "007",
+            "value": "Rairyuu, un shinobi aux ordres de Muraga."
+        },
+        {
+            "key": "008",
+            "value": "Père..."
+        },
+        {
+            "key": "009",
+            "value": "Oui. On dirait qu'il n'est plus nécessaire de faire les yeux doux à Muraga."
+        },
+        {
+            "key": "010",
+            "value": "Dans ce cas… !"
+        },
+        {
+            "key": "011",
+            "value": "Il y a… encore une chose."
+        },
+        {
+            "key": "012",
+            "value": "J'ai vu les troupes de Sadali se mettre en route pour le nord."
+        },
+        {
+            "key": "013",
+            "value": "… Le nord ?"
+        },
+        {
+            "key": "014",
+            "value": "Wezett… Est-ce qu'il…"
+        },
+        {
+            "key": "015",
+            "value": "La division « Nitor » est également en route pour Wezett. Il faut les avertir au plus tôt…"
+        },
+        {
+            "key": "016",
+            "value": "Il faut que j'aille avertir le commandant Adelard."
+        },
+        {
+            "key": "017",
+            "value": "Ne sois pas idiote. Il faut d'abord soigner tes blessures."
+        },
+        {
+            "key": "018",
+            "value": "Pas maintenant. Je suis la plus à même de remplir cette mission."
+        },
+        {
+            "key": "019",
+            "value": "Lynx !"
+        },
+        {
+            "key": "020",
+            "value": "Lynx…"
+        }
+    ]
+}

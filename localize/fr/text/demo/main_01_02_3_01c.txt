@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Quoi... ?"
+        },
+        {
+            "key": "002",
+            "value": "..."
+        },
+        {
+            "key": "003",
+            "value": "Prince Mont, qu'y a-t-il ?"
+        },
+        {
+            "key": "004",
+            "value": "J'ai entendu la voix de Machalie..."
+        },
+        {
+            "key": "005",
+            "value": "Dans ce cas, qu'attendez-vous pour lui répondre ?"
+        },
+        {
+            "key": "006",
+            "value": "Quoi... ?"
+        },
+        {
+            "key": "007",
+            "value": "Dame Machalie est... introuvable."
+        },
+        {
+            "key": "008",
+            "value": "Et pourtant vous avez entendu sa voix..."
+        },
+        {
+            "key": "009",
+            "value": "C'était peut-être un message des dieux ?"
+        },
+        {
+            "key": "010",
+            "value": "C'est impossible..."
+        },
+        {
+            "key": "011",
+            "value": "Prince Mont ! Il n'y a plus d'ennemis."
+        },
+        {
+            "key": "012",
+            "value": "Nous avons gagné un bref moment de répit, apparemment."
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Mon prince, il faut vous décider."
+        },
+        {
+            "key": "015",
+            "value": "Je sais bien. Nous allons pénétrer dans le château et découvrir les véritables intentions de mon père."
+        }
+    ]
+}

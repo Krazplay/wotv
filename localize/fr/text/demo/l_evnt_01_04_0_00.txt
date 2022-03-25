@@ -1,0 +1,396 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "…"
+        },
+        {
+            "key": "002",
+            "value": "Que m'est-il arrivé ? Qu'elle était cette étrange lumière ?"
+        },
+        {
+            "key": "003",
+            "value": "Ranan semble être au courant de quelque chose, mais il est évident qu'il n'a pas envie de s'avancer trop vite sur le sujet."
+        },
+        {
+            "key": "004",
+            "value": "Serait-ce la preuve que je suis en passe de devenir un Guerrier des cristaux ? Hmmm…"
+        },
+        {
+            "key": "005",
+            "value": "Comment puis-je ignorer ce qui vient de se produire… Qu'est-ce que je suis censé faire ?"
+        },
+        {
+            "key": "006",
+            "value": "Bien le bonjour, l'apprenti. Tu te rends compte que tu parles à voix haute ?"
+        },
+        {
+            "key": "007",
+            "value": "Ah, seigneur Bériz ! Pour être tout à fait honnête, quelque chose me tracasse. Peut-être pourriez-vous…"
+        },
+        {
+            "key": "008",
+            "value": "Je t'arrête tout de suite ! Ça ne m'intéresse pas."
+        },
+        {
+            "key": "009",
+            "value": "Mais…"
+        },
+        {
+            "key": "010",
+            "value": "Si tu es en quête de réponses existentielles, je te conseille d'aller en toucher deux mots à Cétia ou Ranan."
+        },
+        {
+            "key": "011",
+            "value": "Je ne suis pas du genre à m'intéresser aux discussions difficiles. Les tracas des jeunes recrues ne sont pas mon problème."
+        },
+        {
+            "key": "012",
+            "value": "Donc ne te fatigue pas plus, d'accord ? Je n'entends ni ne vois rien. C'est compris ?"
+        },
+        {
+            "key": "013",
+            "value": "Message reçu… J'irai poser mes questions aux autres si l'occasion se présente."
+        },
+        {
+            "key": "014",
+            "value": "Voilà qui est mieux. Ainsi, aucun de nous ne perdra son temps inutilement."
+        },
+        {
+            "key": "015",
+            "value": "D'ailleurs, j'aimerais m'entretenir avec toi."
+        },
+        {
+            "key": "016",
+            "value": "Je parie que c'est à propos d'un autre cristal fondamental ?"
+        },
+        {
+            "key": "017",
+            "value": "Tu comprends vite. Je suppose que c'est pour cela qu'ils t'appellent « le guerrier prometteur »."
+        },
+        {
+            "key": "018",
+            "value": "Ç-Ça m'étonnerait que je sois prometteur en quoi que ce soit…"
+        },
+        {
+            "key": "019",
+            "value": "Tu ferais mieux d'apprécier les compliments qui te sont faits. Ils se feront de plus en plus rares à mesure que tu prendras de l'âge, crois-moi."
+        },
+        {
+            "key": "020",
+            "value": "Mais nous nous éloignons du sujet. Tu vas de nouveau remonter le temps, encore bien plus loin que ton aventure aux côtés de Ranan."
+        },
+        {
+            "key": "021",
+            "value": "Tu n'as pas oublié les règles, n'est-ce pas ? Tu n'interviens pas et tu ne discutes pas d'événements qui ne se sont pas encore produits."
+        },
+        {
+            "key": "022",
+            "value": "Trouve le cristal fondamental et ramène-le. Rien de plus, rien de moins. Compris ?"
+        },
+        {
+            "key": "023",
+            "value": "Je ne vous décevrai pas. Je vous jure de ramener le cristal fondamental à bon port !"
+        },
+        {
+            "key": "024",
+            "value": "Voilà qui me plaît. Les trois autres n'avaient pas tort à ton sujet."
+        },
+        {
+            "key": "025",
+            "value": "Très bien, je te laisse t'en occuper alors ! Montre-moi ce que tu sais faire, le nouveau !"
+        },
+        {
+            "key": "026",
+            "value": "Hein ?! Deux secondes ! Et vous ?"
+        },
+        {
+            "key": "027",
+            "value": "Quoi, moi ? Je t'ai détaillé ta quête, mon rôle est terminé."
+        },
+        {
+            "key": "028",
+            "value": "Vous voulez dire que je vais devoir y aller tout seul ?"
+        },
+        {
+            "key": "029",
+            "value": "Je suis censé t'accompagner, mais ces expéditions de recherche sont bien trop ennuyeuses à mon goût."
+        },
+        {
+            "key": "030",
+            "value": "Étonnant de la part d'un Guerrier des cristaux…"
+        },
+        {
+            "key": "031",
+            "value": "Tu en as déjà retrouvé trois. On peut presque dire que tu es un expert dans la recherche de cristaux fondamentaux. Tu vas très bien t'en sortir seul."
+        },
+        {
+            "key": "032",
+            "value": "Je t'accompagnerai par la pensée. Garde la tête haute et fonce !"
+        },
+        {
+            "key": "033",
+            "value": "Je n'aime pas du tout ça…"
+        },
+        {
+            "key": "034",
+            "value": "Écoute, je suis le plus ancien des guerriers, ce qui fait de moi l'équivalent d'un leader. Tu vois où je veux en venir ?"
+        },
+        {
+            "key": "035",
+            "value": "Vous n'avez aucune intention de lever le petit doigt, je me trompe ?"
+        },
+        {
+            "key": "036",
+            "value": "Qu'est-ce que vous faites encore là ? Vous devriez déjà être en route depuis un moment."
+        },
+        {
+            "key": "037",
+            "value": "Rah ! Ranan…"
+        },
+        {
+            "key": "038",
+            "value": "C'est quoi ces manières, Bériz. Tu ferais mieux de ne pas tenter de tout refiler à notre jeune recrue."
+        },
+        {
+            "key": "039",
+            "value": "Ça n'est absolument pas mon genre ! J'étais juste en train de plaisanter ! Pas vrai, Lucio ?"
+        },
+        {
+            "key": "040",
+            "value": "Bien sûr…"
+        },
+        {
+            "key": "041",
+            "value": "Ha… Tu ne changeras jamais, Bériz. Active-toi, tu es en train de gâcher du temps précieux."
+        },
+        {
+            "key": "042",
+            "value": "Bien, bien."
+        },
+        {
+            "key": "043",
+            "value": "Oh, et Lucio ? Je te conseille d'être particulièrement vigilant."
+        },
+        {
+            "key": "044",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "045",
+            "value": "J'ai peur que notre recherche des cristaux fondamentaux soit trop lente."
+        },
+        {
+            "key": "046",
+            "value": "J'ai comme un mauvais pressentiment. Reste sur tes gardes."
+        },
+        {
+            "key": "047",
+            "value": "Ce n'est pas très précis…"
+        },
+        {
+            "key": "048",
+            "value": "Allez, jeune recrue. Mettons-nous en route avant que quelqu'un d'autre ne vienne nous faire la leçon."
+        },
+        {
+            "key": "049",
+            "value": "A-attendez ! J'ai encore quelque chose à demander au seigneur Ranan…"
+        },
+        {
+            "key": "050",
+            "value": "Nous y voilà ! Le royaume de Leonis."
+        },
+        {
+            "key": "051",
+            "value": "Je suppose que je vais devoir attendre mon retour pour lui poser ma question…"
+        },
+        {
+            "key": "052",
+            "value": "Ha ha, désolé. Mais quelque chose me disait qu'on risquait de perdre encore notre temps."
+        },
+        {
+            "key": "053",
+            "value": "Je commence à me demander si je suis réellement en sécurité avec vous."
+        },
+        {
+            "key": "054",
+            "value": "Je devrais me sentir offensé, mais je vois tout à fait où tu veux en venir."
+        },
+        {
+            "key": "055",
+            "value": "Mais garde le sourire ! Après tout, tu vadrouilles aux côtés du plus ancien des guerriers."
+        },
+        {
+            "key": "056",
+            "value": "J’ai failli me laisser convaincre…"
+        },
+        {
+            "key": "057",
+            "value": "Fais-moi confiance. Il n'y aucun intérêt à ressasser le passé. Hmm… Qu'est-ce que c'est que ça ?"
+        },
+        {
+            "key": "058",
+            "value": "Quoi donc ?"
+        },
+        {
+            "key": "059",
+            "value": "J'ai ressenti le cristal fondamental. Mais quelque chose cloche… Ça ne me dit rien qui vaille."
+        },
+        {
+            "key": "060",
+            "value": "Ah oui ?"
+        },
+        {
+            "key": "061",
+            "value": "Le cristal fondamental semble tout prêt mais quelque chose d'autre s'approche à grande vitesse."
+        },
+        {
+            "key": "062",
+            "value": "O-On ferait mieux de se dépêcher, non ?"
+        },
+        {
+            "key": "063",
+            "value": "Oui. Malheureusement, le combattre va nous demander beaucoup d'efforts. On ferait mieux d'abandonner."
+        },
+        {
+            "key": "064",
+            "value": "Hors de question !"
+        },
+        {
+            "key": "065",
+            "value": "Je plaisante, je plaisante. Je n'ai aucunement l'intention de risquer de mettre Ranan en colère pour un détail aussi futile."
+        },
+        {
+            "key": "066",
+            "value": "Dépêchons-nous de retrouver le cristal fondamental, en espérant qu'il sera toujours là quand nous arriverons."
+        },
+        {
+            "key": "067",
+            "value": "Ha… Ha… Pfiou… Où est-il ?"
+        },
+        {
+            "key": "068",
+            "value": "Ici. Dans la poussière."
+        },
+        {
+            "key": "069",
+            "value": "On ferait mieux de s'en emparer !"
+        },
+        {
+            "key": "070",
+            "value": "J'adorerais, mais on dirait bien que nous sommes arrivés trop tard."
+        },
+        {
+            "key": "071",
+            "value": "Hein…  ?!"
+        },
+        {
+            "key": "072",
+            "value": "Un monstre ! Il est gigantesque !"
+        },
+        {
+            "key": "073",
+            "value": "A-attends, ne… ! Argh !"
+        },
+        {
+            "key": "074",
+            "value": "Qu'est-ce qu'on fait maintenant ? Le monstre a avalé le cristal fondamental !"
+        },
+        {
+            "key": "075",
+            "value": "Rah… Le pire scénario se profile. On va devoir le lui faire cracher."
+        },
+        {
+            "key": "076",
+            "value": "Ça aura l'avantage de nous échauffer. Tiens-toi prêt à mordre la poussière, saleté de monstre !"
+        },
+        {
+            "key": "077",
+            "value": "Voilà qui devrait suffire…"
+        },
+        {
+            "key": "078",
+            "value": "J-Je ne savais pas que vous étiez si fort !"
+        },
+        {
+            "key": "079",
+            "value": "Arrête de faire comme si tu n'avais jamais vu personne mettre un béhémoth à genoux !"
+        },
+        {
+            "key": "080",
+            "value": "Oui, m’sieur !"
+        },
+        {
+            "key": "081",
+            "value": "Qu'est-ce que… ?!"
+        },
+        {
+            "key": "082",
+            "value": "Il a appelé d'autres monstres !"
+        },
+        {
+            "key": "083",
+            "value": "C'est bien plus qu'un simple appel. Il se comporte comme le chef d'une meute qui demande à ses congénères de le protéger."
+        },
+        {
+            "key": "084",
+            "value": "Il y en a beaucoup trop. Impossible de s'en approcher !"
+        },
+        {
+            "key": "085",
+            "value": "Il s'est enfui… Nous devons le rattraper !"
+        },
+        {
+            "key": "086",
+            "value": "Deux secondes ! Nous entêter ne nous mettrait que davantage en danger face à tous ces monstres."
+        },
+        {
+            "key": "087",
+            "value": "Chaque chose en son temps. Est-ce que tu vas bien ? Ranan ne ferait qu'une bouchée de moi si tu venais à être blessé."
+        },
+        {
+            "key": "088",
+            "value": "Ça va, rien de plus que des égratignures. Mais vous ne trouvez pas ça étrange que le monstre se soit enfui ?"
+        },
+        {
+            "key": "089",
+            "value": "J'ai vu une multitude de monstres devenir fous à cause du cristal, mais jamais je n'en avais vu un se comporter de la sorte."
+        },
+        {
+            "key": "090",
+            "value": "Si j'en crois ce que tu viens de dire, je dirais que c'est étrange, en effet."
+        },
+        {
+            "key": "091",
+            "value": "Un béhémoth ne bat jamais en retraite comme il l'a fait."
+        },
+        {
+            "key": "092",
+            "value": "Peut-être que quelqu'un contrôle son esprit et lui a ordonné de s'enfuir."
+        },
+        {
+            "key": "093",
+            "value": "Seigneur Ranan a dit qu'il avait un mauvais pressentiment. Est-ce ce à quoi il faisait allusion ?"
+        },
+        {
+            "key": "094",
+            "value": "C'était censé être une blague… Mais nous ne pouvons pas non plus écarter cette hypothèse."
+        },
+        {
+            "key": "095",
+            "value": "En tout cas, je ne ressens rien dans les alentours. Peut-être avons-nous croisé le seul béhémoth doté d'une intelligence de tout Leonis."
+        },
+        {
+            "key": "096",
+            "value": "Quoi qu'il en soit, nous devons le suivre. Heureusement pour nous, il nous a laissé de belles traces…"
+        },
+        {
+            "key": "097",
+            "value": "Profitons-en pour terrasser le plus de monstres possible au passage, histoire de nous faciliter la tâche."
+        },
+        {
+            "key": "098",
+            "value": "Diviser pour mieux régner, c'est ça ?"
+        }
+    ]
+}

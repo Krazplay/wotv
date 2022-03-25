@@ -1,0 +1,308 @@
+﻿{
+    "infos": [
+        {
+            "key": "137",
+            "value": "Ils avaient plus de mordant que prévu. Presque aussi féroces que ce que décrivaient les villageois."
+        },
+        {
+            "key": "138",
+            "value": "Qui-qui êtes-vous ?"
+        },
+        {
+            "key": "139",
+            "value": "Les Guerrier des cristaux. Nous t'avons aidé pour que tu nous livres des informations utiles."
+        },
+        {
+            "key": "140",
+            "value": "Les Guerriers des cristaux… ?"
+        },
+        {
+            "key": "141",
+            "value": "Je vais prendre le relai ! Ce que veut dire ma collègue, c'est que nous sommes ici à la recherche de quelque chose de précis."
+        },
+        {
+            "key": "142",
+            "value": "Mais avant de parler de ça, comment vas-tu ?"
+        },
+        {
+            "key": "143",
+            "value": "Ça va… Merci à tous les deux."
+        },
+        {
+            "key": "144",
+            "value": "Votre aide était la bienvenue."
+        },
+        {
+            "key": "145",
+            "value": "Mais je ne peux pas être sûr que vous ne soyez pas des assassins qui êtes intervenus pour que je baisse ma garde…"
+        },
+        {
+            "key": "146",
+            "value": "C'est bon Tyrrell, tu peux ranger ton épée."
+        },
+        {
+            "key": "147",
+            "value": "Vi-Vinera, non, vous deviez rester cachée."
+        },
+        {
+            "key": "148",
+            "value": "Qui nous dit que ce ne sont pas des espions de Fennes !"
+        },
+        {
+            "key": "149",
+            "value": "Nous n'avons rien à craindre d'eux."
+        },
+        {
+            "key": "150",
+            "value": "Comment pouvez-vous en être sûre ?"
+        },
+        {
+            "key": "151",
+            "value": "Ils ne nous veulent pas de mal. Je ne suis pas en état de me battre, mais je suis en état de l'affirmer."
+        },
+        {
+            "key": "152",
+            "value": "Bon, c'est vraiment parce qu'elle le dit…"
+        },
+        {
+            "key": "153",
+            "value": "Mais ça veut dire que j'étais en train de menacer mes sauveurs ! Je m'excuse."
+        },
+        {
+            "key": "154",
+            "value": "Je m'appelle Tyrrell. Des… circonstances nous ont jetés sur la route, j'accompagne Dame Vinera depuis. "
+        },
+        {
+            "key": "155",
+            "value": "Vinera, c'est moi."
+        },
+        {
+            "key": "156",
+            "value": "Et je vous remercie chaleureusement pour votre aide, vous nous avez sauvé la vie."
+        },
+        {
+            "key": "157",
+            "value": "À présent, dites-nous ce qui vous amène ici."
+        },
+        {
+            "key": "158",
+            "value": "Nous cherchons un cristal fondamental."
+        },
+        {
+            "key": "159",
+            "value": "Je vais vous expliquer."
+        },
+        {
+            "key": "160",
+            "value": "Et voilà, c'est pour cela que nous sommes là."
+        },
+        {
+            "key": "161",
+            "value": "Vous voyagez à la recherche de cristaux éparpillés dans des mondes différents…"
+        },
+        {
+            "key": "162",
+            "value": "Ces histoires sont difficiles à croire, comme l'existence de votre royaume…"
+        },
+        {
+            "key": "163",
+            "value": "Alors, pouvez-vous nous dire quoi que ce soit à propos de ce cristal fondamental ?"
+        },
+        {
+            "key": "164",
+            "value": "J'ai bien peur que non."
+        },
+        {
+            "key": "165",
+            "value": "Bon. Alors on s'en va."
+        },
+        {
+            "key": "166",
+            "value": "A-Attendez ! On n'abandonne pas un peu vite ?"
+        },
+        {
+            "key": "167",
+            "value": "Nous n'avons pas de temps à perdre."
+        },
+        {
+            "key": "168",
+            "value": "Pourquoi ne jugez-vous les gens qu'à l'utilité qu'ils ont pour vous, Dame Jeaum ?"
+        },
+        {
+            "key": "169",
+            "value": "Hm. Laissez-moi poser les questions, cette fois."
+        },
+        {
+            "key": "170",
+            "value": "Que faites-vous dans ce tunnel ? Vous fuyez quelqu'un ?"
+        },
+        {
+            "key": "171",
+            "value": "Eh bien…"
+        },
+        {
+            "key": "172",
+            "value": "Notre propre royaume veut notre tête."
+        },
+        {
+            "key": "173",
+            "value": "Vinera… !"
+        },
+        {
+            "key": "174",
+            "value": "Ils nous ont raconté leur histoire. Nous leur devons bien la nôtre, non ?"
+        },
+        {
+            "key": "175",
+            "value": "J-J'imagine…"
+        },
+        {
+            "key": "176",
+            "value": "Nous nous sommes réfugiés dans ces mines pour échapper aux soldats de Fennes."
+        },
+        {
+            "key": "177",
+            "value": "Mais nous nous sommes heurtés à de trop nombreux monstres qui nous ont empêchés d'avancer."
+        },
+        {
+            "key": "178",
+            "value": "C'est pourquoi j'ai un service à vous demander."
+        },
+        {
+            "key": "179",
+            "value": "Pourriez-vous nous escorter jusqu'à l'extérieur ?"
+        },
+        {
+            "key": "180",
+            "value": "Quoi ? Mais Vinera, je suis là pour ça, moi !"
+        },
+        {
+            "key": "181",
+            "value": "Tyrrell… Nous ne pouvons nous permettre de prendre des risques."
+        },
+        {
+            "key": "182",
+            "value": "Pourquoi ne pas profiter que ces gens soient-là ?"
+        },
+        {
+            "key": "183",
+            "value": "Pourquoi ne pouvez-vous pas vous battre, Dame Vinera ?"
+        },
+        {
+            "key": "184",
+            "value": "Elle porte un enfant."
+        },
+        {
+            "key": "185",
+            "value": "Sa condition l'empêche de combattre, et de toute façon je ne la laisserais pas faire."
+        },
+        {
+            "key": "186",
+            "value": "Dans ce cas pourquoi portez-vous une épée ?"
+        },
+        {
+            "key": "187",
+            "value": "Elle appartenait à quelqu'un d'important pour moi. Il me l'a confiée."
+        },
+        {
+            "key": "188",
+            "value": "C'est une sorte de porte-bonheur."
+        },
+        {
+            "key": "189",
+            "value": "Je comprends mieux ce que vous faites là. Que fait-on, Dame Jeaum ?"
+        },
+        {
+            "key": "190",
+            "value": "Nous n'avons pas de temps à perdre avec des détours."
+        },
+        {
+            "key": "191",
+            "value": "Et nous ne pouvons certainement pas nous encombrer avec la protection des plus faibles."
+        },
+        {
+            "key": "192",
+            "value": "Je n'avais pas l'intention de vous demander cela sans rien offrir en retour. Aidez-vous, et nous vous aiderons à trouver le cristal fondamental."
+        },
+        {
+            "key": "193",
+            "value": "Puisque vous pensez qu'il se trouve dans ces mines, vous avez intérêt à mobiliser le plus de monde possible pour les explorer, non ?"
+        },
+        {
+            "key": "194",
+            "value": "Ils nous offrent leur aide, la moindre des choses serait de les protéger, non ?"
+        },
+        {
+            "key": "195",
+            "value": "Je ne comprends pas pourquoi tu tiens à t'encombrer d'une femme enceinte."
+        },
+        {
+            "key": "196",
+            "value": "Les protéger ne fait que nous mettre en danger."
+        },
+        {
+            "key": "197",
+            "value": "Et je ne vois pas pourquoi je risquerais ma vie pour celle des autres."
+        },
+        {
+            "key": "198",
+            "value": "Je ne suis pas un Guerrier des cristaux très expérimenté, et peut-être qu'aux oreilles de quelqu'un qui n'est pas humain cela semble absurde mais…"
+        },
+        {
+            "key": "199",
+            "value": "Tout dans la vie ne se résume pas à ce qu'on peut gagner ou perdre."
+        },
+        {
+            "key": "200",
+            "value": "Sans compter que je ne peux pas me résoudre à les abandonner à leur sort."
+        },
+        {
+            "key": "201",
+            "value": "Ce n'est pas le Guerrier des cristaux qui parle, c'est mon âme."
+        },
+        {
+            "key": "202",
+            "value": "J'ai une question."
+        },
+        {
+            "key": "203",
+            "value": "Trouves-tu moral que les forts protègent les faibles ?"
+        },
+        {
+            "key": "204",
+            "value": "Je n'en sais rien."
+        },
+        {
+            "key": "205",
+            "value": "Tout ce que je sais, c'est que si je ne les aide pas, là, maintenant, je le regretterai toute ma vie."
+        },
+        {
+            "key": "206",
+            "value": "Bon."
+        },
+        {
+            "key": "207",
+            "value": "Nous acceptons votre offre."
+        },
+        {
+            "key": "208",
+            "value": "Mais seulement si nous trouvons le cristal. D'accord ?"
+        },
+        {
+            "key": "209",
+            "value": "Bien sûr. Je vous remercie."
+        },
+        {
+            "key": "210",
+            "value": "Vous pourrez toujours servir d'appât si ça tourne mal, après tout."
+        },
+        {
+            "key": "211",
+            "value": "Dites, Vinera… Vous ne craignez pas qu'on se soit adressés aux mauvaises personnes, finalement ?"
+        },
+        {
+            "key": "212",
+            "value": "Ha ha ha ha…"
+        }
+    ]
+}

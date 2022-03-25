@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Empieza a rayar el alba…"
+        },
+        {
+            "key": "002",
+            "value": "¿Qué diantres haces? Tenemos que marcharnos de aquí cuanto antes o, de lo contrario, nos van a atrapar."
+        },
+        {
+            "key": "003",
+            "value": "Machérie, ¿crees que podrías regresar a Hourne sola?"
+        },
+        {
+            "key": "004",
+            "value": "Si le explicas la situación a tu padre, seguro que lo entiende, ¿no?"
+        },
+        {
+            "key": "005",
+            "value": "Anda que te ha servido de mucho todo lo que te han enseñado."
+        },
+        {
+            "key": "006",
+            "value": "¿Disculpa?"
+        },
+        {
+            "key": "007",
+            "value": "¿Es que no lo entiendes?"
+        },
+        {
+            "key": "008",
+            "value": "Eso solo serviría para lady Machérie."
+        },
+        {
+            "key": "009",
+            "value": "Exactamente."
+        },
+        {
+            "key": "010",
+            "value": "Si me tomas como rehén, podrás negociar con mi padre."
+        },
+        {
+            "key": "011",
+            "value": "¿Tomarte como rehén? Pe-pero eso sería…"
+        },
+        {
+            "key": "012",
+            "value": "¡¿Cuál es el problema?! Creía que habías jurado protegerme."
+        },
+        {
+            "key": "013",
+            "value": "…"
+        },
+        {
+            "key": "014",
+            "value": "¿Y bien?"
+        },
+        {
+            "key": "015",
+            "value": "Lo juré antes y lo vuelvo a jurar ahora. ¡Te protegeré cueste lo que cueste!"
+        },
+        {
+            "key": "016",
+            "value": "Bien dicho."
+        },
+        {
+            "key": "017",
+            "value": "Ahora, retirada. El castillo de Leonis espera mi regreso."
+        }
+    ]
+}

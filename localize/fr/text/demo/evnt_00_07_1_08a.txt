@@ -1,0 +1,116 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Qui aurait pu croire qu'il y avait un espace comme celui-ci au bout du tunnel..."
+        },
+        {
+            "key": "002",
+            "value": "On dirait bien que c'est ici qu'ils creusent."
+        },
+        {
+            "key": "003",
+            "value": "Qu'est-ce que... ?!"
+        },
+        {
+            "key": "004",
+            "value": "Que s'est-il passé ? Où sont les moines ?"
+        },
+        {
+            "key": "005",
+            "value": "F-fuyez..."
+        },
+        {
+            "key": "006",
+            "value": "V-vite..."
+        },
+        {
+            "key": "007",
+            "value": "Commandant !"
+        },
+        {
+            "key": "008",
+            "value": "Aaah !"
+        },
+        {
+            "key": "009",
+            "value": "Argh..."
+        },
+        {
+            "key": "010",
+            "value": "Commandant en second !<br>Pourquoi m'avez-vous... ?!"
+        },
+        {
+            "key": "011",
+            "value": "Tu ne comprends toujours pas ? C'est un piège."
+        },
+        {
+            "key": "012",
+            "value": "Comment ça ?!"
+        },
+        {
+            "key": "013",
+            "value": "Ils s'attendaient à nous voir débarquer."
+        },
+        {
+            "key": "014",
+            "value": "Ça voudrait dire... qu'un traître se cacherait dans nos rangs ?"
+        },
+        {
+            "key": "015",
+            "value": "Il semblerait."
+        },
+        {
+            "key": "016",
+            "value": "C'est l'endroit idéal pour effectuer une attaque-surprise sur une troupe telle que la nôtre."
+        },
+        {
+            "key": "017",
+            "value": "Leurs flèches vont nous transpercer de toutes parts avant même que nous ne puissions les atteindre."
+        },
+        {
+            "key": "018",
+            "value": "C-ce n'est pas possible..."
+        },
+        {
+            "key": "019",
+            "value": "Le sort de cette bataille est entre vos mains, j'en ai bien peur."
+        },
+        {
+            "key": "020",
+            "value": "Moi et Lu'Cia ?"
+        },
+        {
+            "key": "021",
+            "value": "Mais n'en faites pas trop non plus. Si jamais vous vous retrouvez acculées, fuyez."
+        },
+        {
+            "key": "022",
+            "value": "Fuir ? Hors de question !"
+        },
+        {
+            "key": "023",
+            "value": "Nous nous battrons jusqu'au bout !"
+        },
+        {
+            "key": "024",
+            "value": "Dans ce cas, dis-moi qui sera à même d'informer sire Jayden qu'une taupe se cache parmi nous ?"
+        },
+        {
+            "key": "025",
+            "value": "Eh bien..."
+        },
+        {
+            "key": "026",
+            "value": "Si le danger se fait sentir, fuyez sans demander votre reste. C'est un ordre. Compris ?"
+        },
+        {
+            "key": "027",
+            "value": "Compris."
+        },
+        {
+            "key": "028",
+            "value": "Allons-y, Creysse."
+        }
+    ]
+}

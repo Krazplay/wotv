@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Un nouveau chef dirige la guilde des trafiquants d'armes depuis quelque temps."
+        },
+        {
+            "key": "002",
+            "value": "Oui, j'en ai entendu parler. Et ?"
+        },
+        {
+            "key": "003",
+            "value": "Cette même guilde, pourtant réputée pour son impartialité, serait désormais à la botte de l'Église."
+        },
+        {
+            "key": "004",
+            "value": "Je suppose que c'est la raison pour laquelle l'Église est au courant des moindres faits et gestes des différentes armées."
+        },
+        {
+            "key": "005",
+            "value": "En effet…"
+        },
+        {
+            "key": "006",
+            "value": "L'Église leur aurait donné des directives."
+        },
+        {
+            "key": "007",
+            "value": "« Trouvez les six épées créées par les maîtres forgerons, quel que soit le prix à payer. »"
+        },
+        {
+            "key": "008",
+            "value": "Je vois. Et tu penses que l'épée que tu viens de récupérer serait l'une d'elles ?"
+        },
+        {
+            "key": "009",
+            "value": "Tout juste."
+        },
+        {
+            "key": "010",
+            "value": "Je suis pas particulièrement bon juge de la qualité des lames, mais es-tu réellement sûr de ton coup ?"
+        },
+        {
+            "key": "011",
+            "value": "Howlie ! Ton épée coûte cher, alors ?"
+        },
+        {
+            "key": "012",
+            "value": "Tu n'as pas idée, Chel."
+        },
+        {
+            "key": "013",
+            "value": "Avec tout les gils qu’elle vaut, tu pourrais t’acheter une montagne de friandises chocobo, tes préférées !"
+        },
+        {
+            "key": "014",
+            "value": "Une montagne ? Ça fait combien à peu près ?"
+        },
+        {
+            "key": "015",
+            "value": "Une centaine au moins, je dirais."
+        },
+        {
+            "key": "016",
+            "value": "Ouah ! Jamais je ne pourrais tout manger !"
+        },
+        {
+            "key": "017",
+            "value": "Bon… mais pourquoi l'ancien t'aurait-il mêlé à tout ça ?"
+        },
+        {
+            "key": "018",
+            "value": "Aucune idée."
+        },
+        {
+            "key": "019",
+            "value": "Je sais seulement que celui qui trouvera les six épées héritera d'un pouvoir qui dépasse l'entendement…"
+        },
+        {
+            "key": "020",
+            "value": "C'est pour ça que l'Église a vassalisé la guilde des trafiquants d'armes ?"
+        },
+        {
+            "key": "021",
+            "value": "Je ne vois que ça."
+        },
+        {
+            "key": "022",
+            "value": "Mais je ne comprends toujours pas ce que l’ancien a à voir avec toute cette histoire ?"
+        },
+        {
+            "key": "023",
+            "value": "Je ne peux pas croire qu'il entend s'accaparer une telle puissance pour lui seul."
+        },
+        {
+            "key": "024",
+            "value": "Ignores-tu qu'il était lui-même un grand forgeron ?"
+        },
+        {
+            "key": "025",
+            "value": "Hein ?! Je n'en ai jamais eu vent."
+        },
+        {
+            "key": "026",
+            "value": "Le maître a forgé l’épée pour un valeureux samouraï de l'Est. Malheureusement, le guerrier aurait perdu la vie sur le champ de bataille."
+        },
+        {
+            "key": "027",
+            "value": "Et depuis, aucune trace de l'épée…"
+        },
+        {
+            "key": "028",
+            "value": "L'une des six épées, Kyuro Michikage…"
+        },
+        {
+            "key": "029",
+            "value": "L'ancien aurait forgé cette lame ? J'ai du mal à y croire…"
+        },
+        {
+            "key": "030",
+            "value": "Pourquoi… cette dame a l'air si triste ?"
+        },
+        {
+            "key": "031",
+            "value": "Bonne question."
+        },
+        {
+            "key": "032",
+            "value": "Elle ressemble à un joyau délicat qui aurait perdu de son éclat et qu'on aurait enterré dans le sable…"
+        },
+        {
+            "key": "033",
+            "value": "Howlie !"
+        },
+        {
+            "key": "034",
+            "value": "Je parie qu'elle est jolie quand elle est heureuse. Tu penses pouvoir la faire rire ?"
+        },
+        {
+            "key": "035",
+            "value": "En voilà une excellente idée, Chel. Il se trouve que je pensais exactement à la même chose."
+        },
+        {
+            "key": "036",
+            "value": "Vraiment ? Super !"
+        },
+        {
+            "key": "037",
+            "value": "D-Deux secondes. Tu comptes vraiment te lancer à sa poursuite ?"
+        },
+        {
+            "key": "038",
+            "value": "Mon très cher frère… N'as-tu rien retenu de ma discussion avec Chel ?"
+        },
+        {
+            "key": "039",
+            "value": "Mais que fait-on des cinq autres lames encore manquantes ?"
+        },
+        {
+            "key": "040",
+            "value": "Chaque chose en son temps."
+        },
+        {
+            "key": "041",
+            "value": "C'est ça. Et pour toi courir après les dames est d'une priorité absolue."
+        },
+        {
+            "key": "042",
+            "value": "Oh, Thytas ! Tes mots me blessent."
+        },
+        {
+            "key": "043",
+            "value": "Je ne cours pas après les dames."
+        },
+        {
+            "key": "044",
+            "value": "Ce sont elles qui semblent se retourner sur mon passage."
+        },
+        {
+            "key": "045",
+            "value": "Voyez-vous ça."
+        },
+        {
+            "key": "046",
+            "value": "De toute façon, tu ne peux pas comprendre."
+        },
+        {
+            "key": "047",
+            "value": "Ce n'est pas mon intention !"
+        },
+        {
+            "key": "048",
+            "value": "J'aimerais juste que tu évites les ennuis, pour une fois…"
+        }
+    ]
+}

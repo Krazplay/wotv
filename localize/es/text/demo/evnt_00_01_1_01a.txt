@@ -1,0 +1,208 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Uf, uf, uf..."
+        },
+        {
+            "key": "002",
+            "value": "Aún los llevo detrás."
+        },
+        {
+            "key": "003",
+            "value": "Y parece que ahora son más…"
+        },
+        {
+            "key": "004",
+            "value": "¿Qué hago?"
+        },
+        {
+            "key": "005",
+            "value": "Eh…"
+        },
+        {
+            "key": "006",
+            "value": "Snif, snif. Ese olor… Probablemente los está atrayendo."
+        },
+        {
+            "key": "007",
+            "value": "¡Ah!"
+        },
+        {
+            "key": "008",
+            "value": "¡E-eh, tú!"
+        },
+        {
+            "key": "009",
+            "value": "Snif, snif…"
+        },
+        {
+            "key": "010",
+            "value": "¿Qu-qué te traes entre manos?"
+        },
+        {
+            "key": "011",
+            "value": "Ay, qué bien huele. ¿Es perfume o qué?"
+        },
+        {
+            "key": "012",
+            "value": "Tienes buen olfato. Nunca está de más acicalarse, ¿no te parece?"
+        },
+        {
+            "key": "013",
+            "value": "Pero… ¿te has molestado en venir hasta aquí solo para decirme eso?"
+        },
+        {
+            "key": "014",
+            "value": "¡No, claro que no!"
+        },
+        {
+            "key": "015",
+            "value": "¡Mira!"
+        },
+        {
+            "key": "016",
+            "value": "Vaya, son un montón…"
+        },
+        {
+            "key": "017",
+            "value": "Ya veo: has venido en busca de ayuda."
+        },
+        {
+            "key": "018",
+            "value": "Así es."
+        },
+        {
+            "key": "019",
+            "value": "Pues no te preocupes."
+        },
+        {
+            "key": "020",
+            "value": "Hacen falta muchísimos más boms para tumbarme…"
+        },
+        {
+            "key": "021",
+            "value": "¡Caramba! ¡Cuánta confianza!"
+        },
+        {
+            "key": "022",
+            "value": "Por cierto…, me llamo Etra."
+        },
+        {
+            "key": "023",
+            "value": "Yo soy Yelma."
+        },
+        {
+            "key": "024",
+            "value": "Yelma, ojalá yo tuviera tanta confianza en mí misma."
+        },
+        {
+            "key": "025",
+            "value": "También me gustaría ser tan fuerte como tú…"
+        },
+        {
+            "key": "026",
+            "value": "¿Lo dices en serio? Pero hay que tener cuidado con no pasarse, ¿eh?…"
+        },
+        {
+            "key": "027",
+            "value": "Ah, ¿sí?"
+        },
+        {
+            "key": "028",
+            "value": "Voy en busca de un hombre que sea más fuerte que yo, ¿sabes?"
+        },
+        {
+            "key": "029",
+            "value": "¿Para enfrentarte a él?"
+        },
+        {
+            "key": "030",
+            "value": "Ja, ja. No exactamente."
+        },
+        {
+            "key": "031",
+            "value": "Quienquiera que consiga derrotarme en combate será el hombre que me robe el corazón…"
+        },
+        {
+            "key": "032",
+            "value": "Aaah, ¡ahora veo por dónde van los tiros!"
+        },
+        {
+            "key": "033",
+            "value": "Lo que pasa… es que no hay ningún hombre que me haya supuesto un reto todavía…"
+        },
+        {
+            "key": "034",
+            "value": "Pero, bueno, Etra, cuéntame. ¿Cuál es tu motivación en la vida?"
+        },
+        {
+            "key": "035",
+            "value": "Viajo para hacerme lo suficientemente fuerte como para servir al Reino de Leonis."
+        },
+        {
+            "key": "036",
+            "value": "¿Al Reino de Leonis, dices?"
+        },
+        {
+            "key": "037",
+            "value": "En Leonis, cuentan con una división que se llama Fortem, y su comandante, el príncipe Stern, es tan fuerte como apuesto."
+        },
+        {
+            "key": "038",
+            "value": "Conque apuesto, ¿eh?"
+        },
+        {
+            "key": "039",
+            "value": "Entonces, tú lo que quieres es acercarte al príncipe, ¿no?"
+        },
+        {
+            "key": "040",
+            "value": "Así es."
+        },
+        {
+            "key": "041",
+            "value": "¡Fuerte y apuesto!… Hasta a mí me han entrado ganas de conocerlo."
+        },
+        {
+            "key": "042",
+            "value": "Pe-perdona, no era mi intención entrometerme en tu historia de amor…"
+        },
+        {
+            "key": "043",
+            "value": "No pasa nada. Ahora que lo dices, deberíamos ir juntas a Leonis."
+        },
+        {
+            "key": "044",
+            "value": "Pe-pero…"
+        },
+        {
+            "key": "045",
+            "value": "Contar con competencia hará que me esfuerce más para llegar a superarme…"
+        },
+        {
+            "key": "046",
+            "value": "¿Estás segura?"
+        },
+        {
+            "key": "047",
+            "value": "¡Pues claro! A cambio, tú me ayudarás a entrenar y mejorar de camino a Leonis, ¿vale?"
+        },
+        {
+            "key": "048",
+            "value": "Trato hecho. No debería suponer demasiado trabajo."
+        },
+        {
+            "key": "049",
+            "value": "Aunque primero…"
+        },
+        {
+            "key": "050",
+            "value": "¡Tenemos que encargarnos de todos estos boms!"
+        },
+        {
+            "key": "051",
+            "value": "Sí, tienes razón. ¡A por ellos!"
+        }
+    ]
+}

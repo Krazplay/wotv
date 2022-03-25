@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Das Anwesen dort drüben ... Das muss das Haupthaus der Waffenhändlergilde sein."
+        },
+        {
+            "key": "002",
+            "value": "So ist es. Ghalzark hält sich vermutlich gerade dort auf."
+        },
+        {
+            "key": "003",
+            "value": "Velne ... warte bitte hier auf mich."
+        },
+        {
+            "key": "004",
+            "value": "Nein, ich komme mit dir."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Wir leben gemeinsam ... und wir sterben gemeinsam."
+        },
+        {
+            "key": "007",
+            "value": "Keiner wird sterben, hörst du? Wir werden das durchstehen, versprochen."
+        },
+        {
+            "key": "008",
+            "value": "... Gut."
+        },
+        {
+            "key": "009",
+            "value": "Dann komm. Für die Zukunft unseres Volkes ..."
+        }
+    ]
+}

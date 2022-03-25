@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Espèce de… ! Tu te prends pour qui ?"
+        },
+        {
+            "key": "002",
+            "value": "Tu veux vraiment voir ce dont nous sommes capables ?"
+        },
+        {
+            "key": "003",
+            "value": "Ça suffit !"
+        },
+        {
+            "key": "004",
+            "value": "Vous allez être dans l'pétrin si vous l'blessez…"
+        },
+        {
+            "key": "005",
+            "value": "Q-que…"
+        },
+        {
+            "key": "006",
+            "value": "On est au courant."
+        },
+        {
+            "key": "007",
+            "value": "Mais toi, comment tu le vis ?"
+        },
+        {
+            "key": "008",
+            "value": "Il est de Leonis ! Il n'est pas censé être ton ennemi ?"
+        },
+        {
+            "key": "009",
+            "value": "Oui c'est l'cas, et c'est pour ça qu'il m'est utile."
+        },
+        {
+            "key": "010",
+            "value": "Eldo va mourir des mains de son propre fils."
+        },
+        {
+            "key": "011",
+            "value": "J'ai des frissons rien qu'd'y penser !"
+        },
+        {
+            "key": "012",
+            "value": "Vraiment. Eh bien…"
+        },
+        {
+            "key": "013",
+            "value": "Dès qu'il se sera débarrassé d'Eldo, on pourra le bousculer un peu ?"
+        },
+        {
+            "key": "014",
+            "value": "Tu feras c'que tu veux."
+        },
+        {
+            "key": "015",
+            "value": "Tu entends ça mon garçon ? Ton tour viendra !"
+        },
+        {
+            "key": "016",
+            "value": "Occupe-toi rapidement d'Eldo alors ! Ensuite, on s'amusera ensemble !"
+        },
+        {
+            "key": "017",
+            "value": "..."
+        }
+    ]
+}

@@ -13,8 +13,12 @@ body {
 	white-space: normal;
 }
 
-input[type=text] {
-	width: 80%;
+th input[type=text] {
+	width: 85%;
+}
+
+input[type=text].memo {
+	width: 100%;
 }
 
 table.dataTable thead th, table.dataTable thead td {
@@ -40,4 +44,17 @@ table.dataTable {
 
 .word_break_all {
 	word-break: break-all;
+}
+
+td.red_column{
+    background-color: rgba(255, 99, 71, 0.1);
+	text-align: center;
+}
+td.blue_column{
+    background-color: rgba(71, 99, 255, 0.1);
+	text-align: center;
+}
+td.green_column{
+    background-color: rgba(50, 180, 80, 0.1);
+	text-align: center;
 }

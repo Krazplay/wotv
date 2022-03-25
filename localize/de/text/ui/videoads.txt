@@ -1,0 +1,160 @@
+﻿{
+    "infos": [
+        {
+            "key": "VIDEOADS",
+            "value": "Video-Werbungen"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_DESC",
+            "value": "Sieh dir ein Video an und stelle deine Ausdauer um {0} wieder her."
+        },
+        {
+            "key": "AP_HEAL_VIDEO_CONFIRM_TITLE",
+            "value": "Bestätigen"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_CONFIRM_DESC",
+            "value": "Eine Video-Werbung wird abgespielt."
+        },
+        {
+            "key": "AP_HEAL_VIDEO_RESULT_TITLE",
+            "value": "Ergebnis"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_RESULT_DESC",
+            "value": "Ausdauer wurde erfolgreich wiederhergestellt."
+        },
+        {
+            "key": "AP_HEAL_VIDEO_ERROR_TITLE",
+            "value": "Fehler"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_ERROR_DESC",
+            "value": "Ausdauer konnte nicht wiederhergestellt werden."
+        },
+        {
+            "key": "GACHA_WATCH_VIDEO",
+            "value": "Video ansehen"
+        },
+        {
+            "key": "GACHA_FREE_AMOUNT_TITLE",
+            "value": "Freie Versuche:"
+        },
+        {
+            "key": "OFFERWALL",
+            "value": "Angebote-Pinnwand"
+        },
+        {
+            "key": "GACHA_WATCH_VIDEO_TITLE",
+            "value": "Beschwören"
+        },
+        {
+            "key": "GLOBAL_MAIN_VIDEOADS",
+            "value": "Mit Visiore beschwören!"
+        },
+        {
+            "key": "GLOBAL_MAIN_VIDEOADS_APPEAL",
+            "value": "GRATIS"
+        },
+        {
+            "key": "IT_LP_WW_01",
+            "value": "Visiore"
+        },
+        {
+            "key": "IT_GIL_WW_01",
+            "value": "Gil"
+        },
+        {
+            "key": "GACHA_NO_VIDEO_AVAILABLE_TITLE",
+            "value": "Video nicht verfügbar"
+        },
+        {
+            "key": "GACHA_NO_VIDEO_AVAILABLE_DESC",
+            "value": "Kein Video verfügbar. Bitte versuche es noch einmal."
+        },
+        {
+            "key": "GACHA_CHECK_TICKET_TITLE",
+            "value": "Mit Video beschwören"
+        },
+        {
+            "key": "GACHA_CHECK_VIDEOADS_DESC",
+            "value": "Video-Werbungsversuch verbrauchen, um zu beschwören?"
+        },
+        {
+            "key": "GACHA_VIDEOADS_DISCLAIMER",
+            "value": "Belohnungen werden innerhalb von 24 Stunden an deine Geschenkbox geschickt."
+        },
+        {
+            "key": "BUY_LAPIS_OFFERWALL_REALMONEY",
+            "value": "GRATIS"
+        },
+        {
+            "key": "BUY_LAPIS_OFFERWALL_DESC",
+            "value": "Visiore"
+        },
+        {
+            "key": "BATTLE_RESULT_TITLE",
+            "value": "Videowerbungs-Ausdauerstimulans"
+        },
+        {
+            "key": "BATTLE_RESULT_DESC",
+            "value": "<color=#792E2E>Ausdauer</color> niedrig"
+        },
+        {
+            "key": "GACHA_VIDEO_RESETS_IN",
+            "value": "Nächste in <size=1.2em><color=#F0C040>{0}:{1}:{2}</color></size>"
+        },
+        {
+            "key": "VideoGacha_Normal",
+            "value": "Videobeschwörung"
+        },
+        {
+            "key": "VideoGacha_Normal_20210421",
+            "value": "Videobeschwörung"
+        },
+        {
+            "key": "VideoGacha_Normal_20210922",
+            "value": "Videobeschwörung"
+        },
+        {
+            "key": "VideoGacha_Normal_20211020",
+            "value": "Videobeschwörung"
+        },
+        {
+            "key": "VideoGacha_Normal_20220323",
+            "value": "Videobeschwörung"
+        },
+        {
+            "key": "CONTINUE",
+            "value": "Fortsetzen"
+        },
+        {
+            "key": "CANCEL",
+            "value": "Abbrechen"
+        },
+        {
+            "key": "GACHA_VIDEO_REACHED_LIMIT_TITLE",
+            "value": "Limit für Video-Werbung erreicht"
+        },
+        {
+            "key": "GACHA_VIDEO_REACHED_LIMIT_DESC",
+            "value": "Das Limit für Video-Werbung wurde vorerst erreicht. Versuche es bitte später noch einmal."
+        },
+        {
+            "key": "GACHA_ON_CANCEL_TITLE",
+            "value": "Fehler"
+        },
+        {
+            "key": "GACHA_ON_CANCEL_DESC",
+            "value": "Die Videobeschwörung wurde abgebrochen."
+        },
+        {
+            "key": "OFFERWALL_BONUS_MULTIPLIER_DESC",
+            "value": "Bonus"
+        },
+        {
+            "key": "OFFERWALL_BONUS_MULTIPLIER",
+            "value": "x{0}"
+        }
+    ]
+}

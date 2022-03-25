@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Wer ist das in der goldenen Rüstung?"
+        },
+        {
+            "key": "002",
+            "value": "...!!"
+        },
+        {
+            "key": "003",
+            "value": "Bruder ..."
+        },
+        {
+            "key": "004",
+            "value": "Prinz Styr?! Warum sollte er eine solche Rüstung tragen?"
+        },
+        {
+            "key": "005",
+            "value": "Yrde! Endlich habe ich dich gefunden!"
+        },
+        {
+            "key": "006",
+            "value": "Styr ... Bist du das?"
+        },
+        {
+            "key": "007",
+            "value": "Und was muss ich sehen? Du liegst im Sterben!"
+        },
+        {
+            "key": "008",
+            "value": "Wer ist dafür verantwortlich?! Wer hat Yrde diese Wunden zugefügt?!"
+        },
+        {
+            "key": "009",
+            "value": "Er ist meine Beute! Euch allen wurde das doch klargemacht, oder etwa nicht?!"
+        },
+        {
+            "key": "010",
+            "value": "Warst du das?!"
+        },
+        {
+            "key": "011",
+            "value": "N-Nein, ich würde niemals ..."
+        },
+        {
+            "key": "012",
+            "value": "(Ich kann nicht zulassen, dass es zwischen Styr und Vater zu einem Kampf kommt. Aber wie kann ich ...?)"
+        },
+        {
+            "key": "013",
+            "value": "(Moment ... Das sollte klappen!)"
+        },
+        {
+            "key": "014",
+            "value": "Sie waren es, Styr!"
+        },
+        {
+            "key": "015",
+            "value": "Sie wollten nicht, dass du alleine den ganzen Ruhm einheimst, und haben deshalb Vater angegriffen!"
+        },
+        {
+            "key": "016",
+            "value": "Ist das wirklich euer Werk?"
+        },
+        {
+            "key": "017",
+            "value": "Äh, n-nein, wir ..."
+        },
+        {
+            "key": "018",
+            "value": "I-Ihr verfluchten Hunde! Ihr habt mir meine Beute geraubt!"
+        },
+        {
+            "key": "019",
+            "value": "Ein kluges Manöver, Euer Hoheit. Ganz, wie es zu erwarten war."
+        },
+        {
+            "key": "020",
+            "value": "Jetzt! Sammelt euch hinter Styr! Schlagt den Feind in die Flucht!"
+        }
+    ]
+}

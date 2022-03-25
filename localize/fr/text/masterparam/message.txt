@@ -1,0 +1,16 @@
+﻿{
+    "infos": [
+        {
+            "key": "VIP_PERIOD_01",
+            "value": "Coffre de classement : récompense 001"
+        },
+        {
+            "key": "VIP_PERIOD_02",
+            "value": "Coffre de classement : récompense 002"
+        },
+        {
+            "key": "VIP_PERIOD_03",
+            "value": "Coffre de classement : récompense 003"
+        }
+    ]
+}

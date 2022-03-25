@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hermano... ¿Qué vamos a hacer de ahora en adelante?"
+        },
+        {
+            "key": "002",
+            "value": "No lo sé..."
+        },
+        {
+            "key": "003",
+            "value": "..."
+        },
+        {
+            "key": "004",
+            "value": "Pero esas minas son el infierno. Te roban la humanidad... y luego la vida."
+        },
+        {
+            "key": "005",
+            "value": "No vamos a acabar de esa forma... Ambos sobreviviremos."
+        },
+        {
+            "key": "006",
+            "value": "Hermano…"
+        },
+        {
+            "key": "007",
+            "value": "¿Es que aún no lo entendéis?"
+        },
+        {
+            "key": "008",
+            "value": "¿De esta forma pretendéis huir?"
+        },
+        {
+            "key": "009",
+            "value": "..."
+        },
+        {
+            "key": "010",
+            "value": "Mejor que no subestiméis a los soldados de Fennes."
+        },
+        {
+            "key": "011",
+            "value": "En cualquier caso, no llegaréis muy lejos con esa pinta... Poneos esto."
+        },
+        {
+            "key": "012",
+            "value": "Estas ropas…"
+        },
+        {
+            "key": "013",
+            "value": "¿Está bien que las llevemos?"
+        },
+        {
+            "key": "014",
+            "value": "No hay ningún problema. ¿Hm?"
+        },
+        {
+            "key": "015",
+            "value": "Tenemos compañía."
+        },
+        {
+            "key": "016",
+            "value": "Bueno, veamos si tenéis lo que hay que tener para salir de este lío innecesario que habéis provocado."
+        }
+    ]
+}

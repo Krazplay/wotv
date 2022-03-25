@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "CM_NPC01",
+            "value": "잭"
+        },
+        {
+            "key": "CM_NPC02",
+            "value": "실비아"
+        },
+        {
+            "key": "CM_NPC03",
+            "value": "헌터"
+        },
+        {
+            "key": "CM_NPC04",
+            "value": "블루"
+        },
+        {
+            "key": "CM_NPC05",
+            "value": "루시안"
+        },
+        {
+            "key": "CM_NPC06",
+            "value": "미스티"
+        },
+        {
+            "key": "CM_NPC07",
+            "value": "화이트"
+        },
+        {
+            "key": "CM_NPC08",
+            "value": "블랙"
+        },
+        {
+            "key": "CM_NPC09",
+            "value": "엔젤"
+        },
+        {
+            "key": "CM_NPC10",
+            "value": "키르"
+        },
+        {
+            "key": "CM_NPC11",
+            "value": "진"
+        },
+        {
+            "key": "CM_NPC12",
+            "value": "센추리"
+        },
+        {
+            "key": "CM_NPC13",
+            "value": "갓파더"
+        },
+        {
+            "key": "CM_NPC14",
+            "value": "그린"
+        },
+        {
+            "key": "CM_NPC15",
+            "value": "김렛"
+        },
+        {
+            "key": "CM_NPC16",
+            "value": "보드카"
+        },
+        {
+            "key": "CM_NPC17",
+            "value": "옐로우"
+        },
+        {
+            "key": "CM_NPC18",
+            "value": "오렌지"
+        },
+        {
+            "key": "CM_NPC19",
+            "value": "블로섬"
+        },
+        {
+            "key": "CM_NPC20",
+            "value": "자자"
+        },
+        {
+            "key": "CM_NPC21",
+            "value": "알파"
+        },
+        {
+            "key": "CM_NPC22",
+            "value": "보넘"
+        },
+        {
+            "key": "CM_NPC23",
+            "value": "캐서린"
+        },
+        {
+            "key": "CM_NPC24",
+            "value": "도스토예프스키"
+        },
+        {
+            "key": "CM_NPC25",
+            "value": "에코"
+        }
+    ]
+}

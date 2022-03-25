@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Estáis subestimando a Leonis. ¡Ja, ja, ja!"
+        },
+        {
+            "key": "002",
+            "value": "¿Creéis que podéis reclamar todo Leonis por el simple hecho de tener a Stern como rehén?"
+        },
+        {
+            "key": "003",
+            "value": "¡Cierra el pico y camina!"
+        },
+        {
+            "key": "004",
+            "value": "¿Y qué pasa si me niego?"
+        },
+        {
+            "key": "005",
+            "value": "Pues que haré que te arrepientas."
+        },
+        {
+            "key": "006",
+            "value": "¿Qué queréis que haga, reina Helena?"
+        },
+        {
+            "key": "007",
+            "value": "Quizá sería buena idea demostrarles el orgullo de Leonis."
+        },
+        {
+            "key": "008",
+            "value": "Estoy completamente de acuerdo."
+        },
+        {
+            "key": "009",
+            "value": "¡¿Qué demonios?!…"
+        },
+        {
+            "key": "010",
+            "value": "¡¿Es en serio?!"
+        },
+        {
+            "key": "011",
+            "value": "¿Que si es en serio? ¡Ja! Precisamente, esto era lo que estaban esperando vuestros oficiales."
+        },
+        {
+            "key": "012",
+            "value": "Si no, ¿por qué iban a dejar que nos quedásemos nuestras armas?"
+        },
+        {
+            "key": "013",
+            "value": "Estoy seguro de que este es su plan para acabar con nosotros de una vez por todas."
+        },
+        {
+            "key": "014",
+            "value": "Sabes demasiado, será mejor que acabemos ya con el trabajo."
+        },
+        {
+            "key": "015",
+            "value": "Venga, desenvaina. ¡Enséñame de qué estás hecho!"
+        },
+        {
+            "key": "016",
+            "value": "¡Me acabas de hacer una oferta irrechazable! ¡Ja, ja, ja!"
+        }
+    ]
+}

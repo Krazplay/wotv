@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Schuzelt, ¿cómo van esas heridas?"
+        },
+        {
+            "key": "002",
+            "value": "Perdonadme, lady Machérie."
+        },
+        {
+            "key": "003",
+            "value": "Tranquilo, no hace falta que te disculpes."
+        },
+        {
+            "key": "004",
+            "value": "¡Sííííí!"
+        },
+        {
+            "key": "005",
+            "value": "¡Aquí llegan los refuerzos!"
+        },
+        {
+            "key": "006",
+            "value": "¡¿Qué refuerzos?! No puede ser…"
+        },
+        {
+            "key": "007",
+            "value": "¡Hourne! ¡Llegan los refuerzos de Hourne!"
+        },
+        {
+            "key": "008",
+            "value": "Entonces, ya es demasiado tarde…"
+        },
+        {
+            "key": "009",
+            "value": "…"
+        }
+    ]
+}

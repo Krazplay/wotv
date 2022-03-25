@@ -1,0 +1,1224 @@
+﻿{
+    "infos": [
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "SR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": "MR 이상 유닛 보장 소환 티켓 B"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": "MR 이상 유닛 보장 소환 티켓 C"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": "MR 이상 유닛 보장 소환 티켓 D"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "파이널판타지14 콜라보 이벤트 소환 티켓"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200506",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FFT 콜라보 이벤트 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200520",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200520",
+            "value": "MR 이상 비전 카드 보장 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200603",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_20200603",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200603",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_20200603",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_20200603",
+            "value": "MR 이상 1명 보장 10회 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_20200603",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_20200603",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_20200603",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200610",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200617",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200701",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200701",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200701",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200701",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200701",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200701",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200701",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200701",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_N_TW_10_gl20200701",
+            "value": "[백자탑] 일반 10회 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200715",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200722",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200805",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200805",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200805",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200805",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200805",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200805",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200805",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200805",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_02_gl20200805",
+            "value": "UR 유닛 보장 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200812",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200819",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200902",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200902",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200902",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200902",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200902",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200902",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200902",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200909",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_03_gl20200909",
+            "value": "UR 유닛 보장 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200916",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200923",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200930",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201007",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201007",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201007",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201007",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201007",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201007",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201007",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201007",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201014",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201028",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201104",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201104",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201104",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201104",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201104",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201104",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201104",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201104",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201111",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201202",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201202",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201202",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201202",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201202",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201202",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201202",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201216",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201223",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201230",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210106",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210106",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210106",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210106",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210106",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210106",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210106",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210106",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_FF14_01_R_20200701",
+            "value": "[재등장] 파이널판타지14 콜라보 이벤트 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210113",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210120",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_BEGINNER_01_gl20210120",
+            "value": "[1회 한정] 등록 후 7일간 한정 UR 유닛 1명 보장 무료 10회 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210127",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210203",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210203",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210203",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210203",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210203",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210203",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210203",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210203",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_CNY21_01_gl20210210",
+            "value": "행운 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210210",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_01_gl20210303",
+            "value": "[1일째] 출시 1주년 기념 전야제 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_02_gl20210303",
+            "value": "[2일째] 출시 1주년 기념 전야제 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_03_gl20210303",
+            "value": "[3일째] 출시 1주년 기념 전야제 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_04_gl20210303",
+            "value": "[4일째] 출시 1주년 기념 전야제 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_05_gl20210303",
+            "value": "[5일째] 출시 1주년 기념 전야제 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_06_gl20210303",
+            "value": "[6일째] 출시 1주년 기념 전야제 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_07_gl20210303",
+            "value": "[7일째] 출시 1주년 기념 전야제 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210303",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210303",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210303",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210303",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210303",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210303",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210303",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210303",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_AF_N_10_gl20210303",
+            "value": "장비 강화 재료 일반 10회 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210317",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210324",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210324",
+            "value": "출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210324",
+            "value": "[2회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210324",
+            "value": "[3회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210324",
+            "value": "[5회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210324",
+            "value": "[7회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210324",
+            "value": "[8회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210324",
+            "value": "[10회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_10_UR_01_gl20210324",
+            "value": "[초보자 한정] UR 1 슬롯 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210331",
+            "value": "출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210331",
+            "value": "[2회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210331",
+            "value": "[3회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210331",
+            "value": "[5회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210331",
+            "value": "[7회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210331",
+            "value": "[8회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210331",
+            "value": "[10회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210407",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210407",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210407",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210407",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210407",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210407",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210407",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210407",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210407",
+            "value": "출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210407",
+            "value": "[2회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210407",
+            "value": "[3회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210407",
+            "value": "[5회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210407",
+            "value": "[7회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210407",
+            "value": "[8회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210407",
+            "value": "[10회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210414",
+            "value": "출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210414",
+            "value": "[2회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210414",
+            "value": "[3회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210414",
+            "value": "[5회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210414",
+            "value": "[7회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210414",
+            "value": "[8회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210414",
+            "value": "[10회] 출시 1주년 기념 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210414",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_PI_UR_U_02_GL202104121",
+            "value": "[2021 봄 기념 제1탄] 추천 UR 유닛의 조각 × 200 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210505",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210505",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210505",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210505",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210505",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210505",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210505",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210505",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210512",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210519",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210526",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210602",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210602",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210602",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210602",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210602",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210602",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210602",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210602",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210609",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210616",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210623",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210630",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210707",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210707",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210707",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210707",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210707",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210707",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210707",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210707",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210714",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210721",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210728",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210804",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210804",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210804",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210804",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210804",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210804",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210804",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210804",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210811",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210818",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210825",
+            "value": "UR 유닛 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_AF_FTW_gl20210825",
+            "value": "헤르메스의 신발+3 제작 재료 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_AF_ARM_gl20210825",
+            "value": "백금 갑옷+3 제작 재료 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_AF_ROD_gl20210825",
+            "value": "현자의 지팡이+3 제작 재료 소환 티켓"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210825",
+            "value": "UR 비전 카드 1장 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_99UR_01_20210825",
+            "value": "레벨 99 UR 유닛 1명 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210901",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210901",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210901",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210901",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210901",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210901",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210901",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210901",
+            "value": "UR 유닛 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210901",
+            "value": "UR 비전 카드 1장 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210908",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_04_gl20210908",
+            "value": "[팬미팅] UR 유닛 1명 보장 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_V_UR_02_gl20210908",
+            "value": "[팬미팅] UR 비전 카드 1장 보장 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210915",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_99UR_GL_02_20210929",
+            "value": "레벨 99 UR 유닛 1명 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210929",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211006",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211006",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211006",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211006",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211006",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211006",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211006",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211006",
+            "value": "UR 유닛 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211006",
+            "value": "UR 비전 카드 1장 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211006",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211013",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211020",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211027",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211103",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211103",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211103",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211103",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211103",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211103",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211103",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211103",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211103",
+            "value": "UR 유닛 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211103",
+            "value": "UR 비전 카드 1장 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211117",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_AF_SUP_01_20210714",
+            "value": "[길드 레이드] 장비의 각인×1 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_AF_AW_01_20210714",
+            "value": "[길드 레이드] 강화의 비전서×5 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_JB_01_20210714",
+            "value": "[길드 레이드] 무기 보석(직업 레벨 2~9)×2 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_JB_02_20210714",
+            "value": "[길드 레이드] 무기 보석(직업 레벨 10~15)×2 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_JB_EM_01_20210714",
+            "value": "[길드 레이드] 속성 휘석: 초록/파랑/보라×2 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_JB_EM_02_20210714",
+            "value": "[길드 레이드] 속성 휘석: 노랑/빨강×2 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_SB_EXP_01_20210714",
+            "value": "[길드 레이드] 속성 마석(대)×50 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211124",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211201",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211201",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211201",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211201",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211201",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211201",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211201",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211201",
+            "value": "UR 유닛 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211201",
+            "value": "UR 비전 카드 1장 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211201",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220112",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220126",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_CNY22_01_gl20220202",
+            "value": "행운 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220202",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220202",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220202",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220202",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220202",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220202",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220202",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220202",
+            "value": "UR 유닛 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220202",
+            "value": "UR 비전 카드 1장 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220209",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220302",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220302",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220302",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220302",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220302",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220302",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220302",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220302",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220302",
+            "value": "UR 유닛 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220302",
+            "value": "UR 비전 카드 1장 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_FF14_01_R2_gl20220316",
+            "value": "[재등장] 파이널판타지14 콜라보 이벤트 소환 티켓 B"
+        },
+        {
+            "key": "IT_US_G_2ndANV_01_gl20220316",
+            "value": "출시 2주년 카운트다운 아이템 10회 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_FFVI_01_gl20220323",
+            "value": "FFVI 콜라보 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_U_SSR_99_01_gl20220323",
+            "value": "[초보자 한정] 추천 레벨 99 MR 유닛 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_U_UR_99_02_gl20220323",
+            "value": "[초보자 한정] 추천 레벨 99 UR 유닛 소환 티켓"
+        }
+    ]
+}

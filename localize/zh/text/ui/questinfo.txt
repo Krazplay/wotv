@@ -1,0 +1,8 @@
+﻿{
+    "infos": [
+        {
+            "key": "QE_ST_NO_gimictest",
+            "value": "測試。<br>這裏寫一些任務提示等內容。"
+        }
+    ]
+}

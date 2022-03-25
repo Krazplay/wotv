@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Voilà ce qui arrive quand on ouvre trop la bouche."
+        },
+        {
+            "key": "002",
+            "value": "Et maintenant, que faisons-nous ?"
+        },
+        {
+            "key": "003",
+            "value": "Nous devrions aller au château d'Anvil."
+        },
+        {
+            "key": "004",
+            "value": "Vous préférez aller au château d'Anvil plutôt que de rejoindre le roi Eldo ?"
+        },
+        {
+            "key": "005",
+            "value": "Oui."
+        },
+        {
+            "key": "006",
+            "value": "Hmm…"
+        },
+        {
+            "key": "007",
+            "value": "Le château d'Anvil… N'était-ce pas la demeure du précédent roi ?"
+        },
+        {
+            "key": "008",
+            "value": "Oui. Il est situé près de la frontière de Fennes."
+        },
+        {
+            "key": "009",
+            "value": "Mais, le château est abandonné, j'ai bien peur qu'il n'en reste que des ruines…"
+        },
+        {
+            "key": "010",
+            "value": "Nous ne l'avons pas abandonné."
+        },
+        {
+            "key": "011",
+            "value": "Plusieurs reliques sont cachées sous le château."
+        },
+        {
+            "key": "012",
+            "value": "Des reliques cachées ?!"
+        },
+        {
+            "key": "013",
+            "value": "Avec ces reliques, nous pourrions renverser le cours de la guerre."
+        },
+        {
+            "key": "014",
+            "value": "Dépêchons-nous."
+        }
+    ]
+}

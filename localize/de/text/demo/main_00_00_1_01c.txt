@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Gute Arbeit, Bruderherz."
+        },
+        {
+            "key": "002",
+            "value": "Ich habe nichts weiter getan, als ..."
+        },
+        {
+            "key": "003",
+            "value": "Es ist so, wie Euer Bruder sagt, Prinz Mont."
+        },
+        {
+            "key": "004",
+            "value": "Jetzt bleibt nur noch die Frage, wie mehr Erfahrung im Umgang mit dem Ring gesammelt werden kann."
+        },
+        {
+            "key": "005",
+            "value": "Ah ... Die Vision hat sich aufgelöst."
+        },
+        {
+            "key": "006",
+            "value": "Wie es aussieht, musst du seine wahren Kräfte erst noch meistern ..."
+        },
+        {
+            "key": "007",
+            "value": "Eure Einschätzung ist zutreffend, Prinz Styr."
+        },
+        {
+            "key": "008",
+            "value": "Lasst uns nun zum Schloss zurückkehren. Auf dem Weg dorthin sollte sich reichlich Gelegenheit zum Kampftraining bieten."
+        }
+    ]
+}

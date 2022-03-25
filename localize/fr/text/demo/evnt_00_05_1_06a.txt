@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Seigneur Skahal ?"
+        },
+        {
+            "key": "002",
+            "value": "C'est ici qu'est morte Loreila..."
+        },
+        {
+            "key": "003",
+            "value": "De la main du nouveau chef de Gouga ?"
+        },
+        {
+            "key": "004",
+            "value": "Je comprends... Sans elle pour apaiser les tensions entre nos deux clans, la guerre avait le champ libre."
+        },
+        {
+            "key": "005",
+            "value": "Loreila... Nous sommes sur le point d'entrer à Gouga."
+        },
+        {
+            "key": "006",
+            "value": "J'ai l'intention de détruire ce village qui t'a vue naître et grandir."
+        },
+        {
+            "key": "007",
+            "value": "Je t'en prie, pardonne-moi."
+        },
+        {
+            "key": "008",
+            "value": "Seigneur Skahal..."
+        },
+        {
+            "key": "009",
+            "value": "Vous croyez pouvoir détruire Gouga maintenant ? Quelle blague."
+        },
+        {
+            "key": "010",
+            "value": "Niv'Lu..."
+        },
+        {
+            "key": "011",
+            "value": "Comme c'est symbolique d'en finir sur la tombe de Loreila, tu n'es pas d'accord ?"
+        },
+        {
+            "key": "012",
+            "value": "Je vais te tuer sur le champ ! Ensuite, ce seront aux tours de Mariale et Zazan !"
+        },
+        {
+            "key": "013",
+            "value": "Ah oui ? Allez viens, surprends-moi."
+        }
+    ]
+}

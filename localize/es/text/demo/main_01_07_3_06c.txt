@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "70509",
+            "value": "Se están retirando."
+        },
+        {
+            "key": "70510",
+            "value": "Lord Mont, parece que han caído en tu engaño."
+        },
+        {
+            "key": "70511",
+            "value": "Estupendo. Hemos ganado algo de tiempo para reagrupar a todas nuestras tropas."
+        },
+        {
+            "key": "70512",
+            "value": "¿Nos retiramos… o aprovechamos la situación para iniciar un asalto?"
+        },
+        {
+            "key": "70513",
+            "value": "No me cabe duda de que Rubeus acudirá en nuestra ayuda."
+        },
+        {
+            "key": "70514",
+            "value": "¿Por qué estás tan seguro?"
+        },
+        {
+            "key": "70515",
+            "value": "Margritte quiere que unamos fuerzas con Graciela en cuanto la fortaleza se encuentre bajo nuestro control."
+        },
+        {
+            "key": "70516",
+            "value": "En resumen, ellos necesitan nuestra ayuda tanto como nosotros la suya. Por eso…"
+        },
+        {
+            "key": "70517",
+            "value": "Comprendo."
+        },
+        {
+            "key": "70518",
+            "value": "Además, el enemigo está retirándose. Tenemos que aprovechar esta ventaja para avanzar."
+        },
+        {
+            "key": "70519",
+            "value": "¡Entendido!"
+        }
+    ]
+}

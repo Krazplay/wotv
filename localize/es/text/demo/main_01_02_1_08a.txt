@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ugh…"
+        },
+        {
+            "key": "002",
+            "value": "¿Te duele?"
+        },
+        {
+            "key": "003",
+            "value": "¿Todos los guardias reales de Hourne lloriquean así?"
+        },
+        {
+            "key": "004",
+            "value": "Ya no soy guardia real: he renunciado a mi puesto y a mi honor."
+        },
+        {
+            "key": "005",
+            "value": "Vaya… Bueno, a lo hecho pecho."
+        },
+        {
+            "key": "006",
+            "value": "Ahora podrás utilizarme como quieras."
+        },
+        {
+            "key": "007",
+            "value": "¿Utilizarte? ¿Yo a ti?"
+        },
+        {
+            "key": "008",
+            "value": "Supongo que te aprovecharás de mí ahora que lo he perdido todo."
+        },
+        {
+            "key": "009",
+            "value": "Creo que estás equivocado. Tú eres el que debe utilizarnos a nosotros."
+        },
+        {
+            "key": "010",
+            "value": "Pero ¿qué dices?"
+        },
+        {
+            "key": "011",
+            "value": "No hay guerra sin sangre, aunque… cierta sangre nunca debería derramarse, ¿no te parece?"
+        },
+        {
+            "key": "012",
+            "value": "Muraga Fennes ha hecho algo inimaginable. ¿Es que sus pecados no merecen castigo?"
+        },
+        {
+            "key": "013",
+            "value": "…"
+        },
+        {
+            "key": "014",
+            "value": "¿Estás… llorando?"
+        },
+        {
+            "key": "015",
+            "value": "¿Por mi familia? ¿Por Naia?"
+        },
+        {
+            "key": "016",
+            "value": "Ojalá desaparecieran las guerras de este mundo. De hecho, confío en que lord Mont lo consiga algún día, pues él es el único capaz de lograrlo."
+        },
+        {
+            "key": "017",
+            "value": "Haré todo lo que esté en mi mano para ayudarlo."
+        },
+        {
+            "key": "018",
+            "value": "Por eso tú también deberías aprovecharte de nosotros."
+        },
+        {
+            "key": "019",
+            "value": "…"
+        },
+        {
+            "key": "020",
+            "value": "Me temo que no tienes ni idea de cómo se siente lord Mont, ¿verdad?"
+        },
+        {
+            "key": "021",
+            "value": "¿De cómo se siente lord Mont?"
+        },
+        {
+            "key": "022",
+            "value": "¿Es que no has oído lo que te ha dicho? No tienes madera de guardia real."
+        },
+        {
+            "key": "023",
+            "value": "…"
+        },
+        {
+            "key": "024",
+            "value": "Seguro que lo dice porque no soporta verte sufrir por culpa de las restricciones que trae consigo ese título."
+        },
+        {
+            "key": "025",
+            "value": "Utilizar a alguien o que te utilicen, ser enemigo o aliado…"
+        },
+        {
+            "key": "026",
+            "value": "Esas cosas no tienen ninguna relación con el bien y el mal, ¿no te parece?"
+        },
+        {
+            "key": "027",
+            "value": "Lord Mont es muy bondadoso."
+        },
+        {
+            "key": "028",
+            "value": "Sí que lo es, por eso me preocupo."
+        },
+        {
+            "key": "029",
+            "value": "¡Comandante Lilit!"
+        },
+        {
+            "key": "030",
+            "value": "¿Qué pasa?"
+        },
+        {
+            "key": "031",
+            "value": "No paran de llegar soldados de Hourne. Nuestro ejército está retrocediendo."
+        },
+        {
+            "key": "032",
+            "value": "A este paso…"
+        },
+        {
+            "key": "033",
+            "value": "E-espera, ¿adónde vas?"
+        },
+        {
+            "key": "034",
+            "value": "Lord Mont sigue en primera línea."
+        },
+        {
+            "key": "035",
+            "value": "No vayas."
+        },
+        {
+            "key": "036",
+            "value": "¿Eh? ¿Ahora me vas a tratar como si fuera una niñita indefensa?"
+        },
+        {
+            "key": "037",
+            "value": "¿Es que no sabes a quién te enfrentas? ¡Luchar contra Solidus es una locura!"
+        },
+        {
+            "key": "038",
+            "value": "Escoltad a lady Machérie y a Schuzelt… Al castillo, ¡deprisa!"
+        },
+        {
+            "key": "039",
+            "value": "¡Sí, comandante!"
+        },
+        {
+            "key": "040",
+            "value": "¡Un momento! ¿Es que quieres acabar muerta?"
+        },
+        {
+            "key": "041",
+            "value": "No pienso morir todavía. Voy a hacerlo para sobrevivir."
+        },
+        {
+            "key": "042",
+            "value": "¡A diferencia de ti!"
+        },
+        {
+            "key": "043",
+            "value": "Lilit… Qué mujer. No llega a mi nivel, pero podría quedarse tranquilamente con el segundo puesto."
+        },
+        {
+            "key": "044",
+            "value": "Bueno, más bien, con el tercero. No olvidéis a Naia."
+        },
+        {
+            "key": "045",
+            "value": "Tienes razón… Si estás de humor para hacer bromas, seguro que puedes echar a andar."
+        },
+        {
+            "key": "046",
+            "value": "¿Dónde están Machérie y Schuzelt?"
+        },
+        {
+            "key": "047",
+            "value": "No te preocupes. Se dirigen al castillo de Leonis escoltados."
+        },
+        {
+            "key": "048",
+            "value": "Gracias. Me alegra oír eso."
+        },
+        {
+            "key": "049",
+            "value": "Ahora, ¡vamos a acabar con la brigada enemiga y a emprender la retirada!"
+        },
+        {
+            "key": "050",
+            "value": "De acuerdo."
+        }
+    ]
+}

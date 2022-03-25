@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Qué os parece si hablamos un poco de las <color=#0000ff>características especiales del arco</color>?"
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "El <color=#0000ff>alcance de las flechas aumenta</color> cuando se disparan desde <color=#0000ff>zonas elevadas</color>."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Si observáis la esquina superior derecha de la pantalla en un momento, veréis que se muestra una <color=#0000ff>altura concreta</color>, en este caso, 4A."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Por cada <color=#0000ff>aumento en la altura de 2A</color>, el alcance de la unidad <color=#0000ff>aumentará una casilla</color>. Por tanto, si disparáis desde una altura de 6A, vuestro alcance se verá incrementado en 3 casillas."
+        },
+        {
+            "key": "005",
+            "value": "Por el contrario, cuando disparéis desde una zona poco elevada, vuestro alcance se verá <color=#0000ff>recortado una casilla</color> por cada <color=#0000ff>2A de altitud en que os supere el enemigo</color>."
+        },
+        {
+            "key": "006",
+            "value": "Si desplazáis a Learte hacia el acantilado, veréis que puede atacar a todos los enemigos de abajo. Vamos, vamos, probad sin miedo."
+        },
+        {
+            "key": "007",
+            "value": "¡Fantástico! Obviamente, también es importante tener cuidado con los <color=#0000ff>arqueros enemigos</color> cuando estos se encuentran en <color=#0000ff>zonas elevadas</color>."
+        },
+        {
+            "key": "008",
+            "value": "El alcance variable según la altitud es una característica específica de las armas a distancia, como es el caso de los arcos. Esto cambia en las armas de fuego como las pistolas, pero bueno, esa lección ya la dejamos para otro momento."
+        }
+    ]
+}

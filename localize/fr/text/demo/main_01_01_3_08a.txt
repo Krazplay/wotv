@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous vous êtes révélé bien plus compétent que je ne le pensais."
+        },
+        {
+            "key": "002",
+            "value": "..."
+        },
+        {
+            "key": "003",
+            "value": "Qu'y a-t-il, Mont ?"
+        },
+        {
+            "key": "004",
+            "value": "... ?!"
+        },
+        {
+            "key": "005",
+            "value": "Vous semblez perdu dans vos pensées."
+        },
+        {
+            "key": "006",
+            "value": "Mes... Mes excuses. Je suis juste... inquiet."
+        },
+        {
+            "key": "007",
+            "value": "Pour Lilyth et Schuzelt ?"
+        },
+        {
+            "key": "008",
+            "value": "Non. Pour... vous."
+        },
+        {
+            "key": "009",
+            "value": "Pour moi ? On dirait que vous avez enfin un peu mûri."
+        },
+        {
+            "key": "010",
+            "value": "Vous vous moquez encore de moi !"
+        },
+        {
+            "key": "011",
+            "value": "..."
+        },
+        {
+            "key": "012",
+            "value": "Muraga apprendra très bientôt ce que nous manigançons si nous continuons à nous battre ainsi."
+        },
+        {
+            "key": "013",
+            "value": "Le risque d'une fin de l'alliance avec Fennes vous inquiète ?"
+        },
+        {
+            "key": "014",
+            "value": "L'alliance n'est pas mon problème. Je m'inquiète plutôt de ce que l'avenir vous réserve. Je crains le pire..."
+        },
+        {
+            "key": "015",
+            "value": "..."
+        },
+        {
+            "key": "016",
+            "value": "On dirait que vous ne ferez pas de vieux os."
+        },
+        {
+            "key": "017",
+            "value": "Comment ?"
+        },
+        {
+            "key": "018",
+            "value": "Votre gentillesse pourrait vous coûter cher au combat."
+        },
+        {
+            "key": "019",
+            "value": "Qu'importe. Je n'ai pas envie que l'on me célèbre en héros."
+        },
+        {
+            "key": "020",
+            "value": "Alors, que voulez-vous devenir ?"
+        },
+        {
+            "key": "021",
+            "value": "Rien de spécial. Je veux juste être moi-même."
+        },
+        {
+            "key": "022",
+            "value": "Je ne me bats pas pour terrasser un millier d'ennemis, mais pour protéger une seule personne."
+        },
+        {
+            "key": "023",
+            "value": "Et cette personne... c'est moi, c'est ça ?"
+        },
+        {
+            "key": "024",
+            "value": "Oui. Je vous protégerai, quoi qu'il advienne ! Vous avez ma parole !"
+        },
+        {
+            "key": "025",
+            "value": "Dans ce cas... Ne l'oubliez pas !"
+        }
+    ]
+}

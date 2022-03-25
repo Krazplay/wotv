@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ya se sabe, perro ladrador, poco mordedor."
+        },
+        {
+            "key": "002",
+            "value": "¿Y ahora qué hacemos, mi reina?"
+        },
+        {
+            "key": "003",
+            "value": "Deberíamos ir al Castillo del Yunque a toda prisa."
+        },
+        {
+            "key": "004",
+            "value": "¿Al Castillo del Yunque, majestad? ¿No preferís regresar con el rey Elde?"
+        },
+        {
+            "key": "005",
+            "value": "Ya me has oído."
+        },
+        {
+            "key": "006",
+            "value": "Mmm…"
+        },
+        {
+            "key": "007",
+            "value": "El Castillo del Yunque… Esa era la residencia principal del antiguo rey, ¿verdad?"
+        },
+        {
+            "key": "008",
+            "value": "Sí, y también está cerca de la frontera con Fennes."
+        },
+        {
+            "key": "009",
+            "value": "¿No estaba abandonado? A lo mejor solo quedan ruinas."
+        },
+        {
+            "key": "010",
+            "value": "El castillo nunca se abandonó."
+        },
+        {
+            "key": "011",
+            "value": "Hay muchas reliquias ocultas debajo de él."
+        },
+        {
+            "key": "012",
+            "value": "¡¿Re-reliquias ocultas?!"
+        },
+        {
+            "key": "013",
+            "value": "Si conseguimos el número suficiente de reliquias ancestrales, a lo mejor podemos cambiar el curso de esta guerra."
+        },
+        {
+            "key": "014",
+            "value": "Ya lo has oído: vamos al Castillo del Yunque. ¡No hay tiempo que perder!"
+        }
+    ]
+}

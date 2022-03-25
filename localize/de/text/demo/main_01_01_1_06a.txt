@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Nichts als Trümmer. Haben Monster das gesamte Dorf ausgelöscht?"
+        },
+        {
+            "key": "002",
+            "value": "Nein. Die Bewohner wurden evakuiert, bevor sie einem grausamen Schicksal zum Opfer fallen konnten."
+        },
+        {
+            "key": "003",
+            "value": "Ihr seid ein wahrer König des Volkes."
+        },
+        {
+            "key": "004",
+            "value": "Um ehrlich zu sein, haben wir das Mont zu verdanken. Er bestand darauf, sofort zu handeln."
+        },
+        {
+            "key": "005",
+            "value": "Das ist überraschend."
+        },
+        {
+            "key": "006",
+            "value": "Überraschend? Was willst du damit sagen?"
+        },
+        {
+            "key": "007",
+            "value": "Ich hatte dich für jemanden gehalten, der nur tut, was sein Vater ihm sagt."
+        },
+        {
+            "key": "008",
+            "value": "..."
+        },
+        {
+            "key": "009",
+            "value": "Kein Grund, wütend zu sein. Wenn überhaupt, hat sich mein Eindruck von dir verbessert. Ein bisschen."
+        },
+        {
+            "key": "010",
+            "value": "Der Feind greift an!"
+        },
+        {
+            "key": "011",
+            "value": "Diese Kerle sind ganz schön hartnäckig."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Son demasiados..."
+        },
+        {
+            "key": "002",
+            "value": "Maldita sea... ¿Pero cuántos son?"
+        },
+        {
+            "key": "003",
+            "value": "Estáis en un callejón sin salida."
+        },
+        {
+            "key": "004",
+            "value": "No os preocupéis por volver a la mina... ¡Aquí es donde termina vuestra suerte!"
+        },
+        {
+            "key": "005",
+            "value": "Ugh..."
+        },
+        {
+            "key": "006",
+            "value": "Supongo que este es vuestro fin."
+        },
+        {
+            "key": "007",
+            "value": "Eh..."
+        },
+        {
+            "key": "008",
+            "value": "¡Agh!"
+        },
+        {
+            "key": "009",
+            "value": "¡Noooooo!"
+        },
+        {
+            "key": "010",
+            "value": "Cállate."
+        },
+        {
+            "key": "011",
+            "value": "¿Los has matado?"
+        },
+        {
+            "key": "012",
+            "value": "¿Es lo que pensabais hacer vosotros, no? Os he ahorrado el esfuerzo."
+        },
+        {
+            "key": "013",
+            "value": "E-eso es verdad..., pero ¿por qué lo has hecho?"
+        },
+        {
+            "key": "014",
+            "value": "Me han hecho avergonzarme. A mí, el líder del gremio de mercaderes de armas."
+        },
+        {
+            "key": "015",
+            "value": "¿Acaso necesito alguna otra razón?"
+        },
+        {
+            "key": "016",
+            "value": "Bu-bueno…"
+        },
+        {
+            "key": "017",
+            "value": "Si alguien tiene algo que decir, que de un paso al frente."
+        },
+        {
+            "key": "018",
+            "value": "Acabaréis de la misma forma que estos dos miserables."
+        },
+        {
+            "key": "019",
+            "value": "..."
+        },
+        {
+            "key": "020",
+            "value": "B-bien. No tenemos nada más que hacer aquí."
+        },
+        {
+            "key": "021",
+            "value": "Pero lo que ha pasado, aquí se queda... ¿De acuerdo?"
+        },
+        {
+            "key": "022",
+            "value": "Muy bien."
+        },
+        {
+            "key": "023",
+            "value": "Por todos los dioses..."
+        },
+        {
+            "key": "024",
+            "value": "Ah..., ugh..."
+        },
+        {
+            "key": "025",
+            "value": "¡Velne! ¡Despierta!"
+        },
+        {
+            "key": "026",
+            "value": "Lo siento, pero esa era la única forma de salir del paso."
+        },
+        {
+            "key": "027",
+            "value": "¡Serás...!"
+        },
+        {
+            "key": "028",
+            "value": "U-ughhh..."
+        },
+        {
+            "key": "029",
+            "value": "¡Velne!"
+        },
+        {
+            "key": "030",
+            "value": "Hermano…"
+        },
+        {
+            "key": "031",
+            "value": "Venga, marchaos..."
+        },
+        {
+            "key": "032",
+            "value": "Pero recordad, la reputación de los mercaderes de armas lo es todo."
+        },
+        {
+            "key": "033",
+            "value": "Si volvemos a vernos las caras, no tendréis tanta suerte como hoy."
+        }
+    ]
+}

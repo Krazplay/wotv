@@ -1,0 +1,168 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Pfiou ! Il va falloir reboire tout ce qu'on a éliminé !"
+        },
+        {
+            "key": "002",
+            "value": "Au fait..."
+        },
+        {
+            "key": "003",
+            "value": "Que nous veut la demoiselle ?"
+        },
+        {
+            "key": "004",
+            "value": "La même chose que tous les autres."
+        },
+        {
+            "key": "005",
+            "value": "Hm. Tu souhaites donc devenir une samouraï de l'Est ?"
+        },
+        {
+            "key": "006",
+            "value": "Je pense qu'elle confond ce royaume avec un refuge d'âmes perdues."
+        },
+        {
+            "key": "007",
+            "value": "On ne compte plus le nombre de crasseux des terres intérieures qui s'imaginent que l'Est n'attend qu'eux pour leur permettre de changer de vie."
+        },
+        {
+            "key": "008",
+            "value": "Ne parle pas de moi comme ça ! Je ne suis pas comme eux. Je..."
+        },
+        {
+            "key": "009",
+            "value": "Si tu es si différente, tu n'as qu'à te nommer toi-même samouraï."
+        },
+        {
+            "key": "010",
+            "value": "Pardon ?"
+        },
+        {
+            "key": "011",
+            "value": "Il y en a un paquet de soi-disant samouraïs qui ne viennent pas « de l'Est », dans les terres intérieures, non ?"
+        },
+        {
+            "key": "012",
+            "value": "Vous voulez dire que ce sont des imposteurs ?"
+        },
+        {
+            "key": "013",
+            "value": "Je n'ai pas dit ça. Mais bon..."
+        },
+        {
+            "key": "014",
+            "value": "Je crains que personne ici ne consente à te guider."
+        },
+        {
+            "key": "015",
+            "value": "…"
+        },
+        {
+            "key": "016",
+            "value": "Que fait-on alors ? On la renvoie chez elle ?"
+        },
+        {
+            "key": "017",
+            "value": "Je refuse de partir. Quoi qu'il arrive, je ne rentrerai pas."
+        },
+        {
+            "key": "018",
+            "value": "Eh ben dis donc. Elle a l'air décidée."
+        },
+        {
+            "key": "019",
+            "value": "Bon. Puisqu'il le faut."
+        },
+        {
+            "key": "020",
+            "value": "Seigneur Owe, vous n'allez quand même pas..."
+        },
+        {
+            "key": "021",
+            "value": "Si ! Je vais la former ! Ha ha ha !"
+        },
+        {
+            "key": "022",
+            "value": "Mais Seigneur, vous deviez rentrer à l'Ouest d'ici peu…"
+        },
+        {
+            "key": "023",
+            "value": "Bah, ne te fais pas de souci. Je doute que ça soit très long."
+        },
+        {
+            "key": "024",
+            "value": "Oh... ! Tu l'emmènes déjà au Mont ?"
+        },
+        {
+            "key": "025",
+            "value": "Au Mont ?"
+        },
+        {
+            "key": "026",
+            "value": "Le Mont des défis. C'est là que doivent se rendre tous ceux qui souhaitent devenir samouraï."
+        },
+        {
+            "key": "027",
+            "value": "Tu veux faire demi-tour ?"
+        },
+        {
+            "key": "028",
+            "value": "Non."
+        },
+        {
+            "key": "029",
+            "value": "Seigneur, vous avez perdu la tête ! Vous ne pouvez pas l'emmener là-bas si tôt, elle va..."
+        },
+        {
+            "key": "030",
+            "value": "Eh ben alors ? Tu t'inquiètes pour elle, maintenant ?"
+        },
+        {
+            "key": "031",
+            "value": "N-non, c'est juste que..."
+        },
+        {
+            "key": "032",
+            "value": "Si je ne l'emmène pas, elle va nous casser les pieds encore longtemps, je le sens ! Ha ha ha !"
+        },
+        {
+            "key": "033",
+            "value": "C'est donc tout ce qui vous motive à me former ?"
+        },
+        {
+            "key": "034",
+            "value": "Au risque de vous décevoir, je ne suis pas près d'abandonner ma cause."
+        },
+        {
+            "key": "035",
+            "value": "Tu ne manques pas de cran, au moins."
+        },
+        {
+            "key": "036",
+            "value": "On y va, oui ou non ?"
+        },
+        {
+            "key": "037",
+            "value": "Maître ?"
+        },
+        {
+            "key": "038",
+            "value": "Oui, bon, ça va. On vous accompagne."
+        },
+        {
+            "key": "039",
+            "value": "Pourquoi feriez-vous cela ?"
+        },
+        {
+            "key": "040",
+            "value": "Parce que ça promet d'être amusant. Y a-t-il besoin d'une autre raison ?"
+        },
+        {
+            "key": "041",
+            "value": "Il semble que les samouraïs de l'Est ne manquent pas de temps libre."
+        }
+    ]
+}

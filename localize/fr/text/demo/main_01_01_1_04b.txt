@@ -1,0 +1,12 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Seigneur Mont. Je connais une <color=#0000ff>technique spéciale</color> qui vous permettra de vous débarrasser de ces bandits."
+        },
+        {
+            "key": "002",
+            "value": "Essayez d'utiliser ce <color=#0000ff>cercle d'invocation</color>. L'activer devrait vous permettre d'accéder à des options intéressantes."
+        }
+    ]
+}

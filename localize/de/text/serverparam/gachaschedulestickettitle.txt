@@ -1,0 +1,1224 @@
+﻿{
+    "infos": [
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "„[SR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket B"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket C"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket D"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "FFXIV-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200506",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FFT-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200520",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200520",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200603",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_20200603",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200603",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_20200603",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_20200603",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_20200603",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_20200603",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_20200603",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200610",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200617",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200701",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200701",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200701",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200701",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200701",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200701",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200701",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200701",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_N_TW_10_gl20200701",
+            "value": "[Porzellanturm] Normales Beschwörungsticket (10-malig)"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200715",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200722",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200805",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200805",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200805",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200805",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200805",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200805",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200805",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200805",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_02_gl20200805",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200812",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200819",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200902",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200902",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200902",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200902",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200902",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200902",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200902",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200909",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_03_gl20200909",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200916",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200923",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200930",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201007",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201007",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201007",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201007",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201007",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201007",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201007",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201007",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201014",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201028",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201104",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201104",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201104",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201104",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201104",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201104",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201104",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201104",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201111",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201202",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201202",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201202",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201202",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201202",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201202",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201202",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201216",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201223",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201230",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210106",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210106",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210106",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210106",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210106",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210106",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210106",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210106",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_FF14_01_R_20200701",
+            "value": "FFXIV-Beschwörungsticket (Nachdruck)"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210113",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210120",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_BEGINNER_01_gl20210120",
+            "value": "„Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung: [UR]-Einheit garantiert“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210127",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210203",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210203",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210203",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210203",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210203",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210203",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210203",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210203",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_CNY21_01_gl20210210",
+            "value": "Glücksticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210210",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_01_gl20210303",
+            "value": "[Tag 1] „Countdown zum 1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_02_gl20210303",
+            "value": "[Tag 2] „Countdown zum 1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_03_gl20210303",
+            "value": "[Tag 3] „Countdown zum 1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_04_gl20210303",
+            "value": "[Tag 4] „Countdown zum 1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_05_gl20210303",
+            "value": "[Tag 5] „Countdown zum 1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_06_gl20210303",
+            "value": "[Tag 6] „Countdown zum 1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_07_gl20210303",
+            "value": "[Tag 7] „Countdown zum 1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210303",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210303",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210303",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210303",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210303",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210303",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210303",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210303",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_AF_N_10_gl20210303",
+            "value": "Normales Beschwörungsticket für Ausrüstungverbesserungsmaterialien (10-malig)"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210317",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210324",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210324",
+            "value": "„1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210324",
+            "value": "[2-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210324",
+            "value": "[3-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210324",
+            "value": "[5-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210324",
+            "value": "[7-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210324",
+            "value": "[8-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210324",
+            "value": "[10-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_10_UR_01_gl20210324",
+            "value": "[Nur für Einsteiger] „[UR] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210331",
+            "value": "„1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210331",
+            "value": "[2-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210331",
+            "value": "[3-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210331",
+            "value": "[5-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210331",
+            "value": "[7-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210331",
+            "value": "[8-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210331",
+            "value": "[10-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210407",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210407",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210407",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210407",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210407",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210407",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210407",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210407",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210407",
+            "value": "„1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210407",
+            "value": "[2-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210407",
+            "value": "[3-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210407",
+            "value": "[5-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210407",
+            "value": "[7-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210407",
+            "value": "[8-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210407",
+            "value": "[10-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210414",
+            "value": "„1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210414",
+            "value": "[2-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210414",
+            "value": "[3-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210414",
+            "value": "[5-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210414",
+            "value": "[7-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210414",
+            "value": "[8-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210414",
+            "value": "[10-malig] „1. Jubiläum“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210414",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_PI_UR_U_02_GL202104121",
+            "value": "[Frühling 2021 Teil I] „Empfohlenes [UR]-Einheitenfragment x200“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210505",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210505",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210505",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210505",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210505",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210505",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210505",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210505",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210512",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210519",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210526",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210602",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210602",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210602",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210602",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210602",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210602",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210602",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210602",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210609",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210616",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210623",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210630",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210707",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210707",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210707",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210707",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210707",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210707",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210707",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210707",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210714",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210721",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210728",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210804",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210804",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210804",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210804",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210804",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210804",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210804",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210804",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210811",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210818",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210825",
+            "value": "„[UR]-Einheit garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_AF_FTW_gl20210825",
+            "value": "„Herstellungsmaterialien für Hermessandalen +3“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_AF_ARM_gl20210825",
+            "value": "„Herstellungsmaterialien für Platinrüstung +3“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_AF_ROD_gl20210825",
+            "value": "„Herstellungsmaterialien für Stab des Weisen +3“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210825",
+            "value": "„[UR]-Visionskarte garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_99UR_01_20210825",
+            "value": "„[UR]-Einheit auf Stufe 99“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210901",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210901",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210901",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210901",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210901",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210901",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210901",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210901",
+            "value": "„[UR]-Einheit garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210901",
+            "value": "„[UR]-Visionskarte garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210908",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_04_gl20210908",
+            "value": "[Fantreffen] „[UR]-Einheit garantiert“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_V_UR_02_gl20210908",
+            "value": "[Fantreffen] „[UR]-Visionskarte garantiert“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210915",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_99UR_GL_02_20210929",
+            "value": "„[UR]-Einheit auf Stufe 99“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210929",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211006",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211006",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211006",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211006",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211006",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211006",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211006",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211006",
+            "value": "„[UR]-Einheit garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211006",
+            "value": "„[UR]-Visionskarte garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211006",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211013",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211020",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211027",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211103",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211103",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211103",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211103",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211103",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211103",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211103",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211103",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211103",
+            "value": "„[UR]-Einheit garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211103",
+            "value": "„[UR]-Visionskarte garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211117",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_AF_SUP_01_20210714",
+            "value": "[Gildenkraftprobe] „Ausrüstungssiegel x1“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_AF_AW_01_20210714",
+            "value": "[Gildenkraftprobe] „Almanach der Veredelung x5“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_JB_01_20210714",
+            "value": "[Gildenkraftprobe] „Waffenjuwel (Jobstufe 2-9) x2“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_JB_02_20210714",
+            "value": "[Gildenkraftprobe] „Waffenjuwel (Jobstufe 10-15) x2“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_JB_EM_01_20210714",
+            "value": "[Gildenkraftprobe] „Alkrist (Grün/Blau/Violett) x2“-Beschwörungsticket "
+        },
+        {
+            "key": "IT_US_G_JB_EM_02_20210714",
+            "value": "[Gildenkraftprobe] „Alkrist (Gelb/Rot) x2“-Beschwörungsticket "
+        },
+        {
+            "key": "IT_US_G_SB_EXP_01_20210714",
+            "value": "[Gildenkraftprobe] „Maginit (L) x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211124",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211201",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211201",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211201",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211201",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211201",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211201",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211201",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211201",
+            "value": "„[UR]-Einheit garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211201",
+            "value": "„[UR]-Visionskarte garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211201",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220112",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220126",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_CNY22_01_gl20220202",
+            "value": "Glücksticket"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220202",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220202",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220202",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220202",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220202",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220202",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220202",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220202",
+            "value": "„[UR]-Einheit garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220202",
+            "value": "„[UR]-Visionskarte garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220209",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220302",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220302",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220302",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220302",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220302",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220302",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220302",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220302",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220302",
+            "value": "„[UR]-Einheit garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220302",
+            "value": "„[UR]-Visionskarte garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_FF14_01_R2_gl20220316",
+            "value": "FFXIV-Beschwörungsticket B (Nachdruck)"
+        },
+        {
+            "key": "IT_US_G_2ndANV_01_gl20220316",
+            "value": "„Gegenstände des Countdowns zum 2. Jubiläum x10“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_FFVI_01_gl20220323",
+            "value": "FFVI-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_U_SSR_99_01_gl20220323",
+            "value": "[Nur für Einsteiger] „Empfohlene [MR]-Einheit mit der St. 99“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_U_UR_99_02_gl20220323",
+            "value": "[Nur für Einsteiger] „Empfohlene [UR]-Einheit mit der St. 99“-Beschwörungsticket"
+        }
+    ]
+}

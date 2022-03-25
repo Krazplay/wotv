@@ -33,7 +33,8 @@
 			let files_required = [	'/en/AdventureAreaName.json',
 									'/en/ItemName.json',
 									datadir+'AdventureDropDeckEntity.json',
-									datadir+'AdventureAreaDropDeck.json']
+									datadir+'AdventureAreaDropDeck.json',
+									datadir+'AdventureArea.json']
 			files_required.forEach(file => {
 				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
 					console.log("Loaded: " + file);
@@ -48,6 +49,11 @@
 				itemName = parse_AnyName(values[1]);
 				adventureDropDeckEntity = parse_AnyData(values[2],"drop_id");
 				adventureAreaDropDeck = parse_AnyData(values[3],"area_iname","campaign_string");
+				adventureArea = parse_AnyData(values[4],"area_iname");
+				
+				// New stuff before the table
+				print_AdventureArea();
+				
 				// data for the datatable
 				data_table = get_datatable_Adventure();
 				// The data is ready, show the datatable
@@ -174,6 +180,9 @@
 						{ "data": "rate" },
 						{ "data": "fever_rate" },
 						{ "data": "fix_rate" },
+						{ "data": "sum_table_rate" },
+						{ "data": "reward_raw_rate" },
+						{ "data": "sum_reward_rate" },
 						{ "data": "reward_name" },
 						{ "data": "reward_rate" },
 						{ "data": "reward_rate_s" },
@@ -190,6 +199,8 @@
 	<body>
 		<span>Chocobo expedition - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
 		<br/><br/>
+		<div id="open_event_areas"></div>
+		<br/><br/>
 		<table id="myTable" class="display">
 			<thead>
 				<tr>
@@ -199,8 +210,11 @@
 					<th>Table drop id</th>
 					<th>Rare?</th>
 					<th>Table<br/>Rate</th>
-					<th>Fever<br/>Rate</th>
-					<th>Bonus<br/>Rate</th>
+					<th>Table<br/>Fever<br/>Rate</th>
+					<th>Table<br/>Bonus<br/>Rate</th>
+					<th>Sum<br/>Table<br/>N Rate</th>
+					<th>Item<br/>Rate</th>
+					<th>Sum<br/>Item<br/>Rate</th>
 					<th>Reward name</th>
 					<th>Reward<br/>drop %</th>
 					<th>S bonus<br/>drop %</th>

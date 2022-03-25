@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bon sang, ce n'est pas le moment..."
+        },
+        {
+            "key": "002",
+            "value": "Vous voilà."
+        },
+        {
+            "key": "003",
+            "value": "Cette voix..."
+        },
+        {
+            "key": "004",
+            "value": "... Roi Eldo !"
+        },
+        {
+            "key": "005",
+            "value": "Le roi ?!"
+        },
+        {
+            "key": "006",
+            "value": "Vous avez affronté Muraga ?"
+        },
+        {
+            "key": "007",
+            "value": "Oui, comme vous pouvez le voir."
+        },
+        {
+            "key": "008",
+            "value": "Je n'ai donc pas d'autre choix, je dois y aller."
+        },
+        {
+            "key": "009",
+            "value": "Non, roi Eldo, nous devons battre en retraite pour le moment."
+        },
+        {
+            "key": "010",
+            "value": "Oh ? C'est vous qui parlez de battre en retraite, maintenant ?"
+        },
+        {
+            "key": "011",
+            "value": "Il nous faut d'abord nous débarrasser de cette vermine."
+        }
+    ]
+}

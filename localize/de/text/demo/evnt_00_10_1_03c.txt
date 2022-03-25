@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... Mmh?"
+        },
+        {
+            "key": "002",
+            "value": "Ganz schön laut hier ... Ist was passiert?"
+        },
+        {
+            "key": "003",
+            "value": "Wir haben Krieg, das ist passiert."
+        },
+        {
+            "key": "004",
+            "value": "... Aha. Und wir kämpfen gegen ... Fennes."
+        },
+        {
+            "key": "005",
+            "value": "Wir haben jetzt wirklich keine Zeit für lange Erklärungen."
+        },
+        {
+            "key": "006",
+            "value": "Unser Ziel ist die Bibliothek. Gib uns Deckung."
+        },
+        {
+            "key": "007",
+            "value": "Könnt ihr da vielleicht wen anderen fragen? Ich bin noch nicht so ganz wach."
+        },
+        {
+            "key": "008",
+            "value": "Der Befehl kommt von Königin Helena höchstselbst."
+        },
+        {
+            "key": "009",
+            "value": "Mhrrr ... Na gut, ich komme."
+        },
+        {
+            "key": "010",
+            "value": "Dann los!"
+        }
+    ]
+}

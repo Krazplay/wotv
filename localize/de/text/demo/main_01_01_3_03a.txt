@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Luchs?"
+        },
+        {
+            "key": "002",
+            "value": "Ihr seid wohlauf, Euer Hoheit?"
+        },
+        {
+            "key": "003",
+            "value": "Hat mein stets besorgter Vater dich geschickt?"
+        },
+        {
+            "key": "004",
+            "value": "Es war meine eigene Entscheidung zu kommen, Euer Hoheit."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Was ist?"
+        },
+        {
+            "key": "007",
+            "value": "Ich bringe Nachricht ... für Schuzelt."
+        },
+        {
+            "key": "008",
+            "value": "Oh nein ... Geht es um Naiah?"
+        },
+        {
+            "key": "009",
+            "value": "..."
+        },
+        {
+            "key": "010",
+            "value": "Was ist passiert? Sag schon."
+        },
+        {
+            "key": "011",
+            "value": "Naiah ... weilt nicht länger unter uns."
+        },
+        {
+            "key": "012",
+            "value": "W-Was sagst du da?! Das kann nicht sein!"
+        },
+        {
+            "key": "013",
+            "value": "Es war die Rede davon, dass du ein leonischer Spion seist und mit Banditen paktiert hättest, um die Prinzessin zu entführen."
+        },
+        {
+            "key": "014",
+            "value": "W-Wer würde solch niederträchtige Lügen in die Welt setzen?!"
+        },
+        {
+            "key": "015",
+            "value": "Ein Shinobi im Dienste Fennes’ behauptet, die ganze Angelegenheit beobachtet zu haben."
+        },
+        {
+            "key": "016",
+            "value": "..."
+        },
+        {
+            "key": "017",
+            "value": "Schuzelt. Beruhige dich."
+        },
+        {
+            "key": "018",
+            "value": "Luchs ... Sag mir, wer ... wer hat meine geliebte Naiah ermordet?"
+        },
+        {
+            "key": "019",
+            "value": "Du musst diese Information nicht preisgeben, Luchs."
+        },
+        {
+            "key": "020",
+            "value": "..."
+        },
+        {
+            "key": "021",
+            "value": "Raus mit der Sprache, oder ich ..."
+        },
+        {
+            "key": "022",
+            "value": "Sag es mir! Oder ich hau dich in Stücke!"
+        },
+        {
+            "key": "023",
+            "value": "Währenddessen ..."
+        },
+        {
+            "key": "024",
+            "value": "Prinzessin Margery?!"
+        },
+        {
+            "key": "025",
+            "value": "Euer Hoheit! Der Feind kommt direkt auf uns zu!"
+        }
+    ]
+}

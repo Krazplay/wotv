@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "684",
+            "value": "Mont !"
+        },
+        {
+            "key": "685",
+            "value": "… !"
+        },
+        {
+            "key": "686",
+            "value": "Qu'est-ce que c'est que ça ?!"
+        },
+        {
+            "key": "687",
+            "value": "Hein ?"
+        },
+        {
+            "key": "688",
+            "value": "Impossible…"
+        },
+        {
+            "key": "689",
+            "value": "Ça serait pas la fameuse arme secrète dont parlait Graziella ?"
+        },
+        {
+            "key": "690",
+            "value": "Mont ! Sonne la retraite ! Sur-le-champ !"
+        }
+    ]
+}

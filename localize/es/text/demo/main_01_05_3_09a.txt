@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Caramba! ¡Stern tiene una fuerza sobrehumana!"
+        },
+        {
+            "key": "002",
+            "value": "¡Vamos, Stern! ¡Seguid así! ¡Aplastadlos!"
+        },
+        {
+            "key": "003",
+            "value": "¡Callaos! ¡Cerrad el pico!"
+        },
+        {
+            "key": "004",
+            "value": "¡¿Cómo?!"
+        },
+        {
+            "key": "005",
+            "value": "¡Vosotros seréis los siguientes en probar el filo de mi espada!"
+        },
+        {
+            "key": "006",
+            "value": "¡N-no!"
+        }
+    ]
+}

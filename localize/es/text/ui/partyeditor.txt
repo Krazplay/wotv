@@ -1,0 +1,324 @@
+﻿{
+    "infos": [
+        {
+            "key": "PARTYEDITOR_TEAM_RENAME",
+            "value": "Cambiar nombre del grupo"
+        },
+        {
+            "key": "PARTYEDITOR_FIX_PARTY",
+            "value": "Formación no válida"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_SUPPORT",
+            "value": "¡Contrata a un compañero!"
+        },
+        {
+            "key": "PARTYEDITOR_ITEM_NOT_USED",
+            "value": "No se puede usar el objeto."
+        },
+        {
+            "key": "PARTYEDITOR_FRIEND_SKILL_NONE",
+            "value": "Nada"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_GO",
+            "value": "¡Listo!"
+        },
+        {
+            "key": "PARTYEDITOR_BATTLE_SKIP",
+            "value": "Pasar batalla"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_TITLE",
+            "value": "Ajustes"
+        },
+        {
+            "key": "MAP_EFFECT_TITLE",
+            "value": "Efectos de mapa"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_TITLE",
+            "value": "Terreno"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_DEFAULT",
+            "value": "Nada"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_TITLE",
+            "value": "Efectos de mapa"
+        },
+        {
+            "key": "ITEM_SELECT_TITLE",
+            "value": "Selección de objetos"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ALL",
+            "value": "Todos"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_HEAL",
+            "value": "Recuperación"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ATTACK",
+            "value": "Ataque"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_TITLE",
+            "value": "Cambiar nombre del grupo"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_DESCRIPTION",
+            "value": "Introduce un nuevo nombre para el grupo."
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_CAUTION",
+            "value": "Usa 8 caracteres o menos."
+        },
+        {
+            "key": "RECOMMEND_TEAM_TITLE",
+            "value": "Autoformación"
+        },
+        {
+            "key": "RECOMMEND_TEAM_MSG_1",
+            "value": "Selecciona el tipo y el elemento que quieres destacar."
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ALL_TEXT",
+            "value": "Todos"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_FIRE_TEXT",
+            "value": "Fuego"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ICE_TEXT",
+            "value": "Hielo"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WIND_TEXT",
+            "value": "Viento"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_EARTH_TEXT",
+            "value": "Tierra"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_THUNDER_TEXT",
+            "value": "Rayo"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WATER_TEXT",
+            "value": "Agua"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_SHINE_TEXT",
+            "value": "Luz"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_DARK_TEXT",
+            "value": "Oscuridad"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_TOTAL_TEXT",
+            "value": "General"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TEXT",
+            "value": "ATQ"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_DEFENCE_TEXT",
+            "value": "DEF"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MAGIC_TEXT",
+            "value": "MAG"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MIND_TEXT",
+            "value": "ESP"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_HP_TEXT",
+            "value": "VIT"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_SPEED_TEXT",
+            "value": "AGI"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SLASH_TEXT",
+            "value": "Corte"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_STAB_TEXT",
+            "value": "Perforación"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_BLOW_TEXT",
+            "value": "Golpe"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SHOT_TEXT",
+            "value": "A distancia"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_MAGIC_TEXT",
+            "value": "Mágico"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_NONE_TEXT",
+            "value": "Otro"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_ALL_TEXT",
+            "value": "Todos los tipos de ataque"
+        },
+        {
+            "key": "PARTYEDITOR_COND_LIMIT",
+            "value": "[Límite de miembros]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_LIMIT",
+            "value": "[Límite de miembros]<br>Ninguno"
+        },
+        {
+            "key": "PARTYEDITOR_COND_FIXED",
+            "value": "[Salida forzada]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_FIXED",
+            "value": "[Salida forzada]<br>Ninguna"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PUNCTUATE",
+            "value": "/"
+        },
+        {
+            "key": "PARTYEDITOR_COND_DETAIL",
+            "value": "[Información del mapa]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT",
+            "value": "[Terreno]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER",
+            "value": "[Clima]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_SEP",
+            "value": ","
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PLV",
+            "value": "Nv. jugador:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_ULV",
+            "value": "Nv. unidad:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_ELEM",
+            "value": "Elemento:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOB",
+            "value": "Profesión:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNIT",
+            "value": "Unidad:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_SEX",
+            "value": "Sexo:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_RARITY",
+            "value": "Rareza:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_HEIGHT",
+            "value": "Altura:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEIGHT",
+            "value": "Peso:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX",
+            "value": "N.º profesiones:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_BIRTH",
+            "value": "País:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX_VALUE",
+            "value": "Profesión n.º {0}"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TEXTFRAME",
+            "value": "[{0}]"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_PARENT",
+            "value": "{0}: {1}{2} dominado"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TITLE",
+            "value": "{0} cumple los siguientes requisitos"
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND_OWNED_UNIT",
+            "value": "No hay formaciones con esas características."
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND",
+            "value": "No hay formaciones con esas características."
+        },
+        {
+            "key": "DEFAULT_PARTY_NAME",
+            "value": "Grupo {0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
+            "value": "Confirmar formación"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
+            "value": "Partir con espacios libres será una desventaja durante los combates de gremio limitados. ¿Quieres hacerlo de todos modos?"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
+            "value": "No se cumplen los requisitos para formar grupo."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
+            "value": "No se reúnen los requisitos para formar grupo, por lo que se borrarán los datos de la formación anterior."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LEAGUE_GUILD_EMPTY_DESC",
+            "value": "Partir con espacios libres será una desventaja durante las batallas de supremacía de combates de gremio. ¿Quieres hacerlo de todos modos?"
+        }
+    ]
+}

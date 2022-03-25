@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ahora ha llegado el momento de hablar de los <color=#0000ff>KO</color> y las <color=#0000ff>retiradas</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Si la <color=#0000ff>VIT de una unidad llegara a 0</color>, dicha unidad acabaría <color=#0000ff>KO</color>, por lo que no podría seguir luchando. Además, aparecerá encima de su cabeza un <color=#0000ff>bocadillo de texto rojo</color> con el número 3."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Aunque la unidad esté KO, podréis <color=#0000ff>revivirla</color> con una <color=#0000ff>cola de fénix</color> o con el hechizo <color=#0000ff>Lázaro</color>."
+        },
+        {
+            "key": "004",
+            "value": "Sin embargo, si la unidad continúa KO <color=#0000ff>con el paso de los turnos</color> y el número del bocadillo <color=#0000ff>llega a 0</color>, en el turno siguiente…"
+        },
+        {
+            "key": "005",
+            "value": "… la unidad <color=#0000ff>se retirará</color> del campo de batalla. Tranquilo, aunque la unidad ya no se encuentre luchando, eso no significa que <color=#0000ff>vaya a desaparecer</color> de vuestro equipo."
+        },
+        {
+            "key": "006",
+            "value": "Dicho esto, también debéis tener en cuenta que las unidades que se retiren no podrán regresar a ese combate en concreto."
+        },
+        {
+            "key": "007",
+            "value": "Cuidado con el grupo de enemigos de esta vez. Es muy poderoso."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "008",
+            "value": "Usad las habilidades de <color=#0000ff>Ayaka</color>, <color=#0000ff>Cura</color> y <color=#0000ff>Lázaro</color>, con astucia mientras lucháis contra el enemigo."
+        }
+    ]
+}

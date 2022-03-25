@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Lasst mich Euch nun erklären, was es mit <color=#0000ff>Elementarketten</color> auf sich hat."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Wie bereits zuvor besprochen, lässt <color=#0000ff>fortgesetztes</color> Attackieren eines Gegners mit Angriffen der gleichen Art eine <color=#0000ff>Kette</color> entstehen. Betrachtet die dieses Mal zu besprechenden Ketten als deren <color=#0000ff>elementbezogene Variante</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Greift Ihr einen Gegner mehrmals hintereinander mit <color=#0000ff>Fähigkeiten</color> des gleichen <color=#0000ff>Elements</color> an, entsteht eine Elementarkette. Dies wiederum resultiert in einer <color=#0000ff>Vergrößerung</color> des beim Gegner verursachten Schadens."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Gegenwärtig haben sich hier Einheiten <color=#0000ff>des Elements „Erde“</color> versammelt. Lasst uns also den Gegner mit <color=#0000ff>Fähigkeiten</color> dieses Elements attackieren."
+        },
+        {
+            "key": "006",
+            "value": "Sollte der Gegner die Gelegenheit bekommen, <color=#0000ff>eine Aktion auszuführen</color>, oder sollte er mit einem <color=#0000ff>anderen Element angegriffen</color> werden, kommt es zu einem <color=#0000ff>Abreißen</color> der Elementarkette."
+        },
+        {
+            "key": "007",
+            "value": "Darüber hinaus solltet Ihr im Hinterkopf behalten, dass Ihr mit <color=#0000ff>normalen Angriffen keine Elementarkette bilden könnt</color>, da diese Attacken <color=#0000ff>elementneutral</color> sind."
+        },
+        {
+            "key": "009",
+            "value": "Ausgezeichnet! Ihr habt den Feind besiegt."
+        },
+        {
+            "key": "010",
+            "value": "Möglicherweise habt Ihr bemerkt, dass die Wirkungen von Elementarketten und normalen Angriffsketten <color=#0000ff>sich überlappen</color>."
+        },
+        {
+            "key": "011",
+            "value": "Daher können Einheiten, <color=#0000ff>die dem selben Element angehören und über die gleiche Angriffsart verfügen</color> – wie beispielsweise Euer Hoheit und Baelo – <color=#0000ff>beide Arten von Ketten</color> bilden."
+        },
+        {
+            "key": "012",
+            "value": "Wenn Ihr die Resistenzen des Gegners sorgfältig studiert und nach günstigen Gelegenheiten zur Erzeugung von Ketten sucht, werdet Ihr Euch schon bald auf dem Schlachtfeld beweisen können."
+        }
+    ]
+}

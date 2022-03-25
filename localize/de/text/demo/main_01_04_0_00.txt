@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Dieses Dorf ..."
+        },
+        {
+            "key": "002",
+            "value": "Stell damit an, was du willst."
+        },
+        {
+            "key": "003",
+            "value": "Was soll das nun wieder bedeuten?"
+        },
+        {
+            "key": "004",
+            "value": "Seine Bewohner sind diesem Schwein Yrde treu ergeben."
+        },
+        {
+            "key": "005",
+            "value": "Bist du etwa jemand, der mit verräterischem Gesindel Nachsicht hat?"
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Hahaha. Das war leichter, als ich dachte."
+        },
+        {
+            "key": "008",
+            "value": "Genießt Ihr es?"
+        },
+        {
+            "key": "009",
+            "value": "Genieße ich was?"
+        },
+        {
+            "key": "010",
+            "value": "Tut nicht so, als könntet Ihr es nicht hören ... das Kreischen und die Schmerzensschreie der Dörfler."
+        },
+        {
+            "key": "011",
+            "value": "Hiernach gibt es für das Prinzlein kein Zurück mehr."
+        },
+        {
+            "key": "012",
+            "value": "Haha ... Genau das ist ja der Plan."
+        }
+    ]
+}

@@ -1,0 +1,2916 @@
+﻿{
+    "infos": [
+        {
+            "key": "Normal_gacha_A",
+            "value": "Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_10",
+            "value": "Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_GL20200408",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200408",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200408",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_GL20200422",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200422",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200422",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_GL20200520",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200520",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200520",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_p_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201111_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201111_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20201111_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201118_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201118_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20201118_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201125_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201125_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20201125_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201202_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201202_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20201202_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201230_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20201230_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20201230_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210106_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210106_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210106_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210113_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210113_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210113_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210120_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210120_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210120_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210127_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210127_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210127_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210203_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210203_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210203_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210210_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210210_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210210_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210217_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210217_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210217_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210303_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210303_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210303_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210310_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210310_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210310_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210317_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210317_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210317_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210331_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210331_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210331_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210407_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210407_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210407_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210421_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210421_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210421_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210428_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210428_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210428_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210519_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210519_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210519_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210526_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210526_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210526_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210602_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210602_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210602_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210609_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210609_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210609_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210616_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210616_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210616_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210623_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210623_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210623_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210630_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210630_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210630_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210707_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210707_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210707_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210714_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210714_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210714_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210721_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210721_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210721_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210728_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210728_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210728_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210811_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210811_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210811_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210818_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210818_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210818_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210825_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210825_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210825_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210901_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210901_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210901_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210908_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210908_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210908_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210915_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210915_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210915_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210922_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210922_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210922_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210929_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20210929_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20210929_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211006_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211006_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20211006_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211013_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211013_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20211013_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211020_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211020_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20211020_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211027_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211027_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20211027_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211103_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211103_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20211103_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211117_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211117_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20211117_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211124_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211124_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20211124_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211201_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20211201_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20211201_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20220112_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20220112_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20220112_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20220126_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20220126_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20220126_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20220209_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20220209_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20220209_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20220302_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20220302_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20220302_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130",
+            "value": "Veröffentlichungsandenken – limitierte normale Beschwörung"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130_10",
+            "value": "Veröffentlichungsandenken – limitierte normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401",
+            "value": "„1 Million Downloads“-Feier – limitierte normale Beschwörung"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401_10",
+            "value": "„1 Million Downloads“-Feier – limitierte normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408",
+            "value": "„2 Millionen Downloads“-Feier – limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408_10",
+            "value": "„2 Millionen Downloads“-Feier – limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422",
+            "value": "„3 Millionen Downloads“-Feier – limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422_10",
+            "value": "„3 Millionen Downloads“-Feier – limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_01",
+            "value": "„4 Million Downloads“-Feier – Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_10",
+            "value": "„4 Million Downloads“-Feier – Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_01",
+            "value": "„Kapitel 6 veröffentlicht!“ — Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_10",
+            "value": "„Kapitel 6 veröffentlicht!“ — Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_01",
+            "value": "„5 Millionen Downloads“-Feier – Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_10",
+            "value": "„5 Millionen Downloads“-Feier – Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_01",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_10",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_01",
+            "value": "Limitierte Normale Beschwörung zur Feier der Kraftprobe"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_10",
+            "value": "Limitierte Normale Beschwörung zur Feier der Kraftprobe (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_01",
+            "value": "Frühsommer: Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_10",
+            "value": "Frühsommer: Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "„Kapitel 7 veröffentlicht!“ — Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "„Kapitel 7 veröffentlicht!“ — Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "„FF EXVIUS Universe“: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "„FF EXVIUS Universe“: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "FF EXVIUS Universe Teil II: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "FF EXVIUS Universe Teil II: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200902_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200902_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200909_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200909_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Campaign_gacha_gl20200909_10",
+            "value": "„[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200916_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200916_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Campaign_gacha_gl20200916_10",
+            "value": "„[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200923_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200923_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200930_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200930_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201007_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201007_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201014_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201014_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201021_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201021_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Campaign_gacha_gl20201021_10",
+            "value": "„[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201021_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201028_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201028_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201104_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201104_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Campaign_gacha_gl20201104_10",
+            "value": "„[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201111_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201111_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Campaign_gacha_gl20201111_10",
+            "value": "„[MR+] garantiert“-Visionskartenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201118_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201118_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201125_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201125_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Campaign_gacha_gl20201125_10",
+            "value": "„[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201209_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201209_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201209_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Campaign_gacha_gl20201209_10",
+            "value": "„[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201216_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201216_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201216_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201223_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201223_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201223_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201230_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201230_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201230_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210106_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210106_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210113_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210113_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210120_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210120_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "beginner_gacha_gl20210120_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Campaign_gacha_gl20210120_10",
+            "value": "„[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210127_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210127_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Campaign_gacha_gl20210127_10",
+            "value": "„[MR+] garantiert“-Visionskartenbeschwörung"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210127_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210203_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210203_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210203_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Campaign_gacha_gl20210203_10",
+            "value": "„[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "beginner_gacha_gl20210203_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210210_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210210_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210217_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210217_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210217_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210224_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210224_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210224_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210303_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210303_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "beginner_gacha_gl20210303_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Campaign_gacha_gl20210303_10",
+            "value": "„[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210303_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210310_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210310_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210310_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210317_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210317_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210317_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210324_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210324_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "beginner_gacha_gl20210407_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210407_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210407_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210414_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210414_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210421_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210421_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210421_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210428_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210428_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210428_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210505_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210505_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "beginner_gacha_gl20210505_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210505_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210512_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210512_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210512_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210519_01",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210519_10",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210519_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "Campaign_gacha_gl20210519_10",
+            "value": "8 Millionen Downloads! Teil III: „[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210526_01",
+            "value": "Porzellanturm-Eröffnung: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210526_10",
+            "value": "Porzellanturm-Eröffnung: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Campaign_gacha_gl20210526_10",
+            "value": "8 Millionen Downloads! Teil IV: „[MR+] garantiert“-Visionskartenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210602_01",
+            "value": "Rosenfestival: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210602_10",
+            "value": "Rosenfestival: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "beginner_gacha_gl20210602_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210609_01",
+            "value": "Schoko-Festival 2021: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210609_10",
+            "value": "Schoko-Festival 2021: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210616_01",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210616_10",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Campaign_gacha_gl20210616_10",
+            "value": "Versionsupdate: „[MR+] garantiert“-Einheitenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210623_01",
+            "value": "Zwischenspiel Teil 2, Szene 1 erschienen: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210623_10",
+            "value": "Zwischenspiel Teil 2, Szene 1 erschienen: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Campaign_gacha_gl20210623_10",
+            "value": "Zwischenspiel Teil 2, Szene 1 erschienen: „[MR+] garantiert“-Visionskartenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210630_01",
+            "value": "Globalfest: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210630_10",
+            "value": "Globalfest: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210630_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "beginner_gacha_gl20210707_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210707_01",
+            "value": "Neues Storyevent: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210707_10",
+            "value": "Neues Storyevent: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210714_01",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210714_10",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210721_01",
+            "value": "Sommer 2021 Teil I: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210721_10",
+            "value": "Sommer 2021 Teil I: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210728_01",
+            "value": " 9 Millionen Downloads! Teil I: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210728_10",
+            "value": " 9 Millionen Downloads! Teil I: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "beginner_gacha_gl20210804_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210804_01",
+            "value": "Sommer 2021 Teil II: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210804_10",
+            "value": "Sommer 2021 Teil II: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_QILF_01_gl20210804_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_QILF_01_gl20210804_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20210804_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20210804_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210811_01",
+            "value": "Sternenfest 2021: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210811_10",
+            "value": "Sternenfest 2021: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20210811_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20210811_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20210811_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210818_01",
+            "value": "Sommer 2021 Teil III: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210818_10",
+            "value": "Sommer 2021 Teil III: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_ELSR_01_gl20210818_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_ELSR_01_gl20210818_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_ELSR_01_gl20210818_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20210818_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20210818_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20210818_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_CLOUD_gl20210825_01",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Cloud~"
+        },
+        {
+            "key": "new-gacha_CLOUD_gl20210825_10",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Cloud~ (10-malig)"
+        },
+        {
+            "key": "new-gacha_CLOUD_gl20210825_P",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Cloud~"
+        },
+        {
+            "key": "new-gacha_TIFA_gl20210825_01",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Tifa~"
+        },
+        {
+            "key": "new-gacha_TIFA_gl20210825_10",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Tifa~ (10-malig)"
+        },
+        {
+            "key": "new-gacha_TIFA_gl20210825_P",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Tifa~"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210825_01",
+            "value": "Countdown zum eineinhalbjährigen Jubiläum Teil I: Limitierte Normale Beschwörung "
+        },
+        {
+            "key": "Normal_gacha_A_gl20210825_10",
+            "value": "Countdown zum eineinhalbjährigen Jubiläum Teil I: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210901_01",
+            "value": "Countdown zum eineinhalbjährigen Jubiläum Teil II: Limitierte Normale Beschwörung "
+        },
+        {
+            "key": "Normal_gacha_A_gl20210901_10",
+            "value": "Countdown zum eineinhalbjährigen Jubiläum Teil II: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_AERT_gl20210901_01",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Aerith~"
+        },
+        {
+            "key": "new-gacha_AERT_gl20210901_10",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Aerith~ (10-malig)"
+        },
+        {
+            "key": "new-gacha_AERT_gl20210901_P",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Aerith~"
+        },
+        {
+            "key": "new-gacha_BART_gl20210901_01",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Barret~"
+        },
+        {
+            "key": "new-gacha_BART_gl20210901_10",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Barret~ (10-malig)"
+        },
+        {
+            "key": "new-gacha_BART_gl20210901_P",
+            "value": "FINAL FANTASY VII REMAKE Kollabo-Beschwörung ~Barret~"
+        },
+        {
+            "key": "beginner_gacha_gl20210901_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210908_01",
+            "value": "Countdown zum eineinhalbjährigen Jubiläum Teil III: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210908_10",
+            "value": "Countdown zum eineinhalbjährigen Jubiläum Teil III: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20210908_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20210908_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20210908_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210915_01",
+            "value": "Countdown zum eineinhalbjährigen Jubiläum Teil IV: Limitierte Normale Beschwörung "
+        },
+        {
+            "key": "Normal_gacha_A_gl20210915_10",
+            "value": "Countdown zum eineinhalbjährigen Jubiläum Teil IV: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20210915_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20210915_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20210915_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_LSWL_gl20210915_01",
+            "value": "Einheit-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_LSWL_gl20210915_10",
+            "value": "Einheit-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_LSWL_gl20210915_P",
+            "value": "Einheit-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210922_01",
+            "value": "Eineinhalbjähriges Jubiläum: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210922_10",
+            "value": "Eineinhalbjähriges Jubiläum: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_TOMBR_gl20210922_01",
+            "value": "Tomb Raider-Kollabobeschwörung"
+        },
+        {
+            "key": "new-gacha_TOMBR_gl20210922_10",
+            "value": "Tomb Raider-Kollabobeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_TOMBR_gl20210922_P",
+            "value": "Tomb Raider-Kollabobeschwörung"
+        },
+        {
+            "key": "new-gacha_WINTER1_gl20210922_01",
+            "value": "Saisonale Wiederholung: Winterblickpunktbeschwörung I"
+        },
+        {
+            "key": "new-gacha_WINTER1_gl20210922_10",
+            "value": "Saisonale Wiederholung: Winterblickpunktbeschwörung (10-malig) I"
+        },
+        {
+            "key": "new-gacha_WINTER1_gl20210922_P",
+            "value": "Saisonale Wiederholung: Winterblickpunktbeschwörung I"
+        },
+        {
+            "key": "new-gacha_WINTER2_gl20210922_01",
+            "value": "Saisonale Wiederholung: Winterblickpunktbeschwörung II"
+        },
+        {
+            "key": "new-gacha_WINTER2_gl20210922_10",
+            "value": "Saisonale Wiederholung: Winterblickpunktbeschwörung (10-malig) II"
+        },
+        {
+            "key": "new-gacha_WINTER2_gl20210922_P",
+            "value": "Saisonale Wiederholung: Winterblickpunktbeschwörung II"
+        },
+        {
+            "key": "new-gacha_WINTER3_gl20210922_01",
+            "value": "Saisonale Wiederholung: Winterblickpunktbeschwörung III"
+        },
+        {
+            "key": "new-gacha_WINTER3_gl20210922_10",
+            "value": "Saisonale Wiederholung: Winterblickpunktbeschwörung (10-malig) III"
+        },
+        {
+            "key": "new-gacha_WINTER3_gl20210922_P",
+            "value": "Saisonale Wiederholung: Winterblickpunktbeschwörung III"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210929_01",
+            "value": "Eineinhalbjähriges Jubiläum Teil II: Limitierte Normale Beschwörung "
+        },
+        {
+            "key": "Normal_gacha_A_gl20210929_10",
+            "value": "Eineinhalbjähriges Jubiläum Teil II: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_unit_gl20210929_01",
+            "value": "Globalfest: Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_unit_gl20210929_10",
+            "value": "Globalfest: Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_unit_gl20210929_P",
+            "value": "Globalfest: Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20210929_01",
+            "value": "Globalfest: Neue Visionskarte-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20210929_10",
+            "value": "Globalfest: Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20210929_P",
+            "value": "Globalfest: Neue Visionskarte-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211006_01",
+            "value": "Eineinhalbjähriges Jubiläum Teil III: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211006_10",
+            "value": "Eineinhalbjähriges Jubiläum Teil III: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211006_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20211006_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211006_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "beginner_gacha_gl20211006_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211013_01",
+            "value": "Eineinhalbjähriges Jubiläum Teil IV: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211013_10",
+            "value": "Eineinhalbjähriges Jubiläum Teil IV: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_JEDN_gl20211013_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_JEDN_gl20211013_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_JEDN_gl20211013_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20211013_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20211013_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211013_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211020_01",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211020_10",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211020_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20211020_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211020_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211027_01",
+            "value": "Halloween-Fest 2021: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211027_10",
+            "value": "Halloween-Fest 2021: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_HALLOW2_gl20211027_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_HALLOW2_gl20211027_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_HALLOW2_gl20211027_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_HALL2_gl20211027_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_HALL2_gl20211027_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_HALL2_gl20211027_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211103_01",
+            "value": "Vorfreude aufs 2. Jubiläum der japanischen Version: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211103_10",
+            "value": "Vorfreude aufs 2. Jubiläum der japanischen Version: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211103_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20211103_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211103_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "beginner_gacha_gl20211103_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211110_01",
+            "value": "2. Jubiläum der japanischen Version: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211110_10",
+            "value": "2. Jubiläum der japanischen Version: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211110_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20211110_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211110_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211117_01",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211117_10",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211117_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20211117_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211117_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211124_01",
+            "value": "Black Friday: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211124_10",
+            "value": "Black Friday: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_NCTS_gl20211124_01",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung: „Noctis“"
+        },
+        {
+            "key": "new-gacha_NCTS_gl20211124_10",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung (10-malig): „Noctis“"
+        },
+        {
+            "key": "new-gacha_NCTS_gl20211124_P",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung: „Noctis“"
+        },
+        {
+            "key": "new-gacha_PRMP_gl20211124_01",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung: „Prompto“"
+        },
+        {
+            "key": "new-gacha_PRMP_gl20211124_10",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung (10-malig): „Prompto“"
+        },
+        {
+            "key": "new-gacha_PRMP_gl20211124_P",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung: „Prompto“"
+        },
+        {
+            "key": "new-gacha_OATH_gl20211124_01",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung: „Schwur der Erlösung“"
+        },
+        {
+            "key": "new-gacha_OATH_gl20211124_10",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung (10-malig): „Schwur der Erlösung“"
+        },
+        {
+            "key": "new-gacha_OATH_gl20211124_P",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung: „Schwur der Erlösung“"
+        },
+        {
+            "key": "beginner_gacha_gl20211201_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211201_01",
+            "value": "Frühwinter 2021: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211201_10",
+            "value": "Frühwinter 2021: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211201_01",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung: „Aranea“"
+        },
+        {
+            "key": "new-gacha_gl20211201_10",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung (10-malig): „Aranea“"
+        },
+        {
+            "key": "new-gacha_gl20211201_P",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung: „Aranea“"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211208_01",
+            "value": "Frühwinter 2021 Teil II: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211208_10",
+            "value": "Frühwinter 2021 Teil II: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20211208_01",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung: „Maniplus-Mech“"
+        },
+        {
+            "key": "new-gacha_gl20211208_10",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung (10-malig): „Maniplus-Mech“"
+        },
+        {
+            "key": "new-gacha_gl20211208_P",
+            "value": "FINAL FANTASY XV-Kollabobeschwörung: „Maniplus-Mech“"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211215_01",
+            "value": "Winterfest 2021: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211215_10",
+            "value": "Winterfest 2021: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_unit_gl20211215_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_unit_gl20211215_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_unit_gl20211215_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20211215_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20211215_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20211215_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211222_01",
+            "value": "Globalfest: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211222_10",
+            "value": "Globalfest: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_unit_gl20211222_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_unit_gl20211222_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_unit_gl20211222_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20211222_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20211222_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20211222_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211229_01",
+            "value": "Neujahrsgrüße 2022: Limitierte Normale Beschwörung "
+        },
+        {
+            "key": "Normal_gacha_A_gl20211229_10",
+            "value": "Neujahrsgrüße 2022: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20211229_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20211229_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20211229_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220105_01",
+            "value": "Visionskristallfest: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220105_10",
+            "value": "Visionskristallfest: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20220105_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20220105_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20220105_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220112_01",
+            "value": "Winter 2022: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220112_10",
+            "value": "Winter 2022: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20220112_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20220112_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20220112_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220119_01",
+            "value": "Winter 2022 Teil II: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220119_10",
+            "value": "Winter 2022 Teil II: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20220119_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (Golbez)"
+        },
+        {
+            "key": "new-gacha_gl20220119_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig) (Golbez)"
+        },
+        {
+            "key": "new-gacha_gl20220119_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (Golbez)"
+        },
+        {
+            "key": "gacha_CECL_gl20220119_01",
+            "value": "Einheit-Blickpunktbeschwörung (Wiederholung) „Cecil“"
+        },
+        {
+            "key": "gacha_CECL_gl20220119_10",
+            "value": "Einheit-Blickpunktbeschwörung (10-malig) (Wiederholung) „Cecil“"
+        },
+        {
+            "key": "gacha_CECL_gl20220119_P",
+            "value": "Einheit-Blickpunktbeschwörung (Wiederholung) „Cecil“"
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_01",
+            "value": "Einheit-Blickpunktbeschwörung (Wiederholung) „Kain“"
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_10",
+            "value": "Einheit-Blickpunktbeschwörung (10-malig) (Wiederholung) „Kain“"
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_P",
+            "value": "Einheit-Blickpunktbeschwörung (Wiederholung) „Kain“"
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_01",
+            "value": "Einheit-Blickpunktbeschwörung (Wiederholung) „Rosa“"
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_10",
+            "value": "Einheit-Blickpunktbeschwörung (10-malig) (Wiederholung) „Rosa“"
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_P",
+            "value": "Einheit-Blickpunktbeschwörung (Wiederholung) „Rosa“"
+        },
+        {
+            "key": "gacha_reissue_gl20220119_01",
+            "value": "Visionskarten-Blickpunktbeschwörung (Wiederholung) „Dämonenwall“"
+        },
+        {
+            "key": "gacha_reissue_gl20220119_10",
+            "value": "Visionskarten-Blickpunktbeschwörung (10-malig) (Wiederholung) „Dämonenwall“"
+        },
+        {
+            "key": "gacha_reissue_gl20220119_P",
+            "value": "Visionskarten-Blickpunktbeschwörung (Wiederholung) „Dämonenwall“"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220126_01",
+            "value": "„10 Millionen Downloads“ Teil II: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220126_10",
+            "value": " „10 Millionen Downloads“ Teil II: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20220126_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20220126_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20220126_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_a_01",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_a_10",
+            "value": "Blickpunktbeschwörung (10-malig) mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_a_P",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_b_01",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_b_10",
+            "value": "Blickpunktbeschwörung (10-malig) mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_b_P",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_c_01",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_c_10",
+            "value": "Blickpunktbeschwörung (10-malig) mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_c_P",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_d_01",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_d_10",
+            "value": "Blickpunktbeschwörung (10-malig) mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_d_P",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_e_01",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_e_10",
+            "value": "Blickpunktbeschwörung (10-malig) mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_e_P",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_f_01",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_f_10",
+            "value": "Blickpunktbeschwörung (10-malig) mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_f_P",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_g_01",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_g_10",
+            "value": "Blickpunktbeschwörung (10-malig) mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_g_P",
+            "value": "Blickpunktbeschwörung mit [UR]-Einheit mit den Kosten 100"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20220126_10",
+            "value": "Kostenlose Normale 10-malige Beschwörung für Ausrüstungsverbesserungsmaterialien"
+        },
+        {
+            "key": "beginner_gacha_gl20220202_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220202_01",
+            "value": "Mond-Neujahrsfest 2022: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220202_10",
+            "value": "Mond-Neujahrsfest 2022: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20220202_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20220202_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20220202_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20220202_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20220202_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20220202_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220209_01",
+            "value": "Visionskristallfest: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220209_10",
+            "value": "Visionskristallfest: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20220209_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20220209_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20220209_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220216_01",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220216_10",
+            "value": "Versionsupdate: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20220216_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20220216_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20220216_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_a_01",
+            "value": "Elementblickpunktbeschwörung I"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_a_10",
+            "value": "Elementblickpunktbeschwörung (10-malig) I"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_a_P",
+            "value": "Elementblickpunktbeschwörung I"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_b_01",
+            "value": "Elementblickpunktbeschwörung II"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_b_10",
+            "value": "Elementblickpunktbeschwörung (10-malig) II"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_b_P",
+            "value": "Elementblickpunktbeschwörung II"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_c_01",
+            "value": "Elementblickpunktbeschwörung III"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_c_10",
+            "value": "Elementblickpunktbeschwörung (10-malig) III"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_c_P",
+            "value": "Elementblickpunktbeschwörung III"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_d_01",
+            "value": "Elementblickpunktbeschwörung IV"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_d_10",
+            "value": "Elementblickpunktbeschwörung (10-malig) IV"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_d_P",
+            "value": "Elementblickpunktbeschwörung IV"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220223_01",
+            "value": "Countdown zum 2. Jubiläum Teil I: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220223_10",
+            "value": "Countdown zum 2. Jubiläum Teil I: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_KTON_01_gl20220223_01",
+            "value": "Einheiten-Blickpunktbeschwörung I"
+        },
+        {
+            "key": "gacha_KTON_01_gl20220223_10",
+            "value": "Einheiten-Blickpunktbeschwörung (10-malig) I"
+        },
+        {
+            "key": "gacha_KTON_01_gl20220223_P",
+            "value": "Einheiten-Blickpunktbeschwörung I"
+        },
+        {
+            "key": "gacha_LILS_01_gl20220223_01",
+            "value": "Einheiten-Blickpunktbeschwörung II"
+        },
+        {
+            "key": "gacha_LILS_01_gl20220223_10",
+            "value": "Einheiten-Blickpunktbeschwörung (10-malig) II"
+        },
+        {
+            "key": "gacha_LILS_01_gl20220223_P",
+            "value": "Einheiten-Blickpunktbeschwörung II"
+        },
+        {
+            "key": "gacha_QILF_01_gl20220223_01",
+            "value": "Einheiten-Blickpunktbeschwörung III"
+        },
+        {
+            "key": "gacha_QILF_01_gl20220223_10",
+            "value": "Einheiten-Blickpunktbeschwörung (10-malig) III"
+        },
+        {
+            "key": "gacha_QILF_01_gl20220223_P",
+            "value": "Einheiten-Blickpunktbeschwörung III"
+        },
+        {
+            "key": "gacha_ELSR_01_gl20220223_01",
+            "value": "Einheiten-Blickpunktbeschwörung IV"
+        },
+        {
+            "key": "gacha_ELSR_01_gl20220223_10",
+            "value": "Einheiten-Blickpunktbeschwörung (10-malig) IV"
+        },
+        {
+            "key": "gacha_ELSR_01_gl20220223_P",
+            "value": "Einheiten-Blickpunktbeschwörung IV"
+        },
+        {
+            "key": "beginner_gacha_gl20220302_10",
+            "value": "Nur die ersten 7 Tage nach Spielstart: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220302_01",
+            "value": "Countdown zum 2. Jubiläum Teil II: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220302_10",
+            "value": "Countdown zum 2. Jubiläum Teil II: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_FDRC_01_gl20220302_01",
+            "value": "Einheiten-Blickpunktbeschwörung I"
+        },
+        {
+            "key": "gacha_FDRC_01_gl20220302_10",
+            "value": "Einheiten-Blickpunktbeschwörung (10-malig) I"
+        },
+        {
+            "key": "gacha_FDRC_01_gl20220302_P",
+            "value": "Einheiten-Blickpunktbeschwörung I"
+        },
+        {
+            "key": "gacha_RYER_01_gl20220302_01",
+            "value": "Einheiten-Blickpunktbeschwörung II"
+        },
+        {
+            "key": "gacha_RYER_01_gl20220302_10",
+            "value": "Einheiten-Blickpunktbeschwörung (10-malig) II"
+        },
+        {
+            "key": "gacha_RYER_01_gl20220302_P",
+            "value": "Einheiten-Blickpunktbeschwörung II"
+        },
+        {
+            "key": "gacha_RIRY_01_gl20220302_01",
+            "value": "Einheiten-Blickpunktbeschwörung III"
+        },
+        {
+            "key": "gacha_RIRY_01_gl20220302_10",
+            "value": "Einheiten-Blickpunktbeschwörung (10-malig) III"
+        },
+        {
+            "key": "gacha_RIRY_01_gl20220302_P",
+            "value": "Einheiten-Blickpunktbeschwörung III"
+        },
+        {
+            "key": "gacha_reissue_gl20220302_01",
+            "value": "Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_reissue_gl20220302_10",
+            "value": "Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_reissue_gl20220302_P",
+            "value": "Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220309_01",
+            "value": "Visionskristallfest: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220309_10",
+            "value": "Visionskristallfest: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20220309_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_gl20220309_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_gl20220309_P",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_a_01",
+            "value": "Blitz & Dunkel-Elementblickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_a_10",
+            "value": "Blitz & Dunkel-Elementblickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_a_P",
+            "value": "Blitz & Dunkel-Elementblickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_b_01",
+            "value": "Wind & Erd-Elementblickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_b_10",
+            "value": "Wind & Erd-Elementblickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_b_P",
+            "value": "Wind & Erd-Elementblickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220316_01",
+            "value": "Countdown zum 2. Jubiläum Teil IV: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220316_10",
+            "value": "Countdown zum 2. Jubiläum Teil IV: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_MV4_gl20220316_01",
+            "value": "FFXIV Endwalker-Kollabo: Beschwörung"
+        },
+        {
+            "key": "new-gacha_MV4_gl20220316_10",
+            "value": "FFXIV Endwalker-Kollabo: Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_MV4_gl20220316_P",
+            "value": "FFXIV Endwalker-Kollabo: Beschwörung"
+        },
+        {
+            "key": "gacha_FFXIV_gl20220316_01",
+            "value": "FFXIV Shadowbringers-Kollabo-Beschwörung (Wiederholung)"
+        },
+        {
+            "key": "gacha_FFXIV_gl20220316_10",
+            "value": "FFXIV Shadowbringers-Kollabo-Beschwörung (Wiederholung) (10-malig)"
+        },
+        {
+            "key": "gacha_FFXIV_gl20220316_P",
+            "value": "FFXIV Shadowbringers-Kollabo-Beschwörung (Wiederholung)"
+        },
+        {
+            "key": "new-gacha_vc_gl20220316_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_vc_gl20220316_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_vc_gl20220316_P",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_a_01",
+            "value": "Eis & Licht-Elementblickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_a_10",
+            "value": "Eis & Licht-Elementblickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_a_P",
+            "value": "Eis & Licht-Elementblickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_b_01",
+            "value": "Feuer & Wasser-Elementblickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_b_10",
+            "value": "Feuer & Wasser-Elementblickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_b_P",
+            "value": "Feuer & Wasser-Elementblickpunktbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220323_01",
+            "value": "2. Jubiläum: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220323_10",
+            "value": "2. Jubiläum: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_TERA_gl20220323_01",
+            "value": "FINAL FANTASY VI-Kollabo: Beschwörung „Terra“"
+        },
+        {
+            "key": "new-gacha_TERA_gl20220323_10",
+            "value": "FINAL FANTASY VI-Kollabo: Beschwörung „Terra“ (10-malig)"
+        },
+        {
+            "key": "new-gacha_TERA_gl20220323_P",
+            "value": "FINAL FANTASY VI-Kollabo: Beschwörung „Terra“"
+        },
+        {
+            "key": "new-gacha_CLES_gl20220323_01",
+            "value": "FINAL FANTASY VI-Kollabo: Beschwörung „Celes“"
+        },
+        {
+            "key": "new-gacha_CLES_gl20220323_10",
+            "value": "FINAL FANTASY VI-Kollabo: Beschwörung „Celes“ (10-malig)"
+        },
+        {
+            "key": "new-gacha_CLES_gl20220323_P",
+            "value": "FINAL FANTASY VI-Kollabo: Beschwörung „Celes“"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_a_01",
+            "value": "Globale Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_a_10",
+            "value": "Globale Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_a_P",
+            "value": "Globale Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_b_01",
+            "value": "Globale Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_b_10",
+            "value": "Globale Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_b_P",
+            "value": "Globale Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_c_01",
+            "value": "Globale Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_c_10",
+            "value": "Globale Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_c_P",
+            "value": "Globale Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_d_01",
+            "value": "Globale Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_d_10",
+            "value": "Globale Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_d_P",
+            "value": "Globale Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_e_01",
+            "value": "Globale Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_e_10",
+            "value": "Globale Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_e_P",
+            "value": "Globale Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_a_01",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_a_10",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_a_P",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_c_01",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_c_10",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_c_P",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_b_01",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_b_10",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_b_P",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_d_01",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_d_10",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_d_P",
+            "value": "Globale Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_FF_unit_gl20220323_01",
+            "value": "FF-Einheitenbeschwörung"
+        },
+        {
+            "key": "gacha_FF_unit_gl20220323_10",
+            "value": "FF-Einheitenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_FF_unit_gl20220323_P",
+            "value": "FF-Einheitenbeschwörung"
+        },
+        {
+            "key": "gacha_FF_vc_gl20220323_01",
+            "value": "FF-Visionskartenbeschwörung"
+        },
+        {
+            "key": "gacha_FF_vc_gl20220323_10",
+            "value": "FF-Visionskartenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_FF_vc_gl20220323_P",
+            "value": "FF-Visionskartenbeschwörung"
+        }
+    ]
+}

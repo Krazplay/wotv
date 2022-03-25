@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Comme nous l'avons vu précédemment, il est possible de se remettre des altérations d'état. Mais il existe aussi des <color=#0000ff>résistances à ces altérations</color>, que nous allons découvrir maintenant."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Toutes les unités possèdent une <color=#0000ff>résistance aux altérations d'état</color> qui fait quelques fois échouer l'apparition de celles-ci."
+        },
+        {
+            "key": "003",
+            "value": "Comme pour toutes les autres, il vous suffit d'appuyer sur <color=#0000ff>la loupe</color> qui apparaît quand vous attaquez un ennemi pour connaître sa résistance aux altérations d'état."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "005",
+            "value": "Pour ce combat, vous aurez Mediena dans votre équipe. Elle possède des sorts qui permettent d'infliger <color=#0000ff>Poison, Sommeil et Cécité</color>."
+        },
+        {
+            "key": "006",
+            "value": "Vous voyez <color=#0000ff>l'ennemi qui tient une épée</color> ? Il résiste peu au <color=#0000ff>Sommeil</color>."
+        },
+        {
+            "key": "007",
+            "value": "<color=#0000ff>Celui qui tient une lance</color> résiste peu au <color=#0000ff>Poison</color>."
+        },
+        {
+            "key": "008",
+            "value": "Et enfin, <color=#0000ff>l'ennemi armé d'un arc</color> craint beaucoup la <color=#0000ff>Cécité</color>."
+        },
+        {
+            "key": "009",
+            "value": "À vous de jouer ! Tirez avantage de leurs faiblesses !"
+        }
+    ]
+}

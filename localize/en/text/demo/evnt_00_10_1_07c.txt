@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "You said you are heading for Wezette next, didn't you?"
+        },
+        {
+            "key": "002",
+            "value": "Yes, that's right. Our mission is to deliver this tome to King Oelde."
+        },
+        {
+            "key": "003",
+            "value": "...And what of Queen Helena, who gave you those orders?"
+        },
+        {
+            "key": "004",
+            "value": "Sh-she..."
+        },
+        {
+            "key": "005",
+            "value": "Where is the queen?"
+        },
+        {
+            "key": "006",
+            "value": "In the underground holding cells..."
+        },
+        {
+            "key": "007",
+            "value": "Why haven't you freed her?"
+        },
+        {
+            "key": "008",
+            "value": "Queen Helena seems to have a plan of her own, which is why she remains there..."
+        },
+        {
+            "key": "009",
+            "value": "I see. Hmm..."
+        },
+        {
+            "key": "010",
+            "value": "No, Elsirelle. Out of the question."
+        },
+        {
+            "key": "011",
+            "value": "I didn't say anything."
+        },
+        {
+            "key": "012",
+            "value": "I know what you're thinking. You plan to remain in the castle."
+        },
+        {
+            "key": "013",
+            "value": "......"
+        },
+        {
+            "key": "014",
+            "value": "I'm still sleepy, that's all."
+        },
+        {
+            "key": "015",
+            "value": "...Elsirelle."
+        },
+        {
+            "key": "016",
+            "value": "Besides, you know just how fond I am of my bedroom. A tent is the last place I want to sleep."
+        },
+        {
+            "key": "017",
+            "value": "...Your mind cannot be changed?"
+        },
+        {
+            "key": "018",
+            "value": "I should probably take this chance to act knightly for a change, anyway."
+        },
+        {
+            "key": "019",
+            "value": "Wezette is meant to be freezing cold during this season. No catching a cold, you hear?"
+        },
+        {
+            "key": "020",
+            "value": "...Do not die here."
+        },
+        {
+            "key": "021",
+            "value": "I won't. We shall meet again."
+        },
+        {
+            "key": "022",
+            "value": "Let’s move."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hé, vous avez entendu ? Il paraît que la greluche voyage avec nous."
+        },
+        {
+            "key": "002",
+            "value": "La sœur d'Adelard ? Elle s'appelle Saliah, c'est ça ?"
+        },
+        {
+            "key": "003",
+            "value": "J'imagine que le commandant s'est dit que c'était trop dangereux de la laisser au château."
+        },
+        {
+            "key": "004",
+            "value": "Le frère est tout aussi stupide que la sœur."
+        },
+        {
+            "key": "005",
+            "value": "On n'a qu'à s'occuper d'eux en chemin. Et on remettra Glahz aux commandes."
+        },
+        {
+            "key": "006",
+            "value": "Ouais. Et à nous la belle époque où on s'en mettait plein les poches !"
+        },
+        {
+            "key": "007",
+            "value": "Bon alors, on les tue quand ?"
+        },
+        {
+            "key": "008",
+            "value": "D'abord, on reprend la forteresse. On n'aura plus qu'à leur tomber dessus quand ils ne s'y attendront pas."
+        },
+        {
+            "key": "009",
+            "value": "J'en étais sûre !"
+        },
+        {
+            "key": "010",
+            "value": "N'empêche... Ils pensent vraiment faire le poids contre nous deux ?"
+        }
+    ]
+}

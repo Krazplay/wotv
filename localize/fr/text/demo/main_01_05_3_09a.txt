@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ouah ! Sterne est imbattable !"
+        },
+        {
+            "key": "002",
+            "value": "Ouais ! Continuez, Sire !"
+        },
+        {
+            "key": "003",
+            "value": "Ne me donnez pas d'ordre !"
+        },
+        {
+            "key": "004",
+            "value": "Que... ?!"
+        },
+        {
+            "key": "005",
+            "value": "C'est vous que je découperai ensuite !"
+        },
+        {
+            "key": "006",
+            "value": "A-arrêtez !"
+        }
+    ]
+}

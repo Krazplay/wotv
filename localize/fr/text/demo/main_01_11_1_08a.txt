@@ -1,0 +1,112 @@
+﻿{
+    "infos": [
+        {
+            "key": "110181",
+            "value": "Qu'est-ce que tu veux ?"
+        },
+        {
+            "key": "110182",
+            "value": "Où étiez-vous passé ?"
+        },
+        {
+            "key": "110183",
+            "value": "Je n'ai à répondre de rien devant toi."
+        },
+        {
+            "key": "110184",
+            "value": "Ah... c'est la culpabilité qui vous rend taciturne, je me trompe ?"
+        },
+        {
+            "key": "110185",
+            "value": "Puisque ça t'intéresse à ce point, je vais te dire où j'étais."
+        },
+        {
+            "key": "110186",
+            "value": "Je viens de tuer le roi Eldo."
+        },
+        {
+            "key": "110187",
+            "value": "Il va me falloir une preuve."
+        },
+        {
+            "key": "110188",
+            "value": "Je me fiche que tu me croies ou non."
+        },
+        {
+            "key": "110189",
+            "value": "Bien... Je me contenterai donc de rapporter à Sadali ce que vous m'apprenez."
+        },
+        {
+            "key": "110190",
+            "value": "Ici Vistral."
+        },
+        {
+            "key": "110191",
+            "value": "Sterne prétend avoir tué le roi Eldo."
+        },
+        {
+            "key": "110192",
+            "value": "Oui..."
+        },
+        {
+            "key": "110193",
+            "value": "Non, mais je m'en charge."
+        },
+        {
+            "key": "110194",
+            "value": "Entendu, Monseigneur."
+        },
+        {
+            "key": "110195",
+            "value": "Encore une minute."
+        },
+        {
+            "key": "110196",
+            "value": "Je ne vois toujours pas de preuve que vous avez tué le roi."
+        },
+        {
+            "key": "110197",
+            "value": "Quelle preuve te faudrait-il ?"
+        },
+        {
+            "key": "110198",
+            "value": "Ne jouez pas les innocents. La relique séculaire de Leonis, où est-elle ?"
+        },
+        {
+            "key": "110199",
+            "value": "Ah, l'anneau ? Je l'ai jeté."
+        },
+        {
+            "key": "110200",
+            "value": "Ne vous moquez pas de moi ! Jamais vous n'auriez jeté un artéfact aussi précieux !"
+        },
+        {
+            "key": "110201",
+            "value": "Tu espérais le récupérer pour gagner les faveurs de Sadali, n'est-ce pas ?"
+        },
+        {
+            "key": "110202",
+            "value": "..."
+        },
+        {
+            "key": "110203",
+            "value": "Touché. Je te plains."
+        },
+        {
+            "key": "110204",
+            "value": "Donnez-le moi. Sinon..."
+        },
+        {
+            "key": "110205",
+            "value": "Tu crois vraiment pouvoir gagner contre moi ?"
+        },
+        {
+            "key": "110206",
+            "value": "Je n'ai jamais eu l'intention de vous affronter seul. Sortez, vous autres !"
+        },
+        {
+            "key": "110207",
+            "value": "Cet homme est un traître. Tuez-le."
+        }
+    ]
+}

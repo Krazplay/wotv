@@ -1,0 +1,212 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Excelente! Los rumores eran ciertos. De hecho, no os hacían del todo justicia."
+        },
+        {
+            "key": "002",
+            "value": "¡Ja, ja, ja! ¡De momento, está siendo pan comido!"
+        },
+        {
+            "key": "003",
+            "value": "Sadali, ¡es vuestro turno!"
+        },
+        {
+            "key": "004",
+            "value": "Bip, bip, bip…"
+        },
+        {
+            "key": "005",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "006",
+            "value": "¿Eh? ¿Qué ha pasado?"
+        },
+        {
+            "key": "007",
+            "value": "¡¿Cómo?! ¿Un ataque sorpresa de Elde? ¿Que han distraído a las tropas que los perseguían luchando?"
+        },
+        {
+            "key": "008",
+            "value": "¿Con quién estáis hablando?"
+        },
+        {
+            "key": "009",
+            "value": "Uno tarda en acostumbrarse. Yo también me sorprendí la primera vez."
+        },
+        {
+            "key": "010",
+            "value": "Tiene una especie de dispositivo que usa para contactar con sus tropas a distancia. Es un artilugio para dar órdenes y cosas así."
+        },
+        {
+            "key": "011",
+            "value": "¿Otra reliquia ancestral?"
+        },
+        {
+            "key": "012",
+            "value": "Si puede dar órdenes a distancia…"
+        },
+        {
+            "key": "013",
+            "value": "Creo que acabamos de descubrir el secreto del éxito militar de Muraga."
+        },
+        {
+            "key": "014",
+            "value": "Maldita rata… ¡¿Cómo se atreve a tenderme una emboscada cuando yo creía que estaba descansando en esa aldea?!"
+        },
+        {
+            "key": "015",
+            "value": "Me da a mí que se trata de una de las tácticas de mi hermano Mont."
+        },
+        {
+            "key": "016",
+            "value": "¡¿Qué acabas de decir?!"
+        },
+        {
+            "key": "017",
+            "value": "Que ni con esa reliquia tan poderosa habéis sido capaz de borrar a Leonis del mapa."
+        },
+        {
+            "key": "018",
+            "value": "…"
+        },
+        {
+            "key": "019",
+            "value": "Si hubiera estado yo al mando, el reinado de mi padre ya habría sucumbido."
+        },
+        {
+            "key": "020",
+            "value": "¿Qué insinuáis? ¿Que estáis dispuesto a acabar con la vida del rey Elde?"
+        },
+        {
+            "key": "021",
+            "value": "¿De vuestro propio padre?"
+        },
+        {
+            "key": "022",
+            "value": "¡Ese despreciable no es mi padre!"
+        },
+        {
+            "key": "023",
+            "value": "Aparte de abandonarme a mí, también abandonó a su propia esposa, a mi madre. ¡Y todo para salvarse él!"
+        },
+        {
+            "key": "024",
+            "value": "Mi espada está a vuestro servicio, rey Muraga. Os aseguro que os seré de mayor utilidad que ese ninja de tres al cuarto."
+        },
+        {
+            "key": "025",
+            "value": "¿Quién demonios te crees que eres?"
+        },
+        {
+            "key": "026",
+            "value": "¿Piensas que soy tan tonto como para tragármelo?"
+        },
+        {
+            "key": "027",
+            "value": "¿En serio dudáis de mis intenciones?"
+        },
+        {
+            "key": "028",
+            "value": "Me temo que yo soy el único responsable de esta situación."
+        },
+        {
+            "key": "029",
+            "value": "Yo solamente propuse una alianza entre Hourne y Fennes para poder resistir contra Rundal en el oeste."
+        },
+        {
+            "key": "030",
+            "value": "Pero… ¿cuál fue mi error? ¿Por qué las cosas han tenido que acabar así?"
+        },
+        {
+            "key": "031",
+            "value": "Dejad que yo me encargue y, a lo mejor, consigo que os reconciliéis con vuestro padre."
+        },
+        {
+            "key": "032",
+            "value": "¿Que me reconcilie? Eso no va a pasar."
+        },
+        {
+            "key": "033",
+            "value": "Además, vos no tenéis culpa ninguna."
+        },
+        {
+            "key": "034",
+            "value": "La guerra asomaba por el horizonte… Estábamos destinados a llegar a este desenlace."
+        },
+        {
+            "key": "035",
+            "value": "Aun así, sigo siendo el culpable de que vuestro futuro se haya visto truncado."
+        },
+        {
+            "key": "036",
+            "value": "¿Hay algo que pueda hacer para enmendar la situación y sentirme tranquilo?"
+        },
+        {
+            "key": "037",
+            "value": "Si lo que queréis es tranquilidad, entonces permitidme que acabe con mi padre."
+        },
+        {
+            "key": "038",
+            "value": "Luego, haced lo que queráis conmigo."
+        },
+        {
+            "key": "039",
+            "value": "Lo único que tenéis que prometerme es que no le pasará nada a mi madre."
+        },
+        {
+            "key": "040",
+            "value": "…"
+        },
+        {
+            "key": "041",
+            "value": "Que así sea, pues."
+        },
+        {
+            "key": "042",
+            "value": "Muraga, haréis todo lo que esté en vuestra mano para ayudar a que Stern derrote a su padre."
+        },
+        {
+            "key": "043",
+            "value": "Pe-pero, s-su santidad…"
+        },
+        {
+            "key": "044",
+            "value": "Me temo que es una orden. ¿Ha quedado claro?"
+        },
+        {
+            "key": "045",
+            "value": "Sí, pero Fortem no irá a ningún sitio, se queda aquí."
+        },
+        {
+            "key": "046",
+            "value": "Solo Stern se unirá a la persecución. Esa es mi condición."
+        },
+        {
+            "key": "047",
+            "value": "De acuerdo, no veo ningún problema."
+        },
+        {
+            "key": "048",
+            "value": "Ah, Stern, tengo un regalo para vos. Os lo daré más tarde."
+        },
+        {
+            "key": "049",
+            "value": "¿Un regalo?"
+        },
+        {
+            "key": "050",
+            "value": "Sí, y creo que os va a gustar mucho."
+        },
+        {
+            "key": "051",
+            "value": "¿Qu-qué vais a…?"
+        },
+        {
+            "key": "052",
+            "value": "Que la luz de los cristales os guíe."
+        }
+    ]
+}

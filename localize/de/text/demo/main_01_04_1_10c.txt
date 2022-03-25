@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Endlich! Wir haben sie gefunden!"
+        },
+        {
+            "key": "002",
+            "value": "Euer Majestät! Diese Relikte der Altvorderen werden uns in bevorstehenden Schlachten den Sieg bringen!"
+        },
+        {
+            "key": "003",
+            "value": "..."
+        },
+        {
+            "key": "004",
+            "value": "Euch scheint nach wie vor etwas zu beschäftigen."
+        },
+        {
+            "key": "005",
+            "value": "Was bereitet Euch Sorgen, Euer Majestät?"
+        },
+        {
+            "key": "006",
+            "value": "Mir sind Zweifel gekommen ..."
+        },
+        {
+            "key": "007",
+            "value": "Ist es wirklich zulässig, dass wir die Relikte von hier entfernen?"
+        },
+        {
+            "key": "008",
+            "value": "Warum sollte es das nicht sein? Die Götter selbst haben sie an uns übergeben, um sie zu verwenden, wenn die Zeit dafür reif ist."
+        },
+        {
+            "key": "009",
+            "value": "Das ist wahr ..."
+        },
+        {
+            "key": "010",
+            "value": "Diese Relikte werden uns zu großem Ruhm führen. Daran müssen wir glauben."
+        },
+        {
+            "key": "011",
+            "value": "Ich frage mich, wie so ein Ding aussieht ..."
+        },
+        {
+            "key": "012",
+            "value": "Nicht anfassen!"
+        },
+        {
+            "key": "013",
+            "value": "Wir haben keine Ahnung, welch unvorstellbare Relikte sich darin befinden."
+        },
+        {
+            "key": "014",
+            "value": "Und wir wissen nicht, was passiert, wenn wir unvorsichtig mit ihnen umgehen."
+        },
+        {
+            "key": "015",
+            "value": "V-Vergebt mir, Euer Majestät ..."
+        },
+        {
+            "key": "016",
+            "value": "Tragt die Steintruhen nach draußen."
+        },
+        {
+            "key": "017",
+            "value": "Zu Befehl!"
+        },
+        {
+            "key": "018",
+            "value": "Ihr habt Ihre Majestät gehört. Sorgt dafür, dass ihr sie vorsichtig behandelt."
+        }
+    ]
+}

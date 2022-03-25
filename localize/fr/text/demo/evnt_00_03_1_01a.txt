@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous les avez épargnés..."
+        },
+        {
+            "key": "002",
+            "value": "Hm... ?"
+        },
+        {
+            "key": "003",
+            "value": "Ne jouez pas les innocents."
+        },
+        {
+            "key": "004",
+            "value": "Ça se lit sur votre tête quand vous mentez."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Vous ne comprenez pas. Si vous continuez de vous comporter comme ça..."
+        },
+        {
+            "key": "007",
+            "value": "Non, je ne comprends pas !"
+        },
+        {
+            "key": "008",
+            "value": "Notre mission est d'assassiner Son Alt... d'assassiner Dario, non ?"
+        },
+        {
+            "key": "009",
+            "value": "Pourquoi devrait-on s'en prendre aux soldats de Hourne ?"
+        },
+        {
+            "key": "010",
+            "value": "En plus, jusqu'ici, on s'entendait vraiment bien..."
+        },
+        {
+            "key": "011",
+            "value": "C'est tout ce que vous avez à dire pour votre défense ?"
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "Quand cette mission sera achevée, vous devrez retourner au Repaire du serpent. Votre entraînement n'est pas terminé."
+        },
+        {
+            "key": "014",
+            "value": "J'espère que vous en êtes conscient."
+        },
+        {
+            "key": "015",
+            "value": "..."
+        },
+        {
+            "key": "016",
+            "value": "Eh bien, allons-y !"
+        },
+        {
+            "key": "017",
+            "value": "On nous attend dans les appartements de Dario."
+        },
+        {
+            "key": "018",
+            "value": "On y retrouve Vinera... et on élimine le prince !"
+        }
+    ]
+}

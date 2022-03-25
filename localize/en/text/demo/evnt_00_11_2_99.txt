@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Forgive me. I did little for you..."
+        },
+        {
+            "key": "002",
+            "value": "Not so. The two of you helped us more than we could ever think possible."
+        },
+        {
+            "key": "003",
+            "value": "......"
+        },
+        {
+            "key": "004",
+            "value": "I was prepared to fight until the bitter end to protect this land..."
+        },
+        {
+            "key": "005",
+            "value": "But in the end, I couldn't stand to see any more comrades get hurt."
+        },
+        {
+            "key": "006",
+            "value": "What will you do from here?"
+        },
+        {
+            "key": "007",
+            "value": "I think we'll find somewhere peaceful to reside...and spend our days preparing to take back this village."
+        },
+        {
+            "key": "008",
+            "value": "Could I...come with you?"
+        },
+        {
+            "key": "009",
+            "value": "I'm afraid I must refuse."
+        },
+        {
+            "key": "010",
+            "value": "......"
+        },
+        {
+            "key": "011",
+            "value": "The path you should walk is not one of revenge..."
+        },
+        {
+            "key": "012",
+            "value": "...But one that will lead to the end of war. Don't you think so?"
+        },
+        {
+            "key": "013",
+            "value": "...You might be right about that."
+        },
+        {
+            "key": "014",
+            "value": "And with that, we must take our leave. We'll never forget what you've done for us."
+        },
+        {
+            "key": "015",
+            "value": "Ramada...what will you do now?"
+        },
+        {
+            "key": "016",
+            "value": "I shall accompany you."
+        },
+        {
+            "key": "017",
+            "value": "What...!?"
+        },
+        {
+            "key": "018",
+            "value": "I know your heart."
+        },
+        {
+            "key": "019",
+            "value": "There is a place where you hope to hear the sound of songbirds again, correct?"
+        },
+        {
+            "key": "020",
+            "value": "......"
+        },
+        {
+            "key": "021",
+            "value": "Then let us be off."
+        },
+        {
+            "key": "022",
+            "value": "Is something amiss?"
+        },
+        {
+            "key": "023",
+            "value": "Do you think...they would forgive me?"
+        },
+        {
+            "key": "024",
+            "value": "I am certain of it."
+        },
+        {
+            "key": "025",
+            "value": "Now, shall we? To Leonis, the kingdom of the<br>lions..."
+        }
+    ]
+}

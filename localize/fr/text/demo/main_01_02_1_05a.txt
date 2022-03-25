@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Un rapport du front, Votre Majesté. Il semble que les renforts de Fennes se dirigent par ici, les uns après les autres."
+        },
+        {
+            "key": "002",
+            "value": "Des renforts... de Fennes ?"
+        },
+        {
+            "key": "003",
+            "value": "On dirait que la nouvelle de notre départ du château est déjà parvenue à Muraga. Il est plus malin que je ne le pensais."
+        },
+        {
+            "key": "004",
+            "value": "Maître, que faites-vous des déplacements de Muraga ?"
+        },
+        {
+            "key": "005",
+            "value": "Ce sauvage... Il semble qu'il se méfie de vous."
+        },
+        {
+            "key": "006",
+            "value": "De moi ?"
+        },
+        {
+            "key": "007",
+            "value": "Le roi Eldo a obstinément refusé de vous envoyer vous battre contre Fennes."
+        },
+        {
+            "key": "008",
+            "value": "C'est pour cela que Muraga a peur de vous, Sire Sterne. Il pense sûrement que vous êtes une arme secrète. Ha ha ha !"
+        },
+        {
+            "key": "009",
+            "value": "Vous dites que mon père m'a gardé en retrait tout ce temps pour ce genre d'occasion... ?"
+        },
+        {
+            "key": "010",
+            "value": "Eh bien, nous avons maintenant une chance de gagner, même si elle est mince."
+        },
+        {
+            "key": "011",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "012",
+            "value": "Cela veut dire que Muraga sous-estime peut-être les capacités du prince Mont."
+        },
+        {
+            "key": "013",
+            "value": "Toujours aussi perspicace, Maître. J'en suis venu à la même conclusion."
+        },
+        {
+            "key": "014",
+            "value": "Son aptitude à l'épée est peut-être en deçà de la vôtre, Prince Sterne, mais..."
+        },
+        {
+            "key": "015",
+            "value": "Il a assisté à plus de guerres que l'on peut en compter. Il arrive que le talent s'épanouisse sur le champ de bataille."
+        },
+        {
+            "key": "016",
+            "value": "Je le pense aussi."
+        },
+        {
+            "key": "017",
+            "value": "Alors, on y va ? J'ai besoin de me détendre un peu. Je suis un peu rouillé d'être autant resté au château."
+        }
+    ]
+}

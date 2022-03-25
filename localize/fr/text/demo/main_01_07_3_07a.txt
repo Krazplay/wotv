@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "70520",
+            "value": "Tiens ?"
+        },
+        {
+            "key": "70521",
+            "value": "Qu'y a-t-il ?"
+        },
+        {
+            "key": "70522",
+            "value": "Tu n'entends pas ? Des bruits d'épées, non loin..."
+        },
+        {
+            "key": "70523",
+            "value": "Des gens se battent à proximité ?"
+        },
+        {
+            "key": "70524",
+            "value": "On ferait mieux d'aller voir."
+        },
+        {
+            "key": "70525",
+            "value": "Mais c'est... !"
+        },
+        {
+            "key": "70526",
+            "value": "Des soldats de Hourne... contre des moines de l'Église."
+        },
+        {
+            "key": "70527",
+            "value": "Ils ont dû rattraper leur retard."
+        },
+        {
+            "key": "70528",
+            "value": "Qu'est-ce qu'on fait ?"
+        },
+        {
+            "key": "70529",
+            "value": "Ça me semble évident."
+        },
+        {
+            "key": "70530",
+            "value": "On se range du côté de Hourne."
+        },
+        {
+            "key": "70531",
+            "value": "Bonne idée ! J'ai la lance qui me démange !"
+        },
+        {
+            "key": "70532",
+            "value": "À l'attaque !"
+        }
+    ]
+}

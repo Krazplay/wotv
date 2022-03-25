@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "QUEST_AP",
+            "value": "Verringerte AP-Kosten!"
+        },
+        {
+            "key": "QUEST_DROP_RATE",
+            "value": "Erhöhte Drop-Wahrscheinlichkeit"
+        },
+        {
+            "key": "QUEST_DROP_AMOUNT",
+            "value": "Erhöhte Beutemenge"
+        },
+        {
+            "key": "QUEST_PLAYER_EXP",
+            "value": "Erhöhte Spieler-ERF"
+        },
+        {
+            "key": "QUEST_UNIT_EXP",
+            "value": "Erhöhte Einheiten-ERF"
+        },
+        {
+            "key": "QUEST_UNIT_JP",
+            "value": "Doppelte JP und Beute"
+        },
+        {
+            "key": "QUEST_ARTI_PROFICIENCY",
+            "value": "Erhöhte Ausrüstungskenntnisse"
+        },
+        {
+            "key": "QUEST_HARD_DROP_AMOUNT",
+            "value": "Schwierige Fragmente x {0}!"
+        },
+        {
+            "key": "QUEST_MULTI_AP",
+            "value": "Verringerte Multi-AP-Kosten!"
+        },
+        {
+            "key": "GACHA_PICKUP",
+            "value": "HIER nachsehen!"
+        },
+        {
+            "key": "GACHA_NEWUNIT",
+            "value": "Neue Einheit"
+        },
+        {
+            "key": "SHOP_SECRET",
+            "value": "Geheimladen hat GEÖFFNET!"
+        }
+    ]
+}

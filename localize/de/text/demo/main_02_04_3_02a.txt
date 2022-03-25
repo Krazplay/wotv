@@ -1,0 +1,256 @@
+﻿{
+    "infos": [
+        {
+            "key": "506",
+            "value": "...!!"
+        },
+        {
+            "key": "507",
+            "value": "E-Erstatte Bericht! Im Wald ist es zu einem Gefecht gekommen!"
+        },
+        {
+            "key": "508",
+            "value": "Zu einem Gefecht ...?"
+        },
+        {
+            "key": "509",
+            "value": "Vielleicht hat sich der Feind zerstritten."
+        },
+        {
+            "key": "510",
+            "value": "Hältst du das wirklich für möglich?"
+        },
+        {
+            "key": "511",
+            "value": "Ja, Madame."
+        },
+        {
+            "key": "512",
+            "value": "Sie können uns weder von der Front angreifen noch sich zurückziehen. Also sind sie in den Wald geflohen, und aus Verzweiflung ..."
+        },
+        {
+            "key": "513",
+            "value": "Nein ... Das glaube ich nicht."
+        },
+        {
+            "key": "514",
+            "value": "..."
+        },
+        {
+            "key": "515",
+            "value": "Der Wind trägt den Geruch von Schwarzpulver zu uns herüber."
+        },
+        {
+            "key": "516",
+            "value": "Ihr habt recht ..."
+        },
+        {
+            "key": "517",
+            "value": "Aber weder Hourne noch Leonis verfügen über eine nennenswerte Zahl an Schützen."
+        },
+        {
+            "key": "518",
+            "value": "... Sie kommen."
+        },
+        {
+            "key": "519",
+            "value": "Huark!!"
+        },
+        {
+            "key": "520",
+            "value": "Das kam aus dem Wald ..."
+        },
+        {
+            "key": "521",
+            "value": "Vielleicht stellen sie sich jetzt zum letzten Kampf."
+        },
+        {
+            "key": "522",
+            "value": "Wa ...?"
+        },
+        {
+            "key": "523",
+            "value": "Jayden!"
+        },
+        {
+            "key": "524",
+            "value": "Was hat die Armee von Rundall hier verloren ...?"
+        },
+        {
+            "key": "525",
+            "value": "Majestät, sollen wir uns Khuri vorknöpfen?"
+        },
+        {
+            "key": "526",
+            "value": "Nein, Khuri überlassen wir Mont."
+        },
+        {
+            "key": "527",
+            "value": "Dann übernehmen wir die Truppen an der Front."
+        },
+        {
+            "key": "528",
+            "value": "Das könnt ihr machen, ja. Und kümmert euch ruhig auch um diese Witzfiguren, wenn ihr sonst nichts zu tun habt."
+        },
+        {
+            "key": "529",
+            "value": "Witzfiguren ...?!"
+        },
+        {
+            "key": "530",
+            "value": "Du wagst es, Madame Melnia so zu bezeichnen?"
+        },
+        {
+            "key": "531",
+            "value": "Melnia ...?"
+        },
+        {
+            "key": "532",
+            "value": "Du bist das also? Verstehe. Ich hab schon so einiges über deine Umtriebe gehört."
+        },
+        {
+            "key": "533",
+            "value": "Ihren Blutdurst konnte sie in Saiga nicht stillen, also ist sie zuerst weiter nach Fennes und schließlich nach Wezette."
+        },
+        {
+            "key": "534",
+            "value": "Ranella."
+        },
+        {
+            "key": "535",
+            "value": "Ihr braucht nichts zu sagen."
+        },
+        {
+            "key": "536",
+            "value": "Ich werde sie eigenhändig richten."
+        },
+        {
+            "key": "537",
+            "value": "Ich wollte dir eigentlich gerade anbieten, dich am Leben zu lassen, wenn du dich in den Dreck kniest und brav bitte sagst."
+        },
+        {
+            "key": "538",
+            "value": "So ist es doch viel einfacher. Jetzt brauchen wir nicht darüber nachdenken, wen wir am Leben lassen."
+        },
+        {
+            "key": "539",
+            "value": "Hoffentlich leisten sie wenigstens ein bisschen Gegenwehr."
+        },
+        {
+            "key": "540",
+            "value": "Ich werde euch umbringen. Jeden einzelnen von euch!"
+        },
+        {
+            "key": "541",
+            "value": "Großartig, diese Mordlust!"
+        },
+        {
+            "key": "542",
+            "value": "Wollen wir dann mal?"
+        },
+        {
+            "key": "543",
+            "value": "Shunak, wie machen wir das?"
+        },
+        {
+            "key": "544",
+            "value": "Fangen wir mit dieser Ranella an, oder wie sie heißt. Willst du das übernehmen?"
+        },
+        {
+            "key": "545",
+            "value": "Gut, dann gönne ich mir sie mal!"
+        },
+        {
+            "key": "546",
+            "value": "In ein paar Sekunden wirst du dich in der Hölle wiederfinden."
+        },
+        {
+            "key": "547",
+            "value": "..."
+        },
+        {
+            "key": "548",
+            "value": "..."
+        },
+        {
+            "key": "549",
+            "value": "Nur mal nicht so schnell!"
+        },
+        {
+            "key": "550",
+            "value": "Wer bist du denn ...?"
+        },
+        {
+            "key": "551",
+            "value": "Bist du denn immer noch nicht tot ..."
+        },
+        {
+            "key": "552",
+            "value": "Ich werde nicht den Löffel abgeben, solange ich nicht Rache für König Muraga genommen habe!"
+        },
+        {
+            "key": "553",
+            "value": "Hey, wenn du mich nicht meine Arbeit machen lässt, muss ich dich auch ins Jenseits befördern."
+        },
+        {
+            "key": "554",
+            "value": "Jetzt hab dich mal nicht so."
+        },
+        {
+            "key": "555",
+            "value": "Rache für den toten Herrn, das ist doch ein Klassiker. Und ich bin Menschen, die so viel Zorn in sich tragen, durchaus nicht abgeneigt."
+        },
+        {
+            "key": "556",
+            "value": "Dann überlasst Ihr sie also mir?"
+        },
+        {
+            "key": "557",
+            "value": "Nur zu."
+        },
+        {
+            "key": "558",
+            "value": "Ihr seid ein Mann, der mit sich reden lässt. Das gefällt mir."
+        },
+        {
+            "key": "559",
+            "value": "Aber!"
+        },
+        {
+            "key": "560",
+            "value": "An Seine Wildheit kommt Ihr nicht ran!"
+        },
+        {
+            "key": "561",
+            "value": "Hahahaha! Da muss ich mich Muraga wohl oder übel geschlagen geben."
+        },
+        {
+            "key": "562",
+            "value": "Oldoa heißt du, richtig? Gut, zeig mir, wie du deinen Durst nach Rache stillst."
+        },
+        {
+            "key": "563",
+            "value": "Aber das ist allein dein Kampf. Wir werden dir nicht helfen, wenn du unterliegst."
+        },
+        {
+            "key": "564",
+            "value": "Du bist doch sicher bereit, bis zum Tod zu kämpfen?"
+        },
+        {
+            "key": "565",
+            "value": "Aber allerselbstverständlichstens!"
+        },
+        {
+            "key": "566",
+            "value": "Gut ... Dann komm und stirb."
+        },
+        {
+            "key": "567",
+            "value": "Ich werde dich zu deinem geliebten Muraga schicken."
+        },
+        {
+            "key": "568",
+            "value": "Oldoa die Große tritt zum Kampf an! Zeit für die zweite Runde!"
+        }
+    ]
+}

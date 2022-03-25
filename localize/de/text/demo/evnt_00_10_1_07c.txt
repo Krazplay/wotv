@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Du hast vorhin gesagt, ihr geht als nächstes nach Wezette."
+        },
+        {
+            "key": "002",
+            "value": "Korrekt. Unsere Mission lautet, den Codex König Yrde zu überbringen."
+        },
+        {
+            "key": "003",
+            "value": "... Und das ist ein Befehl von Königin Helena? Was ist mit ihr selbst?"
+        },
+        {
+            "key": "004",
+            "value": "S-Sie ..."
+        },
+        {
+            "key": "005",
+            "value": "Wo ist sie?"
+        },
+        {
+            "key": "006",
+            "value": "Im unterirdischen Zellentrakt ..."
+        },
+        {
+            "key": "007",
+            "value": "Warum habt ihr sie nicht befreit?"
+        },
+        {
+            "key": "008",
+            "value": "Ihre Majestät scheint einen eigenen Plan zu verfolgen, weswegen sie dort verweilt ..."
+        },
+        {
+            "key": "009",
+            "value": "Hmm, verstehe ..."
+        },
+        {
+            "key": "010",
+            "value": "Nein, Elsirelle. Das kommt nicht infrage."
+        },
+        {
+            "key": "011",
+            "value": "Ich habe doch noch gar nichts gesagt."
+        },
+        {
+            "key": "012",
+            "value": "Ich weiß trotzdem Bescheid. Du willst in Schloss Leonis bleiben."
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Ich will mich nur noch ein bisschen hinlegen. Das ist alles."
+        },
+        {
+            "key": "015",
+            "value": "... Elsirelle."
+        },
+        {
+            "key": "016",
+            "value": "Und du weißt doch, wie sehr ich an meinem Schlafzimmer hänge. Draußen einem unbequemen Zelt zu übernachten, reizt mich wirklich gar nicht."
+        },
+        {
+            "key": "017",
+            "value": "... Und du lässt dich nicht umstimmen?"
+        },
+        {
+            "key": "018",
+            "value": "Ab und zu muss auch ich mal etwas Ritterlichkeit beweisen."
+        },
+        {
+            "key": "019",
+            "value": "Um diese Jahreszeit ist Wezette eine Eiswüste. Fangt euch bloß keine Erkältung ein, klar?"
+        },
+        {
+            "key": "020",
+            "value": "... Und du stirb hier nicht."
+        },
+        {
+            "key": "021",
+            "value": "Habe ich nicht vor. Wir sehen uns!"
+        },
+        {
+            "key": "022",
+            "value": "Lasst uns gehen."
+        }
+    ]
+}

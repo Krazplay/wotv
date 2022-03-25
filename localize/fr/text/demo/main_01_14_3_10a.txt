@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "140694",
+            "value": "Tu as perdu."
+        },
+        {
+            "key": "140695",
+            "value": "Pas… encore…"
+        },
+        {
+            "key": "140696",
+            "value": "Hm, coriace."
+        },
+        {
+            "key": "140697",
+            "value": "Tout le monde à Hourne se comporte comme un taureau ou quoi ?"
+        },
+        {
+            "key": "140698",
+            "value": "Je ne suis pas de Hourne. J'ai juré allégeance à Leonis."
+        },
+        {
+            "key": "140699",
+            "value": "Alors que fais-tu là ?"
+        },
+        {
+            "key": "140700",
+            "value": "Pourquoi risquer ta vie pour quelqu'un qui n'est même pas ton seigneur ?"
+        },
+        {
+            "key": "140701",
+            "value": "Tu es bizarre, toi."
+        },
+        {
+            "key": "140702",
+            "value": "Mon seigneur le roi Mont ne supporterait pas qu'il arrive quelque chose à Dame Machalie."
+        },
+        {
+            "key": "140703",
+            "value": "Je me bats pour l'empêcher."
+        },
+        {
+            "key": "140704",
+            "value": "Ha ! N'importe quoi."
+        },
+        {
+            "key": "140705",
+            "value": "Tu es au courant qu'il est le fiancé de ma sœur, non ?"
+        },
+        {
+            "key": "140706",
+            "value": "Vous ne comprenez rien à rien."
+        },
+        {
+            "key": "140707",
+            "value": "Que voulez-vous dire ?"
+        },
+        {
+            "key": "140708",
+            "value": "Pour rien au monde je ne voudrais voir la tristesse sur le visage de mon roi."
+        },
+        {
+            "key": "140709",
+            "value": "Au nom de son bonheur…"
+        },
+        {
+            "key": "140710",
+            "value": "Je ne faillirai pas !"
+        }
+    ]
+}

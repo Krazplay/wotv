@@ -1,0 +1,444 @@
+﻿{
+    "infos": [
+        {
+            "key": "268",
+            "value": "Les miasmes du cristal ne s'étendent pas aussi loin."
+        },
+        {
+            "key": "269",
+            "value": "Vous pouvez retirer votre masque."
+        },
+        {
+            "key": "270",
+            "value": "À présent, rentrons à l'Église."
+        },
+        {
+            "key": "271",
+            "value": "Vous répugnez à quitter votre patrie ?"
+        },
+        {
+            "key": "272",
+            "value": "…"
+        },
+        {
+            "key": "273",
+            "value": "Hé, ho ! Vous n'avez pas entendu Dame « Chuchote » ? On bouge !"
+        },
+        {
+            "key": "274",
+            "value": "Argh !"
+        },
+        {
+            "key": "275",
+            "value": "Qui va là ?"
+        },
+        {
+            "key": "276",
+            "value": "Je ne vous connais pas, vous…"
+        },
+        {
+            "key": "277",
+            "value": "Je m'appelle Rafale. Et voici Élisa."
+        },
+        {
+            "key": "278",
+            "value": "On nous appelle aussi les « Épines royales »."
+        },
+        {
+            "key": "279",
+            "value": "Les « Épines royales »…"
+        },
+        {
+            "key": "280",
+            "value": "Vous savez à qui vous avez affaire, espèce de malpropres ? C'est Dame « Chuchote » !"
+        },
+        {
+            "key": "281",
+            "value": "Comment l'ignorer ?"
+        },
+        {
+            "key": "282",
+            "value": "Nous vous attendions, en fait. Nous savions que vous finiriez par vous montrer."
+        },
+        {
+            "key": "283",
+            "value": "Tss. Vous ne pouvez rien contre nous, à deux !"
+        },
+        {
+            "key": "284",
+            "value": "Ha, c'est ce genre de raisonnement qui fait mourir les hommes comme toi en premier, tu sais ?"
+        },
+        {
+            "key": "285",
+            "value": "Tu vas le regretter !"
+        },
+        {
+            "key": "286",
+            "value": "Nous sommes bien entourées, nous aussi, regarde."
+        },
+        {
+            "key": "287",
+            "value": "Sterne. De quel côté êtes-vous ?"
+        },
+        {
+            "key": "288",
+            "value": "D'aucun."
+        },
+        {
+            "key": "289",
+            "value": "…"
+        },
+        {
+            "key": "290",
+            "value": "Je ne dois rien à Sadali. Je n'ai ni dette ni loyauté envers lui."
+        },
+        {
+            "key": "291",
+            "value": "Traître !"
+        },
+        {
+            "key": "292",
+            "value": "À ta place, j'y réfléchirais à deux fois."
+        },
+        {
+            "key": "293",
+            "value": "Je n'ai pas l'habitude de laisser des idiots tirer impunément l'épée contre moi."
+        },
+        {
+            "key": "294",
+            "value": "Mais ces gens… Ils viennent de Leonis, n'est-ce pas ?"
+        },
+        {
+            "key": "295",
+            "value": "Et c'est un royaume que j'ai abandonné depuis longtemps. Leurs guerres ne me concernent plus."
+        },
+        {
+            "key": "296",
+            "value": "Sans compter que…"
+        },
+        {
+            "key": "297",
+            "value": "Je doute qu'elles aient besoin de mon aide."
+        },
+        {
+            "key": "298",
+            "value": "Ah oui ? Vous en êtes sûr ?"
+        },
+        {
+            "key": "299",
+            "value": "Lillyla..."
+        },
+        {
+            "key": "300",
+            "value": "… !"
+        },
+        {
+            "key": "301",
+            "value": "Oh non…"
+        },
+        {
+            "key": "302",
+            "value": "Dis donc, elles ont l'air surprises, non ?"
+        },
+        {
+            "key": "303",
+            "value": "Oh, oui ! Je vois leurs petits minois se plisser !"
+        },
+        {
+            "key": "304",
+            "value": "Il se trouve qu'on a bien surveillé votre petite planque."
+        },
+        {
+            "key": "305",
+            "value": "Et que vous avez laissé cette gentille souris toute seule pour la défendre !"
+        },
+        {
+            "key": "306",
+            "value": "Quand elle nous a vus, les souvenirs de tous les amis qu'on a massacrés devant ses yeux ont dû lui revenir en pleine face."
+        },
+        {
+            "key": "307",
+            "value": "Elle est restée là, tremblante comme une musaraigne. Elle n'a même pas eu la force de crier."
+        },
+        {
+            "key": "308",
+            "value": "Hé, ho, on se calme."
+        },
+        {
+            "key": "309",
+            "value": "Vous devinez facilement ce qui arrivera à la petite souris si vous n'êtes pas sages, hm ?"
+        },
+        {
+            "key": "310",
+            "value": "Ça change tout…"
+        },
+        {
+            "key": "311",
+            "value": "Qu'est-ce qu'on va faire ?"
+        },
+        {
+            "key": "312",
+            "value": "Je ne suis pas… une petite… souris !"
+        },
+        {
+            "key": "313",
+            "value": "Hein ?"
+        },
+        {
+            "key": "314",
+            "value": "J'ai un nom, il est beau et il est rare en plus, c'est Lillyla !"
+        },
+        {
+            "key": "315",
+            "value": "Euh, d'accord…"
+        },
+        {
+            "key": "316",
+            "value": "J'étais au bout du rouleau…"
+        },
+        {
+            "key": "317",
+            "value": "J'avais peur de mourir et j'aurais fait n'importe quoi pour survivre."
+        },
+        {
+            "key": "318",
+            "value": "Mais depuis qu'Élisa et les autres me sont venues en aide, j'ai commencé à espérer la mort. "
+        },
+        {
+            "key": "319",
+            "value": "Je n'arrêtais pas de me demander pourquoi j'étais la seule à avoir survécu."
+        },
+        {
+            "key": "320",
+            "value": "Arrête ! Ce n'est pas de ta faute !"
+        },
+        {
+            "key": "321",
+            "value": "J'ai même pensé que c'est moi qui aurait dû mourir, là-bas, à leur place…"
+        },
+        {
+            "key": "322",
+            "value": "J'ai pleuré et pleuré sans m'arrêter. J'avais beau sangloter toute la journée, mes larmes ne se tarissaient jamais."
+        },
+        {
+            "key": "323",
+            "value": "Mais au bout du compte…"
+        },
+        {
+            "key": "324",
+            "value": "J'ai fini par comprendre ce que je devais faire."
+        },
+        {
+            "key": "325",
+            "value": "Survivre. Assez longtemps pour m'assurer que Valaïde et Sosha soient vengés."
+        },
+        {
+            "key": "326",
+            "value": "Lillyla..."
+        },
+        {
+            "key": "327",
+            "value": "Et c'est toi qui compte les venger ?"
+        },
+        {
+            "key": "328",
+            "value": "Ha ha ha ! Elle est bonne celle-là !"
+        },
+        {
+            "key": "329",
+            "value": "Tu veux te venger ?"
+        },
+        {
+            "key": "330",
+            "value": "Viens, on t'attend."
+        },
+        {
+            "key": "331",
+            "value": "Viens nous tuer si tu crois pouvoir y arriver. Allez, mords, petite souris !"
+        },
+        {
+            "key": "332",
+            "value": "Je me fiche de qui vous tue."
+        },
+        {
+            "key": "333",
+            "value": "Tu nous perds, là, gamine."
+        },
+        {
+            "key": "334",
+            "value": "Vous pensiez que j'étais évanouie, alors vous avez pas mal discuté sur le chemin, non ?"
+        },
+        {
+            "key": "335",
+            "value": "On a… On a discuté, nous ?"
+        },
+        {
+            "key": "336",
+            "value": "Oh non ! Elle faisait semblant !"
+        },
+        {
+            "key": "337",
+            "value": "Hé oui, j'ai appris beaucoup de choses d'ailleurs."
+        },
+        {
+            "key": "338",
+            "value": "Tais-toi ! Sinon c'est nous qui allons te faire taire !"
+        },
+        {
+            "key": "339",
+            "value": "Autant le faire tout de suite ! Qui sait ce qu'elle va aller raconter !"
+        },
+        {
+            "key": "340",
+            "value": "Stop."
+        },
+        {
+            "key": "341",
+            "value": "Hein ?"
+        },
+        {
+            "key": "342",
+            "value": "Stop ? Pourquoi stop ?"
+        },
+        {
+            "key": "343",
+            "value": "Parce que ça commence à devenir intéressant."
+        },
+        {
+            "key": "344",
+            "value": "Ah… Ah bon ?"
+        },
+        {
+            "key": "345",
+            "value": "Argh…"
+        },
+        {
+            "key": "346",
+            "value": "Parle, mon enfant."
+        },
+        {
+            "key": "347",
+            "value": "Ils parlaient de ce qui s'est passé au château d'Anvil. Ces reliques séculaires que vous nous avez volées, vous en avez gardé une pour vous, n'est-ce pas ?"
+        },
+        {
+            "key": "348",
+            "value": "Quoi ?"
+        },
+        {
+            "key": "349",
+            "value": "De-de-de quoi parle-t-elle, celle-là ?"
+        },
+        {
+            "key": "350",
+            "value": "Je savais que ce serait passionnant. Je vous écoute."
+        },
+        {
+            "key": "351",
+            "value": "On peut tout expliquer."
+        },
+        {
+            "key": "352",
+            "value": "Ils ont l'intention de trahir Sadali !"
+        },
+        {
+            "key": "353",
+            "value": "On n'a jamais rien prétendu de pareil, n'est-ce pas, frérot ?"
+        },
+        {
+            "key": "354",
+            "value": "C'est vrai ! On n'en parle que quand il n'y a personne pour nous entendre !"
+        },
+        {
+            "key": "355",
+            "value": "Gargas…"
+        },
+        {
+            "key": "356",
+            "value": "Oh misère !"
+        },
+        {
+            "key": "357",
+            "value": "Dorando, Gargas."
+        },
+        {
+            "key": "358",
+            "value": "Je déciderai de votre sort à notre retour à l'Église."
+        },
+        {
+            "key": "359",
+            "value": "La trahison à l'encontre du Seigneur Sadali est un crime… impardonnable."
+        },
+        {
+            "key": "360",
+            "value": "Gar-Gargas, qu'est-ce qu'on fait ?"
+        },
+        {
+            "key": "361",
+            "value": "Ça me paraît clair… C'est la potence qui nous attend, oh oui !"
+        },
+        {
+            "key": "362",
+            "value": "Ils vont nous faire pendre au bout d'une corde, tu crois ?"
+        },
+        {
+            "key": "363",
+            "value": "Sauf si on s'assure que personne d'autre ne l'apprend…"
+        },
+        {
+            "key": "364",
+            "value": "Tu as un plan ?"
+        },
+        {
+            "key": "365",
+            "value": "Si on change de camp, « Chuchote » n'a aucune chance, si ?"
+        },
+        {
+            "key": "366",
+            "value": "Oh oui, quel génie ! Il n'y a qu'elle et un tas d'incapables."
+        },
+        {
+            "key": "367",
+            "value": "Dans ce cas, pas d'hésitation…"
+        },
+        {
+            "key": "368",
+            "value": "Lillyla ! Je suis tellement soulagée de voir que tu vas bien."
+        },
+        {
+            "key": "369",
+            "value": "Quand je t'ai vue entre leurs mains, j'ai failli perdre tout espoir."
+        },
+        {
+            "key": "370",
+            "value": "Pardon de vous avoir causé du souci."
+        },
+        {
+            "key": "371",
+            "value": "Au contraire, je crois que tu as renversé une situation dangereuse à notre avantage."
+        },
+        {
+            "key": "372",
+            "value": "Tout à fait ! On devrait te remercier, en fait !"
+        },
+        {
+            "key": "373",
+            "value": "Hi hi !"
+        },
+        {
+            "key": "374",
+            "value": "Maintenant…"
+        },
+        {
+            "key": "375",
+            "value": "Si nous nous débarrassons de « Chuchote » ici, ce sera un méchant coup pour l'Église."
+        },
+        {
+            "key": "376",
+            "value": "Vous vous en croyez capables ?"
+        },
+        {
+            "key": "377",
+            "value": "On va voir ça tout de suite !"
+        }
+    ]
+}

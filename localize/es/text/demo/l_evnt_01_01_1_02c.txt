@@ -1,0 +1,300 @@
+﻿{
+    "infos": [
+        {
+            "key": "063",
+            "value": "Los monstruos más débiles siempre van en manada. No valían mucho."
+        },
+        {
+            "key": "064",
+            "value": "Aunque a ti te ha costado bastante..."
+        },
+        {
+            "key": "065",
+            "value": "L-lo siento. Era mi primera batalla real..."
+        },
+        {
+            "key": "066",
+            "value": "No quiero oír excusas. No quiero debiluchos entre los Guerreros de los Cristales."
+        },
+        {
+            "key": "067",
+            "value": "En primer lugar, no tienes por qué moverte tanto. Evalúa los movimientos de tu oponente antes de pasar tú mismo a la acción."
+        },
+        {
+            "key": "068",
+            "value": "Has permitido que los monstruos jugaran contigo. Tienes que ser tú el que controle el combate."
+        },
+        {
+            "key": "069",
+            "value": "Sigue así y te convertirás en un inútil. Debes hacerte fuerte, ¿queda claro?"
+        },
+        {
+            "key": "070",
+            "value": "T-te agradezco esa... despiadada sinceridad."
+        },
+        {
+            "key": "071",
+            "value": "No es momento de autocompadecerse. Tenemos que encontrar el cristal antes de que se ponga el sol."
+        },
+        {
+            "key": "072",
+            "value": "Cuando caiga la noche, los monstruos se volverán más violentos."
+        },
+        {
+            "key": "073",
+            "value": "¡Ah! ¡Es-espera, por favor, Llum!"
+        },
+        {
+            "key": "074",
+            "value": "¿Una aldea?... Qué sitio tan tranquilo."
+        },
+        {
+            "key": "075",
+            "value": "Siento que el cristal núcleo está por aquí cerca. A ver si podemos reunir algo de información."
+        },
+        {
+            "key": "076",
+            "value": "¿Has visto un cristal núcleo?"
+        },
+        {
+            "key": "077",
+            "value": "¿Un qué? ¿Qué es eso?"
+        },
+        {
+            "key": "078",
+            "value": "Lo noto por los alrededores. Dime dónde está."
+        },
+        {
+            "key": "079",
+            "value": "Lo siento, señorita. Me temo que no puedo ayudarte."
+        },
+        {
+            "key": "080",
+            "value": "Menuda pérdida de tiempo..."
+        },
+        {
+            "key": "081",
+            "value": "¿¡Qu-qué problema tienes!? ¿¡Son esas formas de pedir ayuda a alguien!?"
+        },
+        {
+            "key": "082",
+            "value": "¿Acaso no tengo razón? En fin, pasemos al siguiente."
+        },
+        {
+            "key": "083",
+            "value": "¿Has visto un cristal núcleo?"
+        },
+        {
+            "key": "084",
+            "value": "¿Eh? ¿U-un cristal núcleo?"
+        },
+        {
+            "key": "085",
+            "value": "Exacto. Debería estar por aquí. Dime dónde está."
+        },
+        {
+            "key": "086",
+            "value": "Eh... Lo siento, pero no he visto nada..."
+        },
+        {
+            "key": "087",
+            "value": "Otro tan inútil como el anterior."
+        },
+        {
+            "key": "088",
+            "value": "¿¡Pe-pero qué...!? ¡Llum!"
+        },
+        {
+            "key": "089",
+            "value": "¿Qué pasa? No me lo pongas más difícil."
+        },
+        {
+            "key": "090",
+            "value": "¡No vamos a averiguar nada si preguntas así a la gente! ¡Solo conseguirás hacerlos sentir incómodos!"
+        },
+        {
+            "key": "091",
+            "value": "¿Por qué iban a sentirse incómodos por decir la verdad?"
+        },
+        {
+            "key": "092",
+            "value": "De-deja que me ocupe yo esta vez."
+        },
+        {
+            "key": "093",
+            "value": "Disculpe. ¿Ha notado algo diferente en la aldea estos últimos días?"
+        },
+        {
+            "key": "094",
+            "value": "¿Algo diferente? Pues, ahora que lo dices..."
+        },
+        {
+            "key": "095",
+            "value": "Los monstruos que merodean por las minas en las afueras de la aldea se han vuelto más feroces."
+        },
+        {
+            "key": "096",
+            "value": "Algunos dicen que es presagio de que se acerca un desastre natural, pero la causa todavía es un misterio…"
+        },
+        {
+            "key": "097",
+            "value": "Ya veo... Por cierto, ¿había algún tipo de objeto brillante por la zona?"
+        },
+        {
+            "key": "098",
+            "value": "Nunca me he acercado a las minas... Son bastante peligrosas, ¿sabes?"
+        },
+        {
+            "key": "099",
+            "value": "Siento no ser de más ayuda."
+        },
+        {
+            "key": "100",
+            "value": "En... ¡En absoluto!"
+        },
+        {
+            "key": "101",
+            "value": "Soy yo quien debe disculparse por los modales de mi compañera."
+        },
+        {
+            "key": "102",
+            "value": "¡Gracias por la información, nos será muy útil!"
+        },
+        {
+            "key": "103",
+            "value": "Buf... ¿Nunca te han dicho que no se te da muy bien interpretar la situación, que digamos?"
+        },
+        {
+            "key": "104",
+            "value": "Los demás Guerreros no. Aunque siempre me ha dado la sensación de que la otra persona se queda en silencio cuando intento conversar con ella."
+        },
+        {
+            "key": "105",
+            "value": "Justo como sospechaba... Es algo normal en ti."
+        },
+        {
+            "key": "106",
+            "value": "Me limito a expresar los hechos tal y como son. No entiendo por qué no pueden seguir la conversación."
+        },
+        {
+            "key": "107",
+            "value": "Expresar la verdad y los hechos con tanta franqueza no siempre es bueno."
+        },
+        {
+            "key": "108",
+            "value": "Nadie querrá seguir hablando contigo si hieres sus sentimientos."
+        },
+        {
+            "key": "109",
+            "value": "Eso significa que son unos blandengues."
+        },
+        {
+            "key": "110",
+            "value": "No tiene nada que ver con ser débil o fuerte..."
+        },
+        {
+            "key": "111",
+            "value": "E-en cualquier caso, volvamos al tema. Esa mujer ha dicho que había algo raro en las minas a las afueras de la aldea. ¿Qué hacemos?"
+        },
+        {
+            "key": "112",
+            "value": "Ir a echar un vistazo, está claro."
+        },
+        {
+            "key": "113",
+            "value": "Puede que los monstruos se hayan vuelto más agresivos por la influencia del cristal núcleo."
+        },
+        {
+            "key": "114",
+            "value": "Espero que podamos recuperarlo pronto, por el bien de los aldeanos también..."
+        },
+        {
+            "key": "115",
+            "value": "Ah, ¿otra vez? ¡Llum, espérame!"
+        },
+        {
+            "key": "116",
+            "value": "Estas deben de ser las minas de las que hablaba la aldeana, plagadas de monstruos... Está muy oscuro, apenas veo nada."
+        },
+        {
+            "key": "117",
+            "value": "Podrían atacarnos en cualquier momento. No bajes la guardia."
+        },
+        {
+            "key": "118",
+            "value": "Va-vale."
+        },
+        {
+            "key": "119",
+            "value": "Qué oportuno..."
+        },
+        {
+            "key": "120",
+            "value": "¡Llum! ¡Los monstruos están atacando a alguien!"
+        },
+        {
+            "key": "121",
+            "value": "¡Ugh!"
+        },
+        {
+            "key": "122",
+            "value": "Son muy fuertes. ¡Tenemos que ayudarlo, rápido!"
+        },
+        {
+            "key": "123",
+            "value": "Sería favorable a nuestra causa dejar que siguiera atrayendo a los monstruos."
+        },
+        {
+            "key": "124",
+            "value": "Aprovechemos la ocasión para buscar el cristal núcleo."
+        },
+        {
+            "key": "125",
+            "value": "¿¡Qu-quieres decir que deberíamos dejarlo!?"
+        },
+        {
+            "key": "126",
+            "value": "El pez grande se come al pequeño. Así funciona el mundo. No estamos obligados a ayudarle."
+        },
+        {
+            "key": "127",
+            "value": "No... ¡Me niego a abandonarle!"
+        },
+        {
+            "key": "128",
+            "value": "¡Los Guerreros de los Cristales existimos para ayudar a las personas!"
+        },
+        {
+            "key": "129",
+            "value": "No. Nuestro objetivo es proteger los cristales núcleo."
+        },
+        {
+            "key": "130",
+            "value": "Pero puede que ese chico sepa dónde encontrarlo."
+        },
+        {
+            "key": "131",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "132",
+            "value": "Echémosle una mano. Puede que así consigamos algo de información."
+        },
+        {
+            "key": "133",
+            "value": "Por favor, Llum. Tenemos que salvarlo."
+        },
+        {
+            "key": "134",
+            "value": "Es cierto, es posible que sepa algo."
+        },
+        {
+            "key": "135",
+            "value": "Acabaré con esto en un santiamén. Tú limítate a no estorbar, ¿de acuerdo?"
+        },
+        {
+            "key": "136",
+            "value": "¡Sí!"
+        }
+    ]
+}

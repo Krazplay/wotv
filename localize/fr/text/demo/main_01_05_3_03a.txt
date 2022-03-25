@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Je vais vous le dire, je suis déçu."
+        },
+        {
+            "key": "002",
+            "value": "C'est donc là tout ce que la fameuse « Nitor » de Hourne peut faire ? Un peu de nerf, les gars !"
+        },
+        {
+            "key": "003",
+            "value": "(Quelle plaie... J'ai peur qu'il faille envisager une retraite.)"
+        },
+        {
+            "key": "004",
+            "value": "(Ne dis pas de bêtises, frérot ! On vient tout juste de commencer !)"
+        },
+        {
+            "key": "005",
+            "value": "(Je n'ai pas dit mon dernier mot non plus. Dorando et Gargas ne s'en sortiront pas comme ça !)"
+        },
+        {
+            "key": "006",
+            "value": "(Et pourtant...)"
+        },
+        {
+            "key": "007",
+            "value": "... !"
+        },
+        {
+            "key": "008",
+            "value": "Cette présence... Je la reconnaîtrais entre toutes !"
+        },
+        {
+            "key": "009",
+            "value": "Allons bon... Vous êtes déjà prêts à battre en retraite ?"
+        },
+        {
+            "key": "010",
+            "value": "J'en étais sûre !"
+        },
+        {
+            "key": "011",
+            "value": "Lynx ! Quelle bonne surprise !"
+        },
+        {
+            "key": "012",
+            "value": "Je me suis relevée de ma propre tombe pour en finir avec toi !"
+        },
+        {
+            "key": "013",
+            "value": "En finir avec moi ? Détrompe-toi, je crois bien que c'est plutôt terminé pour toi, ma belle."
+        },
+        {
+            "key": "014",
+            "value": "L'un de nous deux périt ce soir !"
+        },
+        {
+            "key": "015",
+            "value": "C'est qu'elle mordrait ! OK, en garde !"
+        }
+    ]
+}

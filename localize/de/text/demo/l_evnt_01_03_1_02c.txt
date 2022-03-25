@@ -1,0 +1,596 @@
+﻿{
+    "infos": [
+        {
+            "key": "053",
+            "value": "Oh je, ich hatte nicht erwartet, direkt bei unserer Ankunft von Monstern angegriffen zu werden."
+        },
+        {
+            "key": "054",
+            "value": "Wie es scheint, waren unsere Berichte korrekt. Die Magie des Kernkristalls sorgt dafür, dass Monster aggressiver werden."
+        },
+        {
+            "key": "055",
+            "value": "Wir sind auf der richtigen Spur. Irgendwo in diesem Land befindet sich der Kernkristall."
+        },
+        {
+            "key": "056",
+            "value": "Siehst du die Festung dort drüben? Das ist Burg Wezette."
+        },
+        {
+            "key": "057",
+            "value": "S-Sie ist umwerfend ..."
+        },
+        {
+            "key": "058",
+            "value": "Wir sind allerdings nicht hier, um die Aussicht zu genießen."
+        },
+        {
+            "key": "059",
+            "value": "Unsere Mission lautet, uns den Kernkristall zu schnappen."
+        },
+        {
+            "key": "060",
+            "value": "Jawohl!"
+        },
+        {
+            "key": "061",
+            "value": "Leider ist er nicht hier. Ich spüre nur eine vage Spur von ihm."
+        },
+        {
+            "key": "062",
+            "value": "Ist uns jemand zuvorgekommen?"
+        },
+        {
+            "key": "063",
+            "value": "Das ist möglich. Oder er befindet sich im Bauch eines Monsters."
+        },
+        {
+            "key": "064",
+            "value": "Im Bauch eines Monsters? Das weckt Erinnerungen, die ich lieber ruhen lassen würde."
+        },
+        {
+            "key": "065",
+            "value": "Unsere Mission bleibt jedenfalls unverändert. Egal wer oder welche Monster sich uns in die Quere stellen."
+        },
+        {
+            "key": "066",
+            "value": "Hm?"
+        },
+        {
+            "key": "067",
+            "value": "Diese hier sehen auch ziemlich hungrig aus. Sieh dir die entblößten Reißzähne und die geifernden Mäuler an."
+        },
+        {
+            "key": "068",
+            "value": "Ob die auch vom Kernkristall beeinflusst werden?"
+        },
+        {
+            "key": "069",
+            "value": "Davon gehe ich aus."
+        },
+        {
+            "key": "070",
+            "value": "Aber das spielt keine Rolle. Seinen Schutz erlangen sie so nicht."
+        },
+        {
+            "key": "071",
+            "value": "Als Kristallkrieger muss ich diese Bestien aufhalten."
+        },
+        {
+            "key": "072",
+            "value": "Komm! Erledigen wir sie schnell und entschlossen."
+        },
+        {
+            "key": "073",
+            "value": "Hmpf. Die sahen übler aus als sie wirklich waren."
+        },
+        {
+            "key": "074",
+            "value": "Für ausrastende Monster waren die ziemlich langsam."
+        },
+        {
+            "key": "075",
+            "value": "Gut erkannt, mein Schüler. Jume und Setia haben dir auf euren Reisen wohl so einiges beigebracht."
+        },
+        {
+            "key": "076",
+            "value": "Diese Bestien waren nicht nur halb verhungert, sondern auch noch halb eingefroren."
+        },
+        {
+            "key": "077",
+            "value": "Selbst unter dem Einfluss des Kernkristalls konnten sie nicht genügend Kraft erlangen, um eine Gefahr zu werden."
+        },
+        {
+            "key": "078",
+            "value": "Sie waren bereits von Anfang an zu schwach."
+        },
+        {
+            "key": "079",
+            "value": "Ich verstehe ..."
+        },
+        {
+            "key": "080",
+            "value": "Aber sie greifen dennoch an, sobald sie Beute entdecken. Diese Entschlossenheit ist bewundernswert."
+        },
+        {
+            "key": "081",
+            "value": "Aber eine noch größere Meute wäre gefährlich für uns. Quantität allein kann für Qualität sorgen."
+        },
+        {
+            "key": "082",
+            "value": "Eilen wir zunächst nach Wezette und hören uns um."
+        },
+        {
+            "key": "083",
+            "value": "Ich hoffe, wir können dabei was erfahren."
+        },
+        {
+            "key": "084",
+            "value": "Richtig ... Hoffen wir, dass wir diese Sache schnell über die Bühne bringen können."
+        },
+        {
+            "key": "085",
+            "value": "Ich habe mich etwas umgehört, aber niemand hatte nützliche Infos zum Kernkristall."
+        },
+        {
+            "key": "086",
+            "value": "Bilde ich mir das nur ein, oder stimmt mit diesen Leuten etwas nicht? Sie alle wirken so ... leblos."
+        },
+        {
+            "key": "087",
+            "value": "Ja, das ist mir auch aufgefallen. Darum habe ich mich über die Lage dieser Nation ein wenig informiert."
+        },
+        {
+            "key": "088",
+            "value": "Anscheinend gibt es Ärger zwischen Wezette und seinem mächtigen Nachbarn im Westen, Hourne."
+        },
+        {
+            "key": "089",
+            "value": "Die Lage ist angespannt, und die Menschen hier erleiden Armut und Hunger, ohne Hoffnung auf eine Flucht in andere Länder."
+        },
+        {
+            "key": "090",
+            "value": "Armut und Hunger ..."
+        },
+        {
+            "key": "091",
+            "value": "Einige dieser Leute erscheinen mir aber gut durchgefüttert."
+        },
+        {
+            "key": "092",
+            "value": "Das wäre der Adel. Sie stehen gut bei König und führen durch seinen Schutz ein Leben im Luxus."
+        },
+        {
+            "key": "093",
+            "value": "Das klingt ziemlich unfair. Wie kann ein König einfach ein paar Leute bevorzugen und den Rest einfach verhungern lassen?"
+        },
+        {
+            "key": "094",
+            "value": "Ein so großes Land sollte mehr als genug für alle haben."
+        },
+        {
+            "key": "095",
+            "value": "Vielleicht. Jedenfalls geht uns das nichts an, wir sind nicht hier, um uns einzumischen."
+        },
+        {
+            "key": "096",
+            "value": "Ist dir das völlig egal?"
+        },
+        {
+            "key": "097",
+            "value": "Was mir nicht egal ist, ist unsere Mission, mein Schüler. Wir sind hier, um den Kernkristall zu holen. Hast du das bereits vergessen?"
+        },
+        {
+            "key": "098",
+            "value": "Wenn die Menschen hier nicht willens sind, sich selbst zu helfen, welche Hilfe könnten wir ihnen dann schon bieten?"
+        },
+        {
+            "key": "099",
+            "value": "Es ist ihre Pflicht, ihre Situation zu verbessern, aber diese Menschen stehen einfach nur herum und tun nichts ..."
+        },
+        {
+            "key": "100",
+            "value": "Was für ein erbärmlicher Haufen. Das ist der Preis dafür, dass sie ihren Verstand nicht mehr einsetzen. Aber ich bezweifle, dass sie das überhaupt wissen."
+        },
+        {
+            "key": "101",
+            "value": "Tut mir leid, Lucio. Ich kann kein Mitgefühl oder gar Mitleid für diejenigen aufbringen, die sich nicht selbst helfen."
+        },
+        {
+            "key": "102",
+            "value": "Man muss mutig denken und handeln, will man sein Leben ändern."
+        },
+        {
+            "key": "103",
+            "value": "Es ist Zeitverschwendung über die nachzudenken, die diesen Prozess nicht mal beginnen."
+        },
+        {
+            "key": "104",
+            "value": "D-Da könntest du wohl recht haben, aber ..."
+        },
+        {
+            "key": "105",
+            "value": "Du solltest nicht zu hart über diese Menschen urteilen."
+        },
+        {
+            "key": "106",
+            "value": "Wer bist denn du?"
+        },
+        {
+            "key": "107",
+            "value": "Ich heiße Glaziela. Erbin auf den Thron dieses Reiches, zumindest vorerst."
+        },
+        {
+            "key": "108",
+            "value": "Und ich bin Cadia, Glazielas Schwester und Leibwache."
+        },
+        {
+            "key": "109",
+            "value": "Die Thronerbin? Was für eine Ehre."
+        },
+        {
+            "key": "110",
+            "value": "Aber laufen Mitglieder der königlichen Familie oft einfach draußen herum und begrüßen Fremde?"
+        },
+        {
+            "key": "111",
+            "value": "Ich bin hergekommen, um mehr über das Reich zu erfahren. Um selbst zu sehen, wie unsere Bürger leben."
+        },
+        {
+            "key": "112",
+            "value": " Da habe ich eure Unterhaltung mitbekommen und sie interessierte mich."
+        },
+        {
+            "key": "113",
+            "value": "Wir planen keinen Aufstand oder so etwas."
+        },
+        {
+            "key": "114",
+            "value": "Das dachte ich auch nicht. Ich stimme dir aber zu, junger Mann. Diese Armut muss ein Ende finden."
+        },
+        {
+            "key": "115",
+            "value": "Niemand sorgt sich mehr um unsere Bürger als meine Schwester."
+        },
+        {
+            "key": "116",
+            "value": "Es ist kein Geheimnis, dass Wezette ein Land voller Verzweiflung ist, dem die Hoffnung geraubt wurde."
+        },
+        {
+            "key": "117",
+            "value": "Und doch seid ihr hier und redet über das Leid unserer Bürger. Das weckt natürlich unser Interesse."
+        },
+        {
+            "key": "118",
+            "value": "Wir haben zu laut gesprochen. Lucio, in Zukunft solltest du deine Lautstärke etwas zügeln."
+        },
+        {
+            "key": "119",
+            "value": "Aber du warst doch derjenige, der sich so aufregte ..."
+        },
+        {
+            "key": "120",
+            "value": "Ihr seid wirklich ein interessantes Gespann und sicherlich nicht aus dieser Gegend. Seid ihr von weit her gereist?"
+        },
+        {
+            "key": "121",
+            "value": "Nun ... ja und nein. Es ist ein wenig kompliziert."
+        },
+        {
+            "key": "122",
+            "value": "Was wir sagen können ist dies: Wir sind Reisende, auf der Suche nach einem Kernkristall."
+        },
+        {
+            "key": "123",
+            "value": "Dieser Kristall ist einzigartig in Form und Farbe und leicht zu erkennen. Habt ihr vielleicht ein solches Artefakt gesehen?"
+        },
+        {
+            "key": "124",
+            "value": "Einen Kernkristall? Entschuldigung, da sind wir wohl keine große Hilfe."
+        },
+        {
+            "key": "125",
+            "value": "Aber es ist definitiv ein Kristall, meinst du?"
+        },
+        {
+            "key": "126",
+            "value": "Denkst du, was ich denke?"
+        },
+        {
+            "key": "127",
+            "value": "Ja, Minwu weiß vielleicht mehr."
+        },
+        {
+            "key": "128",
+            "value": "Wer ist Minwu?"
+        },
+        {
+            "key": "129",
+            "value": "Eine Freundin, die viel über Kristalle, Magie und Ähnliches weiß. Sie wartet in der Basis auf uns."
+        },
+        {
+            "key": "130",
+            "value": "Vielleicht war unser Treffen hier Schicksal. Soll ich euch vorstellen?"
+        },
+        {
+            "key": "131",
+            "value": "Was denkst du, Ranan?"
+        },
+        {
+            "key": "132",
+            "value": "Ja, natürlich, ohne Zweifel."
+        },
+        {
+            "key": "133",
+            "value": "Dann ist es entschieden. Wir bringen euch zum Hauptquartier von Spirare, meiner Privat-Brigade."
+        },
+        {
+            "key": "134",
+            "value": "Wir sind zurück. Ist Minwu da?"
+        },
+        {
+            "key": "135",
+            "value": "Prinzessin Glaziela, du hast gerufen?"
+        },
+        {
+            "key": "136",
+            "value": "Ich wollte dich ein paar Leuten vorstellen. Sie suchen nach einem seltsamen Gegenstand, der auch als Kernkristall bekannt ist."
+        },
+        {
+            "key": "137",
+            "value": "Hallo. Ich bin Lucio."
+        },
+        {
+            "key": "138",
+            "value": "Und ich Ranan."
+        },
+        {
+            "key": "139",
+            "value": "Nett, euch kennenzulernen. Ich bin Minwu, eine Dienerin von Prinzessin Glaciela."
+        },
+        {
+            "key": "140",
+            "value": "Wir fragten uns, ob du vielleicht Gerüchte von einem seltenen und ungewöhnlichen Kristall gehört hast."
+        },
+        {
+            "key": "141",
+            "value": "Ein ungewöhnlicher Kristall? Das ist ja mal ein Zufall ..."
+        },
+        {
+            "key": "142",
+            "value": "Ist es das? Weißt du etwa was?"
+        },
+        {
+            "key": "143",
+            "value": "Ja. Ein Freund aus Schloss Wezette hat mir eine Geschichte erzählt."
+        },
+        {
+            "key": "144",
+            "value": "Offenbar wurde kürzlich ein neuer und ungewöhnlicher Kristall entdeckt."
+        },
+        {
+            "key": "145",
+            "value": "Ich weiß nicht, ob es der ist, den ihr sucht, aber ihr solltet ihn euch vielleicht mal anschauen."
+        },
+        {
+            "key": "146",
+            "value": "Das ist der vielversprechendste Hinweis bislang. Ich hätte nicht gedacht, dass wir so schnell eine Spur finden."
+        },
+        {
+            "key": "147",
+            "value": "Sollten wir uns Sorgen machen, wenn es denn der gesuchte Kristall ist?"
+        },
+        {
+            "key": "148",
+            "value": "Nein. Nicht, wenn er für seinen eigentlichen Zweck verwendet wird."
+        },
+        {
+            "key": "149",
+            "value": "Aber er könnte gefährlich werden, sollte er in die Hände selbstgerechter Narren fallen."
+        },
+        {
+            "key": "150",
+            "value": "Wie ich hörte, steht dieses Reich kurz vor einem Krieg mit dem mächtigen Land Hourne."
+        },
+        {
+            "key": "151",
+            "value": "Unter solchen Umständen könnte das Militär versucht sein, alles für einen möglichen Sieg zu versuchen."
+        },
+        {
+            "key": "152",
+            "value": "Der Kernkristall besitzt genügend magische Kraft, um den Krieg zu entscheiden."
+        },
+        {
+            "key": "153",
+            "value": "Oh und wir haben kürzlich herausgefunden, dass Monster besonders garstig werden, wenn sie dem Kristall ausgesetzt werden."
+        },
+        {
+            "key": "154",
+            "value": "Die Präsenz des Kristalls allein stellt also eine Gefahr dar."
+        },
+        {
+            "key": "155",
+            "value": "In dem Fall ... könnten wir ein Problem haben."
+        },
+        {
+            "key": "156",
+            "value": "Was meinst du?"
+        },
+        {
+            "key": "157",
+            "value": "Offenbar haben die Behörden beschlossen, ihn genauer zu untersuchen."
+        },
+        {
+            "key": "158",
+            "value": "Er soll zum Institut für Arkane Forschungen gebracht werden."
+        },
+        {
+            "key": "159",
+            "value": "Tse. Natürlich soll er das."
+        },
+        {
+            "key": "160",
+            "value": "Wenn es stimmt, was du sagst, könnte dieser Kernkristall der Wezette-Armee ungeahnte Macht verleihen."
+        },
+        {
+            "key": "161",
+            "value": "Aber er könnte auch für friedliche Zwecke verwendet werden und den Menschen neue Hoffnung geben."
+        },
+        {
+            "key": "162",
+            "value": "Das ist es doch, was wir wollen, oder? Aber ich bezweifle, das man das zulassen würde."
+        },
+        {
+            "key": "163",
+            "value": "Der Adel hat zu viel zu verlieren. Das gemeine Volk darf nur solange existieren, solange es sich als nützlich erweist."
+        },
+        {
+            "key": "164",
+            "value": "......"
+        },
+        {
+            "key": "165",
+            "value": "Was ist, Lucio?"
+        },
+        {
+            "key": "166",
+            "value": "Dürften wir vielleicht privat sprechen?"
+        },
+        {
+            "key": "167",
+            "value": "Tut mir leid, ich wollte das nicht vor den anderen sagen."
+        },
+        {
+            "key": "168",
+            "value": "Verstehe."
+        },
+        {
+            "key": "169",
+            "value": "Diese Menschen könnten mit dem Kernkristall das Leben aller in diesem Land verbessern."
+        },
+        {
+            "key": "170",
+            "value": "Aber das wird niemals geschehen, wenn wir ihn mitnehmen."
+        },
+        {
+            "key": "171",
+            "value": "Das wäre, als würden wir dieses Land seiner einzigen Chance auf Besserung berauben."
+        },
+        {
+            "key": "172",
+            "value": "Ich frage mich, ob wir wirklich das Richtige tun."
+        },
+        {
+            "key": "173",
+            "value": "Du würdest also deinen Schwur vernachlässigen, um den Menschen in diesem fremden Land zu helfen? Bedeutet er dir so wenig?"
+        },
+        {
+            "key": "174",
+            "value": "So meinte ich das nicht ..."
+        },
+        {
+            "key": "175",
+            "value": "Ich gebe dir mal einen Rat. Ein Kristallkrieger darf niemals zögern. Sonst wird dein Geist stumpf und deine Klinge ebenso."
+        },
+        {
+            "key": "176",
+            "value": "Unentschlossenheit gebiert Zweifel und beraubt dich letztendlich jeglichen Mutes."
+        },
+        {
+            "key": "177",
+            "value": "Unentschlossenheit ..."
+        },
+        {
+            "key": "178",
+            "value": "Solltest du je vom Pfad abweichen, denk einfach an deine Mission. Konzentriere dich auf deine Pflicht!"
+        },
+        {
+            "key": "179",
+            "value": "Leide, wenn du denn musst, aber bleibe stets fest entschlossen. Nutze stets deinen Geist, denn dort findest du Hoffnung."
+        },
+        {
+            "key": "180",
+            "value": "Ranan ..."
+        },
+        {
+            "key": "181",
+            "value": "Außerdem muss dieses Reich seine eigenen Probleme lösen."
+        },
+        {
+            "key": "182",
+            "value": "Wir sind nur auf der Durchreise und es ist nicht an uns, sich einzumischen."
+        },
+        {
+            "key": "183",
+            "value": "Kümmere dich um deine Angelegenheiten, bevor du dich um andere sorgst."
+        },
+        {
+            "key": "184",
+            "value": "D-Du hast natürlich recht. Es tut mir leid. Ich darf nicht so schnell meine Pflicht vergessen!"
+        },
+        {
+            "key": "185",
+            "value": "Ich habe nur eine Mission. Die Kernkristalle zurückzubringen und die Balance des Universums wiederherzustellen!"
+        },
+        {
+            "key": "186",
+            "value": "Ganz genau. Du lernst schnell, Lucio."
+        },
+        {
+            "key": "187",
+            "value": "Was soll die Flüsterparade?"
+        },
+        {
+            "key": "188",
+            "value": "Entschuldigung. Es war eine unwichtige Privatangelegenheit."
+        },
+        {
+            "key": "189",
+            "value": "Minwu. Sag mir, wo wir dieses Institut für Arkane Forschungen finden können."
+        },
+        {
+            "key": "190",
+            "value": "Es liegt hinter der Schneeebene. Es ist nicht gerade in der Nähe, aber man kann es zu Fuß erreichen."
+        },
+        {
+            "key": "191",
+            "value": "Wir sind sehr dankbar für die Informationen. Wenn wir schnell handeln, können wir den Kristall vielleicht abfangen, bevor er sein Ziel erreicht."
+        },
+        {
+            "key": "192",
+            "value": "Ja! Vielen Dank! Wir sind wirklich ... Ranan? Warte doch auf mich!"
+        },
+        {
+            "key": "193",
+            "value": "Und weg sind sie."
+        },
+        {
+            "key": "194",
+            "value": "Wer waren die überhaupt?"
+        },
+        {
+            "key": "195",
+            "value": "Das weiß ich nicht. Sie schienen aber gute Absichten zu haben."
+        },
+        {
+            "key": "196",
+            "value": "Dann muss ich nun ebenfalls gehen."
+        },
+        {
+            "key": "197",
+            "value": "Schwesterherz ...?"
+        },
+        {
+            "key": "198",
+            "value": "Schon gut, Cadia. Khuri möchte mich sehen, das ist alles."
+        },
+        {
+            "key": "199",
+            "value": "Bitte sei vorsichtig. Der Mann ist ein kaltherziger Barbar."
+        },
+        {
+            "key": "200",
+            "value": "Glaub mir, ich weiß genau, was er ist."
+        }
+    ]
+}

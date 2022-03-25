@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Wie konnten sie diesen Ort nach dem Angriff von Fennes so schnell wieder aufbauen?"
+        },
+        {
+            "key": "002",
+            "value": "Du bist doch ..."
+        },
+        {
+            "key": "003",
+            "value": "Kilphe! Du lebst!"
+        },
+        {
+            "key": "004",
+            "value": "Kels! Bist du es wirklich?"
+        },
+        {
+            "key": "005",
+            "value": "Höchstpersönlich! Ich dachte, ich würde dich nie wieder sehen."
+        },
+        {
+            "key": "006",
+            "value": "Was ist mit deinem Bruder? Wie geht es Mallius?"
+        },
+        {
+            "key": "007",
+            "value": "Verzeih. Ich wusste es nicht."
+        },
+        {
+            "key": "008",
+            "value": "Diese Kirche ..."
+        },
+        {
+            "key": "009",
+            "value": "Ach ja."
+        },
+        {
+            "key": "010",
+            "value": "Die Kristallene Stätte hat sie erbaut, um in der ganzen Region ihre Lehren zu verbreiten."
+        },
+        {
+            "key": "011",
+            "value": "Einer der Mönche sagte mir, Ihre Heiligkeit Sadali hätte das Gebäude höchstpersönlich von Fennes konfisziert."
+        },
+        {
+            "key": "012",
+            "value": "Heiligkeit?"
+        },
+        {
+            "key": "013",
+            "value": "Ja. Ihre Heiligkeit ist ein wandelnder Gott auf Erden."
+        },
+        {
+            "key": "014",
+            "value": "Versteh mich nicht falsch. Mir kam die Stätte anfangs auch verdächtig vor."
+        },
+        {
+            "key": "015",
+            "value": "Aber dann traf ich Ihre Heiligkeit. Ihm zu folgen, bedeutet, den Pfad der Gerechtigkeit zu wandeln, glaube mir."
+        },
+        {
+            "key": "016",
+            "value": "Wie wäre es, Kilphe? Möchtest du dich nicht auch taufen lassen?"
+        },
+        {
+            "key": "017",
+            "value": "Dann kannst du endlich deine dunkle Vergangenheit hinter dir lassen. So wie ich es tat."
+        },
+        {
+            "key": "018",
+            "value": "Du wirst endlich wieder frei lachen können. Tu es für mich. Bitte."
+        },
+        {
+            "key": "019",
+            "value": "Nein, ich ..."
+        },
+        {
+            "key": "020",
+            "value": "Oh, und wer ist diese wunderschöne junge Dame?"
+        },
+        {
+            "key": "021",
+            "value": "Dich habe ich in dieser Gegend noch nie gesehen."
+        },
+        {
+            "key": "022",
+            "value": "Das ist Kilphe. Sie kommt ebenfalls aus diesem Dorf."
+        },
+        {
+            "key": "023",
+            "value": "Aus dem Weg."
+        },
+        {
+            "key": "024",
+            "value": "Tu, was ich sage und du wirst zu einer reichen Frau."
+        },
+        {
+            "key": "025",
+            "value": "Du degenerierter Mönch."
+        },
+        {
+            "key": "026",
+            "value": "Wie kannst du es wagen?"
+        },
+        {
+            "key": "027",
+            "value": "Urgh ..."
+        },
+        {
+            "key": "028",
+            "value": "Kilphe! Was hast du getan?"
+        },
+        {
+            "key": "029",
+            "value": "I-Ich hatte damit nichts zu tun!"
+        },
+        {
+            "key": "030",
+            "value": "Unverschämter Heide!"
+        },
+        {
+            "key": "031",
+            "value": "Knie sofort nieder vor dem Licht des Kristalls!"
+        },
+        {
+            "key": "032",
+            "value": "Weigere dich und du wirst leiden."
+        },
+        {
+            "key": "033",
+            "value": "Willst du mich etwa töten?"
+        },
+        {
+            "key": "034",
+            "value": "Ich habe bereits den Beschluss gefasst, hier aus dem Leben zu scheiden."
+        },
+        {
+            "key": "035",
+            "value": "Umso besser, wenn ich dich mit ins Jenseits nehmen kann."
+        },
+        {
+            "key": "036",
+            "value": "Du bist ..."
+        },
+        {
+            "key": "037",
+            "value": "Narr! Warum stellst du dich auf die Seite dieses Heidenmädchens?"
+        },
+        {
+            "key": "038",
+            "value": "Ich bin Houlet, merk dir das."
+        },
+        {
+            "key": "039",
+            "value": "All die schönen Frauen in unserem Reich tun das."
+        },
+        {
+            "key": "040",
+            "value": "Niemand will von deinem frivolen Verhalten hören!"
+        },
+        {
+            "key": "041",
+            "value": "Warum stellst du dich gegen die Stätte?"
+        },
+        {
+            "key": "042",
+            "value": "Ein lüsterner Mönch oder eine wehmütige, aber schöne Frau. Die Entscheidung war recht einfach."
+        },
+        {
+            "key": "043",
+            "value": "Ich kann auf mich selbst aufpassen."
+        },
+        {
+            "key": "044",
+            "value": "Und doch scheinst du immer noch darauf erpicht, dein Leben einfach wegzuwerfen."
+        },
+        {
+            "key": "045",
+            "value": "....."
+        },
+        {
+            "key": "046",
+            "value": "Ich wurde in diesem Dorf geboren."
+        },
+        {
+            "key": "047",
+            "value": "Als Fennes kam, schnappten sie sich meinen Bruder, und drohten, ihn umzubringen, wenn ich nicht für sie kämpfe."
+        },
+        {
+            "key": "048",
+            "value": "Dein Bruder ..."
+        },
+        {
+            "key": "049",
+            "value": "Mallius. Er weilt nicht mehr unter uns."
+        },
+        {
+            "key": "050",
+            "value": "Genug gequatscht! Ich werde euch beide gemeinsam fertig machen!"
+        }
+    ]
+}

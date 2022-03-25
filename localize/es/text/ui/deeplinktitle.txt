@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "Guild",
+            "value": "Guild TITLE"
+        },
+        {
+            "key": "Summon",
+            "value": "Summon TITLE"
+        },
+        {
+            "key": "EventQuestTab",
+            "value": "EventQuestTab TITLE"
+        },
+        {
+            "key": "EventQuestSection",
+            "value": "EventQuestSection TITLE"
+        },
+        {
+            "key": "ChallengeMission",
+            "value": "ChallengeMission TITLE"
+        },
+        {
+            "key": "ClassMatch",
+            "value": "ClassMatch TITLE"
+        },
+        {
+            "key": "Shop",
+            "value": "Shop TITLE"
+        },
+        {
+            "key": "SpecialShop",
+            "value": "SpecialShop TITLE"
+        },
+        {
+            "key": "ChocoboExpedition",
+            "value": "ChocoboExpedition TITLE"
+        },
+        {
+            "key": "MogShop",
+            "value": "MogShop TITLE"
+        }            
+    ]
+}

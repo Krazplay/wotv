@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vienen más refuerzos…"
+        },
+        {
+            "key": "002",
+            "value": "Parece que no van a parar hasta verme muerta."
+        },
+        {
+            "key": "003",
+            "value": "Nunca antes me habían perseguido con tanto ahínco."
+        },
+        {
+            "key": "004",
+            "value": "¿Perseguido? Creo que esa no es la palabra más adecuada."
+        },
+        {
+            "key": "005",
+            "value": "Rey Elde, a este paso…"
+        },
+        {
+            "key": "006",
+            "value": "El enemigo no flaquea. Vamos a tener que cambiar de plan."
+        },
+        {
+            "key": "007",
+            "value": "Te refieres al anillo, ¿verdad?"
+        },
+        {
+            "key": "008",
+            "value": "¿Al anillo?"
+        }
+    ]
+}

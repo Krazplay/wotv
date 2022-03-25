@@ -1,0 +1,136 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Encore... ?"
+        },
+        {
+            "key": "002",
+            "value": "Quelle plaie... ils sont combien, au juste ?"
+        },
+        {
+            "key": "003",
+            "value": "Il n'y aura pas de pardon pour vous deux."
+        },
+        {
+            "key": "004",
+            "value": "Vous n'avez plus rien à craindre des mines... C'est ici que vous allez mourir !"
+        },
+        {
+            "key": "005",
+            "value": "Pff..."
+        },
+        {
+            "key": "006",
+            "value": "Hm, ça sent la fin pour vous."
+        },
+        {
+            "key": "007",
+            "value": "Quoi... ?"
+        },
+        {
+            "key": "008",
+            "value": "Ahh !"
+        },
+        {
+            "key": "009",
+            "value": "Noooooon !"
+        },
+        {
+            "key": "010",
+            "value": "Chut, du calme."
+        },
+        {
+            "key": "011",
+            "value": "Quoi ? Tu les as tués ?"
+        },
+        {
+            "key": "012",
+            "value": "C'était ce que vous vouliez, non ? Ça vous fait moins de travail."
+        },
+        {
+            "key": "013",
+            "value": "C'est pas faux... Mais pourquoi tu as fait ça ?"
+        },
+        {
+            "key": "014",
+            "value": "Ils commençaient à me faire honte. Et je suis le chef de la guilde des trafiquants d'armes."
+        },
+        {
+            "key": "015",
+            "value": "Ai-je besoin d'une meilleure raison ?"
+        },
+        {
+            "key": "016",
+            "value": "Euh... Ben..."
+        },
+        {
+            "key": "017",
+            "value": "Si ça vous pose problème, n'hésitez pas, surtout."
+        },
+        {
+            "key": "018",
+            "value": "Je me ferai un plaisir de vous envoyer les rejoindre."
+        },
+        {
+            "key": "019",
+            "value": "..."
+        },
+        {
+            "key": "020",
+            "value": "O.K., O.K. On rentre, les gars !"
+        },
+        {
+            "key": "021",
+            "value": "Mais pas un mot sur ce qu'il vient de se passer... Compris ?"
+        },
+        {
+            "key": "022",
+            "value": "Comme tu voudras."
+        },
+        {
+            "key": "023",
+            "value": "Bon dieu..."
+        },
+        {
+            "key": "024",
+            "value": "Argh... gnn..."
+        },
+        {
+            "key": "025",
+            "value": "Velne !"
+        },
+        {
+            "key": "026",
+            "value": "Ah, désolé. Il n'y avait pas de meilleure solution."
+        },
+        {
+            "key": "027",
+            "value": "Je vais te..."
+        },
+        {
+            "key": "028",
+            "value": "Ah..."
+        },
+        {
+            "key": "029",
+            "value": "Velne !"
+        },
+        {
+            "key": "030",
+            "value": "Garvall..."
+        },
+        {
+            "key": "031",
+            "value": "Allez, filez."
+        },
+        {
+            "key": "032",
+            "value": "Mais souvenez-vous. Il n'y a rien de plus précieux pour un trafiquant d'armes que sa réputation."
+        },
+        {
+            "key": "033",
+            "value": "Si j'ai le déplaisir de vous revoir... Je m'assurerai que ce soit la dernière fois."
+        }
+    ]
+}

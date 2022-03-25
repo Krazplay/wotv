@@ -1,0 +1,2332 @@
+﻿{
+    "infos": [
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact.001",
+            "value": "Equipment: Metal Slayer"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.003",
+            "value": "Release Starter Pack III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.002.01",
+            "value": "Release Starter Pack II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.001",
+            "value": "Release Starter Pack I"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_booster.001",
+            "value": "NRG Booster Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_cg.001",
+            "value": "NRG & Gil Snapper Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.001",
+            "value": "Unit Awakening Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_awaken.001",
+            "value": "Esper Awakening Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.001",
+            "value": "Weekly Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.001",
+            "value": "Unit Enhancing Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_exp.001",
+            "value": "Equipment Enhancing Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.001",
+            "value": "Esper Enhancing Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.001",
+            "value": "Vision Card Enhancing Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.001",
+            "value": "Daily NRG Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.001",
+            "value": "[Free Bonus] Visiore Pack A"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.002",
+            "value": "[Free Bonus] Visiore Pack B"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.003",
+            "value": "[Free Bonus] Visiore Pack C"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.004",
+            "value": "[Free Bonus] Visiore Pack D"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.005",
+            "value": "[Free Bonus] Visiore Pack E"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.006",
+            "value": "[Free Bonus] Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.007",
+            "value": "[Free Bonus] Visiore Pack G"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.001",
+            "value": "Visiore Pack A"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.002",
+            "value": "Visiore Pack B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.003",
+            "value": "Visiore Pack C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.004",
+            "value": "Visiore Pack D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.005",
+            "value": "Visiore Pack E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.006",
+            "value": "Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.007.01",
+            "value": "Visiore Pack G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.004",
+            "value": "Monthly Fire Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.005",
+            "value": "Monthly Water Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.006",
+            "value": "Monthly Wind Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.007",
+            "value": "Monthly Lightning Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.008",
+            "value": "Monthly Ice Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.009",
+            "value": "Monthly Earth Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.010",
+            "value": "Monthly Light Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.011",
+            "value": "Monthly Dark Pack"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_01.rew",
+            "value": "Rare Summon Ticket"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_02.rew",
+            "value": "Rare 10x Summon Ticket"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_05.rew",
+            "value": "Visiore x100"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_03.rew",
+            "value": "Visiore x640"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_04.rew",
+            "value": "Visiore x1,350"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.009",
+            "value": "[Collab] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.010",
+            "value": "[Collab] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.011",
+            "value": "[Collab] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.012",
+            "value": "[Collab] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.003",
+            "value": "[Collab] Rainbow Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.001",
+            "value": "Vision Card: Job Crystal"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.daily.001",
+            "value": "Daily Visiore Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.012",
+            "value": "Monthly Rainbow Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.001",
+            "value": "Equipment Pack: Attack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.002",
+            "value": "Equipment Pack: Magic"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.003",
+            "value": "Equipment Pack: Life"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.001",
+            "value": "Limit Burst Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.001",
+            "value": "Equipment Ability Pack"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.001",
+            "value": "30-Day Visiore Value Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.006",
+            "value": "Starter Pack III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.005",
+            "value": "Starter Pack II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.004",
+            "value": "Starter Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "FF EXVIUS Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "FF EXVIUS Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "FF EXVIUS Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "FF EXVIUS Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "FF EXVIUS Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "FF EXVIUS Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "FFI Daily Hype-Up Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "FFI Hype-Up Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.003",
+            "value": "Unit Enhancing Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.003",
+            "value": "Vision Card Enhancing Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.015",
+            "value": "Unit Awakening Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.001",
+            "value": "Gil Snapper Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.014",
+            "value": "[Collab] Rainbow Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.003",
+            "value": "Summer Triple Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.019",
+            "value": "[Collab] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.020",
+            "value": "[Collab] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.021",
+            "value": "[Collab] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.022",
+            "value": "[Collab] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.023",
+            "value": "[Collab] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.024",
+            "value": "[Collab] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "Quest Challenge Pass"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "Unit Training Pass"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "Equipment Training Pass"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.016",
+            "value": "[Collab] Rainbow Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.025",
+            "value": "[Collab] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.026",
+            "value": "[Collab] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.027",
+            "value": "[Collab] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.028",
+            "value": "[Collab] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.029",
+            "value": "[Collab] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.030",
+            "value": "[Collab] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst.001",
+            "value": "Limit Burst Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability.001",
+            "value": "Equipment Ability Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.001",
+            "value": "UR Unit Piece Daily Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.002",
+            "value": "UR Unit Piece Special Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.001",
+            "value": "Story Skip Ticket Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.003",
+            "value": "Event Skip Ticket Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.001",
+            "value": "Skip Ticket Special Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.031",
+            "value": "[Limited] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.032",
+            "value": "[Limited] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.033",
+            "value": "[Limited] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.034",
+            "value": "[Limited] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.035",
+            "value": "[Limited] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.036",
+            "value": "[Limited] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.008",
+            "value": "Visiore Pack B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.009",
+            "value": "Visiore Pack C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.010",
+            "value": "Visiore Pack D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.011",
+            "value": "Visiore Pack E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.012",
+            "value": "Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.013",
+            "value": "Visiore Pack G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.001",
+            "value": "MyCard Release Gift Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.037",
+            "value": "[Limited] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.038",
+            "value": "[Limited] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.039",
+            "value": "[Limited] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.040",
+            "value": "[Limited] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.041",
+            "value": "[Limited] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.042",
+            "value": "[Limited] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.043",
+            "value": "[Limited] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.008",
+            "value": "[Free Bonus] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.014",
+            "value": "Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.044",
+            "value": "[Collab] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.045",
+            "value": "[Collab] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.046",
+            "value": "[Collab] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.047",
+            "value": "[Collab] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.048",
+            "value": "[Collab] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.049",
+            "value": "[Collab] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.050",
+            "value": "[Collab] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.002",
+            "value": "Black Friday Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.003",
+            "value": "Black Friday Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.004",
+            "value": "Black Friday Medal Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.005",
+            "value": "Black Friday Unit Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.006",
+            "value": "Black Friday Vision Card Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.007",
+            "value": "Black Friday Esper Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.008",
+            "value": "Black Friday Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.009",
+            "value": "Black Friday Rainbow Pack"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.002",
+            "value": "[Limited] 30-Day Value Pack+"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.051",
+            "value": "[Global Fest] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.052",
+            "value": "[Global Fest] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.053",
+            "value": "[Global Fest] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.054",
+            "value": "[Global Fest] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.055",
+            "value": "[Global Fest] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.056",
+            "value": "[Global Fest] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.057",
+            "value": "[Global Fest] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.010",
+            "value": "Winter Fest Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.011",
+            "value": "Winter Fest Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.012",
+            "value": "Global Fest Medal Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.013",
+            "value": "Winter Fest Unit Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.014",
+            "value": "Winter Fest Vision Card Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.015",
+            "value": "Winter Fest Esper Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.016",
+            "value": "Winter Fest Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.017",
+            "value": "Winter Fest Rainbow Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.058",
+            "value": "[NY 2021] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.059",
+            "value": "[NY 2021] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.060",
+            "value": "[NY 2021] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.061",
+            "value": "[NY 2021] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.062",
+            "value": "[NY 2021] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.063",
+            "value": "[NY 2021] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.064",
+            "value": "[NY 2021] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.065",
+            "value": "[WE 2021] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.066",
+            "value": "[WE 2021] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.067",
+            "value": "[WE 2021] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.068",
+            "value": "[WE 2021] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.069",
+            "value": "[WE 2021] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.070",
+            "value": "[WE 2021] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.071",
+            "value": "[WE 2021] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_egg.001",
+            "value": "JP Booster Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_egg.002",
+            "value": "Daily Ovalite Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.001",
+            "value": "[Trial] JP Key Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.002",
+            "value": "Monthly JP Key Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.018",
+            "value": "WE 2021 Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.019",
+            "value": "WE 2021 Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.020",
+            "value": "WE 2021 Medal Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.021",
+            "value": "WE 2021 Unit Awakening Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.022",
+            "value": "WE 2021 Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.023",
+            "value": "WE 2021 Skip Ticket Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.024",
+            "value": "WE 2021 Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.025",
+            "value": "WE 2021 Rainbow Pack"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.001",
+            "value": "[Weekly] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.002",
+            "value": "[Weekly] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.003",
+            "value": "[Weekly] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.003",
+            "value": "[Monthly] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.002",
+            "value": "[Monthly] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.001",
+            "value": "[Monthly] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.004",
+            "value": "Premium Pass"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.003",
+            "value": "[1st Ann.] 30-Day Value Pack+"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.072",
+            "value": "[1st Ann.] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.073",
+            "value": "[1st Ann.] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.074",
+            "value": "[1st Ann.] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.075",
+            "value": "[1st Ann.] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.076",
+            "value": "[1st Ann.] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.077",
+            "value": "[1st Ann.] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.078",
+            "value": "[1st Ann.] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.001",
+            "value": "EX Job Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.002",
+            "value": "Branded Tablet Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.003",
+            "value": "Elemental Alcryst Statue Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.004",
+            "value": "Equipment Pack: Defense"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.005",
+            "value": "Equipment Pack: Spirit"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.006",
+            "value": "Equipment Pack: Attack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.007",
+            "value": "Equipment Pack: Magic"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.026",
+            "value": "[1st Ann.] Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.027",
+            "value": "[1st Ann.] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.007",
+            "value": "Special Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.028",
+            "value": "[1st Ann.] EX Job Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.029",
+            "value": "First Anniversary Medal Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.030",
+            "value": "[1st Ann.] Unit Awakening Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.031",
+            "value": "[1st Ann.] VC Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.032",
+            "value": "[1st Ann.] Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.033",
+            "value": "[1st Ann.] Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.034",
+            "value": "[1st Ann.] Rainbow Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.079",
+            "value": "[NieR] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.080",
+            "value": "[NieR] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.081",
+            "value": "[NieR] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.082",
+            "value": "[NieR] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.083",
+            "value": "[NieR] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.084",
+            "value": "[NieR] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.085",
+            "value": "[NieR] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.002",
+            "value": "Skip Ticket Special Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.035",
+            "value": "[NieR] Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.036",
+            "value": "[NieR] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.037",
+            "value": "[NieR] NieR Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.008",
+            "value": "[NieR] Special Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.038",
+            "value": "[NieR] EX Job Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.039",
+            "value": "[NieR] Spring 2021 Medal Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.040",
+            "value": "[NieR] Unit Awakening Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.041",
+            "value": "[NieR] VC Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.042",
+            "value": "[NieR] Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.043",
+            "value": "[NieR] Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.044",
+            "value": "[NieR] Rainbow Pack"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.004",
+            "value": "[Sale] 30-Day Super Value Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.086",
+            "value": "[Sale] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.087",
+            "value": "[Sale] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.088",
+            "value": "[Sale] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.089",
+            "value": "[Sale] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.090",
+            "value": "[Sale] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.091",
+            "value": "[Sale] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.092",
+            "value": "[Sale] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.visiore.001",
+            "value": "[Starter] Visiore Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.comeback.001",
+            "value": "Select Lv99 UR Unit Bonus Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.001",
+            "value": "[Sale] Unit Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.001",
+            "value": "[Sale] VC/Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.001",
+            "value": "[Sale] Materials Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.045",
+            "value": "[Sale] Equipment Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.046",
+            "value": "[Sale] Rainbow Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.047",
+            "value": "[Sale] Esper Training Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.048",
+            "value": "[Sale] EX Job Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.049",
+            "value": "[Sale] Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.050",
+            "value": "[Sale] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.051",
+            "value": "[Sale] Special Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.052",
+            "value": "[Sale] Unit Awakening Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.053",
+            "value": "[Sale] VC Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.054",
+            "value": "[Sale] Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.055",
+            "value": "[Sale] Rainbow Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.093",
+            "value": "[GL Fes.3] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.094",
+            "value": "[GL Fes.3] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.095",
+            "value": "[GL Fes.3] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.096",
+            "value": "[GL Fes.3] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.097",
+            "value": "[GL Fes.3] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.098",
+            "value": "[GL Fes.3] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.099",
+            "value": "[GL Fes.3] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.056",
+            "value": "[GL Fes.3] UR Zazan Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.057",
+            "value": "[GL Fes.3] Duane Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.058",
+            "value": "[GL Fes.3] Fryevia Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.100",
+            "value": "[Summer] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.101",
+            "value": "[Summer] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.102",
+            "value": "[Summer] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.103",
+            "value": "[Summer] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.104",
+            "value": "[Summer] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.105",
+            "value": "[Summer] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.106",
+            "value": "[Summer] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.004",
+            "value": "Branded Tablet Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.059",
+            "value": "Lilyth (Summer) Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.060",
+            "value": "Kitone (Summer) Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.061",
+            "value": "Kilphe (Summer) Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.062",
+            "value": "Elsirelle (Summer) Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.002",
+            "value": "[Summer] Unit Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.002",
+            "value": "[Summer] VC/Esp Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.002",
+            "value": "[Summer] Materials Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.063",
+            "value": "[Summer] Equipment Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.064",
+            "value": "[Summer] Rainbow Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.065",
+            "value": "[Summer] Esper Training Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.066",
+            "value": "[Summer] EX Job Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.067",
+            "value": "[Summer] Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.068",
+            "value": "[Summer] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.069",
+            "value": "[Summer] Special Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.107",
+            "value": "[Collab] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.108",
+            "value": "[Collab] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.109",
+            "value": "[Collab] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.110",
+            "value": "[Collab] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.111",
+            "value": "[Collab] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.112",
+            "value": "[Collab] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.113",
+            "value": "[Collab] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.070",
+            "value": "[Collab] Cloud Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.071",
+            "value": "[Collab] Tifa Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.comeback.002",
+            "value": "Lv99 UR Unit Bonus Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.003",
+            "value": "[Collab] Unit Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.003",
+            "value": "[Collab] VC/Esp. Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.003",
+            "value": "[Collab] Materials Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.074",
+            "value": "[Collab] Equipment Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.075",
+            "value": "[Collab] Rainbow Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.076",
+            "value": "[Collab] Esper Training Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.077",
+            "value": "[Collab] EX Job Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.078",
+            "value": "[Collab] Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.079",
+            "value": "[Collab] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.080",
+            "value": "[Collab] Special Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.081",
+            "value": "[Collab] Barret Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.082",
+            "value": "[Collab] Aerith Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.114",
+            "value": "[1.5] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.115",
+            "value": "[1.5] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.116",
+            "value": "[1.5] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.117",
+            "value": "[1.5] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.118",
+            "value": "[1.5] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.119",
+            "value": "[1.5] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.120",
+            "value": "[1.5] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.item.001",
+            "value": "[Starter] Special Item Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.083",
+            "value": "[1.5] Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.084",
+            "value": "[1.5] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.085",
+            "value": "[1.5] Lara Croft Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.086",
+            "value": "[1.5] Special Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.004",
+            "value": "[1.5] VC/Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.004",
+            "value": "[1.5] Materials Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.087",
+            "value": "[1.5] EX Job Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.088",
+            "value": "[1.5] Rainbow Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.089",
+            "value": "[1.5] Esper Training Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.090",
+            "value": "[1.5] Equipment Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.091",
+            "value": "[1.5] Gil Snapper (XL) Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.092",
+            "value": "Equipment Ability Pack"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.005",
+            "value": "[1.5] 30-Day Super Value Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.093",
+            "value": "[1.5] GL Unit Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.094",
+            "value": "[1.5] GL Summon Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.095",
+            "value": "[1.5] GL Summon Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.096",
+            "value": "[1.5] Lv99 UR Unit Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.121",
+            "value": "[HLWN] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.122",
+            "value": "[HLWN] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.123",
+            "value": "[HLWN] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.124",
+            "value": "[HLWN] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.125",
+            "value": "[HLWN] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.126",
+            "value": "[HLWN] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.127",
+            "value": "[HLWN] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.item.002",
+            "value": "[Starter] Special Item Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.097",
+            "value": "[HLWN] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.098",
+            "value": "[HLWN] Select Unit Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.099",
+            "value": "[HLWN] Summon Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.100",
+            "value": "[HLWN] Summon Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.101",
+            "value": "[HLWN] Special Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.005",
+            "value": "[HLWN] VC/Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.005",
+            "value": "[HLWN] Materials Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.102",
+            "value": "[HLWN] EX Job Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.103",
+            "value": "[HLWN] Rainbow Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.104",
+            "value": "[HLWN] Esper Training Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.105",
+            "value": "[HLWN] Equipment Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.106",
+            "value": "[HLWN] Gil Snapper (XL) Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.107",
+            "value": "[HLWN] Key Quest Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.108",
+            "value": "[Collab] Event Quest Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.109",
+            "value": "[Collab] Unit Pack (Earth)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.110",
+            "value": "[Collab] Unit Pack (Dark)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.111",
+            "value": "[Collab] Unit Pack (Ice)"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.128",
+            "value": "[BLK FRI] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.129",
+            "value": "[BLK FRI] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.130",
+            "value": "[BLK FRI] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.131",
+            "value": "[BLK FRI] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.132",
+            "value": "[BLK FRI] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.133",
+            "value": "[BLK FRI] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.134",
+            "value": "[BLK FRI] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.112",
+            "value": "[BLK FRI] Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.113",
+            "value": "[BLK FRI] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.114",
+            "value": "[BLK FRI] Select UR Unit Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.115",
+            "value": "[BLK FRI] EX Job Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.116",
+            "value": "[BLK FRI] Job Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.117",
+            "value": "[BLK FRI] Select UR VC Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.118",
+            "value": "[BLK FRI] Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.119",
+            "value": "[BLK FRI] Soul Star Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.120",
+            "value": "[BLK FRI] Vision Star Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.121",
+            "value": "[BLK FRI] Skip Ticket Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.122",
+            "value": "[BLK FRI] Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.123",
+            "value": "[BLK FRI] Provisions Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.124",
+            "value": "[FFXV] Noctis Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.125",
+            "value": "[FFXV] Prompto Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.126",
+            "value": "[FFXV] Aranea Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.135",
+            "value": "[WNTR] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.136",
+            "value": "[WNTR] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.137",
+            "value": "[WNTR] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.138",
+            "value": "[WNTR] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.139",
+            "value": "[WNTR] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.140",
+            "value": "[WNTR] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.141",
+            "value": "[WNTR] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.127",
+            "value": "[WNTR] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.128",
+            "value": "[WNTR] Summon Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.129",
+            "value": "[WNTR] Summon Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.130",
+            "value": "[WNTR] Luartha (W) Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.131",
+            "value": "[WNTR] Special Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.132",
+            "value": "[WNTR] VC/Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.133",
+            "value": "[WNTR] Materials Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.134",
+            "value": "[WNTR] EX Job Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.135",
+            "value": "[WNTR] Rainbow Pack+ "
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.136",
+            "value": "[WNTR] Esper Training Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.137",
+            "value": "[WNTR] Equipment Pack+ "
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.138",
+            "value": "[WNTR] Gil Snapper (XL) Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.142",
+            "value": "[GLFes5] Summon Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.140",
+            "value": "[GLFes5] Summon Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.141",
+            "value": "[GLFes5] GL Unit Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.142",
+            "value": "[10mDL] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.143",
+            "value": "[10mDL] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.144",
+            "value": "[10mDL] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.145",
+            "value": "[10mDL] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.146",
+            "value": "[10mDL] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.147",
+            "value": "[10mDL] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.148",
+            "value": "[10mDL] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.143",
+            "value": "[10mDL] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.144",
+            "value": "[FFIV] Golbez Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.145",
+            "value": "[FFIV] Cecil Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.146",
+            "value": "[FFIV] Kain Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.147",
+            "value": "[FFIV] Rosa Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.148",
+            "value": "[10mDL] Special Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.149",
+            "value": "[10mDL] VC/Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.150",
+            "value": "[10mDL] Skip Ticket Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.151",
+            "value": "[10mDL] Provisions Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.152",
+            "value": "[10mDL] EX Job Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.153",
+            "value": "[10mDL] Rainbow Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.154",
+            "value": "[10mDL] Esper Training Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.155",
+            "value": "[10mDL] Equipment Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.156",
+            "value": "[10mDL] Gil Snapper (XL) Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157",
+            "value": "[LNY'22] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161",
+            "value": "[LNY'22] Summon Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159",
+            "value": "[LNY'22] Summon Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160",
+            "value": "[LNY'22] LNY Moore Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162",
+            "value": "[Carnival] Special Daily Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163",
+            "value": "[Carnival] Unit Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164",
+            "value": "[Carnival] VC Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149",
+            "value": "[2nd] Visiore Pack I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150",
+            "value": "[2nd] Visiore Pack II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151",
+            "value": "[2nd] Visiore Pack III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152",
+            "value": "[2nd] Visiore Pack IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153",
+            "value": "[2nd] Visiore Pack V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154",
+            "value": "[2nd] Visiore Pack VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155",
+            "value": "[2nd] Visiore Pack VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003",
+            "value": "[Trial] JP Key Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001",
+            "value": "[Trial] Aff/Res Key Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009",
+            "value": "[Starter] Select UR Unit Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010",
+            "value": "[Starter] Unit Awakening Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011",
+            "value": "[Starter] Select UR VC Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003",
+            "value": "Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002",
+            "value": "Gil Snapper Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002",
+            "value": "Limit Burst Enhancing Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002",
+            "value": "Equipment Ability Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004",
+            "value": "[Monthly] JP Key Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002",
+            "value": "[Monthly] Aff/Res Key Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001",
+            "value": "[Monthly] Awakening Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165",
+            "value": "[2nd] Visiore Pack H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166",
+            "value": "[FFVI] Summon Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167",
+            "value": "[FFVI] Summon Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171",
+            "value": "[2nd] Special Starter Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172",
+            "value": "[2nd] VC/Esper Training Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173",
+            "value": "[2nd] Skip Ticket Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174",
+            "value": "[2nd] Provisions Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175",
+            "value": "[2nd] EX Job Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176",
+            "value": "[2nd] Rainbow Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177",
+            "value": "[2nd] Esper Training Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178",
+            "value": "[2nd] Equipment Pack+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179",
+            "value": "[2nd] Gil Snapper (XL) Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001",
+            "value": "Celes Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002",
+            "value": "Terra Shard Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001",
+            "value": "Second Anniversary Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate3)",
+            "value": ""
+        }
+    ]
+}

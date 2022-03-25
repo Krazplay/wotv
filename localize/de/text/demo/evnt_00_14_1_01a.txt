@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Mehr habt ihr nicht zu bieten?!"
+        },
+        {
+            "key": "002",
+            "value": "Dieses winzige Schloss könnte ein Furz dem Erdboden gleichmachen! Zum Angriff, Männer!"
+        },
+        {
+            "key": "003",
+            "value": "Erst einmal müsst ihr an mir vorbei."
+        },
+        {
+            "key": "004",
+            "value": "Hä?! Wer war das?"
+        },
+        {
+            "key": "005",
+            "value": "...!"
+        },
+        {
+            "key": "006",
+            "value": "Vorsicht, das hätte ins Auge gehen können!"
+        },
+        {
+            "key": "007",
+            "value": "Hrk!"
+        },
+        {
+            "key": "008",
+            "value": "Ich hätte deine Hilfe nicht gebraucht!"
+        },
+        {
+            "key": "009",
+            "value": "Wie kommst du darauf, dass ich das deinetwegen getan habe?"
+        },
+        {
+            "key": "010",
+            "value": "Ich bin Strategin. Wenn ich eine Chance sehe, nutze ich sie."
+        },
+        {
+            "key": "011",
+            "value": "Also gut, o große Strategin, dann sag mir mal, was wir als Nächstes tun sollen."
+        },
+        {
+            "key": "012",
+            "value": "Uns zurückziehen."
+        },
+        {
+            "key": "013",
+            "value": "Hast du sie nicht mehr alle?!"
+        },
+        {
+            "key": "014",
+            "value": "Schloss Pharm gilt als uneinnehmbar. Ein frontaler Angriff würde auf unserer Seite viele Opfer fordern."
+        },
+        {
+            "key": "015",
+            "value": "Opfer? Das soll mir nur recht sein! Ich würde jedes Opfer für diesen Sieg bringen!"
+        },
+        {
+            "key": "016",
+            "value": "Ich werde mich nicht zurückziehen. Ganz egal, wie es ausgeht."
+        },
+        {
+            "key": "017",
+            "value": "Pharm muss fallen, und dafür gibt es einen guten Grund."
+        }
+    ]
+}

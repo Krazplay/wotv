@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "J'ai entendu dire que c'est Sadali qui a facilité l'alliance entre Hourne et Fennes…"
+        },
+        {
+            "key": "002",
+            "value": "C'est vrai. Il s'est servi de la menace que représente Rundall, à l'ouest, pour forcer la main du roi Rob."
+        },
+        {
+            "key": "003",
+            "value": "Ce Sadali… Il doit avoir beaucoup d'influence pour contraindre ainsi le roi de Hourne."
+        },
+        {
+            "key": "004",
+            "value": "Sire Schuzelt, est-ce la vérité ? Nous n'avons rien à voir avec le seigneur Sadali…"
+        },
+        {
+            "key": "005",
+            "value": "Il est le fondateur de l'Église du Cristal. Sa cathédrale se dresse sur la montagne près de la frontière au nord-ouest de Hourne."
+        },
+        {
+            "key": "006",
+            "value": "J'ai entendu parler de l'Église du Cristal, mais que font-ils exactement ?"
+        },
+        {
+            "key": "007",
+            "value": "Est-ce qu'ils… collectent les Cristaux ?"
+        },
+        {
+            "key": "008",
+            "value": "Oui."
+        },
+        {
+            "key": "009",
+            "value": "V-vraiment ?"
+        },
+        {
+            "key": "010",
+            "value": "Les Cristaux sont la source de divers pouvoirs. On dit qu'ils les collectent pour le bien du peuple, mais…"
+        },
+        {
+            "key": "011",
+            "value": "Ce n'est qu'un prétexte, je me trompe ?"
+        },
+        {
+            "key": "012",
+            "value": "Un prétexte ? Pour quelle autre raison feraient-ils une chose pareille, dans ce cas ?"
+        },
+        {
+            "key": "013",
+            "value": "Les rumeurs prétendent qu'ils prévoient de les utiliser pour la guerre…"
+        },
+        {
+            "key": "014",
+            "value": "Le puissant royaume de Rundall s'oppose fermement à Sadali. Il doit sûrement se sentir en danger."
+        },
+        {
+            "key": "015",
+            "value": "Le roi Jayden de Rundall désire ardemment étendre son territoire vers l'est."
+        },
+        {
+            "key": "016",
+            "value": "En forçant Hourne et Fennes à s'allier, Sadali et son église en profitent aussi."
+        },
+        {
+            "key": "017",
+            "value": "Vous avez sûrement raison."
+        },
+        {
+            "key": "018",
+            "value": "Continuons vers le nord. Fennes risque de nous rattraper si nous traînons davantage."
+        }
+    ]
+}

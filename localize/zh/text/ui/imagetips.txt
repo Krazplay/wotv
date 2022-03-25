@@ -1,0 +1,176 @@
+﻿{
+    "infos": [
+        {
+            "key": "TutorialTips_001",
+            "value": "新手教學"
+        },
+        {
+            "key": "TutorialTips_001_a",
+            "value": "戰鬥基本操作"
+        },
+        {
+            "key": "TutorialTips_001_b",
+            "value": "使用TP或AP的能力"
+        },
+        {
+            "key": "TutorialTips_002_a",
+            "value": "能力的特徵"
+        },
+        {
+            "key": "TutorialTips_002_b",
+            "value": "召喚魔法"
+        },
+        {
+            "key": "GuidanceTips_Gacha",
+            "value": "召喚"
+        },
+        {
+            "key": "GuidanceTips_Quest",
+            "value": "劇情任務"
+        },
+        {
+            "key": "GuidanceTips_ChallengeMission",
+            "value": "主畫面"
+        },
+        {
+            "key": "GuidanceTips_UnitStrength",
+            "value": "兵員強化"
+        },
+        {
+            "key": "GuidanceTips_UnitAwake",
+            "value": "覺醒和極限突破"
+        },
+        {
+            "key": "GuidanceTips_ArtifactCraft",
+            "value": "武具"
+        },
+        {
+            "key": "GuidanceTips_EventQuest",
+            "value": "活動任務"
+        },
+        {
+            "key": "GuidanceTips_VisionCard",
+            "value": "幻兵卡"
+        },
+        {
+            "key": "GuidanceTips_ExplorationChocobo",
+            "value": "探險陸行鳥/召喚獸"
+        },
+        {
+            "key": "GuidanceTips_Party",
+            "value": "編配"
+        },
+        {
+            "key": "GuidanceTips_MultiQuest",
+            "value": "協力任務"
+        },
+        {
+            "key": "GuidanceTips_Arena",
+            "value": "鬥技場"
+        },
+        {
+            "key": "GuidanceTips_FreeMatch",
+            "value": "匹配戰鬥"
+        },
+        {
+            "key": "GuidanceTips_GuildJoin",
+            "value": "加入/成立公會"
+        },
+        {
+            "key": "GuidanceTips_GuildRookieJoin",
+            "value": "體驗加入公會"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendance",
+            "value": "公會大廳"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendanceRookie",
+            "value": "公會大廳（新手體驗）"
+        },
+        {
+            "key": "GuidanceTips_GuildBarracks",
+            "value": "兵舍"
+        },
+        {
+            "key": "GuidanceTips_GuildStone",
+            "value": "公會石像"
+        },
+        {
+            "key": "GuidanceTips_GuildBattle",
+            "value": "公會戰鬥"
+        },
+        {
+            "key": "GuidanceTips_UnitIntimacy",
+            "value": "親密度"
+        },
+        {
+            "key": "GuidanceTips_SubQuest",
+            "value": "支線任務"
+        },
+        {
+            "key": "GuidanceTips_CharaQuest",
+            "value": "角色任務"
+        },
+        {
+            "key": "GuidanceTips_ItemExchange",
+            "value": "道具交換"
+        },
+        {
+            "key": "GuidanceTips_SupportUnit",
+            "value": "設定同行者"
+        },
+        {
+            "key": "GuidanceTips_Tower",
+            "value": "白磁之塔"
+        },
+        {
+            "key": "GuidanceTips_Pointquest",
+            "value": "制裁試煉"
+        },
+        {
+            "key": "GuidanceTips_LimitedGuildBattle",
+            "value": "期間限定公會戰鬥"
+        },
+        {
+            "key": "GuidanceTips_GuildHunt",
+            "value": "公會任務"
+        },
+        {
+            "key": "GuidanceTips_ExJob",
+            "value": "EX職業"
+        },
+        {
+            "key": "GuidanceTips_Mastery",
+            "value": "精通"
+        },
+        {
+            "key": "GuidanceTips_BattleRoad",
+            "value": "特選任務"
+        },
+        {
+            "key": "GuidanceTips_DraftMatch",
+            "value": "精選賽"
+        },
+        {
+            "key": "GuidanceTips_GuildVCBarracks",
+            "value": "幻兵卡的祭壇"
+        },
+        {
+            "key": "GuidanceTips_GuildRaid",
+            "value": "公會共鬥"
+        },
+        {
+            "key": "GuidanceTips_LeagueGuildBattle",
+            "value": "公會戰鬥頂尖對決"
+        },
+        {
+            "key": "GuidanceTips_TrustMateria",
+            "value": "信銘石"
+        },
+        {
+            "key": "GuidanceTips_Archive",
+            "value": "異界書庫"
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "S'il vous plaît ! Aidez-nous !"
+        },
+        {
+            "key": "002",
+            "value": "V-vous êtes de Yezagh, c'est ça ?"
+        },
+        {
+            "key": "003",
+            "value": "..."
+        },
+        {
+            "key": "004",
+            "value": " On a beau être d'une caste inférieure..."
+        },
+        {
+            "key": "005",
+            "value": "Nous ne restons pas moins supérieur au bétail !"
+        },
+        {
+            "key": "006",
+            "value": "Les humains que nous sommes avons des droits et une dignité que nous sommes prêts à protéger."
+        },
+        {
+            "key": "007",
+            "value": "Mais vous... Vous n'êtes que des animaux dans une enveloppe humaine."
+        },
+        {
+            "key": "008",
+            "value": "Vous n'y êtes pas du tout !"
+        },
+        {
+            "key": "009",
+            "value": "Qu'est-ce qui vous donne le droit de vous estimer supérieurs à nous ? Depuis quand ?"
+        },
+        {
+            "key": "010",
+            "value": "Tu n'étais même pas encore marqué à l'époque."
+        },
+        {
+            "key": "011",
+            "value": "Tss... Ils nous ont rattrapés."
+        },
+        {
+            "key": "012",
+            "value": "Tu pensais réellement que j'allais te laisser t'enfuir ?"
+        },
+        {
+            "key": "013",
+            "value": "Je crois qu'il est grand temps que tout le monde se calme."
+        },
+        {
+            "key": "014",
+            "value": "T'es qui ?"
+        },
+        {
+            "key": "015",
+            "value": "Galzahk."
+        },
+        {
+            "key": "016",
+            "value": "Le chef de la guilde des trafiquants d'armes ?"
+        },
+        {
+            "key": "017",
+            "value": "Ces deux-là sont de Yezagh, pas vrai ? Le hasard fait bien les choses. Que diriez-vous de travailler pour moi ?"
+        },
+        {
+            "key": "018",
+            "value": "Euh..."
+        },
+        {
+            "key": "019",
+            "value": "C'est une blague ?"
+        },
+        {
+            "key": "020",
+            "value": "Ils appartiennent à Sa Férocité, le roi Muraga. Il y tient beaucoup."
+        },
+        {
+            "key": "021",
+            "value": "Voyez-vous ça..."
+        },
+        {
+            "key": "022",
+            "value": "Étrangement, tu n'as pas l'air de les traiter avec tant de respect que ça."
+        },
+        {
+            "key": "023",
+            "value": "Grrr..."
+        },
+        {
+            "key": "024",
+            "value": "Et si on marchandait à l'ancienne ?"
+        },
+        {
+            "key": "025",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "026",
+            "value": "Je te les achète."
+        },
+        {
+            "key": "027",
+            "value": "Hors de question."
+        },
+        {
+            "key": "028",
+            "value": "Eh bien je crois que je vais avoir du mal à retenir ma langue."
+        },
+        {
+            "key": "029",
+            "value": "Par rapport à ?"
+        },
+        {
+            "key": "030",
+            "value": "Concernant le fait que Fennes mine à toute vitesse. Une guerre se prépare, pas vrai ?"
+        },
+        {
+            "key": "031",
+            "value": "..."
+        },
+        {
+            "key": "032",
+            "value": "Oh, et j'ai ouïe dire d'une rumeur."
+        },
+        {
+            "key": "033",
+            "value": "Une certaine fille du pays qui serait promise à un prince."
+        },
+        {
+            "key": "034",
+            "value": "Peut-être qu'une importante somme d'argent m'aiderait à tenir ma langue."
+        },
+        {
+            "key": "035",
+            "value": "Essaye et la colère qui s'abattra sur toi ira bien au-delà de tout ce que tu imagines..."
+        },
+        {
+            "key": "036",
+            "value": "Alors... Accède à ma requête."
+        },
+        {
+            "key": "037",
+            "value": "Qu'est-ce qui me garantit ton silence ?"
+        },
+        {
+            "key": "038",
+            "value": "Règle numéro 1 d'un trafiquant : la confiance."
+        },
+        {
+            "key": "039",
+            "value": "Si elle venait à disparaître, notre business ne serait plus."
+        },
+        {
+            "key": "040",
+            "value": "Bien..."
+        },
+        {
+            "key": "041",
+            "value": "Attendez."
+        },
+        {
+            "key": "042",
+            "value": "Tu as quelque chose à dire ?"
+        },
+        {
+            "key": "043",
+            "value": "Qui êtes-vous pour décider de notre sort ?"
+        },
+        {
+            "key": "044",
+            "value": "Mon dieu... On vient tout juste de conclure un marché."
+        },
+        {
+            "key": "045",
+            "value": "Tu ferais mieux de jeter un coup d'œil autour de toi."
+        },
+        {
+            "key": "046",
+            "value": "Préfères-tu passer ta vie à être traité comme un chien, ou souhaites-tu rejoindre la guilde des trafiquants d'armes ?"
+        },
+        {
+            "key": "047",
+            "value": "Tu n'as pas d'autre choix... Tu piges ?"
+        },
+        {
+            "key": "048",
+            "value": "Je vous interdis de me parler comme si vous m'étiez supérieur."
+        },
+        {
+            "key": "049",
+            "value": "Vous êtes tous les mêmes. Vous n'avez d'yeux que pour Velne, pas vrai ?"
+        },
+        {
+            "key": "050",
+            "value": "Quoi ? Elle ? C'est vrai qu'elle est un plus."
+        },
+        {
+            "key": "051",
+            "value": "Sa beauté sera son arme. Je parie qu'elle sera très populaire parmi les trafiquants d'armes."
+        },
+        {
+            "key": "052",
+            "value": "Je le savais. Vous n'êtes pas différent des autres serpents..."
+        },
+        {
+            "key": "053",
+            "value": "Peut-être mais je ne vois toujours pas d'autre option qui s'offre à toi..."
+        },
+        {
+            "key": "054",
+            "value": "Oh, mais il y en a une !"
+        },
+        {
+            "key": "055",
+            "value": "Hé !"
+        },
+        {
+            "key": "056",
+            "value": "Idiots ! Abandonnez l'idée de pouvoir nous échapper !"
+        },
+        {
+            "key": "057",
+            "value": "Du grand n'importe quoi..."
+        },
+        {
+            "key": "058",
+            "value": "Et moi qu'il leur offrait une opportunité en or de quitter ces mines..."
+        }
+    ]
+}

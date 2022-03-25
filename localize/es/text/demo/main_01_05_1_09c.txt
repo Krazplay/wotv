@@ -1,0 +1,152 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Numbra!"
+        },
+        {
+            "key": "002",
+            "value": "¡Aguanta!"
+        },
+        {
+            "key": "003",
+            "value": "No… No te preocupes por mí."
+        },
+        {
+            "key": "004",
+            "value": "Lo importante es…"
+        },
+        {
+            "key": "005",
+            "value": "¿Has oído eso?"
+        },
+        {
+            "key": "006",
+            "value": "Sí, son golpes metálicos… Espadas chocando entre sí."
+        },
+        {
+            "key": "007",
+            "value": "¿Hay un combate cerca?"
+        },
+        {
+            "key": "008",
+            "value": "Hemos alcanzado a sir Adelardo…"
+        },
+        {
+            "key": "009",
+            "value": "¿Y tus heridas qué?"
+        },
+        {
+            "key": "010",
+            "value": "No te preocupes por mí. ¡Tenemos que darnos prisa!"
+        },
+        {
+            "key": "011",
+            "value": "¡Eh! ¿Qué pasa aquí?"
+        },
+        {
+            "key": "012",
+            "value": "Conque esta es la segunda división de Hourne, Nitor, ¿verdad?"
+        },
+        {
+            "key": "013",
+            "value": "¿Y estos dos quiénes son?"
+        },
+        {
+            "key": "014",
+            "value": "Por la pinta que tienen, ¡parecen extraterrestres!"
+        },
+        {
+            "key": "015",
+            "value": "¿Estás herida, Saria?"
+        },
+        {
+            "key": "016",
+            "value": "De eso nada, ¡no tengo ni un rasguño! ¿Y tú, hermano?"
+        },
+        {
+            "key": "017",
+            "value": "Estoy bien, pero…"
+        },
+        {
+            "key": "018",
+            "value": "Los monjes de Santocristal nos superan en número con creces. Si no hacemos algo…"
+        },
+        {
+            "key": "019",
+            "value": "¡Aquí llegan los refuerzos!"
+        },
+        {
+            "key": "020",
+            "value": "¡Numbra!"
+        },
+        {
+            "key": "021",
+            "value": "¿Quién es tu compañera?"
+        },
+        {
+            "key": "022",
+            "value": "Kiton, una ninja de Leonis."
+        },
+        {
+            "key": "023",
+            "value": "¿De Leonis?"
+        },
+        {
+            "key": "024",
+            "value": "Sir Adelardo, ahora no es el mejor momento para preocuparse por las lealtades de cada uno."
+        },
+        {
+            "key": "025",
+            "value": "Numbra…, tengo que pedirte un favor."
+        },
+        {
+            "key": "026",
+            "value": "Dime."
+        },
+        {
+            "key": "027",
+            "value": "Deja al menos a uno de los dos con vida. Quiero interrogarlo."
+        },
+        {
+            "key": "028",
+            "value": "¿Que quieres interrogar? Pues venga, pregunta."
+        },
+        {
+            "key": "029",
+            "value": "Sí, venga. Te contestaremos a lo que quieras."
+        },
+        {
+            "key": "030",
+            "value": "De acuerdo."
+        },
+        {
+            "key": "031",
+            "value": "¿Quién fue el que mató a la reina Helena y a sir Owe?"
+        },
+        {
+            "key": "032",
+            "value": "¿Esa es tu pregunta? Menuda estupidez."
+        },
+        {
+            "key": "033",
+            "value": "Eso es lo único que quiere saber, hermano. Qué decepción."
+        },
+        {
+            "key": "034",
+            "value": "Venga, responded."
+        },
+        {
+            "key": "035",
+            "value": "Fuimos los dos."
+        },
+        {
+            "key": "036",
+            "value": "¡Así es! ¿Estás contenta ahora?"
+        },
+        {
+            "key": "037",
+            "value": "Sí…, estaré contenta en cuanto termine de estrangularos con mis propias manos."
+        }
+    ]
+}

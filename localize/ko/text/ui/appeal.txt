@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "QUEST_AP",
+            "value": "AP 소비 감소!"
+        },
+        {
+            "key": "QUEST_DROP_RATE",
+            "value": "드롭률 상승"
+        },
+        {
+            "key": "QUEST_DROP_AMOUNT",
+            "value": "드롭 개수<br>상승"
+        },
+        {
+            "key": "QUEST_PLAYER_EXP",
+            "value": "플레이어 경험치<br>상승"
+        },
+        {
+            "key": "QUEST_UNIT_EXP",
+            "value": "유닛 경험치<br>상승"
+        },
+        {
+            "key": "QUEST_UNIT_JP",
+            "value": "유닛 JP<br>드롭 개수 2배"
+        },
+        {
+            "key": "QUEST_ARTI_PROFICIENCY",
+            "value": "장비 숙련도<br>상승"
+        },
+        {
+            "key": "QUEST_HARD_DROP_AMOUNT",
+            "value": "<cspace=-1.5>Hard<space=5> 조각 {0}배!"
+        },
+        {
+            "key": "QUEST_MULTI_AP",
+            "value": "멀티 AP<br>소비 감소!"
+        },
+        {
+            "key": "GACHA_PICKUP",
+            "value": "픽<space=7>업!"
+        },
+        {
+            "key": "GACHA_NEWUNIT",
+            "value": "신규 유닛"
+        },
+        {
+            "key": "SHOP_SECRET",
+            "value": "<line-height=20><cspace=1>OPEN!<br><cspace=-2.5>비밀 상점"
+        }
+    ]
+}

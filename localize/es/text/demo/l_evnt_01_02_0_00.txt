@@ -1,0 +1,572 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Llum! ¡Esta vez lo conseguiré!"
+        },
+        {
+            "key": "002",
+            "value": "Eres demasiado lento. Si sigues moviéndote así, los enemigos te atacarán por la espalda."
+        },
+        {
+            "key": "003",
+            "value": "¡Ugh!..."
+        },
+        {
+            "key": "004",
+            "value": "Y blandir la espada tan frenéticamente tampoco te será de mucha ayuda."
+        },
+        {
+            "key": "005",
+            "value": "Atacar sin aplomo solo te hará más vulnerable... Observa."
+        },
+        {
+            "key": "006",
+            "value": "¡Ah, mi espada!"
+        },
+        {
+            "key": "007",
+            "value": "Si no la agarras con fuerza no puedes pretender mantenerla en la mano. He vuelto a ganar."
+        },
+        {
+            "key": "008",
+            "value": "Debería haberlo supuesto, Llum... Me va a llevar una eternidad tener la menor posibilidad de vencerte."
+        },
+        {
+            "key": "009",
+            "value": "No quiero oír excusas. No quiero debiluchos entre los Guerreros de los Cristales."
+        },
+        {
+            "key": "010",
+            "value": "Agh... Lo sé..."
+        },
+        {
+            "key": "011",
+            "value": "No te morirías por ser un poco más amable con él."
+        },
+        {
+            "key": "012",
+            "value": "Cetia... ¿Qué estás haciendo aquí?"
+        },
+        {
+            "key": "013",
+            "value": "¿Me crees si te digo que he venido a conocer a la joven promesa?"
+        },
+        {
+            "key": "014",
+            "value": "A quien vas a conocer es a un novato que todavía no me ha asestado un solo golpe. Ni una vez."
+        },
+        {
+            "key": "015",
+            "value": "¿Estás segura? Pues yo creo que tiene potencial. Es admirable que esté aguantando tu extenuante entrenamiento, ¿no?"
+        },
+        {
+            "key": "016",
+            "value": "¡En mi opinión, los que no se rinden fácilmente valen la pena!"
+        },
+        {
+            "key": "017",
+            "value": "Se podría quejar un poco menos, eso sí."
+        },
+        {
+            "key": "018",
+            "value": "¡Nada en la vida es imposible, al fin y al cabo!"
+        },
+        {
+            "key": "019",
+            "value": "Tan parlanchina como siempre... ¿Y bien? ¿A qué has venido en realidad?"
+        },
+        {
+            "key": "020",
+            "value": "El segundo cristal núcleo. ¡He pensado que el nuevo podría ayudarme a buscarlo!"
+        },
+        {
+            "key": "021",
+            "value": "Creo que acabarías antes si trataras de recuperarlo tú sola. Lucius necesita entrenar más."
+        },
+        {
+            "key": "022",
+            "value": "L-Llum..."
+        },
+        {
+            "key": "023",
+            "value": "¡Pero soy yo la que debe decidir eso, no tú, Llum!"
+        },
+        {
+            "key": "024",
+            "value": "¿O es que quieres quedártelo para ti sola?"
+        },
+        {
+            "key": "025",
+            "value": "Está bien. Si eso sirve para que no te inventes tus historias, es todo tuyo."
+        },
+        {
+            "key": "026",
+            "value": "¡Sabía que podíamos llegar a un acuerdo hablando las cosas!"
+        },
+        {
+            "key": "027",
+            "value": "Bien... Lucius, ¿verdad?"
+        },
+        {
+            "key": "028",
+            "value": "S-sí. Soy Lucius, el guerrero en prácticas."
+        },
+        {
+            "key": "029",
+            "value": "¡Vaya, tienes espíritu, creo que nos llevaremos bien! Pero primero, hablemos de trabajo."
+        },
+        {
+            "key": "030",
+            "value": "¡Tú y yo vamos a encontrar el segundo cristal núcleo!"
+        },
+        {
+            "key": "031",
+            "value": "¡En marcha!"
+        },
+        {
+            "key": "032",
+            "value": "¡¿Y-ya?! ¿No puedo descansar un poco primero...?"
+        },
+        {
+            "key": "033",
+            "value": "¡No te hará falta! ¡Lo importante es el espíritu! ¡El cuerpo seguirá el ritmo!"
+        },
+        {
+            "key": "034",
+            "value": "¡Adelante, Lucius! ¡Rumbo al continente de Ardra!"
+        },
+        {
+            "key": "035",
+            "value": "¡¿Es que mi opinión no cuenta para nada?! ¡Es-espera!"
+        },
+        {
+            "key": "036",
+            "value": "El lago se extiende hasta donde alcanza la vista y no hay forma de cruzarlo..."
+        },
+        {
+            "key": "037",
+            "value": "Aaah... No llegaremos nunca a Ovis..."
+        },
+        {
+            "key": "038",
+            "value": "Y eso que yo, lord Camilo, estoy siempre listo para acudir gallardo al rescate..."
+        },
+        {
+            "key": "039",
+            "value": "Oh, mundo cruel... Sus pobres corazones no están preparados para resistir mi caballerosidad."
+        },
+        {
+            "key": "040",
+            "value": "¡Perdonadme, bellas damas desconocidas! Pero yo solo tengo ojos para Machérie..."
+        },
+        {
+            "key": "041",
+            "value": "Tú también quieres llegar a Ovis lo antes posible, ¿verdad?"
+        },
+        {
+            "key": "042",
+            "value": "…"
+        },
+        {
+            "key": "043",
+            "value": "¿Elsirel?"
+        },
+        {
+            "key": "044",
+            "value": "Zzzzzz..."
+        },
+        {
+            "key": "045",
+            "value": "¡¿Ya estás durmiendo otra vez?! Se tiene que vivir bien siendo tan despreocupada..."
+        },
+        {
+            "key": "046",
+            "value": "Fuaaah... Como por aquí no hay monstruos se me han embotado un poco los sentidos. ¿Me decías algo?"
+        },
+        {
+            "key": "047",
+            "value": "Sí. Te hablaba de cómo voy a salvar Ovis y hacer que Machérie se fije en mí."
+        },
+        {
+            "key": "048",
+            "value": "Ah, lo de siempre, entonces. ¿Y para eso me despiertas?"
+        },
+        {
+            "key": "049",
+            "value": "¿Siempre estás tan gruñona recién levan...? ¿Hm?"
+        },
+        {
+            "key": "050",
+            "value": "¿Qué pasa? ¿A ti también te está entrando sueño?"
+        },
+        {
+            "key": "051",
+            "value": "Ese problema solo lo tienes tú. No, es que hay algo raro en el suelo, por ahí."
+        },
+        {
+            "key": "052",
+            "value": "Guau... ¡Es enorme! Nunca había visto un cristal tan grande."
+        },
+        {
+            "key": "053",
+            "value": "Alguien se quedaría dormido y se lo dejó aquí."
+        },
+        {
+            "key": "054",
+            "value": "Te digo que eso solo te pasa a ti."
+        },
+        {
+            "key": "055",
+            "value": "En cualquier caso, es bastante peculiar. Es más denso que los cristales normales... y muy brillante."
+        },
+        {
+            "key": "056",
+            "value": "Hmm... Quizá valga un buen pico. Y como tampoco tenemos muchas perspectivas por el momento, ¿qué te parece si lo invertimos en nuestro viaje?"
+        },
+        {
+            "key": "057",
+            "value": "Puede que alguien lo esté buscando."
+        },
+        {
+            "key": "058",
+            "value": "No lleva el nombre de su propietario. Y dudo que vayan a encontrarlo, en cualquier caso."
+        },
+        {
+            "key": "059",
+            "value": "Además, tenemos que comprar un bote para llegar a Ovis..."
+        },
+        {
+            "key": "060",
+            "value": "Y ninguno de los dos lleva tantos guiles encima."
+        },
+        {
+            "key": "061",
+            "value": "Razón por la cual debemos vender este cristal."
+        },
+        {
+            "key": "062",
+            "value": "La cabeza te funciona siempre que tienes algo que ganar..."
+        },
+        {
+            "key": "063",
+            "value": "¡Oh, vamos, reconoce que es una idea fantástica! ¡Por fin tenemos la oportunidad de cruzar el lago hacia Ovis!"
+        },
+        {
+            "key": "064",
+            "value": "Hmf... Mejor me lo quedo yo. Conociéndote, igual hasta se te cae en cuanto te quedes dormida."
+        },
+        {
+            "key": "065",
+            "value": "Qué mal pensado... Eso no me pasaría nunca... Creo."
+        },
+        {
+            "key": "066",
+            "value": "Dice la que se durmió durante un momento crucial de la historia de su país."
+        },
+        {
+            "key": "067",
+            "value": "En cualquier caso, ya va siendo hora de salir de este bosque."
+        },
+        {
+            "key": "068",
+            "value": "La próxima vez que te quedes dormida, me voy sin ti. ¿De acuerdo?"
+        },
+        {
+            "key": "069",
+            "value": "No te preocupes. Una maestra como yo podría seguirte el ritmo hasta sumida en el más cálido de los sueños."
+        },
+        {
+            "key": "070",
+            "value": "¿Puedes dormirte de pie y seguir caminando?"
+        },
+        {
+            "key": "071",
+            "value": "Parece que hay mucha gente armada."
+        },
+        {
+            "key": "072",
+            "value": "Por sus ropas... diría que son mercenarios. Esta región debe de estar en guerra."
+        },
+        {
+            "key": "073",
+            "value": "¿En guerra?..."
+        },
+        {
+            "key": "074",
+            "value": "Por cierto, la verdad es que nunca lo he entendido."
+        },
+        {
+            "key": "075",
+            "value": "¡Estoy segura de que si hablaran entre ellos llegarían a entenderse!"
+        },
+        {
+            "key": "076",
+            "value": "Ja, ja, ja..."
+        },
+        {
+            "key": "077",
+            "value": "En cualquier caso cuanta más gente haya por aquí, más fácil será obtener información."
+        },
+        {
+            "key": "078",
+            "value": "Obtener información, ¿eh?..."
+        },
+        {
+            "key": "079",
+            "value": "¿Y cómo piensas hacerlo?"
+        },
+        {
+            "key": "080",
+            "value": "Preguntando a cada persona por separado, claro..."
+        },
+        {
+            "key": "081",
+            "value": "¡Propuesta rechazada!"
+        },
+        {
+            "key": "082",
+            "value": "¿Qué?"
+        },
+        {
+            "key": "083",
+            "value": "Espera y verás, novato."
+        },
+        {
+            "key": "084",
+            "value": "¡Déjame mostrarte la forma más eficiente de recabar información!"
+        },
+        {
+            "key": "500",
+            "value": "Aaah... "
+        },
+        {
+            "key": "085",
+            "value": "¡¿Alguien ha visto un cristal núcleo?!"
+        },
+        {
+            "key": "086",
+            "value": "¡Es carmesí! ¡Si a alguien le suena, que venga a hablar conmigo enseguida!"
+        },
+        {
+            "key": "087",
+            "value": "¡¿Cetia?! ¡No deberías llamar la atención de esa forma!"
+        },
+        {
+            "key": "088",
+            "value": "¿Por qué tenemos que hablar con ellos uno a uno si así acabamos antes?"
+        },
+        {
+            "key": "089",
+            "value": "¡Es posible, pero los que no sepan de qué estás hablando pensarán que estás loca!"
+        },
+        {
+            "key": "090",
+            "value": "No será fácil encontrar a alguien que quiera hablar con nosotros ahora. Se andarán con mucho cuidado..."
+        },
+        {
+            "key": "091",
+            "value": "Hola, preciosa. ¿Acabas de decir que estás buscando un cristal carmesí?"
+        },
+        {
+            "key": "092",
+            "value": "Quizá pueda ayudarte. ¿Serías tan amable de acompañarnos?"
+        },
+        {
+            "key": "093",
+            "value": "¿Lo ves? ¡Ya te lo he dicho, novato! ¿A que ha sido fácil?"
+        },
+        {
+            "key": "094",
+            "value": "N-no me esperaba que alguien se nos acercara de verdad."
+        },
+        {
+            "key": "095",
+            "value": "Oye, Camilo, a mí no me arrastres a otra de tus estrategias de flirteo impulsivas."
+        },
+        {
+            "key": "096",
+            "value": "No te confundas. Yo soy el hombre de Machérie. Esto son SOLO negocios."
+        },
+        {
+            "key": "097",
+            "value": "De todas formas, ahora estate calladita, por favor. Estoy intentando que la cosa avance."
+        },
+        {
+            "key": "098",
+            "value": "¿Que avance el qué? ¿No bastaría con devolverle el cristal?"
+        },
+        {
+            "key": "099",
+            "value": "¡Eh! ¡Shhh!"
+        },
+        {
+            "key": "100",
+            "value": "¿Tenéis el cristal núcleo?"
+        },
+        {
+            "key": "101",
+            "value": "No sé si es un cristal núcleo o no. Pero encontramos un cristal carmesí en el bosque."
+        },
+        {
+            "key": "102",
+            "value": "Creo que este lo lleva en el bolsillo."
+        },
+        {
+            "key": "103",
+            "value": "¡E-Elsirel!"
+        },
+        {
+            "key": "104",
+            "value": "¡Oh, entonces lo habéis encontrado! ¡No sabéis la de tiempo y esfuerzo que nos habéis ahorrado! Si nos lo pudierais devolver..."
+        },
+        {
+            "key": "105",
+            "value": "No tan rápido. Lo primero es lo primero. ¿Podrías decirnos qué es exactamente este cristal?"
+        },
+        {
+            "key": "106",
+            "value": "No tengo otra forma de saber si realmente te pertenece, al fin y al cabo."
+        },
+        {
+            "key": "107",
+            "value": "¡Claro, ningún problema! Novato, dale los detalles."
+        },
+        {
+            "key": "108",
+            "value": "Oh, así que aquí es donde entro yo..."
+        },
+        {
+            "key": "109",
+            "value": "... Y eso es todo, básicamente."
+        },
+        {
+            "key": "110",
+            "value": "Así que los cristales núcleo mantienen el equilibrio del universo, ¿eh?..."
+        },
+        {
+            "key": "111",
+            "value": "Por eso es un alivio que tú lo hayas encontrado, Camilo."
+        },
+        {
+            "key": "112",
+            "value": "No te adelantes. No puedo entregároslo e irme con las manos vacías."
+        },
+        {
+            "key": "113",
+            "value": "¡¿Qué?!"
+        },
+        {
+            "key": "114",
+            "value": "Venga, Camilo. ¿Por qué no se lo devuelves?"
+        },
+        {
+            "key": "115",
+            "value": "¿Ya se te ha olvidado? Tenemos que llegar a Ovis."
+        },
+        {
+            "key": "116",
+            "value": "Y para eso necesitamos un bote. Y para conseguir un bote, necesitamos el cristal para sacarnos unos guiles."
+        },
+        {
+            "key": "117",
+            "value": "Si se lo entregamos volveremos al punto de partida: sin forma de llegar a Ovis."
+        },
+        {
+            "key": "118",
+            "value": "Eso es cierto, pero..."
+        },
+        {
+            "key": "119",
+            "value": "Es por eso que me gustaría haceros una propuesta..."
+        },
+        {
+            "key": "120",
+            "value": "¿Estaríais dispuestos a comprármelo?"
+        },
+        {
+            "key": "121",
+            "value": "Si no, quizá podríais ayudarnos a conseguir algunos guiles."
+        },
+        {
+            "key": "122",
+            "value": "Los suficientes como para comprar un bote. Y luego el cristal es vuestro. Es justo, ¿no os parece?"
+        },
+        {
+            "key": "123",
+            "value": "¿Qué hacemos, Cetia?"
+        },
+        {
+            "key": "124",
+            "value": "¡Trato hecho!"
+        },
+        {
+            "key": "125",
+            "value": "¡¿Eh?! ¿No deberíamos pensárnoslo un poco al menos?"
+        },
+        {
+            "key": "126",
+            "value": "El cristal les pertenece desde el momento en que lo han encontrado."
+        },
+        {
+            "key": "127",
+            "value": "Y tampoco tenemos derecho a quitárselo por la fuerza."
+        },
+        {
+            "key": "128",
+            "value": "Pu... Puede que tengas razón, pero el universo perderá su equilibrio si no lo recuperamos."
+        },
+        {
+            "key": "129",
+            "value": "No pareces ser consciente de lo mucho que hay en juego..."
+        },
+        {
+            "key": "130",
+            "value": "¡El universo no tiene ningún sentido sin las personas que lo habitan! ¡No se puede alcanzar la armonía sin confiar en los demás!"
+        },
+        {
+            "key": "131",
+            "value": "Ugh... Pues sí que eres tú optimista..."
+        },
+        {
+            "key": "132",
+            "value": "Y a todo esto, estamos sin blanca, ¡así que ya podemos ponernos a trabajar nosotros también!"
+        },
+        {
+            "key": "133",
+            "value": "Ah... ¡Qué sonrisa más radiante para no llevar un solo guil encima!"
+        },
+        {
+            "key": "134",
+            "value": "Solo tenemos que ganar unos cuantos para recuperar el cristal núcleo."
+        },
+        {
+            "key": "135",
+            "value": "¡Un acuerdo pacífico es lo mejor que cabía esperar!"
+        },
+        {
+            "key": "136",
+            "value": "Está bien... Quizá tengas razón, Cetia."
+        },
+        {
+            "key": "137",
+            "value": "Decidido pues. Elsirel y yo agradecemos vuestra ayuda."
+        },
+        {
+            "key": "138",
+            "value": "Y ahora que ya estamos todos de acuerdo, vayamos a buscar trabajo en la aldea más cercana."
+        },
+        {
+            "key": "139",
+            "value": "Hay muchas ofertas en tiempos de guerra. Supongo que podríamos empezar por aceptar unas cuantas misiones."
+        },
+        {
+            "key": "140",
+            "value": "Entendido. ¡Será un placer trabajar con los dos!"
+        },
+        {
+            "key": "141",
+            "value": "¡Esa es la actitud! ¡Estoy lista para empezar!"
+        }
+    ]
+}

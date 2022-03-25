@@ -1,0 +1,244 @@
+﻿{
+    "infos": [
+        {
+            "key": "711",
+            "value": "What troubles you, Gernsback...?"
+        },
+        {
+            "key": "712",
+            "value": "That conflict was supposed to drive our forces apart, yet now the assault on Ovis has somehow gained momentum..."
+        },
+        {
+            "key": "713",
+            "value": "When King Oberon took his spear in hand and faced Elan, I truly thought the time was upon us."
+        },
+        {
+            "key": "714",
+            "value": "As did I, yet there was no bloodlust in the king."
+        },
+        {
+            "key": "715",
+            "value": "It even felt as if it was simply a heavy-handed way to display our loyalty to Jayden."
+        },
+        {
+            "key": "716",
+            "value": "I imagine you are right."
+        },
+        {
+            "key": "717",
+            "value": "While we need not worry for Lady Alaya anymore, our current course makes me fear for Lady<br>Lucielle..."
+        },
+        {
+            "key": "718",
+            "value": "Our hopes rest in Garvall."
+        },
+        {
+            "key": "719",
+            "value": "They do, but I have yet to receive reports of him leaving Ovis Castle."
+        },
+        {
+            "key": "720",
+            "value": "What if Garvall fails to persuade the princess...?"
+        },
+        {
+            "key": "721",
+            "value": "Then we will find our way into the castle ahead of Rundall and convince her ourselves."
+        },
+        {
+            "key": "722",
+            "value": "There is naught else we can do."
+        },
+        {
+            "key": "723",
+            "value": "......."
+        },
+        {
+            "key": "724",
+            "value": "......!"
+        },
+        {
+            "key": "725",
+            "value": "That was Jayden."
+        },
+        {
+            "key": "726",
+            "value": "It just occurred to me—we have not seen him on the field for a time."
+        },
+        {
+            "key": "727",
+            "value": "I imagine he was simply resting while we dealt with the front lines."
+        },
+        {
+            "key": "728",
+            "value": "Yet he now takes action for some reason."
+        },
+        {
+            "key": "729",
+            "value": "Did he receive word of our conflict? Or could it be something else..."
+        },
+        {
+            "key": "730",
+            "value": "I finally caught up with you."
+        },
+        {
+            "key": "731",
+            "value": "King Jayden..."
+        },
+        {
+            "key": "732",
+            "value": "I told you to stop with that \"king\" business."
+        },
+        {
+            "key": "733",
+            "value": "Anyway... My apologies for what happened earlier."
+        },
+        {
+            "key": "734",
+            "value": "Of what do you speak...?"
+        },
+        {
+            "key": "735",
+            "value": "I received a report from Rhaldor that Elan wasn't on his best behavior."
+        },
+        {
+            "key": "736",
+            "value": "We are clearly at fault in some manner to be as untrusted as we are."
+        },
+        {
+            "key": "737",
+            "value": "......"
+        },
+        {
+            "key": "738",
+            "value": "Listen to me, Oberon."
+        },
+        {
+            "key": "739",
+            "value": "Never have I looked down upon you...or Heindler, for that matter."
+        },
+        {
+            "key": "740",
+            "value": "Not a single time."
+        },
+        {
+            "key": "741",
+            "value": "......"
+        },
+        {
+            "key": "742",
+            "value": "We may be divided in two for now, but I hope that our nations will be one someday."
+        },
+        {
+            "key": "743",
+            "value": "I hear there are those who mockingly claim \"the great stag will devour the dragon.\""
+        },
+        {
+            "key": "744",
+            "value": "But such things are not worthy of our concern."
+        },
+        {
+            "key": "745",
+            "value": "For our era to truly come, we must first unite the continent."
+        },
+        {
+            "key": "746",
+            "value": "Gilgamesh has his schemes. And then there are those beyond the Falls..."
+        },
+        {
+            "key": "747",
+            "value": "But I will not allow any of them to have their way, I promise you that."
+        },
+        {
+            "key": "748",
+            "value": "I had intended to tell this to the entirety of both our armies, but alas..."
+        },
+        {
+            "key": "749",
+            "value": "I can't help but think the soldiers of Heindler are still prone to misconstruing matters, perhaps out of wariness I suppose..."
+        },
+        {
+            "key": "750",
+            "value": "The weight of your ideals is clear. In the very least, it is to me..."
+        },
+        {
+            "key": "751",
+            "value": "I know."
+        },
+        {
+            "key": "752",
+            "value": "...What is it?"
+        },
+        {
+            "key": "753",
+            "value": "Reporting, Your Highness. The forces of Leonis have arrived at Ovis Castle."
+        },
+        {
+            "key": "754",
+            "value": "...Well, well, well. Mont doesn't waste any time, does he?"
+        },
+        {
+            "key": "755",
+            "value": "You are familiar with the king of Leonis?"
+        },
+        {
+            "key": "756",
+            "value": "I certainly am. We were on the battlefield together just recently, actually."
+        },
+        {
+            "key": "757",
+            "value": "Together, you say...? What exactly do you speak of?"
+        },
+        {
+            "key": "758",
+            "value": "We shared ranks with the allied forces of Leonis and Hourne to crush Wezette."
+        },
+        {
+            "key": "759",
+            "value": "I thought you returned to Rundall Castle..."
+        },
+        {
+            "key": "760",
+            "value": "I did, but then Alaya gave me the cold treatment..."
+        },
+        {
+            "key": "761",
+            "value": "So I took my army on a little excursion to Wezette."
+        },
+        {
+            "key": "762",
+            "value": "......"
+        },
+        {
+            "key": "763",
+            "value": "You fought alongside your enemy..."
+        },
+        {
+            "key": "764",
+            "value": "The king of Leonis was quite the man, you know?"
+        },
+        {
+            "key": "765",
+            "value": "Brave, mindful of his troops, and fearsome in his command of the ancient ring to boot."
+        },
+        {
+            "key": "766",
+            "value": "You would sing such praise for Mont..."
+        },
+        {
+            "key": "767",
+            "value": "Well deserved praise, at that."
+        },
+        {
+            "key": "768",
+            "value": "He's a worthy opponent—and one whom I cannot wait to face on the battlefield."
+        },
+        {
+            "key": "769",
+            "value": "King Jayden..."
+        },
+        {
+            "key": "770",
+            "value": "Alright, I'd say it's time to resume the assault. We take Ovis Castle in one fell swoop."
+        }
+    ]
+}

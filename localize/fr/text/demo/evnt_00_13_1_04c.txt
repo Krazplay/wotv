@@ -1,0 +1,152 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "C'est que tu cachais bien ton jeu."
+        },
+        {
+            "key": "002",
+            "value": "Alors, dis-moi."
+        },
+        {
+            "key": "003",
+            "value": "Qu'est-ce que la guilde complote ? Je veux tout savoir."
+        },
+        {
+            "key": "004",
+            "value": "Je suppose que je n'ai pas d'autre choix."
+        },
+        {
+            "key": "005",
+            "value": "La guilde a un nouveau chef."
+        },
+        {
+            "key": "006",
+            "value": "Il semblerait… Garvall, je crois."
+        },
+        {
+            "key": "007",
+            "value": "Oh, je vois que les informations circulent même jusqu'aux endroits les plus reculés…"
+        },
+        {
+            "key": "008",
+            "value": "Mon shinobi m'informe régulièrement des événements qui se produisent en terre intérieure."
+        },
+        {
+            "key": "009",
+            "value": "Attends une minute… Tu as… un shinobi ?"
+        },
+        {
+            "key": "010",
+            "value": "Et si c'était le cas ?"
+        },
+        {
+            "key": "011",
+            "value": "…"
+        },
+        {
+            "key": "012",
+            "value": "Garvall nous a ordonné de lui ramener les six épées des maîtres de l'est…"
+        },
+        {
+            "key": "013",
+            "value": "Peu importe les moyens employés."
+        },
+        {
+            "key": "014",
+            "value": "Hmm…"
+        },
+        {
+            "key": "015",
+            "value": "Pourquoi en a-t-il après ces épées ?"
+        },
+        {
+            "key": "016",
+            "value": "Lumeïde, c'est ça ? Réponds-lui."
+        },
+        {
+            "key": "017",
+            "value": "Comment le saurais-je ? … Je ne fais que me plier aux ordres."
+        },
+        {
+            "key": "018",
+            "value": "Vraiment ?"
+        },
+        {
+            "key": "019",
+            "value": "Dans ce cas, sache que vous avez voyagé pour rien."
+        },
+        {
+            "key": "020",
+            "value": "Plus personne ne se fait appeler « maître » sur ces terres."
+        },
+        {
+            "key": "021",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "022",
+            "value": "Ça veut dire ce que ça veut dire."
+        },
+        {
+            "key": "023",
+            "value": "Ils ont tous pris la direction des terres intérieures."
+        },
+        {
+            "key": "024",
+            "value": "Je n'étais pas au courant."
+        },
+        {
+            "key": "025",
+            "value": "Ils ne se cachent pas, mais ils ne se promènent pas non plus en criant leur identité sur tous les toits."
+        },
+        {
+            "key": "026",
+            "value": "Si mes calculs sont exacts, il me semble que vous n'avez plus rien à faire ici."
+        },
+        {
+            "key": "027",
+            "value": "Je suppose que tu vas retourner sur les terres intérieures ?"
+        },
+        {
+            "key": "028",
+            "value": "Tu es si impatient que ça qu'on s'en aille ?"
+        },
+        {
+            "key": "029",
+            "value": "Non, j'aimerais monter sur votre bateau."
+        },
+        {
+            "key": "030",
+            "value": "Quel bateau ?"
+        },
+        {
+            "key": "031",
+            "value": "Ne joue pas à ça avec moi."
+        },
+        {
+            "key": "032",
+            "value": "Cet énorme navire est la raison principale de ma venue jusqu'ici."
+        },
+        {
+            "key": "033",
+            "value": "Tu comptes retrouver Owe et Seymore ?"
+        },
+        {
+            "key": "034",
+            "value": "Owe n'est plus de ce monde… Il est mort."
+        },
+        {
+            "key": "035",
+            "value": "Ce… Ce n'est pas possible…"
+        },
+        {
+            "key": "036",
+            "value": "Et pourtant. J'aimerais me recueillir sur sa tombe… Alors ?"
+        },
+        {
+            "key": "037",
+            "value": "Entendu… Tu peux venir avec nous."
+        }
+    ]
+}

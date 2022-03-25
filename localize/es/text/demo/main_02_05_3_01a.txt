@@ -1,0 +1,244 @@
+﻿{
+    "infos": [
+        {
+            "key": "711",
+            "value": "¿Qué te preocupa, Ganzbak?..."
+        },
+        {
+            "key": "712",
+            "value": "Se suponía que ese conflicto debía dividir nuestras fuerzas, pero ahora el asalto a Ovis va a ocurrir antes de lo esperado..."
+        },
+        {
+            "key": "713",
+            "value": "Cuando el rey Oberón tomó su lanza y se enfrentó a Elan, de verdad creí que había llegado nuestro momento."
+        },
+        {
+            "key": "714",
+            "value": "Eso pensé yo también, pero el rey no tiene sed de sangre."
+        },
+        {
+            "key": "715",
+            "value": "Incluso creo que se trataba de una simple artimaña para que revelásemos nuestra lealtad a Jayden."
+        },
+        {
+            "key": "716",
+            "value": "Supongo que tienes razón."
+        },
+        {
+            "key": "717",
+            "value": "Aunque ya no tenemos que preocuparnos más por lady Alaia, nuestra situación actual me hace temer por lady Luciela…"
+        },
+        {
+            "key": "718",
+            "value": "Nuestra esperanza está en Garval."
+        },
+        {
+            "key": "719",
+            "value": "Sí, pero aún no tengo noticias de que haya abandonado el castillo de Ovis."
+        },
+        {
+            "key": "720",
+            "value": "¿Qué pasará si Garval no logra convencer a la princesa?"
+        },
+        {
+            "key": "721",
+            "value": "Entonces nos adelantaremos a Rundal, entraremos en el castillo y la convenceremos nosotros mismos."
+        },
+        {
+            "key": "722",
+            "value": "Es lo único que podemos hacer."
+        },
+        {
+            "key": "723",
+            "value": "..."
+        },
+        {
+            "key": "724",
+            "value": "¡...!"
+        },
+        {
+            "key": "725",
+            "value": "Ese era Jayden."
+        },
+        {
+            "key": "726",
+            "value": "Que por cierto, hace mucho que no se deja ver."
+        },
+        {
+            "key": "727",
+            "value": "Me imagino que estaba descansando mientras nos ocupábamos de las líneas enemigas en el frente."
+        },
+        {
+            "key": "728",
+            "value": "Y aun así ahora interviene."
+        },
+        {
+            "key": "729",
+            "value": "¿Acaso escuchó algo sobre nuestro conflicto? O quizás haya algo más..."
+        },
+        {
+            "key": "730",
+            "value": "Por fin nos reunimos."
+        },
+        {
+            "key": "731",
+            "value": "Rey Jayden..."
+        },
+        {
+            "key": "732",
+            "value": "Te tengo dicho que dejes de llamarme «rey»."
+        },
+        {
+            "key": "733",
+            "value": "En cualquier caso... Te pido disculpas por lo que pasó antes."
+        },
+        {
+            "key": "734",
+            "value": "¿De qué hablais?..."
+        },
+        {
+            "key": "735",
+            "value": "Recibí noticias de parte de Rhaldor de que Elan se estaba comportando de una forma problemática."
+        },
+        {
+            "key": "736",
+            "value": "Claramente es nuestra culpa que no confíen en nosotros."
+        },
+        {
+            "key": "737",
+            "value": "…"
+        },
+        {
+            "key": "738",
+            "value": "Escúchame, Oberón."
+        },
+        {
+            "key": "739",
+            "value": "Nunca te he menospreciado... ni a ti ni a Heindler."
+        },
+        {
+            "key": "740",
+            "value": "Ni una sola vez."
+        },
+        {
+            "key": "741",
+            "value": "…"
+        },
+        {
+            "key": "742",
+            "value": "Puede que en estos momentos nos encontremos separados, pero espero que nuestras naciones se unifiquen un día."
+        },
+        {
+            "key": "743",
+            "value": "Han llegado a mis oídos las palabras de algunos que se burlan diciendo que «el gran ciervo devorará al dragón»."
+        },
+        {
+            "key": "744",
+            "value": "Pero tales cosas no merecen nuestra atención."
+        },
+        {
+            "key": "745",
+            "value": "Para que nuestra era se haga realidad, debemos unificar el continente."
+        },
+        {
+            "key": "746",
+            "value": "Gilgamesh tiene sus planes. Y luego están esos más allá de la cascada..."
+        },
+        {
+            "key": "747",
+            "value": "Pero no permitiré que ninguno de ellos se salga con la suya, te lo prometo."
+        },
+        {
+            "key": "748",
+            "value": "Tenía intención de contarle todo esto a nuestros ejércitos, pero..."
+        },
+        {
+            "key": "749",
+            "value": "No puedo parar de pensar que los soldados de Heindler aún tienden a malinterpretar lo que escuchan, supongo que por desconfianza..."
+        },
+        {
+            "key": "750",
+            "value": "Vuestros ideales son claros, al menos para mí..."
+        },
+        {
+            "key": "751",
+            "value": "Lo sé."
+        },
+        {
+            "key": "752",
+            "value": "¿Qué ocurre?"
+        },
+        {
+            "key": "753",
+            "value": "Traigo noticias, majestades. Las fuerzas de Leonis han llegado al castillo de Ovis."
+        },
+        {
+            "key": "754",
+            "value": "Vaya, vaya. Mont no pierde el tiempo, ¿verdad?"
+        },
+        {
+            "key": "755",
+            "value": "¿Conocéis bien al rey de Leonis?"
+        },
+        {
+            "key": "756",
+            "value": "Lo conozco muy bien. Luchamos juntos en el campo de batalla."
+        },
+        {
+            "key": "757",
+            "value": "¿Juntos, decís?... ¿De qué estáis hablando exactamente?"
+        },
+        {
+            "key": "758",
+            "value": "Compartimos filas con las fuerzas aliadas de Leonis y Hourne para acabar con Wezette."
+        },
+        {
+            "key": "759",
+            "value": "Pensaba que volvisteis al castillo de Rundal..."
+        },
+        {
+            "key": "760",
+            "value": "Lo hice, pero entonces, Alaia empezó a comportarse de una forma muy fría..."
+        },
+        {
+            "key": "761",
+            "value": "Así que realicé una pequeña expedición a Wezette junto a mi ejército."
+        },
+        {
+            "key": "762",
+            "value": "…"
+        },
+        {
+            "key": "763",
+            "value": "Luchasteis junto a vuestro enemigo..."
+        },
+        {
+            "key": "764",
+            "value": "El rey de Leonis es un hombre hecho y derecho, ¿sabes?"
+        },
+        {
+            "key": "765",
+            "value": "Valiente, atento con su tropa, y muy hábil usando el anillo ancestral."
+        },
+        {
+            "key": "766",
+            "value": "Tales elogios para Mont..."
+        },
+        {
+            "key": "767",
+            "value": "Elogios más que merecidos."
+        },
+        {
+            "key": "768",
+            "value": "Es un oponente digno; uno al que no puedo esperar a enfrentarme de nuevo."
+        },
+        {
+            "key": "769",
+            "value": "Rey Jayden..."
+        },
+        {
+            "key": "770",
+            "value": "Muy bien, es hora de retomar el asalto. Ataquemos el castillo de Ovis de una vez."
+        }
+    ]
+}

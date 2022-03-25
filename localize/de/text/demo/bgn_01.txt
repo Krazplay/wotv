@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Willkommen, Euer Hoheit. Es ist an mir, Euch in die Grundlagen des Kampfes einzuweisen."
+        },
+        {
+            "key": "//変更無し//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Dieses Mal werden wir uns mit den verschiedenen <color=#0000ff>Angriffsarten</color> beschäftigen."
+        },
+        {
+            "key": "003",
+            "value": "Schlitzen, Durchbohren, Hiebe, Geschosse und Magie. Jeder Angriff kann einer dieser fünf <color=#0000ff>Kategorien</color> zugeordnet werden."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Darüber hinaus besitzt jede Einheit eine spezifische <color=#0000ff>Angriffsresistenz</color>."
+        },
+        {
+            "key": "008",
+            "value": "Ihr könnt die jeweiligen Angriffsresistenzen von Gegnern einsehen, indem Ihr das <color=#0000ff>Lupensymbol</color> antippt."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "009",
+            "value": "Da Euer Hoheit <color=#0000ff>Schwert Schlitzschaden zufügt</color>, solltet Ihr Gegner anvisieren, die über nur <color=#0000ff>niedrige Schlitzresistenz</color> verfügen."
+        },
+        {
+            "key": "010",
+            "value": "Mit meinem <color=#0000ff>Speer durchbohre</color> ich Gegner, weswegen ich diejenigen anvisieren werde, deren <color=#0000ff>Durchbohrresistenz gering</color> ist."
+        },
+        {
+            "key": "011",
+            "value": "Seid Ihr bereit, das Gelernte nun in der Praxis anzuwenden?"
+        },
+        {
+            "key": "012",
+            "value": "Hervorragend. Wir haben den Feind besiegt. Habt Ihr bemerkt, wie viel größer der durch Eure Attacken verursachte Schaden ausfällt, wenn Ihr auf Resistenzen achtet?"
+        },
+        {
+            "key": "013",
+            "value": "Habt Ihr Euch erst einmal an dieses System gewöhnt, solltet Ihr in der Lage sein, auch ohne Antippen des Lupensymbols die Resistenzen von Gegnern allein durch einen Blick auf <color=#0000ff>ihre LP-Leiste</color> bis zu einem gewissen Grad vorherzusagen."
+        },
+        {
+            "key": "014",
+            "value": "Es zahlt sich im Kampf stets aus, auf Angriffsarten und Resistenzen zu achten."
+        }
+    ]
+}

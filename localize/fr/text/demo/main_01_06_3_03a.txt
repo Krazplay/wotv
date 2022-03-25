@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "On ne te lâchera pas !"
+        },
+        {
+            "key": "002",
+            "value": "Je vois ça..."
+        },
+        {
+            "key": "003",
+            "value": "Bon, j'imagine qu'il va falloir que je vous affronte."
+        },
+        {
+            "key": "004",
+            "value": "Tu t'es résignée ?"
+        },
+        {
+            "key": "005",
+            "value": "Vous savez ce qu'on dit des chiens... plus c'est petit, plus ça grogne..."
+        },
+        {
+            "key": "006",
+            "value": "Qui tu traites de chiens ?"
+        },
+        {
+            "key": "007",
+            "value": "Comment ils s'appelaient, déjà ? Xiza et Vistral, c'est ça ?"
+        },
+        {
+            "key": "008",
+            "value": "Vous êtes conscients qu'ils ne sont plus avec vous ?"
+        },
+        {
+            "key": "009",
+            "value": "On n'a pas besoin d'eux pour une larve comme toi !"
+        },
+        {
+            "key": "010",
+            "value": "Oh, vous croyez ?"
+        },
+        {
+            "key": "011",
+            "value": "Moquez-vous autant qu'il vous plaira, je ne suis qu'une samouraï de la petite nation d'Ovis, après tout."
+        },
+        {
+            "key": "012",
+            "value": "Et puis..."
+        },
+        {
+            "key": "013",
+            "value": "Vous aurez toute l'éternité de la mort pour vous en mordre les doigts."
+        }
+    ]
+}

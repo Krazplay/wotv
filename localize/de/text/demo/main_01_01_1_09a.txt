@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Wie viele von denen gibt es?!"
+        },
+        {
+            "key": "002",
+            "value": "Hm."
+        },
+        {
+            "key": "003",
+            "value": "Was gibt es? Werdet Ihr wieder vorschlagen, den Rückzug anzutreten?"
+        },
+        {
+            "key": "004",
+            "value": "Es bleibt uns keine andere Wahl. Euer Überleben hat höchste Priorität."
+        },
+        {
+            "key": "005",
+            "value": "Bringt mich nicht zum Lachen."
+        },
+        {
+            "key": "006",
+            "value": "Denkt Ihr etwa, dass ich mich von Gesindel wie diesem einschüchtern lasse?"
+        },
+        {
+            "key": "007",
+            "value": "Huahaha! Sehr tapfer, Prinzessin."
+        },
+        {
+            "key": "008",
+            "value": "Erlaubt mir, Euch und Eurem Sohn zu demonstrieren, wie sich eine Dame von Stand auf dem Schlachtfeld beträgt."
+        },
+        {
+            "key": "009",
+            "value": "Schuzelt! Angriff!"
+        },
+        {
+            "key": "010",
+            "value": "Jawohl, Euer Hoheit!"
+        },
+        {
+            "key": "011",
+            "value": "Du hast vor zu kämpfen? Das kann nicht dein Ernst sein!"
+        }
+    ]
+}

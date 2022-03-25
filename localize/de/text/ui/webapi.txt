@@ -1,0 +1,1760 @@
+﻿{
+    "infos": [
+        {
+            "key": "ERROR_CONNECT",
+            "value": "Serververbindung fehlgeschlagen."
+        },
+        {
+            "key": "MAINTENANCE",
+            "value": "Wartungsarbeiten. <br>Weitere Informationen findest du in den Neuigkeiten."
+        },
+        {
+            "key": "ACCOUNT_BAN",
+            "value": "Konto wurde gesperrt."
+        },
+        {
+            "key": "VERSION_UPDATE",
+            "value": "Bitte aktualisiere deine Version."
+        },
+        {
+            "key": "DLC_UPDATE",
+            "value": "Es sind DLC-Updates verfügbar."
+        },
+        {
+            "key": "SESSION_ERROR",
+            "value": "Sitzung abgelaufen."
+        },
+        {
+            "key": "INVALID_DEVICE",
+            "value": "Kein Spielkonto gefunden.<br>Konto wird zurückgesetzt."
+        },
+        {
+            "key": "NOTICE",
+            "value": "Diese Funktion wurde vorübergehend deaktiviert. <br>Weitere Informationen findest du in deinen Neuigkeiten."
+        },
+        {
+            "key": "TITLE_NOTICE",
+            "value": "Neuigkeiten"
+        },
+        {
+            "key": "OVER_DAY",
+            "value": "Der nächste Tag hat begonnen."
+        },
+        {
+            "key": "TITLE_OVER_DAY",
+            "value": "Datum einstellen"
+        },
+        {
+            "key": "CONNECT_DEVICE_DOES_NOT_EXIST",
+            "value": "Kein Spielkonto gefunden."
+        },
+        {
+            "key": "HAS_ADD_DEVICE_CONNECT_NOT_FOUND",
+            "value": "Keine Informationen über Datenverknüpfung gefunden."
+        },
+        {
+            "key": "HAS_IDPW_USER_NOT_FOUND",
+            "value": "Kein Nutzer für die Datenverknüpfung gefunden."
+        },
+        {
+            "key": "HAS_IDPW_INVALID_SCHEMA",
+            "value": "Ungültiges Passwort für die Datenverknüpfung."
+        },
+        {
+            "key": "HAS_IDPW_VERIFY_FAILES",
+            "value": "Autorisierung der Datenverknüpfung fehlgeschlagen."
+        },
+        {
+            "key": "HAS_BRIDGE_USER_NOT_FOUND",
+            "value": "Nicht bei SQUARE ENIX BRIDGE registriert."
+        },
+        {
+            "key": "HAS_BRIDGE_FAILES_TITLE",
+            "value": "Vorgang abgebrochen"
+        },
+        {
+            "key": "HAS_BRIDGE_FAILES",
+            "value": "Der Vorgang wurde unterbrochen.<br>Wenn dies nicht beabsichtigt war, lag vermutlich ein Fehler zugrunde.<br>Bitte wende dich über den Titelbildschirm an unseren Support."
+        },
+        {
+            "key": "APP_ERROR_UNKNOWN",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_10",
+            "value": "Bei deinem Kaufvorgang ist ein Fehler aufgetreten.<br>Es könnte etwas dauern, bis deine gekauften Elemente im Spiel registriert werden.<br><br>Bitte starte das Spiel und/oder dein Gerät neu und überprüfe deine Einkäufe erneut."
+        },
+        {
+            "key": "APP_ERROR_501",
+            "value": "Nicht genug Münzen/Medaillen."
+        },
+        {
+            "key": "APP_ERROR_502",
+            "value": "Nicht genug Gegenstände."
+        },
+        {
+            "key": "APP_ERROR_503",
+            "value": "Du kannst keine Gil mehr tragen."
+        },
+        {
+            "key": "APP_ERROR_505",
+            "value": "Unbekannte Belohnung."
+        },
+        {
+            "key": "APP_ERROR_506",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_507",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_508",
+            "value": "Nicht genug Gil."
+        },
+        {
+            "key": "APP_ERROR_511",
+            "value": "Datenfehler: Problem(e) in den Abschlussdaten festgestellt."
+        },
+        {
+            "key": "APP_ERROR_1000",
+            "value": "Konto existiert nicht."
+        },
+        {
+            "key": "APP_ERROR_1001",
+            "value": "Du kannst keine weitere Ausdauer entgegennehmen."
+        },
+        {
+            "key": "APP_ERROR_1002",
+            "value": "Ausdauer-Auffüllungslimit erreicht. (Visiore)"
+        },
+        {
+            "key": "APP_ERROR_1003",
+            "value": "Ausdauer-Auffüllungslimit erreicht. (Gegenstände)"
+        },
+        {
+            "key": "APP_ERROR_1004",
+            "value": "Arenajuwel-Auffüllungslimit erreicht. (Visiore)"
+        },
+        {
+            "key": "APP_ERROR_1005",
+            "value": "Arenajuwel-Auffüllungslimit erreicht. (Gegenstände)"
+        },
+        {
+            "key": "APP_ERROR_1006",
+            "value": "Wenn du deinen Spielernamen änderst, musst du 10 Tage warten, bevor du ihn erneut ändern kannst.<br><br>Spieler auf Royalem Rang 2 oder höher sind davon allerdings ausgenommen."
+        },
+        {
+            "key": "APP_ERROR_1007",
+            "value": "Ungültige Eingabe."
+        },
+        {
+            "key": "APP_ERROR_1008",
+            "value": "Ungültige Eingabe."
+        },
+        {
+            "key": "APP_ERROR_1009",
+            "value": "Name nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_1010",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_1100",
+            "value": "Unbekannte Einheit."
+        },
+        {
+            "key": "APP_ERROR_1101",
+            "value": "Unbekannter Job."
+        },
+        {
+            "key": "APP_ERROR_1102",
+            "value": "Unbekannte Fähigkeit."
+        },
+        {
+            "key": "APP_ERROR_1103",
+            "value": "Einheitenstufe zu niedrig."
+        },
+        {
+            "key": "APP_ERROR_1104",
+            "value": "Nicht genug JP."
+        },
+        {
+            "key": "APP_ERROR_1105",
+            "value": "Jobstufe der Einheit ist zu niedrig."
+        },
+        {
+            "key": "APP_ERROR_1106",
+            "value": "Kenntnisse der Einheit reichen nicht aus."
+        },
+        {
+            "key": "APP_ERROR_1107",
+            "value": "Training für ausgewählte Einheit nicht möglich."
+        },
+        {
+            "key": "APP_ERROR_1108",
+            "value": "Job kann nicht angewendet werden."
+        },
+        {
+            "key": "APP_ERROR_1109",
+            "value": "Einheit ist vollständig erweckt."
+        },
+        {
+            "key": "APP_ERROR_1110",
+            "value": "Maximale Limitbruch-Stufe erreicht."
+        },
+        {
+            "key": "APP_ERROR_1111",
+            "value": "Maximale Jobstufe erreicht."
+        },
+        {
+            "key": "APP_ERROR_1112",
+            "value": "Erweckungsgrad der Einheit reicht nicht für einen Limitbruch."
+        },
+        {
+            "key": "APP_ERROR_1113",
+            "value": "Maximale Fähigkeitenstufe erreicht."
+        },
+        {
+            "key": "APP_ERROR_1114",
+            "value": "Diese Fähigkeit kann nicht als Unterstützungsfähigkeit eingerichtet werden."
+        },
+        {
+            "key": "APP_ERROR_1115",
+            "value": "Diese Fähigkeit kann nicht als Reaktionsfähigkeit eingerichtet werden."
+        },
+        {
+            "key": "APP_ERROR_1116",
+            "value": "Diese Fähigkeit kann nicht eingerichtet werden."
+        },
+        {
+            "key": "APP_ERROR_1117",
+            "value": "Diese Fähigkeit ist bereits einem anderen Slot zugewiesen."
+        },
+        {
+            "key": "APP_ERROR_1118",
+            "value": "Dieses Fähigkeitenbrett ist bereits freigeschaltet."
+        },
+        {
+            "key": "APP_ERROR_1119",
+            "value": "Diese Einheit besitzt keine Meisterfähigkeit."
+        },
+        {
+            "key": "APP_ERROR_1120",
+            "value": "Diese Einheit besitzt keinen Limitrausch."
+        },
+        {
+            "key": "APP_ERROR_1121",
+            "value": "Maximale Limitrausch-Stufe erreicht."
+        },
+        {
+            "key": "APP_ERROR_1122",
+            "value": "Kann nicht ausgerüstet werden."
+        },
+        {
+            "key": "APP_ERROR_1123",
+            "value": "Bereits mit einem anderen Slot verknüpft."
+        },
+        {
+            "key": "APP_ERROR_1124",
+            "value": "Kann nicht ausgerüstet werden."
+        },
+        {
+            "key": "APP_ERROR_1125",
+            "value": "Kann nicht ausgerüstet werden."
+        },
+        {
+            "key": "APP_ERROR_1126",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_1127",
+            "value": "Einheit nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_1133",
+            "value": "Aussehensänderung fehlgeschlagen.<br> Ausrüstungsbedingungen nicht erfüllt."
+        },
+        {
+            "key": "APP_ERROR_1200",
+            "value": "Esper unbekannt."
+        },
+        {
+            "key": "APP_ERROR_1201",
+            "value": "Esperstufe zu niedrig."
+        },
+        {
+            "key": "APP_ERROR_1202",
+            "value": "Nicht genug Esper-SP."
+        },
+        {
+            "key": "APP_ERROR_1203",
+            "value": "Esper ist vollständig erweckt."
+        },
+        {
+            "key": "APP_ERROR_1204",
+            "value": "Dieses Fähigkeitenbrett kann nicht freigeschaltet werden."
+        },
+        {
+            "key": "APP_ERROR_1205",
+            "value": "Dieses Fähigkeitenbrett ist bereits freigeschaltet."
+        },
+        {
+            "key": "APP_ERROR_1300",
+            "value": "Dieser Ausrüstungsgegenstand existiert nicht."
+        },
+        {
+            "key": "APP_ERROR_1301",
+            "value": "Ausrüstung ist vollständig erweckt."
+        },
+        {
+            "key": "APP_ERROR_1302",
+            "value": "Maximale Ausrüstungsstufe erreicht."
+        },
+        {
+            "key": "APP_ERROR_1303",
+            "value": "Ausrüstungsstufe zu niedrig."
+        },
+        {
+            "key": "APP_ERROR_1304",
+            "value": "Maximale Slot-Anzahl erreicht."
+        },
+        {
+            "key": "APP_ERROR_1305",
+            "value": "Ausrüstungs-ID nicht spezifiziert."
+        },
+        {
+            "key": "APP_ERROR_1306",
+            "value": "Ausrüstung konnte nicht angefertigt werden."
+        },
+        {
+            "key": "APP_ERROR_1307",
+            "value": "Ausrüstung konnte nicht zerlegt werden."
+        },
+        {
+            "key": "APP_ERROR_1308",
+            "value": "Ausrüstung konnte nicht verbessert werden."
+        },
+        {
+            "key": "APP_ERROR_1309",
+            "value": "Ausrüstung konnte nicht verkauft werden."
+        },
+        {
+            "key": "APP_ERROR_1310",
+            "value": "Die Herstellung dieser Ausrüstung wurde vorrübergehend eingestellt."
+        },
+        {
+            "key": "APP_ERROR_1311",
+            "value": "Unter den ausgewählten Gegenständen befindet sich unverkäufliche Ausrüstung."
+        },
+        {
+            "key": "APP_ERROR_1400",
+            "value": "Visionskarte existiert nicht."
+        },
+        {
+            "key": "APP_ERROR_1401",
+            "value": "Visionskarte ist vollständig erweckt."
+        },
+        {
+            "key": "APP_ERROR_1402",
+            "value": "Maximale Visionskartenstufe erreicht."
+        },
+        {
+            "key": "APP_ERROR_1403",
+            "value": "Visionskartenstufe zu niedrig."
+        },
+        {
+            "key": "APP_ERROR_1404",
+            "value": "Maximale Kartenslot-Anzahl erreicht."
+        },
+        {
+            "key": "APP_ERROR_1405",
+            "value": "Visionskarten-ID nicht spezifiziert."
+        },
+        {
+            "key": "APP_ERROR_1406",
+            "value": "Visionskarte konnte nicht verbessert werden."
+        },
+        {
+            "key": "APP_ERROR_1407",
+            "value": "Visionskarte konnte nicht verkauft werden."
+        },
+        {
+            "key": "APP_ERROR_1500",
+            "value": "Geschenk nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_1501",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_1502",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_1503",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_1600",
+            "value": "Gruppe nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_1601",
+            "value": "Gruppenaufstellung konnte nicht erstellt werden."
+        },
+        {
+            "key": "APP_ERROR_1602",
+            "value": "Gruppenaufstellung konnte nicht erstellt werden."
+        },
+        {
+            "key": "APP_ERROR_1603",
+            "value": "Ungültige Eingabe."
+        },
+        {
+            "key": "APP_ERROR_1700",
+            "value": "Freund existiert nicht."
+        },
+        {
+            "key": "APP_ERROR_1701",
+            "value": "Deine Freundesliste ist voll. Freundesanfrage konnte nicht gesendet werden."
+        },
+        {
+            "key": "APP_ERROR_1702",
+            "value": "Deine Freundesliste ist voll. Freundesanfrage konnte nicht angenommen werden."
+        },
+        {
+            "key": "APP_ERROR_1703",
+            "value": "Freundesanfrage existiert nicht."
+        },
+        {
+            "key": "APP_ERROR_1704",
+            "value": "ID nicht spezifiziert."
+        },
+        {
+            "key": "APP_ERROR_1705",
+            "value": "Gesuchter Spieler nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_1706",
+            "value": "Bei der gesuchten Spieler-ID handelt es sich um die eigene."
+        },
+        {
+            "key": "APP_ERROR_1707",
+            "value": "Geschenk konnte nicht angenommen werden."
+        },
+        {
+            "key": "APP_ERROR_1708",
+            "value": "Wunschgeschenk existiert nicht."
+        },
+        {
+            "key": "APP_ERROR_1709",
+            "value": "Freundesanfrage konnte nicht gesendet werden."
+        },
+        {
+            "key": "APP_ERROR_1710",
+            "value": "Dieser Spieler befindet sich auf deiner Sperrliste."
+        },
+        {
+            "key": "APP_ERROR_1800",
+            "value": "Sperrliste existiert nicht."
+        },
+        {
+            "key": "APP_ERROR_1801",
+            "value": "Deine Sperrliste ist voll.<br>Der Spieler konnte nicht gesperrt werden."
+        },
+        {
+            "key": "APP_ERROR_1802",
+            "value": "Bei der ausgewählten Spieler-ID handelt es sich um die eigene."
+        },
+        {
+            "key": "APP_ERROR_2000",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2001",
+            "value": "Maximale Kosten überschritten."
+        },
+        {
+            "key": "APP_ERROR_2002",
+            "value": "Dieser Auftrag steht derzeit nicht zur Verfügung."
+        },
+        {
+            "key": "APP_ERROR_2003",
+            "value": "Auftrag konnte nicht gestartet werden. Dieser Auftrag steht derzeit nicht zur Verfügung."
+        },
+        {
+            "key": "APP_ERROR_2004",
+            "value": "Auftrag konnte nicht gestartet werden, da die Auftragsvoraussetzungen nicht erfüllt sind."
+        },
+        {
+            "key": "APP_ERROR_2005",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2006",
+            "value": "Unbekannte Einheit in Gruppenaufstellung."
+        },
+        {
+            "key": "APP_ERROR_2007",
+            "value": "Unterbrochenes Spiel konnte nicht wiederhergestellt werden."
+        },
+        {
+            "key": "APP_ERROR_2008",
+            "value": "Fortsetzen nicht möglich."
+        },
+        {
+            "key": "APP_ERROR_2009",
+            "value": "Die maximale Anzahl Versuche für heute wurde erreicht."
+        },
+        {
+            "key": "APP_ERROR_2010",
+            "value": "Dies entspricht nicht den Aufstellungsregeln."
+        },
+        {
+            "key": "APP_ERROR_2011",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2012",
+            "value": "Gewählter Begleiter nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_2100",
+            "value": "Raum nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_2101",
+            "value": "Du befindest dich nicht im Raum."
+        },
+        {
+            "key": "APP_ERROR_2102",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_2103",
+            "value": "Der Gastgeber hat den Aufbruch noch nicht angeordnet."
+        },
+        {
+            "key": "APP_ERROR_2104",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2105",
+            "value": "Mitglieder sind bereits aufgebrochen."
+        },
+        {
+            "key": "APP_ERROR_2106",
+            "value": "Zurückkehren nicht möglich, da Kampf bereits beendet ist."
+        },
+        {
+            "key": "APP_ERROR_2150",
+            "value": "Überspringticket kann nicht eingesetzt werden."
+        },
+        {
+            "key": "APP_ERROR_2151",
+            "value": "Überspringticket kann nicht eingesetzt werden, da noch nicht alle Missionen abgeschlossen wurden."
+        },
+        {
+            "key": "APP_ERROR_2152",
+            "value": "Ungültige Eingabe."
+        },
+        {
+            "key": "APP_ERROR_2153",
+            "value": "Begleiter konnte nicht aktualisiert werden."
+        },
+        {
+            "key": "APP_ERROR_2161",
+            "value": "Auftrag wurde geschlossen."
+        },
+        {
+            "key": "APP_ERROR_2163",
+            "value": "Ein Fehler ist während des Überspringens aufgetreten.<br>Das Resultat direkt vor dem Auftreten des Fehlers wird angewandt.<br>Kehre zum Titelbildschirm zurück."
+        },
+        {
+            "key": "APP_ERROR_2200",
+            "value": "Kraftprobe nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_2201",
+            "value": "Zeitraum der Kraftprobe ist abgelaufen."
+        },
+        {
+            "key": "APP_ERROR_2202",
+            "value": "Kraftprobenbelohnung kann nicht mehr abgeholt werden (Frist abgelaufen)."
+        },
+        {
+            "key": "APP_ERROR_2203",
+            "value": "Wertungszeitraum für Kraftproben-Ranglisten ist abgelaufen."
+        },
+        {
+            "key": "APP_ERROR_2204",
+            "value": "Kraftproben-Boss nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_2205",
+            "value": "Unbekannter Kraftproben-Boss."
+        },
+        {
+            "key": "APP_ERROR_2206",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_2207",
+            "value": "Der Kraftproben-Boss ist entkommen."
+        },
+        {
+            "key": "APP_ERROR_2208",
+            "value": "Unbekannter Raum."
+        },
+        {
+            "key": "APP_ERROR_2209",
+            "value": "Nicht während einer Konfrontation mit einem Kraftproben-Boss."
+        },
+        {
+            "key": "APP_ERROR_2210",
+            "value": "Bereits in einer Konfrontation mit einem Kraftproben-Boss."
+        },
+        {
+            "key": "APP_ERROR_2211",
+            "value": "Raum nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_2212",
+            "value": "Der Kraftproben-Boss wurde bereits besiegt."
+        },
+        {
+            "key": "APP_ERROR_2213",
+            "value": "Angriff nicht möglich, da du nicht der Anführer dieser Kraftprobe bist."
+        },
+        {
+            "key": "APP_ERROR_2214",
+            "value": "Kraftproben-Boss konnte nicht herausgefordert werden."
+        },
+        {
+            "key": "APP_ERROR_2215",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2216",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2217",
+            "value": "Alle Versuche wurden verbraucht."
+        },
+        {
+            "key": "APP_ERROR_2218",
+            "value": "Keine Mitglieder im Raum."
+        },
+        {
+            "key": "APP_ERROR_2219",
+            "value": "Kraftprobenauftrag nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_2220",
+            "value": "Unbekannter Kraftprobenauftrag."
+        },
+        {
+            "key": "APP_ERROR_2221",
+            "value": "Kann nicht gestartet werden, da bereits eine Kraftprobe stattfindet."
+        },
+        {
+            "key": "APP_ERROR_2222",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2223",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2224",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2225",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2226",
+            "value": "Kraftprobenjuwelen können kein weiteres Mal aufgefüllt werden.<br>(Visiore)"
+        },
+        {
+            "key": "APP_ERROR_2227",
+            "value": "Kraftprobenjuwelen können nicht weiter aufgefüllt werden."
+        },
+        {
+            "key": "APP_ERROR_2228",
+            "value": "Mit diesem Gegenstand können keine RP regeneriert werden."
+        },
+        {
+            "key": "APP_ERROR_2229",
+            "value": "Kraftprobenjuwelen können kein weiteres Mal aufgefüllt werden.<br>(Gegenstand)"
+        },
+        {
+            "key": "APP_ERROR_2230",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2231",
+            "value": "Für diese Kraftprobe gibt es bereits einen Herausforderer."
+        },
+        {
+            "key": "APP_ERROR_2232",
+            "value": "Kraftprobenbelohnungen konnten nicht abgeholt werden."
+        },
+        {
+            "key": "APP_ERROR_2233",
+            "value": "Der Kraftproben-Boss wurde nicht besiegt."
+        },
+        {
+            "key": "APP_ERROR_2234",
+            "value": "Es konnte keine Verstärkung gerufen werden."
+        },
+        {
+            "key": "APP_ERROR_2235",
+            "value": "Raum konnte nicht betreten werden, da die Mitglieder bereits aufgebrochen sind."
+        },
+        {
+            "key": "APP_ERROR_2236",
+            "value": "Es können keine weiteren Kraftprobenaufträge gestartet werden (Auftragslimit erreicht)."
+        },
+        {
+            "key": "APP_ERROR_2237",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_2238",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2239",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2240",
+            "value": "Du kannst für keine weiteren Kraftproben die Anführerrolle übernehmen (Limit erreicht)."
+        },
+        {
+            "key": "APP_ERROR_2241",
+            "value": "Ungültige Eingabe."
+        },
+        {
+            "key": "APP_ERROR_2243",
+            "value": "Zurückkehren nicht möglich, da Kampf bereits beendet ist."
+        },
+        {
+            "key": "APP_ERROR_2300",
+            "value": "Der Laden hat derzeit nicht geöffnet."
+        },
+        {
+            "key": "APP_ERROR_2301",
+            "value": "Der Launische Laden hat derzeit nicht geöffnet."
+        },
+        {
+            "key": "APP_ERROR_2302",
+            "value": "Einkaufslimit überschritten."
+        },
+        {
+            "key": "APP_ERROR_2303",
+            "value": "Der Gegenstand, den du zu kaufen versuchst, ist unbekannt."
+        },
+        {
+            "key": "APP_ERROR_2304",
+            "value": "Einkaufslimit überschritten."
+        },
+        {
+            "key": "APP_ERROR_2305",
+            "value": "Einkaufslimit überschritten."
+        },
+        {
+            "key": "APP_ERROR_2306",
+            "value": "Diese Ware ist derzeit nicht erhältlich."
+        },
+        {
+            "key": "APP_ERROR_2307",
+            "value": "Der Laden wurde aktualisiert."
+        },
+        {
+            "key": "APP_ERROR_2308",
+            "value": "Laden nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_2309",
+            "value": "Fehler im Zusammenhang mit dem Laden. (Verlosungsdaten nicht gefunden.)"
+        },
+        {
+            "key": "APP_ERROR_2310",
+            "value": "Ungültige Zahlungsmethode."
+        },
+        {
+            "key": "APP_ERROR_2311",
+            "value": "Fehler im Zusammenhang mit dem Laden. (Verlosungsdaten nicht gefunden.)"
+        },
+        {
+            "key": "APP_ERROR_2312",
+            "value": "Fehler im Zusammenhang mit dem Laden. (Verlosungsdaten nicht gefunden.)"
+        },
+        {
+            "key": "APP_ERROR_2313",
+            "value": "Fehler im Zusammenhang mit dem Laden. (Verlosungsdaten nicht gefunden.)"
+        },
+        {
+            "key": "APP_ERROR_2314",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2324",
+            "value": "Handel konnte nicht durchgeführt werden."
+        },
+        {
+            "key": "APP_ERROR_2327",
+            "value": "Es kann nicht eine größere Anzahl erworben werden, als in einer Transaktion möglich."
+        },
+        {
+            "key": "APP_ERROR_2328",
+            "value": "Das Ladensortiment wurde aktualisiert."
+        },
+        {
+            "key": "APP_ERROR_2400",
+            "value": "Beschwörung konnte nicht ausgeführt werden."
+        },
+        {
+            "key": "APP_ERROR_2401",
+            "value": "Beschwörung konnte nicht ausgeführt werden."
+        },
+        {
+            "key": "APP_ERROR_2402",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2403",
+            "value": ""
+        },
+        {
+            "key": "APP_ERROR_2404",
+            "value": "Alle Beschwörungsversuche sind aufgebraucht."
+        },
+        {
+            "key": "APP_ERROR_2405",
+            "value": "Alle Beschwörungsversuche sind aufgebraucht."
+        },
+        {
+            "key": "APP_ERROR_2406",
+            "value": "Beschwörung kann nicht ausgeführt werden (nicht genügend Visiore/Tickets)."
+        },
+        {
+            "key": "APP_ERROR_2407",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2408",
+            "value": "Beschwörungszeitraum ist abgelaufen."
+        },
+        {
+            "key": "APP_ERROR_2409",
+            "value": "Beschwörungsfehler. (Bereits beschworen.)"
+        },
+        {
+            "key": "APP_ERROR_2410",
+            "value": "Beschwörungsfehler. (Erneute Beschwörung wird versucht.)"
+        },
+        {
+            "key": "APP_ERROR_2411",
+            "value": "Erneutes Beschwören nicht möglich (Versuche aufgebraucht)."
+        },
+        {
+            "key": "APP_ERROR_2412",
+            "value": "Unbekannte Beschwörung."
+        },
+        {
+            "key": "APP_ERROR_2413",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2414",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2415",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2416",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2417",
+            "value": "Beschwörung konnte nicht ausgeführt werden."
+        },
+        {
+            "key": "APP_ERROR_2418",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2419",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2420",
+            "value": "Beschwörungsfehler. (Verlosungsdaten nicht gefunden.)"
+        },
+        {
+            "key": "APP_ERROR_2421",
+            "value": "Beschwörungsfehler."
+        },
+        {
+            "key": "APP_ERROR_2422",
+            "value": "Beschwörungsfehler."
+        },
+        {
+            "key": "APP_ERROR_2423",
+            "value": "Beschwörungsfehler."
+        },
+        {
+            "key": "APP_ERROR_2424",
+            "value": "Beschwörungsfehler."
+        },
+        {
+            "key": "APP_ERROR_2427",
+            "value": "Kann nicht durchgeführt werden, da der Rückkehrerzeitraum vorbei ist."
+        },
+        {
+            "key": "APP_ERROR_2501",
+            "value": "Herausforderungsmission derzeit nicht verfügbar."
+        },
+        {
+            "key": "APP_ERROR_2531",
+            "value": "Mission derzeit nicht verfügbar."
+        },
+        {
+            "key": "APP_ERROR_2560",
+            "value": "Freischaltbedingungen sind nicht erfüllt."
+        },
+        {
+            "key": "APP_ERROR_2600",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2601",
+            "value": "Nicht genügend Visiore."
+        },
+        {
+            "key": "APP_ERROR_2602",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2603",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2604",
+            "value": "Du versuchst, eine unbekannte Region zu betreten."
+        },
+        {
+            "key": "APP_ERROR_2605",
+            "value": "Mit diesem Gegenstand kann keine Blitz-Expedition gestartet werden."
+        },
+        {
+            "key": "APP_ERROR_2606",
+            "value": "Heute sind keine weiteren Blitz-Expeditionen möglich (Versuche aufgebraucht)."
+        },
+        {
+            "key": "APP_ERROR_2607",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2608",
+            "value": "Es können keine Gegenstände geborgen werden."
+        },
+        {
+            "key": "APP_ERROR_2609",
+            "value": "Unbekannte Einheit."
+        },
+        {
+            "key": "APP_ERROR_2700",
+            "value": "Bitte warte einen Moment bis zur Eingabe."
+        },
+        {
+            "key": "APP_ERROR_2701",
+            "value": "Kanal nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_2702",
+            "value": "Unbekannter Sticker."
+        },
+        {
+            "key": "APP_ERROR_2703",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_2704",
+            "value": "Dieses Konto hat gegen die Nutzungsbedingungen verstoßen und kann als Folge den Chat nicht mehr benutzen."
+        },
+        {
+            "key": "APP_ERROR_2800",
+            "value": "Datum existiert nicht."
+        },
+        {
+            "key": "APP_ERROR_2900",
+            "value": "Eventzeitraum weicht ab."
+        },
+        {
+            "key": "APP_ERROR_2901",
+            "value": "Keine Gruppe ausgewählt."
+        },
+        {
+            "key": "APP_ERROR_2902",
+            "value": "Ungültige Gruppe."
+        },
+        {
+            "key": "APP_ERROR_2903",
+            "value": "Ungültige Kampfbilanz."
+        },
+        {
+            "key": "APP_ERROR_3000",
+            "value": "Spieler gehört bereits einer Gilde an."
+        },
+        {
+            "key": "APP_ERROR_3001",
+            "value": "Gilde nicht gefunden."
+        },
+        {
+            "key": "APP_ERROR_3002",
+            "value": "Du gehörst keiner Gilde an."
+        },
+        {
+            "key": "APP_ERROR_3003",
+            "value": "Ungültige Eingabe."
+        },
+        {
+            "key": "APP_ERROR_3004",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3005",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3006",
+            "value": "Unbekanntes Emblem."
+        },
+        {
+            "key": "APP_ERROR_3007",
+            "value": "Nach dem Austritt aus einer Gilde müssen<br>24 Stunden verstreichen, bis du<br>einer neuen Gilde beitreten kannst."
+        },
+        {
+            "key": "APP_ERROR_3008",
+            "value": "Es können keine weiteren Mitglieder aufgenommen werden (Limit erreicht)."
+        },
+        {
+            "key": "APP_ERROR_3009",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3010",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3011",
+            "value": "Du kannst als Gildenvorstand nicht aus der Gilde austreten. Übertrage dein Amt auf ein anderes Mitglied, bevor du die Gilde verlässt."
+        },
+        {
+            "key": "APP_ERROR_3012",
+            "value": "Bereits anwesend."
+        },
+        {
+            "key": "APP_ERROR_3013",
+            "value": "Die Anwesenheitsfunktion wurde noch nicht freigeschaltet."
+        },
+        {
+            "key": "APP_ERROR_3014",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3015",
+            "value": "Maximale Anzahl an Stellvertretern erreicht."
+        },
+        {
+            "key": "APP_ERROR_3016",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3017",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3018",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3019",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3020",
+            "value": "Beitrittsanfrage an die Gilde geschickt."
+        },
+        {
+            "key": "APP_ERROR_3021",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3022",
+            "value": "Keine Beitrittsanfrage gefunden."
+        },
+        {
+            "key": "APP_ERROR_3023",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3025",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3026",
+            "value": "Bereits abgeholt."
+        },
+        {
+            "key": "APP_ERROR_3027",
+            "value": "Bereits abgeholt."
+        },
+        {
+            "key": "APP_ERROR_3028",
+            "value": "Geschenk ist abgelaufen."
+        },
+        {
+            "key": "APP_ERROR_3029",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3030",
+            "value": "Noch nicht freigeschaltet."
+        },
+        {
+            "key": "APP_ERROR_3031",
+            "value": "Maximale Stufe wurde erreicht. Keine weitere Verbesserung möglich."
+        },
+        {
+            "key": "APP_ERROR_3032",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3033",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3034",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3035",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3036",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3037",
+            "value": "Ungültige Eingabe."
+        },
+        {
+            "key": "APP_ERROR_3038",
+            "value": "Ungültige Eingabe."
+        },
+        {
+            "key": "APP_ERROR_3039",
+            "value": "Beitrittsbedingungen sind nicht erfüllt."
+        },
+        {
+            "key": "APP_ERROR_3040",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3041",
+            "value": "Dazu bist du nicht befugt."
+        },
+        {
+            "key": "APP_ERROR_3042",
+            "value": "Gildenname ist zu lang."
+        },
+        {
+            "key": "APP_ERROR_3043",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3044",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3045",
+            "value": "Freischaltbedingungen sind nicht erfüllt."
+        },
+        {
+            "key": "APP_ERROR_3046",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3047",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3048",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3049",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3050",
+            "value": "Dieses Emblem ist bereits eingerichtet."
+        },
+        {
+            "key": "APP_ERROR_3051",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3059",
+            "value": "Derzeit nicht verfügbar."
+        },
+        {
+            "key": "APP_ERROR_3060",
+            "value": "Gilden-Schnupperstunde konnte nicht gestartet werden."
+        },
+        {
+            "key": "APP_ERROR_3061",
+            "value": "Gilden-Schnupperstunde konnte nicht gestartet werden."
+        },
+        {
+            "key": "APP_ERROR_3062",
+            "value": "Gilden-Schnupperstunde konnte nicht gestartet werden."
+        },
+        {
+            "key": "APP_ERROR_3063",
+            "value": "Gilden-Schnupperstunde konnte nicht gestartet werden."
+        },
+        {
+            "key": "APP_ERROR_3064",
+            "value": "Der Spieler ist kein Neueinsteiger und kann daher nicht zum Mitglied befördert werden."
+        },
+        {
+            "key": "APP_ERROR_3065",
+            "value": "Maximal verwendbare Anzahl wurde erreicht."
+        },
+        {
+            "key": "APP_ERROR_3100",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3101",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3102",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3103",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3104",
+            "value": "Gegnerdaten wurden aktualisiert. Kampf konnte nicht gestartet werden."
+        },
+        {
+            "key": "APP_ERROR_3105",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3106",
+            "value": "Du kannst während eines Gildenkampfes<br>deine Gilde nicht auflösen."
+        },
+        {
+            "key": "APP_ERROR_3107",
+            "value": "Mitgliederdaten der Gilde aktualisiert. Du kehrst nun zum Hauptbildschirm zurück, wo die Daten neu geladen werden."
+        },
+        {
+            "key": "APP_ERROR_3108",
+            "value": "Die Kampfzeit ist vorbei."
+        },
+        {
+            "key": "APP_ERROR_3109",
+            "value": "Der Limitierte Gildenkampf hat begonnen."
+        },
+        {
+            "key": "APP_ERROR_3200",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3201",
+            "value": "Kauf nicht möglich."
+        },
+        {
+            "key": "APP_ERROR_3202",
+            "value": "Kauf nicht möglich."
+        },
+        {
+            "key": "APP_ERROR_3203",
+            "value": "Bereits gekauft."
+        },
+        {
+            "key": "APP_ERROR_3204",
+            "value": "Nicht genügend Visiore."
+        },
+        {
+            "key": "APP_ERROR_3205",
+            "value": "Kauf nicht möglich."
+        },
+        {
+            "key": "APP_ERROR_3300",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3301",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3302",
+            "value": "Event findet derzeit nicht statt."
+        },
+        {
+            "key": "APP_ERROR_3303",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3304",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3305",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3306",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3307",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3308",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3309",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3310",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3311",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3312",
+            "value": "Der Kampfzeitraum ist vorbei."
+        },
+        {
+            "key": "APP_ERROR_3400",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3401",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3402",
+            "value": "Event findet derzeit nicht statt."
+        },
+        {
+            "key": "APP_ERROR_3403",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3404",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3405",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3406",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3407",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3408",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3409",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3410",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3411",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3412",
+            "value": "Der Kampfzeitraum ist vorbei."
+        },
+        {
+            "key": "APP_ERROR_3500",
+            "value": "Duell konnte nicht gestartet werden."
+        },
+        {
+            "key": "APP_ERROR_3501",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3502",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3503",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3504",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3600",
+            "value": "Kein Tutorial gefunden."
+        },
+        {
+            "key": "APP_ERROR_3601",
+            "value": "Tutorial kann nicht gestartet werden."
+        },
+        {
+            "key": "APP_ERROR_3602",
+            "value": "Tutorial wurde bereits beendet."
+        },
+        {
+            "key": "APP_ERROR_3700",
+            "value": "Unbekannter Fehler."
+        },
+        {
+            "key": "APP_ERROR_3701",
+            "value": "Gesperrt."
+        },
+        {
+            "key": "APP_ERROR_3800",
+            "value": "Dein Rang ist nicht hoch genug, um Einladungscodes zu generieren."
+        },
+        {
+            "key": "APP_ERROR_3801",
+            "value": "Dein Rang ist nicht hoch genug, um Einladungscodes einzugeben."
+        },
+        {
+            "key": "APP_ERROR_3802",
+            "value": "Der Spieler hat die maximale Anzahl an Einladungen erreicht, die er versenden darf."
+        },
+        {
+            "key": "APP_ERROR_3803",
+            "value": "Eingegebener Einladungscode ist nicht korrekt."
+        },
+        {
+            "key": "APP_ERROR_3804",
+            "value": "Es wurde bereits ein anderer Einladungscode eingegeben."
+        },
+        {
+            "key": "APP_ERROR_4027",
+            "value": "Vertrauenssteine, die als Favoriten festgelegt sind, können nicht als Verbesserungsmaterialien verwendet werden."
+        },
+        {
+            "key": "APP_ERROR_4028",
+            "value": "Ausgerüstete Vertrauenssteine können nicht als Verbesserungsmaterialien verwendet werden."
+        },
+        {
+            "key": "APP_ERROR_4102",
+            "value": "Dieser Wechselkurs ist derzeit nicht verfügbar."
+        },
+        {
+            "key": "APP_ERROR_4106",
+            "value": "Kampagne wird derzeit nicht abgehalten."
+        },
+        {
+            "key": "APP_ERROR_5101",
+            "value": "Kampf kann nicht gestartet werden."
+        },
+        {
+            "key": "APP_ERROR_5102",
+            "value": "Kampf kann nicht gestartet werden."
+        },
+        {
+            "key": "APP_ERROR_5103",
+            "value": "Maximale Aufstellungskosten überschritten."
+        },
+        {
+            "key": "APP_ERROR_5104",
+            "value": "Maximale Gruppenmitgliederanzahl überschritten."
+        },
+        {
+            "key": "APP_ERROR_5105",
+            "value": "Versuch nicht möglich."
+        },
+        {
+            "key": "APP_ERROR_5106",
+            "value": "In deiner Gruppe befinden sich kampfunfähige Einheiten."
+        },
+        {
+            "key": "APP_ERROR_5107",
+            "value": "Kampf kann nicht fortgesetzt werden."
+        },
+        {
+            "key": "APP_ERROR_5108",
+            "value": "Wiederherstellen nicht möglich."
+        },
+        {
+            "key": "APP_ERROR_5109",
+            "value": "Kampf kann nicht neugestartet werden."
+        },
+        {
+            "key": "APP_ERROR_5110",
+            "value": "Weitermachen nicht möglich."
+        },
+        {
+            "key": "APP_ERROR_5111",
+            "value": "Event findet derzeit nicht statt."
+        },
+        {
+            "key": "APP_ERROR_5112",
+            "value": "Dies entspricht nicht den Aufstellungsregeln."
+        },
+        {
+            "key": "APP_ERROR_5201",
+            "value": "Code existiert nicht."
+        },
+        {
+            "key": "APP_ERROR_5202",
+            "value": "Kampagne wird derzeit nicht abgehalten."
+        },
+        {
+            "key": "APP_ERROR_5203",
+            "value": "Maximale erhaltbare Anzahl der Kampagne überschritten."
+        },
+        {
+            "key": "APP_ERROR_5204",
+            "value": "Diese Seriennummer wurde bereits benutzt."
+        },
+        {
+            "key": "APP_ERROR_5205",
+            "value": "Ungültige Plattform."
+        },
+        {
+            "key": "APP_ERROR_5300",
+            "value": "Die ausgewählte Gruppe ist ungültig."
+        },
+        {
+            "key": "APP_ERROR_5301",
+            "value": "Rundenanzahl reicht nicht aus."
+        },
+        {
+            "key": "APP_ERROR_5302",
+            "value": "Die Gruppe wurde verändert.<br>Bitte aktualisiere und versuche es anschließend erneut."
+        },
+        {
+            "key": "APP_ERROR_5303",
+            "value": "Die Kampfzeit ist vorbei."
+        },
+        {
+            "key": "APP_ERROR_5304",
+            "value": "Der Limitierte Gildenkampf ist zu Ende."
+        },
+        {
+            "key": "APP_ERROR_5305",
+            "value": "Die ausgewählte Gruppe wurde bereits aufgedeckt."
+        },
+        {
+            "key": "APP_ERROR_5306",
+            "value": "Die Aktionsanzahl der ausgewählten Gruppe ist bereits voll aufgefüllt."
+        },
+        {
+            "key": "APP_ERROR_5307",
+            "value": "Die Fähigkeiteneinsätze der ausgewählten Gruppe sind bereits voll aufgefüllt."
+        },
+        {
+            "key": "ALREADY_CONNECTED",
+            "value": "Das Konto dieser Social Media-Plattform ist bereits mit dem Konto eines anderen Spielers verknüpft."
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "SNS-Kontolimit erreicht."
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "Maximale SNS-Kontoverknüpfungen erreicht."
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "SNS-Limit erreicht."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_TITLE",
+            "value": "Vorübergehende Sperre"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_TITLE",
+            "value": "Permanente Sperre"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_MESSAGE",
+            "value": "Dein Konto ist bis {0}, (PST) gesperrt.<br><br>Für nähere Informationen wende dich bitte an den Kundenservice, indem du auf dem Titelbildschirm auf [Service] > [Kontakt] gehst."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE",
+            "value": "Dein Konto wurde gesperrt.<br><br>Für nähere Informationen wende dich bitte an den Kundenservice, indem du auf dem Titelbildschirm auf [Service] > [Kontakt] gehst."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TITLE",
+            "value": "Kontosperrung"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_MSG_SUPPORT",
+            "value": "Für nähere Informationen wende dich bitte an den Kundenservice, indem du auf dem Titelbildschirm auf [Service] > [Kontakt] gehst."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_DEFAULT",
+            "value": "Dein Konto wurde gesperrt."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERIOD",
+            "value": "Noch {0} Tag(e) (Bis {1} Weltzeit (PST))"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE_2",
+            "value": "Zeitraum: Permanent"
+        },
+        {
+            "key": "APP_ERROR_5308",
+            "value": "Du hast die maximale Unterstützungsanzahl überschritten."
+        },
+        {
+            "key": "APP_ERROR_5309",
+            "value": "Diese Unterstützung kann nicht noch einmal auf dieselbe Gruppe angewandt werden."
+        },
+        {
+            "key": "APP_ERROR_5310",
+            "value": "Gruppe für Limitierten Gildenkampf kann derzeit nicht erstellt werden."
+        },
+        {
+            "key": "APP_ERROR_5600",
+            "value": "Fehler: Event findet derzeit nicht statt."
+        },
+        {
+            "key": "APP_ERROR_5601",
+            "value": "Fehler: Gildenkraftproben finden derzeit nicht statt."
+        },
+        {
+            "key": "APP_ERROR_5602",
+            "value": "Fehler: Kämpfe finden derzeit nicht statt."
+        },
+        {
+            "key": "APP_ERROR_5603",
+            "value": "Fehler: Schnupperstundenkämpfe finden derzeit nicht statt."
+        },
+        {
+            "key": "APP_ERROR_5604",
+            "value": "Ein Kampf, der den Aktionszähler überschritt, wurde durchgeführt."
+        },
+        {
+            "key": "APP_ERROR_5605",
+            "value": "Boss bereits besiegt."
+        },
+        {
+            "key": "APP_ERROR_5606",
+            "value": "Der unterbrochene Auftrag kann nicht normal wiederaufgenommen werden (die unterbrochenen Auftragsdaten bis auf die der Gildenkraftprobe verbleiben)"
+        },
+        {
+            "key": "APP_ERROR_5607",
+            "value": "Bosskampf nicht freigeschaltet."
+        },
+        {
+            "key": "APP_ERROR_5608",
+            "value": "Defekt in den unterbrochenen Auftragsdaten. "
+        },
+        {
+            "key": "APP_ERROR_5609",
+            "value": "BP können nicht abgezogen werden (BP-Mangel)"
+        },
+        {
+            "key": "APP_ERROR_5700",
+            "value": "Ungültige Eingabe."
+        },
+        {
+            "key": "APP_ERROR_5703",
+            "value": "Anwerbungsangebot bereits gesendet."
+        },
+        {
+            "key": "APP_ERROR_5704",
+            "value": "Maximale Anzahl an Gildenmitgliedern erreicht. Anwerbung nicht möglich."
+        },
+        {
+            "key": "APP_ERROR_5705",
+            "value": "Bereits einer Gilde beigetreten. Anwerbung nicht möglich."
+        },
+        {
+            "key": "APP_ERROR_5800",
+            "value": "Die ausgewählte Gruppe ist ungültig."
+        },
+        {
+            "key": "APP_ERROR_5801",
+            "value": "Aktionszähler nicht ausreichend."
+        },
+        {
+            "key": "APP_ERROR_5802",
+            "value": "Die Gruppe wurde verändert.<br>Bitte aktualisiere und versuche es anschließend erneut."
+        },
+        {
+            "key": "APP_ERROR_5803",
+            "value": "Die Kampfzeit ist vorbei."
+        },
+        {
+            "key": "APP_ERROR_5804",
+            "value": "Die Gildenherrschaftskämpfe sind vorüber."
+        },
+        {
+            "key": "APP_ERROR_5805",
+            "value": "Die ausgewählte Gruppe wurde bereits aufgedeckt."
+        },
+        {
+            "key": "APP_ERROR_5806",
+            "value": "Die Aktionsanzahl der ausgewählten Gruppe ist bereits voll aufgefüllt."
+        },
+        {
+            "key": "APP_ERROR_5807",
+            "value": "Die Fähigkeiteneinsätze der ausgewählten Gruppe sind bereits voll aufgefüllt."
+        },
+        {
+            "key": "APP_ERROR_5808",
+            "value": "Du hast die maximale Unterstützungsanzahl überschritten."
+        },
+        {
+            "key": "APP_ERROR_5809",
+            "value": "Diese Unterstützung kann nicht noch einmal auf dieselbe Gruppe angewandt werden."
+        },
+        {
+            "key": "APP_ERROR_5810",
+            "value": "Gildenherrschaftskämpfe finden derzeit nicht statt."
+        },
+        {
+            "key": "APP_ERROR_6002",
+            "value": "Die Beschwörung kann nicht durchgeführt werden, weil der Eventzeitraum geendet hat, oder aus einem anderen Grund."
+        }
+    ]
+}

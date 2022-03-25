@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "On me rapporte que les forces de notre première division, « Equito », sont aux prises avec les hommes d'Eldo."
+        },
+        {
+            "key": "002",
+            "value": "Vous vous êtes donc enfin résolu à faire un choix ?"
+        },
+        {
+            "key": "003",
+            "value": "Celui que vous espériez, qui plus est. Satisfait ?"
+        },
+        {
+            "key": "004",
+            "value": "Satisfait de quoi ? Ha ha ha !"
+        },
+        {
+            "key": "005",
+            "value": "Puis-je savoir ce qui vous fait rire ?"
+        },
+        {
+            "key": "006",
+            "value": "Ce que nous voulons, c'est la tête du roi Eldo de Leonis."
+        },
+        {
+            "key": "007",
+            "value": "Je n'ai pas oublié."
+        },
+        {
+            "key": "008",
+            "value": "Vraiment ?"
+        },
+        {
+            "key": "009",
+            "value": "..."
+        },
+        {
+            "key": "010",
+            "value": "Dois-je vous rappeler que si vous irritez Sadali, il suffira d'une nuit pour transformer votre petit royaume en un tas de cendres fumantes dans la neige ?"
+        },
+        {
+            "key": "011",
+            "value": "Ne prenez pas cette affaire à la légère."
+        },
+        {
+            "key": "012",
+            "value": "À moins... que vous n'ayez pas encore compris dans quelle position vous vous trouvez ?"
+        },
+        {
+            "key": "013",
+            "value": "Pour qui vous prenez-vous ? M'insulter ainsi, moi ?"
+        },
+        {
+            "key": "014",
+            "value": "Oups, je crois que je vous ai offensé. Pourquoi ne pas aller vous défouler sur le front plutôt que d'aboyer du haut de votre trône ?"
+        },
+        {
+            "key": "015",
+            "value": "Tss. Je vois très clair dans votre petit jeu de dupes."
+        },
+        {
+            "key": "016",
+            "value": "Il vous terrifie, n'est-ce pas ? L'anneau d'Eldo ?"
+        },
+        {
+            "key": "017",
+            "value": "..."
+        },
+        {
+            "key": "018",
+            "value": "Touché."
+        },
+        {
+            "key": "019",
+            "value": "Si c'est donc l'anneau qui vous intéresse, j'ai des conditions à faire valoir aussi."
+        },
+        {
+            "key": "020",
+            "value": "Ne vous inquiétez pas."
+        },
+        {
+            "key": "021",
+            "value": "Hourne sera réduite à néant, cette partie du plan ne change pas."
+        },
+        {
+            "key": "022",
+            "value": "Mais pas avant que la vie d'Eldo ne lui soit arrachée, ainsi que la bague à son doigt."
+        },
+        {
+            "key": "023",
+            "value": "Personnellement... je ne parierais pas sur votre victoire."
+        },
+        {
+            "key": "024",
+            "value": "... !"
+        },
+        {
+            "key": "025",
+            "value": "Argh !"
+        },
+        {
+            "key": "026",
+            "value": "Sire !"
+        },
+        {
+            "key": "027",
+            "value": "Pourquoi avez-vous attaqué un soldat de l'Église ?"
+        },
+        {
+            "key": "028",
+            "value": "Personne ne s'essuie impunément les pieds sur mon honneur. Personne !"
+        },
+        {
+            "key": "029",
+            "value": "M-mais…"
+        },
+        {
+            "key": "030",
+            "value": "Hé hé hé. Les émissaires s'égarent souvent en route."
+        },
+        {
+            "key": "031",
+            "value": "Des loups affamés rôdent du soir au matin sur ces terres gelées."
+        },
+        {
+            "key": "032",
+            "value": "C'est à nous que vous faites allusion ?"
+        },
+        {
+            "key": "033",
+            "value": "Sire, qui sont-elles ?"
+        },
+        {
+            "key": "034",
+            "value": "Viktora et Luartha. Elles, au moins, ne me déçoivent pas."
+        },
+        {
+            "key": "035",
+            "value": "Hu hu ! Les choses deviennent intéressantes, non ?"
+        },
+        {
+            "key": "036",
+            "value": "Elles risquent de le devenir encore davantage."
+        },
+        {
+            "key": "037",
+            "value": "Hm. C'est ce que je voulais entendre."
+        },
+        {
+            "key": "038",
+            "value": "N'oubliez pas que je vous paie rubis sur l'ongle."
+        },
+        {
+            "key": "039",
+            "value": "C'est plutôt à moi de vous rappeler de ne pas oublier cet aspect-là."
+        },
+        {
+            "key": "040",
+            "value": "Sans compter votre promesse. Vous avez toujours l'intention de l'honorer, n'est-ce pas ?"
+        },
+        {
+            "key": "041",
+            "value": "Tu veux parler du fait que tu seras couronnée reine si nous gagnons cette guerre ?"
+        },
+        {
+            "key": "042",
+            "value": "Vous ne comptez pas revenir sur vos mots, n'est-ce pas ?"
+        },
+        {
+            "key": "043",
+            "value": "Non. Je tiendrai ma promesse."
+        },
+        {
+            "key": "044",
+            "value": "Je serai reine... Quelle douce mélodie à mes oreilles."
+        },
+        {
+            "key": "045",
+            "value": "Au fait, vous voulez combien d'enfants ?"
+        },
+        {
+            "key": "046",
+            "value": "Nous discuterons de ce sujet plus tard."
+        },
+        {
+            "key": "047",
+            "value": "D'abord, nous aspirons Leonis et Hourne pour faire de Wezett le plus grand royaume de l'Est. Ensuite, nous nous attaquerons à Rundall."
+        },
+        {
+            "key": "048",
+            "value": "Ceux qui m'ont trahi... ceux qui m'ont insulté... Ils se repentiront tous !"
+        },
+        {
+            "key": "049",
+            "value": "Sadali n'est pas au bout de ses surprises !"
+        },
+        {
+            "key": "050",
+            "value": "Pendant ce temps, Mont et son armée..."
+        }
+    ]
+}

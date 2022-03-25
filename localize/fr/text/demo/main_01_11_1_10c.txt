@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "110208",
+            "value": "C'est tout ce que vous aviez ?"
+        },
+        {
+            "key": "110209",
+            "value": "L'a... L'anneau..."
+        },
+        {
+            "key": "110210",
+            "value": "Donne-moi... L'anneau..."
+        },
+        {
+            "key": "110211",
+            "value": "Monseigneur... Sterne... Il a... !"
+        },
+        {
+            "key": "110212",
+            "value": "Haa !"
+        },
+        {
+            "key": "110213",
+            "value": "Cet appareil de communication à longue distance commence à me fatiguer."
+        },
+        {
+            "key": "110214",
+            "value": "C-comment osez-vous ?"
+        },
+        {
+            "key": "110215",
+            "value": "Approche... Si tu ne tiens plus à la vie."
+        },
+        {
+            "key": "110216",
+            "value": "À l'aide ! Dame Xiza !"
+        },
+        {
+            "key": "110217",
+            "value": "Comme tu voudras. Moi aussi, je fais ce que je veux."
+        }
+    ]
+}

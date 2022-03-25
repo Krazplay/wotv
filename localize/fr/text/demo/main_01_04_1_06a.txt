@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Sire Mont, n'allez pas par là."
+        },
+        {
+            "key": "002",
+            "value": "Pourquoi donc ?"
+        },
+        {
+            "key": "003",
+            "value": "Ce n'est pas le plus court chemin pour se rendre à Wezett ?"
+        },
+        {
+            "key": "004",
+            "value": "Eh bien..."
+        },
+        {
+            "key": "005",
+            "value": "Qu'y a-t-il, Minnwu ?"
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Il t'a posé une question !"
+        },
+        {
+            "key": "008",
+            "value": "Il s'agit certes d'un raccourci, mais depuis quelque temps il est infesté de monstres féroces."
+        },
+        {
+            "key": "009",
+            "value": "Comme nous sommes poursuivis, je pensais qu'il serait préférable d'emprunter la route la moins dangereuse…"
+        },
+        {
+            "key": "010",
+            "value": "C'est une déduction très sage."
+        },
+        {
+            "key": "011",
+            "value": "Nous allons continuer de suivre Minnwu. Mont, tu y vois une objection ?"
+        },
+        {
+            "key": "012",
+            "value": "... Non."
+        }
+    ]
+}

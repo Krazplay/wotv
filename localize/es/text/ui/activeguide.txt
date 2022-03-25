@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "AUTOLAP_TITLE",
+            "value": "Acerca de Repetir"
+        },
+        {
+            "key": "AUTOLAP_DESC",
+            "value": "Esta opción estará disponible después de completar la misión."
+        },
+        {
+            "key": "ARTSELL_TITLE",
+            "value": "No se puede vender"
+        },
+        {
+            "key": "ARTSELL_FAVORITE_DESC",
+            "value": "Seleccionado como favorito."
+        },
+        {
+            "key": "ARTSELL_EQUIP_DESC ",
+            "value": "Equipado en una unidad."
+        },
+        {
+            "key": "ARTSELL_NOT_DESC",
+            "value": "No se puede vender este objeto equipable."
+        }
+    ]
+}

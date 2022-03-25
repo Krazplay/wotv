@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vaya, vaya... Estoy impresionado. No queda ni un alma en pie."
+        },
+        {
+            "key": "002",
+            "value": "¿Quién es?"
+        },
+        {
+            "key": "003",
+            "value": "Zazán. Un ayudante de Gouga."
+        },
+        {
+            "key": "004",
+            "value": "Ya veo. Ya decía que algo me olía mal."
+        },
+        {
+            "key": "005",
+            "value": "Percibí un aroma dulzón entre el olor a sangre en tu ropa."
+        },
+        {
+            "key": "006",
+            "value": "¿Un aroma dulzón?..."
+        },
+        {
+            "key": "007",
+            "value": "Ahora todo cobra sentido. Este hombre de Saiga es tu amante, y ambos habéis estado viéndoos en secreto."
+        },
+        {
+            "key": "008",
+            "value": "Ahora que lo sabes..."
+        },
+        {
+            "key": "009",
+            "value": "No puedo dejar que vuelvas a la aldea."
+        },
+        {
+            "key": "010",
+            "value": "¡Ja, ja, ja, ja, ja! ¡Estoy temblando de miedo! ¡No me hagas reír!"
+        },
+        {
+            "key": "011",
+            "value": "¿Os imagináis mi fama después de hacer picadillo a los jefes de Gouga y de Saiga?"
+        },
+        {
+            "key": "012",
+            "value": "¿Qué tal si nos divertimos un poco?"
+        }
+    ]
+}

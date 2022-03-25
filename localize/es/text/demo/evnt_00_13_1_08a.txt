@@ -1,0 +1,96 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Un castillo abandonado?..."
+        },
+        {
+            "key": "002",
+            "value": "Parece que lo llaman el Castillo del Yunque."
+        },
+        {
+            "key": "003",
+            "value": "¿Qué hacemos aquí?"
+        },
+        {
+            "key": "004",
+            "value": "¿No lo sientes?"
+        },
+        {
+            "key": "005",
+            "value": "Uh..."
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Un olor a sangre que no se desvanece. Y también... el eco de un griterío."
+        },
+        {
+            "key": "008",
+            "value": "Vaya... Veo que tu entrenamiento en el este te ha sentado bien."
+        },
+        {
+            "key": "009",
+            "value": "Fue aquí donde Owe... Donde mi maestro perdió la vida."
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "Esta es la tumba de mi maestro..."
+        },
+        {
+            "key": "012",
+            "value": "Raviesse..."
+        },
+        {
+            "key": "013",
+            "value": "Sí, me he dado cuenta."
+        },
+        {
+            "key": "014",
+            "value": "Lumeide y... alguien más..."
+        },
+        {
+            "key": "015",
+            "value": "Os presento a mi hermano mellizo, Lameiga."
+        },
+        {
+            "key": "016",
+            "value": "Sois unos guías excelentes."
+        },
+        {
+            "key": "017",
+            "value": "Gracias a vosotros, obtener la espada de Owe será coser y cantar."
+        },
+        {
+            "key": "018",
+            "value": "¡Malditas sanguijuelas!"
+        },
+        {
+            "key": "019",
+            "value": "¿Se te ha olvidado que os hemos dejado subir a nuestro barco?"
+        },
+        {
+            "key": "020",
+            "value": "¿Y te crees que eso os da derecho a aprovecharos de nosotros?"
+        },
+        {
+            "key": "021",
+            "value": "Jamás os entregaremos la espada."
+        },
+        {
+            "key": "022",
+            "value": "Me han dicho que sois duros de pelar, así que no pienso ponéroslo fácil."
+        },
+        {
+            "key": "023",
+            "value": "Estáis acabados."
+        }
+    ]
+}

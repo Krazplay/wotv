@@ -1,0 +1,248 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...!"
+        },
+        {
+            "key": "002",
+            "value": "Kitone."
+        },
+        {
+            "key": "003",
+            "value": "I have returned from Wezette."
+        },
+        {
+            "key": "004",
+            "value": "And Glaciela...?"
+        },
+        {
+            "key": "005",
+            "value": "She and her people work hard in the name of restoring Wezette."
+        },
+        {
+            "key": "006",
+            "value": "I see. As long as she fares well."
+        },
+        {
+            "key": "007",
+            "value": "Mont, I think I should accompany you..."
+        },
+        {
+            "key": "008",
+            "value": "No, you are needed here."
+        },
+        {
+            "key": "009",
+            "value": "Surely you have heard the reports of the Sanctum advancing their war preparations."
+        },
+        {
+            "key": "010",
+            "value": "We do not know whether Sadali's gaze rests on Rundall or on Hourne..."
+        },
+        {
+            "key": "011",
+            "value": "Even with Schuzelt as acting commander of «Solidus», it cannot be said the defenses here are perfect."
+        },
+        {
+            "key": "012",
+            "value": "I am well aware of this..."
+        },
+        {
+            "key": "013",
+            "value": "But have you forgotten that it is the allied army of Rundall and Heindler you face?"
+        },
+        {
+            "key": "014",
+            "value": "As formidable as the entire combined might of Hourne and Leonis may be, there is no guarantee we stand a chance..."
+        },
+        {
+            "key": "015",
+            "value": "Adelard, even you would take such a stance?"
+        },
+        {
+            "key": "016",
+            "value": "My apologies, Your Highness. But as it stands, I..."
+        },
+        {
+            "key": "017",
+            "value": "Fighting alongside Rundall in our war against Wezette showed us a degree of what they are capable of."
+        },
+        {
+            "key": "018",
+            "value": "I will be vigilant, but I shall not be so cautious that I cannot take action when it is called for."
+        },
+        {
+            "key": "019",
+            "value": "Mont..."
+        },
+        {
+            "key": "020",
+            "value": "I need you to understand, Machérie."
+        },
+        {
+            "key": "021",
+            "value": "Rundall's invasion of Ovis will give them a foothold to push here...into eastern Ardra."
+        },
+        {
+            "key": "022",
+            "value": "Should Ovis be overtaken, they may well strike at Hourne next..."
+        },
+        {
+            "key": "023",
+            "value": "They must be stopped before that happens, no matter what."
+        },
+        {
+            "key": "024",
+            "value": "...You speak true."
+        },
+        {
+            "key": "025",
+            "value": "My father was keenly aware of the threat Rundall poses."
+        },
+        {
+            "key": "026",
+            "value": "It was for that very reason he agreed to the insult that was our alliance with Fennes..."
+        },
+        {
+            "key": "027",
+            "value": "I shall remain in the castle, but feel free to have Salire, Grahl, and Rayches accompany you in my stead."
+        },
+        {
+            "key": "028",
+            "value": "Their skills are sound... Though, I would not say the same for their personalities."
+        },
+        {
+            "key": "029",
+            "value": "Are you certain? She is your sister..."
+        },
+        {
+            "key": "030",
+            "value": "But of course."
+        },
+        {
+            "key": "031",
+            "value": "However, there is one thing. It concerns Rayches..."
+        },
+        {
+            "key": "032",
+            "value": "*sigh*"
+        },
+        {
+            "key": "033",
+            "value": "And here I was looking forward to the idea of being able to go on a journey with Brother."
+        },
+        {
+            "key": "034",
+            "value": "I really must apologize."
+        },
+        {
+            "key": "035",
+            "value": "None of this is your fault."
+        },
+        {
+            "key": "036",
+            "value": "I did not mean in regard to your spoiled plans."
+        },
+        {
+            "key": "037",
+            "value": "...Okay, then what did you mean?"
+        },
+        {
+            "key": "038",
+            "value": "It has been decided that Rayches will be joining us."
+        },
+        {
+            "key": "039",
+            "value": "I heard."
+        },
+        {
+            "key": "040",
+            "value": "But this might just be a good thing, you know?"
+        },
+        {
+            "key": "041",
+            "value": "I'd have to burn the castle down if I thought she'd have a chance of getting cozy with Brother while I was away."
+        },
+        {
+            "key": "042",
+            "value": "Well, the truth of the matter is..."
+        },
+        {
+            "key": "043",
+            "value": "This expedition is also an opportunity for us to ascertain Rayches's true motives."
+        },
+        {
+            "key": "044",
+            "value": "Right, Brother told me all about it."
+        },
+        {
+            "key": "045",
+            "value": "Ah, is that so?"
+        },
+        {
+            "key": "046",
+            "value": "She was actually planning to serve Rundall, wasn't she?"
+        },
+        {
+            "key": "047",
+            "value": "But then she fell in love with Brother and made her way here to Hourne..."
+        },
+        {
+            "key": "048",
+            "value": "It's so pathetic... I completely get it, though."
+        },
+        {
+            "key": "049",
+            "value": "If Rayches acts suspiciously..."
+        },
+        {
+            "key": "050",
+            "value": "Oh don't worry, you can leave that to me. I'll blow her to bits with the most merciless, full-powered blast of Flare I can cast."
+        },
+        {
+            "key": "051",
+            "value": "Oh, fancy seeing the two of you like this."
+        },
+        {
+            "key": "052",
+            "value": "I hope I'm not interrupting."
+        },
+        {
+            "key": "053",
+            "value": "Interrupting what?"
+        },
+        {
+            "key": "054",
+            "value": "You two make a nice couple. Just like Lord Adelard and myself."
+        },
+        {
+            "key": "055",
+            "value": "......"
+        },
+        {
+            "key": "056",
+            "value": "Wh-what's going on here? It is not like you to quietly stand there and hold your tongue..."
+        },
+        {
+            "key": "057",
+            "value": "Ovis Expedition Force, assemble!"
+        },
+        {
+            "key": "058",
+            "value": "Our allied army hereby marches for Ovis."
+        },
+        {
+            "key": "059",
+            "value": "We have but one objective—the liberation of Ovis."
+        },
+        {
+            "key": "060",
+            "value": "Their oppression under Rundall and Heindler can go unchecked no longer."
+        },
+        {
+            "key": "061",
+            "value": "Let us march forth. The people of Ovis await us."
+        }
+    ]
+}

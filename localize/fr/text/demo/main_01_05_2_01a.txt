@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous nous barrez la route ?"
+        },
+        {
+            "key": "002",
+            "value": "Ordre de Muraga."
+        },
+        {
+            "key": "003",
+            "value": "Vous ne savez même pas où je me rends."
+        },
+        {
+            "key": "004",
+            "value": "..."
+        },
+        {
+            "key": "005",
+            "value": "Je vois. Vous ne me laisserez pas rentrer au château de Hourne ?"
+        },
+        {
+            "key": "006",
+            "value": "Croyez bien ce que vous voulez."
+        },
+        {
+            "key": "007",
+            "value": "Va-t-il falloir que j'use la manière forte ?"
+        },
+        {
+            "key": "008",
+            "value": "On vous rendra coup pour coup, M'dame. Ce sont les ordres."
+        },
+        {
+            "key": "009",
+            "value": "Parfait. Dans ce cas, en garde !"
+        },
+        {
+            "key": "010",
+            "value": "Vous voulez vraiment vous battre ?"
+        },
+        {
+            "key": "011",
+            "value": "On est bien plus nombreux que vous !"
+        },
+        {
+            "key": "012",
+            "value": "Je n'ai que faire que vous soyez dix ou cent !"
+        },
+        {
+            "key": "013",
+            "value": "Vous devriez fuir tant que vous en avez encore le temps !"
+        },
+        {
+            "key": "014",
+            "value": "Fuir ? Quelle idée !"
+        },
+        {
+            "key": "015",
+            "value": "Le gros des troupes de Hourne est en déroute ! Vos menaces ne valent rien !"
+        },
+        {
+            "key": "016",
+            "value": "Très bien. Je vous aurai prévenus."
+        },
+        {
+            "key": "017",
+            "value": "Vous m'avez assez ralentie comme cela. Je ne vous épargnerai pas !"
+        }
+    ]
+}

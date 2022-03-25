@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Es ist an der Zeit, Euch Kenntnisse über die <color=#0000ff>spezifischen Eigenschaften von Bögen</color> zu vermitteln."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Die <color=#0000ff>Reichweite von Pfeilen vergrößert sich</color>, wenn man mit ihnen aus einer <color=#0000ff>erhöhten Position</color> schießt."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Wenn Ihr gleich einen Blick auf die obere rechte Ecke des Bildschirms werft, werdet Ihr bemerken, dass dort die <color=#0000ff>Höhe</color> angezeigt wird – in diesem spezifischen Fall „4H“."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Bei jeder <color=#0000ff>Zunahme der Höhe um zwei Einheiten (2H)</color> wird die Schussreichweite einer Einheit <color=#0000ff>um ein Feld vergrößert</color>. Wenn Ihr also beispielsweise mit Eurem Bogen aus einer Höhe von 6H schießt, nimmt Eure Schussreichweite um drei Felder zu."
+        },
+        {
+            "key": "005",
+            "value": "Umgekehrt <color=#0000ff>sinkt die Reichweite</color> beim Schießen aus tiefer gelegenen Positionen, und zwar um <color=#0000ff>ein Feld für jeden Unterschied von zwei Einheiten (2H), die der betreffende Feind höher positioniert ist als Ihr</color>."
+        },
+        {
+            "key": "006",
+            "value": "Wenn Ihr Learte auf der Klippe platziert, kann sie von dort aus nahezu alle unterhalb des Vorsprungs befindlichen Gegner attackieren. Lasst uns sie dorthin beordern."
+        },
+        {
+            "key": "007",
+            "value": "Ausgezeichnet! Seid jedoch stets auf der Hut vor <color=#0000ff>feindlichen Bogenschützen</color>, die sich <color=#0000ff>an höhergelegenen Orten</color> positioniert haben."
+        },
+        {
+            "key": "008",
+            "value": "Zu- und Abnahme der Reichweite aufgrund von Höhenunterschieden ist eine Eigenschaft von Steilschusswaffen wie etwa dem Bogen. Sie unterscheiden sich darin von Flachschusswaffen, wobei wir uns aber mit den diesbezüglichen Einzelheiten ein anderes Mal befassen werden."
+        }
+    ]
+}

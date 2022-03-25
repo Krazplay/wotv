@@ -1,0 +1,212 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "D-Die sind viel zu stark."
+        },
+        {
+            "key": "002",
+            "value": "Wer sind die nur?"
+        },
+        {
+            "key": "003",
+            "value": "Diese Schärfe ..."
+        },
+        {
+            "key": "004",
+            "value": "Könnte dies die legendäre Klinge Wolfsschatten sein?"
+        },
+        {
+            "key": "005",
+            "value": "Khamral! Jynnok!"
+        },
+        {
+            "key": "006",
+            "value": "Meine Augen scheinen mich nicht zu trügen."
+        },
+        {
+            "key": "007",
+            "value": "Unser Heimatland ist verloren. Sie müssen als Söldner für die Stätte arbeiten, um überleben zu können."
+        },
+        {
+            "key": "008",
+            "value": "Doch heute ist das Glück uns hold!"
+        },
+        {
+            "key": "009",
+            "value": "Denn der Schatz, dessen Suche uns Ihre Heiligkeit selbst auftrug, ist aus heiterem Himmel vor uns erschienen!"
+        },
+        {
+            "key": "010",
+            "value": "Ein Schatz, den ihr nie in den Händen halten werdet, denn er ist zu wertvoll für Schoßhündchen wie euch."
+        },
+        {
+            "key": "011",
+            "value": "Oho."
+        },
+        {
+            "key": "012",
+            "value": "Du hast Schneid. Offenbar weißt du nicht, mit wem du sprichst."
+        },
+        {
+            "key": "013",
+            "value": "Ich bin Khamral, ehemaliger Kommandant von Lykeros' zweiter Division Obtritus."
+        },
+        {
+            "key": "014",
+            "value": "Lykeros?"
+        },
+        {
+            "key": "015",
+            "value": "Ahaha! Durch diesen Namen scheint dir die Furcht ins Gebein gefahren zu sein!"
+        },
+        {
+            "key": "016",
+            "value": "Stimmt ja. Ich wusste, dass ich den Namen irgendwoher kenne."
+        },
+        {
+            "key": "017",
+            "value": "Das war doch das Land, das von Rundall vernichtet wurde, oder?"
+        },
+        {
+            "key": "018",
+            "value": "Und jetzt denken die Überlebenden, sie hätten überall freies Geleit, nur weil sie die Stätte hinter sich wissen."
+        },
+        {
+            "key": "019",
+            "value": "Was sagst du da, du Wurm?"
+        },
+        {
+            "key": "020",
+            "value": "An sich finde ich es falsch, Schwache zu schlagen."
+        },
+        {
+            "key": "021",
+            "value": "Aber ein angefangener Kampf muss auch beendet werden."
+        },
+        {
+            "key": "022",
+            "value": "Wenn du jemanden verfluchen willst, dann verfluche dein eigenes Unvermögen."
+        },
+        {
+            "key": "023",
+            "value": "Welch Unverfrorenheit!"
+        },
+        {
+            "key": "024",
+            "value": "Ich werde dir diese Klinge und dein Leben rauben."
+        },
+        {
+            "key": "025",
+            "value": "Einen Moment. Ich hätte da noch eine Frage."
+        },
+        {
+            "key": "026",
+            "value": "Hm?"
+        },
+        {
+            "key": "027",
+            "value": "Warum hat die Kristallene Stätte gerade hier draußen eine Kirche gebaut?"
+        },
+        {
+            "key": "028",
+            "value": "Das haben sie nicht nur hier."
+        },
+        {
+            "key": "029",
+            "value": "Papst Sadali hat im ganzen Land Kirchen errichten lassen. Der Grund wird schon bald ans Tageslicht kommen."
+        },
+        {
+            "key": "030",
+            "value": "Ha, ich wusste es."
+        },
+        {
+            "key": "031",
+            "value": "Was wusstest du?"
+        },
+        {
+            "key": "032",
+            "value": "Bei meinen Reisen durch das Land habe ich mehr Kirchen gesehen als Ameisenhügel."
+        },
+        {
+            "key": "033",
+            "value": "Und wen man auch fragt, die Antwort ist immer die Gleiche. Die Stätte hilft beim Wiederaufbau der vom Krieg zerstörten Gemeinden."
+        },
+        {
+            "key": "034",
+            "value": "Nein ... Das kann nicht sein."
+        },
+        {
+            "key": "035",
+            "value": "Du bist ja ein Schnellmerker."
+        },
+        {
+            "key": "036",
+            "value": "Wer bereits alles verloren hat, selbst die Hoffnung, unterliegt leicht den Worten derer, die ihre helfende Hand ausstrecken."
+        },
+        {
+            "key": "037",
+            "value": "Menschen ohne Hoffnung, was?"
+        },
+        {
+            "key": "038",
+            "value": "Also stand die Stätte selbst hinter der Invasion von Fennes und all dem Leid, das sie mit sich brachte."
+        },
+        {
+            "key": "039",
+            "value": "Warum sich jetzt noch aufregen?"
+        },
+        {
+            "key": "040",
+            "value": "Dank dieses kleinen Ausbruchs der Verzweiflung hat das Dorf jetzt eine prächtige Kirche."
+        },
+        {
+            "key": "041",
+            "value": "Ihr solltet uns also dankbar sein! Ahahahaha!"
+        },
+        {
+            "key": "042",
+            "value": "All diese Kirchen ... All das für Sadalis Ruhm und um mehr Gläubige zu versammeln ..."
+        },
+        {
+            "key": "043",
+            "value": "Nichts davon war von uns gewollt!"
+        },
+        {
+            "key": "044",
+            "value": "Wir wollten nur in Frieden leben!"
+        },
+        {
+            "key": "045",
+            "value": "Das war alles. Und doch ... Und doch ..."
+        },
+        {
+            "key": "046",
+            "value": "Dafür werdet ihr bezahlen!  "
+        },
+        {
+            "key": "047",
+            "value": "Und nicht nur ihr!"
+        },
+        {
+            "key": "048",
+            "value": "Sadali! Die Stätte! Sie alle werden für ihre Greueltaten büßen!"
+        },
+        {
+            "key": "049",
+            "value": "Dese kleine Enthüllung hat dir ja ziemlich Feuer unter dem Hintern gemacht."
+        },
+        {
+            "key": "050",
+            "value": "Und gerade eben dachte ich noch, du würdest vor lauter Griesgrämigkeit tot umfallen."
+        },
+        {
+            "key": "051",
+            "value": "Heute werde ich nicht sterben!"
+        },
+        {
+            "key": "052",
+            "value": "Nein! Ich werde leben, bis ich mich an jedem einzelnen von euch rächen konnte!"
+        }
+    ]
+}

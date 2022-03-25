@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "FRIEND_INVITE_TITLE",
+            "value": "Invitation d'ami"
+        },
+        {
+            "key": "FRIEND_INVITE_AMOUNT_TITLE",
+            "value": "Nombre d'invités"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INVITE",
+            "value": "Inviter un ami"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INPUT",
+            "value": "Entrer le code d'invitation"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_TITLE",
+            "value": "Récompenses pour avoir invité un ami"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_DESC",
+            "value": "Invitez vos amis à vous rejoindre ! Vous recevrez des cadeaux en conséquence !"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_CONDITION",
+            "value": "*Vous devez avoir atteint ou dépasser le rang {0} pour pouvoir inviter des amis."
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_TITLE",
+            "value": "Récompenses pour avoir entré le code d'invitation"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_CONDITION",
+            "value": "*Veuillez confirmer le code d'invitation avant d'atteindre le rang {0}."
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_RANK",
+            "value": "Les invitations peuvent être envoyées une fois le rang {0} atteint."
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_LIMIT",
+            "value": "Limite max du nombre d'invités"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_CHALLANGE_MISSION",
+            "value": "Votre ami a terminé la mission {1} sur le tableau des missions de défi #{0}"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_STORY",
+            "value": "Votre ami a terminé le chapitre {0}, partie {1} [{2}] dans les quêtes d'histoire"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_LOGIN",
+            "value": "Votre ami(e) s'est connecté(e) {0} jours de suite"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_TITLE",
+            "value": "Entrer le code d'invitation"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_DESC",
+            "value": "<line-height=36>Entrez le code d'invitation que vous avez reçu de votre ami"
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_TITLE",
+            "value": "Invitation d'ami acceptée !"
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_DESC",
+            "value": "Félicitations ! <br>Votre invitation d'ami a été acceptée. <br>Nous vous avons envoyé quelques récompenses pour fêter ça !"
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_TITLE",
+            "value": "Échec de votre invitation d'ami"
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_DESC",
+            "value": "Votre invitation d'ami a échouée. <br>Vous avez déjà reçu {0} invitation(s) d'ami(s)."
+        }
+    ]
+}

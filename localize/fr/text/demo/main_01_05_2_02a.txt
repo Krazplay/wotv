@@ -1,0 +1,176 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous n'avez toujours pas trouvé trace des mouvements de l'armée de Leonis ?"
+        },
+        {
+            "key": "002",
+            "value": "Comment est-ce possible ?"
+        },
+        {
+            "key": "003",
+            "value": "Pardonnez-nous, Seigneur."
+        },
+        {
+            "key": "004",
+            "value": "Nous avons posté des sentinelles tout le long de la route de Leonis, en vain."
+        },
+        {
+            "key": "005",
+            "value": "Vous êtes certain qu'ils se dirigent vers nous ?"
+        },
+        {
+            "key": "006",
+            "value": "Je n'en ai aucun doute. Mais..."
+        },
+        {
+            "key": "007",
+            "value": "Ah !"
+        },
+        {
+            "key": "008",
+            "value": "Nous avons repéré la garnison du roi Eldo !"
+        },
+        {
+            "key": "009",
+            "value": "Ils se montrent enfin ! Où ?"
+        },
+        {
+            "key": "010",
+            "value": "Eh bien... Ils ont été aperçus sur une route que seuls les gens d'ici connaissent."
+        },
+        {
+            "key": "011",
+            "value": "Tu veux dire qu'ils ont un guide ?"
+        },
+        {
+            "key": "012",
+            "value": "Je... Je ne saurais dire..."
+        },
+        {
+            "key": "013",
+            "value": "Allez, crache le morceau."
+        },
+        {
+            "key": "014",
+            "value": "Nous n'en sommes pas certains mais... il semblerait que ce soit dame Minnwu."
+        },
+        {
+            "key": "015",
+            "value": "Minnwu ? Mais pourquoi ?"
+        },
+        {
+            "key": "016",
+            "value": "Tiens, c'est vrai... Cela fait longtemps que je ne l'ai pas vue..."
+        },
+        {
+            "key": "017",
+            "value": "Tu n'es pas au courant ? Elle est accusée de félonie !"
+        },
+        {
+            "key": "018",
+            "value": "Quoi ? De félonie ?"
+        },
+        {
+            "key": "019",
+            "value": "J'ai entendu certaines rumeurs."
+        },
+        {
+            "key": "020",
+            "value": "Elle aurait perdu le contrôle de ses pouvoirs et fait exploser le laboratoire de recherche ésotérique."
+        },
+        {
+            "key": "021",
+            "value": "Mais pourquoi aurait-elle fait une chose pareille ?"
+        },
+        {
+            "key": "022",
+            "value": "D'après ce qu'on m'a dit, elle aurait essayé de lancer un sort très ancien..."
+        },
+        {
+            "key": "023",
+            "value": "Elle aurait donc quitté le royaume après ça. Mais qu'irait-elle faire avec l'armée de Leonis ?"
+        },
+        {
+            "key": "024",
+            "value": "J'ai du mal à y croire."
+        },
+        {
+            "key": "025",
+            "value": "Moi aussi. Nous devrions rentrer au château."
+        },
+        {
+            "key": "026",
+            "value": "Absolument pas."
+        },
+        {
+            "key": "027",
+            "value": "Mais... Leonis et Wezett sont censés être alliés..."
+        },
+        {
+            "key": "028",
+            "value": "C'est pourtant pour éliminer le roi Eldo que nous sommes là, n'est-ce pas ?"
+        },
+        {
+            "key": "029",
+            "value": "Je comprends vos réticences, mais..."
+        },
+        {
+            "key": "030",
+            "value": "C'est la mission qui a été confiée à « Equito »."
+        },
+        {
+            "key": "031",
+            "value": "Pourtant, abandonner notre alliance avec Leonis..."
+        },
+        {
+            "key": "032",
+            "value": "... nous laissera seuls face à Fennes et Hourne."
+        },
+        {
+            "key": "033",
+            "value": "Je ne suis pas dans la tête du roi."
+        },
+        {
+            "key": "034",
+            "value": "Mais je crains... que Sa Majesté Khory cherche à s'allier à Hourne."
+        },
+        {
+            "key": "035",
+            "value": "Hein ? Avec le royaume que nous combattons depuis des décennies ?"
+        },
+        {
+            "key": "036",
+            "value": "À moins que ce soit avec Fennes qu'il ambitionne une alliance..."
+        },
+        {
+            "key": "037",
+            "value": "Une alliance que lui permettrait d'obtenir la tête du roi Eldo..."
+        },
+        {
+            "key": "038",
+            "value": "Assez discuté. Nous aurons beau nous perdre en conjectures, nous ne réussirons jamais à comprendre les véritables motivations du roi."
+        },
+        {
+            "key": "039",
+            "value": "Concentrons-nous sur les ordres qui nous ont été donnés. Compris ?"
+        },
+        {
+            "key": "040",
+            "value": "O-oui..."
+        },
+        {
+            "key": "041",
+            "value": "Je n'aime pas ça, mais nous n'avons pas le choix."
+        },
+        {
+            "key": "042",
+            "value": "Même si nous nous retrouvions face à Minnwu... nous devons accomplir notre devoir."
+        },
+        {
+            "key": "043",
+            "value": "Allez, en marche !"
+        }
+    ]
+}

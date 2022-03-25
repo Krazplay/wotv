@@ -1,0 +1,776 @@
+﻿{
+    "infos": [
+        {
+            "key": "HOMETOP_TITLE",
+            "value": "Hauptbildschirm"
+        },
+        {
+            "key": "BUYLAPIS_TITLE",
+            "value": "Visiore kaufen"
+        },
+        {
+            "key": "VIP_TITLE",
+            "value": "Royaler Rang"
+        },
+        {
+            "key": "APHEAL_TITLE",
+            "value": "Ausdauer regenerieren"
+        },
+        {
+            "key": "EXPEDITION_TITLE",
+            "value": "Chocobo-Expedition"
+        },
+        {
+            "key": "BEGINNER_TITLE",
+            "value": "Anfängerhalle"
+        },
+        {
+            "key": "GACHA_TITLE",
+            "value": "Beschwören"
+        },
+        {
+            "key": "SHOP_TITLE",
+            "value": "Laden"
+        },
+        {
+            "key": "UNIT_TOP_TITLE",
+            "value": "Einheiten"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE",
+            "value": "Einheitenprofile"
+        },
+        {
+            "key": "UNIT_ABILITYBOARD_TITLE",
+            "value": "Fähigkeitenbrett"
+        },
+        {
+            "key": "UNIT_RELEASE_TITLE",
+            "value": "Fähigkeiten freischalten"
+        },
+        {
+            "key": "UNIT_RELEASEALL_TITLE",
+            "value": "Fähigkeitenbrett: Alles freischalten"
+        },
+        {
+            "key": "UNIT_RESET_TITLE",
+            "value": "Fähigkeitenbrett zurücksetzen"
+        },
+        {
+            "key": "UNIT_INTIMACY_TITLE",
+            "value": "Vertrautheit"
+        },
+        {
+            "key": "UNIT_INTIMACY_TITLE_NBEAST",
+            "value": "Resonanz"
+        },
+        {
+            "key": "GUILD_JOINSELECT_TITLE",
+            "value": "Gilden erstellen, Gilden beitreten, Gilden auswählen"
+        },
+        {
+            "key": "GUILD_SEARCH_TITLE",
+            "value": "Gildensuche"
+        },
+        {
+            "key": "GUILD_TOP_TITLE",
+            "value": "Gildenlobbys"
+        },
+        {
+            "key": "GUILD_LEADERREWARD_TITLE",
+            "value": "Belohnungen für den Gildenvorstand"
+        },
+        {
+            "key": "GUILD_RANKING_TITLE",
+            "value": "Gilden-Ranglisten"
+        },
+        {
+            "key": "GUILD_ATTENDREWARD_TITLE",
+            "value": "Anwesenheit wird belohnt"
+        },
+        {
+            "key": "GUILD_BARRACKS_TITLE",
+            "value": "Gildenkaserne"
+        },
+        {
+            "key": "GUILD_STATUE_TITLE",
+            "value": "Gildenstatuen"
+        },
+        {
+            "key": "GUILD_HUNT_TITLE",
+            "value": "Gildenaufträge"
+        },
+        {
+            "key": "GUILD_STATUEENHANCE_TITLE",
+            "value": "Gildenstatuen verbessern"
+        },
+        {
+            "key": "GUILDBATTLE_TITLE",
+            "value": "Gildenkämpfe"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "Limitierte Gildenkämpfe"
+        },
+        {
+            "key": "GUILDBATTLE_LEAGUE_TITLE",
+            "value": "Gildenherrschaftskämpfe"
+        },
+        {
+            "key": "GUILDBATTLE_EXERCISE_TITLE",
+            "value": "Probekämpfe (Gildenkämpfe)"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_EXERCISE_TITLE",
+            "value": "Probekämpfe (Limitierte Gildenkämpfe)"
+        },
+        {
+            "key": "GUILDBATTLE_LEAGUE_EXERCISE_TITLE",
+            "value": "Probekämpfe (Gildenherrschaftskämpfe)"
+        },
+        {
+            "key": "DUEL_TITLE",
+            "value": "Duelle"
+        },
+        {
+            "key": "ARENA_TOP_TITLE",
+            "value": "Arena"
+        },
+        {
+            "key": "ARENA_PARTYEDIT_TITLE",
+            "value": "Arena-Gruppenaufstellung"
+        },
+        {
+            "key": "ARENA_LIST_TITLE",
+            "value": "Arenagegner auswählen"
+        },
+        {
+            "key": "ARENA_REWARD_TITLE",
+            "value": "Arena-Belohnungslisten"
+        },
+        {
+            "key": "ARENA_RANKINGREWARD_TITLE",
+            "value": "Arena-Belohnungen abholen"
+        },
+        {
+            "key": "MATCH_TITLE",
+            "value": "Match-Kämpfe"
+        },
+        {
+            "key": "MATCH_PARTYEDIT_TITLE",
+            "value": "Gruppenaufstellung in Match-Kämpfen"
+        },
+        {
+            "key": "MATCH_MAKEROOM_TITLE",
+            "value": "Freundschaftsmatches"
+        },
+        {
+            "key": "CLASSMATCH_TITLE",
+            "value": "Klassenmatches"
+        },
+        {
+            "key": "CLASSMATCH_INFO_TITLE",
+            "value": "Klassenbeschreibung"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_TITLE",
+            "value": "Belohnungslisten für Klassenmatches"
+        },
+        {
+            "key": "LOBBY_TITLE",
+            "value": "Abyssum"
+        },
+        {
+            "key": "SUMMONQUEST_TITLE",
+            "value": "Höhle des Ungetüms"
+        },
+        {
+            "key": "SUPPORT_LIST_TITLE",
+            "value": "Begleiterauswahl"
+        },
+        {
+            "key": "MULTI_TOP_TITLE",
+            "value": "Multi"
+        },
+        {
+            "key": "MULTI_QUESTLIST_TITLE",
+            "value": "Multiauftrag auswählen"
+        },
+        {
+            "key": "MULTI_ROOMLIST_TITLE",
+            "value": "Multi-Rekrutierungsliste"
+        },
+        {
+            "key": "MULTI_PLAYSTYLE_TITLE",
+            "value": "Spielstil festlegen"
+        },
+        {
+            "key": "MULTI_ROOM_TITLE",
+            "value": "Multi-Räume"
+        },
+        {
+            "key": "MULTI_PARTYEDIT_TITLE",
+            "value": "Multi-Gruppenaufstellungs-Bildschirm"
+        },
+        {
+            "key": "MULTI_RPLAYER_TITLE",
+            "value": "Spielerprofil"
+        },
+        {
+            "key": "MULTI_OTHERPLAYER_TITLE",
+            "value": "Multiauftrag: Aufbruchinformationen zu Einheiten"
+        },
+        {
+            "key": "RAID_ENCOUNT_TITLE",
+            "value": "Kraftproben-Konfrontationen"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "Kraftproben"
+        },
+        {
+            "key": "RAID_ROOM_TITLE",
+            "value": "Kraftprobenräume"
+        },
+        {
+            "key": "RAID_BOSS_TITLE",
+            "value": "Kraftproben-Bosse"
+        },
+        {
+            "key": "RAID_DEFEAT_TITLE",
+            "value": "Kraftproben-Bosse besiegen"
+        },
+        {
+            "key": "RAID_END_TITLE",
+            "value": "Abholzeitraum für Belohnungen"
+        },
+        {
+            "key": "RAID_REWARD_TITLE",
+            "value": "Kraftprobenbelohnungen"
+        },
+        {
+            "key": "RAID_PARTYEDIT_TITLE",
+            "value": "Gruppenaufstellungs-Bildschirm der Kraftproben"
+        },
+        {
+            "key": "RAID_HELP_TITLE",
+            "value": "Verstärkungsanfragen"
+        },
+        {
+            "key": "RAID_OTHERPLAYER_TITLE",
+            "value": "Kraftprobe: Aufbruchinformationen zu Einheiten"
+        },
+        {
+            "key": "OTHERPLAYER_TITLE",
+            "value": "Profile anderer Spieler"
+        },
+        {
+            "key": "EVENT_TITLE",
+            "value": "Events"
+        },
+        {
+            "key": "EVENT_QUESTLIST_TITLE",
+            "value": "Eventauftragsliste"
+        },
+        {
+            "key": "MOGSHOP_TITLE",
+            "value": "Mog-Laden"
+        },
+        {
+            "key": "STORY_TITLE",
+            "value": "Storyaufträge"
+        },
+        {
+            "key": "STORY_SELECT_TITLE",
+            "value": "Storyaufträge"
+        },
+        {
+            "key": "STORY_SORTIE_TITLE",
+            "value": "Einsatzbildschirm"
+        },
+        {
+            "key": "STORY_FORCEDSORTIE_TITLE",
+            "value": "Story: Zwangseinsätze"
+        },
+        {
+            "key": "STORY_LIST_TITLE",
+            "value": "Begleiterauswahl"
+        },
+        {
+            "key": "WORLD_TITLE",
+            "value": "Die Weltkarte"
+        },
+        {
+            "key": "WORLD_AREA_TITLE",
+            "value": "Die Regionale Karte"
+        },
+        {
+            "key": "WORLD_QUESTLIST_TITLE",
+            "value": "Liste der Weltaufträge"
+        },
+        {
+            "key": "WORLD_SORTIE_TITLE",
+            "value": "Der Gruppenaufstellungs-Bildschirm"
+        },
+        {
+            "key": "WORLD_FORCEDSORTIE_TITLE",
+            "value": "Welt: Zwangseinsätze"
+        },
+        {
+            "key": "WORLD_LIST_TITLE",
+            "value": "Begleiterauswahl"
+        },
+        {
+            "key": "WORLD_SUBQUEST_TITLE",
+            "value": "Die Unterauftragsliste"
+        },
+        {
+            "key": "FRIEND_TITLE",
+            "value": "Freund"
+        },
+        {
+            "key": "FRIEND_GIFT_TITLE",
+            "value": "Geschenke"
+        },
+        {
+            "key": "SUBMENU_QUEST_TITLE",
+            "value": "Aufstellen von Gruppen für Aufträge"
+        },
+        {
+            "key": "SUBMENU_DUEL_TITLE",
+            "value": "Aufstellen von Gruppen für Duelle"
+        },
+        {
+            "key": "SUBMENU_MULTI_TITLE",
+            "value": "Aufstellen von Multi-Gruppen"
+        },
+        {
+            "key": "SUBMENU_GUILD_TITLE",
+            "value": "Aufstellen von Gruppen für Gildenkämpfe"
+        },
+        {
+            "key": "SUBMENU_TEMPLATE_TITLE",
+            "value": ""
+        },
+        {
+            "key": "SUBMENU_SUPPORT_TITLE",
+            "value": "Einstellungen für Begleiter"
+        },
+        {
+            "key": "ARTI_TITLE",
+            "value": "Ausrüstungsdetails"
+        },
+        {
+            "key": "ARTI_LIST_TITLE",
+            "value": "Ausrüstungsliste"
+        },
+        {
+            "key": "ARTI_ENHANCE_TITLE",
+            "value": "Ausrüstung verbessern"
+        },
+        {
+            "key": "ARTI_AWAKE_TITLE",
+            "value": "Ausrüstung erwecken"
+        },
+        {
+            "key": "ARTI_STATUS_TITLE",
+            "value": "Schmieden von Ausrüstung"
+        },
+        {
+            "key": "ARTI_ABILITY_TITLE",
+            "value": "Ausrüstungsfähigkeiten verbessern"
+        },
+        {
+            "key": "ARTI_RESET_TITLE",
+            "value": "Ausrüstung zurücksetzen"
+        },
+        {
+            "key": "ARTI_CRAFT_TITLE",
+            "value": "Herstellung"
+        },
+        {
+            "key": "ARTI_CRAFT_DETAIL_TITLE",
+            "value": "Herstellungsdetails"
+        },
+        {
+            "key": "ARTI_SELL_TITLE",
+            "value": "Ausrüstung verkaufen"
+        },
+        {
+            "key": "ARTI_BULK_TITLE",
+            "value": "Ausrüstung zerlegen"
+        },
+        {
+            "key": "NETHERBEAST_LIST_TITLE",
+            "value": "Esper-Liste"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_TITLE",
+            "value": "Esperprofile"
+        },
+        {
+            "key": "NETHERBEAST_ENHANCE_TITLE",
+            "value": "Mehrere Felder gleichzeitig freischalten"
+        },
+        {
+            "key": "NETHERBEAST_ABILITYBOARD_TITLE",
+            "value": "Esper-Trainingsbrett"
+        },
+        {
+            "key": "NETHERBEAST_RELEASE_TITLE",
+            "value": "Esper-Trainingsbrett"
+        },
+        {
+            "key": "NETHERBEAST_RELEASEALL_TITLE",
+            "value": "Esper-Trainingsbrett: Alles freischalten"
+        },
+        {
+            "key": "NETHERBEAST_RESET_TITLE",
+            "value": "Esper-Trainingsbrett zurücksetzen"
+        },
+        {
+            "key": "VISION_LIST_TITLE",
+            "value": "Visionskartenliste"
+        },
+        {
+            "key": "VISION_ENHANCE_TITLE",
+            "value": "Elementaraura"
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_TITLE",
+            "value": "Kartenfusion"
+        },
+        {
+            "key": "VISION_SELL_TITLE",
+            "value": "Visionskarten verkaufen"
+        },
+        {
+            "key": "VISION_DETAIL_TITLE",
+            "value": "Visionskarten"
+        },
+        {
+            "key": "MISSION_TITLE",
+            "value": "Missionen"
+        },
+        {
+            "key": "OPTION_TITLE",
+            "value": "Menü"
+        },
+        {
+            "key": "OPTION_PLAYERINFO_TITLE",
+            "value": "Spielerprofil"
+        },
+        {
+            "key": "OPTION_STORYMEMORY_TITLE",
+            "value": "Story-Erinnerungen"
+        },
+        {
+            "key": "ITEM_TITLE",
+            "value": "Gegenst."
+        },
+        {
+            "key": "CHARGEBONUS_TITLE",
+            "value": "Tägliche Einkaufsboni"
+        },
+        {
+            "key": "EXCHANGE_TITLE",
+            "value": "Gegenstandstauschladen"
+        },
+        {
+            "key": "TOWER_TOP_TITLE",
+            "value": "Porzellanturm"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "Info"
+        },
+        {
+            "key": "TOWER_PARTY_TITLE",
+            "value": "Einsatzbildschirm des Porzellanturms"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "Auto-Kampf-Fähigkeiten"
+        },
+        {
+            "key": "CONTACT_US_TITLE",
+            "value": "Kontaktiere uns/Hilfe"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_INFO_TITLE",
+            "value": "Spielerprofil"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_IDENTIFIER_TITLE",
+            "value": "Spieler-ID"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_NAME_TITLE",
+            "value": "Spielername"
+        },
+        {
+            "key": "CONTACT_US_INQUIRIES_TITLE",
+            "value": "Kontaktformular"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_TYPE_TITLE",
+            "value": "Kategorie"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_AREA_TITLE",
+            "value": "Bereich"
+        },
+        {
+            "key": "CONTACT_US_EMAIL_TITLE",
+            "value": "E-Mail (optional)"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_TITLE",
+            "value": "Kommentar"
+        },
+        {
+            "key": "CONTACT_US_SEND_BUTTON",
+            "value": "Senden"
+        },
+        {
+            "key": "CONTACT_US_TICKETS_BUTTON",
+            "value": "Meine Tickets"
+        },
+        {
+            "key": "ISSUE_TYPE_GENERAL",
+            "value": "Allgemein"
+        },
+        {
+            "key": "ISSUE_TYPE_ACCOUNT",
+            "value": "Konto"
+        },
+        {
+            "key": "ISSUE_TYPE_GAMEPLAY",
+            "value": "Gameplay"
+        },
+        {
+            "key": "ISSUE_TYPE_BUG",
+            "value": "Fehler"
+        },
+        {
+            "key": "ISSUE_TYPE_EVENT",
+            "value": "Event"
+        },
+        {
+            "key": "ISSUE_TYPE_FEEDBACK",
+            "value": "Feedback"
+        },
+        {
+            "key": "ISSUE_TYPE_IN_APP_PURCHASE",
+            "value": "Kauffunktion"
+        },
+        {
+            "key": "ISSUE_TYPE_BILLING",
+            "value": "Zahlvorgang"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_LOST",
+            "value": "Konto verloren"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_SHARD",
+            "value": "Fehlende Fragmente"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_LAPIS",
+            "value": "Fehlende Visiore"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_EQUIPMENT",
+            "value": "Fehlende Ausrüstung"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_SUSPENDED",
+            "value": "Konto gesperrt"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_OTHERS",
+            "value": "Sonstiges"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_MISSING_REWARDS",
+            "value": "Fehlende Belohnungen"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_CRASH",
+            "value": "Absturz beim Event"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_BUG",
+            "value": "Fehler im Event"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_OTHERS",
+            "value": "Sonstiges"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_UNABLE_TO_DOWNLOAD",
+            "value": "Download-Probleme"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_LOADING",
+            "value": "Ladezeiten"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_QUEST",
+            "value": "Aufträge"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_GACHA",
+            "value": "Beschwörungen"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_ARENA",
+            "value": "Arena"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_CONNECTION_ERROR",
+            "value": "Verbindungsprobleme"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_OTHERS",
+            "value": "Sonstiges"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_IMAGE",
+            "value": "Grafik"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TEXT",
+            "value": "Text"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TRANSLATION",
+            "value": "Übersetzung"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_SKILL",
+            "value": "Fähigkeiten"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_OTHERS",
+            "value": "Sonstiges"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_MISSING_PURCHASE",
+            "value": "Einkäufe nicht auffindbar"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_REFUND",
+            "value": "Erstattungen"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_BUNDLE",
+            "value": "Bundles"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_APPLE",
+            "value": "Apple App Store"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_GOOGLE",
+            "value": "Google Play Store"
+        },
+        {
+            "key": "SUPPORT_TICKETS_TITLE",
+            "value": "Meine Tickets"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_CAPTION",
+            "value": "Bitte gib deine Frage ein."
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_DIALOG_TITLE",
+            "value": "Antwort"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_SUCCESS_DIALOG_DESC",
+            "value": "Deine Nachricht wurde verschickt."
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_FAIL_DIALOG_DESC",
+            "value": "Ein Fehler ist aufgetreten. Deine Nachricht wurde nicht verschickt."
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_TITLE",
+            "value": "Bestätigung"
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
+            "value": "Nachricht abschicken?"
+        },
+        {
+            "key": "POINT_QUEST_TOP_TITLE",
+            "value": "Prüfungen des Urteils"
+        },
+        {
+            "key": "STAMP_TITLE",
+            "value": "Abzeichen"
+        },
+        {
+            "key": "MASTERY_TITLE",
+            "value": "Kompetenzen"
+        },
+        {
+            "key": "DRAFTMATCH_TITLE",
+            "value": "Schnellwahl-Match"
+        },
+        {
+            "key": "DRAFTMATCH_INFO_TITLE",
+            "value": "Klassenbeschreibung"
+        },
+        {
+            "key": "DRAFTMATCH_REWARD_TITLE",
+            "value": "Belohnungsliste für Schnellwahl-Matches"
+        },
+        {
+            "key": "BATTLEROAD_TITLE",
+            "value": "Auswahlaufträge"
+        },
+        {
+            "key": "BATTLEROAD_QUESTLIST_TITLE",
+            "value": "Liste der Auswahlaufträge"
+        },
+        {
+            "key": "FIRSTBONUS_TITLE",
+            "value": "Bonus für den Erstkauf"
+        },
+        {
+            "key": "GUILDRAID_TOP_TITLE",
+            "value": "Gilden-Kraftproben"
+        },
+        {
+            "key": "GUILDRAID_BOSS_TITLE",
+            "value": "Gildenkraftproben-Bosse"
+        },
+        {
+            "key": "GUILDRAID_PARTYEDIT_TITLE",
+            "value": "Gruppenaufstellungs-Bildschirm der Gildenkraftproben"
+        },
+        {
+            "key": "UNIT_OTHERPLAYER_TITLE",
+            "value": "Profile anderer Spieler"
+        },
+        {
+            "key": "MATERIAL_LIST_TITLE",
+            "value": "Vertrauensstein-Liste"
+        },
+        {
+            "key": "MATERIAL_ENHANCE_TITLE",
+            "value": "Verbessern von Vertrauenssteinen"
+        },
+        {
+            "key": "MATERIAL_CRAFT_TITLE",
+            "value": "Schmieden von Vertrauenssteinen"
+        },
+        {
+            "key": "MATERIAL_SELL_TITLE",
+            "value": "Zerlegen von Vertrauenssteinen"
+        }
+    ]
+}

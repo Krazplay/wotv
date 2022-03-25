@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bienvenue, Sire. Je serai votre professeur pour cette leçon sur les bases du combat."
+        },
+        {
+            "key": "//変更無し//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Aujourd'hui, nous allons nous intéresser aux <color=#0000ff>types d'attaque</color>."
+        },
+        {
+            "key": "003",
+            "value": "Toutes les attaques appartiennent à <color=#0000ff>l'un des 5 types</color> suivants. Les attaques tranchantes, perforantes, contondantes, projectiles et magiques."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "En parallèle, toutes les unités possèdent <color=#0000ff>une résistance à un type d'attaque</color>."
+        },
+        {
+            "key": "008",
+            "value": "Pour connaître la résistance d'un ennemi, il vous suffit d'appuyer sur <color=#0000ff>la loupe</color> qui apparaît quand vous l'attaquez."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "009",
+            "value": "Puisque votre <color=#0000ff>épée est des plus tranchantes</color>, je vous recommande de vous attaquer aux ennemis dont <color=#0000ff>la résistance aux attaques tranchantes est faible</color>."
+        },
+        {
+            "key": "010",
+            "value": "Pendant ce temps, ma <color=#0000ff>lance</color> produit des <color=#0000ff>attaques perforantes</color>. Je préfère donc les ennemis dont <color=#0000ff>la résistance aux attaques perforantes est faible</color>."
+        },
+        {
+            "key": "011",
+            "value": "Mettons tout cela en pratique."
+        },
+        {
+            "key": "012",
+            "value": "Excellent, Sire ! Vous avez défait l'ennemi. Avez-vous senti la variation des dégâts induite par les différentes résistances ?"
+        },
+        {
+            "key": "013",
+            "value": "Plus vous aurez de l'expérience au combat, moins vous aurez besoin de consulter la loupe pour deviner la résistance de vos ennemis. Il vous suffira de surveiller leur <color=#0000ff>jauge de PV</color>."
+        },
+        {
+            "key": "014",
+            "value": "Pensez toujours à vous servir de ces informations."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "realmoney_tab_judge_sp",
+            "value": "한정"
+        },
+        {
+            "key": "realmoney_tab_judge_day",
+            "value": "일일"
+        },
+        {
+            "key": "realmoney_tab_judge_week",
+            "value": "주간"
+        },
+        {
+            "key": "realmoney_tab_judge_mon",
+            "value": "월간"
+        },
+        {
+            "key": "realmoney_tab_beginner",
+            "value": "초보자"
+        },
+        {
+            "key": "realmoney_tab_comback",
+            "value": "컴백"
+        },
+        {
+            "key": "realmoney_tab_limited",
+            "value": "한정"
+        },
+        {
+            "key": "realmoney_tab_normal",
+            "value": "일반"
+        },
+        {
+            "key": "realmoney_tab_other",
+            "value": "기타"
+        }
+    ]
+}

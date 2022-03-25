@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Eh bien... Le château des Leonis est tombé."
+        },
+        {
+            "key": "002",
+            "value": "Il y a autre chose."
+        },
+        {
+            "key": "003",
+            "value": "Nous avons capturé la reine Helena et le plus jeune des princes, Sterne."
+        },
+        {
+            "key": "004",
+            "value": "Ce qui veut dire que le reste des Leonis, le roi Eldo et le prince Mont, nous ont échappé ?"
+        },
+        {
+            "key": "005",
+            "value": "Oui, Votre Sainteté."
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Peu importe après tout."
+        },
+        {
+            "key": "008",
+            "value": "Je devrais peut-être me rendre en personne au château des Leonis, ne pensez-vous pas ?"
+        },
+        {
+            "key": "009",
+            "value": "En personne, Votre Sainteté ?"
+        },
+        {
+            "key": "010",
+            "value": "Beaucoup de rumeurs à propos de Sterne sont parvenues jusqu'à mes oreilles."
+        },
+        {
+            "key": "011",
+            "value": "Cela fait longtemps que je désire mettre la main sur lui, d'une façon ou d'une autre."
+        },
+        {
+            "key": "012",
+            "value": "Il est étonnant que mon rêve soit devenu aussi vite réalité..."
+        }
+    ]
+}

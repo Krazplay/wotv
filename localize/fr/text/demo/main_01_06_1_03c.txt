@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "T-toute cette neige !"
+        },
+        {
+            "key": "002",
+            "value": "Voici donc à quoi ressemble Wezett..."
+        },
+        {
+            "key": "003",
+            "value": "Cette blancheur éclatante fait remonter tant de souvenirs... Je me souviens de la première fois que je suis venu ici."
+        },
+        {
+            "key": "004",
+            "value": "J'espère que Graziella se porte bien."
+        },
+        {
+            "key": "005",
+            "value": "Elle se porte à merveille."
+        },
+        {
+            "key": "006",
+            "value": "Argh !"
+        },
+        {
+            "key": "007",
+            "value": "Schuzelt... ça va ?"
+        },
+        {
+            "key": "008",
+            "value": "..."
+        },
+        {
+            "key": "009",
+            "value": "Mais, tu pleures ? C'est à cause de tes blessures ?"
+        },
+        {
+            "key": "010",
+            "value": "N-non... Ce ne sont que de douloureux... regrets. "
+        },
+        {
+            "key": "011",
+            "value": "..."
+        },
+        {
+            "key": "012",
+            "value": "C'est la fuite de Muraga, qui te met dans cet état ?"
+        },
+        {
+            "key": "013",
+            "value": "Je ne pensais pas être capable de m'en vouloir à ce point."
+        },
+        {
+            "key": "014",
+            "value": "Nous aurons une autre occasion de l'affronter."
+        },
+        {
+            "key": "015",
+            "value": "Mais oui ! Alors d'ici là, tu as intérêt à récupérer."
+        },
+        {
+            "key": "016",
+            "value": "..."
+        }
+    ]
+}

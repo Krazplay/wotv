@@ -1,0 +1,256 @@
+﻿{
+    "infos": [
+        {
+            "key": "691",
+            "value": "... Grch!"
+        },
+        {
+            "key": "692",
+            "value": "Ah, da bist du ja wieder."
+        },
+        {
+            "key": "693",
+            "value": "...!"
+        },
+        {
+            "key": "694",
+            "value": "Fass mich nicht an."
+        },
+        {
+            "key": "695",
+            "value": "Was denn! Ich mach mir doch nur Sorgen um dich!"
+        },
+        {
+            "key": "696",
+            "value": "Mach dir lieber Sorgen um dich selbst!"
+        },
+        {
+            "key": "697",
+            "value": "..."
+        },
+        {
+            "key": "698",
+            "value": "Spielst die Verbündete und arbeitest hinter meinem Rücken gegen mich ..."
+        },
+        {
+            "key": "699",
+            "value": "Was? Wovon redest du?"
+        },
+        {
+            "key": "700",
+            "value": "Glaubst du, dass ich dich nicht durchschaue?"
+        },
+        {
+            "key": "701",
+            "value": "Die Shinobi aus Leonis ... die hast du doch laufen lassen!"
+        },
+        {
+            "key": "702",
+            "value": "D-Das war doch nur ... weil ich dachte, dass es so spannender wird!"
+        },
+        {
+            "key": "703",
+            "value": "Spannender?!"
+        },
+        {
+            "key": "704",
+            "value": "Du willst mich doch nur aus dem Weg räumen, damit du dich bei Khuri anbiedern kannst!"
+        },
+        {
+            "key": "705",
+            "value": "Das ist doch gar nicht wahr!"
+        },
+        {
+            "key": "706",
+            "value": "Du weißt doch genau, wie ich ticke!"
+        },
+        {
+            "key": "707",
+            "value": "Ich treffe meine Entscheidungen allein danach, wie ich mich am besten amüsieren kann."
+        },
+        {
+            "key": "708",
+            "value": "Khuri hat sicher Wind davon bekommen, dass du die Shinobi laufen gelassen hast."
+        },
+        {
+            "key": "709",
+            "value": "... Hat er dich deswegen so zugerichtet?"
+        },
+        {
+            "key": "710",
+            "value": "Pöh. Khuri hat seine Spitzel wohl überall."
+        },
+        {
+            "key": "711",
+            "value": "Aber ... das heißt doch auch, dass es von jetzt an um so aufregender wird, oder nicht?"
+        },
+        {
+            "key": "712",
+            "value": "..."
+        },
+        {
+            "key": "713",
+            "value": "Viktora?"
+        },
+        {
+            "key": "714",
+            "value": "... Was planst du wirklich? Und überhaupt ... was bist du eigentlich?"
+        },
+        {
+            "key": "715",
+            "value": "Seit wir uns damals zufällig begegnet sind, sind wir zusammen unterwegs. Aber im Grunde weiß ich gar nichts über dich."
+        },
+        {
+            "key": "716",
+            "value": "Langsam wird es Zeit, dass du mit der Wahrheit rausrückst. Na los, ich bin ganz Ohr!"
+        },
+        {
+            "key": "717",
+            "value": "Tja, die Wahrheit ..."
+        },
+        {
+            "key": "718",
+            "value": "Genau. Lass alles raus."
+        },
+        {
+            "key": "719",
+            "value": "Und je nachdem, was ich jetzt gleich höre, entscheide ich dann, was ich mit dir anstelle."
+        },
+        {
+            "key": "720",
+            "value": "..."
+        },
+        {
+            "key": "721",
+            "value": "Was ist los? Hast du plötzlich das Sprechen verlernt?"
+        },
+        {
+            "key": "722",
+            "value": "Soll ich dir das wirklich alles erzählen?"
+        },
+        {
+            "key": "723",
+            "value": "Ja, alles. Restlos."
+        },
+        {
+            "key": "724",
+            "value": "Also gut."
+        },
+        {
+            "key": "725",
+            "value": "Ich habe der Kirche des Kristalls angehört. Und zwar direkt bis ich dich getroffen habe."
+        },
+        {
+            "key": "726",
+            "value": "Der Kirche des Kristalls? Also hast du Sadali gedient?"
+        },
+        {
+            "key": "727",
+            "value": "Genau."
+        },
+        {
+            "key": "728",
+            "value": "... Warum lässt sich jemand wie du mit einem Menschen wie Sadali ein?"
+        },
+        {
+            "key": "729",
+            "value": "Weil ich in dem Fall keine Wahl hatte, ganz einfach."
+        },
+        {
+            "key": "730",
+            "value": "Ich bin ein Homunculus, und Sadali hat mich erschaffen."
+        },
+        {
+            "key": "731",
+            "value": "Ein Hom..."
+        },
+        {
+            "key": "732",
+            "value": "...!"
+        },
+        {
+            "key": "733",
+            "value": "Da steckt ihr also."
+        },
+        {
+            "key": "734",
+            "value": "Macht euch bereit für die Schlacht."
+        },
+        {
+            "key": "735",
+            "value": "Für welche Schlacht?"
+        },
+        {
+            "key": "736",
+            "value": "Auf Befehl Seiner Majestät wurdet ihr an die vorderste Front beordert."
+        },
+        {
+            "key": "737",
+            "value": "Tsk, alles klar. Als Kanonenfutter bin ich ihm also noch gut genug?"
+        },
+        {
+            "key": "738",
+            "value": "Urrf...!"
+        },
+        {
+            "key": "739",
+            "value": "He-Hey! Warum hast du das gemacht?"
+        },
+        {
+            "key": "740",
+            "value": "Was denn? Du magst es doch, wenn es spannend wird, oder?"
+        },
+        {
+            "key": "741",
+            "value": "Dann pass gut auf. Gleich wird es für uns spannend wie nie zuvor."
+        },
+        {
+            "key": "742",
+            "value": "Wa-Was soll das, verdammt?!"
+        },
+        {
+            "key": "743",
+            "value": "Frag nicht so zurückgeblieben! Ich weiß genau, warum ihr hier seid."
+        },
+        {
+            "key": "744",
+            "value": "Ihr sollt uns aus dem Weg räumen, habe ich recht?"
+        },
+        {
+            "key": "745",
+            "value": "..."
+        },
+        {
+            "key": "746",
+            "value": "Gut erkannt."
+        },
+        {
+            "key": "747",
+            "value": "Wir haben den Befehl, euch auszuschalten, sobald ihr auch nur ein bisschen aus der Spur lauft."
+        },
+        {
+            "key": "748",
+            "value": "Wie unüberraschend."
+        },
+        {
+            "key": "749",
+            "value": "Aber egal. Ich habe sowieso die Nase voll von eurem Zirkus hier. Dann zeigt mal, was ihr könnt."
+        },
+        {
+            "key": "750",
+            "value": "Aber wie sieht’s mit dir aus?"
+        },
+        {
+            "key": "751",
+            "value": "Das fragst du noch?"
+        },
+        {
+            "key": "752",
+            "value": "Ich bin natürlich dabei. Mit dir wird’s einfach nie langweilig, Viktora!"
+        },
+        {
+            "key": "753",
+            "value": "Mich wirst du so schnell nicht mehr los!"
+        }
+    ]
+}

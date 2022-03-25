@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Oh ! Son Altesse Machalie ?"
+        },
+        {
+            "key": "002",
+            "value": "Quoi ? C'est elle votre prisonnière ? Comment ça se fait ?"
+        },
+        {
+            "key": "003",
+            "value": "Vous n'êtes pas tous de Hourne ?"
+        },
+        {
+            "key": "004",
+            "value": "C'était une trahison !"
+        },
+        {
+            "key": "005",
+            "value": "Ah ! J'avais raison !"
+        },
+        {
+            "key": "006",
+            "value": "Puis-je savoir comment tu t'appelles ?"
+        },
+        {
+            "key": "007",
+            "value": "Pas question, vous allez encore écorcher mon nom !"
+        },
+        {
+            "key": "008",
+            "value": "Ah-ah... Eh bien, puis-je au moins savoir ceci ?"
+        },
+        {
+            "key": "009",
+            "value": "Où en est la guerre ?"
+        },
+        {
+            "key": "010",
+            "value": "Hm, ben... ils nous ont un peu écrasés..."
+        },
+        {
+            "key": "011",
+            "value": "Alors retirez-vous immédiatement."
+        },
+        {
+            "key": "012",
+            "value": "Quoi ? Vous ne voulez pas qu'on vous libère ?"
+        },
+        {
+            "key": "013",
+            "value": "Je refuse de vous impliquer dans cette affaire."
+        },
+        {
+            "key": "014",
+            "value": "Mais..."
+        },
+        {
+            "key": "015",
+            "value": "Ne sous-estimez pas mes ravisseurs."
+        },
+        {
+            "key": "016",
+            "value": "Je vous en prie, portez ce message à Mont de ma part."
+        },
+        {
+            "key": "017",
+            "value": "Au prince... ?"
+        },
+        {
+            "key": "018",
+            "value": "Dites-lui que je l'attends."
+        },
+        {
+            "key": "019",
+            "value": "Quoi ? C'est tout ?"
+        },
+        {
+            "key": "020",
+            "value": "Oui, c'est tout. Allez, filez !"
+        },
+        {
+            "key": "021",
+            "value": "Bon. Retraite !"
+        }
+    ]
+}

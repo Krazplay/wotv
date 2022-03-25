@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Por fin se ve el castillo de Wezette."
+        },
+        {
+            "key": "002",
+            "value": "Os lo preguntaré por última vez."
+        },
+        {
+            "key": "003",
+            "value": "¿Qué?"
+        },
+        {
+            "key": "004",
+            "value": "¿En serio estáis decidido a reuniros con el rey Kuri?"
+        },
+        {
+            "key": "005",
+            "value": "Sí."
+        },
+        {
+            "key": "006",
+            "value": "Por eso os hemos acompañado hasta aquí."
+        },
+        {
+            "key": "007",
+            "value": "Ya veo."
+        },
+        {
+            "key": "008",
+            "value": "Te preocupas demasiado, ¿eh?"
+        },
+        {
+            "key": "009",
+            "value": "Pues no hace falta, que ya me encargo yo de proteger a lord Mont y compañía."
+        },
+        {
+            "key": "010",
+            "value": "Me pregunto si serás capaz de ello…"
+        },
+        {
+            "key": "011",
+            "value": "¡¿Eh?! Será mejor para todos que te ahorres tus presagios de mal agüero."
+        },
+        {
+            "key": "012",
+            "value": "Las estrellas brillan con fuerza…"
+        },
+        {
+            "key": "013",
+            "value": "¡¿Puedes oír lo que dicen las estrellas?!"
+        },
+        {
+            "key": "014",
+            "value": "¿Y bien, Ramada? ¿Qué es lo que dicen? ¿Deberíamos marcharnos o no?"
+        },
+        {
+            "key": "015",
+            "value": "Se van a perder muchas vidas."
+        },
+        {
+            "key": "016",
+            "value": "Es lo que tienen las guerras…"
+        },
+        {
+            "key": "017",
+            "value": "Sin embargo, si nos retiramos, muchos más podrían caer…"
+        },
+        {
+            "key": "018",
+            "value": "Pues no nos queda otra que seguir adelante."
+        },
+        {
+            "key": "019",
+            "value": "¡Adelante! ¡Por Leonis!"
+        }
+    ]
+}

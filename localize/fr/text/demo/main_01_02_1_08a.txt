@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ha... ha..."
+        },
+        {
+            "key": "002",
+            "value": "Est-ce que ça fait mal ?"
+        },
+        {
+            "key": "003",
+            "value": "Geindre serait-il une spécialité des gardes royaux de Hourne ?"
+        },
+        {
+            "key": "004",
+            "value": "J'ai abandonné mon statut et mon honneur. Je ne suis plus garde royal."
+        },
+        {
+            "key": "005",
+            "value": "Sans blague ?! Je suppose que c'était inévitable."
+        },
+        {
+            "key": "006",
+            "value": "Maintenant vous pouvez m'utiliser comme bon vous semble."
+        },
+        {
+            "key": "007",
+            "value": "Vous utiliser ? Qui voudrait faire ça ?"
+        },
+        {
+            "key": "008",
+            "value": "Maintenant que j'ai tout perdu, je m'attends à être utilisé pour ce que je vaux."
+        },
+        {
+            "key": "009",
+            "value": "Vous vous trompez. C'est vous qui devriez nous utiliser."
+        },
+        {
+            "key": "010",
+            "value": "Qu'est-ce que vous racontez ?"
+        },
+        {
+            "key": "011",
+            "value": "Aucune guerre ne peut se faire sans verser le sang. Cependant... le sang de certains ne devrait jamais couler, n'êtes-vous pas d'accord ?"
+        },
+        {
+            "key": "012",
+            "value": "Ce qu'a fait Muraga est impardonnable ! On ne peut pas le laisser s'en sortir à bon compte !"
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Vous... pleurez ?"
+        },
+        {
+            "key": "015",
+            "value": "Pour ma famille... pour Naiah peut-être ?"
+        },
+        {
+            "key": "016",
+            "value": "J'aimerais tellement que les guerres disparaissent. J'ai foi en mon prince. Je suis sûre qu'il parviendra à créer un monde de paix."
+        },
+        {
+            "key": "017",
+            "value": "Et je ferai tout ce qui est en mon pouvoir pour qu'il réussisse."
+        },
+        {
+            "key": "018",
+            "value": "Alors, ne vous gênez pas. Si nous pouvons vous être utiles, nous vous aiderons du mieux que nous pourrons."
+        },
+        {
+            "key": "019",
+            "value": "..."
+        },
+        {
+            "key": "020",
+            "value": "Vous ne comprenez pas les sentiments du prince Mont, n'est-ce pas ?"
+        },
+        {
+            "key": "021",
+            "value": "Que voulez-vous dire ?"
+        },
+        {
+            "key": "022",
+            "value": "Ne vous l'a-t-il pas dit ? Vous n'avez pas les qualités requises pour être un garde royal."
+        },
+        {
+            "key": "023",
+            "value": "..."
+        },
+        {
+            "key": "024",
+            "value": "Il ne supportait sans doute pas de vous voir souffrir des contraintes qui vont avec ce titre."
+        },
+        {
+            "key": "025",
+            "value": "Utiliser ou être utilisé, être ami ou être ennemi..."
+        },
+        {
+            "key": "026",
+            "value": "De telles choses n'ont aucun rapport avec les notions de bien et de mal, ne pensez-vous pas ?"
+        },
+        {
+            "key": "027",
+            "value": "Il est plein de bonté, ce prince Mont."
+        },
+        {
+            "key": "028",
+            "value": "Il l'est. Mais c'est pour cela que je me fais tout le temps du souci pour lui."
+        },
+        {
+            "key": "029",
+            "value": "Capitaine Lilyth !"
+        },
+        {
+            "key": "030",
+            "value": "Quel est le problème ?"
+        },
+        {
+            "key": "031",
+            "value": "Les soldats de Hourne sont trop nombreux. Nos troupes perdent du terrain."
+        },
+        {
+            "key": "032",
+            "value": "À cette vitesse..."
+        },
+        {
+            "key": "033",
+            "value": "A-attendez, où pensez-vous aller ?"
+        },
+        {
+            "key": "034",
+            "value": "Le prince Mont est encore en train de se battre sur le front."
+        },
+        {
+            "key": "035",
+            "value": "Ne partez pas."
+        },
+        {
+            "key": "036",
+            "value": "Oh ? Vous allez soudainement me traiter comme une petite fille fragile ?"
+        },
+        {
+            "key": "037",
+            "value": "Est-ce que vous savez contre qui vous allez vous battre ?! Résister à « Solidus » est absurde."
+        },
+        {
+            "key": "038",
+            "value": "Escortez dame Machalie et Schuzelt au château des Lions, et dépêchez-vous !"
+        },
+        {
+            "key": "039",
+            "value": "Oui, capitaine !"
+        },
+        {
+            "key": "040",
+            "value": "Arrêtez ! Vous voulez mourir ?"
+        },
+        {
+            "key": "041",
+            "value": "Je n'ai aucune intention de mourir. Je fais tout cela pour vivre."
+        },
+        {
+            "key": "042",
+            "value": "Contrairement à vous !"
+        },
+        {
+            "key": "043",
+            "value": "Lilyth... Quelle bravoure ! Peut-être pas autant que moi, mais elle est sûrement la deuxième femme la plus brave du monde."
+        },
+        {
+            "key": "044",
+            "value": "Vous voulez sûrement dire la troisième. N'oubliez pas Naiah."
+        },
+        {
+            "key": "045",
+            "value": "C'est juste... Si tu es capable d'avoir de la répartie, tu dois pouvoir te relever."
+        },
+        {
+            "key": "046",
+            "value": "Que deviennent Machalie et Schuzelt ?"
+        },
+        {
+            "key": "047",
+            "value": "Pas d'inquiétude. J'ai ordonné à une escorte armée de les accompagner jusqu'au château des Lions."
+        },
+        {
+            "key": "048",
+            "value": "Je suis content de l'entendre. Merci."
+        },
+        {
+            "key": "049",
+            "value": "Bon alors, anéantissons cette brigade ennemie et battons en retraite."
+        },
+        {
+            "key": "050",
+            "value": "Ça me semble être une bonne idée."
+        }
+    ]
+}

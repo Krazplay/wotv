@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Voici la chambre d'Elsirelle."
+        },
+        {
+            "key": "002",
+            "value": "…"
+        },
+        {
+            "key": "003",
+            "value": "Aucune réponse…"
+        },
+        {
+            "key": "004",
+            "value": "Le château de Leonis est devenu un vrai champ de bataille. Il n'y a aucune chance qu'elle soit encore là…"
+        },
+        {
+            "key": "005",
+            "value": "Pourtant, j'ai entendu dire qu'Elsirelle est capable de dormir à poings fermés en toutes circonstances…"
+        },
+        {
+            "key": "006",
+            "value": "Entrons pour en avoir le cœur net."
+        },
+        {
+            "key": "007",
+            "value": "Elle… Elle dort vraiment…"
+        },
+        {
+            "key": "008",
+            "value": "J'y crois pas…"
+        },
+        {
+            "key": "009",
+            "value": "Elsirelle, réveille-toi !"
+        },
+        {
+            "key": "010",
+            "value": "Zzzzz…"
+        },
+        {
+            "key": "011",
+            "value": "Aucun effet. Elle dort profondément…"
+        },
+        {
+            "key": "012",
+            "value": "… !"
+        },
+        {
+            "key": "013",
+            "value": "Nom d'un cosinus…"
+        },
+        {
+            "key": "014",
+            "value": "Tiens, tiens… On se disait bien que cette porte ouverte était louche…"
+        },
+        {
+            "key": "015",
+            "value": "Mais de là à penser qu'il restait encore des rats dans le château… !"
+        },
+        {
+            "key": "016",
+            "value": "Pas le choix. Nous devons combattre, avec ou sans l'aide d'Elsirelle."
+        },
+        {
+            "key": "017",
+            "value": "Si elle ne réveille pas rapidement, la situation risque de tourner au vinaigre."
+        },
+        {
+            "key": "018",
+            "value": "Moi qui croyais que c'était le travail des chevaliers de protéger son prochain…"
+        }
+    ]
+}

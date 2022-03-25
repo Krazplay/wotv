@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Nuestros soldados están muy bien preparados. De eso no hay duda."
+        },
+        {
+            "key": "002",
+            "value": "Así que no entiendo por qué…"
+        },
+        {
+            "key": "003",
+            "value": "¡¿Por qué no podemos penetrar en el territorio de Sadali?!"
+        },
+        {
+            "key": "004",
+            "value": "Lo siento, cariño. ¿No he luchado a la altura de tus expectativas?…"
+        },
+        {
+            "key": "005",
+            "value": "No es culpa tuya. No tienes de qué disculparte."
+        },
+        {
+            "key": "006",
+            "value": "Creo que ni siquiera con Schuzelt aquí habríamos podido avanzar."
+        },
+        {
+            "key": "007",
+            "value": "¡Por ahí!"
+        },
+        {
+            "key": "008",
+            "value": "O a lo mejor fue culpa de Susurro…"
+        },
+        {
+            "key": "009",
+            "value": "¿Susurro? ¿Esa de la guardia divina de Sadali?"
+        },
+        {
+            "key": "010",
+            "value": "Aunque no creo que una sola de ellas fuera capaz de impedir nuestro avance, ¿verdad?"
+        },
+        {
+            "key": "011",
+            "value": "¿Qué es lo que te pasa, cariño? Esa falta de confianza no es propia de ti…"
+        },
+        {
+            "key": "012",
+            "value": "¡Te he dicho que dejes de llamarme así!"
+        },
+        {
+            "key": "013",
+            "value": "Si quieres que pare, entonces…"
+        },
+        {
+            "key": "014",
+            "value": "Ya lo sé."
+        },
+        {
+            "key": "015",
+            "value": "¡Adelante! ¡Juro por Solidus que vamos a penetrar las defensas de Sadali!"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Has oído lo que ha dicho antes el soldado de Leonis, ¿verdad?"
+        },
+        {
+            "key": "002",
+            "value": "Claro, claro que lo he oído. ¡Perfectamente!"
+        },
+        {
+            "key": "003",
+            "value": "Así que aquí dentro…"
+        },
+        {
+            "key": "004",
+            "value": "Bueno, bueno, bueno…"
+        },
+        {
+            "key": "005",
+            "value": "Son reliquias ancestrales de verdad, ¿no?"
+        },
+        {
+            "key": "006",
+            "value": "Sí, deberían compensar por la muerte de Helena."
+        },
+        {
+            "key": "007",
+            "value": "Un momento, hermano. ¡Entregárselas a Muraga sería un desperdicio!"
+        },
+        {
+            "key": "008",
+            "value": "¿Y qué propones?"
+        },
+        {
+            "key": "009",
+            "value": "La respuesta es obvia, ¿no?"
+        },
+        {
+            "key": "010",
+            "value": "¿Estás sugiriendo que se las entreguemos a lord Sadali?"
+        },
+        {
+            "key": "011",
+            "value": "Sí. Además, a lo mejor así nos considera más importantes, ¿no?"
+        },
+        {
+            "key": "012",
+            "value": "¡Habéis perdido la cabeza!"
+        },
+        {
+            "key": "013",
+            "value": "Las reliquias ancestrales son para el rey Muraga."
+        },
+        {
+            "key": "014",
+            "value": "¡Apartaos del cofre!"
+        },
+        {
+            "key": "015",
+            "value": "Uy, no, no pienso apartarme."
+        },
+        {
+            "key": "016",
+            "value": "¡El que tenga algún problema, que venga aquí!"
+        }
+    ]
+}

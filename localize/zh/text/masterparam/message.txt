@@ -1,0 +1,16 @@
+﻿{
+    "infos": [
+        {
+            "key": "VIP_PERIOD_01",
+            "value": "等級禮包001報酬"
+        },
+        {
+            "key": "VIP_PERIOD_02",
+            "value": "等級禮包002報酬"
+        },
+        {
+            "key": "VIP_PERIOD_03",
+            "value": "等級禮包003報酬"
+        }
+    ]
+}

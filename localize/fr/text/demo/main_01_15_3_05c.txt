@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "150653",
+            "value": "Roi Mont !"
+        },
+        {
+            "key": "150654",
+            "value": "Kitone !"
+        },
+        {
+            "key": "150655",
+            "value": "Que se passe-t-il ? Que fais-tu ici ?"
+        },
+        {
+            "key": "150656",
+            "value": "C'est Dame Machalie, elle…"
+        },
+        {
+            "key": "150657",
+            "value": "Raconte-moi."
+        },
+        {
+            "key": "150658",
+            "value": "Vous devez rejoindre le château de Bordisse à toute vitesse. Graziella s'apprête à tuer Machalie !"
+        },
+        {
+            "key": "150659",
+            "value": "Je vois. J'y vais sans tarder."
+        }
+    ]
+}

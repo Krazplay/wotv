@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Euer Majestät, ich bringe Neuigkeiten!"
+        },
+        {
+            "key": "002",
+            "value": "Dann raus damit."
+        },
+        {
+            "key": "003",
+            "value": "Anscheinend sammeln sich die Banditen in dem auf unserem Weg liegenden Forst."
+        },
+        {
+            "key": "004",
+            "value": "Nach einer Schätzung besitzen sie unsere dreifache Truppenstärke."
+        },
+        {
+            "key": "005",
+            "value": "Das sind keine gewöhnlichen Halsabschneider."
+        },
+        {
+            "key": "006",
+            "value": "Wenn dem so ist – auf wessen Geheiß sind sie hier?!"
+        },
+        {
+            "key": "007",
+            "value": "Kann uns Prinzessin Margery darauf keine Antwort geben?"
+        },
+        {
+            "key": "008",
+            "value": "Denn es besteht kein Zweifel daran, auf wen die Banditen es abgesehen haben."
+        },
+        {
+            "key": "009",
+            "value": "Unglücklicherweise ... sind meine Feinde zu zahlreich, um dies mit Sicherheit beantworten zu können."
+        }
+    ]
+}

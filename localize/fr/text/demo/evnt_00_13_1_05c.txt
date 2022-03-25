@@ -1,0 +1,112 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous ?!"
+        },
+        {
+            "key": "002",
+            "value": "Où sont passées tes manières."
+        },
+        {
+            "key": "003",
+            "value": "Dame Lumeïde ! Que font-ils ici ?"
+        },
+        {
+            "key": "004",
+            "value": "Ce ne sont pas les maîtres de l'est que nous recherchons."
+        },
+        {
+            "key": "005",
+            "value": "Exactement. Nous sommes juste des passagers de dernière minute."
+        },
+        {
+            "key": "006",
+            "value": "Vraiment ?! Tu comptes monter à bord d'un navire ennemi ?"
+        },
+        {
+            "key": "007",
+            "value": "Je ne t'oblige en rien. Je te confie nos terres pendant mon absence."
+        },
+        {
+            "key": "008",
+            "value": "Hmm ? Aurais-tu changé d'avis ?"
+        },
+        {
+            "key": "009",
+            "value": "Owe n'était pas mon unique maître d'armes. Seymore m'a aussi beaucoup appris."
+        },
+        {
+            "key": "010",
+            "value": "Bien."
+        },
+        {
+            "key": "011",
+            "value": "Lumeïde… Dis m'en plus sur Garvall."
+        },
+        {
+            "key": "012",
+            "value": "Tu t'attends à ce que je t'informe sur mon chef ?"
+        },
+        {
+            "key": "013",
+            "value": "Je ne te demande pas de partager ses secrets les plus inavouables."
+        },
+        {
+            "key": "014",
+            "value": "J'ai ouïe dire qu'il abat son joug sur les forgeurs d'épées du continent sans sourciller."
+        },
+        {
+            "key": "015",
+            "value": "Je me demande juste pourquoi."
+        },
+        {
+            "key": "016",
+            "value": "Réduire l'arrivée de nouvelles armes sur le marché nous permet de fragiliser les défenses des grandes puissances d'Ardra."
+        },
+        {
+            "key": "017",
+            "value": "En résumé, la guilde des trafiquants d'armes essaye de devenir un royaume à elle seule."
+        },
+        {
+            "key": "018",
+            "value": "Vous ne pouvez pas comprendre. C'est…"
+        },
+        {
+            "key": "019",
+            "value": "Le souhait du peuple Yezagh ?"
+        },
+        {
+            "key": "020",
+            "value": "Vous avez deviné mes origines ?"
+        },
+        {
+            "key": "021",
+            "value": "Juste une déduction."
+        },
+        {
+            "key": "022",
+            "value": "Tu… Tu es de Yezagh ?"
+        },
+        {
+            "key": "023",
+            "value": "Si par là tu cherches une excuse pour me mépriser, alors soit."
+        },
+        {
+            "key": "024",
+            "value": "Je ne juge pas les gens sur leurs origines."
+        },
+        {
+            "key": "025",
+            "value": "…"
+        },
+        {
+            "key": "026",
+            "value": "La terre se profile à l'horizon ! Plutôt rapide votre vaisseau."
+        },
+        {
+            "key": "027",
+            "value": "Le continent… Qu'il fait bon d'être de retour."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Es eso de ahí. Es inconfundible."
+        },
+        {
+            "key": "002",
+            "value": "Sí, ese esper ha aparecido de la nada y ha aniquilado al primer batallón."
+        },
+        {
+            "key": "003",
+            "value": "Dudo que algún habitante de Leonis disponga de una reliquia capaz de invocar a un esper."
+        },
+        {
+            "key": "004",
+            "value": "Seguro que Machérie no anda muy lejos…"
+        },
+        {
+            "key": "005",
+            "value": "Daré con ella de inmediato."
+        },
+        {
+            "key": "006",
+            "value": "Déjalo, yo mismo me encargo."
+        },
+        {
+            "key": "007",
+            "value": "Pero, majestad…"
+        },
+        {
+            "key": "008",
+            "value": "Las guerras están para luchar. No hay sitio para los torpes."
+        },
+        {
+            "key": "009",
+            "value": "El verdadero placer de toda batalla está en las muertes violentas y los baños de sangre."
+        },
+        {
+            "key": "010",
+            "value": "Qué pena me da Leonis, majestad."
+        },
+        {
+            "key": "011",
+            "value": "Pronto no te dará ni pena."
+        },
+        {
+            "key": "012",
+            "value": "¡Señor!"
+        },
+        {
+            "key": "013",
+            "value": "Sois… ¡el rey Muraga de Fennes!"
+        },
+        {
+            "key": "014",
+            "value": "¡Ahora o nunca! ¡Arrancadle la cabeza!"
+        },
+        {
+            "key": "015",
+            "value": "¡Ni un demonio sería capaz de aguantar contra nuestras ingentes tropas!"
+        },
+        {
+            "key": "016",
+            "value": "¡Preparaos!"
+        },
+        {
+            "key": "017",
+            "value": "¡Silencio, escoria! ¡Lo único que quiero escuchar son vuestros gritos de dolor!"
+        },
+        {
+            "key": "018",
+            "value": "¡Escúchame, Elde!"
+        },
+        {
+            "key": "019",
+            "value": "¡Pagarás muy caro haber secuestrado a Machérie!"
+        },
+        {
+            "key": "020",
+            "value": "¡Aguanta, querida mía!"
+        }
+    ]
+}

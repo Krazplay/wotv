@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "150181",
+            "value": "Que se passe-t-il ?"
+        },
+        {
+            "key": "150182",
+            "value": "On dirait que la bataille a commencé."
+        },
+        {
+            "key": "150183",
+            "value": "Adelard m'avait promis de ne pas perdre son calme !"
+        },
+        {
+            "key": "150184",
+            "value": "Nous n'avons plus de temps à perdre."
+        }
+    ]
+}

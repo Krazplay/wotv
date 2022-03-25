@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Le voilà enfin... le château de Wezett."
+        },
+        {
+            "key": "002",
+            "value": "Permettez-moi de vous le demander une dernière fois."
+        },
+        {
+            "key": "003",
+            "value": "Quoi ?"
+        },
+        {
+            "key": "004",
+            "value": "Vous souhaitez vraiment rencontrer le roi Khory ?"
+        },
+        {
+            "key": "005",
+            "value": "Oui, bien sûr."
+        },
+        {
+            "key": "006",
+            "value": "C'est pour cela que nous sommes venus d'aussi loin."
+        },
+        {
+            "key": "007",
+            "value": "Je vois."
+        },
+        {
+            "key": "008",
+            "value": "Vous êtes un grand angoissé, vous aussi, hein ?"
+        },
+        {
+            "key": "009",
+            "value": "Je protégerai le prince et notre groupe."
+        },
+        {
+            "key": "010",
+            "value": "En seras-tu capable ?"
+        },
+        {
+            "key": "011",
+            "value": "Eh ! Pas de mauvais présage, toi !"
+        },
+        {
+            "key": "012",
+            "value": "Les étoiles sont étrangement agitées..."
+        },
+        {
+            "key": "013",
+            "value": "Quoi ? Vous pouvez entendre leurs voix ?"
+        },
+        {
+            "key": "014",
+            "value": "Et alors, qu'est-ce qu'elles disent ? On devrait faire demi-tour ?"
+        },
+        {
+            "key": "015",
+            "value": "Beaucoup de gens vont périr..."
+        },
+        {
+            "key": "016",
+            "value": "C'est la guerre, quoi."
+        },
+        {
+            "key": "017",
+            "value": "Mais si vous renoncez... bien plus encore pourraient succomber."
+        },
+        {
+            "key": "018",
+            "value": "Alors nous devons continuer."
+        },
+        {
+            "key": "019",
+            "value": "En avant. Pour Leonis !"
+        }
+    ]
+}

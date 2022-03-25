@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vater ..."
+        },
+        {
+            "key": "002",
+            "value": "Etwas sagt mir, dass wir für die kommende Schlacht unsere gesamte Kampfkraft benötigen werden."
+        },
+        {
+            "key": "003",
+            "value": "Ich hätte Styr auch den Marschbefehl geben sollen ... Das willst du damit doch sagen, oder?"
+        },
+        {
+            "key": "004",
+            "value": "So ist es."
+        },
+        {
+            "key": "005",
+            "value": "Du glaubst also, dass wir Fennes ohne die Fähigkeiten deines Bruders nicht besiegen können?"
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Wenn Fennes seine gesamte Macht ins Feld führt, solltet ihr das nicht auf die leichte Schulter nehmen."
+        },
+        {
+            "key": "008",
+            "value": "W-Was machst du hier?!"
+        },
+        {
+            "key": "009",
+            "value": "Hütet Euch vor der Legion „Ruina“. Eine frontale Konfrontation mit ihr werdet ihr nicht überstehen."
+        },
+        {
+            "key": "010",
+            "value": "Vater! Was macht Prinzessin Margery hier?!"
+        },
+        {
+            "key": "011",
+            "value": "Sie hat sich aus freien Stücken dazu entschieden, mit uns in die Schlacht zu ziehen."
+        },
+        {
+            "key": "012",
+            "value": "Mach dir um mich keine Sorgen. Ich kann auf mich selbst aufpassen."
+        },
+        {
+            "key": "013",
+            "value": "Willst du, dass ich auch auf dich aufpasse?"
+        },
+        {
+            "key": "014",
+            "value": "Es ist noch nicht zu spät. Kehr umgehend ins Schloss zurück!"
+        },
+        {
+            "key": "015",
+            "value": "Ich habe mich dort überraschend wohl gefühlt, das gebe ich zu."
+        },
+        {
+            "key": "016",
+            "value": "Aber ich bin niemand, der die Füße stillhält."
+        },
+        {
+            "key": "017",
+            "value": "Wir bitten um Verzeihung, Prinz Mont."
+        },
+        {
+            "key": "018",
+            "value": "Davon abgesehen ... Kommt es dir nicht eher gelegen, wenn ich euch begleite?"
+        },
+        {
+            "key": "019",
+            "value": "Wie meinst du das?"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "이번에는<br><color=#0000ff>전투불능</color>과 <color=#0000ff>전투 이탈</color>에 대해<br>말씀드릴게요."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "<color=#0000ff>HP가 0</color>이 되면 그 유닛은<br><color=#0000ff>전투불능</color> 상태가 되어, '3'이라는<br><color=#0000ff>빨간 말풍선</color>이 깜박거립니다."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "이 말풍선이 표시되는 동안에는<br><color=#0000ff>피닉스의 꼬리</color>나 <color=#0000ff>레이즈</color> 마법을 쓰면<br><color=#0000ff>부활</color>할 수 있어요."
+        },
+        {
+            "key": "004",
+            "value": "전투불능인 채로 <color=#0000ff>행동 순서</color>가 돌아오면<br>숫자가 <color=#0000ff>2</color>, <color=#0000ff>1</color>, <color=#0000ff>0</color>순으로 줄어요.<br>그리고 또 다음 행동 순서가 되면…"
+        },
+        {
+            "key": "005",
+            "value": "해당 유닛은 전투에서 <color=#0000ff>이탈</color>합니다.<br>이탈해도 유닛이 <color=#0000ff>소멸하는 건 아니니</color><br> 안심하세요."
+        },
+        {
+            "key": "006",
+            "value": "다만 재도전하지 않는 한<br>전투에는 다시 참가할 수 없으니<br>주의하셔야 해요."
+        },
+        {
+            "key": "007",
+            "value": "자,<br>이번 적은 강자들이 모였군요."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "008",
+            "value": "아야카의 <color=#0000ff>케알</color>이나 <color=#0000ff>레이즈</color>를<br>활용하면서 적을 격파하세요."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Qué hay en el cofre?"
+        },
+        {
+            "key": "002",
+            "value": "Un regalo de lord Sadali."
+        },
+        {
+            "key": "003",
+            "value": "Anda, mira. Parece que iba en serio."
+        },
+        {
+            "key": "004",
+            "value": "Y, encima, es enorme. ¿Qué demonios habrá metido ahí dentro?"
+        },
+        {
+            "key": "005",
+            "value": "¡¿U-una armadura de oro?!"
+        },
+        {
+            "key": "006",
+            "value": "Valiente porquería. No estará esperando que mate a Elde vestido de principito, ¿no?"
+        },
+        {
+            "key": "007",
+            "value": "Príncipe Stern, ¿en serio odiáis tanto a Elde?"
+        },
+        {
+            "key": "008",
+            "value": "¿En serio, dices? Me hierve la sangre. Lo quiero muerto."
+        },
+        {
+            "key": "009",
+            "value": "No estaréis fingiendo, ¿verdad?"
+        },
+        {
+            "key": "010",
+            "value": "Ni se te ocurra volver a insultarme."
+        },
+        {
+            "key": "011",
+            "value": "De acuerdo. Esta armadura está imbuida de una magia que amplifica el odio de su portador y lo transforma en fuerza."
+        },
+        {
+            "key": "012",
+            "value": "Si vuestro odio es genuino, alteza, vuestro poder aumentará considerablemente."
+        },
+        {
+            "key": "013",
+            "value": "…"
+        },
+        {
+            "key": "014",
+            "value": "¿Me estás diciendo que tengo que llevar esta armadura para luchar contra Elde?"
+        },
+        {
+            "key": "015",
+            "value": "Exacto. Para eso mismo la ha preparado lord Sadali."
+        },
+        {
+            "key": "016",
+            "value": "¡Aj! ¡Ah…!"
+        },
+        {
+            "key": "017",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "018",
+            "value": "¡Aaah!"
+        },
+        {
+            "key": "019",
+            "value": "Este poder… ¡Es impresionante!"
+        },
+        {
+            "key": "020",
+            "value": "Una reliquia ancestral más que entra en juego."
+        }
+    ]
+}

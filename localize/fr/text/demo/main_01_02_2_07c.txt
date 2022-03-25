@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Haha... ha ! Bienvenue en enfer ! Préparez... vous... à..."
+        },
+        {
+            "key": "002",
+            "value": "Argh..."
+        },
+        {
+            "key": "003",
+            "value": "Je reconnais cette aura meurtrière..."
+        },
+        {
+            "key": "004",
+            "value": "Montrez-vous !"
+        },
+        {
+            "key": "005",
+            "value": "Parfait. Je vais vous faire payer la destruction de mon village, ici et maintenant !"
+        },
+        {
+            "key": "006",
+            "value": "Hé hé hé. Une survivante de Saiga."
+        },
+        {
+            "key": "007",
+            "value": "Je pensais bien avoir une chance de te rencontrer si je traînais avec Fennes."
+        },
+        {
+            "key": "008",
+            "value": "Rairyuu !"
+        },
+        {
+            "key": "009",
+            "value": "Ce que tu as fait est impardonnable... Je n'aurai aucune pitié !"
+        },
+        {
+            "key": "010",
+            "value": "Je sais que c'est toi. Admets-le ! Tu es la vermine qui a tué dame Naiah !"
+        },
+        {
+            "key": "011",
+            "value": "Hmm ? Et alors ?"
+        },
+        {
+            "key": "012",
+            "value": "Tu es la prochaine. Ensuite, ce sera au tour de Machalie."
+        },
+        {
+            "key": "013",
+            "value": "Tu es si sûr de toi que tu ne caches même pas tes intentions."
+        },
+        {
+            "key": "014",
+            "value": "Hé hé hé. C'est inutile. De toute façon, c'est la fin pour toi."
+        },
+        {
+            "key": "015",
+            "value": "Non, je ne peux pas mourir ici. Quoi qu'il arrive."
+        },
+        {
+            "key": "016",
+            "value": "Dans ce cas, meurs avec tes regrets !"
+        }
+    ]
+}

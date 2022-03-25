@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Las puertas están abiertas de par en par y no se ven refuerzos por ningún lado."
+        },
+        {
+            "key": "002",
+            "value": "Me pregunto qué estará tramando el rey Elde…"
+        },
+        {
+            "key": "003",
+            "value": "A lo mejor está deseando que entre lord Mont, ¿no?"
+        },
+        {
+            "key": "004",
+            "value": "Pero si lord Mont…"
+        },
+        {
+            "key": "005",
+            "value": "Si queréis huir, adelante, huid."
+        },
+        {
+            "key": "006",
+            "value": "No pretendo obligaros a nada."
+        },
+        {
+            "key": "007",
+            "value": "¡Espera! ¿Nos estás pidiendo que nos marchemos?"
+        },
+        {
+            "key": "008",
+            "value": "Es lo mejor que podríais hacer. No se me ocurre otra opción…"
+        },
+        {
+            "key": "009",
+            "value": "Mmm. Entonces, deja que haga lo que considere oportuno."
+        },
+        {
+            "key": "010",
+            "value": "Lo mismo digo."
+        },
+        {
+            "key": "011",
+            "value": "…"
+        },
+        {
+            "key": "012",
+            "value": "Disculpadme, y gracias por todo."
+        },
+        {
+            "key": "013",
+            "value": "Si os hubieran puesto bajo el mando de Stern, nada de esto habría pasado."
+        },
+        {
+            "key": "014",
+            "value": "¿Qué pasa? ¿Por qué seguís aquí?"
+        },
+        {
+            "key": "015",
+            "value": "Aj. Ojalá no nos subestimaras de esa forma."
+        },
+        {
+            "key": "016",
+            "value": "¿Cómo?"
+        },
+        {
+            "key": "017",
+            "value": "Somos Caelum, la espada y el escudo de lord Mont, ¿no es así?"
+        },
+        {
+            "key": "018",
+            "value": "Permaneceremos a tu lado sin importar el desenlace."
+        },
+        {
+            "key": "019",
+            "value": "¡Demostrémosles el orgullo de Leonis!"
+        },
+        {
+            "key": "020",
+            "value": "¡Yo también, lord Mont! ¡Mi lealtad es vuestra y solo vuestra!"
+        },
+        {
+            "key": "021",
+            "value": "¿D-de verdad?"
+        },
+        {
+            "key": "022",
+            "value": "No es momento para emocionarse. ¡Tenemos trabajo por delante!"
+        }
+    ]
+}

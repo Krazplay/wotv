@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Cet énorme manoir, là... C'est la guilde des trafiquants d'arme ?"
+        },
+        {
+            "key": "002",
+            "value": "En effet. Galzahk doit se trouver à l'intérieur."
+        },
+        {
+            "key": "003",
+            "value": "Velne, attends-moi ici."
+        },
+        {
+            "key": "004",
+            "value": "Pas question, je t'accompagne."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Nous devons mourir ensemble..."
+        },
+        {
+            "key": "007",
+            "value": "Notre heure n'a pas encore sonné. On fait ça pour survivre... C'est compris ?"
+        },
+        {
+            "key": "008",
+            "value": "Oui."
+        },
+        {
+            "key": "009",
+            "value": "Alors en route. Il est temps d'offrir à notre peuple un meilleur avenir."
+        }
+    ]
+}

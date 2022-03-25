@@ -1,0 +1,396 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "..."
+        },
+        {
+            "key": "002",
+            "value": "Was ist mit mir passiert? Was war das für ein seltsames Licht, das aus mir herausströmte?"
+        },
+        {
+            "key": "003",
+            "value": "Ranan schien etwas zu wissen, aber er machte klar, dass er sich nicht auf Spekulationen einlassen wollte."
+        },
+        {
+            "key": "004",
+            "value": "War es ein Zeichen, dass ich dabei bin, ein Kristallkrieger zu werden? Hmm ..."
+        },
+        {
+            "key": "005",
+            "value": "Ich kann das nicht einfach ignorieren ... Was soll ich tun?"
+        },
+        {
+            "key": "006",
+            "value": "Hallöchen, Neuling. Was führst du denn hier für Selbstgespräche?"
+        },
+        {
+            "key": "007",
+            "value": "Velis! Ehrlich gesagt, beunruhigt mich da etwas. Vielleicht ..."
+        },
+        {
+            "key": "008",
+            "value": "Halt, halt, halt. Kein Wort mehr, jetzt."
+        },
+        {
+            "key": "009",
+            "value": "Aber ..."
+        },
+        {
+            "key": "010",
+            "value": "Wenn du Ratschläge für weltliche Belange benötigst, solltest du mit Setia oder Ranan reden."
+        },
+        {
+            "key": "011",
+            "value": "Ich mische mich niemals in Dinge ein, die lästig werden könnten. Probleme meiner jüngeren Kollegen gehen mich nichts an."
+        },
+        {
+            "key": "012",
+            "value": "Spar dir also den Atem. Ich höre nichts und sehe nichts. Klar?"
+        },
+        {
+            "key": "013",
+            "value": "Glasklar ... Dann werde ich bei Gelegenheit wohl mal mit den anderen sprechen."
+        },
+        {
+            "key": "014",
+            "value": "So ist es brav. Das ist besser so für uns beide, glaub mir."
+        },
+        {
+            "key": "015",
+            "value": "Und wo wir schon dabei sind, ich habe etwas mit dir zu besprechen."
+        },
+        {
+            "key": "016",
+            "value": "Darf ich raten? Es geht um einen weiteren Kernkristall."
+        },
+        {
+            "key": "017",
+            "value": "Schön, du verstehst schnell. Darum sehen sie dich wohl als vielversprechend an."
+        },
+        {
+            "key": "018",
+            "value": "I-Ich weiß nicht, ob ich da zustimmen kann ..."
+        },
+        {
+            "key": "019",
+            "value": "Du solltest Lob einfach annehmen, so oft erhält man es hier nicht. Vor allem wenn man älter wird, glaub mir."
+        },
+        {
+            "key": "020",
+            "value": "Aber wir schweifen ab. Du wirst auch diesmal wieder in die Vergangenheit reisen und zwar noch weiter als bei deinem Abenteuer mit Ranan."
+        },
+        {
+            "key": "021",
+            "value": "Du erinnerst dich doch noch an die Regeln, oder? Du darfst dich nirgends einmischen und nicht Ereignisse ausplaudern, die noch nicht geschehen sind."
+        },
+        {
+            "key": "022",
+            "value": "Den Kernkristall holen und wieder raus. Verstanden?"
+        },
+        {
+            "key": "023",
+            "value": "Ich werde mein Bestes geben. Wir werden ohne Probleme den Kernkristall zurückholen!"
+        },
+        {
+            "key": "024",
+            "value": "Gut so. Die anderen drei scheinen dich richtig eingeschätzt zu haben."
+        },
+        {
+            "key": "025",
+            "value": "Nun, dann überlasse ich den Rest einfach dir, kompetent scheinst du ja zu sein! Zeig mir, was du drauf hast, Rekrut!"
+        },
+        {
+            "key": "026",
+            "value": "Hm? M-Moment mal! Was ist mit dir?"
+        },
+        {
+            "key": "027",
+            "value": "Was soll mit mir sein? Ich habe dir doch deine Aufgabe erklärt. Damit ist meine Arbeit hier erledigt."
+        },
+        {
+            "key": "028",
+            "value": "Soll das heißen, ich gehe alleine?"
+        },
+        {
+            "key": "029",
+            "value": "Eigentlich soll ich mit dir gehen, aber bei diesen Suchmissionen schlafe ich vor Langeweile im Stehen ein."
+        },
+        {
+            "key": "030",
+            "value": "Und das als Kristallkrieger ..."
+        },
+        {
+            "key": "031",
+            "value": "Du hast bereits drei Kernkristalle gefunden. Du bist also bereits ein Experte. Du packst das schon."
+        },
+        {
+            "key": "032",
+            "value": "Ich werde in Gedanken bei dir sein. Schreite mutig voran und erledige deinen Auftrag."
+        },
+        {
+            "key": "033",
+            "value": "Irgendwie fühlt sich das nicht richtig an."
+        },
+        {
+            "key": "034",
+            "value": "Ich bin hier der Altgedienteste und damit so etwas wie der Anführer. Verstehst du?"
+        },
+        {
+            "key": "035",
+            "value": "Du willst wohl wirklich keinen Finger rühren ..."
+        },
+        {
+            "key": "036",
+            "value": "Was lungert ihr beiden hier so tatenlos rum? Ihr solltet längst unterwegs sein."
+        },
+        {
+            "key": "037",
+            "value": "Agh! Ranan ..."
+        },
+        {
+            "key": "038",
+            "value": "Komm mir ja nicht so, Velis. Du willst doch wohl nicht diese Mission einfach auf unseren Neuling schieben."
+        },
+        {
+            "key": "039",
+            "value": "D-Das würde mir ja im Traum nicht einfallen! Ich habe nur rumgealbert. Nicht wahr, Lucio?"
+        },
+        {
+            "key": "040",
+            "value": "Natürlich."
+        },
+        {
+            "key": "041",
+            "value": "*Seufz* Du änderst dich nie, oder, Velis? Und jetzt seht zu, dass ihr fortkommt. Ihr verschwendet wertvolle Zeit."
+        },
+        {
+            "key": "042",
+            "value": "Ja, ja. Schon gut."
+        },
+        {
+            "key": "043",
+            "value": "Und Lucio. Du musst bei diesem Auftrag besonders gut acht geben."
+        },
+        {
+            "key": "044",
+            "value": "Warum das?"
+        },
+        {
+            "key": "045",
+            "value": "Ich mache mir Sorgen, dass wir zu lange brauchen, um die Kernkristalle wiederherzustellen."
+        },
+        {
+            "key": "046",
+            "value": "Vielleicht ist es nur so ein Gefühl, aber bleibe wachsam."
+        },
+        {
+            "key": "047",
+            "value": "Das ist ein wenig vage ..."
+        },
+        {
+            "key": "048",
+            "value": "Na los, Neuling. Sputen wir uns, bevor wir uns bis zum Ende unseres Lebens diese Standpauke anhören müssen."
+        },
+        {
+            "key": "049",
+            "value": "M-Moment! Ich muss erst noch Ranan ..."
+        },
+        {
+            "key": "050",
+            "value": "Da wären wir, das Reich von Leonis."
+        },
+        {
+            "key": "051",
+            "value": "Jetzt kann ich erst wieder mit Ranan sprechen, wenn wir zurück sind ... "
+        },
+        {
+            "key": "052",
+            "value": "Haha, tut mir leid. Ich hatte nur das Gefühl, das würde wieder eine Ewigkeit dauern und mich zu Tode langweilen."
+        },
+        {
+            "key": "053",
+            "value": "Langsam habe ich das Gefühl, hier nicht gerade in sicheren Händen zu sein."
+        },
+        {
+            "key": "054",
+            "value": "Normalerweise müsste ich mich jetzt beleidigt fühlen, aber ich verstehe irgendwie, was du meinst."
+        },
+        {
+            "key": "055",
+            "value": "Aber Kopf hoch. Du hast schließlich den dienstältesten aller Krieger an deiner Seite."
+        },
+        {
+            "key": "056",
+            "value": "Das ... hat mich fast überzeugt, dass wir es doch schaffen."
+        },
+        {
+            "key": "057",
+            "value": "Man sollte nicht zu lange mit den Gedanken in der Vergangenheit verweilen ... Oh, was ist das?"
+        },
+        {
+            "key": "058",
+            "value": "Was ist?"
+        },
+        {
+            "key": "059",
+            "value": "Ich habe den Kernkristall gespürt. Aber da ist noch etwas ... Hmm. Okay, das sieht nicht gut aus."
+        },
+        {
+            "key": "060",
+            "value": "Wieso das?"
+        },
+        {
+            "key": "061",
+            "value": "Der Kernkristall ist ganz in der Nähe, aber da kommt etwas mit rasender Geschwindigkeit auf ihn zu."
+        },
+        {
+            "key": "062",
+            "value": "D-Dann sollten wir uns beeilen, oder?"
+        },
+        {
+            "key": "063",
+            "value": "In der Tat. Leider würden wir uns dabei nur anstrengen. Wir sollten es aufgeben, vorher anzukommen."
+        },
+        {
+            "key": "064",
+            "value": "Das geht doch nicht!"
+        },
+        {
+            "key": "065",
+            "value": "War nur ein Spaß. Ich will mir ja nicht Ranans Groll einhandeln."
+        },
+        {
+            "key": "066",
+            "value": "Gehen wir zum Kernkristall und hoffen wir, dass er noch an Ort und Stelle sein wird."
+        },
+        {
+            "key": "067",
+            "value": "*Keuch, keuch* ... Wo ist er?"
+        },
+        {
+            "key": "068",
+            "value": "Da drüben liegt er im Dreck."
+        },
+        {
+            "key": "069",
+            "value": "Dann sollten wir ihn uns schnappen."
+        },
+        {
+            "key": "070",
+            "value": "Das würde ich nur zu gerne, aber wir sind wohl zu spät."
+        },
+        {
+            "key": "071",
+            "value": "Was?"
+        },
+        {
+            "key": "072",
+            "value": "Da ist ein Monster. Und zwar ein riesiges!"
+        },
+        {
+            "key": "073",
+            "value": "Warte ... Nein! Argh!"
+        },
+        {
+            "key": "074",
+            "value": "Was sollen wir jetzt tun? Das Monster hat den Kernkristall einfach verschluckt!"
+        },
+        {
+            "key": "075",
+            "value": "Was Schlimmeres hätte uns gar nicht unterkommen können. Wir werden dafür sorgen müssen, dass es ihn wieder ausspuckt."
+        },
+        {
+            "key": "076",
+            "value": "Das wird eine gute Aufwärmrunde. Ich hoffe, du bist bereit, Stahl zu schmecken, du gefräßiger Schluckspecht!"
+        },
+        {
+            "key": "077",
+            "value": "Damit sollte es erledigt sein."
+        },
+        {
+            "key": "078",
+            "value": "I-Ich wusste gar nicht, dass du so stark bist."
+        },
+        {
+            "key": "079",
+            "value": "Hör auf zu gaffen, als hättest du noch nie gesehen, wie jemand einen Behemoth in die Knie zwingt. Erledige es!"
+        },
+        {
+            "key": "080",
+            "value": "Jawohl!"
+        },
+        {
+            "key": "081",
+            "value": "W-Was ist hier los?"
+        },
+        {
+            "key": "082",
+            "value": "Es hat noch mehr Monster gerufen."
+        },
+        {
+            "key": "083",
+            "value": "Das ist nicht alles. Dieser Behemoth hat sie mit seinem Schrei dazu gebracht, ihn zu beschützen. Als wäre er der Rudelführer."
+        },
+        {
+            "key": "084",
+            "value": "Es sind zu viele. Wir kommen nicht ran."
+        },
+        {
+            "key": "085",
+            "value": "Jetzt ist er davongerannt. Wir müssen hinterher."
+        },
+        {
+            "key": "086",
+            "value": "Einen Moment. Man kann es auch übertreiben. Bei dieser Überzahl würden wir uns unnötig in Gefahr bringen."
+        },
+        {
+            "key": "087",
+            "value": "Sag mir erst mal, ob du auch unverletzt bist. Ranan würde mich mit Haut und Haaren verspeisen, wenn du dich verletzt."
+        },
+        {
+            "key": "088",
+            "value": "Nur ein paar Schrammen. Aber ist es nicht komisch, dass dieses Monster einfach geflohen ist?"
+        },
+        {
+            "key": "089",
+            "value": "Ich habe schon viele Monster gesehen, die durch die Kernkristalle in den Wahnsinn getrieben wurden, aber so ein Verhalten habe ich noch nie gesehen."
+        },
+        {
+            "key": "090",
+            "value": "Wenn deine Berichte stimmen, dann ist das wirklich neu."
+        },
+        {
+            "key": "091",
+            "value": "Sehr komisch, dass ein Behemoth flüchtet. Passt gar nicht zu einem Monster."
+        },
+        {
+            "key": "092",
+            "value": "Vielleicht beherrscht etwas seinen Geist."
+        },
+        {
+            "key": "093",
+            "value": "Ranan sagte ja, er hätte ein schlechtes Gefühl dabei. Vielleicht meinte er das."
+        },
+        {
+            "key": "094",
+            "value": "Das war eigentlich nur ein Witz. Aber ich schätze, es ist möglich."
+        },
+        {
+            "key": "095",
+            "value": "Andererseits spüre ich nichts anderes Mächtiges in dieser Gegend. Vielleicht sind wir nur zufällig auf den einzigen intelligenten Behemoth in Leonis gestoßen."
+        },
+        {
+            "key": "096",
+            "value": "Jedenfalls müssen wir dem Monster folgen. Zum Glück hat es netterweise schöne, riesige Fußabdrücke für uns hinterlassen ..."
+        },
+        {
+            "key": "097",
+            "value": "Greife aber nicht direkt den Großen an. Erledige während der Verfolgung so viele Schergen von ihm wie möglich, dann wird es einfacher."
+        },
+        {
+            "key": "098",
+            "value": "Teilen und herrschen, ich verstehe."
+        }
+    ]
+}

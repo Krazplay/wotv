@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "071",
+            "value": "Forces ennemies en approche !"
+        },
+        {
+            "key": "072",
+            "value": "Anéantissez-les !"
+        },
+        {
+            "key": "073",
+            "value": "Ennemis neutralisés. En avant !"
+        },
+        {
+            "key": "074",
+            "value": "Hm ?!"
+        },
+        {
+            "key": "075",
+            "value": "Sire Jayden… ?"
+        },
+        {
+            "key": "076",
+            "value": "Salut, ça se passe bien ?"
+        },
+        {
+            "key": "077",
+            "value": "Pardonnez-moi. C'est une petite nation, mais je n'ai pas voulu les prendre à la légère."
+        },
+        {
+            "key": "078",
+            "value": "Oh, je sais, c'est bien."
+        },
+        {
+            "key": "079",
+            "value": "Ces moutons-là dissimulent des crocs de loup."
+        },
+        {
+            "key": "080",
+            "value": "Surtout cette Lucielle."
+        },
+        {
+            "key": "081",
+            "value": "Sa maîtrise des visions est une vraie saleté."
+        },
+        {
+            "key": "082",
+            "value": "Vous avez raison, sire. Mais d'après nos observations…"
+        },
+        {
+            "key": "083",
+            "value": "Elle ne semble pas daigner se montrer sur le front."
+        },
+        {
+            "key": "084",
+            "value": "On la trouvera bien à l'abri derrière les murs du château d'Ovis."
+        },
+        {
+            "key": "085",
+            "value": "Elle peut invoquer des visions de si loin… ? Terrifiant."
+        },
+        {
+            "key": "086",
+            "value": "Oui, raison de plus pour la débarrasser de son anneau au plus tôt."
+        },
+        {
+            "key": "087",
+            "value": "Naturellement, sire."
+        },
+        {
+            "key": "088",
+            "value": "Alors, en route. Apportons un fusil ou deux en renfort de Heindler sur le front."
+        }
+    ]
+}

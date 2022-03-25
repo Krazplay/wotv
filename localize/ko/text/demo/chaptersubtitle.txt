@@ -1,0 +1,16 @@
+﻿{
+    "infos": [
+        {
+            "key": "INTERLUDE",
+            "value": "Interlude"
+        },
+        {
+            "key": "INTERLUDE_FIRST_HALF",
+            "value": "Interlude 전편"
+        },
+        {
+            "key": "INTERLUDE_SECOND_HALF",
+            "value": "Interlude 후편"
+        }
+    ]
+}

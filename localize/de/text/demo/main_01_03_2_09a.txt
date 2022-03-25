@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hier lang, bitte. Und rasch, wenn es geht."
+        },
+        {
+            "key": "002",
+            "value": "... Prinz Mont?"
+        },
+        {
+            "key": "003",
+            "value": "Was hast du?"
+        },
+        {
+            "key": "004",
+            "value": "Ich weiß nicht. Mir ist auf einmal dieser kalte Schauer über den Rücken gelaufen ..."
+        },
+        {
+            "key": "005",
+            "value": "Hmpf. Dir rutscht jetzt aber nicht auf einmal das Herz in die Hose, oder?"
+        },
+        {
+            "key": "006",
+            "value": "Wenn es doch nur das wäre ..."
+        },
+        {
+            "key": "007",
+            "value": "Lhamada. Könntest du für mich die Sterne lesen?"
+        },
+        {
+            "key": "008",
+            "value": "Mond und Sterne werden durch eine böswillige Absicht getrennt. Sie ist es, die leuchtende Zerstörung aus den Tiefen der Erde heraufbeschwören wird."
+        },
+        {
+            "key": "009",
+            "value": "Was soll das bedeuten?"
+        },
+        {
+            "key": "010",
+            "value": "Das kann ich nicht mit Sicherheit sagen, Euer Hoheit."
+        },
+        {
+            "key": "011",
+            "value": "Ich gebe lediglich weiter, was mir die Sterne zuflüstern."
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "Styr ... Mutter ... Wo auch immer ihr seid, ich hoffe, es geht euch gut ..."
+        }
+    ]
+}

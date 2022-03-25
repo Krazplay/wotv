@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Sire, connaissez-vous les <color=#0000ff>altérations d'état</color> ?"
+        },
+        {
+            "key": "//変更なし、誤字のみなおし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "S'ils vous touchent, des sorts tels que Toxine ou Sommeil vous infligeront les états <color=#0000ff>poison</color> ou <color=#0000ff>sommeil</color>."
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Ces états peuvent vous infliger des dégâts supplémentaires ou encore vous empêcher d'agir, ce qui vous mettra dans une <color=#0000ff>position difficile</color> pendant un moment."
+        },
+        {
+            "key": "004",
+            "value": "Heureusement, des <color=#0000ff>objets</color> comme des antidotes ou des <color=#0000ff>sorts de magie blanche</color> comme Guérison vous soigneront de ces altérations d'état."
+        },
+        {
+            "key": "005",
+            "value": "Vous pouvez aussi vous prévenir de ces altérations en vous protégeant par avance à l'aide des aptitudes de prêtre comme <color=#0000ff>Assurance tous risques</color>."
+        },
+        {
+            "key": "006",
+            "value": "Essayez de combattre cet ennemi. Il cherchera régulièrement à vous infliger des altérations d'état, alors profitez de l'aptitude de Machalie pour vous en prévenir."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Félicitations ! L'ennemi est défait !"
+        },
+        {
+            "key": "008",
+            "value": "N'oubliez pas de prendre des mesures contre les altérations d'état, cela pourrait faire la différence entre la défaite et la victoire."
+        }
+    ]
+}

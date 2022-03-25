@@ -1,0 +1,292 @@
+﻿{
+    "infos": [
+        {
+            "key": "236",
+            "value": "Have we made enough gil, Lord Camillo?"
+        },
+        {
+            "key": "237",
+            "value": "Nope, we're still a little short."
+        },
+        {
+            "key": "238",
+            "value": "You just accepted another job, right? Won't we have enough after that one?"
+        },
+        {
+            "key": "239",
+            "value": "We will. But I should warn you, the high pay reflects the high risk."
+        },
+        {
+            "key": "240",
+            "value": "What do we need to do?"
+        },
+        {
+            "key": "241",
+            "value": "We'll be guarding the village's provisions storage from monsters and thieves."
+        },
+        {
+            "key": "242",
+            "value": "It would appear that after falling on hard times due to the war, these thieves have been raiding the place night after night."
+        },
+        {
+            "key": "243",
+            "value": "I can't believe anyone would resort to stealing. I'm going to have to beat them back onto the straight and narrow!"
+        },
+        {
+            "key": "244",
+            "value": "As a knight, I cannot let this go unpunished, either."
+        },
+        {
+            "key": "245",
+            "value": "Hehe. I just knew we would get along well, Elsirelle!"
+        },
+        {
+            "key": "246",
+            "value": "For the time being, let us await nightfall. An ambush would probably be the most effective approach."
+        },
+        {
+            "key": "247",
+            "value": "I agree. All right, everyone be on the alert near the provisions storage. At the first sight of the enemy, we'll spring into action."
+        },
+        {
+            "key": "248",
+            "value": "Take it, get as much as you can! Ignore the shiny stuff and just go for the food!"
+        },
+        {
+            "key": "249",
+            "value": "They're here! Okay, I've got an arrow for each and every one of them!"
+        },
+        {
+            "key": "250",
+            "value": "Urgh!"
+        },
+        {
+            "key": "251",
+            "value": "Gah!"
+        },
+        {
+            "key": "252",
+            "value": "Not bad at all. Time for me to cut my way in as well!"
+        },
+        {
+            "key": "253",
+            "value": "Grrrah!"
+        },
+        {
+            "key": "254",
+            "value": "They're so strong! I-I'm getting out of here!"
+        },
+        {
+            "key": "255",
+            "value": "W-wait! Wait for me!"
+        },
+        {
+            "key": "256",
+            "value": "Now, then... Looks like you're the last one left."
+        },
+        {
+            "key": "257",
+            "value": "P-please, let me go! My sister is ill, you see, and she's waiting for me to come home!"
+        },
+        {
+            "key": "258",
+            "value": "Your sister!? So you were stealing to take care of her?"
+        },
+        {
+            "key": "259",
+            "value": "Y-you believe me?"
+        },
+        {
+            "key": "260",
+            "value": "That's not even the worst of it! If I don't bring this food home to my kids, they'll surely starve!"
+        },
+        {
+            "key": "261",
+            "value": "That's horrible! Grrr, war is so unforgivable...!"
+        },
+        {
+            "key": "262",
+            "value": "Lady Cetia!? Can't you see that he's lying about all of it!?"
+        },
+        {
+            "key": "263",
+            "value": "Who would lie about something like that!? Are you saying you don't believe him!?"
+        },
+        {
+            "key": "264",
+            "value": "Surely there's a more fundamental problem here!"
+        },
+        {
+            "key": "265",
+            "value": "I believe him! Faith in others is the true strength I believe in!"
+        },
+        {
+            "key": "266",
+            "value": "Hahaha, what a pushover! Tricking you was all too easy, you fool!"
+        },
+        {
+            "key": "267",
+            "value": "The only fool here is you. Hyah!"
+        },
+        {
+            "key": "268",
+            "value": "Urgh!"
+        },
+        {
+            "key": "269",
+            "value": "Do NOT listen to a single word your enemy spouts! For thieves like him, lying comes as easily as breathing!"
+        },
+        {
+            "key": "270",
+            "value": "B-but he..."
+        },
+        {
+            "key": "271",
+            "value": "Camillo, we've more or less got it under control here."
+        },
+        {
+            "key": "272",
+            "value": "Then I think it's about time we wrapped this up!"
+        },
+        {
+            "key": "273",
+            "value": "All right, that was the last of them. There were more than I expected, but nothing too troublesome."
+        },
+        {
+            "key": "274",
+            "value": "......"
+        },
+        {
+            "key": "275",
+            "value": "Are you all right, Lady Cetia?"
+        },
+        {
+            "key": "276",
+            "value": "It seems that I didn't understand people as well as I thought I did."
+        },
+        {
+            "key": "277",
+            "value": "I'm sorry I ignored you when you tried to warn me, Lucio."
+        },
+        {
+            "key": "278",
+            "value": "N-no need to apologize. I wasn't of much help, anyway, seeing how it was Lord Camillo who saved you."
+        },
+        {
+            "key": "279",
+            "value": "Or you could just thank us by increasing our cut of the profits."
+        },
+        {
+            "key": "280",
+            "value": "You got it! Take it all!"
+        },
+        {
+            "key": "281",
+            "value": "I-It was a joke! Just some nice words of appreciation will more than suffice."
+        },
+        {
+            "key": "282",
+            "value": "...Really? Okay, then. Thank you, Camillo."
+        },
+        {
+            "key": "283",
+            "value": "She should not have to say such things after you coerced her, mind you."
+        },
+        {
+            "key": "284",
+            "value": "I didn't coerce anybody!"
+        },
+        {
+            "key": "285",
+            "value": "One of the thieves we captured fessed up about a hideout near here."
+        },
+        {
+            "key": "286",
+            "value": "It wouldn't be right for a knight to not act on this information. We should pay them a visit."
+        },
+        {
+            "key": "287",
+            "value": "But we've already got all the gil we need..."
+        },
+        {
+            "key": "288",
+            "value": "The raiding of provisions will only continue unless the source of the problem is eliminated."
+        },
+        {
+            "key": "289",
+            "value": "We should put an end to this now, or else the villagers will continue to struggle."
+        },
+        {
+            "key": "290",
+            "value": "I'm with you."
+        },
+        {
+            "key": "291",
+            "value": "More importantly, we can't let these weak-hearted people continue to hurt others with their lies."
+        },
+        {
+            "key": "292",
+            "value": "We have to get them back on the straight and narrow!"
+        },
+        {
+            "key": "293",
+            "value": "We're going to enter the enemy's base? That sounds risky..."
+        },
+        {
+            "key": "294",
+            "value": "Aren't we obligated to protect the weak and vulnerable?"
+        },
+        {
+            "key": "295",
+            "value": "......! R-right. Yes, that's exactly right!"
+        },
+        {
+            "key": "296",
+            "value": "...Well, the fewer causes of unease waiting for Ovis after its liberation, the better."
+        },
+        {
+            "key": "297",
+            "value": "I suppose it can't hurt to nip this in the bud. All right, I'm in."
+        },
+        {
+            "key": "298",
+            "value": "Besides, Machérie could catch wind of this noble act, improving my chances all the more!"
+        },
+        {
+            "key": "299",
+            "value": "Now that we know what we're fighting for, let's go stamp them out."
+        },
+        {
+            "key": "300",
+            "value": "What's this? No rehearsals this time?"
+        },
+        {
+            "key": "301",
+            "value": "It's not like I do it all the time!"
+        },
+        {
+            "key": "302",
+            "value": "Who the hell are you!?"
+        },
+        {
+            "key": "303",
+            "value": "We're here to beat some moral fiber back into you!"
+        },
+        {
+            "key": "304",
+            "value": "C-calm down, please. We should try talking to him first..."
+        },
+        {
+            "key": "305",
+            "value": "Who do you think you are? Get 'em, lads!"
+        },
+        {
+            "key": "306",
+            "value": "He does not seem to be open to conversation."
+        },
+        {
+            "key": "307",
+            "value": "That makes this easy then! Mine is the arrow of justice, and with it I'll mend your wicked ways!"
+        }
+    ]
+}

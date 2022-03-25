@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "70095",
+            "value": "Aouch, les gars ! Hé hé, vous savez vous défendre !"
+        },
+        {
+            "key": "70096",
+            "value": "Mais c'est pas avec des coups aussi mous que vous allez nous battre."
+        },
+        {
+            "key": "70097",
+            "value": "Eh oui ! On n'est pas forgé dans le même métal que vous."
+        },
+        {
+            "key": "70098",
+            "value": "Attendez, trêve ! Vous êtes des soldats de « Rubeus », n'est-ce pas ?"
+        },
+        {
+            "key": "70099",
+            "value": "Nous ne sommes pas ennemis !"
+        },
+        {
+            "key": "70100",
+            "value": "C'est ça, cause toujours."
+        },
+        {
+            "key": "70101",
+            "value": "Je demande une audience, rengainez vos épées."
+        },
+        {
+            "key": "70102",
+            "value": "Tu auras tout le temps de discuter en enfer !"
+        },
+        {
+            "key": "70103",
+            "value": "C'est inutile, Sire. Il faut nous battre."
+        },
+        {
+            "key": "70104",
+            "value": "Je le crains... Évitez de les blesser, si vous le pouvez. Ce sont nos alliés."
+        },
+        {
+            "key": "70105",
+            "value": "Entendu. On retiendra nos coups... si possible."
+        }
+    ]
+}

@@ -1,0 +1,776 @@
+﻿{
+    "infos": [
+        {
+            "key": "HOMETOP_TITLE",
+            "value": "主畫面"
+        },
+        {
+            "key": "BUYLAPIS_TITLE",
+            "value": "購買幻導石"
+        },
+        {
+            "key": "VIP_TITLE",
+            "value": "會員等級"
+        },
+        {
+            "key": "APHEAL_TITLE",
+            "value": "恢復體力"
+        },
+        {
+            "key": "EXPEDITION_TITLE",
+            "value": "探險陸行鳥"
+        },
+        {
+            "key": "BEGINNER_TITLE",
+            "value": "新手館"
+        },
+        {
+            "key": "GACHA_TITLE",
+            "value": "召喚"
+        },
+        {
+            "key": "SHOP_TITLE",
+            "value": "商店"
+        },
+        {
+            "key": "UNIT_TOP_TITLE",
+            "value": "兵員"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE",
+            "value": "兵員詳細資訊"
+        },
+        {
+            "key": "UNIT_ABILITYBOARD_TITLE",
+            "value": "兵員能力盤"
+        },
+        {
+            "key": "UNIT_RELEASE_TITLE",
+            "value": "解鎖能力"
+        },
+        {
+            "key": "UNIT_RELEASEALL_TITLE",
+            "value": "兵員能力盤一併解鎖"
+        },
+        {
+            "key": "UNIT_RESET_TITLE",
+            "value": "重置兵員能力盤"
+        },
+        {
+            "key": "UNIT_INTIMACY_TITLE",
+            "value": "親密度"
+        },
+        {
+            "key": "UNIT_INTIMACY_TITLE_NBEAST",
+            "value": "共鳴度"
+        },
+        {
+            "key": "GUILD_JOINSELECT_TITLE",
+            "value": "公會設立·加入選擇"
+        },
+        {
+            "key": "GUILD_SEARCH_TITLE",
+            "value": "公會檢索"
+        },
+        {
+            "key": "GUILD_TOP_TITLE",
+            "value": "公會大廳"
+        },
+        {
+            "key": "GUILD_LEADERREWARD_TITLE",
+            "value": "公會會長報酬"
+        },
+        {
+            "key": "GUILD_RANKING_TITLE",
+            "value": "公會排名"
+        },
+        {
+            "key": "GUILD_ATTENDREWARD_TITLE",
+            "value": "公會出席報酬"
+        },
+        {
+            "key": "GUILD_BARRACKS_TITLE",
+            "value": "公會兵舍"
+        },
+        {
+            "key": "GUILD_STATUE_TITLE",
+            "value": "公會石像"
+        },
+        {
+            "key": "GUILD_HUNT_TITLE",
+            "value": "公會任務"
+        },
+        {
+            "key": "GUILD_STATUEENHANCE_TITLE",
+            "value": "公會石像強化"
+        },
+        {
+            "key": "GUILDBATTLE_TITLE",
+            "value": "公會戰鬥"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "期間限定公會戰鬥"
+        },
+        {
+            "key": "GUILDBATTLE_LEAGUE_TITLE",
+            "value": "公會戰鬥頂尖對決"
+        },
+        {
+            "key": "GUILDBATTLE_EXERCISE_TITLE",
+            "value": "模擬戰（公會戰鬥）"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_EXERCISE_TITLE",
+            "value": "模擬戰（期間限定公會戰鬥）"
+        },
+        {
+            "key": "GUILDBATTLE_LEAGUE_EXERCISE_TITLE",
+            "value": "模擬戰（公會戰鬥頂尖對決）"
+        },
+        {
+            "key": "DUEL_TITLE",
+            "value": "決鬥"
+        },
+        {
+            "key": "ARENA_TOP_TITLE",
+            "value": "鬥技場"
+        },
+        {
+            "key": "ARENA_PARTYEDIT_TITLE",
+            "value": "鬥技場隊伍編配"
+        },
+        {
+            "key": "ARENA_LIST_TITLE",
+            "value": "選擇鬥技場對戰對手"
+        },
+        {
+            "key": "ARENA_REWARD_TITLE",
+            "value": "鬥技場報酬一覽"
+        },
+        {
+            "key": "ARENA_RANKINGREWARD_TITLE",
+            "value": "收取鬥技場報酬"
+        },
+        {
+            "key": "MATCH_TITLE",
+            "value": "匹配戰鬥"
+        },
+        {
+            "key": "MATCH_PARTYEDIT_TITLE",
+            "value": "匹配隊伍編配"
+        },
+        {
+            "key": "MATCH_MAKEROOM_TITLE",
+            "value": "好友匹配"
+        },
+        {
+            "key": "CLASSMATCH_TITLE",
+            "value": "段位賽"
+        },
+        {
+            "key": "CLASSMATCH_INFO_TITLE",
+            "value": "段位資訊"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_TITLE",
+            "value": "段位賽報酬一覽"
+        },
+        {
+            "key": "LOBBY_TITLE",
+            "value": "異界之城"
+        },
+        {
+            "key": "SUMMONQUEST_TITLE",
+            "value": "強敵之間"
+        },
+        {
+            "key": "SUPPORT_LIST_TITLE",
+            "value": "選擇同行者"
+        },
+        {
+            "key": "MULTI_TOP_TITLE",
+            "value": "協力"
+        },
+        {
+            "key": "MULTI_QUESTLIST_TITLE",
+            "value": "選擇協力任務"
+        },
+        {
+            "key": "MULTI_ROOMLIST_TITLE",
+            "value": "協力募集一覽"
+        },
+        {
+            "key": "MULTI_PLAYSTYLE_TITLE",
+            "value": "選擇遊戲方式"
+        },
+        {
+            "key": "MULTI_ROOM_TITLE",
+            "value": "協力房間"
+        },
+        {
+            "key": "MULTI_PARTYEDIT_TITLE",
+            "value": "協力編配畫面"
+        },
+        {
+            "key": "MULTI_RPLAYER_TITLE",
+            "value": "玩家資訊"
+        },
+        {
+            "key": "MULTI_OTHERPLAYER_TITLE",
+            "value": "協力任務　出擊兵員資訊"
+        },
+        {
+            "key": "RAID_ENCOUNT_TITLE",
+            "value": "共鬥遭遇戰"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "共鬥"
+        },
+        {
+            "key": "RAID_ROOM_TITLE",
+            "value": "共鬥房間"
+        },
+        {
+            "key": "RAID_BOSS_TITLE",
+            "value": "共鬥頭目"
+        },
+        {
+            "key": "RAID_DEFEAT_TITLE",
+            "value": "共鬥討伐"
+        },
+        {
+            "key": "RAID_END_TITLE",
+            "value": "領取報酬期限"
+        },
+        {
+            "key": "RAID_REWARD_TITLE",
+            "value": "共鬥報酬"
+        },
+        {
+            "key": "RAID_PARTYEDIT_TITLE",
+            "value": "共鬥編配畫面"
+        },
+        {
+            "key": "RAID_HELP_TITLE",
+            "value": "救援委託"
+        },
+        {
+            "key": "RAID_OTHERPLAYER_TITLE",
+            "value": "共鬥　出擊兵員資訊"
+        },
+        {
+            "key": "OTHERPLAYER_TITLE",
+            "value": "其他玩家資訊"
+        },
+        {
+            "key": "EVENT_TITLE",
+            "value": "活動"
+        },
+        {
+            "key": "EVENT_QUESTLIST_TITLE",
+            "value": "活動任務列表"
+        },
+        {
+            "key": "MOGSHOP_TITLE",
+            "value": "莫古商店"
+        },
+        {
+            "key": "STORY_TITLE",
+            "value": "劇情任務"
+        },
+        {
+            "key": "STORY_SELECT_TITLE",
+            "value": "劇情任務"
+        },
+        {
+            "key": "STORY_SORTIE_TITLE",
+            "value": "出擊畫面"
+        },
+        {
+            "key": "STORY_FORCEDSORTIE_TITLE",
+            "value": "劇情強制出擊"
+        },
+        {
+            "key": "STORY_LIST_TITLE",
+            "value": "選擇同行者"
+        },
+        {
+            "key": "WORLD_TITLE",
+            "value": "世界地圖"
+        },
+        {
+            "key": "WORLD_AREA_TITLE",
+            "value": "區域地圖"
+        },
+        {
+            "key": "WORLD_QUESTLIST_TITLE",
+            "value": "世界任務一覽"
+        },
+        {
+            "key": "WORLD_SORTIE_TITLE",
+            "value": "編配畫面"
+        },
+        {
+            "key": "WORLD_FORCEDSORTIE_TITLE",
+            "value": "地圖強制出擊"
+        },
+        {
+            "key": "WORLD_LIST_TITLE",
+            "value": "選擇同行者"
+        },
+        {
+            "key": "WORLD_SUBQUEST_TITLE",
+            "value": "支線任務一覽"
+        },
+        {
+            "key": "FRIEND_TITLE",
+            "value": "好友"
+        },
+        {
+            "key": "FRIEND_GIFT_TITLE",
+            "value": "好友贈禮"
+        },
+        {
+            "key": "SUBMENU_QUEST_TITLE",
+            "value": "任務編配"
+        },
+        {
+            "key": "SUBMENU_DUEL_TITLE",
+            "value": "決鬥編配"
+        },
+        {
+            "key": "SUBMENU_MULTI_TITLE",
+            "value": "協力編配"
+        },
+        {
+            "key": "SUBMENU_GUILD_TITLE",
+            "value": "公會戰鬥編配"
+        },
+        {
+            "key": "SUBMENU_TEMPLATE_TITLE",
+            "value": ""
+        },
+        {
+            "key": "SUBMENU_SUPPORT_TITLE",
+            "value": "關於同行者設定"
+        },
+        {
+            "key": "ARTI_TITLE",
+            "value": "武具詳細資訊"
+        },
+        {
+            "key": "ARTI_LIST_TITLE",
+            "value": "武具一覽"
+        },
+        {
+            "key": "ARTI_ENHANCE_TITLE",
+            "value": "武具強化"
+        },
+        {
+            "key": "ARTI_AWAKE_TITLE",
+            "value": "武具覺醒"
+        },
+        {
+            "key": "ARTI_STATUS_TITLE",
+            "value": "武具鍛造"
+        },
+        {
+            "key": "ARTI_ABILITY_TITLE",
+            "value": "武具能力強化"
+        },
+        {
+            "key": "ARTI_RESET_TITLE",
+            "value": "武具重置"
+        },
+        {
+            "key": "ARTI_CRAFT_TITLE",
+            "value": "製作"
+        },
+        {
+            "key": "ARTI_CRAFT_DETAIL_TITLE",
+            "value": "製作詳細"
+        },
+        {
+            "key": "ARTI_SELL_TITLE",
+            "value": "武具販售"
+        },
+        {
+            "key": "ARTI_BULK_TITLE",
+            "value": "武具分解"
+        },
+        {
+            "key": "NETHERBEAST_LIST_TITLE",
+            "value": "召喚獸一覽"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_TITLE",
+            "value": "召喚獸詳細"
+        },
+        {
+            "key": "NETHERBEAST_ENHANCE_TITLE",
+            "value": "一併強化"
+        },
+        {
+            "key": "NETHERBEAST_ABILITYBOARD_TITLE",
+            "value": "召喚獸育成盤"
+        },
+        {
+            "key": "NETHERBEAST_RELEASE_TITLE",
+            "value": "召喚獸育成盤"
+        },
+        {
+            "key": "NETHERBEAST_RELEASEALL_TITLE",
+            "value": "召喚獸育成盤一併解鎖"
+        },
+        {
+            "key": "NETHERBEAST_RESET_TITLE",
+            "value": "重置召喚獸育成盤"
+        },
+        {
+            "key": "VISION_LIST_TITLE",
+            "value": "幻兵卡一覽"
+        },
+        {
+            "key": "VISION_ENHANCE_TITLE",
+            "value": "強化"
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_TITLE",
+            "value": "卡統合"
+        },
+        {
+            "key": "VISION_SELL_TITLE",
+            "value": "幻兵卡販售"
+        },
+        {
+            "key": "VISION_DETAIL_TITLE",
+            "value": "幻兵卡"
+        },
+        {
+            "key": "MISSION_TITLE",
+            "value": "挑戰"
+        },
+        {
+            "key": "OPTION_TITLE",
+            "value": "選單"
+        },
+        {
+            "key": "OPTION_PLAYERINFO_TITLE",
+            "value": "玩家資訊"
+        },
+        {
+            "key": "OPTION_STORYMEMORY_TITLE",
+            "value": "劇情回想"
+        },
+        {
+            "key": "ITEM_TITLE",
+            "value": "道具"
+        },
+        {
+            "key": "CHARGEBONUS_TITLE",
+            "value": "每日購買獎勵"
+        },
+        {
+            "key": "EXCHANGE_TITLE",
+            "value": "道具交換所"
+        },
+        {
+            "key": "TOWER_TOP_TITLE",
+            "value": "白磁之塔"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "詳細資訊"
+        },
+        {
+            "key": "TOWER_PARTY_TITLE",
+            "value": "白磁之塔　出擊畫面"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "自動戰鬥使用的能力"
+        },
+        {
+            "key": "CONTACT_US_TITLE",
+            "value": "聯絡我們/幫助"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_INFO_TITLE",
+            "value": "玩家資訊"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_IDENTIFIER_TITLE",
+            "value": "玩家ID"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_NAME_TITLE",
+            "value": "玩家姓名"
+        },
+        {
+            "key": "CONTACT_US_INQUIRIES_TITLE",
+            "value": "詢問"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_TYPE_TITLE",
+            "value": "問題種類"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_AREA_TITLE",
+            "value": "問題領域"
+        },
+        {
+            "key": "CONTACT_US_EMAIL_TITLE",
+            "value": "Email (選填)"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_TITLE",
+            "value": "評論內容"
+        },
+        {
+            "key": "CONTACT_US_SEND_BUTTON",
+            "value": "送出"
+        },
+        {
+            "key": "CONTACT_US_TICKETS_BUTTON",
+            "value": "My Tickets"
+        },
+        {
+            "key": "ISSUE_TYPE_GENERAL",
+            "value": "一般"
+        },
+        {
+            "key": "ISSUE_TYPE_ACCOUNT",
+            "value": "帳號"
+        },
+        {
+            "key": "ISSUE_TYPE_GAMEPLAY",
+            "value": "遊戲進行"
+        },
+        {
+            "key": "ISSUE_TYPE_BUG",
+            "value": "錯誤"
+        },
+        {
+            "key": "ISSUE_TYPE_EVENT",
+            "value": "活動"
+        },
+        {
+            "key": "ISSUE_TYPE_FEEDBACK",
+            "value": "反饋"
+        },
+        {
+            "key": "ISSUE_TYPE_IN_APP_PURCHASE",
+            "value": "遊戲內購買"
+        },
+        {
+            "key": "ISSUE_TYPE_BILLING",
+            "value": "帳單"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_LOST",
+            "value": "帳號遺失"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_SHARD",
+            "value": "碎片消失"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_LAPIS",
+            "value": "幻導石消失"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_EQUIPMENT",
+            "value": "裝備消失"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_SUSPENDED",
+            "value": "帳號被禁"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_OTHERS",
+            "value": "其它"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_MISSING_REWARDS",
+            "value": "報酬消失"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_CRASH",
+            "value": "無法進行活動"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_BUG",
+            "value": "活動錯誤"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_OTHERS",
+            "value": "其它"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_UNABLE_TO_DOWNLOAD",
+            "value": "無法下載"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_LOADING",
+            "value": "資料載入"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_QUEST",
+            "value": "任務"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_GACHA",
+            "value": "召喚"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_ARENA",
+            "value": "鬥技場"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_CONNECTION_ERROR",
+            "value": "連線錯誤"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_OTHERS",
+            "value": "其它"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_IMAGE",
+            "value": "圖片"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TEXT",
+            "value": "文字"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TRANSLATION",
+            "value": "翻譯"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_SKILL",
+            "value": "技能"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_OTHERS",
+            "value": "其它"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_MISSING_PURCHASE",
+            "value": "未獲得購買內容"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_REFUND",
+            "value": "退費"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_BUNDLE",
+            "value": "遊戲捆包"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_APPLE",
+            "value": "Apple App Store"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_GOOGLE",
+            "value": "Google Play商店"
+        },
+        {
+            "key": "SUPPORT_TICKETS_TITLE",
+            "value": "My tickets"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_CAPTION",
+            "value": "請輸入您的問題"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_DIALOG_TITLE",
+            "value": "回覆"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_SUCCESS_DIALOG_DESC",
+            "value": "您的訊息已成功送出。"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_FAIL_DIALOG_DESC",
+            "value": "發生錯誤，未能送出您的訊息。"
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_TITLE",
+            "value": "確認"
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
+            "value": "送出訊息？"
+        },
+        {
+            "key": "POINT_QUEST_TOP_TITLE",
+            "value": "制裁試煉"
+        },
+        {
+            "key": "STAMP_TITLE",
+            "value": "印章"
+        },
+        {
+            "key": "MASTERY_TITLE",
+            "value": "精通"
+        },
+        {
+            "key": "DRAFTMATCH_TITLE",
+            "value": "精選賽"
+        },
+        {
+            "key": "DRAFTMATCH_INFO_TITLE",
+            "value": "段位資訊"
+        },
+        {
+            "key": "DRAFTMATCH_REWARD_TITLE",
+            "value": "精選賽報酬一覽"
+        },
+        {
+            "key": "BATTLEROAD_TITLE",
+            "value": "特選任務"
+        },
+        {
+            "key": "BATTLEROAD_QUESTLIST_TITLE",
+            "value": "特選任務列表"
+        },
+        {
+            "key": "FIRSTBONUS_TITLE",
+            "value": "首次購買獎勵"
+        },
+        {
+            "key": "GUILDRAID_TOP_TITLE",
+            "value": "公會共鬥"
+        },
+        {
+            "key": "GUILDRAID_BOSS_TITLE",
+            "value": "公會共鬥頭目"
+        },
+        {
+            "key": "GUILDRAID_PARTYEDIT_TITLE",
+            "value": "公會共鬥編配畫面"
+        },
+        {
+            "key": "UNIT_OTHERPLAYER_TITLE",
+            "value": "其他玩家資訊"
+        },
+        {
+            "key": "MATERIAL_LIST_TITLE",
+            "value": "信銘石一覽"
+        },
+        {
+            "key": "MATERIAL_ENHANCE_TITLE",
+            "value": "信銘石強化"
+        },
+        {
+            "key": "MATERIAL_CRAFT_TITLE",
+            "value": "信銘石鍛鑄"
+        },
+        {
+            "key": "MATERIAL_SELL_TITLE",
+            "value": "信銘石分解"
+        }
+    ]
+}

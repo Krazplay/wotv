@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Nos forces sont clairement supérieures..."
+        },
+        {
+            "key": "002",
+            "value": "Alors, comment est-ce possible ?"
+        },
+        {
+            "key": "003",
+            "value": "Pourquoi n'arrive-t-on pas à atteindre Sadali ?"
+        },
+        {
+            "key": "004",
+            "value": "Pardon mon ange, je ne vise peut-être pas assez bien..."
+        },
+        {
+            "key": "005",
+            "value": "Mais non, ce n'est pas de ta faute."
+        },
+        {
+            "key": "006",
+            "value": "Quand bien même Schuzelt aurait été avec nous, je doute que nous aurions été à même de l'atteindre."
+        },
+        {
+            "key": "007",
+            "value": "Là... !"
+        },
+        {
+            "key": "008",
+            "value": "Est-ce bien... « Chuchote » ?"
+        },
+        {
+            "key": "009",
+            "value": "« Chuchote » ? De la garde divine de Sadali ?"
+        },
+        {
+            "key": "010",
+            "value": "Elle ne repousse tout de même pas notre assaut à elle seule ?"
+        },
+        {
+            "key": "011",
+            "value": "Mon ange, il ne faut pas se décourager comme ça !"
+        },
+        {
+            "key": "012",
+            "value": "Je ne suis pas ton ange !"
+        },
+        {
+            "key": "013",
+            "value": "Tu sais que pour me faire taire..."
+        },
+        {
+            "key": "014",
+            "value": "Oui, je sais."
+        },
+        {
+            "key": "015",
+            "value": "En avant ! Que « Solidus » soit la division qui a percé les défenses de Sadali !"
+        }
+    ]
+}

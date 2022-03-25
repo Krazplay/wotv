@@ -1,0 +1,124 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vaya... No está nada mal."
+        },
+        {
+            "key": "002",
+            "value": "Me retiro por ahora. Pero no os equivoquéis..."
+        },
+        {
+            "key": "003",
+            "value": "No tendréis tanta suerte la próxima vez."
+        },
+        {
+            "key": "004",
+            "value": "¡Lo conseguimos! ¡Esos ninjas de Gouga no tenían nada que hacer contra nosotros!"
+        },
+        {
+            "key": "005",
+            "value": "Podría haber acabado con Niv'Lu yo solita..."
+        },
+        {
+            "key": "006",
+            "value": "¿Lo dices por mí?"
+        },
+        {
+            "key": "007",
+            "value": "No sé, no sé..."
+        },
+        {
+            "key": "008",
+            "value": "He cambiado. No soy la misma que solía ser entonces."
+        },
+        {
+            "key": "009",
+            "value": "¿Quieres comprobarlo?"
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "¿Es que no vais a parar?"
+        },
+        {
+            "key": "012",
+            "value": "Cuando quieras."
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Eh... ¿Qué hacemos? ¡A este paso…!"
+        },
+        {
+            "key": "015",
+            "value": "¿Una pelea entre aliadas? Vaya imagen."
+        },
+        {
+            "key": "016",
+            "value": "¡Esa voz...!"
+        },
+        {
+            "key": "017",
+            "value": "¡Hermana!..."
+        },
+        {
+            "key": "018",
+            "value": "¡Has venido!"
+        },
+        {
+            "key": "019",
+            "value": "La verdad es que no he venido porque la aldea estuviese en peligro."
+        },
+        {
+            "key": "020",
+            "value": "¿Entonces, por qué?"
+        },
+        {
+            "key": "021",
+            "value": "Livialle... Si bien recuerdo, te mandaron a Ovis."
+        },
+        {
+            "key": "022",
+            "value": "Ha pasado mucho tiempo, lord Skahal."
+        },
+        {
+            "key": "023",
+            "value": "Rundal ha declarado la guerra a Ovis."
+        },
+        {
+            "key": "024",
+            "value": "Así que finalmente ha pasado... ¿Y está bien que estéis aquí con todo lo que está pasando?"
+        },
+        {
+            "key": "025",
+            "value": "Esta aldea es mi hogar."
+        },
+        {
+            "key": "026",
+            "value": "Entiendo. Gracias."
+        },
+        {
+            "key": "027",
+            "value": "¡¿Hm?!..."
+        },
+        {
+            "key": "028",
+            "value": "¡¿Quién anda ahí?!..."
+        },
+        {
+            "key": "029",
+            "value": "¡Parece que aún quedan supervivientes de Gouga!"
+        },
+        {
+            "key": "030",
+            "value": "¡A por ellos!"
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+﻿{
+    "infos": [
+        {
+            "key": "33_1",
+            "value": "Nur Augenblicke vor der Kollision der beiden Schiffe ..."
+        },
+        {
+            "key": "033",
+            "value": "Die Schlacht beginnt. Kehrt nun auf eure Schiffe zurück und befehligt nach eigenem Ermessen."
+        },
+        {
+            "key": "034",
+            "value": "Ähm ..."
+        },
+        {
+            "key": "035",
+            "value": "Nach eigenem Ermessen ...?"
+        },
+        {
+            "key": "036",
+            "value": "Gibt es denn keine Strategie?"
+        },
+        {
+            "key": "037",
+            "value": "Wenn ich euch sage, was ihr tun sollt, werden wir mit Sicherheit verlieren."
+        },
+        {
+            "key": "038",
+            "value": "... Wie bitte?"
+        },
+        {
+            "key": "039",
+            "value": "Der Feind hat nur ein einziges Schiff, doch befehligt wird es von Mhua, meiner Schwester."
+        },
+        {
+            "key": "040",
+            "value": "I-Ihr meint, wir müssen gegen Eure Schwester antreten?!"
+        },
+        {
+            "key": "041",
+            "value": "Seid unbesorgt. Wir haben uns bereits voneinander verabschiedet."
+        },
+        {
+            "key": "042",
+            "value": "H-Hier geht es, glaube ich, um etwas anderes ..."
+        },
+        {
+            "key": "043",
+            "value": "Meine Schwester ist eine Astrologin von solchem Talent, dass ich ihr nicht annähernd das Wasser reichen kann."
+        },
+        {
+            "key": "044",
+            "value": "Aber dann sind wir ja von vornherein zum Scheitern verurteilt!"
+        },
+        {
+            "key": "045",
+            "value": "Dies mag sein. Aber genau deshalb ist jetzt die Stunde eures Triumphes gekommen."
+        },
+        {
+            "key": "046",
+            "value": "Ich verstehe es immer weniger ..."
+        },
+        {
+            "key": "047",
+            "value": "Der Feind eröffnet das Feuer! Ich sehe schwarz für uns ...!"
+        },
+        {
+            "key": "048",
+            "value": "Deshalb seid ihr jetzt an der Reihe."
+        },
+        {
+            "key": "049",
+            "value": "Ich hab immer noch keine Ahnung, was sie von uns will ..."
+        },
+        {
+            "key": "050",
+            "value": "Hmmm."
+        },
+        {
+            "key": "051",
+            "value": "... Wollen wir’s trotzdem versuchen?"
+        },
+        {
+            "key": "052",
+            "value": "Mit Verlaub, Kapitänin, wir haben in diesem dichten Nebel kaum zehn Meter Sicht ..."
+        },
+        {
+            "key": "053",
+            "value": "*Schnüffel*"
+        },
+        {
+            "key": "054",
+            "value": "Kapitänin Etre ...?"
+        },
+        {
+            "key": "055",
+            "value": "Steuert das Schiff in diese Richtung!"
+        },
+        {
+            "key": "056",
+            "value": "K-Kapitänin Yerma! Dieser Kurs führt uns doch geradewegs ..."
+        },
+        {
+            "key": "057",
+            "value": "Ich weiß."
+        },
+        {
+            "key": "058",
+            "value": "Aber auf dem feindlichen Schiff sitzt Lhamadas Schwester, schon vergessen? Da hilft uns keine noch so schlaue Taktik."
+        },
+        {
+            "key": "059",
+            "value": "D-Das stimmt wohl, aber ..."
+        },
+        {
+            "key": "060",
+            "value": "Es hieß ja, dass wir unsere Schiffe nach eigenem Ermessen befehligen sollen ..."
+        },
+        {
+            "key": "061",
+            "value": "Aber gegen Lhamadas Schwester! Das ist doch der pure Selbstmord!"
+        },
+        {
+            "key": "062",
+            "value": "Ka... Kapitänin?"
+        },
+        {
+            "key": "063",
+            "value": "Verstehe ich das richtig, und Ihr wollt tatsächlich ..."
+        },
+        {
+            "key": "064",
+            "value": "Abhauen, na klar!"
+        },
+        {
+            "key": "065",
+            "value": "A-Aber ...!"
+        },
+        {
+            "key": "066",
+            "value": "Ich will nichts hören! Wir behalten diesen Kurs bei, verstanden?"
+        },
+        {
+            "key": "067",
+            "value": "War es wirklich weise, diesen dreien Schiffe anzuvertrauen?"
+        },
+        {
+            "key": "068",
+            "value": "Nur keine Sorge."
+        },
+        {
+            "key": "069",
+            "value": "Der dichte Nebel verleitet unsere Augen dazu, Dinge in ihm zu erkennen, die eigentlich nicht da sind."
+        },
+        {
+            "key": "070",
+            "value": "Doch Etre wird sich nicht auf ihre Augen, sondern auf ihre feine Nase verlassen, um das Schiff sicher durch den Nebel zu lenken."
+        },
+        {
+            "key": "071",
+            "value": "... Ich verstehe."
+        },
+        {
+            "key": "072",
+            "value": "Ganz im Gegensatz zu Nashia, die vermutlich bei erster Gelegenheit desertieren wird."
+        },
+        {
+            "key": "073",
+            "value": "Und dennoch habt Ihr ihr ein Schiff überlassen?"
+        },
+        {
+            "key": "074",
+            "value": "Nashias Orientierungssinn kommt einer Katastrophe gleich. Wenn jemand wie sie Hals über Kopf die Flucht ergreift ..."
+        },
+        {
+            "key": "075",
+            "value": "... Schwer vorherzusagen, wo sie landen wird."
+        },
+        {
+            "key": "076",
+            "value": "Niemand weiß es. Und das kommt uns zugute."
+        },
+        {
+            "key": "077",
+            "value": "Und was ist mit Kapitänin Yerma?"
+        },
+        {
+            "key": "078",
+            "value": "Sie hat ein eisernes Pflichtgefühl und unerschütterlichen Mut."
+        },
+        {
+            "key": "079",
+            "value": "Wenn unser Vorgehen gar zu absonderlich wirkt, wird meine Schwester sofort Verdacht schöpfen."
+        },
+        {
+            "key": "080",
+            "value": "... Aber wenn Yerma einen Frontalangriff startet, lässt der Feind sich vielleicht ablenken. Ich verstehe."
+        },
+        {
+            "key": "081",
+            "value": "All diese drei zusammen bringen eine Unvorhersehbarkeit auf das Schlachtfeld, die selbst das Licht der Sterne zu täuschen vermag."
+        },
+        {
+            "key": "082",
+            "value": "Allerdings ..."
+        },
+        {
+            "key": "083",
+            "value": "... wird das allein uns auch nicht den Sieg bringen."
+        },
+        {
+            "key": "084",
+            "value": "Es wird Zeit, dass wir unseren Beitrag leisten."
+        },
+        {
+            "key": "085",
+            "value": "Jawohl!"
+        },
+        {
+            "key": "086",
+            "value": "Kapitänin Mhua!"
+        },
+        {
+            "key": "087",
+            "value": "Unfassbar ...!"
+        },
+        {
+            "key": "088",
+            "value": "Wa-Was soll das denn?! Ich dachte, wir wären direkt in die andere Richtung ...!"
+        },
+        {
+            "key": "089",
+            "value": "Hach. Also gut, jetzt ist es auch schon egal."
+        },
+        {
+            "key": "090",
+            "value": "Dann rammen wir sie eben mit voller Kraft!"
+        }
+    ]
+}

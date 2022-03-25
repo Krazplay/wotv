@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Les portes sont restées grandes ouvertes. Aucun renfort n'en sort..."
+        },
+        {
+            "key": "002",
+            "value": "Je me demande quelles sont les intentions du roi Eldo."
+        },
+        {
+            "key": "003",
+            "value": "Peut-être qu'il veut que le prince Mont se réfugie dans l'enceinte du château ?"
+        },
+        {
+            "key": "004",
+            "value": "Mais le prince Mont est..."
+        },
+        {
+            "key": "005",
+            "value": "Si vous voulez fuir, alors fuyez."
+        },
+        {
+            "key": "006",
+            "value": "Je ne vous retiendrai pas."
+        },
+        {
+            "key": "007",
+            "value": "Attendez ! Vous nous dites de nous enfuir ?"
+        },
+        {
+            "key": "008",
+            "value": "C'est votre meilleure option. Je ne vois pas d'autres moyens..."
+        },
+        {
+            "key": "009",
+            "value": "Hmm. Dans ce cas, permettez-moi de faire comme je veux."
+        },
+        {
+            "key": "010",
+            "value": "Permettez-moi de faire de même."
+        },
+        {
+            "key": "011",
+            "value": "..."
+        },
+        {
+            "key": "012",
+            "value": "Je suis désolé. Merci pour tout."
+        },
+        {
+            "key": "013",
+            "value": "Si seulement vous aviez été placés sous le commandement de Sterne... Rien de tout cela ne serait arrivé."
+        },
+        {
+            "key": "014",
+            "value": "Mais... Qu'est-ce que vous faites ? Pourquoi êtes-vous encore là ?"
+        },
+        {
+            "key": "015",
+            "value": "Franchement. Arrêtez de vous rabaisser comme ça."
+        },
+        {
+            "key": "016",
+            "value": "Quoi... ?"
+        },
+        {
+            "key": "017",
+            "value": "Nous sommes « Caelum », l'épée et le bouclier du prince Mont, n'est-ce pas ?"
+        },
+        {
+            "key": "018",
+            "value": "Nous serons à vos côtés, peu importe le chemin emprunté."
+        },
+        {
+            "key": "019",
+            "value": "Montrons-leur ce que la fierté des Leonis signifie."
+        },
+        {
+            "key": "020",
+            "value": "Moi aussi, je ne sers que le prince Mont !"
+        },
+        {
+            "key": "021",
+            "value": "M-merci, de rester avec moi..."
+        },
+        {
+            "key": "022",
+            "value": "Ce n'est pas le moment de pleurer. Nous avons des soldats à affronter !"
+        }
+    ]
+}

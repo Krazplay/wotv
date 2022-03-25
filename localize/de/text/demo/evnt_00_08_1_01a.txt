@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ihr müsst uns helfen, bitte!"
+        },
+        {
+            "key": "002",
+            "value": "Du bist ... ein Yezagi ..."
+        },
+        {
+            "key": "003",
+            "value": "..."
+        },
+        {
+            "key": "004",
+            "value": "Wir gehören vielleicht nur der untersten Kaste an."
+        },
+        {
+            "key": "005",
+            "value": "Aber wir sind immer noch besser als ihr ... ihr Abschaum!"
+        },
+        {
+            "key": "006",
+            "value": "Wir haben unsere Würde und Rechte als Menschen."
+        },
+        {
+            "key": "007",
+            "value": "Aber ihr, ihr seid nichts weiter als Tiere, die sich als Menschen aufspielen!"
+        },
+        {
+            "key": "008",
+            "value": "Schwachsinn!"
+        },
+        {
+            "key": "009",
+            "value": "Wir Yezagis sind genauso Menschen wie alle anderen! Warum werden wir wie der letzte Dreck behandelt?"
+        },
+        {
+            "key": "010",
+            "value": "Ganz einfach. Weil es immer schon so war."
+        },
+        {
+            "key": "011",
+            "value": "Grr ... Sie haben uns eingeholt."
+        },
+        {
+            "key": "012",
+            "value": "Ha! Uns ist noch keiner entkommen, Bürschchen."
+        },
+        {
+            "key": "013",
+            "value": "So, und jetzt beruhigen wir uns erst mal alle wieder."
+        },
+        {
+            "key": "014",
+            "value": "Wer bist du denn ... ?"
+        },
+        {
+            "key": "015",
+            "value": "Ghalzark. Angenehm."
+        },
+        {
+            "key": "016",
+            "value": "Ghalzark? Der Obmann der Waffenhändlergilde?"
+        },
+        {
+            "key": "017",
+            "value": "Ihr zwei seid also Yezagis? Ihr kommt mir wie gerufen. Euch könnte ich in meiner Gilde gebrauchen."
+        },
+        {
+            "key": "018",
+            "value": "Äh ..."
+        },
+        {
+            "key": "019",
+            "value": "Was bildest du dir ein?!"
+        },
+        {
+            "key": "020",
+            "value": "Die beiden sind das persönliche Eigentum Seiner Wildheit, König Muraga!"
+        },
+        {
+            "key": "021",
+            "value": "Ach, tatsächlich?"
+        },
+        {
+            "key": "022",
+            "value": "Weiß der König, wie grob du mit seinem Eigentum umspringst? "
+        },
+        {
+            "key": "023",
+            "value": "Grmpf ...!"
+        },
+        {
+            "key": "024",
+            "value": "In diesem Sinne möchte ich euch da ein Geschäft vorschlagen."
+        },
+        {
+            "key": "025",
+            "value": "Ein ... Geschäft?"
+        },
+        {
+            "key": "026",
+            "value": "Ich kaufe euch die beiden ab."
+        },
+        {
+            "key": "027",
+            "value": "Auf keinen Fall."
+        },
+        {
+            "key": "028",
+            "value": "Wirklich nicht? Tja, dann könnte es aber eventuell passieren, dass ich mich irgendwann verplappere ..."
+        },
+        {
+            "key": "029",
+            "value": "... W-Worauf spielst du an ...?"
+        },
+        {
+            "key": "030",
+            "value": "Zum Beispiel auf den Krieg, den Fennes insgeheim vorbereitet. Oder wozu braucht ihr sonst dieses ganze Erz?"
+        },
+        {
+            "key": "031",
+            "value": "..."
+        },
+        {
+            "key": "032",
+            "value": "Oh, und dann habe ich da noch etwas ganz Merkwürdiges gehört."
+        },
+        {
+            "key": "033",
+            "value": "Nämlich, dass ein gewöhnliches Mädchen von hier einen gewissen Prinzen heiraten soll."
+        },
+        {
+            "key": "034",
+            "value": "Hmm, ich frage mich, wieviel man im Ausland für diese Informationen wohl springen lassen<br>würde ...?"
+        },
+        {
+            "key": "035",
+            "value": "Wenn du das tust, wirst auch du nicht ungeschoren davonkommen."
+        },
+        {
+            "key": "036",
+            "value": "Natürlich, ich würde mir den Ärger auch lieber ersparen. Daher ja mein ... Angebot."
+        },
+        {
+            "key": "037",
+            "value": "Und wer garantiert mir, dass du dich nicht doch irgendwo „verplapperst“?"
+        },
+        {
+            "key": "038",
+            "value": "Oh, wir von der Waffenhändlergilde legen höchsten Wert auf Verschwiegenheit."
+        },
+        {
+            "key": "039",
+            "value": "Denn niemand macht Geschäfte mit einem geschwätzigen Waffenhändler."
+        },
+        {
+            "key": "040",
+            "value": "... Na schön."
+        },
+        {
+            "key": "041",
+            "value": "Warte."
+        },
+        {
+            "key": "042",
+            "value": "... Was ist los?"
+        },
+        {
+            "key": "043",
+            "value": "Ihr habt nicht das Recht, einfach so über unser Leben zu entscheiden."
+        },
+        {
+            "key": "044",
+            "value": "Bist du noch bei Trost? Wir waren kurz davor, uns zu einigen! "
+        },
+        {
+            "key": "045",
+            "value": "Denk mal gut darüber nach, in welcher Lage du dich hier befindest."
+        },
+        {
+            "key": "046",
+            "value": "Du hast die Wahl: Hier in der Mine schuften, bis du verreckst, oder für mich in der Waffenhändlergilde arbeiten."
+        },
+        {
+            "key": "047",
+            "value": "Es gibt nur das Eine oder das Andere. ... Kapiert?"
+        },
+        {
+            "key": "048",
+            "value": "Elender Heuchler, spiel dich doch nicht als edler Retter auf."
+        },
+        {
+            "key": "049",
+            "value": "Du hast es doch auch nur auf Velne abgesehen, oder?"
+        },
+        {
+            "key": "050",
+            "value": "Meinst du das Mädchen? Nun ... ganz Unrecht hast du nicht."
+        },
+        {
+            "key": "051",
+            "value": "Ihre Reize könnten ihre Waffe sein. Du glaubst ja gar nicht, wie nützlich das bei Verhandlungen ist."
+        },
+        {
+            "key": "052",
+            "value": "Ich wusste es. Du bist kein Stück besser als die da."
+        },
+        {
+            "key": "053",
+            "value": "Und dennoch gibt es keine anderen Wahlmöglichkeiten für dich."
+        },
+        {
+            "key": "054",
+            "value": "Doch. Es gibt noch eine dritte!"
+        },
+        {
+            "key": "055",
+            "value": "Ach, nun leck mich doch am ..."
+        },
+        {
+            "key": "056",
+            "value": "Bleibt stehen! Wir finden euch sowieso!"
+        },
+        {
+            "key": "057",
+            "value": "Hrach ... Ich sehe schon, das wird im Fiasko enden."
+        },
+        {
+            "key": "058",
+            "value": "Dabei hätten die beiden diese Mine so einfach hinter sich lassen können ..."
+        }
+    ]
+}

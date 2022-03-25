@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ay…, qué hambre tengo…"
+        },
+        {
+            "key": "002",
+            "value": "¡¿Ahora te vas a poner a pensar en comida?!"
+        },
+        {
+            "key": "003",
+            "value": "Estás tan asustando que ya estás deseando correr de vuelta hacia el castillo con el rabo entre las piernas, ¿no?"
+        },
+        {
+            "key": "004",
+            "value": "No te lo voy a negar: la verdad es que quiero regresar. En el castillo no hay enemigos y está repleto de comida."
+        },
+        {
+            "key": "005",
+            "value": "¿Es que tú no quieres volver, Learte?"
+        },
+        {
+            "key": "006",
+            "value": "No mezcles las cosas. ¡Yo lo que quiero es que me den una recompensa por mi valía en el campo de batalla!"
+        },
+        {
+            "key": "007",
+            "value": "¿Una recompensa? ¿No decías antes que solo te interesaba el honor?"
+        },
+        {
+            "key": "008",
+            "value": "¿De verdad he dicho eso?"
+        },
+        {
+            "key": "009",
+            "value": "También recuerdo que has mencionado que, en vez de Caelum, preferirías estar en Fortem con Stern."
+        },
+        {
+            "key": "010",
+            "value": "¡Ca-cállate! ¡Te va a oír alguien!"
+        },
+        {
+            "key": "011",
+            "value": "Es verdad, ¿no? Así podrías ver a Stern de cerca, al fin y al cabo…"
+        },
+        {
+            "key": "012",
+            "value": "¡N-no digas tonterías! Creo que por fin me he dado cuenta de que…"
+        },
+        {
+            "key": "013",
+            "value": "Ah, ¡conque ahora es lord Mont el foco de tu afecto en vez de lord Stern!"
+        },
+        {
+            "key": "014",
+            "value": "¡Cállate, bocazas!"
+        },
+        {
+            "key": "015",
+            "value": "Qué intenso eres…"
+        },
+        {
+            "key": "016",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "017",
+            "value": "¿Es que vas a pasarte toda la vida sirviendo?"
+        },
+        {
+            "key": "018",
+            "value": "¿Qué quieres decir con eso? ¿Que la vida del soldado no está hecha para ti?"
+        },
+        {
+            "key": "019",
+            "value": "La verdad es que estaba pensando en ahorrar algo de dinero para comprarme algún terreno tranquilo y jubilarme."
+        },
+        {
+            "key": "020",
+            "value": "¡Anda! ¡Nunca se me habría ocurrido!"
+        },
+        {
+            "key": "021",
+            "value": "¿Y tú qué? ¿No tienes ningún plan de futuro?"
+        },
+        {
+            "key": "022",
+            "value": "Mmm… Lo que tenga que ser, será, así pienso yo."
+        },
+        {
+            "key": "023",
+            "value": "Aj… Con toda la gente que hay en el mundo…, ¿cómo me dio a mí por enamorarme de este alcornoque?"
+        },
+        {
+            "key": "024",
+            "value": "¿Eh? ¿Qué es lo que has dicho?"
+        },
+        {
+            "key": "025",
+            "value": "¡Nada! ¡Levántate, se acerca el enemigo!"
+        }
+    ]
+}

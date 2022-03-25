@@ -1,0 +1,96 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Rendez-vous… Par pitié."
+        },
+        {
+            "key": "002",
+            "value": "C'est à nous que vous demandez pitié ?"
+        },
+        {
+            "key": "003",
+            "value": "Je vous promets que vous serez bien traités."
+        },
+        {
+            "key": "004",
+            "value": "Pourquoi nous épargneriez-vous ?"
+        },
+        {
+            "key": "005",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "006",
+            "value": "Votre supériorité est évidente. Vous pourriez simplement nous écraser."
+        },
+        {
+            "key": "007",
+            "value": "Cela servirait-il à arrêter la guerre, de nous entretuer ?"
+        },
+        {
+            "key": "008",
+            "value": "Il serait naïf de croire que la guerre n'implique pas son lot de cruauté, mais il va bien falloir finir par briser le cercle vicieux."
+        },
+        {
+            "key": "009",
+            "value": "Mont a dit quelque chose dans ce genre…"
+        },
+        {
+            "key": "010",
+            "value": "Mont ? Qui est-ce ?"
+        },
+        {
+            "key": "011",
+            "value": "Le prince de mon royaume natal."
+        },
+        {
+            "key": "012",
+            "value": "Oh. Leonis ? "
+        },
+        {
+            "key": "013",
+            "value": "Vous connaissez ?!"
+        },
+        {
+            "key": "014",
+            "value": "J'ai entendu parler d'un royaume dont le prince méprise la guerre."
+        },
+        {
+            "key": "015",
+            "value": "Vous voulez dire le lâche qui fait de son royaume une proie facile pour les autres ?"
+        },
+        {
+            "key": "016",
+            "value": "Hm. Ce n'est pas comme cela que je le vois."
+        },
+        {
+            "key": "017",
+            "value": "Hein ?"
+        },
+        {
+            "key": "018",
+            "value": "J'aimerais avoir la chance de le rencontrer."
+        },
+        {
+            "key": "019",
+            "value": "…"
+        },
+        {
+            "key": "020",
+            "value": "Je m'appelle Baral. Je suis le commandant de la seconde division de Rundall, « Crucium »."
+        },
+        {
+            "key": "021",
+            "value": "Persuadez vos camarades de la Résistance de se rendre. S'il vous plaît."
+        },
+        {
+            "key": "022",
+            "value": "Moi, c'est Lilyth."
+        },
+        {
+            "key": "023",
+            "value": "Et… Je vais essayer."
+        }
+    ]
+}

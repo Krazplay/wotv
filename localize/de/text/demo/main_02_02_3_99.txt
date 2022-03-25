@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "648",
+            "value": "Warte, Engelbert."
+        },
+        {
+            "key": "649",
+            "value": "Was willst du von mir?"
+        },
+        {
+            "key": "650",
+            "value": "Wir sind zwischen der Armee von Wezette und den Kanonen auf dem Schiff hinter uns regelrecht zerpflückt worden."
+        },
+        {
+            "key": "651",
+            "value": "Ich wollte mit „Solidus“ eine Bresche durch die feindlichen Reihen schlagen, um außer Schussweite zu gelangen, aber du ..."
+        },
+        {
+            "key": "652",
+            "value": "Ja. Ich habe den Befehl zum Rückzug gegeben."
+        },
+        {
+            "key": "653",
+            "value": "Und nur darum waren unsere Verluste so gering."
+        },
+        {
+            "key": "654",
+            "value": "Rückblickend war es eine weise Entscheidung, und ich stehe zu ihr."
+        },
+        {
+            "key": "655",
+            "value": "Glaubst du das wirklich?"
+        },
+        {
+            "key": "656",
+            "value": "Worauf willst du hinaus?"
+        },
+        {
+            "key": "657",
+            "value": "Während wir hier herumstehen, bereitet sich Wezette in aller Ruhe auf die Schlacht vor."
+        },
+        {
+            "key": "658",
+            "value": "Verstehst du das nicht? Je länger wir zögern, desto düsterer werden unsere Aussichten auf einen Sieg!"
+        },
+        {
+            "key": "659",
+            "value": "Liebchen, reg dich doch nicht so auf."
+        },
+        {
+            "key": "660",
+            "value": "Genau, General. Einfach mal tief durchatmen<br>und ..."
+        },
+        {
+            "key": "661",
+            "value": "Ihr beiden schweigt gefälligst!"
+        },
+        {
+            "key": "662",
+            "value": "Ganz sicherlich nicht!"
+        },
+        {
+            "key": "663",
+            "value": "Genau das ist die Sturheit, wegen der auch König Robb ..."
+        },
+        {
+            "key": "664",
+            "value": "..."
+        },
+        {
+            "key": "665",
+            "value": "T-Tut mir leid, das hätte ich nicht sagen sollen ..."
+        },
+        {
+            "key": "666",
+            "value": "Nein, du hast völlig recht, Frederika. Du musst dich nicht entschuldigen."
+        },
+        {
+            "key": "667",
+            "value": "Komm schon, General. Beruhig dich mal wieder."
+        },
+        {
+            "key": "668",
+            "value": "Unser oberstes Ziel ist es doch, Schuzelt zu retten, oder nicht?"
+        },
+        {
+            "key": "669",
+            "value": "Also sollten wir darüber nachdenken, wie wir dieses Ziel am effizientesten und sichersten erreichen."
+        },
+        {
+            "key": "670",
+            "value": "... Oder habe ich vielleicht Unrecht?"
+        },
+        {
+            "key": "671",
+            "value": "Nein ... Du hast natürlich recht. Es ist genau so, wie du sagst."
+        },
+        {
+            "key": "672",
+            "value": "Verzeiht."
+        },
+        {
+            "key": "673",
+            "value": "Wir verstehen alle nur zu gut, wie du dich fühlst. So sehr, dass es wehtut."
+        },
+        {
+            "key": "674",
+            "value": "Hihi, wer hätt’s gedacht? Du bist ja richtig süß, wenn du dich entschuldigst."
+        },
+        {
+            "key": "675",
+            "value": "..."
+        },
+        {
+            "key": "676",
+            "value": "Aber du hast auf jeden Fall recht damit, dass uns die Zeit davonläuft."
+        },
+        {
+            "key": "677",
+            "value": "Adelard, hast du einen Plan?"
+        },
+        {
+            "key": "678",
+            "value": "Wenn es nur möglich wäre, unseren Kräfteunterschied etwas auszugleichen ..."
+        },
+        {
+            "key": "679",
+            "value": "Die Verstärkung wird kommen."
+        },
+        {
+            "key": "680",
+            "value": "Der vereinbarte Zeitpunkt ist schon längst vorüber."
+        },
+        {
+            "key": "681",
+            "value": "Liebchen!"
+        },
+        {
+            "key": "682",
+            "value": "Ich würde ja selbst nur zu gern daran glauben, aber ..."
+        },
+        {
+            "key": "683",
+            "value": "Können wir wirklich noch auf Verstärkung hoffen?"
+        },
+        {
+            "key": "684",
+            "value": "Habt ihr so wenig Vertrauen in eure eigene Königin?"
+        },
+        {
+            "key": "685",
+            "value": "Vielleicht haben wir uns doch übernommen ..."
+        },
+        {
+            "key": "686",
+            "value": "Wir hätten unsere Armee vor der Landung in Wezette nicht aufteilen sollen."
+        },
+        {
+            "key": "687",
+            "value": "Warte."
+        },
+        {
+            "key": "688",
+            "value": "Hörst du das nicht?"
+        },
+        {
+            "key": "689",
+            "value": "Ich erkenne dieses Geräusch sofort. Das sind König Monts Stiefel."
+        },
+        {
+            "key": "690",
+            "value": "... Was?!"
+        },
+        {
+            "key": "691",
+            "value": "...!"
+        },
+        {
+            "key": "692",
+            "value": "Sie sind zurückgekehrt!"
+        },
+        {
+            "key": "693",
+            "value": "Majestät ..."
+        },
+        {
+            "key": "694",
+            "value": "Und das da ... Ist das Glaziela?"
+        },
+        {
+            "key": "695",
+            "value": "Hmpf. Man bequemt sich also doch noch zu kommen. Aber damit ..."
+        },
+        {
+            "key": "696",
+            "value": "... Ist der Kräfteunterschied ..."
+        },
+        {
+            "key": "697",
+            "value": "... Ja. Vollständig ausgeglichen."
+        }
+    ]
+}

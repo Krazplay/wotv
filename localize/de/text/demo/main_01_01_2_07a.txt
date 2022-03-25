@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Wie verläuft die Schlacht?"
+        },
+        {
+            "key": "002",
+            "value": "Ihre Truppenstärke ist gering, aber die leonischen Truppen schlagen sich sehr wacker."
+        },
+        {
+            "key": "003",
+            "value": "Sie nutzen das Terrain geschickt. Man sieht, dass sie einem gewieften Kommandanten unterstehen."
+        },
+        {
+            "key": "004",
+            "value": "Sollte Prinz Mont sich auch weiterhin so entwickeln wie bisher ..."
+        },
+        {
+            "key": "005",
+            "value": "Ja ... Er könnte fraglos zu einer Bedrohung werden."
+        },
+        {
+            "key": "006",
+            "value": "Gebt mir den Befehl. Ich stürze mich ins Getümmel und hole mir seinen Kopf."
+        },
+        {
+            "key": "007",
+            "value": "Du wirst nichts dergleichen tun."
+        },
+        {
+            "key": "008",
+            "value": "Euer Hoheit, das kann doch nicht Euer Ernst sein!"
+        },
+        {
+            "key": "009",
+            "value": "D-Das ist ein Fehler!"
+        },
+        {
+            "key": "010",
+            "value": "Warum, weil er unser Feind ist?"
+        },
+        {
+            "key": "011",
+            "value": "Beantworte mir dies ... Glaubst du wirklich, dass zwischen uns und Fennes eine Allianz besteht?"
+        },
+        {
+            "key": "012",
+            "value": "Ähm ... J-Ja, natürlich. Ich ... glaube selbstverständlich, dass ein Bündnis besteht."
+        },
+        {
+            "key": "013",
+            "value": "König Muragas Tochter hat in das Haus Hourne eingeheiratet, und Ihr werdet schon bald Haus Fennes angehören ..."
+        },
+        {
+            "key": "014",
+            "value": "Mir gehen König Yrdes Worte einfach nicht aus dem Kopf."
+        },
+        {
+            "key": "015",
+            "value": "Er behauptet, dass König Muraga keine Tochter hat ... Doch er muss sich irren."
+        },
+        {
+            "key": "016",
+            "value": "Euer Hoheit beobachtet Prinz Mont, ist dem nicht so?"
+        },
+        {
+            "key": "017",
+            "value": "Mit Argusaugen. Ich habe einen Blick für den Charakter von Menschen."
+        },
+        {
+            "key": "018",
+            "value": "Hätte doch Vater nur auch diese Gabe ... Aber leider ..."
+        },
+        {
+            "key": "019",
+            "value": "Ihr habt mein Mitgefühl, Euer Hoheit. Wenn es die Bedrohung aus dem Westen nicht gäbe ..."
+        }
+    ]
+}

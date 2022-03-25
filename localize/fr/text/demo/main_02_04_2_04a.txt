@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "352",
+            "value": "C'est tout ce dont tu es capable ?"
+        },
+        {
+            "key": "353",
+            "value": "Ta cible est Mont."
+        },
+        {
+            "key": "354",
+            "value": "Ramène-nous l'anneau."
+        },
+        {
+            "key": "355",
+            "value": "Ça sent le roussi… Il faut qu'on change de plan !"
+        },
+        {
+            "key": "356",
+            "value": "Argh !"
+        },
+        {
+            "key": "357",
+            "value": "À-à l'aide !"
+        },
+        {
+            "key": "358",
+            "value": "Groaaaah !"
+        },
+        {
+            "key": "359",
+            "value": "Engelbert !"
+        },
+        {
+            "key": "360",
+            "value": "Sale monstre !"
+        },
+        {
+            "key": "361",
+            "value": "Ha !"
+        },
+        {
+            "key": "362",
+            "value": "Dame Melenia !"
+        },
+        {
+            "key": "363",
+            "value": "Ne crains rien."
+        },
+        {
+            "key": "364",
+            "value": "Graaah…"
+        },
+        {
+            "key": "365",
+            "value": "Sa balle a transpercé l'épaisseur d'une armure aussi solide ?!"
+        },
+        {
+            "key": "366",
+            "value": "Son adresse est terrifiante."
+        },
+        {
+            "key": "367",
+            "value": "… !"
+        },
+        {
+            "key": "368",
+            "value": "Engelbert ! Reste avec nous !"
+        },
+        {
+            "key": "369",
+            "value": "Ça sent mauvais… !"
+        },
+        {
+            "key": "370",
+            "value": "Golem de glace ! Écrase ces maudits insectes !"
+        }
+    ]
+}

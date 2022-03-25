@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Quelque chose ne va pas, Schuzelt ?"
+        },
+        {
+            "key": "002",
+            "value": "Ne vous inquiétez pas. Je vais m'occuper de ces bandits."
+        },
+        {
+            "key": "003",
+            "value": "Notre château me manque tellement."
+        },
+        {
+            "key": "004",
+            "value": "Princesse..."
+        },
+        {
+            "key": "005",
+            "value": "Je sais, je sais, c'est pour le bien du royaume."
+        },
+        {
+            "key": "006",
+            "value": "Je compatis, ma dame."
+        },
+        {
+            "key": "007",
+            "value": "Si seulement j'étais un homme, je pourrais alors foncer dans la bataille à tes côtés."
+        },
+        {
+            "key": "008",
+            "value": "..."
+        },
+        {
+            "key": "009",
+            "value": "Assez parlé."
+        },
+        {
+            "key": "010",
+            "value": "Je n'ai qu'une seule question."
+        },
+        {
+            "key": "011",
+            "value": "Comment osez-vous barrer la route au carosse de dame Machalie ?"
+        },
+        {
+            "key": "012",
+            "value": "Je n'ai pas de comptes à te rendre."
+        },
+        {
+            "key": "013",
+            "value": "Je vois... Il n'y a qu'une seule explication."
+        },
+        {
+            "key": "014",
+            "value": "Vous êtes de Leonis, n'est-ce pas ?"
+        },
+        {
+            "key": "015",
+            "value": "Heu... Oui... Oui bien sûr ! Blâmez les Leoniens !"
+        }
+    ]
+}

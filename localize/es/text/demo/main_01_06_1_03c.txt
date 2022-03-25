@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Cu-cuánta nieve…"
+        },
+        {
+            "key": "002",
+            "value": "Conque esto es Wezette…"
+        },
+        {
+            "key": "003",
+            "value": "Ver este paisaje de blanco puro me trae recuerdos de mi última visita."
+        },
+        {
+            "key": "004",
+            "value": "Espero que Graciela se encuentre bien…"
+        },
+        {
+            "key": "005",
+            "value": "Sí, milord, está bien."
+        },
+        {
+            "key": "006",
+            "value": "Auch."
+        },
+        {
+            "key": "007",
+            "value": "¿Te encuentras bien?"
+        },
+        {
+            "key": "008",
+            "value": "…"
+        },
+        {
+            "key": "009",
+            "value": "¿Estás llorando?… ¿Es por las heridas?"
+        },
+        {
+            "key": "010",
+            "value": "N-no, no es eso. He recordado una cosa y me ha dado rabia… "
+        },
+        {
+            "key": "011",
+            "value": "…"
+        },
+        {
+            "key": "012",
+            "value": "¿Rabia porque Muraga consiguió escapar?"
+        },
+        {
+            "key": "013",
+            "value": "Nunca me he sentido tan avergonzado de mí mismo."
+        },
+        {
+            "key": "014",
+            "value": "No te preocupes. Ya habrá otra oportunidad."
+        },
+        {
+            "key": "015",
+            "value": "Mont tiene razón, y por eso debes recuperarte. Tienes que estar preparado para el próximo encuentro."
+        },
+        {
+            "key": "016",
+            "value": "…"
+        }
+    ]
+}

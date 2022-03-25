@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous êtes des survivants de Leonis, c'est ça ?"
+        },
+        {
+            "key": "002",
+            "value": "Haut les mains ! On sait tout !"
+        },
+        {
+            "key": "003",
+            "value": "Vous transportez quelque chose de trèèèès important dans ce carrosse, n'est-ce pas ?"
+        },
+        {
+            "key": "004",
+            "value": "..."
+        },
+        {
+            "key": "005",
+            "value": "Je ne sais pas ce qui vous fait croire ça, mais la curiosité est un vilain défaut..."
+        },
+        {
+            "key": "006",
+            "value": "Oh... Il faut absolument que je sache ce que c'est, maintenant."
+        },
+        {
+            "key": "007",
+            "value": "Ouaip ! C'est décidé ! Ce carrosse est à nous !"
+        }
+    ]
+}

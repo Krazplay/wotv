@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Tu as entendu les mots du soldat de Leonis, n'est-ce pas ?"
+        },
+        {
+            "key": "002",
+            "value": "Pour sûr, c'était clair comme de l'eau de roche."
+        },
+        {
+            "key": "003",
+            "value": "Voyons voir ce qu'ils contiennent…"
+        },
+        {
+            "key": "004",
+            "value": "Alors ça, pour une surprise... !"
+        },
+        {
+            "key": "005",
+            "value": "J'en reviens pas, ce sont des reliques séculaires !"
+        },
+        {
+            "key": "006",
+            "value": "Ça devrait compenser le fait qu'Helena soit morte."
+        },
+        {
+            "key": "007",
+            "value": "Attends une minute… Donner les reliques séculaires à Muraga... c'est comme offrir de la confiture à un Morbol."
+        },
+        {
+            "key": "008",
+            "value": "Dans ce cas, on fait quoi ?"
+        },
+        {
+            "key": "009",
+            "value": "Tu penses sûrement comme moi, non ?!"
+        },
+        {
+            "key": "010",
+            "value": "Tu insinues… que nous devrions les remettre à Sadali ?"
+        },
+        {
+            "key": "011",
+            "value": "Nous monterons forcément dans son estime !"
+        },
+        {
+            "key": "012",
+            "value": "Ne faites pas les idiots !"
+        },
+        {
+            "key": "013",
+            "value": "C'est à Muraga qu'il faut remettre ces reliques séculaires."
+        },
+        {
+            "key": "014",
+            "value": "Éloignez-vous des coffres !"
+        },
+        {
+            "key": "015",
+            "value": "Dans tes rêves."
+        },
+        {
+            "key": "016",
+            "value": "Si vous n'êtes pas d'accord, approchez donc un peu pour voir !"
+        }
+    ]
+}

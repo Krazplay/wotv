@@ -1,0 +1,2916 @@
+﻿{
+    "infos": [
+        {
+            "key": "Normal_gacha_A",
+            "value": "普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_10",
+            "value": "普通召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_GL20200408",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200408",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200408",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_GL20200422",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200422",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200422",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_GL20200520",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200520",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200520",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_p_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201111_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201111_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201111_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201118_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201118_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201118_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201125_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201125_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201125_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201202_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201202_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201202_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201230_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201230_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20201230_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210106_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210106_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210106_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210113_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210113_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210113_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210120_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210120_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210120_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210127_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210127_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210127_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210203_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210203_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210203_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210210_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210210_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210210_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210217_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210217_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210217_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210303_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210303_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210303_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210310_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210310_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210310_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210317_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210317_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210317_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210331_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210331_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210331_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210407_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210407_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210407_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210421_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210421_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210421_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210428_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210428_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210428_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210519_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210519_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210519_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210526_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210526_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210526_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210602_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210602_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210602_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210609_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210609_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210609_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210616_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210616_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210616_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210623_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210623_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210623_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210630_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210630_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210630_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210707_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210707_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210707_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210714_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210714_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210714_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210721_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210721_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210721_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210728_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210728_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210728_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210811_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210811_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210811_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210818_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210818_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210818_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210825_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210825_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210825_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210901_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210901_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210901_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210908_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210908_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210908_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210915_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210915_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210915_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210922_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210922_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210922_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210929_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210929_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20210929_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211006_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211006_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211006_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211013_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211013_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211013_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211020_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211020_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211020_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211027_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211027_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211027_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211103_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211103_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211103_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211117_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211117_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211117_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211124_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211124_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211124_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211201_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211201_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20211201_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220112_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220112_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220112_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220126_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220126_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220126_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220209_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220209_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220209_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220302_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220302_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220302_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130",
+            "value": "上市紀念 期間限定 普通召喚"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130_10",
+            "value": "上市紀念 期間限定 普通召喚　10連召喚"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401",
+            "value": "100萬下載紀念 期間限定普通召喚"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401_10",
+            "value": "100萬下載紀念 期間限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408",
+            "value": "200萬下載紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408_10",
+            "value": "200萬下載紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422",
+            "value": "300萬下載紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422_10",
+            "value": "300萬下載紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_01",
+            "value": "400萬下載紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_10",
+            "value": "400萬下載紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_01",
+            "value": "第6章公開紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_10",
+            "value": "第6章公開紀念 限定普通召喚　10召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_01",
+            "value": "500萬下載紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_10",
+            "value": "500萬下載紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_01",
+            "value": "版本更新紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_10",
+            "value": "版本更新紀念 限定普通召喚 10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_01",
+            "value": "共鬥紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_10",
+            "value": "共鬥紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_01",
+            "value": "初夏紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_10",
+            "value": "初夏紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "劇情第7章公開紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "劇情第7章公開紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "FF EXVIUS Universe 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "FF EXVIUS Universe 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "FF EXVIUS Universe 第2階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "FF EXVIUS Universe 第2階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200902_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200902_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200909_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200909_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20200909_10",
+            "value": "確保MR以上兵員召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200916_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200916_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20200916_10",
+            "value": "確保MR以上兵員召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200923_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200923_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200930_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200930_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201007_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201007_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201014_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201014_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201021_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201021_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20201021_10",
+            "value": "確保MR以上兵員召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201021_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201028_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201028_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201104_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201104_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20201104_10",
+            "value": "確保MR以上兵員召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201111_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201111_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20201111_10",
+            "value": "確保MR以上幻兵卡召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201118_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201118_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201125_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201125_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20201125_10",
+            "value": "確保MR以上兵員召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201209_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201209_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201209_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20201209_10",
+            "value": "確保MR以上兵員召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201216_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201216_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201216_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201223_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201223_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201223_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201230_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201230_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201230_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210106_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210106_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210113_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210113_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210120_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210120_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20210120_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20210120_10",
+            "value": "確保MR以上兵員召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210127_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210127_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20210127_10",
+            "value": "確保MR以上幻兵卡召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210127_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210203_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210203_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210203_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20210203_10",
+            "value": "確保MR以上兵員召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20210203_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210210_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210210_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210217_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210217_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210217_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210224_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210224_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210224_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210303_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210303_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20210303_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20210303_10",
+            "value": "確保MR以上兵員召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210303_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210310_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210310_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210310_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210317_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210317_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210317_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210324_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210324_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20210407_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210407_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210407_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210414_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210414_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210421_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210421_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210421_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210428_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210428_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210428_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210505_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210505_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20210505_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210505_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210512_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210512_10",
+            "value": "限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210512_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210519_01",
+            "value": "版本更新紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210519_10",
+            "value": "版本更新紀念 限定普通召喚 10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210519_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20210519_10",
+            "value": "800萬下載紀念 第3階段 確保MR以上兵員召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210526_01",
+            "value": "白磁之塔舉辦紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210526_10",
+            "value": "白磁之塔舉辦紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20210526_10",
+            "value": "800萬下載紀念 第4階段 確保MR以上幻兵卡召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210602_01",
+            "value": "玫瑰慶典紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210602_10",
+            "value": "玫瑰慶典紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20210602_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210609_01",
+            "value": "2021巧克力慶典 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210609_10",
+            "value": "2021巧克力慶典 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210616_01",
+            "value": "版本更新紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210616_10",
+            "value": "版本更新紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20210616_10",
+            "value": "版本更新紀念 確保MR以上兵員召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210623_01",
+            "value": "幕間曲後篇第1節公開紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210623_10",
+            "value": "幕間曲後篇第1節公開紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Campaign_gacha_gl20210623_10",
+            "value": "幕間曲後篇第1節公開紀念 確保MR以上幻兵卡召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210630_01",
+            "value": "國際慶典 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210630_10",
+            "value": "國際慶典 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20210630_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20210707_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210707_01",
+            "value": "劇情活動舉辦紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210707_10",
+            "value": "劇情活動舉辦紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210714_01",
+            "value": "版本更新紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210714_10",
+            "value": "版本更新紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210721_01",
+            "value": "2021夏日第1階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210721_10",
+            "value": "2021夏日第1階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210728_01",
+            "value": " 900萬下載紀念 第1階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210728_10",
+            "value": " 900萬下載紀念 第1階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20210804_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210804_01",
+            "value": "2021夏日第2階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210804_10",
+            "value": "2021夏日第2階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_QILF_01_gl20210804_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_QILF_01_gl20210804_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20210804_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20210804_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210811_01",
+            "value": "2021農曆七夕紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210811_10",
+            "value": "2021農曆七夕紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20210811_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20210811_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20210811_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210818_01",
+            "value": "2021夏日第3階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210818_10",
+            "value": "2021夏日第3階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_ELSR_01_gl20210818_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_ELSR_01_gl20210818_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_ELSR_01_gl20210818_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20210818_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20210818_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20210818_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_CLOUD_gl20210825_01",
+            "value": "FFVIIR聯動紀念召喚～克勞德～"
+        },
+        {
+            "key": "new-gacha_CLOUD_gl20210825_10",
+            "value": "FFVIIR聯動紀念召喚～克勞德～　10連召喚"
+        },
+        {
+            "key": "new-gacha_CLOUD_gl20210825_P",
+            "value": "FFVIIR聯動紀念召喚～克勞德～"
+        },
+        {
+            "key": "new-gacha_TIFA_gl20210825_01",
+            "value": "FFVIIR聯動紀念召喚～蒂法～"
+        },
+        {
+            "key": "new-gacha_TIFA_gl20210825_10",
+            "value": "FFVIIR聯動紀念召喚～蒂法～　10連召喚"
+        },
+        {
+            "key": "new-gacha_TIFA_gl20210825_P",
+            "value": "FFVIIR聯動紀念召喚～蒂法～"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210825_01",
+            "value": "1.5週年倒數計時第1階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210825_10",
+            "value": "1.5週年倒數計時第1階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210901_01",
+            "value": "1.5週年倒數計時第2階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210901_10",
+            "value": "1.5週年倒數計時第2階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_AERT_gl20210901_01",
+            "value": "FFVIIR聯動紀念召喚～艾莉絲～"
+        },
+        {
+            "key": "new-gacha_AERT_gl20210901_10",
+            "value": "FFVIIR聯動紀念召喚～艾莉絲～　10連召喚"
+        },
+        {
+            "key": "new-gacha_AERT_gl20210901_P",
+            "value": "FFVIIR聯動紀念召喚～艾莉絲～"
+        },
+        {
+            "key": "new-gacha_BART_gl20210901_01",
+            "value": "FFVIIR聯動紀念召喚～巴雷特～"
+        },
+        {
+            "key": "new-gacha_BART_gl20210901_10",
+            "value": "FFVIIR聯動紀念召喚～巴雷特～　10連召喚"
+        },
+        {
+            "key": "new-gacha_BART_gl20210901_P",
+            "value": "FFVIIR聯動紀念召喚～巴雷特～"
+        },
+        {
+            "key": "beginner_gacha_gl20210901_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210908_01",
+            "value": "1.5週年倒數計時第3階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210908_10",
+            "value": "1.5週年倒數計時第3階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20210908_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20210908_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20210908_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210915_01",
+            "value": "1.5週年倒數計時第4階段 限定普通召喚 "
+        },
+        {
+            "key": "Normal_gacha_A_gl20210915_10",
+            "value": "1.5週年倒數計時第4階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20210915_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20210915_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20210915_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_LSWL_gl20210915_01",
+            "value": "兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_LSWL_gl20210915_10",
+            "value": "兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_LSWL_gl20210915_P",
+            "value": "兵員精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210922_01",
+            "value": "1.5週年 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210922_10",
+            "value": "1.5週年 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_TOMBR_gl20210922_01",
+            "value": "古墓奇兵聯動紀念召喚"
+        },
+        {
+            "key": "new-gacha_TOMBR_gl20210922_10",
+            "value": "古墓奇兵聯動紀念召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_TOMBR_gl20210922_P",
+            "value": "古墓奇兵聯動紀念召喚"
+        },
+        {
+            "key": "new-gacha_WINTER1_gl20210922_01",
+            "value": "時節限定復刻 冬日精選召喚I"
+        },
+        {
+            "key": "new-gacha_WINTER1_gl20210922_10",
+            "value": "時節限定復刻 冬日精選召喚I　10連召喚"
+        },
+        {
+            "key": "new-gacha_WINTER1_gl20210922_P",
+            "value": "時節限定復刻 冬日精選召喚I"
+        },
+        {
+            "key": "new-gacha_WINTER2_gl20210922_01",
+            "value": "時節限定復刻 冬日精選召喚II"
+        },
+        {
+            "key": "new-gacha_WINTER2_gl20210922_10",
+            "value": "時節限定復刻 冬日精選召喚II　10連召喚"
+        },
+        {
+            "key": "new-gacha_WINTER2_gl20210922_P",
+            "value": "時節限定復刻 冬日精選召喚II"
+        },
+        {
+            "key": "new-gacha_WINTER3_gl20210922_01",
+            "value": "時節限定復刻 冬日精選召喚III"
+        },
+        {
+            "key": "new-gacha_WINTER3_gl20210922_10",
+            "value": "時節限定復刻 冬日精選召喚III　10連召喚"
+        },
+        {
+            "key": "new-gacha_WINTER3_gl20210922_P",
+            "value": "時節限定復刻 冬日精選召喚III"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210929_01",
+            "value": "1.5週年 第2階段 普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20210929_10",
+            "value": "1.5週年 第2階段 普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_unit_gl20210929_01",
+            "value": "國際慶典 新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_unit_gl20210929_10",
+            "value": "國際慶典 新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_unit_gl20210929_P",
+            "value": "國際慶典 新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20210929_01",
+            "value": "國際慶典 新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20210929_10",
+            "value": "國際慶典 新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20210929_P",
+            "value": "國際慶典 新幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211006_01",
+            "value": "1.5週年第3階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211006_10",
+            "value": "1.5週年第3階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211006_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20211006_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211006_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20211006_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211013_01",
+            "value": "1.5週年第4階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211013_10",
+            "value": "1.5週年第4階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_JEDN_gl20211013_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_JEDN_gl20211013_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_JEDN_gl20211013_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20211013_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20211013_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211013_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211020_01",
+            "value": "版本更新紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211020_10",
+            "value": "版本更新紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211020_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20211020_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211020_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211027_01",
+            "value": "2021萬聖節慶典 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211027_10",
+            "value": "2021萬聖節慶典 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_HALLOW2_gl20211027_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_HALLOW2_gl20211027_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_HALLOW2_gl20211027_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_HALL2_gl20211027_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_HALL2_gl20211027_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_HALL2_gl20211027_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211103_01",
+            "value": "日本版即將迎接2週年紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211103_10",
+            "value": "日本版即將迎接2週年紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211103_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20211103_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211103_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20211103_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211110_01",
+            "value": "日本版2週年紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211110_10",
+            "value": "日本版2週年紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211110_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20211110_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211110_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211117_01",
+            "value": "版本更新紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211117_10",
+            "value": "版本更新紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211117_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20211117_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211117_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211124_01",
+            "value": "黑色星期五紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211124_10",
+            "value": "黑色星期五紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_NCTS_gl20211124_01",
+            "value": "FFXV聯動紀念召喚～諾克提斯～"
+        },
+        {
+            "key": "new-gacha_NCTS_gl20211124_10",
+            "value": "FFXV聯動紀念召喚～諾克提斯～　10連召喚"
+        },
+        {
+            "key": "new-gacha_NCTS_gl20211124_P",
+            "value": "FFXV聯動紀念召喚～諾克提斯～"
+        },
+        {
+            "key": "new-gacha_PRMP_gl20211124_01",
+            "value": "FFXV聯動紀念召喚～普羅恩普特～"
+        },
+        {
+            "key": "new-gacha_PRMP_gl20211124_10",
+            "value": "FFXV聯動紀念召喚～普羅恩普特～　10連召喚"
+        },
+        {
+            "key": "new-gacha_PRMP_gl20211124_P",
+            "value": "FFXV聯動紀念召喚～普羅恩普特～"
+        },
+        {
+            "key": "new-gacha_OATH_gl20211124_01",
+            "value": "FFXV聯動紀念召喚～救星之誓～"
+        },
+        {
+            "key": "new-gacha_OATH_gl20211124_10",
+            "value": "FFXV聯動紀念召喚～救星之誓～　10連召喚"
+        },
+        {
+            "key": "new-gacha_OATH_gl20211124_P",
+            "value": "FFXV聯動紀念召喚～救星之誓～"
+        },
+        {
+            "key": "beginner_gacha_gl20211201_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211201_01",
+            "value": "2021初冬活動 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211201_10",
+            "value": "2021初冬活動 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211201_01",
+            "value": "FFXV聯動紀念召喚～艾拉妮亞～"
+        },
+        {
+            "key": "new-gacha_gl20211201_10",
+            "value": "FFXV聯動紀念召喚～艾拉妮亞～　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211201_P",
+            "value": "FFXV聯動紀念召喚～艾拉妮亞～"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211208_01",
+            "value": "2021初冬活動第2階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211208_10",
+            "value": "2021初冬活動第2階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211208_01",
+            "value": "FFXV聯動紀念召喚～重魔導機甲「步兵中隊」～"
+        },
+        {
+            "key": "new-gacha_gl20211208_10",
+            "value": "FFXV聯動紀念召喚～重魔導機甲「步兵中隊」～　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20211208_P",
+            "value": "FFXV聯動紀念召喚～重魔導機甲「步兵中隊」～"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211215_01",
+            "value": "2021冬日慶典 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211215_10",
+            "value": "2021冬日慶典 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_unit_gl20211215_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_unit_gl20211215_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_unit_gl20211215_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20211215_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20211215_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20211215_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211222_01",
+            "value": "國際慶典 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211222_10",
+            "value": "國際慶典 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_unit_gl20211222_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_unit_gl20211222_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_unit_gl20211222_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20211222_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20211222_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20211222_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211229_01",
+            "value": "2022 NEW YEAR祝賀 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20211229_10",
+            "value": "2022 NEW YEAR祝賀 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20211229_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20211229_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20211229_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220105_01",
+            "value": "幻影水晶慶典 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220105_10",
+            "value": "幻影水晶慶典 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20220105_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20220105_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20220105_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220112_01",
+            "value": "2022冬日活動 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220112_10",
+            "value": "2022冬日活動 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220112_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220112_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220112_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220119_01",
+            "value": "2022冬日活動第2階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220119_10",
+            "value": "2022冬日活動第2階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20220119_01",
+            "value": "新兵員精選召喚～高貝扎～"
+        },
+        {
+            "key": "new-gacha_gl20220119_10",
+            "value": "新兵員精選召喚～高貝扎～　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20220119_P",
+            "value": "新兵員精選召喚～高貝扎～"
+        },
+        {
+            "key": "gacha_CECL_gl20220119_01",
+            "value": "復刻兵員精選召喚～塞西爾～"
+        },
+        {
+            "key": "gacha_CECL_gl20220119_10",
+            "value": "復刻兵員精選召喚～塞西爾～　10連召喚"
+        },
+        {
+            "key": "gacha_CECL_gl20220119_P",
+            "value": "復刻兵員精選召喚～塞西爾～"
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_01",
+            "value": "復刻兵員精選召喚～凱因～"
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_10",
+            "value": "復刻兵員精選召喚～凱因～　10連召喚"
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_P",
+            "value": "復刻兵員精選召喚～凱因～"
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_01",
+            "value": "復刻兵員精選召喚～羅莎～"
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_10",
+            "value": "復刻兵員精選召喚～羅莎～　10連召喚"
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_P",
+            "value": "復刻兵員精選召喚～羅莎～"
+        },
+        {
+            "key": "gacha_reissue_gl20220119_01",
+            "value": "復刻幻兵卡精選召喚～惡魔墻～"
+        },
+        {
+            "key": "gacha_reissue_gl20220119_10",
+            "value": "復刻幻兵卡精選召喚～惡魔墻～　10連召喚"
+        },
+        {
+            "key": "gacha_reissue_gl20220119_P",
+            "value": "復刻幻兵卡精選召喚～惡魔墻～"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220126_01",
+            "value": "1000萬下載紀念第2階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220126_10",
+            "value": "1000萬下載紀念第2階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220126_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220126_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220126_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_a_01",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_a_10",
+            "value": "COST 100 UR兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_a_P",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_b_01",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_b_10",
+            "value": "COST 100 UR兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_b_P",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_c_01",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_c_10",
+            "value": "COST 100 UR兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_c_P",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_d_01",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_d_10",
+            "value": "COST 100 UR兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_d_P",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_e_01",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_e_10",
+            "value": "COST 100 UR兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_e_P",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_f_01",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_f_10",
+            "value": "COST 100 UR兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_f_P",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_g_01",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_g_10",
+            "value": "COST 100 UR兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_g_P",
+            "value": "COST 100 UR兵員精選召喚"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20220126_10",
+            "value": "武具強化素材 普通免費10連召喚"
+        },
+        {
+            "key": "beginner_gacha_gl20220202_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220202_01",
+            "value": "2022農曆新年慶典 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220202_10",
+            "value": "2022農曆新年慶典 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20220202_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20220202_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20220202_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220202_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220202_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220202_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220209_01",
+            "value": "幻影水晶慶典 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220209_10",
+            "value": "幻影水晶慶典 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20220209_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20220209_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20220209_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220216_01",
+            "value": "版本更新紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220216_10",
+            "value": "版本更新紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220216_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220216_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220216_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_a_01",
+            "value": "屬性精選召喚I"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_a_10",
+            "value": "屬性精選召喚I　10連召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_a_P",
+            "value": "屬性精選召喚I"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_b_01",
+            "value": "屬性精選召喚II"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_b_10",
+            "value": "屬性精選召喚II　10連召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_b_P",
+            "value": "屬性精選召喚II"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_c_01",
+            "value": "屬性精選召喚III"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_c_10",
+            "value": "屬性精選召喚III　10連召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_c_P",
+            "value": "屬性精選召喚III"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_d_01",
+            "value": "屬性精選召喚IV"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_d_10",
+            "value": "屬性精選召喚IV　10連召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_d_P",
+            "value": "屬性精選召喚IV"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220223_01",
+            "value": "2週年倒數計時第1階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220223_10",
+            "value": "2週年倒數計時第1階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "gacha_KTON_01_gl20220223_01",
+            "value": "兵員精選召喚I"
+        },
+        {
+            "key": "gacha_KTON_01_gl20220223_10",
+            "value": "兵員精選召喚I　10連召喚"
+        },
+        {
+            "key": "gacha_KTON_01_gl20220223_P",
+            "value": "兵員精選召喚I"
+        },
+        {
+            "key": "gacha_LILS_01_gl20220223_01",
+            "value": "兵員精選召喚II"
+        },
+        {
+            "key": "gacha_LILS_01_gl20220223_10",
+            "value": "兵員精選召喚II　10連召喚"
+        },
+        {
+            "key": "gacha_LILS_01_gl20220223_P",
+            "value": "兵員精選召喚II"
+        },
+        {
+            "key": "gacha_QILF_01_gl20220223_01",
+            "value": "兵員精選召喚III"
+        },
+        {
+            "key": "gacha_QILF_01_gl20220223_10",
+            "value": "兵員精選召喚III　10連召喚"
+        },
+        {
+            "key": "gacha_QILF_01_gl20220223_P",
+            "value": "兵員精選召喚III"
+        },
+        {
+            "key": "gacha_ELSR_01_gl20220223_01",
+            "value": "兵員精選召喚IV"
+        },
+        {
+            "key": "gacha_ELSR_01_gl20220223_10",
+            "value": "兵員精選召喚IV　10連召喚"
+        },
+        {
+            "key": "gacha_ELSR_01_gl20220223_P",
+            "value": "兵員精選召喚IV"
+        },
+        {
+            "key": "beginner_gacha_gl20220302_10",
+            "value": "登錄後7天內限定 免費10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220302_01",
+            "value": "2週年倒數計時第2階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220302_10",
+            "value": "2週年倒數計時第2階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "gacha_FDRC_01_gl20220302_01",
+            "value": "兵員精選召喚I"
+        },
+        {
+            "key": "gacha_FDRC_01_gl20220302_10",
+            "value": "兵員精選召喚I　10連召喚"
+        },
+        {
+            "key": "gacha_FDRC_01_gl20220302_P",
+            "value": "兵員精選召喚I"
+        },
+        {
+            "key": "gacha_RYER_01_gl20220302_01",
+            "value": "兵員精選召喚II"
+        },
+        {
+            "key": "gacha_RYER_01_gl20220302_10",
+            "value": "兵員精選召喚II　10連召喚"
+        },
+        {
+            "key": "gacha_RYER_01_gl20220302_P",
+            "value": "兵員精選召喚II"
+        },
+        {
+            "key": "gacha_RIRY_01_gl20220302_01",
+            "value": "兵員精選召喚III"
+        },
+        {
+            "key": "gacha_RIRY_01_gl20220302_10",
+            "value": "兵員精選召喚III　10連召喚"
+        },
+        {
+            "key": "gacha_RIRY_01_gl20220302_P",
+            "value": "兵員精選召喚III"
+        },
+        {
+            "key": "gacha_reissue_gl20220302_01",
+            "value": "幻兵卡精選召喚"
+        },
+        {
+            "key": "gacha_reissue_gl20220302_10",
+            "value": "幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "gacha_reissue_gl20220302_P",
+            "value": "幻兵卡精選召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220309_01",
+            "value": "幻影水晶慶典 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220309_10",
+            "value": "幻影水晶慶典 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20220309_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_gl20220309_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_gl20220309_P",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_a_01",
+            "value": "屬性精選召喚～雷&暗～"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_a_10",
+            "value": "屬性精選召喚～雷&暗～　10連召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_a_P",
+            "value": "屬性精選召喚～雷&暗～"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_b_01",
+            "value": "屬性精選召喚～風&土～"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_b_10",
+            "value": "屬性精選召喚～風&土～　10連召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_b_P",
+            "value": "屬性精選召喚～風&土～"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220316_01",
+            "value": "2週年倒數計時第4階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220316_10",
+            "value": "2週年倒數計時第4階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_MV4_gl20220316_01",
+            "value": "FFXIV: 曉月之終途 聯動紀念召喚"
+        },
+        {
+            "key": "new-gacha_MV4_gl20220316_10",
+            "value": "FFXIV: 曉月之終途 聯動紀念召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_MV4_gl20220316_P",
+            "value": "FFXIV: 曉月之終途 聯動紀念召喚"
+        },
+        {
+            "key": "gacha_FFXIV_gl20220316_01",
+            "value": "FFXIV: 漆黑的反叛者 聯動復刻紀念召喚"
+        },
+        {
+            "key": "gacha_FFXIV_gl20220316_10",
+            "value": "FFXIV: 漆黑的反叛者 聯動復刻紀念召喚　10連召喚"
+        },
+        {
+            "key": "gacha_FFXIV_gl20220316_P",
+            "value": "FFXIV: 漆黑的反叛者 聯動復刻紀念召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220316_01",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220316_10",
+            "value": "新幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_vc_gl20220316_P",
+            "value": "新幻兵卡精選召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_a_01",
+            "value": "屬性精選召喚～冰&光～"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_a_10",
+            "value": "屬性精選召喚～冰&光～　10連召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_a_P",
+            "value": "屬性精選召喚～冰&光～"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_b_01",
+            "value": "屬性精選召喚～火&水～"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_b_10",
+            "value": "屬性精選召喚～火&水～　10連召喚"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_b_P",
+            "value": "屬性精選召喚～火&水～"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220323_01",
+            "value": "2週年 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220323_10",
+            "value": "2週年 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_TERA_gl20220323_01",
+            "value": "FFVI聯動紀念召喚～蒂娜～"
+        },
+        {
+            "key": "new-gacha_TERA_gl20220323_10",
+            "value": "FFVI聯動紀念召喚～蒂娜～　10連召喚"
+        },
+        {
+            "key": "new-gacha_TERA_gl20220323_P",
+            "value": "FFVI聯動紀念召喚～蒂娜～"
+        },
+        {
+            "key": "new-gacha_CLES_gl20220323_01",
+            "value": "FFVI聯動紀念召喚～塞麗絲～"
+        },
+        {
+            "key": "new-gacha_CLES_gl20220323_10",
+            "value": "FFVI聯動紀念召喚～塞麗絲～　10連召喚"
+        },
+        {
+            "key": "new-gacha_CLES_gl20220323_P",
+            "value": "FFVI聯動紀念召喚～塞麗絲～"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_a_01",
+            "value": "國際版兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_a_10",
+            "value": "國際版兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_a_P",
+            "value": "國際版兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_b_01",
+            "value": "國際版兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_b_10",
+            "value": "國際版兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_b_P",
+            "value": "國際版兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_c_01",
+            "value": "國際版兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_c_10",
+            "value": "國際版兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_c_P",
+            "value": "國際版兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_d_01",
+            "value": "國際版兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_d_10",
+            "value": "國際版兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_d_P",
+            "value": "國際版兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_e_01",
+            "value": "國際版兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_e_10",
+            "value": "國際版兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_e_P",
+            "value": "國際版兵員精選召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_a_01",
+            "value": "國際版幻兵卡精選召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_a_10",
+            "value": "國際版幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_a_P",
+            "value": "國際版幻兵卡精選召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_c_01",
+            "value": "國際版幻兵卡精選召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_c_10",
+            "value": "國際版幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_c_P",
+            "value": "國際版幻兵卡精選召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_b_01",
+            "value": "國際版幻兵卡精選召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_b_10",
+            "value": "國際版幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_b_P",
+            "value": "國際版幻兵卡精選召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_d_01",
+            "value": "國際版幻兵卡精選召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_d_10",
+            "value": "國際版幻兵卡精選召喚　10連召喚"
+        },
+        {
+            "key": "daily-gacha_vc_gl20220323_d_P",
+            "value": "國際版幻兵卡精選召喚"
+        },
+        {
+            "key": "gacha_FF_unit_gl20220323_01",
+            "value": "FF系列兵員召喚"
+        },
+        {
+            "key": "gacha_FF_unit_gl20220323_10",
+            "value": "FF系列兵員召喚　10連召喚"
+        },
+        {
+            "key": "gacha_FF_unit_gl20220323_P",
+            "value": "FF系列兵員召喚"
+        },
+        {
+            "key": "gacha_FF_vc_gl20220323_01",
+            "value": "FF系列幻兵卡召喚"
+        },
+        {
+            "key": "gacha_FF_vc_gl20220323_10",
+            "value": "FF系列幻兵卡召喚　10連召喚"
+        },
+        {
+            "key": "gacha_FF_vc_gl20220323_P",
+            "value": "FF系列幻兵卡召喚"
+        }
+    ]
+}

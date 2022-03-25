@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Merci pour votre hospitalité."
+        },
+        {
+            "key": "002",
+            "value": "Oublie ces formalités d'usage. On est amis maintenant, non ?"
+        },
+        {
+            "key": "003",
+            "value": "Allons-y."
+        },
+        {
+            "key": "004",
+            "value": "Dame Lumeïde…"
+        },
+        {
+            "key": "005",
+            "value": "Va réveiller Lameïga. Il doit encore être en train de dormir dans les cales du bateau."
+        },
+        {
+            "key": "006",
+            "value": "Je suis là."
+        },
+        {
+            "key": "007",
+            "value": "Où vont-ils ?"
+        },
+        {
+            "key": "008",
+            "value": "Sur la tombe d'Owe."
+        },
+        {
+            "key": "009",
+            "value": "Ils doivent vouloir empêcher quiconque de mettre la main sur son épée."
+        },
+        {
+            "key": "010",
+            "value": "Je te reconnais bien là, perfide comme à l'accoutumée."
+        },
+        {
+            "key": "011",
+            "value": "Préparons-nous à accoster dans ce cas."
+        }
+    ]
+}

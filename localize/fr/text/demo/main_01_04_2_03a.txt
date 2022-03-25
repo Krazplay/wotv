@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Reine Helena."
+        },
+        {
+            "key": "002",
+            "value": "Oui, je la ressens, moi aussi."
+        },
+        {
+            "key": "003",
+            "value": "La présence d'un nombre incalculable de monstres…"
+        },
+        {
+            "key": "004",
+            "value": "On dirait qu'ils ne sont pas décidés à nous laisser emporter ces coffres en pierre."
+        },
+        {
+            "key": "005",
+            "value": "Nous ne pouvons pas retourner sur nos pas."
+        },
+        {
+            "key": "006",
+            "value": "Il nous faudra forcer le passage."
+        },
+        {
+            "key": "007",
+            "value": "C'est compris. Retournons aux portes du château aussi rapidement que possible."
+        }
+    ]
+}

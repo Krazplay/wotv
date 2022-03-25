@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Kürzlich durfte ich zwar bereits mit Euch mein Wissen über Erholung und Vermeidung von Zustandsveränderungen teilen, doch dieses Mal möchte ich Euch erklären, was es mit <color=#0000ff>Zustandsresistenzen</color> auf sich hat."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Angriffe, die Zustandsveränderungen hervorrufen können, sind nicht immer von Erfolg gekrönt. Hier spielt die Tatsache ein Rolle, dass jede Einheit über spezifische <color=#0000ff>Zustandsresistenzen</color> verfügt."
+        },
+        {
+            "key": "003",
+            "value": "Wie es auch bei anderen Resistenzen der Fall ist, könnt Ihr diese beim Attackieren eines Gegners durch Antippen des <color=#0000ff>Lupensymbols</color> einsehen."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "005",
+            "value": "Mediena ist gegenwärtig in einen Kampf verwickelt. Sie beherrscht die Zustandsveränderungen verursachenden Zauber <color=#0000ff>Bio, Schlaf und Blenden</color>."
+        },
+        {
+            "key": "006",
+            "value": "Ihr <color=#0000ff>Schwert führender Gegner</color> ist anfällig für <color=#0000ff>Schlaf</color>."
+        },
+        {
+            "key": "007",
+            "value": "Der einen <color=#0000ff>Speer führende Gegner</color> ist anfällig für <color=#0000ff>Bio</color>."
+        },
+        {
+            "key": "008",
+            "value": "Und der einen <color=#0000ff>Bogen führende Gegner</color> ist anfällig für <color=#0000ff>Blenden</color>."
+        },
+        {
+            "key": "009",
+            "value": "Macht Euch die unterschiedlichen Zustandsveränderungen zunutze und vernichtet den Feind."
+        }
+    ]
+}

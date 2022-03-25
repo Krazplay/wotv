@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Pfiou ! On a réussi à s'en tirer !"
+        },
+        {
+            "key": "002",
+            "value": "Quelle humiliation !"
+        },
+        {
+            "key": "003",
+            "value": "Vous croyez qu'on a bien fait ?"
+        },
+        {
+            "key": "004",
+            "value": "Qu'est-ce qu'on pouvait faire d'autre ?"
+        },
+        {
+            "key": "005",
+            "value": "Ils nous auraient tous massacrés, si on était restés !"
+        },
+        {
+            "key": "006",
+            "value": "Mais si certains des moines soldats survivent... Comment vous comptez gérer ça ?"
+        },
+        {
+            "key": "007",
+            "value": "... !"
+        },
+        {
+            "key": "008",
+            "value": "Ça craint, en effet."
+        },
+        {
+            "key": "009",
+            "value": "S'ils survivent, vous pouvez être sûrs qu'ils rapporteront notre désertion à Sadali."
+        },
+        {
+            "key": "010",
+            "value": "S'ils font ça, adieu nos rêves d'entrer dans sa garde personnelle !"
+        },
+        {
+            "key": "011",
+            "value": "Oh oui, plus d'espoir pour nous !"
+        },
+        {
+            "key": "012",
+            "value": "Alors, qu'est-ce qu'on fait ? On se met en chasse des moines qui s'en tirent ?"
+        },
+        {
+            "key": "013",
+            "value": "Ouais. C'est exactement ce qu'on va faire."
+        },
+        {
+            "key": "014",
+            "value": "Je suppose que nous n'avons pas le choix..."
+        },
+        {
+            "key": "015",
+            "value": "Et toi, collègue, t'en penses quoi ?"
+        },
+        {
+            "key": "016",
+            "value": "Moi, tant qu'on tue, je suis partant."
+        },
+        {
+            "key": "017",
+            "value": "En voilà un de motivé, déjà."
+        },
+        {
+            "key": "018",
+            "value": "On y va, frangin ?"
+        },
+        {
+            "key": "019",
+            "value": "Ouais, en route, frangin."
+        }
+    ]
+}

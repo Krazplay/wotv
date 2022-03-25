@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Il y a quelqu'un là-bas ?!"
+        },
+        {
+            "key": "002",
+            "value": "Hé, ça va ?"
+        },
+        {
+            "key": "003",
+            "value": "Argh..."
+        },
+        {
+            "key": "004",
+            "value": "Ah ouf ! Tu es vivante !"
+        },
+        {
+            "key": "005",
+            "value": "Suis-je arrivée... à l'Est ?"
+        },
+        {
+            "key": "006",
+            "value": "Pour nous, c'est plutôt le centre…"
+        },
+        {
+            "key": "007",
+            "value": "Mais c'est vrai qu'à l'intérieur des terres, ils appellent ça « l'Est » !"
+        },
+        {
+            "key": "008",
+            "value": "Ainsi... je suis enfin arrivée."
+        },
+        {
+            "key": "009",
+            "value": "Et en un seul morceau, on dirait. Je m'appelle Miranda, et toi ?"
+        },
+        {
+            "key": "010",
+            "value": "Raviesse."
+        },
+        {
+            "key": "011",
+            "value": "Et pourquoi es-tu venue jusqu'ici ?"
+        },
+        {
+            "key": "012",
+            "value": "On ne s'aventure à l'Est que dans un seul but, non ?"
+        },
+        {
+            "key": "013",
+            "value": "Dans ce cas, tu ferais mieux de rentrer chez toi."
+        },
+        {
+            "key": "014",
+            "value": "Pourquoi ?"
+        },
+        {
+            "key": "015",
+            "value": "Trop de guerriers sont venus jusqu'ici à la poursuite de leur rêve..."
+        },
+        {
+            "key": "016",
+            "value": "Pour ne repartir avec rien d'autre que du désespoir."
+        },
+        {
+            "key": "017",
+            "value": "Ces terres ne font pas de cadeaux aux faibles."
+        },
+        {
+            "key": "018",
+            "value": "Je ne suis pas de ceux-là."
+        },
+        {
+            "key": "019",
+            "value": "Bien sûr. C'est ce que tout le monde croit avant de poser le pied ici."
+        },
+        {
+            "key": "020",
+            "value": "Ne gâche pas ta salive, je ne rentrerai pas."
+        },
+        {
+            "key": "021",
+            "value": "…"
+        },
+        {
+            "key": "022",
+            "value": "Puisque ta décision est prise, autant que tu viennes avec moi."
+        },
+        {
+            "key": "023",
+            "value": "Je vais te présenter mes maîtres."
+        },
+        {
+            "key": "024",
+            "value": "Vraiment ?"
+        },
+        {
+            "key": "025",
+            "value": "Même si je crains que tu ne le regrettes."
+        }
+    ]
+}

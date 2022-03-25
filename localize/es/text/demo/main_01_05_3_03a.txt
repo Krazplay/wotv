@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Si te soy sincero, estoy un poco decepcionado."
+        },
+        {
+            "key": "002",
+            "value": "¡¿Esa es toda la resistencia que es capaz de ofrecer Nitor?! ¡Venga ya!"
+        },
+        {
+            "key": "003",
+            "value": "(Detesto tener que decir esto…, pero puede que tengamos que retirarnos)."
+        },
+        {
+            "key": "004",
+            "value": "(¡¿Pero qué estás diciendo, hermano?! La batalla acaba de empezar)."
+        },
+        {
+            "key": "005",
+            "value": "(Yo también estoy de acuerdo. ¡No podemos dejar que Dorand y Gargas se salgan con la suya!)"
+        },
+        {
+            "key": "006",
+            "value": "(Aun así…)"
+        },
+        {
+            "key": "007",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "008",
+            "value": "Hay alguien cerca… ¿Podría tratarse de…?"
+        },
+        {
+            "key": "009",
+            "value": "¿Qué pasa? ¿Ya estáis discutiendo la retirada?"
+        },
+        {
+            "key": "010",
+            "value": "Tal y como pensaba… El muy canalla…"
+        },
+        {
+            "key": "011",
+            "value": "¿Numbra? Esto sí que es una sorpresa…"
+        },
+        {
+            "key": "012",
+            "value": "He escapado del mismísimo infierno para tener otra oportunidad de acabar contigo."
+        },
+        {
+            "key": "013",
+            "value": "¿Otra oportunidad? Bueno, pues aquí acaba la cosa."
+        },
+        {
+            "key": "014",
+            "value": "¡Eso es lo que iba a decirte yo!"
+        },
+        {
+            "key": "015",
+            "value": "Me tienes ganas, ¿eh? Pues venga. Desenvaina tu espada."
+        }
+    ]
+}

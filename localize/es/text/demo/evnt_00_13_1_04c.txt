@@ -1,0 +1,152 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vaya, eres fuerte."
+        },
+        {
+            "key": "002",
+            "value": "A ver, dime."
+        },
+        {
+            "key": "003",
+            "value": "¿Qué está tramando el gremio de mercaderes de armas? De hecho, dime todo lo que sepas."
+        },
+        {
+            "key": "004",
+            "value": "Supongo que no tengo alternativa. Está bien, hablaré."
+        },
+        {
+            "key": "005",
+            "value": "Resulta que el gremio... tiene un nuevo líder."
+        },
+        {
+            "key": "006",
+            "value": "Sí... Creo que Garval es el que lleva la voz cantante ahora."
+        },
+        {
+            "key": "007",
+            "value": "¡Anda, míralo! Y yo que pensaba que habías estado viviendo aislado en estas montañas durante años..."
+        },
+        {
+            "key": "008",
+            "value": "Mi ninja me trae informes del continente con regularidad."
+        },
+        {
+            "key": "009",
+            "value": "Un momento. ¿Tienes... un ninja?"
+        },
+        {
+            "key": "010",
+            "value": "¿Y qué si es así?"
+        },
+        {
+            "key": "011",
+            "value": "…"
+        },
+        {
+            "key": "012",
+            "value": "Garval nos ordenó hacernos con las seis espadas de los maestros del este..."
+        },
+        {
+            "key": "013",
+            "value": "A cualquier precio."
+        },
+        {
+            "key": "014",
+            "value": "Hm..."
+        },
+        {
+            "key": "015",
+            "value": "¿Para qué quiere las espadas de los maestros?"
+        },
+        {
+            "key": "016",
+            "value": "¿Te llamabas Lumeide? Respóndele."
+        },
+        {
+            "key": "017",
+            "value": "Y yo qué sé... Son órdenes de Garval y punto."
+        },
+        {
+            "key": "018",
+            "value": "¿Ah, sí?"
+        },
+        {
+            "key": "019",
+            "value": "Aunque tu esfuerzo no ha servido de nada."
+        },
+        {
+            "key": "020",
+            "value": "Ya no queda nadie en esta tierra que pueda considerarse un «maestro». Ni uno solo."
+        },
+        {
+            "key": "021",
+            "value": "¿Qué quieres decir?"
+        },
+        {
+            "key": "022",
+            "value": "Ya me has oído."
+        },
+        {
+            "key": "023",
+            "value": "Todos se han marchado al continente."
+        },
+        {
+            "key": "024",
+            "value": "Primera noticia."
+        },
+        {
+            "key": "025",
+            "value": "No es que lo mantengan en secreto, pero tampoco van proclamando por ahí que son los maestros del este gritándolo a los cuatro vientos."
+        },
+        {
+            "key": "026",
+            "value": "Y ya está. En conclusión, no tienes nada que hacer aquí."
+        },
+        {
+            "key": "027",
+            "value": "Supongo que ya partís hacia el continente, pues."
+        },
+        {
+            "key": "028",
+            "value": "Oh, ¿vienes a despedirnos?"
+        },
+        {
+            "key": "029",
+            "value": "De hecho, me gustaría acompañaros en vuestro barco."
+        },
+        {
+            "key": "030",
+            "value": "¿Qué barco?"
+        },
+        {
+            "key": "031",
+            "value": "No cuela, así que ni lo intentes."
+        },
+        {
+            "key": "032",
+            "value": "La razón por la que he bajado hasta aquí, para empezar, es porque he avistado ese enorme barco vuestro."
+        },
+        {
+            "key": "033",
+            "value": "¿Quieres ir a ver a Owe y Seymore?"
+        },
+        {
+            "key": "034",
+            "value": "Owe ya no está entre nosotros... Murió."
+        },
+        {
+            "key": "035",
+            "value": "Eso... Eso no puede ser..."
+        },
+        {
+            "key": "036",
+            "value": "Es la verdad. Me gustaría ir a presentar mis respetos a su tumba... ¿Qué me dices?"
+        },
+        {
+            "key": "037",
+            "value": "Está bien. Puedes venir con nosotros."
+        }
+    ]
+}

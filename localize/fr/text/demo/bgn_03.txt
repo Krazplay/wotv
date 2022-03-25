@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Cette leçon porte sur les <color=#0000ff>éléments des aptitudes d'attaque</color> et sur les <color=#0000ff>résistances élémentaires</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Au même titre que les unités, les aptitudes d'attaque appartiennent à l'un des éléments suivants. <color=#0000ff>Le feu</color>, <color=#0000ff>la glace</color>, <color=#0000ff>le vent</color>, <color=#0000ff>la terre</color>, <color=#0000ff>la foudre</color>, <color=#0000ff>l'eau</color>, <color=#0000ff>la lumière</color>, ou bien <color=#0000ff>l'ombre</color>."
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Nous avons déjà appris que toutes les unités possédaient aussi bien des éléments de prédilection qu'une certaine aversion pour d'autres."
+        },
+        {
+            "key": "006",
+            "value": "Appuyez sur la <color=#0000ff>loupe</color> lorsque vous attaquez un ennemi afin de prendre connaissance des <color=#0000ff>affinités élémentaires</color> de ce dernier."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Prendre avantage de la faiblesse de votre ennemi à un élément en particulier vous aidera à lui infliger un nombre de dégâts plus important."
+        },
+        {
+            "key": "008",
+            "value": "Sire, la grande majorité de vos aptitudes d'attaque possèdent une affinité avec <color=#0000ff>l'élément de la terre</color>, je vous encourage donc à vous attaquer aux <color=#0000ff>ennemis</color> possédant une <color=#0000ff>faible résistance à la terre</color>."
+        },
+        {
+            "key": "009",
+            "value": "Quant à Lilyth, dont les aptitudes d'attaque possèdent une affinité avec <color=#0000ff>l'élément du feu</color>, elle sera plus à même de terrasser les <color=#0000ff>ennemis</color> avec <color=#0000ff>une faible résistance au feu</color>."
+        },
+        {
+            "key": "010",
+            "value": "En ce qui concerne mes propres attaques, je possède une certaine affinité avec <color=#0000ff>l'élément d'eau</color>, j'attaquerai donc les <color=#0000ff>ennemis</color> avec <color=#0000ff>une faible résistance à l'eau</color>."
+        },
+        {
+            "key": "011",
+            "value": "Utilisez la <color=#0000ff>loupe</color> qui apparaît pendant le combat afin de prendre connaissance des faiblesses élémentaires de votre ennemi."
+        },
+        {
+            "key": "012",
+            "value": "Nous avons réussi à repousser l'ennemi !"
+        },
+        {
+            "key": "013",
+            "value": "La majorité des aptitudes d'attaque et des affinités élémentaires sont raccords avec <color=#0000ff>l'élément</color> de l'unité, mais il peut arriver que <color=#0000ff>ce ne soit pas toujours le cas</color>."
+        },
+        {
+            "key": "014",
+            "value": "Un bon leadeur se caractérise par sa faculté à juger des capacités de chacun, aussi bien de ses ennemis que de ses alliés. Voilà la récompense d'une attention minutieuse quotidienne."
+        }
+    ]
+}

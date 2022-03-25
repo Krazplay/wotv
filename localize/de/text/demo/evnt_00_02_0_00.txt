@@ -1,0 +1,192 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Diese Frau da ist eine feindliche Kommandantin?!"
+        },
+        {
+            "key": "002",
+            "value": "I-Ich hab schon von ihr gehört! Wenn ich mich richtig erinnere, ist ihr Name ..."
+        },
+        {
+            "key": "003",
+            "value": "Nein, das kann unmöglich ... die befehlshabende Schützin von Rundalls 3. Division „Calorum“ sein ...?!"
+        },
+        {
+            "key": "004",
+            "value": "Doch, das ist sie. Man nennt sie auch die „Unbarmherzige Schützin“ ... Das ist Lu’Cia!"
+        },
+        {
+            "key": "005",
+            "value": "Oha. Man kennt mich also auch in den abgelegenen Ecken des Kontinents, wie? Was für eine Ehre."
+        },
+        {
+            "key": "006",
+            "value": "Gut. Erstattet dem König von Hourne Bericht. Sagt ihm, dass diese Festung Lu’Cia übergeben wurde!"
+        },
+        {
+            "key": "007",
+            "value": "Sieh zu, dass du auf der Stelle nach Schloss Hourne kommst! Wir brauchen hier Unterstützung, und zwar so schnell wie möglich!"
+        },
+        {
+            "key": "008",
+            "value": "Ja-Jawohl!"
+        },
+        {
+            "key": "009",
+            "value": "Grgh!"
+        },
+        {
+            "key": "010",
+            "value": "A-Alles in Ordnung?!"
+        },
+        {
+            "key": "011",
+            "value": "Halb so wild. War nur ein Streifschuss."
+        },
+        {
+            "key": "012",
+            "value": "Die Lu’Cia, von der ich gehört habe, würde auf solche Distanz niemals ihr Ziel verfehlen."
+        },
+        {
+            "key": "013",
+            "value": "Tja, offensichtlich ist die „Unbarmherzige Schützin“ doch nicht so großartig, wie man sich erzählt."
+        },
+        {
+            "key": "014",
+            "value": "Hey, hast du das gehört?"
+        },
+        {
+            "key": "015",
+            "value": "Die meinten gerade, dass die Kommandantin in Wahrheit gar keine außergewöhnliche Schützin ist."
+        },
+        {
+            "key": "016",
+            "value": "Dass sie es wagen, die Kommandantin zu provozieren ... Diese hournschen Trottel wollen es wohl nicht anders."
+        },
+        {
+            "key": "017",
+            "value": "„Wollen es wohl nicht anders“ ...? Wovon zur Hölle sprichst du?"
+        },
+        {
+            "key": "018",
+            "value": "Wir stürmen jetzt die Festung. Aber ..."
+        },
+        {
+            "key": "019",
+            "value": "Zu Befehl. Die Kerle hier ... lassen wir am Leben."
+        },
+        {
+            "key": "020",
+            "value": "Am Leben lassen?! Ihr wollt uns also als Geiseln nehmen?!"
+        },
+        {
+            "key": "021",
+            "value": "Spielt hier nicht die Dummen. Darauf hattet ihr es doch von Anfang an abgesehen, stimmt’s? Mann ... Ich bin echt neidisch!"
+        },
+        {
+            "key": "022",
+            "value": "Neidisch?!"
+        },
+        {
+            "key": "023",
+            "value": "Aber natürlich! Ihr habt das große Los gezogen, später von Lu’Cia höchstpersönlich gefoltert zu werden."
+        },
+        {
+            "key": "024",
+            "value": "Pass auf, was du sagst. Es ist keine Folter – es ist vielmehr eine Art ... spielerische Disziplinierung."
+        },
+        {
+            "key": "025",
+            "value": "Spielerische Disziplinierung ... Ja, das klingt vielversprechend."
+        },
+        {
+            "key": "026",
+            "value": "Wenn ich das so höre, wär ich am liebsten auch einer von den hournschen Soldaten."
+        },
+        {
+            "key": "027",
+            "value": "Na dann ... Lasst uns anfangen. Wir werden gemeinsam eine Menge Spaß haben."
+        },
+        {
+            "key": "028",
+            "value": "Wie ich gehört habe, ist vor Kurzem ein Bote eingetroffen, der ein Hilfegesuch von einer unserer Festungen an der Westgrenze zu Rundall bei sich hatte."
+        },
+        {
+            "key": "029",
+            "value": "Du bist gut informiert."
+        },
+        {
+            "key": "030",
+            "value": "Die Festung soll von Rundalls 3. Division „Calorum“ angegriffen und eingenommen worden sein."
+        },
+        {
+            "key": "031",
+            "value": "... Du wirst mir doch jetzt nicht sagen wollen, dass du vorhast, dich zu dieser Festung aufzumachen ..."
+        },
+        {
+            "key": "032",
+            "value": "Ich werde an der Spitze von Hournes 2. Division „Nitor“ dorthin marschieren. Alles andere wäre ungebührlich."
+        },
+        {
+            "key": "033",
+            "value": "Hmpf ..."
+        },
+        {
+            "key": "034",
+            "value": "Ich habe „Nitor“ nicht von Glahz zurückerobert, um Dienst hinter den Schlossmauern zu verrichten."
+        },
+        {
+            "key": "035",
+            "value": "„Zurückerobert“ ...?"
+        },
+        {
+            "key": "036",
+            "value": "„Nitor“ wurde von meinem Vater aufgestellt. Glahz hatte sich seinerzeit das Kommando mit faulen Tricks unter den Nagel gerissen."
+        },
+        {
+            "key": "037",
+            "value": "Es gibt keine Beweise, die diese Behauptung belegen. Selbst wenn die Soldaten Glahz gegenüber Bedenken hatten, haben sie darüber Stillschweigen bewahrt."
+        },
+        {
+            "key": "038",
+            "value": "A-Aber, dieser Bastard hat ...!"
+        },
+        {
+            "key": "039",
+            "value": "Ich weiß. Das war auch der Grund, warum ich das Duell zwischen dir und Glahz bewilligte."
+        },
+        {
+            "key": "040",
+            "value": "..."
+        },
+        {
+            "key": "041",
+            "value": "Ich bin besorgt, Adelard."
+        },
+        {
+            "key": "042",
+            "value": "Besorgt, Euer Majestät? Worüber?"
+        },
+        {
+            "key": "043",
+            "value": "Du magst zwar der Kommandant „Nitors“ geworden sein, aber unter den Soldaten in deiner Einheit genießt Glahz immer noch große Sympathien."
+        },
+        {
+            "key": "044",
+            "value": "In dieser Situation eine Expedition wie diese anzuführen, könnte sich für dich als sehr gefährlich erweisen."
+        },
+        {
+            "key": "045",
+            "value": "Ihr irrt, Euer Majestät. Das ist genau das, worauf ich hoffe."
+        },
+        {
+            "key": "046",
+            "value": "Diese Expedition stellt eine großartige Gelegenheit dar, um den Soldaten zu zeigen, wer der bessere Befehlshaber ist – ich oder Glahz."
+        },
+        {
+            "key": "047",
+            "value": "..."
+        }
+    ]
+}

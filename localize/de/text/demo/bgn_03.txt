@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Es ist an der Zeit, Euch Kenntnisse über die <color=#0000ff>Elementarzugehörigkeit von angriffsorientierten Fähigkeiten</color> und <color=#0000ff>Elementarresistenzen</color> zu vermitteln."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "So wie Einheiten lassen sich auch die meisten angriffsorientierten Fähigkeiten einem der folgenden Elemente zuordnen: <color=#0000ff>Feuer</color>, <color=#0000ff>Eis</color>, <color=#0000ff>Wind</color>, <color=#0000ff>Erde</color>, <color=#0000ff>Blitz</color>, <color=#0000ff>Wasser</color>, <color=#0000ff>Licht</color> oder <color=#0000ff>Dunkel</color>."
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Vor Kurzem hatte ich erwähnt, dass alle Einheiten gegenüber bestimmten Elementen über ausgeprägte Resistenzen verfügen, während sie für die Effekte von anderen besonders anfällig sind."
+        },
+        {
+            "key": "006",
+            "value": "Wenn Ihr beim Angreifen eines Gegners das <color=#0000ff>Lupensymbol</color> antippt, wird das <color=#0000ff>Elementaraffinitätsdiagramm</color> eingeblendet. Aus diesem lässt sich ablesen, wie anfällig der entsprechende Gegner für bestimmte Elemente ist."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Der Einsatz von angriffsorientierten Fähigkeiten eines Elements, gegenüber dem der entsprechende Gegner nur eine geringe Resistenz aufweist, verursacht bei diesem vergleichsweise größeren Schaden."
+        },
+        {
+            "key": "008",
+            "value": "Euer Hoheit, da die meisten Eurer angriffsorientierten Fähigkeiten dem <color=#0000ff>Element „Erde“</color> zugehörig sind, solltet Ihr bevorzugt <color=#0000ff>Feinde mit niedriger Erdresistenz</color> ins Visier nehmen."
+        },
+        {
+            "key": "009",
+            "value": "Liliths angriffsorientierte Fähigkeiten sind vornehmlich dem <color=#0000ff>Element „Feuer“</color> zugehörig, weswegen sie am besten <color=#0000ff>Feinde mit niedriger Feuerresistenz</color> attackieren sollte."
+        },
+        {
+            "key": "010",
+            "value": "Dagegen sind meine angriffsorientierten Fähigkeiten weitestgehend dem <color=#0000ff>Element „Wasser“</color> zugehörig, weshalb ich mich um <color=#0000ff>Feinde mit niedriger Wasserresistenz</color> kümmern werde."
+        },
+        {
+            "key": "011",
+            "value": "Macht Gebrauch vom <color=#0000ff>Lupensymbol</color>, das beim Angriff auf den Feind eingeblendet wird, um zu erfahren, welcher Gegner für welches Element anfällig ist."
+        },
+        {
+            "key": "012",
+            "value": "Es ist uns gelungen, die gegnerischen Kräfte in die Flucht zu schlagen!"
+        },
+        {
+            "key": "013",
+            "value": "In den allermeisten Fällen sind angriffsorientierte Fähigkeiten und Elementaraffinitäten durch das <color=#0000ff>Element</color> der Einheit bestimmt. Allerdings gibt es vereinzelt Fälle, in denen <color=#0000ff>dies nicht zutrifft</color>."
+        },
+        {
+            "key": "014",
+            "value": "Ein großer Feldherr zeichnet sich aus durch die Fähigkeit, die spezifischen Eigenschaften von Verbündeten und Feinden einschätzen und darauf basierend präzise Entscheidungen treffen zu können. Nur wer sich diesem Ansinnen jeden Tag aufs Neue verschreibt, wird sich die entsprechende Belohnung aneignen können."
+        }
+    ]
+}

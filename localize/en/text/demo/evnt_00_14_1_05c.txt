@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "*Huff* *huff* *huff*... W-well?"
+        },
+        {
+            "key": "002",
+            "value": "Is this all that Lykeros has to offer!?"
+        },
+        {
+            "key": "003",
+            "value": "You're not half bad. That said..."
+        },
+        {
+            "key": "004",
+            "value": "I think you've earned a merciful end."
+        },
+        {
+            "key": "005",
+            "value": "And thus Fennes is dealt with."
+        },
+        {
+            "key": "006",
+            "value": "The Fennes troops have withdrawn, and Pharm has been laid to waste."
+        },
+        {
+            "key": "007",
+            "value": "I'd say it's time we claimed our castle."
+        }
+    ]
+}

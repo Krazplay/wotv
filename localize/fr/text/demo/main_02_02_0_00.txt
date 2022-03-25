@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Nous avons grandi dans un village aux confins de l'ouest…"
+        },
+        {
+            "key": "002",
+            "value": "Et c'est quand notre foyer a été détruit par l'armée de Rundall que nous sommes parties sur les routes chercher notre vengeance."
+        },
+        {
+            "key": "003",
+            "value": "Pourtant, chère sœur, nos chemins se sont séparés."
+        },
+        {
+            "key": "004",
+            "value": "Tu as choisi d'intégrer Heindler pour exercer ta vengeance de l'intérieur."
+        },
+        {
+            "key": "005",
+            "value": "Moi, les puissantes amitiés que j'ai nouées m'ont retenue dans le petit royaume de Leonis, à l'est."
+        },
+        {
+            "key": "006",
+            "value": "Pas un jour ne passe sans que je ne souhaite me venger de Rundall."
+        },
+        {
+            "key": "007",
+            "value": "Et pourtant, nous voilà… face à face dans un camp différent."
+        },
+        {
+            "key": "008",
+            "value": "Les étoiles que tu vois sont invisibles à mes yeux."
+        },
+        {
+            "key": "009",
+            "value": "Mais il en existe qui ne se dévoilent qu'à moi, et c'est à elles que je fais confiance…"
+        }
+    ]
+}

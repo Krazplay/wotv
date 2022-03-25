@@ -1,0 +1,96 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ríndete... Por favor."
+        },
+        {
+            "key": "002",
+            "value": "¿Por favor?"
+        },
+        {
+            "key": "003",
+            "value": "Me aseguraré de que no te traten mal, te lo prometo."
+        },
+        {
+            "key": "004",
+            "value": "¿Por qué harías eso?"
+        },
+        {
+            "key": "005",
+            "value": "¿Por qué, preguntas?"
+        },
+        {
+            "key": "006",
+            "value": "Nos superáis en fuerza con creces. Sería muy fácil para vosotros hacernos añicos."
+        },
+        {
+            "key": "007",
+            "value": "Si uno de nosotros acabase con el otro, ¿acaso eso pondría fin a la guerra?"
+        },
+        {
+            "key": "008",
+            "value": "Aunque el odio es un componente innato de la guerra, debemos acabar con este círculo vicioso de una vez."
+        },
+        {
+            "key": "009",
+            "value": "Lord Mont decía algo similar."
+        },
+        {
+            "key": "010",
+            "value": "¿Lord Mont?"
+        },
+        {
+            "key": "011",
+            "value": "El príncipe de mi tierra."
+        },
+        {
+            "key": "012",
+            "value": "¿Se trata de... Leonis? "
+        },
+        {
+            "key": "013",
+            "value": "Oh, ¿así que lo conoces?"
+        },
+        {
+            "key": "014",
+            "value": "He oído que hay un príncipe que detesta la guerra."
+        },
+        {
+            "key": "015",
+            "value": "Es más bien un cobarde del que se ríen los demás países."
+        },
+        {
+            "key": "016",
+            "value": "Yo no lo veo de esa forma."
+        },
+        {
+            "key": "017",
+            "value": "¿Eh?..."
+        },
+        {
+            "key": "018",
+            "value": "Me gustaría conocerlo, si tuviese la ocasión alguna vez."
+        },
+        {
+            "key": "019",
+            "value": "..."
+        },
+        {
+            "key": "020",
+            "value": "Soy Barale el Inquebrantable, de la segunda división de Rundal, Crucium."
+        },
+        {
+            "key": "021",
+            "value": "Debes convencer a los demás de la resistencia para que cesen su ataque... Cuento contigo..."
+        },
+        {
+            "key": "022",
+            "value": "Me llamo Lilit."
+        },
+        {
+            "key": "023",
+            "value": "Y lo intentaré..."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "…"
+        },
+        {
+            "key": "002",
+            "value": "Kilphe !"
+        },
+        {
+            "key": "003",
+            "value": "Où vas-tu en pleine tempête ?"
+        },
+        {
+            "key": "004",
+            "value": "Ne me dis pas que…"
+        },
+        {
+            "key": "005",
+            "value": "…"
+        },
+        {
+            "key": "006",
+            "value": "Nous te considérons comme l'une des nôtres, Kilphe."
+        },
+        {
+            "key": "007",
+            "value": "Et je vous en serai à jamais reconnaissante."
+        },
+        {
+            "key": "008",
+            "value": "Mais je n'ai pas ma place ici."
+        },
+        {
+            "key": "009",
+            "value": "P-Pourquoi ?"
+        },
+        {
+            "key": "010",
+            "value": "Wezett est loin d'être reconstruit."
+        },
+        {
+            "key": "011",
+            "value": "Tu es plus que nécessaire."
+        },
+        {
+            "key": "012",
+            "value": "Non seulement moi, mais… les autres aussi ont besoin de toi."
+        },
+        {
+            "key": "013",
+            "value": "C'est exactement la raison pour laquelle je dois m'en aller."
+        },
+        {
+            "key": "014",
+            "value": "Pardon ?!"
+        },
+        {
+            "key": "015",
+            "value": "Ces sourires sur vos visages… sont trop éclatants pour moi."
+        },
+        {
+            "key": "016",
+            "value": "Alors où vas-tu aller ?"
+        },
+        {
+            "key": "017",
+            "value": "J'ai suffisamment fait attendre Mallius."
+        },
+        {
+            "key": "018",
+            "value": "Mallius ? Ton défunt frère ?"
+        },
+        {
+            "key": "019",
+            "value": "Ces terres dont j'étais si fière et qui ont été anéanties par Fennes. C'est là-bas que je souhaite finir mes jours."
+        },
+        {
+            "key": "020",
+            "value": "Kilphe…"
+        }
+    ]
+}

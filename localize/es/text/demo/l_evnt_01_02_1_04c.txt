@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "178",
+            "value": "¡Habéis sido de gran ayuda! Como os prometimos, aquí está la recompensa."
+        },
+        {
+            "key": "179",
+            "value": "Buf... Así que el cristal núcleo era el causante de la agresividad de los monstruos... Este trabajo no es bueno para el corazón..."
+        },
+        {
+            "key": "180",
+            "value": "Disculpa, deberíamos haberos advertido."
+        },
+        {
+            "key": "181",
+            "value": "Bueno, nos han pagado más por el peligro extra, así que hemos salido ganando."
+        },
+        {
+            "key": "182",
+            "value": "Pero todavía no es suficiente, ni mucho menos. Pasemos al siguiente trabajo."
+        },
+        {
+            "key": "183",
+            "value": "¿En qué consiste?"
+        },
+        {
+            "key": "184",
+            "value": "Este debería ser más fácil. Solo tenemos que reunir algunos materiales."
+        },
+        {
+            "key": "185",
+            "value": "Los antídotos escasean por culpa de la guerra."
+        },
+        {
+            "key": "186",
+            "value": "Así que nuestra misión es adentrarnos en los bosques de los alrededores y buscar algunas hierbas medicinales y veneno de serpiente."
+        },
+        {
+            "key": "187",
+            "value": "¡Me parece un trabajo loable y a mis piernas les vendrá de maravilla! ¡Serán dos pájaros de un tiro!"
+        },
+        {
+            "key": "188",
+            "value": "El bosque... Un buen sitio para echarse la siesta, sobre todo si hace buen tiempo."
+        },
+        {
+            "key": "189",
+            "value": "No, tú también vas a trabajar, que no estamos de vacaciones."
+        },
+        {
+            "key": "190",
+            "value": "No hemos visto una sola serpiente aún..."
+        },
+        {
+            "key": "191",
+            "value": "Con lo poco que ha costado encontrar las hierbas... Quizá los monstruos las han asustado y por eso no salen de sus guaridas."
+        },
+        {
+            "key": "192",
+            "value": "¡Si tienes tiempo para quejarte tienes tiempo para buscar, novato! ¡Esfuérzate un poco y ya verás como alguna encuentras!"
+        },
+        {
+            "key": "193",
+            "value": "Tu superior es muy estricta."
+        },
+        {
+            "key": "194",
+            "value": "Ja, ja, ja... Es que me falta disciplina..."
+        },
+        {
+            "key": "195",
+            "value": "Como hombre que eres deberías tener más confianza en ti mismo."
+        },
+        {
+            "key": "196",
+            "value": "Las mujeres de verdad no les dan ni la hora a los inseguros."
+        },
+        {
+            "key": "197",
+            "value": "Y lady Machérie tampoco se la da a los presuntuosos."
+        },
+        {
+            "key": "198",
+            "value": "Agh, déjalo ya, ¿quieres? ¡Cuando hayamos salvado Ovis me convertiré en un hombre digno de Machérie!"
+        },
+        {
+            "key": "199",
+            "value": "En fin... No hay serpientes a la vista, así que ¿nos tomamos un descanso?"
+        },
+        {
+            "key": "200",
+            "value": "¿Hmm? Me parece que hay un agujero justo donde te has sentado..."
+        },
+        {
+            "key": "201",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "202",
+            "value": "¡Agh! ¡Están saliendo serpientes!"
+        },
+        {
+            "key": "203",
+            "value": "¡¿Cómo es que tienen la guarida en un sitio así?!"
+        },
+        {
+            "key": "204",
+            "value": "¡Cálmate! ¡Si no las provocas, nos dejarán en paz!"
+        },
+        {
+            "key": "205",
+            "value": "¡Lucius, tienes una enroscada al pie!"
+        },
+        {
+            "key": "206",
+            "value": "¡Uah!"
+        },
+        {
+            "key": "207",
+            "value": "¡Cuidado!"
+        },
+        {
+            "key": "208",
+            "value": "Eso habrá dolido... ¿Estás bien?"
+        },
+        {
+            "key": "209",
+            "value": "Ay... Gra-gracias. Siento que hayas tenido que ayudarme."
+        },
+        {
+            "key": "210",
+            "value": "Tranquilo, ha sido mi culpa, para empezar."
+        },
+        {
+            "key": "211",
+            "value": "Veo que no solo eres capaz de salvar a chicas guapas."
+        },
+        {
+            "key": "212",
+            "value": "Hay un motivo que me lleva a ser imparcialmente simpático."
+        },
+        {
+            "key": "213",
+            "value": "Cuando Machérie vea lo amable que soy, se enamorará de mí al instante."
+        },
+        {
+            "key": "214",
+            "value": "«Ah, ¿arriesgarías tu vida por otra persona?... Oh, ¡cuánta bravura y gallardía!»"
+        },
+        {
+            "key": "215",
+            "value": "¿Eh? ¿Qué le pasa? Si hace un momento estaba bien..."
+        },
+        {
+            "key": "216",
+            "value": "Ya estamos otra vez..."
+        },
+        {
+            "key": "217",
+            "value": "«Pues claro, mi amor. Soy el caballero más galante del mundo, benevolente con todos»."
+        },
+        {
+            "key": "218",
+            "value": "«Oh, mi queridísimo Camilo. Eres sin duda un auténtico caballero, digno de ser el hombre que tome mi mano y mi corazón»."
+        },
+        {
+            "key": "219",
+            "value": "«Por fin te has dado cuenta de mis encantos»."
+        },
+        {
+            "key": "220",
+            "value": "«Sí, percibo cierto brillo heroico en ti del que Mont carece...»."
+        },
+        {
+            "key": "221",
+            "value": "«Así es, querida. Y debes permanecer junto a este brillo y olvidarte de ese demonio de rey inhumano»."
+        },
+        {
+            "key": "222",
+            "value": "«Sí... Todo lo que anhelo es estar entre tus brazos, lord Camilo, no en los de ese hombre desalmado»."
+        },
+        {
+            "key": "223",
+            "value": "«Como desees. Estos brazos serán tu escudo. Nada te hará daño mientras viva»."
+        },
+        {
+            "key": "224",
+            "value": "«Lord Camilo...»."
+        },
+        {
+            "key": "225",
+            "value": "«Mi amor...»."
+        },
+        {
+            "key": "226",
+            "value": "¡Ah...!"
+        },
+        {
+            "key": "227",
+            "value": "¿Qué? ¿Ya se ha terminado la función?"
+        },
+        {
+            "key": "228",
+            "value": "¡E-estoy ensayando! No quiero ponerme nervioso cuando a Machérie caiga rendida ante mi devoción."
+        },
+        {
+            "key": "229",
+            "value": "Lady Machérie nunca caerá rendida ante tu devoción. ¿No va siendo hora de que te des cuenta?"
+        },
+        {
+            "key": "230",
+            "value": "Oh, nunca digas nunca. Machérie y yo nos casaremos pase lo que pase. ¡Espera y verás!"
+        },
+        {
+            "key": "231",
+            "value": "Hmf... Mientras esa ilusión tuya se quede en eso, supongo que eres libre de hacer lo que quieras."
+        },
+        {
+            "key": "232",
+            "value": "Pues a mí no me disgusta esa actitud."
+        },
+        {
+            "key": "233",
+            "value": "¡Tu determinación para no rendirte nunca es realmente admirable!"
+        },
+        {
+            "key": "234",
+            "value": "Siento interrumpir, pero ¿qué vamos a hacer con las serpientes?"
+        },
+        {
+            "key": "235",
+            "value": "Ups, lo siento, Lucius. ¡Vamos a por lo que falta y terminemos con el trabajo!"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ungh!"
+        },
+        {
+            "key": "002",
+            "value": "Vater!"
+        },
+        {
+            "key": "003",
+            "value": "Was geht hier vor?! Du hattest uns versichert, dass dieser Weg frei von Monstern sei!"
+        },
+        {
+            "key": "004",
+            "value": "..."
+        },
+        {
+            "key": "005",
+            "value": "... Jetzt fällt es mir wieder ein."
+        },
+        {
+            "key": "006",
+            "value": "Minwu ... Ich habe dich tatsächlich schon einmal gesehen – und zwar auf einem Schlachtfeld."
+        },
+        {
+            "key": "007",
+            "value": "Du bist eine Weißmagierin aus Wezette. Versuch erst gar nicht, es abzustreiten."
+        },
+        {
+            "key": "008",
+            "value": "Das war ich, ja. Aber ich bin es nicht mehr."
+        },
+        {
+            "key": "009",
+            "value": "Nicht mehr? Wie meinst du das?"
+        },
+        {
+            "key": "010",
+            "value": "Ich bin in Wezette eine gesuchte Person."
+        },
+        {
+            "key": "011",
+            "value": "Warum würdest du uns dann helfen, ausgerechnet an den Ort zu gelangen, wo man dich verfolgt?"
+        },
+        {
+            "key": "012",
+            "value": "Weil der Befehl von Prinzessin Glaziela so lautete."
+        },
+        {
+            "key": "013",
+            "value": "Glaziela?!"
+        },
+        {
+            "key": "014",
+            "value": "Was zum Himmel geht in Wezette nur vor?"
+        },
+        {
+            "key": "015",
+            "value": "Kehrtmachen ist uns nicht länger möglich."
+        },
+        {
+            "key": "016",
+            "value": "Sollten wir versuchen zurückzugehen, würden wir zweifellos Muragas Schergen in die Arme laufen."
+        },
+        {
+            "key": "017",
+            "value": "Du willst doch nicht etwa sagen ..."
+        },
+        {
+            "key": "018",
+            "value": "Doch. Uns bleibt keine andere Wahl, als diesem Weg weiter zu folgen."
+        }
+    ]
+}

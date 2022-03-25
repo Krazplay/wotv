@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Reina Helena…"
+        },
+        {
+            "key": "002",
+            "value": "Sí, yo también lo he sentido."
+        },
+        {
+            "key": "003",
+            "value": "A saber cuántos monstruos hay…"
+        },
+        {
+            "key": "004",
+            "value": "Es como si supieran que tenemos los cofres y quisieran detenernos."
+        },
+        {
+            "key": "005",
+            "value": "Pero eso no va a pasar."
+        },
+        {
+            "key": "006",
+            "value": "Nos abriremos paso, aunque sea por la fuerza."
+        },
+        {
+            "key": "007",
+            "value": "Sí, majestad. Regresemos a la puerta del castillo lo antes posible."
+        }
+    ]
+}

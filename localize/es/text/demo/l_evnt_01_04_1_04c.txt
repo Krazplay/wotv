@@ -1,0 +1,312 @@
+﻿{
+    "infos": [
+        {
+            "key": "147",
+            "value": "Está demasiado tranquilo... A lo mejor los animales han sentido aproximarse a los monstruos y han huido antes de que llegaran."
+        },
+        {
+            "key": "148",
+            "value": "Debemos darnos prisa. No podemos dejar que uno solo de los aldeanos muera."
+        },
+        {
+            "key": "149",
+            "value": "¡¿...?!"
+        },
+        {
+            "key": "150",
+            "value": "¡U-una persona!"
+        },
+        {
+            "key": "151",
+            "value": "No os conozco. ¿Qué estáis haciendo aquí?"
+        },
+        {
+            "key": "152",
+            "value": "¡Na-nada malo, lo prometo! ¡No somos sospechosos en absoluto!"
+        },
+        {
+            "key": "153",
+            "value": "Vas a conseguir que parezcamos sospechosos de verdad."
+        },
+        {
+            "key": "154",
+            "value": "¡Velis, por favor, deja de actuar como si todo esto no fuera contigo y di algo!"
+        },
+        {
+            "key": "155",
+            "value": "Está bien... ¿Qué hay, chico? ¿Por casualidad no os habréis topado con una manada de monstruos?"
+        },
+        {
+            "key": "156",
+            "value": "¿Una manada de monstruos?"
+        },
+        {
+            "key": "157",
+            "value": "Sí. Uno grandote y feo acompañado de otros más pequeños. Es posible que pasaran por aquí…"
+        },
+        {
+            "key": "158",
+            "value": "¿Entonces vosotros no sois de Fennes?"
+        },
+        {
+            "key": "159",
+            "value": "¿Fennes?... Oh, ya veo. No, no. Solo somos mercenarios de paso."
+        },
+        {
+            "key": "160",
+            "value": "Estamos persiguiendo a un monstruo que se ha llevado algo muy importante para nosotros."
+        },
+        {
+            "key": "161",
+            "value": "Un monstruo que forma parte de una horda mayor."
+        },
+        {
+            "key": "162",
+            "value": "Exacto. No te habrás topado con él, ¿verdad?"
+        },
+        {
+            "key": "163",
+            "value": "Parece que nuestro objetivo es el mismo. Vamos a evacuar a los habitantes de una aldea antes de que la manada de monstruos se les eche encima."
+        },
+        {
+            "key": "164",
+            "value": "Vaya... Algo me dice que eres más que un simple común con corazón de oro…"
+        },
+        {
+            "key": "165",
+            "value": "Mis disculpas, no me he presentado. Me llamo Mont Leonis."
+        },
+        {
+            "key": "166",
+            "value": "Nuestras tropas nos han hecho llegar un informe…"
+        },
+        {
+            "key": "167",
+            "value": "... Y aquí estoy."
+        },
+        {
+            "key": "168",
+            "value": "Las vidas de los aldeanos corren peligro... Arg, creo que en parte es culpa nuestra."
+        },
+        {
+            "key": "169",
+            "value": "¿Por qué lo dices?"
+        },
+        {
+            "key": "170",
+            "value": "Bueno, eh... Velis, ¿deberíamos…?"
+        },
+        {
+            "key": "171",
+            "value": "No tenemos nada que esconder. No hará ningún daño decir la verdad."
+        },
+        {
+            "key": "172",
+            "value": "Yo acarrearé con las consecuencias. De todas formas, Thranan siempre encuentra algún motivo por el que darme un sermón, estoy acostumbrado."
+        },
+        {
+            "key": "173",
+            "value": "Gra-gracias."
+        },
+        {
+            "key": "174",
+            "value": "Bien, pues, os lo explicaré. Hemos venido a recuperar cierto cristal llamado cristal núcleo…"
+        },
+        {
+            "key": "175",
+            "value": "Así que sois Guerreros de los Cristales... Y habéis venido a este mundo en busca de otro cristal núcleo."
+        },
+        {
+            "key": "176",
+            "value": "Cristal que ya estaría en nuestras manos si un bégimo no se lo hubiera tragado."
+        },
+        {
+            "key": "177",
+            "value": "La magia del cristal núcleo le ha dado fuerza extra al monstruo, y nosotros no podíamos con él."
+        },
+        {
+            "key": "178",
+            "value": "Estábamos discutiendo qué hacer cuando nos hemos topado contigo y tus hombres."
+        },
+        {
+            "key": "179",
+            "value": "Sentimos las molestias y el haber puesto a vuestra gente en peligro."
+        },
+        {
+            "key": "180",
+            "value": "No tenéis por qué disculparos. La culpa es nuestra por haber dejado sueltos a esos monstruos tanto tiempo."
+        },
+        {
+            "key": "181",
+            "value": "Sin embargo, si lo que decís es cierto, debemos darnos prisa."
+        },
+        {
+            "key": "182",
+            "value": "Tenemos que evacuar a los aldeanos antes de que lleguen los monstruos."
+        },
+        {
+            "key": "183",
+            "value": "Os ayudaremos."
+        },
+        {
+            "key": "184",
+            "value": "Somos nosotros quienes hemos dejado escapar al monstruo... Os lo debemos a ti y las gentes de Leonis."
+        },
+        {
+            "key": "185",
+            "value": "Tenemos el deber moral de asegurarnos que personas inocentes no sufran ningún daño por nuestra causa."
+        },
+        {
+            "key": "186",
+            "value": "Además, vamos en la misma dirección y ya sabes lo que dicen: cuantos más mejor."
+        },
+        {
+            "key": "187",
+            "value": "Acepto con gusto vuestra propuesta. Yo mismo lo habría sugerido de no haber salido de vosotros primero."
+        },
+        {
+            "key": "188",
+            "value": "Lucius, Velis: prestadme vuestra fuerza para salvar a mi gente."
+        },
+        {
+            "key": "189",
+            "value": "¡Sí, señor! ¡Será un honor luchar con vosotros!"
+        },
+        {
+            "key": "190",
+            "value": "Bueno, mientras solo esperéis de mí que ayude a igualar las fuerzas un poco, estupendo."
+        },
+        {
+            "key": "191",
+            "value": "Creo que ha quedado claro que eres más que un guerrero perezoso. Contamos contigo."
+        },
+        {
+            "key": "192",
+            "value": "¡El novato me subestima! No sé cómo, pero el día está yendo a peor."
+        },
+        {
+            "key": "193",
+            "value": "Démonos prisa."
+        },
+        {
+            "key": "194",
+            "value": "¡Sí!"
+        },
+        {
+            "key": "195",
+            "value": "Esto... Lord Mont, eres un príncipe, ¿verdad?"
+        },
+        {
+            "key": "196",
+            "value": "Sí, aunque a veces no me siento como uno. Padre se enfada conmigo constantemente por ser débil e ingenuo."
+        },
+        {
+            "key": "197",
+            "value": "Bueno, pero eso significa que algún día serás rey, ¿no?"
+        },
+        {
+            "key": "198",
+            "value": "No estoy seguro... Mi hermano menor es el heredero idóneo al trono, la verdad."
+        },
+        {
+            "key": "199",
+            "value": "Pero llegue a convertirme en rey o no, mi sueño es construir puentes entre naciones y hacer que el reino de Leonis sea una nación amiga de todas."
+        },
+        {
+            "key": "200",
+            "value": "Un reino que se alce junto al resto de casas. No quiero tenerlas al otro lado de un campo de batalla."
+        },
+        {
+            "key": "201",
+            "value": "Un país que no hiera a nadie... Creo que es un sueño maravilloso."
+        },
+        {
+            "key": "202",
+            "value": "¿En serio? La mayoría no me toma en serio o me llama ingenuo… Cuando no están muy ocupados riéndose de mí, claro."
+        },
+        {
+            "key": "203",
+            "value": "Construir un mundo sin guerras, donde todo el mundo pueda vivir en paz… No se me ocurre nada mejor."
+        },
+        {
+            "key": "204",
+            "value": "Es alentador oírte decir eso, Lucius, aunque no muchos comparten tu opinión."
+        },
+        {
+            "key": "205",
+            "value": "En mi último viaje llegué a un país dominado por la tiranía, y comprobé con mis propios ojos lo que eso significaba."
+        },
+        {
+            "key": "206",
+            "value": "Sus habitantes no tenían esperanzas; habían perdido el espíritu y, por culpa de la guerra, no tenían ningún sitio al que huir."
+        },
+        {
+            "key": "207",
+            "value": "Pero no tiene por qué ser así, sobre todo si alguien como tú lleva la corona."
+        },
+        {
+            "key": "208",
+            "value": "Me gustaría ver más naciones como la que sueñas con construir."
+        },
+        {
+            "key": "209",
+            "value": "Entonces haré todo lo que esté en mi mano por crearla."
+        },
+        {
+            "key": "210",
+            "value": "No deberías dudar de ti mismo. Sobre lo de ser rey, quiero decir."
+        },
+        {
+            "key": "211",
+            "value": "He aprendido que los más fuertes son aquellos que se preocupan por la felicidad de los demás."
+        },
+        {
+            "key": "212",
+            "value": "Te lo agradezco. El conocernos ha debido de ser cosa del destino."
+        },
+        {
+            "key": "213",
+            "value": "S-siento andarme sin rodeos de esta forma. No debería hablar con tanta confianza con alguien de la realeza, especialmente si estoy en sus tierras."
+        },
+        {
+            "key": "214",
+            "value": "Es que me he dado cuenta de que veíamos el mundo de la misma forma y no he podido contenerme…"
+        },
+        {
+            "key": "215",
+            "value": "No tienes por qué disculparte."
+        },
+        {
+            "key": "216",
+            "value": "No te has burlado de mí. Quizá sí que vemos las cosas de la misma forma."
+        },
+        {
+            "key": "217",
+            "value": "Gracias, Mont."
+        },
+        {
+            "key": "218",
+            "value": "¡Traigo noticias, milord!"
+        },
+        {
+            "key": "219",
+            "value": "¡La manada de monstruos está en los bosques cercanos a la aldea! ¡Va directa hacia ella y es cada vez más grande!"
+        },
+        {
+            "key": "220",
+            "value": "Se mueven más deprisa de lo que me temía. Di a los exploradores que no la pierdan de vista."
+        },
+        {
+            "key": "221",
+            "value": "¡Sí, milord!"
+        },
+        {
+            "key": "222",
+            "value": "Démonos prisa, Lucius. Debemos llegar a la aldea antes de que sea demasiado tarde."
+        },
+        {
+            "key": "223",
+            "value": "¡Entendido! ¡No podemos dejar que los aldeanos sufran ningún daño!"
+        }
+    ]
+}

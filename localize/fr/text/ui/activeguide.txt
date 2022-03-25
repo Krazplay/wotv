@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "AUTOLAP_TITLE",
+            "value": "À propos du mode « Boucle »"
+        },
+        {
+            "key": "AUTOLAP_DESC",
+            "value": "Cette fonctionnalité sera disponible une fois que vous aurez terminé la quête."
+        },
+        {
+            "key": "ARTSELL_TITLE",
+            "value": "Vente impossible"
+        },
+        {
+            "key": "ARTSELL_FAVORITE_DESC",
+            "value": "Enregistré comme favori."
+        },
+        {
+            "key": "ARTSELL_EQUIP_DESC ",
+            "value": "Déjà équipé(e) sur une unité."
+        },
+        {
+            "key": "ARTSELL_NOT_DESC",
+            "value": "Vente impossible."
+        }
+    ]
+}

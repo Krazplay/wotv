@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hm ?"
+        },
+        {
+            "key": "002",
+            "value": "Quelque chose ne va pas ?"
+        },
+        {
+            "key": "003",
+            "value": "Chut. Quelqu'un approche."
+        },
+        {
+            "key": "004",
+            "value": "Je n'entends rien..."
+        },
+        {
+            "key": "005",
+            "value": "S'ils nous voulaient du bien, ils ne prendraient pas la peine de se faire discrets..."
+        },
+        {
+            "key": "006",
+            "value": "C'est peut-être encore des soldats de Fennes. Ou même Galzahk."
+        },
+        {
+            "key": "007",
+            "value": "Qui que ce soit, on ne fait pas de quartier, c'est d'accord."
+        },
+        {
+            "key": "008",
+            "value": "C'est d'accord."
+        }
+    ]
+}

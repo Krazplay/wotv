@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Os apetece hablar de los <color=#0000ff>combos elementales</color>?"
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Ya hemos hablado de atacar al enemigo con el mismo tipo de ataque <color=#0000ff>de forma consecutiva</color> para crear un <color=#0000ff>combo</color>, así que podría decirse que esta de aquí es su <color=#0000ff>versión elemental</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Si atacáis a un enemigo con <color=#0000ff>habilidades</color> del mismo <color=#0000ff>elemento</color> de forma consecutiva, crearéis un combo elemental y, por tanto, <color=#0000ff>aumentaréis</color> la cantidad de daño que le infligís al enemigo."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Ahí tenemos un grupo de unidades de <color=#0000ff>tierra</color>. Vamos, atacad al enemigo con <color=#0000ff>habilidades</color> de tierra."
+        },
+        {
+            "key": "006",
+            "value": "Si al enemigo <color=#0000ff>se le permite actuar</color> o <color=#0000ff>lo atacáis con un elemento diferente</color>, <color=#0000ff>se romperá</color> el combo elemental."
+        },
+        {
+            "key": "007",
+            "value": "Además, <color=#0000ff>no podréis crear</color> un combo elemental con <color=#0000ff>ataques normales</color>, porque no cuentan con <color=#0000ff>ningún atributo elemental</color>, así que tenedlo en cuenta."
+        },
+        {
+            "key": "009",
+            "value": "¡Espléndido! ¡Habéis acabado con los enemigos!"
+        },
+        {
+            "key": "010",
+            "value": "No os olvidéis de que los efectos de los combos elementales y los combos estándar se pueden <color=#0000ff>combinar</color>."
+        },
+        {
+            "key": "011",
+            "value": "Por eso mismo, las unidades con <color=#0000ff>el mismo elemento y tipo de ataque</color>, como es el caso de lord Mont y Beilo, son capaces de activar <color=#0000ff>ambos tipos de combos</color>."
+        },
+        {
+            "key": "012",
+            "value": "Si estudiáis meticulosamente las resistencias del enemigo y buscáis el momento adecuado para crear combos, os convertiréis rápidamente en todo un señor de la guerra."
+        }
+    ]
+}

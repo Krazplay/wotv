@@ -1,0 +1,164 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Dis, frérot... c'est quand qu'on arrive ?"
+        },
+        {
+            "key": "002",
+            "value": "Bientôt. La forteresse se trouve juste derrière cette forêt."
+        },
+        {
+            "key": "003",
+            "value": "Franchement... Elle croît que c'est une balade de santé ou quoi ?"
+        },
+        {
+            "key": "004",
+            "value": "Pardon, tu disais ?"
+        },
+        {
+            "key": "005",
+            "value": "Quoi ? Rien, je me parlais à moi-même."
+        },
+        {
+            "key": "006",
+            "value": "... !"
+        },
+        {
+            "key": "007",
+            "value": "Silence. Je sens l'odeur du sang..."
+        },
+        {
+            "key": "008",
+            "value": "Oh..."
+        },
+        {
+            "key": "009",
+            "value": "Attention, frérot !"
+        },
+        {
+            "key": "010",
+            "value": "Il respire encore. Allez mon brave, ouvre les yeux !"
+        },
+        {
+            "key": "011",
+            "value": "Oh... Seigneur Adelard, vous êtes venu..."
+        },
+        {
+            "key": "012",
+            "value": "Que s'est-il passé ?"
+        },
+        {
+            "key": "013",
+            "value": "Faites attention à elle... à Lu'Cia..."
+        },
+        {
+            "key": "014",
+            "value": "Lu'Cia ? Je vois..."
+        },
+        {
+            "key": "015",
+            "value": "Qui c'est, cette fille ?"
+        },
+        {
+            "key": "016",
+            "value": "La commandante de la troisième division de Rundall, « Calorum ». J'ai entendu dire qu'elle était excellente tireuse."
+        },
+        {
+            "key": "017",
+            "value": "Hm..."
+        },
+        {
+            "key": "018",
+            "value": "Tes blessures n'ont pas l'air profondes, c'est une chance."
+        },
+        {
+            "key": "019",
+            "value": "Oui... Je ne sais pas pourquoi seule mon épaule a été touchée."
+        },
+        {
+            "key": "020",
+            "value": "Et toi ?"
+        },
+        {
+            "key": "021",
+            "value": "Moi aussi, j'ai été touché à l'épaule droite... la blessure est superficielle."
+        },
+        {
+            "key": "022",
+            "value": "Cette Lu'Cia n'est peut-être pas aussi douée qu'on le dit..."
+        },
+        {
+            "key": "023",
+            "value": "Hm..."
+        },
+        {
+            "key": "024",
+            "value": "Alors, frérot ? Qu'est-ce qu'on fait ?"
+        },
+        {
+            "key": "025",
+            "value": "Nous allons attaquer, avant même qu'ils s'aperçoivent de notre présence."
+        },
+        {
+            "key": "026",
+            "value": "Quoi ? Vous plaisantez !"
+        },
+        {
+            "key": "027",
+            "value": "Que se passe-t-il ? Vous avez peur ?"
+        },
+        {
+            "key": "028",
+            "value": "Nous ? Avoir peur ?!"
+        },
+        {
+            "key": "029",
+            "value": "Ils s'en sont pris à vos camarades. Pour l'heure, mettez votre rancœur à mon égard de côté."
+        },
+        {
+            "key": "030",
+            "value": "..."
+        },
+        {
+            "key": "031",
+            "value": "Quand nous aurons repris la forteresse et sauvé les autres... Vous pourrez agir comme bon vous semble."
+        },
+        {
+            "key": "032",
+            "value": "On est bien d'accord sur ce point ?"
+        },
+        {
+            "key": "033",
+            "value": "Oui."
+        },
+        {
+            "key": "034",
+            "value": "À toutes les unités, en avant !"
+        },
+        {
+            "key": "035",
+            "value": "Attendez, quoi ? Quand vous dites « toutes les unités »... la vôtre aussi ? Vous combattez avec nous ?"
+        },
+        {
+            "key": "036",
+            "value": "Ça me semble évident."
+        },
+        {
+            "key": "037",
+            "value": "Pourquoi ? Glahz avait-il l'habitude de donner des ordres depuis l'arrière ?"
+        },
+        {
+            "key": "038",
+            "value": "..."
+        },
+        {
+            "key": "039",
+            "value": "Allez, en marche !"
+        },
+        {
+            "key": "040",
+            "value": "La dernière chose que verront les forces de Rundall, ce sont nos épées qui émergent de la forêt !"
+        }
+    ]
+}

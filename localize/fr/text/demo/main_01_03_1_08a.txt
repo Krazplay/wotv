@@ -1,0 +1,152 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "J'ai parlé au chef du village. Il m'a assuré que nous pouvions rester aussi longtemps que nous le désirions."
+        },
+        {
+            "key": "002",
+            "value": "Je vois. Bien, partons."
+        },
+        {
+            "key": "003",
+            "value": "A-attendez s'il vous plaît. Si nous n'y restons pas, pourquoi être venus dans ce village ?"
+        },
+        {
+            "key": "004",
+            "value": "Tu es sourd ? Nous quittons le village."
+        },
+        {
+            "key": "005",
+            "value": "Qu'a donc en tête le roi Eldo ?"
+        },
+        {
+            "key": "006",
+            "value": "L'ennemi est très certainement au courant que nous sommes entrés dans ce village."
+        },
+        {
+            "key": "007",
+            "value": "Et si c'est le cas, ils sont sûrement en train de préparer leur attaque."
+        },
+        {
+            "key": "008",
+            "value": "Vous n'êtes pas sérieuse… Vous voulez dire que le roi Eldo sacrifie ces villageois uniquement pour nous faire gagner un peu de temps ?"
+        },
+        {
+            "key": "009",
+            "value": "Je ne peux pas le laisser faire une telle chose... !"
+        },
+        {
+            "key": "010",
+            "value": "Je sais ce que vous ressentez, mais…"
+        },
+        {
+            "key": "011",
+            "value": "... Mais vous ne pouvez pas vous opposer à votre père ?"
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "Dans ce cas, je vais le faire à votre place."
+        },
+        {
+            "key": "014",
+            "value": "C'est de la folie !"
+        },
+        {
+            "key": "015",
+            "value": "Je le sais, mais ma vie permettra sûrement d'en sauver d'autres…"
+        },
+        {
+            "key": "016",
+            "value": "Prince Mont… N'y a-t-il aucun moyen de persuader votre père ?"
+        },
+        {
+            "key": "017",
+            "value": "..."
+        },
+        {
+            "key": "018",
+            "value": "Je… Je vais y aller."
+        },
+        {
+            "key": "019",
+            "value": "Quoi ? N-non, vous ne pouvez pas faire ça !"
+        },
+        {
+            "key": "020",
+            "value": "Schuzelt m'a ouvert les yeux."
+        },
+        {
+            "key": "021",
+            "value": "Autrefois, les habitants de ce village m'ont sauvé la vie."
+        },
+        {
+            "key": "022",
+            "value": "..."
+        },
+        {
+            "key": "023",
+            "value": "J'avais alors été envoyé à Wezett en tant que messager."
+        },
+        {
+            "key": "024",
+            "value": "Avec mes hommes, nous nous sommes réfugiés dans ce village pour échapper à un groupe d'assassins."
+        },
+        {
+            "key": "025",
+            "value": "Je ne serais plus en vie sans l'aide de ces villageois."
+        },
+        {
+            "key": "026",
+            "value": "C'est pour cela…"
+        },
+        {
+            "key": "027",
+            "value": "Je vais vous accompagner."
+        },
+        {
+            "key": "028",
+            "value": "Non, Schuzelt. Vos blessures ne sont pas encore guéries."
+        },
+        {
+            "key": "029",
+            "value": "Vous parlez de ces égratignures ?"
+        },
+        {
+            "key": "030",
+            "value": "Non. Vous restez ici."
+        },
+        {
+            "key": "031",
+            "value": "J'irai à votre place."
+        },
+        {
+            "key": "032",
+            "value": "Je te remercie Lilyth."
+        },
+        {
+            "key": "033",
+            "value": "Alors, allons-y avant que le roi Eldo ne nous trouve…"
+        },
+        {
+            "key": "034",
+            "value": "Que faites-vous ?"
+        },
+        {
+            "key": "035",
+            "value": "Où sont Mont et Lilyth ?"
+        },
+        {
+            "key": "036",
+            "value": "Ils ont quitté le village afin d'attaquer nos poursuivants."
+        },
+        {
+            "key": "037",
+            "value": "Les idiots…"
+        }
+    ]
+}

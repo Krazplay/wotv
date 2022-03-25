@@ -1,0 +1,444 @@
+﻿{
+    "infos": [
+        {
+            "key": "268",
+            "value": "Wir haben das Miasma des Kristalls hinter uns gelassen."
+        },
+        {
+            "key": "269",
+            "value": "Ihr könnt die Schutzanzüge ablegen."
+        },
+        {
+            "key": "270",
+            "value": "Gut, brechen wir auf zur Kristallenen Stätte."
+        },
+        {
+            "key": "271",
+            "value": "Willst du dein Heimatland nicht verlassen?"
+        },
+        {
+            "key": "272",
+            "value": "..."
+        },
+        {
+            "key": "273",
+            "value": "Hast du nicht gehört, was die Herrin gesagt hat? Bewegung!"
+        },
+        {
+            "key": "274",
+            "value": "Urk ..."
+        },
+        {
+            "key": "275",
+            "value": "Wer war das?!"
+        },
+        {
+            "key": "276",
+            "value": "Und ihr seid ...?"
+        },
+        {
+            "key": "277",
+            "value": "Ich bin Rafalle. Und das ist Elisa."
+        },
+        {
+            "key": "278",
+            "value": "Auch bekannt als ... „Die Rosendornen“."
+        },
+        {
+            "key": "279",
+            "value": "„Die Rosendornen“ ..."
+        },
+        {
+            "key": "280",
+            "value": "Seid ihr euch im Klaren darüber, mit wem ihr euch angelegt habt?"
+        },
+        {
+            "key": "281",
+            "value": "Aber na klar."
+        },
+        {
+            "key": "282",
+            "value": "Wir waren uns sicher, dass ihr hier früher oder später auftauchen würdet."
+        },
+        {
+            "key": "283",
+            "value": "Pah. Und was wollt ihr zwei allein gegen uns ausrichten?"
+        },
+        {
+            "key": "284",
+            "value": "... Sprach der Einfaltspinsel, bevor er den Löffel abgab."
+        },
+        {
+            "key": "285",
+            "value": "Was?!"
+        },
+        {
+            "key": "286",
+            "value": "Wir sind bei Weitem nicht so alleine, wie du denkst."
+        },
+        {
+            "key": "287",
+            "value": "Styr. Auf wessen Seite wirst du kämpfen?"
+        },
+        {
+            "key": "288",
+            "value": "Auf gar keiner."
+        },
+        {
+            "key": "289",
+            "value": "..."
+        },
+        {
+            "key": "290",
+            "value": "Ich schulde Sadali nichts und habe ihm auch nie die Treue geschworen."
+        },
+        {
+            "key": "291",
+            "value": "Verräter!"
+        },
+        {
+            "key": "292",
+            "value": "Überleg dir das gut."
+        },
+        {
+            "key": "293",
+            "value": "Ich werde sehr ungehalten, wenn jemand das Schwert gegen mich erhebt."
+        },
+        {
+            "key": "294",
+            "value": "Diese Leute stammen aus Leonis, nicht wahr?"
+        },
+        {
+            "key": "295",
+            "value": "Ich habe meinem Heimatland widersagt. Das Volk von Leonis kümmert mich nicht mehr."
+        },
+        {
+            "key": "296",
+            "value": "Und außerdem ..."
+        },
+        {
+            "key": "297",
+            "value": "Ich glaube kaum, dass sie meine Hilfe brauchen werden."
+        },
+        {
+            "key": "298",
+            "value": "Tjaha ... Das werden wir ja gleich sehen!"
+        },
+        {
+            "key": "299",
+            "value": "Lilli ..."
+        },
+        {
+            "key": "300",
+            "value": "...!"
+        },
+        {
+            "key": "301",
+            "value": "Nein ..."
+        },
+        {
+            "key": "302",
+            "value": "Ich glaube, wir haben sie überrascht."
+        },
+        {
+            "key": "303",
+            "value": "Ja, sieht man ganz deutlich an ihren käsigen Visagen!"
+        },
+        {
+            "key": "304",
+            "value": "Wir haben euer kleines Versteck im Auge behalten."
+        },
+        {
+            "key": "305",
+            "value": "Ausgerechnet das kleinste Würmchen musste die Stellung halten, während ihr weg wart, hä?"
+        },
+        {
+            "key": "306",
+            "value": "Sie hat wohl nicht vergessen, wie wir vor ihren Augen ihre Freunde abgeschlachtet haben."
+        },
+        {
+            "key": "307",
+            "value": "Saß einfach nur in der Ecke und hat geschlottert. Keinen Mucks hat sie rausgebracht."
+        },
+        {
+            "key": "308",
+            "value": "Langsam, langsam."
+        },
+        {
+            "key": "309",
+            "value": "Wenn ihr nicht tut, was wir sagen, dann wisst ihr ja, was passiert, oder?"
+        },
+        {
+            "key": "310",
+            "value": "Wir stecken in der Klemme ..."
+        },
+        {
+            "key": "311",
+            "value": "Was machen wir jetzt ...?"
+        },
+        {
+            "key": "312",
+            "value": "Ich bin kein Würmchen ..."
+        },
+        {
+            "key": "313",
+            "value": "Wie?!"
+        },
+        {
+            "key": "314",
+            "value": "Ich habe einen Namen, und zwar einen sehr tollen. Ich heiße Lilli."
+        },
+        {
+            "key": "315",
+            "value": "Wa... Hä?"
+        },
+        {
+            "key": "316",
+            "value": "Ich war innerlich fast schon tot ..."
+        },
+        {
+            "key": "317",
+            "value": "Aber sterben, das wollte ich nicht. Ich hätte alles getan, um zu überleben."
+        },
+        {
+            "key": "318",
+            "value": "Aber nachdem Elisa mich gerettet hatte, habe ich mir plötzlich den Tod gewünscht. "
+        },
+        {
+            "key": "319",
+            "value": "Ich hab mich schuldig gefühlt, weil ich die Einzige war, die überlebt hat."
+        },
+        {
+            "key": "320",
+            "value": "Hör auf damit. Du darfst dich deswegen nicht fertigmachen!"
+        },
+        {
+            "key": "321",
+            "value": "Ich dachte sogar, dass ich es damals am allermeisten verdient gehabt hätte, zu sterben."
+        },
+        {
+            "key": "322",
+            "value": "Ich habe jeden Tag geweint. Ich habe geweint und geweint, aber meine Tränen sind einfach nie versiegt."
+        },
+        {
+            "key": "323",
+            "value": "Aber eines Tages ..."
+        },
+        {
+            "key": "324",
+            "value": "... da hat es plötzlich klick gemacht, und ich wusste, was ich zu tun hatte."
+        },
+        {
+            "key": "325",
+            "value": "Mir war plötzlich klar, dass ich überlebt habe, um Rache für Vallaid und Sosha zu nehmen."
+        },
+        {
+            "key": "326",
+            "value": "Lilli ..."
+        },
+        {
+            "key": "327",
+            "value": "Was, ausgerechnet du Würmchen willst Rache nehmen?"
+        },
+        {
+            "key": "328",
+            "value": "Hehe, dass ich nicht lache."
+        },
+        {
+            "key": "329",
+            "value": "Nach komm schon, du Racheengel."
+        },
+        {
+            "key": "330",
+            "value": "Nimm Rache, wenn du kannst."
+        },
+        {
+            "key": "331",
+            "value": "Na los, mach uns kalt! Worauf wartest du?!"
+        },
+        {
+            "key": "332",
+            "value": "Ich muss euch ja nicht unbedingt eigenhändig umbringen."
+        },
+        {
+            "key": "333",
+            "value": "Was soll das heißen?"
+        },
+        {
+            "key": "334",
+            "value": "Auf dem Weg hierher habt ihr zwei euch ja fröhlich unterhalten, nicht wahr? Weil ihr dachtet, dass ich bewusstlos war."
+        },
+        {
+            "key": "335",
+            "value": "Äh ... F-Fröhlich unterhalten ...?"
+        },
+        {
+            "key": "336",
+            "value": "D-Die war gar nicht wirklich bewusstlos ...?"
+        },
+        {
+            "key": "337",
+            "value": "Was soll ich sagen, mir ist auf die Schnelle nichts Besseres eingefallen ..."
+        },
+        {
+            "key": "338",
+            "value": "Sei ja still! Wehe du plauderst irgendwas aus!"
+        },
+        {
+            "key": "339",
+            "value": "Mach sie einfach alle! Bevor Sie hier irgendwelche Lügen über uns erzählt!"
+        },
+        {
+            "key": "340",
+            "value": "Lasst das."
+        },
+        {
+            "key": "341",
+            "value": "Hä?!"
+        },
+        {
+            "key": "342",
+            "value": "Warum denn?"
+        },
+        {
+            "key": "343",
+            "value": "Weil ich plötzlich neugierig geworden bin."
+        },
+        {
+            "key": "344",
+            "value": "Grk ..."
+        },
+        {
+            "key": "345",
+            "value": "Grrmm..."
+        },
+        {
+            "key": "346",
+            "value": "Sprich, Maid."
+        },
+        {
+            "key": "347",
+            "value": "Es ging um Schloss Anvil. Die Relikte, die ihr uns gestohlen habt ... Eins davon habt ihr für euch behalten, nicht wahr?"
+        },
+        {
+            "key": "348",
+            "value": "Ähm ..."
+        },
+        {
+            "key": "349",
+            "value": "Wi-Wi-Wir haben nicht die geringste Ahnung, was du meinst!"
+        },
+        {
+            "key": "350",
+            "value": "Faszinierend. Das würde ich gerne ganz genau wissen."
+        },
+        {
+            "key": "351",
+            "value": "Das, äh ... Das ist eine längere Geschichte ..."
+        },
+        {
+            "key": "352",
+            "value": "Sie wollen Sadali verraten!"
+        },
+        {
+            "key": "353",
+            "value": "Moment, das haben wir doch gar nicht gesagt, oder, Bruder?"
+        },
+        {
+            "key": "354",
+            "value": "Darüber reden wir doch nur, wenn wir ganz alleine sind!"
+        },
+        {
+            "key": "355",
+            "value": "Bruder ..."
+        },
+        {
+            "key": "356",
+            "value": "Ach du Scheiße ...!"
+        },
+        {
+            "key": "357",
+            "value": "Dorando, Garkas."
+        },
+        {
+            "key": "358",
+            "value": "Über euer Schicksal werde ich entscheiden, wenn wir wieder zurück in der Stätte sind."
+        },
+        {
+            "key": "359",
+            "value": "Verschwörung gegen euren Herrn Sadali, das ist eine Sünde, die nach einer ... besonderen Strafe verlangt."
+        },
+        {
+            "key": "360",
+            "value": "Wa-Was machen wir denn jetzt, Bruder?"
+        },
+        {
+            "key": "361",
+            "value": "Was sollen wir schon machen? In der Stätte wartet garantiert das Schafott auf uns."
+        },
+        {
+            "key": "362",
+            "value": "D-Du meinst, die wollen uns hinrichten?!"
+        },
+        {
+            "key": "363",
+            "value": "Da müssen wir wohl dafür sorgen, dass niemand von der Sache erfährt ..."
+        },
+        {
+            "key": "364",
+            "value": "U-Und wie soll das gehen?"
+        },
+        {
+            "key": "365",
+            "value": "„Wispern“ hat keine Chance gegen die, wenn wir ihr nicht helfen, oder?"
+        },
+        {
+            "key": "366",
+            "value": "Weißt du was, ich glaube, du hast recht. Sie hat ja nur eine Handvoll billiger Fußsoldaten dabei."
+        },
+        {
+            "key": "367",
+            "value": "Dann wissen wir ja, was wir zu tun haben ..."
+        },
+        {
+            "key": "368",
+            "value": "Lilli, ein Glück, dass dir nichts passiert ist."
+        },
+        {
+            "key": "369",
+            "value": "Als ich dich bei diesen Kerlen gesehen habe, dachte ich schon, das war’s jetzt für uns."
+        },
+        {
+            "key": "370",
+            "value": "Tut mir leid, dass ich euch Sorgen bereitet habe ..."
+        },
+        {
+            "key": "371",
+            "value": "Ach was, das Ganze hat sich doch als einmalige Gelegenheit für uns entpuppt."
+        },
+        {
+            "key": "372",
+            "value": "Genau. Wir sollten uns bei dir bedanken."
+        },
+        {
+            "key": "373",
+            "value": "Hehehe."
+        },
+        {
+            "key": "374",
+            "value": "So, dann wollen wir mal."
+        },
+        {
+            "key": "375",
+            "value": "Wenn wir „Wispern“ zur Strecke bringen, ist das sicher ein schwerer Schlag für die Stätte."
+        },
+        {
+            "key": "376",
+            "value": "Und das traut ihr euch zu?"
+        },
+        {
+            "key": "377",
+            "value": "Ohne mit der Wimper zu zucken!"
+        }
+    ]
+}

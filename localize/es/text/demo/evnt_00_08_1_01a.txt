@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Ayudadnos, por favor!"
+        },
+        {
+            "key": "002",
+            "value": "Vosotros... sois de Yezagh, ¿no es así?"
+        },
+        {
+            "key": "003",
+            "value": "..."
+        },
+        {
+            "key": "004",
+            "value": "Puede que seamos la clase baja de nuestra sociedad..."
+        },
+        {
+            "key": "005",
+            "value": "¡Pero aun así estamos por encima de animales como vosotros!"
+        },
+        {
+            "key": "006",
+            "value": "Nosotros poseemos dignidad y derechos como humanos que somos."
+        },
+        {
+            "key": "007",
+            "value": "¿Pero vosotros? No sois más que ganado. ¡Animales bajo piel humana!"
+        },
+        {
+            "key": "008",
+            "value": "¡Te equivocas!"
+        },
+        {
+            "key": "009",
+            "value": "¿Que vosotros estáis por encima de nosotros? ¿Quién lo dice?"
+        },
+        {
+            "key": "010",
+            "value": "Todo el mundo lo sabe. Desde siempre."
+        },
+        {
+            "key": "011",
+            "value": "Tch... Nos han alcanzado."
+        },
+        {
+            "key": "012",
+            "value": "Je, no pensaríais que os dejaría escapar, ¿no?"
+        },
+        {
+            "key": "013",
+            "value": "Creo que es buen momento para calmarnos."
+        },
+        {
+            "key": "014",
+            "value": "¿Y tú quién eres?"
+        },
+        {
+            "key": "015",
+            "value": "Me llamo Galzak."
+        },
+        {
+            "key": "016",
+            "value": "¿El líder del gremio de mercaderes de armas? ¿Ese mismo Galzak?"
+        },
+        {
+            "key": "017",
+            "value": "¿Estos dos son de Yezagh, eh? ¡Excelente! Creo que me serían de mucha utilidad en mi gremio."
+        },
+        {
+            "key": "018",
+            "value": "Eh..."
+        },
+        {
+            "key": "019",
+            "value": "¡Ten cuidado con lo que dices!"
+        },
+        {
+            "key": "020",
+            "value": "Ambos son importantes posesiones de su fiereza, el rey Muraga."
+        },
+        {
+            "key": "021",
+            "value": "Oh, ¿en serio?"
+        },
+        {
+            "key": "022",
+            "value": "Qué curioso, porque no parece que los estéis tratando con mucho cuidado..."
+        },
+        {
+            "key": "023",
+            "value": "G-grrr..."
+        },
+        {
+            "key": "024",
+            "value": "¿Por qué no llegamos a un acuerdo como caballeros que somos?"
+        },
+        {
+            "key": "025",
+            "value": "¿Un acuerdo?..."
+        },
+        {
+            "key": "026",
+            "value": "Os los compro."
+        },
+        {
+            "key": "027",
+            "value": "Ni lo sueñes."
+        },
+        {
+            "key": "028",
+            "value": "Eh... ¿En serio? Entonces voy a pasarlo mal intentando mantener la boca cerrada."
+        },
+        {
+            "key": "029",
+            "value": "¡¿So-sobre qué?!"
+        },
+        {
+            "key": "030",
+            "value": "Sobre por qué Fennes se está apresurando en extraer los cristales. La guerra es inminente..., ¿no es así?"
+        },
+        {
+            "key": "031",
+            "value": "..."
+        },
+        {
+            "key": "032",
+            "value": "Además, hay otro curioso rumor que me ha llegado."
+        },
+        {
+            "key": "033",
+            "value": "Sobre una chica de estos lares que va a contraer matrimonio con cierto príncipe."
+        },
+        {
+            "key": "034",
+            "value": "Si hubiese algún país interesado en comprarme alguno de estos dos rumores por un buen precio..."
+        },
+        {
+            "key": "035",
+            "value": "Atrévete y prepárate para sufrir nuestra ira..."
+        },
+        {
+            "key": "036",
+            "value": "De ahí mi deseo... de realizar el acuerdo mencionado."
+        },
+        {
+            "key": "037",
+            "value": "¿Qué garantías tenemos de que mantendrás tu boca cerrada?"
+        },
+        {
+            "key": "038",
+            "value": "Nosotros, los del gremio de mercaderes de armas, somos las personas en las que más confianza se puede depositar."
+        },
+        {
+            "key": "039",
+            "value": "Si perdemos esa confianza, lo mismo sucede con los clientes."
+        },
+        {
+            "key": "040",
+            "value": "De acuerdo..."
+        },
+        {
+            "key": "041",
+            "value": "Un momento."
+        },
+        {
+            "key": "042",
+            "value": "... ¿Alguna objeción?"
+        },
+        {
+            "key": "043",
+            "value": "¿Quién dice que podéis decidir sobre nuestras vidas?"
+        },
+        {
+            "key": "044",
+            "value": "Por todos los dioses... Ahora que habíamos llegado a un acuerdo."
+        },
+        {
+            "key": "045",
+            "value": "Debéis considerar vuestra posición tal como están las cosas."
+        },
+        {
+            "key": "046",
+            "value": "Os quedáis aquí de por vida como animales, o trabajáis para mí en el gremio de mercaderes de armas."
+        },
+        {
+            "key": "047",
+            "value": "No tenéis más opciones... ¿Lo entendéis?"
+        },
+        {
+            "key": "048",
+            "value": "Déjate de palabrerías."
+        },
+        {
+            "key": "049",
+            "value": "No eres diferente. Tu objetivo es Velne también, ¿verdad?"
+        },
+        {
+            "key": "050",
+            "value": "Te refieres a la chica... Por supuesto, creo que es una buena adquisición."
+        },
+        {
+            "key": "051",
+            "value": "Su belleza será su arma. Me imagino que se convertirá en una mercader de armas popular."
+        },
+        {
+            "key": "052",
+            "value": "Lo imaginaba. Eres igual que estas ratas..."
+        },
+        {
+            "key": "053",
+            "value": "Pero aun así no tenéis más opciones..."
+        },
+        {
+            "key": "054",
+            "value": "Te equivocas. ¡Ahora!"
+        },
+        {
+            "key": "055",
+            "value": "¡Eh! ¡Eh...!"
+        },
+        {
+            "key": "056",
+            "value": "¡Necios insolentes! ¡No penséis que podréis escapar de nosotros!"
+        },
+        {
+            "key": "057",
+            "value": "Hmmm... Menudo caos..."
+        },
+        {
+            "key": "058",
+            "value": "Encima que les estaba dando la oportunidad de salir de esta mina para siempre..."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh..."
+        },
+        {
+            "key": "002",
+            "value": "Vous n'imaginez tout de même pas qu'il suffit de me tuer pour vous accaparer la guilde ?"
+        },
+        {
+            "key": "003",
+            "value": "Tu fais allusion à tes cinq piliers, n'est-ce pas ?"
+        },
+        {
+            "key": "004",
+            "value": "Ne me dites pas que..."
+        },
+        {
+            "key": "005",
+            "value": "Si. Malheureusement pour toi, ils se sont tous ralliés à la position de l'Église."
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Tss. Encore une fois, Sadali obtient exactement ce qu'il veut..."
+        },
+        {
+            "key": "008",
+            "value": "Allez, finissons-en. Fais ce que tu as à faire."
+        },
+        {
+            "key": "009",
+            "value": "Garvall... Non, attends !"
+        },
+        {
+            "key": "010",
+            "value": "Velne, laisse-moi faire ça."
+        },
+        {
+            "key": "011",
+            "value": "Nous avons une dette envers lui... Il faut la lui rendre !"
+        },
+        {
+            "key": "012",
+            "value": "Garvall..."
+        },
+        {
+            "key": "013",
+            "value": "Argh !"
+        },
+        {
+            "key": "014",
+            "value": "Garvall..."
+        },
+        {
+            "key": "015",
+            "value": "Bien. La guilde des trafiquants d'armes est désormais tienne."
+        },
+        {
+            "key": "016",
+            "value": "Velne..."
+        },
+        {
+            "key": "017",
+            "value": "Garvall... A-t-on vraiment fait le bon choix ?"
+        },
+        {
+            "key": "018",
+            "value": "Oui."
+        },
+        {
+            "key": "019",
+            "value": "Nous venons d'obtenir la liberté de tout le peuple de Yezagh."
+        },
+        {
+            "key": "020",
+            "value": "Quant à toi... nous sommes quittes."
+        },
+        {
+            "key": "021",
+            "value": "..."
+        }
+    ]
+}

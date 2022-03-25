@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "150653",
+            "value": "K-King Mont!"
+        },
+        {
+            "key": "150654",
+            "value": "Kitone!"
+        },
+        {
+            "key": "150655",
+            "value": "What's the matter? Why are you here?"
+        },
+        {
+            "key": "150656",
+            "value": "Lady Machérie is..."
+        },
+        {
+            "key": "150657",
+            "value": "Tell me what happened."
+        },
+        {
+            "key": "150658",
+            "value": "You must...make haste to Bordisse Castle. If you don't, Lady Glaciela will slay Lady Machérie..."
+        },
+        {
+            "key": "150659",
+            "value": "Understood. I will be swift."
+        }
+    ]
+}

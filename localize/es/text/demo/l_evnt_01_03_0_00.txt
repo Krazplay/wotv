@@ -1,0 +1,212 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Es hora de entrenar. ¡Juro que hoy daré mi primer golpe limpio!"
+        },
+        {
+            "key": "002",
+            "value": "Ah, Lucius, ahí estás."
+        },
+        {
+            "key": "003",
+            "value": "Eh... Hola... Thranan, ¿verdad?"
+        },
+        {
+            "key": "004",
+            "value": "Eso es. Cetia me lo ha contado todo sobre ti."
+        },
+        {
+            "key": "005",
+            "value": "Dice que Llum te las ha hecho pasar canutas."
+        },
+        {
+            "key": "006",
+            "value": "Sí, la verdad... Pero es por mi propio bien. ¡Tengo que convertirme en un auténtico Guerrero de los Cristales!"
+        },
+        {
+            "key": "007",
+            "value": "Una actitud espléndida. Y ahora, ¿te sobra algo de tiempo?"
+        },
+        {
+            "key": "008",
+            "value": "Lo siento, pero he quedado para entrenar con Llum…"
+        },
+        {
+            "key": "009",
+            "value": "Oh, eso no será un problema."
+        },
+        {
+            "key": "010",
+            "value": "P-pero le prometí que..."
+        },
+        {
+            "key": "011",
+            "value": "Hemos encontrado la ubicación del tercer cristal núcleo."
+        },
+        {
+            "key": "012",
+            "value": "Vas a acompañarme a Ardra. Juntos encontraremos el cristal núcleo y lo traeremos de vuelta."
+        },
+        {
+            "key": "013",
+            "value": "Pero antes de irnos, hay algo que debo explicarte."
+        },
+        {
+            "key": "014",
+            "value": "¿Recuerdas que el paso del tiempo aquí es diferente al del resto de los mundos?"
+        },
+        {
+            "key": "015",
+            "value": "Sí. Supongo que esa es la razón por la que podemos ir a cualquier sitio cuando queremos…"
+        },
+        {
+            "key": "016",
+            "value": "Exactamente. En esta ocasión viajaremos a un tiempo anterior al de tu última salida con Cetia."
+        },
+        {
+            "key": "017",
+            "value": "¿Así que será la misma tierra de Ardra, pero en un tiempo pasado?"
+        },
+        {
+            "key": "018",
+            "value": "Eso es. Por tanto, debes tener cuidado con lo que dices."
+        },
+        {
+            "key": "019",
+            "value": "Revelar demasiado sobre hechos futuros podría tener consecuencias inesperadas y desagradables."
+        },
+        {
+            "key": "020",
+            "value": "Oh, no sé nada de historia, así que dudo que pudiera decirle nada a nadie…"
+        },
+        {
+            "key": "021",
+            "value": "Confías en tu ignorancia, ya veo..."
+        },
+        {
+            "key": "022",
+            "value": "En cualquier caso, eso nos servirá. Vamos, partimos a Ardra de inmediato."
+        },
+        {
+            "key": "023",
+            "value": "Pero tengo que entrenar con Llum..."
+        },
+        {
+            "key": "024",
+            "value": "La Voluntad de la Luz tiene prioridad ante todo. Si eres un Guerrero de los Cristales, deberías saber eso al menos."
+        },
+        {
+            "key": "025",
+            "value": "Bueno, sí, supongo que tienes razón... Encontrar los cristales núcleo es nuestro cometido, después de todo."
+        },
+        {
+            "key": "026",
+            "value": "Bien, me alegro de que lo tengas claro. Nuestro destino es el reino de Wezette."
+        },
+        {
+            "key": "027",
+            "value": "Si no te importa que te pregunte... ¿Has informado a Llum de que nos vamos?"
+        },
+        {
+            "key": "028",
+            "value": "El tiempo es oro así que, naturalmente, no. No se lo he dicho."
+        },
+        {
+            "key": "029",
+            "value": "¡Di-disculpa, pero creo que deberíamos avisarla antes de…!"
+        },
+        {
+            "key": "030",
+            "value": "Nos vamos de inmediato. Podrás pasarle un informe con todo lujo de detalles en cuanto hayamos vuelto."
+        },
+        {
+            "key": "031",
+            "value": "Ese no es el problema..."
+        },
+        {
+            "key": "032",
+            "value": "¡Vamos, guerrero en prácticas!"
+        },
+        {
+            "key": "033",
+            "value": "¡Esperaaa! Si no asisto al entrenamiento, Llum va a…"
+        },
+        {
+            "key": "034",
+            "value": "¿Dónde está Lucius? Hoy tenemos entrenamiento."
+        },
+        {
+            "key": "035",
+            "value": "Oh, si estás buscando a Lucius, Thranan se lo ha llevado. Parece ser que han localizado el tercer cristal núcleo."
+        },
+        {
+            "key": "036",
+            "value": "¿Thranan, dices? Pobre chico... No tiene ni idea de lo que le espera."
+        },
+        {
+            "key": "037",
+            "value": "¡Ja, ja, ja! ¡Puede que tengamos nuestros momentos, pero no somos ni la mitad de tiranas que él!"
+        },
+        {
+            "key": "038",
+            "value": "¡Por fin, por fin ha llegado el día! ¡El día en que me ganaré el favor del rey Kuri!"
+        },
+        {
+            "key": "039",
+            "value": "¡Cuánto tiempo he esperado esta oportunidad!"
+        },
+        {
+            "key": "040",
+            "value": "¡He hecho trabajar a mis sirvientes como esclavos! ¡Me he esforzado por exprimir la riqueza de la tierra al máximo!"
+        },
+        {
+            "key": "041",
+            "value": "¡Y ahora por fin tengo la recompensa al alcance de mi mano!"
+        },
+        {
+            "key": "042",
+            "value": "He aprendido del éxito de mis compañeros y preparado una generosa donación para su majestad."
+        },
+        {
+            "key": "043",
+            "value": "El rey aplaudirá deleitado cuando le hable de los minerales que puede obtener en mis tierras."
+        },
+        {
+            "key": "044",
+            "value": "¡Y entonces me cubrirá de favores! ¡JA, JA, JA, JA!"
+        },
+        {
+            "key": "045",
+            "value": "Estaba hablando solo aposta para que todos lo oyeran. ¿Es que no ve que así solo logrará mancillar su reputación?"
+        },
+        {
+            "key": "046",
+            "value": "Dudo que a ningún noble de este reino le preocupe lo que piense la gente."
+        },
+        {
+            "key": "047",
+            "value": "No importa lo mal que traten a las personas, los nobles saben que el rey y el ejército están de su lado y no temen una rebelión."
+        },
+        {
+            "key": "048",
+            "value": "Los más humildes no tienen ningún sitio adónde ir; ningún sitio al que escapar."
+        },
+        {
+            "key": "049",
+            "value": "Nuestro enemigo está al oeste, en Hourne, por lo que es demasiado peligroso huir allí. Leonis es un aliado, pero inestable y a punto de entrar en guerra con Fennes."
+        },
+        {
+            "key": "050",
+            "value": "Wezette es el lugar más seguro por ahora. Por más que lo asolen la tiranía y la pobreza."
+        },
+        {
+            "key": "051",
+            "value": "Pero esto no puede seguir así. Tenemos… ¡Tenemos que mejorar las cosas, Cadia!"
+        },
+        {
+            "key": "052",
+            "value": "Sí... ¡Y lo haremos!"
+        }
+    ]
+}

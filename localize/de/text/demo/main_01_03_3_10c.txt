@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Große Töne, nichts dahinter."
+        },
+        {
+            "key": "002",
+            "value": "Wie sieht unser weiteres Vorgehen aus, Euer Majestät?"
+        },
+        {
+            "key": "003",
+            "value": "Wir sollten uns möglichst rasch auf den Weg nach Schloss Anvil machen."
+        },
+        {
+            "key": "004",
+            "value": "Schloss Anvil? Ihr habt nicht vor, König Yrde zu folgen?"
+        },
+        {
+            "key": "005",
+            "value": "Nein, das habe ich nicht."
+        },
+        {
+            "key": "006",
+            "value": "Hm ..."
+        },
+        {
+            "key": "007",
+            "value": "Anvil ... Der Hauptsitz des vorherigen Königs, wenn ich mich recht erinnere."
+        },
+        {
+            "key": "008",
+            "value": "Richtig ... Und das Schloss befindet sich nahe der Grenze zu Fennes."
+        },
+        {
+            "key": "009",
+            "value": "Aber es wurde aufgegeben. Wahrscheinlich ist nicht mehr als eine Ruine übrig."
+        },
+        {
+            "key": "010",
+            "value": "Wir haben das Schloss nicht aufgegeben."
+        },
+        {
+            "key": "011",
+            "value": "In seinen unterirdischen Gewölben liegen immer noch mehrere Relikte verborgen."
+        },
+        {
+            "key": "012",
+            "value": "Wie bitte?!"
+        },
+        {
+            "key": "013",
+            "value": "Mit Relikten der Altvorderen in unserem Besitz könnten wir das Blatt in diesem Krieg vielleicht wenden ...!"
+        },
+        {
+            "key": "014",
+            "value": "Wie gesagt, wir sollten versuchen, so schnell wie möglich Schloss Anvil zu erreichen."
+        }
+    ]
+}

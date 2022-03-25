@@ -1,0 +1,308 @@
+﻿{
+    "infos": [
+        {
+            "key": "330",
+            "value": "Vous avez non seulement protégé nos réserves, mais vous vous êtes également occupés de la cachette des voleurs ?"
+        },
+        {
+            "key": "331",
+            "value": "Je ne pourrai jamais vous remercier suffisamment. Vous avez été au-delà de nos espérances."
+        },
+        {
+            "key": "332",
+            "value": "Je n'ai rien fait d'autre qu'accomplir mon devoir de chevalier."
+        },
+        {
+            "key": "333",
+            "value": "Quel accueil fabuleux. J'aurais voulu être là dès le début."
+        },
+        {
+            "key": "334",
+            "value": "Vous voilà, seigneur Camillo ! Où étiez-vous ?"
+        },
+        {
+            "key": "335",
+            "value": "Nous avions assez de gils, je suis donc parti acheter un bateau."
+        },
+        {
+            "key": "336",
+            "value": "Ce qui me fait d'ailleurs penser à… Et voilà, comme promis."
+        },
+        {
+            "key": "337",
+            "value": "Le cristal fondamental ! Je vous remercie !"
+        },
+        {
+            "key": "338",
+            "value": "Pas la peine. C'était le marché que nous avions passé."
+        },
+        {
+            "key": "339",
+            "value": "Maintenant que tout est en ordre, est-ce que je peux te demander un petit quelque chose ? Peux-tu m'aider à déplacer le bateau ? Il est peu trop lourd pour moi seul."
+        },
+        {
+            "key": "340",
+            "value": "Bien sûr ! Avons-nous besoin de Cétia et Elsirelle ?"
+        },
+        {
+            "key": "341",
+            "value": "Non, on va s'en charger tous les deux. C'est l'occasion rêvée pour pavaner devant les jolies demoiselles, si tu vois ce que je veux dire ?"
+        },
+        {
+            "key": "342",
+            "value": "Je… crois."
+        },
+        {
+            "key": "343",
+            "value": "Je n'en doute pas un instant. Bon, c'est parti."
+        },
+        {
+            "key": "344",
+            "value": "Je propose qu’on les prenne au mot et qu’on les encourage de loin."
+        },
+        {
+            "key": "345",
+            "value": "Oui ! Montre-nous ce que tu as dans le ventre, le nouveau !"
+        },
+        {
+            "key": "346",
+            "value": "Un, deux, trois ! Donne tout ce que tu as, Lucio !"
+        },
+        {
+            "key": "347",
+            "value": "Argh… La charrette n'allège en rien le poids du bateau."
+        },
+        {
+            "key": "348",
+            "value": "Je rêve ou est-ce que je t'entends te plaindre, le nouveau ? Tu es un Guerrier des cristaux, comporte-toi en tant que tel !"
+        },
+        {
+            "key": "349",
+            "value": "M-Mes excuses !"
+        },
+        {
+            "key": "350",
+            "value": "Dis, Lucio… Tous les Guerriers des cristaux sont comme elle ?"
+        },
+        {
+            "key": "351",
+            "value": "Hmmm… D’après mon expérience, oui, ils sont tous plutôt stricts."
+        },
+        {
+            "key": "352",
+            "value": "Je me suis fait embaucher pour cette aventure avant même d'avoir pu me remettre de l'intense entraînement de Dame Jeaum."
+        },
+        {
+            "key": "353",
+            "value": "Jeaum ?"
+        },
+        {
+            "key": "354",
+            "value": "Oui. Elle a été la première à m'enseigner la voie des Guerriers."
+        },
+        {
+            "key": "355",
+            "value": "Elle parle très peu, ce qui fait d'elle une femme relativement incomprise. Et s'entraîner à ses côtés est plus fatiguant que de se battre contre n'importe quel monstre."
+        },
+        {
+            "key": "356",
+            "value": "On dirait que ça n'a pas été de tout repos pour toi non plus, mon ami."
+        },
+        {
+            "key": "357",
+            "value": "Mais j'apprends énormément d'elle et des autres guerriers."
+        },
+        {
+            "key": "358",
+            "value": "Ça m'encourage à donner le meilleur de moi-même pour éviter leur courroux."
+        },
+        {
+            "key": "359",
+            "value": "Je pense pouvoir pallier mon manque d'expérience au fur et à mesure et ainsi devenir un Guerrier des cristaux digne de ce nom."
+        },
+        {
+            "key": "360",
+            "value": "Oh ! On dirait bien que tu as les meilleurs supérieurs qui soient !"
+        },
+        {
+            "key": "361",
+            "value": "Aïe ! P-Pourquoi avez-vous fait ça ?"
+        },
+        {
+            "key": "362",
+            "value": "Je t'envie beaucoup !"
+        },
+        {
+            "key": "363",
+            "value": "Écoute-moi bien, Lucio ! Si tu dois prendre quelque chose à cœur alors retiens bien ce que je vais te dire…"
+        },
+        {
+            "key": "364",
+            "value": "Il te suffit de rencontrer la femme qui te convient pour que ta vie s’en retrouve transformée."
+        },
+        {
+            "key": "365",
+            "value": "Ma vie n'a plus jamais été la même après ma rencontre avec Machalie."
+        },
+        {
+            "key": "366",
+            "value": "Est-ce que rencontrer Elsirelle vous a aussi changé ?"
+        },
+        {
+            "key": "367",
+            "value": "Dans un sens oui… Même si elle ne fait que dormir."
+        },
+        {
+            "key": "368",
+            "value": "Oh ! On dirait bien que nous sommes arrivés !"
+        },
+        {
+            "key": "369",
+            "value": "Beau travail, le nouveau. C'était un bon entraînement, pas vrai ?"
+        },
+        {
+            "key": "370",
+            "value": "Ha ha ha…"
+        },
+        {
+            "key": "371",
+            "value": "Vous allez faire quoi maintenant ?"
+        },
+        {
+            "key": "372",
+            "value": "Retourner dans notre monde, bien sûr. Nous devons remettre le cristal en place."
+        },
+        {
+            "key": "373",
+            "value": "Le temps des adieux a sonné. Votre présence va nous manquer…"
+        },
+        {
+            "key": "374",
+            "value": "Ce n'est pas comme si nous disparaissions pour toujours. Nous pourrons toujours nous retrouver quand ça nous chantera !"
+        },
+        {
+            "key": "375",
+            "value": "Tu as raison ! Espérons que nos chemins se croisent à nouveau."
+        },
+        {
+            "key": "376",
+            "value": "Continue de travailler sur ta confiance en toi, Lucio."
+        },
+        {
+            "key": "377",
+            "value": "Ha ha ha… Je vais essayer."
+        },
+        {
+            "key": "378",
+            "value": "Et si jamais tu as besoin d'une petite pause, viens me rendre visite. Je t'emmènerais goûter quelques merveilles."
+        },
+        {
+            "key": "379",
+            "value": "Très bonne idée. Organisons un festin, à tes frais."
+        },
+        {
+            "key": "380",
+            "value": "Et pourquoi devrais-je te payer quoi que ce soit ?"
+        },
+        {
+            "key": "381",
+            "value": "Tu es de loin le compagnon de route le moins compatissant avec qui j'ai eu l'occasion de voyager. Je n'ai pas d'autre choix que d'en informer Dame Machalie."
+        },
+        {
+            "key": "382",
+            "value": "C'est du chantage !"
+        },
+        {
+            "key": "383",
+            "value": "Ha ha ha ! Vous me faites bien rire tous les deux ! C'est ça de voyager avec des compagnons !"
+        },
+        {
+            "key": "384",
+            "value": "Malheureusement, seigneur Camillo et dame Elsirelle, il est temps pour nous de nous en aller."
+        },
+        {
+            "key": "385",
+            "value": "Remplis tes devoirs de Guerrier des cristaux comme il se doit, et n'abandonne jamais. C'est compris ?"
+        },
+        {
+            "key": "386",
+            "value": "N'oubliez pas de faire une petite sieste quand les choses commencent à se corser. Rien de mieux pour arranger les choses."
+        },
+        {
+            "key": "387",
+            "value": "Entendu ! Prenez soin de vous !"
+        },
+        {
+            "key": "388",
+            "value": "Au revoir !"
+        },
+        {
+            "key": "389",
+            "value": "Bon, deux cristaux… Je dirais que les choses se déroulent plutôt bien."
+        },
+        {
+            "key": "390",
+            "value": "Bon retour parmi nous. Vous en avez mis du temps."
+        },
+        {
+            "key": "391",
+            "value": "C'est parce que nous sommes tombés sur deux énergumènes très amusants."
+        },
+        {
+            "key": "392",
+            "value": "On en discutera plus tard. Ce qui importe maintenant, c'est que Lucio reprenne son entraînement."
+        },
+        {
+            "key": "393",
+            "value": "Hein ?! On vient tout juste de rentrer !"
+        },
+        {
+            "key": "394",
+            "value": "Ça m'est égal."
+        },
+        {
+            "key": "395",
+            "value": "Mais…"
+        },
+        {
+            "key": "396",
+            "value": "Je devrais peut-être m'y mettre également !"
+        },
+        {
+            "key": "397",
+            "value": "Je vais t'entraîner jusqu'à ce que tu ne saches plus pleurnicher !"
+        },
+        {
+            "key": "398",
+            "value": "Ne serait-ce pas ce qu'on appelle un lavage de cerveau… ?"
+        },
+        {
+            "key": "399",
+            "value": "Je vais commencer les préparatifs. Ne sois pas en retard."
+        },
+        {
+            "key": "400",
+            "value": "Tu ne changes pas pour un sou. Toujours à ton rythme."
+        },
+        {
+            "key": "401",
+            "value": "Tu es la dernière personne qui puisse se permettre une telle réflexion…"
+        },
+        {
+            "key": "402",
+            "value": "A-attendez-moi ! Ne me laissez pas là !"
+        },
+        {
+            "key": "403",
+            "value": "Je rêve ou le cristal a perdu de son intensité à l'instant ?"
+        },
+        {
+            "key": "404",
+            "value": "Lucio, dépêche-toi !"
+        },
+        {
+            "key": "405",
+            "value": "J-J'arrive !"
+        }
+    ]
+}

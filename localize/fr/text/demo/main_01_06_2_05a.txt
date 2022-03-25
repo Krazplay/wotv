@@ -1,0 +1,160 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "En garde !"
+        },
+        {
+            "key": "002",
+            "value": "Il a disparu ?"
+        },
+        {
+            "key": "003",
+            "value": "Argh !"
+        },
+        {
+            "key": "004",
+            "value": "Tu peux encore te rendre, tu sais ? Je promets de ne pas te faire de mal."
+        },
+        {
+            "key": "005",
+            "value": "Même si tu m'as l'air d'aimer quand ça fait mal, je me trompe ?"
+        },
+        {
+            "key": "006",
+            "value": "T'écouter me fait suffisamment saigner des oreilles !"
+        },
+        {
+            "key": "007",
+            "value": "..."
+        },
+        {
+            "key": "008",
+            "value": "Tu veux vraiment passer aux choses sérieuses, alors ?"
+        },
+        {
+            "key": "009",
+            "value": "Il serait temps !"
+        },
+        {
+            "key": "010",
+            "value": "Vous deux ! Que faites-vous sur les terres de Hourne ?"
+        },
+        {
+            "key": "011",
+            "value": "Wouhou ! Visez-moi cette beauté !"
+        },
+        {
+            "key": "012",
+            "value": "Que dirais-tu de devenir ma femme ?"
+        },
+        {
+            "key": "013",
+            "value": "Qui es-tu... exactement ?"
+        },
+        {
+            "key": "014",
+            "value": "Je dépose mon nom à tes pieds dans l'espoir d'apprendre le tien, oh, gracieuse créature !"
+        },
+        {
+            "key": "015",
+            "value": "Je m'appelle Camillo. À ton service éternel."
+        },
+        {
+            "key": "016",
+            "value": "Je suis Machalie, fille du roi Rob."
+        },
+        {
+            "key": "017",
+            "value": "La f-fille du roi ? Vous êtes la princesse de Hourne ?"
+        },
+        {
+            "key": "018",
+            "value": "Je suis Diah, du royaume d'Ovis."
+        },
+        {
+            "key": "019",
+            "value": "Je suis venue implorer votre secours."
+        },
+        {
+            "key": "020",
+            "value": "Mon secours ?"
+        },
+        {
+            "key": "021",
+            "value": "Princesse, Ovis est assiégé en ce moment même par Rundall. Nous craignons d'être entièrement annihilés."
+        },
+        {
+            "key": "022",
+            "value": "Ce qui fait de notre ami qui a le feu aux chausses, là, un chien de Rundall ?"
+        },
+        {
+            "key": "023",
+            "value": "Arrêtez avec ça ! Je viens de Heindler !"
+        },
+        {
+            "key": "024",
+            "value": "... !"
+        },
+        {
+            "key": "025",
+            "value": "Princesse, je crois que c'est..."
+        },
+        {
+            "key": "026",
+            "value": "Dario ! Mon frère !"
+        },
+        {
+            "key": "027",
+            "value": "Votre frère ? Attendez, quoi ?"
+        },
+        {
+            "key": "028",
+            "value": "Vous êtes en train de me dire que ce cadavre, là, c'est le prince de Hourne ?"
+        },
+        {
+            "key": "029",
+            "value": "Qui a commis ce crime ?!"
+        },
+        {
+            "key": "030",
+            "value": "Ce... Ce n'était pas moi."
+        },
+        {
+            "key": "031",
+            "value": "Alors c'est toi, abjecte vermine !"
+        },
+        {
+            "key": "032",
+            "value": "Oh là là ! On se calme !"
+        },
+        {
+            "key": "033",
+            "value": "(Xiza... Que fait-on ?)"
+        },
+        {
+            "key": "034",
+            "value": "(Ce Camillo ne nous arrange pas...)"
+        },
+        {
+            "key": "035",
+            "value": "(On se débarrasse de lui tout de suite ?)"
+        },
+        {
+            "key": "036",
+            "value": "Chien de Rundall ! Tu ne t'en sortiras pas comme ça !"
+        },
+        {
+            "key": "037",
+            "value": "Tss. Mais dans quoi je me suis encore fourré, moi ?"
+        },
+        {
+            "key": "038",
+            "value": "Je tiens à dire que je n'aime pas frapper les femmes."
+        },
+        {
+            "key": "039",
+            "value": "Mais si je meurs aujourd'hui, trop de dames en ce monde auraient le cœur brisé..."
+        }
+    ]
+}

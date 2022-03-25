@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Cómo transcurre la batalla?"
+        },
+        {
+            "key": "002",
+            "value": "No son demasiados, pero los soldados de Leonis luchan como fieras."
+        },
+        {
+            "key": "003",
+            "value": "El terreno juega a su favor y, ya se sabe lo que se puede lograr con una estrategia sólida."
+        },
+        {
+            "key": "004",
+            "value": "Si el príncipe Mont continúa aprendiendo a este ritmo…"
+        },
+        {
+            "key": "005",
+            "value": "Sí…, podría convertirse en una amenaza."
+        },
+        {
+            "key": "006",
+            "value": "Solo tienes que darme la orden para que le corte la cabeza…"
+        },
+        {
+            "key": "007",
+            "value": "Olvídalo."
+        },
+        {
+            "key": "008",
+            "value": "Lady Machérie, ¿lo decís en serio?"
+        },
+        {
+            "key": "009",
+            "value": "¿Que no haga nada?"
+        },
+        {
+            "key": "010",
+            "value": "¿Por qué? ¿Solo porque es nuestro enemigo?"
+        },
+        {
+            "key": "011",
+            "value": "¿De verdad crees que nuestra alianza con Fennes es auténtica? Contéstame."
+        },
+        {
+            "key": "012",
+            "value": "Eh…, s-sí, claro que sí. Creo… que es auténtica."
+        },
+        {
+            "key": "013",
+            "value": "La hija del rey Muraga se ha casado con tu hermano y tú te casarás muy pronto también…"
+        },
+        {
+            "key": "014",
+            "value": "Las palabras del rey Elde resuenan en mi cabeza, eso es todo."
+        },
+        {
+            "key": "015",
+            "value": "Según él, el rey Muraga no tiene ninguna hija…, aunque creo que no sabe lo que dice."
+        },
+        {
+            "key": "016",
+            "value": "Milady, no le quitáis el ojo a lord Mont, ¿me equivoco?"
+        },
+        {
+            "key": "017",
+            "value": "Al igual que el halcón a su presa, tengo buen ojo para la gente."
+        },
+        {
+            "key": "018",
+            "value": "Mi padre se podría haber beneficiado de este don mío, pero ya ves…"
+        },
+        {
+            "key": "019",
+            "value": "Os entiendo perfectamente, milady. Si no fuera por la amenaza del oeste…"
+        }
+    ]
+}

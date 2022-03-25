@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Esos malditos soldados de Fennes... Están intentando abrir las puertas del archivo."
+        },
+        {
+            "key": "002",
+            "value": "No podemos permitir que el libro antiguo caiga en sus manos."
+        },
+        {
+            "key": "003",
+            "value": "¡Acabemos con ellos!"
+        },
+        {
+            "key": "004",
+            "value": "Ildira... Los mantendré ocupados."
+        },
+        {
+            "key": "005",
+            "value": "Aprovechad la situación para abrir las puertas del archivo y entrad."
+        },
+        {
+            "key": "006",
+            "value": "Entendido."
+        },
+        {
+            "key": "007",
+            "value": "¡Vamos! ¡Seguidme!"
+        },
+        {
+            "key": "008",
+            "value": "¡Aún quedan algunos!"
+        },
+        {
+            "key": "009",
+            "value": "¡No pasaréis de aquí!"
+        },
+        {
+            "key": "010",
+            "value": "¡Preparaos, víboras de Fennes! ¡Enfrentaos a mí!"
+        }
+    ]
+}

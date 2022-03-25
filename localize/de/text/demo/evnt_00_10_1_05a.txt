@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Diese verfluchten fennischen Soldaten ... Sie lassen nicht von der Bibliothekstür ab ..."
+        },
+        {
+            "key": "002",
+            "value": "Sieht so aus. Aber wir können ihnen den Codex auf keinen Fall überlassen."
+        },
+        {
+            "key": "003",
+            "value": "Dann weg mit ihnen!"
+        },
+        {
+            "key": "004",
+            "value": "Ildyra ... Ich halte den Feind auf Abstand."
+        },
+        {
+            "key": "005",
+            "value": "Nutze du die Chance, um in die Bibliothek zu schlüpfen."
+        },
+        {
+            "key": "006",
+            "value": "Verstanden."
+        },
+        {
+            "key": "007",
+            "value": "... Also los! Hier bin ich!"
+        },
+        {
+            "key": "008",
+            "value": "Da sind noch leonische Überlebende!"
+        },
+        {
+            "key": "009",
+            "value": "Weiter als bis hier werdet ihr nicht kommen!"
+        },
+        {
+            "key": "010",
+            "value": "Versucht es ruhig, ihr fennischen Schlangen! Ihr habt es mit mir zu tun!"
+        }
+    ]
+}

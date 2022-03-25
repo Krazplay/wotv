@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "449",
+            "value": "Ça y est, je le vois. Le château d'Ovis."
+        },
+        {
+            "key": "450",
+            "value": "Il a l'air proche d'ici, mais nous avons encore du chemin."
+        },
+        {
+            "key": "451",
+            "value": "J'imagine que nous sommes encore trop loin pour voir comment avancent les combats ?"
+        },
+        {
+            "key": "452",
+            "value": "J'en ai peur, Sire."
+        },
+        {
+            "key": "453",
+            "value": "On n'a pas de temps à perdre, alors."
+        },
+        {
+            "key": "454",
+            "value": "Oui, en avant."
+        }
+    ]
+}

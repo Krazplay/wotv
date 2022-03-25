@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ha... ha..."
+        },
+        {
+            "key": "002",
+            "value": "Que se passe-t-il ? Vous ne vous sentez pas bien ?"
+        },
+        {
+            "key": "003",
+            "value": "Vous êtes vraiment « Fortem », la prétendue première division de Leonis ?"
+        },
+        {
+            "key": "004",
+            "value": "Haa… !"
+        },
+        {
+            "key": "005",
+            "value": "Reine Helena !"
+        },
+        {
+            "key": "006",
+            "value": "Ne… ne vous inquiétez pas… pour moi."
+        },
+        {
+            "key": "007",
+            "value": "Mais vous êtes blessée…"
+        },
+        {
+            "key": "008",
+            "value": "Bande de…"
+        },
+        {
+            "key": "009",
+            "value": "(Owe, vous devez battre en retraite.)"
+        },
+        {
+            "key": "010",
+            "value": "(C'est… impossible ! Ce serait véritablement…)"
+        },
+        {
+            "key": "011",
+            "value": "(C'est un ordre !)"
+        },
+        {
+            "key": "012",
+            "value": "C'est quoi ces messes basses ? Vous n'êtes tout de même pas en train de préparer votre fuite ?"
+        },
+        {
+            "key": "013",
+            "value": "Impossible ! Le chevalier Owe ? Fuir ?"
+        },
+        {
+            "key": "014",
+            "value": "On s'y remet ?"
+        },
+        {
+            "key": "015",
+            "value": "Je suis sûr qu'on peut encore s'amuser un petit peu !"
+        }
+    ]
+}

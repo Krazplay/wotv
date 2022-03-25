@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "1",
+            "value": "1 unité UR garantie !"
+        },
+        {
+            "key": "2",
+            "value": "1 atout-vision UR garanti !"
+        },
+        {
+            "key": "3",
+            "value": "1 unité UR garantie !"
+        },
+        {
+            "key": "4",
+            "value": "1 atout-vision UR garanti !"
+        },
+        {
+            "key": "5",
+            "value": "1 unité UR garantie !"
+        },
+        {
+            "key": "6",
+            "value": "1 atout-vision UR garanti !"
+        },
+        {
+            "key": "7",
+            "value": "1 unité UR garantie !"
+        }
+    ]
+}

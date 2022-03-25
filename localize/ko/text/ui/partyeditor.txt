@@ -1,0 +1,324 @@
+﻿{
+    "infos": [
+        {
+            "key": "PARTYEDITOR_TEAM_RENAME",
+            "value": "파티명 변경"
+        },
+        {
+            "key": "PARTYEDITOR_FIX_PARTY",
+            "value": "편성 불가"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_SUPPORT",
+            "value": "용병을<br>고용하자!!"
+        },
+        {
+            "key": "PARTYEDITOR_ITEM_NOT_USED",
+            "value": "아이템은<br>사용할 수 없습니다."
+        },
+        {
+            "key": "PARTYEDITOR_FRIEND_SKILL_NONE",
+            "value": "없음"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_GO",
+            "value": "출격!!"
+        },
+        {
+            "key": "PARTYEDITOR_BATTLE_SKIP",
+            "value": "전투 건너뛰기"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_TITLE",
+            "value": "전투 설정"
+        },
+        {
+            "key": "MAP_EFFECT_TITLE",
+            "value": "맵 효과"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_TITLE",
+            "value": "지형"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_DEFAULT",
+            "value": "없음"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_TITLE",
+            "value": "지도 효과"
+        },
+        {
+            "key": "ITEM_SELECT_TITLE",
+            "value": "아이템 선택"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ALL",
+            "value": "모두"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_HEAL",
+            "value": "회복"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ATTACK",
+            "value": "공격"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_TITLE",
+            "value": "파티명 변경"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_DESCRIPTION",
+            "value": "새로운 파티명을 입력하십시오."
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_CAUTION",
+            "value": "8글자 이내로 입력하십시오."
+        },
+        {
+            "key": "RECOMMEND_TEAM_TITLE",
+            "value": "추천 편성"
+        },
+        {
+            "key": "RECOMMEND_TEAM_MSG_1",
+            "value": "중시할 항목과 속성을 선택하세요."
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ALL_TEXT",
+            "value": "모두"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_FIRE_TEXT",
+            "value": "불속성"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ICE_TEXT",
+            "value": "얼음속성"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WIND_TEXT",
+            "value": "바람속성"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_EARTH_TEXT",
+            "value": "땅속성"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_THUNDER_TEXT",
+            "value": "번개속성"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WATER_TEXT",
+            "value": "물속성"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_SHINE_TEXT",
+            "value": "빛속성"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_DARK_TEXT",
+            "value": "어둠속성"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_TOTAL_TEXT",
+            "value": "종합"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TEXT",
+            "value": "공격"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_DEFENCE_TEXT",
+            "value": "물리 방어"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MAGIC_TEXT",
+            "value": "마력"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MIND_TEXT",
+            "value": "마법 방어"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_HP_TEXT",
+            "value": "HP"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_SPEED_TEXT",
+            "value": "민첩성"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SLASH_TEXT",
+            "value": "베기"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_STAB_TEXT",
+            "value": "찌르기"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_BLOW_TEXT",
+            "value": "타격"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SHOT_TEXT",
+            "value": "사격"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_MAGIC_TEXT",
+            "value": "마법"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_NONE_TEXT",
+            "value": "기타"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_ALL_TEXT",
+            "value": "모든 공격 종류"
+        },
+        {
+            "key": "PARTYEDITOR_COND_LIMIT",
+            "value": "【출격 제한】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_LIMIT",
+            "value": "【출격 제한】<br>없음"
+        },
+        {
+            "key": "PARTYEDITOR_COND_FIXED",
+            "value": "【강제 출격】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_FIXED",
+            "value": "【강제 출격】<br>없음"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PUNCTUATE",
+            "value": "/"
+        },
+        {
+            "key": "PARTYEDITOR_COND_DETAIL",
+            "value": "【스테이지 정보】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT",
+            "value": "【지형】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER",
+            "value": "【날씨】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_SEP",
+            "value": ", "
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PLV",
+            "value": "플레이어 레벨:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_ULV",
+            "value": "유닛 레벨:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_ELEM",
+            "value": "속성:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOB",
+            "value": "직업:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNIT",
+            "value": "유닛:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_SEX",
+            "value": "성별:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_RARITY",
+            "value": "레어도:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_HEIGHT",
+            "value": "키:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEIGHT",
+            "value": "몸무게:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX",
+            "value": "직업 번호:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_BIRTH",
+            "value": "출신 국가:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX_VALUE",
+            "value": "제{0}직업"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TEXTFRAME",
+            "value": "【{0}】"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_PARENT",
+            "value": "{0}: {1}{2}을(를) 습득"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TITLE",
+            "value": "{0}이(가) 다음 조건을 전부 충족할 것"
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND_OWNED_UNIT",
+            "value": "해당하는 편성이 없습니다."
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND",
+            "value": "해당하는 편성이 없습니다."
+        },
+        {
+            "key": "DEFAULT_PARTY_NAME",
+            "value": "파티 {0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
+            "value": "빈 슬롯 있음"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
+            "value": "파티에 빈 슬롯이 있으면 기간 한정 길드 전투에서 불리해질 수 있습니다. 이대로 설정하시겠습니까?"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
+            "value": "편성 조건 미달성"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
+            "value": "편성할 수 없으므로, 지난번 편성 데이터를 삭제합니다."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LEAGUE_GUILD_EMPTY_DESC",
+            "value": "파티에 빈 슬롯이 있으면 길드 전투 정상 결전에서 불리해질 수 있습니다. 이대로 설정하시겠습니까?"
+        }
+    ]
+}

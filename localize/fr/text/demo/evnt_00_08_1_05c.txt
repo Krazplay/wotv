@@ -1,0 +1,180 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ils sont trop nombreux..."
+        },
+        {
+            "key": "002",
+            "value": "Aies foi en toi Velne. Et en moi. On va s'en sortir."
+        },
+        {
+            "key": "003",
+            "value": "D'accord..."
+        },
+        {
+            "key": "004",
+            "value": "Hm ?!"
+        },
+        {
+            "key": "005",
+            "value": "Qui êtes-vous ?"
+        },
+        {
+            "key": "006",
+            "value": "Vous ne ressemblez pas à des hommes de Galzahk...  "
+        },
+        {
+            "key": "007",
+            "value": "Oh... Alors comme cela vous connaissez Galzahk ?"
+        },
+        {
+            "key": "008",
+            "value": "Vous êtes de l'Église, c'est ça ?"
+        },
+        {
+            "key": "009",
+            "value": "Tout à fait. Je suis Sadali, de l'Église du Cristal."
+        },
+        {
+            "key": "010",
+            "value": "Moi c'est Garvall. Et voici ma sœur, Velne."
+        },
+        {
+            "key": "011",
+            "value": "Intéressant."
+        },
+        {
+            "key": "012",
+            "value": "Désolé, mais nous n'avons aucune intention de nous mêler à la clique de Galzahk."
+        },
+        {
+            "key": "013",
+            "value": "Dans ce cas, vous serez heureux d'apprendre que nous n'avons nul sujet de discorde."
+        },
+        {
+            "key": "014",
+            "value": "Ah. L'Église et les trafiquants d'armes ne s'entendent pas ?"
+        },
+        {
+            "key": "015",
+            "value": "Je suis même curieux de savoir ce qui vous a fait croiser leur route..."
+        },
+        {
+            "key": "016",
+            "value": "Me raconterez-vous ce qui vous est arrivé ?"
+        },
+        {
+            "key": "017",
+            "value": "C'était fort sage de votre part de décliner l'invitation d'une crapule telle que Galzahk."
+        },
+        {
+            "key": "018",
+            "value": "Une « crapule », à ce point ?"
+        },
+        {
+            "key": "019",
+            "value": "Galzahk et sa maudite guilde se sont mis tout le royaume à dos à cause de leur arrogance."
+        },
+        {
+            "key": "020",
+            "value": "Ils ne se contentent pas d'étouffer les forgerons qui leur résistent, ils osent également tenir tête aux grands royaumes eux-mêmes."
+        },
+        {
+            "key": "021",
+            "value": "Si nous les laissons faire plus longtemps, une spirale infinie de guerres risque de s'abattre sur ces terres... Et c'est le peuple qui en paiera le prix fort."
+        },
+        {
+            "key": "022",
+            "value": "Il est grand temps pour la guilde des trafiquants d'arme de procéder à un petit remaniement."
+        },
+        {
+            "key": "023",
+            "value": "Et... Pourquoi vous nous dites tout ça ?"
+        },
+        {
+            "key": "024",
+            "value": "Quoi ? Vous n'avez donc pas envie d'y participer ?"
+        },
+        {
+            "key": "025",
+            "value": "..."
+        },
+        {
+            "key": "026",
+            "value": "La guilde de Galzahk est une plaie pour la région."
+        },
+        {
+            "key": "027",
+            "value": "Nous devons malheureusement reconnaître que de nombreux forgerons lui doivent subsistance, grâce au commerce favorisée par elle."
+        },
+        {
+            "key": "028",
+            "value": "À vous entendre... On dirait que vous voulez en prendre le contrôle vous-même."
+        },
+        {
+            "key": "029",
+            "value": "Le peuple de Yezagh a besoin de pouvoir pour échapper à l'ombre tenace de persécution qui plane au-dessus de lui."
+        },
+        {
+            "key": "030",
+            "value": "N'est-ce pas ?"
+        },
+        {
+            "key": "031",
+            "value": "Alors vous savez."
+        },
+        {
+            "key": "032",
+            "value": "Aux yeux du Cristal, nous sommes tous égaux. Nulle discrimination ne peut être tolérée entre les peuples. Or pour cela..."
+        },
+        {
+            "key": "033",
+            "value": "Je vous vois venir. Mais comment voudriez-vous que des gens comme nous arrivions à renverser quelqu'un comme Galzahk ?"
+        },
+        {
+            "key": "034",
+            "value": "Vous aurez l'aide de mes moines."
+        },
+        {
+            "key": "035",
+            "value": "En revanche... Quand le coup sera fait, l'implication de l'Église dans cette affaire doit rester absolument secrète."
+        },
+        {
+            "key": "036",
+            "value": "Il suffirait d'un malentendu pour qu'on ne puisse plus prêcher la bonne parole du Cristal, voyez-vous."
+        },
+        {
+            "key": "037",
+            "value": "Pourquoi confier cette tâche à un parfait inconnu ?"
+        },
+        {
+            "key": "038",
+            "value": "Le peuple de Yezagh a souffert d'une atroce persécution."
+        },
+        {
+            "key": "039",
+            "value": "Quand on connaît leur histoire, on ne peut s'empêcher de les prendre en compassion."
+        },
+        {
+            "key": "040",
+            "value": "..."
+        },
+        {
+            "key": "041",
+            "value": "Et vous pensez que leur remettre le pouvoir de la guilde des trafiquants d'armes entre les mains permettra de leur assurer un avenir digne ?"
+        },
+        {
+            "key": "042",
+            "value": "Hu hu hu ! Allons, seuls les idiots se prennent à rêver de ce genre de choses."
+        },
+        {
+            "key": "043",
+            "value": "Que ferions-nous dans un monde sans guerre ?"
+        },
+        {
+            "key": "044",
+            "value": "Hu hu hu !"
+        }
+    ]
+}

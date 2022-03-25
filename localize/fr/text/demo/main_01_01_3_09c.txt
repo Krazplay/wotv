@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Est-ce que c'est... ?"
+        },
+        {
+            "key": "002",
+            "value": "Même à deux, ils n'ont eu aucune chance de le vaincre..."
+        },
+        {
+            "key": "003",
+            "value": "Te voilà enfin, ma princesse bien-aimée !"
+        },
+        {
+            "key": "004",
+            "value": "Maintenant supplie-moi. Dis-moi qu'il te tarde d'être la mère de nos enfants."
+        },
+        {
+            "key": "005",
+            "value": "Fais-le... et tu sauveras peut-être ta propre tête."
+        },
+        {
+            "key": "006",
+            "value": "C'est ignoble. Vous me dégoûtez."
+        },
+        {
+            "key": "007",
+            "value": "Ignoble, moi ? Dans c'cas tu peux mourir avec eux !"
+        },
+        {
+            "key": "008",
+            "value": "Lynx !"
+        },
+        {
+            "key": "009",
+            "value": "Qu'est-ce que... ?!"
+        },
+        {
+            "key": "010",
+            "value": "Bon sang, une bombe fumigène..."
+        },
+        {
+            "key": "011",
+            "value": "Bande d'insectes !"
+        },
+        {
+            "key": "012",
+            "value": "C'est notre deuxième rencontre, tu pensais que je viendrais les mains vides ?"
+        },
+        {
+            "key": "013",
+            "value": "Pathétiques insectes. Vous n'avez pas encore gagné !"
+        },
+        {
+            "key": "014",
+            "value": "... Vous paierez cet affront de votre sang !"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Pfiou… Alors, c'est tout ?"
+        },
+        {
+            "key": "002",
+            "value": "J'ai le manuscrit."
+        },
+        {
+            "key": "003",
+            "value": "Parfait ! Et… qu'est-ce qu'on fait maintenant ?"
+        },
+        {
+            "key": "004",
+            "value": "Nous devons nous rendre à Wezett."
+        },
+        {
+            "key": "005",
+            "value": "Cela fait aussi partie de votre mission pour Sa Majesté ?"
+        },
+        {
+            "key": "006",
+            "value": "Tout juste."
+        },
+        {
+            "key": "007",
+            "value": "Très bien, je vais vous escorter jusqu'aux portes arrières."
+        }
+    ]
+}

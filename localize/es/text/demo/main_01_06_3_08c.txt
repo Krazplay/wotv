@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vosotros sois lo que queda del ejército de Leonis, ¿verdad?"
+        },
+        {
+            "key": "002",
+            "value": "¡Pues que sepáis que se os acabó la fiesta! ¡Os hemos pillado con las manos en la masa!"
+        },
+        {
+            "key": "003",
+            "value": "Transportáis algo muy pero que muy importante en ese carruaje, ¿verdad?"
+        },
+        {
+            "key": "004",
+            "value": "…"
+        },
+        {
+            "key": "005",
+            "value": "No sé a qué os referís, pero, aun así, ¿acaso no sabéis que la curiosidad mató al gato?"
+        },
+        {
+            "key": "006",
+            "value": "Pues que sepas que ahora tenemos aún más curiosidad que antes."
+        },
+        {
+            "key": "007",
+            "value": "Sí, ¡ese carruaje es nuestro!"
+        }
+    ]
+}

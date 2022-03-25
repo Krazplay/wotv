@@ -1,0 +1,324 @@
+﻿{
+    "infos": [
+        {
+            "key": "PARTYEDITOR_TEAM_RENAME",
+            "value": "Gruppennamen ändern"
+        },
+        {
+            "key": "PARTYEDITOR_FIX_PARTY",
+            "value": "Ungültige Aufstellung"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_SUPPORT",
+            "value": "Begleiter anstellen"
+        },
+        {
+            "key": "PARTYEDITOR_ITEM_NOT_USED",
+            "value": "Gegenstand kann nicht verwendet werden."
+        },
+        {
+            "key": "PARTYEDITOR_FRIEND_SKILL_NONE",
+            "value": "Keine"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_GO",
+            "value": "Aufbrechen!"
+        },
+        {
+            "key": "PARTYEDITOR_BATTLE_SKIP",
+            "value": "Kampf überspringen"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_TITLE",
+            "value": "Kampfeinstellungen"
+        },
+        {
+            "key": "MAP_EFFECT_TITLE",
+            "value": "Karteneffekte"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_TITLE",
+            "value": "Gelände"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_DEFAULT",
+            "value": "Keine"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_TITLE",
+            "value": "Karteneffekte"
+        },
+        {
+            "key": "ITEM_SELECT_TITLE",
+            "value": "Gegenstände"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ALL",
+            "value": "Alle"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_HEAL",
+            "value": "Heilung"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ATTACK",
+            "value": "Angriff"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_TITLE",
+            "value": "Gruppennamen ändern"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_DESCRIPTION",
+            "value": "Gib einen neuen Namen für die Gruppe ein."
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_CAUTION",
+            "value": "Wähle 8 Zeichen oder weniger."
+        },
+        {
+            "key": "RECOMMEND_TEAM_TITLE",
+            "value": "Auto-Aufstellung"
+        },
+        {
+            "key": "RECOMMEND_TEAM_MSG_1",
+            "value": "Wähle Elemente und Attribute, die besonders berücksichtigt werden sollen."
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ALL_TEXT",
+            "value": "Alle"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_FIRE_TEXT",
+            "value": "Feuer"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ICE_TEXT",
+            "value": "Eis"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WIND_TEXT",
+            "value": "Wind"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_EARTH_TEXT",
+            "value": "Erde"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_THUNDER_TEXT",
+            "value": "Blitz"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WATER_TEXT",
+            "value": "Wasser"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_SHINE_TEXT",
+            "value": "Licht"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_DARK_TEXT",
+            "value": "Dunkel"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_TOTAL_TEXT",
+            "value": "Gesamt"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TEXT",
+            "value": "ANG"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_DEFENCE_TEXT",
+            "value": "ABW"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MAGIC_TEXT",
+            "value": "MAG"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MIND_TEXT",
+            "value": "PSY"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_HP_TEXT",
+            "value": "LP"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_SPEED_TEXT",
+            "value": "AGI"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SLASH_TEXT",
+            "value": "Schlitzen"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_STAB_TEXT",
+            "value": "Durchbohren"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_BLOW_TEXT",
+            "value": "Hieb"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SHOT_TEXT",
+            "value": "Geschoss"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_MAGIC_TEXT",
+            "value": "Magisch"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_NONE_TEXT",
+            "value": "Andere"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_ALL_TEXT",
+            "value": "Alle Angriffstypen"
+        },
+        {
+            "key": "PARTYEDITOR_COND_LIMIT",
+            "value": "[Einsatz-Limit]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_LIMIT",
+            "value": "[Einsatz-Limit]<br>Keins"
+        },
+        {
+            "key": "PARTYEDITOR_COND_FIXED",
+            "value": "[Zwangseinsatz]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_FIXED",
+            "value": "[Zwangseinsatz]<br>Keiner"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PUNCTUATE",
+            "value": "/"
+        },
+        {
+            "key": "PARTYEDITOR_COND_DETAIL",
+            "value": "[Schlacht-Info]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT",
+            "value": "[Gelände]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER",
+            "value": "[Wetter]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_SEP",
+            "value": ","
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PLV",
+            "value": "Spielerstufe:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_ULV",
+            "value": "Einheitenstufe:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_ELEM",
+            "value": "Element:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOB",
+            "value": "Job:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNIT",
+            "value": "Einheit:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_SEX",
+            "value": "Geschlecht:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_RARITY",
+            "value": "Seltenheit:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_HEIGHT",
+            "value": "Größe:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEIGHT",
+            "value": "Gewicht:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX",
+            "value": "Jobnr.:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_BIRTH",
+            "value": "Herkunft:"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX_VALUE",
+            "value": "Jobnr. {0}"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TEXTFRAME",
+            "value": "[{0}]"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_PARENT",
+            "value": "{0}: {1}{2} gemeistert"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TITLE",
+            "value": "{0} erfüllt die folgenden Bedingungen"
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND_OWNED_UNIT",
+            "value": "Keine entsprechen Aufstellungen gefunden."
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND",
+            "value": "Keine entsprechen Aufstellungen gefunden."
+        },
+        {
+            "key": "DEFAULT_PARTY_NAME",
+            "value": "Gruppe {0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
+            "value": "Aufstellung bestätigen"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
+            "value": "Leere Slots in deiner Gruppe können sich in limitierten Gildenkämpfen als nachteilig erweisen. Trotzdem fortfahren?"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
+            "value": "Aufstellungsbedingungen nicht erfüllt."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
+            "value": "Da die Aufstellungsbedingungen nicht erfüllt wurden, wurde deine vorherige Aufstellung entfernt."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LEAGUE_GUILD_EMPTY_DESC",
+            "value": "Leere Slots in deiner Gruppe können sich in Gildenherrschaftskämpfen als nachteilig erweisen. Trotzdem fortfahren?"
+        }
+    ]
+}

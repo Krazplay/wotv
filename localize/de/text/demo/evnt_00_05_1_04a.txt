@@ -1,0 +1,108 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Da scheinst du wohl leider in eine Sackgasse gelaufen zu sein. Gib auf!"
+        },
+        {
+            "key": "002",
+            "value": "Waa ...?"
+        },
+        {
+            "key": "003",
+            "value": "Du bist doch ... Mia. Weshalb hast du ...?"
+        },
+        {
+            "key": "004",
+            "value": "... E-Es tut mir leid."
+        },
+        {
+            "key": "005",
+            "value": "Sieht so aus, als steckte da etwas dahinter."
+        },
+        {
+            "key": "006",
+            "value": "Mia, ich dachte, du wurdest nach Lykeros geschickt ..."
+        },
+        {
+            "key": "007",
+            "value": "Ja."
+        },
+        {
+            "key": "008",
+            "value": "Aber ist das Königreich Lykeros nicht bereits vor langer Zeit im Krieg gegen Rundall untergegangen?"
+        },
+        {
+            "key": "009",
+            "value": "... Das stimmt. Meine Mutter und ich konnten vor den Konflikten flüchten und uns nahe der Grenze niederlassen."
+        },
+        {
+            "key": "010",
+            "value": "Und dann hast du also erfahren, was gerade in unserem Dorf geschieht, und bist hergeeilt?"
+        },
+        {
+            "key": "011",
+            "value": "... G-Genau."
+        },
+        {
+            "key": "012",
+            "value": "Warum bist du dann weggelaufen?"
+        },
+        {
+            "key": "013",
+            "value": "Ähm ..."
+        },
+        {
+            "key": "014",
+            "value": "Belastet vielleicht etwas dein Gewissen？"
+        },
+        {
+            "key": "015",
+            "value": "Luchs, das reicht jetzt."
+        },
+        {
+            "key": "016",
+            "value": "Du halte dich da raus."
+        },
+        {
+            "key": "017",
+            "value": "..."
+        },
+        {
+            "key": "018",
+            "value": "Hast du nichts zu deiner Verteidigung zu sagen?"
+        },
+        {
+            "key": "019",
+            "value": "Ich dachte, man würde furchtbar wütend auf mich werden, weil ich die mir zugewiesene Nation einfach so verlassen habe ..."
+        },
+        {
+            "key": "020",
+            "value": "Wenn Lykeros nicht mehr existiert, dann bist du somit ungebunden."
+        },
+        {
+            "key": "021",
+            "value": "Du und deine Mutter, ihr könnt wieder im Dorf leben."
+        },
+        {
+            "key": "022",
+            "value": "... V-Vielen Dank."
+        },
+        {
+            "key": "023",
+            "value": "..."
+        },
+        {
+            "key": "024",
+            "value": "Gegen uns alle hat Gouga nicht den Hauch einer Chance!"
+        },
+        {
+            "key": "025",
+            "value": "... Ja. Gouga wird jetzt wohl kaum mit einer Offensive von unserer Seite rechnen."
+        },
+        {
+            "key": "026",
+            "value": "Kommt. Wir gehen nach Gouga."
+        }
+    ]
+}

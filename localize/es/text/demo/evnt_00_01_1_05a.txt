@@ -1,0 +1,188 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Quién anda ahí?"
+        },
+        {
+            "key": "002",
+            "value": "¡Aaaaaahh!"
+        },
+        {
+            "key": "003",
+            "value": "Tranquilízate, Etra. Es humana, igual que nosotras."
+        },
+        {
+            "key": "004",
+            "value": "Fuf, qué susto me habéis dado. No esperaba encontrarme con nadie más aquí…"
+        },
+        {
+            "key": "005",
+            "value": "Tú eres paladina, ¿verdad?"
+        },
+        {
+            "key": "006",
+            "value": "Sí, ¿por?"
+        },
+        {
+            "key": "007",
+            "value": "Aaah… Entonces tú eres la persona que envió Lilit a estas cuevas, ¿verdad?"
+        },
+        {
+            "key": "008",
+            "value": "Mmm… ¿Y eso qué importa?"
+        },
+        {
+            "key": "009",
+            "value": "Si no me equivoco…, tú eres la recluta que acabó devorada por los esqueletos."
+        },
+        {
+            "key": "010",
+            "value": "Como podéis ver, aún no me ha devorado nadie…"
+        },
+        {
+            "key": "011",
+            "value": "Cuando dijimos que queríamos unirnos a Fortem, a nosotras también nos enviaron a esta cueva."
+        },
+        {
+            "key": "012",
+            "value": "Por cierto, me llamo Nasha. ¿Y vosotras sois?…"
+        },
+        {
+            "key": "013",
+            "value": "Me llamo Etra y esta de aquí es Yelma."
+        },
+        {
+            "key": "014",
+            "value": "¡Encantada!"
+        },
+        {
+            "key": "015",
+            "value": "Bueno, con vuestro permiso…"
+        },
+        {
+            "key": "016",
+            "value": "¡Eh, oye! Espera un momento."
+        },
+        {
+            "key": "017",
+            "value": "Tú también has venido a limpiar la cueva de esqueletos, ¿verdad? Si es así, ¿por qué no lo hacemos entre las tres?"
+        },
+        {
+            "key": "018",
+            "value": "Lo siento, pero yo prefiero ir por mi cuenta."
+        },
+        {
+            "key": "019",
+            "value": "¡Espera un segundo, anda! ¿Es que aún no te has dado cuenta de lo fuertes que son los esqueletos de estas cuevas?"
+        },
+        {
+            "key": "020",
+            "value": "Si no vas con cuidado, podrías perder la vida a la vuelta de la esquina…"
+        },
+        {
+            "key": "021",
+            "value": "¡No digas tonterías!"
+        },
+        {
+            "key": "022",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "023",
+            "value": "Hasta que no me case con lord Stern, ¡no me iré de este mundo!"
+        },
+        {
+            "key": "024",
+            "value": "…"
+        },
+        {
+            "key": "025",
+            "value": "…"
+        },
+        {
+            "key": "026",
+            "value": "Espera, no me digas que… ¿Somos… rivales?"
+        },
+        {
+            "key": "027",
+            "value": "Eso parece…"
+        },
+        {
+            "key": "028",
+            "value": "Mmm. Ya veo."
+        },
+        {
+            "key": "029",
+            "value": "Bueno, ¡pues a luchar se ha dicho!"
+        },
+        {
+            "key": "030",
+            "value": "…"
+        },
+        {
+            "key": "031",
+            "value": "…"
+        },
+        {
+            "key": "032",
+            "value": "Venga, vamos."
+        },
+        {
+            "key": "033",
+            "value": "¿O vamos a echar todo el día aquí?"
+        },
+        {
+            "key": "034",
+            "value": "No soy la más indicada para hablar sobre tácticas de combate, pero…"
+        },
+        {
+            "key": "035",
+            "value": "La función de los paladines es abrir paso en el frente para que su grupo consiga avanzar, ¿no?"
+        },
+        {
+            "key": "036",
+            "value": "Sí. Más o menos, esa es la teoría."
+        },
+        {
+            "key": "037",
+            "value": "Pero, desgraciadamente, se me da fatal orientarme… Je, je."
+        },
+        {
+            "key": "038",
+            "value": "Pues a buenas horas lo dices…"
+        },
+        {
+            "key": "039",
+            "value": "Entonces, ¿llevas tres días enteros dando vueltas por la entrada de la cueva?"
+        },
+        {
+            "key": "040",
+            "value": "¿Ha-hay algún problema con eso? Cada uno tiene sus defectos y sus virtudes, ¿no?"
+        },
+        {
+            "key": "041",
+            "value": "Anda, déjame a mí que vaya delante."
+        },
+        {
+            "key": "042",
+            "value": "¿Seguro?"
+        },
+        {
+            "key": "043",
+            "value": "Sí, no te preocupes. Mi olfato nos guiará."
+        },
+        {
+            "key": "044",
+            "value": "Snif, snif…"
+        },
+        {
+            "key": "045",
+            "value": "¡Hay monstruos cerca! Los puedo oler."
+        },
+        {
+            "key": "046",
+            "value": "Vale. Entonces, sigamos por aquí."
+        }
+    ]
+}

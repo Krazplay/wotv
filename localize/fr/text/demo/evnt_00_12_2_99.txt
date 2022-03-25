@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh…"
+        },
+        {
+            "key": "002",
+            "value": "C'est terminé."
+        },
+        {
+            "key": "003",
+            "value": "Tu parles !"
+        },
+        {
+            "key": "004",
+            "value": "Tu tiens tant que ça à mourir ?"
+        },
+        {
+            "key": "005",
+            "value": "La ferme !"
+        },
+        {
+            "key": "006",
+            "value": "Si tu jures de ne jamais plus reparaître dans la région, je t'épargnerai."
+        },
+        {
+            "key": "007",
+            "value": "Pour qui tu te prends ?"
+        },
+        {
+            "key": "008",
+            "value": "Hm ?"
+        },
+        {
+            "key": "009",
+            "value": "Rémyur. Ramasse cette dague."
+        },
+        {
+            "key": "010",
+            "value": "Qu-quoi ?"
+        },
+        {
+            "key": "011",
+            "value": "Je sais pour qui ton cœur balance. C'est moi que tu aimes."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "Alors ? Tu es sourde ou quoi ?"
+        },
+        {
+            "key": "014",
+            "value": "Ce n'est plus la peine de faire semblant."
+        },
+        {
+            "key": "015",
+            "value": "Tu es venue spécialement à ma rencontre parce que tu t'inquiétais pour mon sort, non ?"
+        },
+        {
+            "key": "016",
+            "value": "Tu as échappé à la vigilance du maître, prête à t'enfuir avec moi dans la nuit…"
+        },
+        {
+            "key": "017",
+            "value": "Non ! C'est faux !"
+        },
+        {
+            "key": "018",
+            "value": "Pourquoi le nier encore ?"
+        },
+        {
+            "key": "019",
+            "value": "Rémyur… ?"
+        },
+        {
+            "key": "020",
+            "value": "Maintenant que tu as ramassé cette dague, plante-la dans le cœur de Velrik."
+        },
+        {
+            "key": "021",
+            "value": "Pourquoi hésites-tu ? Tu veux perdre toute l'affection que j'ai pour toi ?"
+        },
+        {
+            "key": "022",
+            "value": "Rémyur… Tu vas vraiment… ?"
+        },
+        {
+            "key": "023",
+            "value": "Allez ! Enfonce cette maudite lame dans son cœur jusqu'à la garde !"
+        },
+        {
+            "key": "024",
+            "value": "…"
+        },
+        {
+            "key": "025",
+            "value": "Rémyur, si c'est vraiment ce que tu souhaites, alors…"
+        },
+        {
+            "key": "026",
+            "value": "Je ne m'y opposerai pas."
+        },
+        {
+            "key": "027",
+            "value": "Tu l'as entendu ?"
+        },
+        {
+            "key": "028",
+            "value": "Allez ! Du nerf !"
+        },
+        {
+            "key": "029",
+            "value": "Je ne pourrais jamais… commettre une telle chose."
+        },
+        {
+            "key": "030",
+            "value": "Arrête de mentir et fais ce que je te dis."
+        },
+        {
+            "key": "031",
+            "value": "Si c'est la vérité qu'il faut dire alors la voici : c'est Velrik que j'aime."
+        },
+        {
+            "key": "032",
+            "value": "Quoi ?!"
+        },
+        {
+            "key": "033",
+            "value": "M-mais alors… Pourquoi es-tu venue à ma rencontre ?"
+        },
+        {
+            "key": "034",
+            "value": "Parce que je t'aime comme un frère. Et je suis certaine que Velrik aussi."
+        },
+        {
+            "key": "035",
+            "value": "…"
+        },
+        {
+            "key": "036",
+            "value": "En d'autres termes, Velrik non plus ne pourra se résoudre à te tuer."
+        },
+        {
+            "key": "037",
+            "value": "S'il ne pouvait renoncer au nom de Harvas et que cela le conduisait à prendre ta vie…"
+        },
+        {
+            "key": "038",
+            "value": "Lui et moi souffririons de cette blessure en nos cœurs pour toujours."
+        },
+        {
+            "key": "039",
+            "value": "C'est pour éviter cette tragédie que je…"
+        },
+        {
+            "key": "040",
+            "value": "Je comprends. Je comprends parfaitement ce qui se passe à présent."
+        },
+        {
+            "key": "041",
+            "value": "Je reviendrai."
+        },
+        {
+            "key": "042",
+            "value": "Mais alors, ce ne sera pas pour hériter du nom de Harvas."
+        },
+        {
+            "key": "043",
+            "value": "Ce sera pour tuer les deux traîtres que vous êtes ! Et le vieux y passera aussi ! "
+        },
+        {
+            "key": "044",
+            "value": "Et alors, tout sera à moi. L'argent, la gloire, tout !"
+        },
+        {
+            "key": "045",
+            "value": "Je vous ferai regretter de m'avoir épargné !"
+        },
+        {
+            "key": "046",
+            "value": "Pardon Velrik. Pardonne-moi."
+        },
+        {
+            "key": "047",
+            "value": "Non, c'est toi qui dois me pardonner."
+        },
+        {
+            "key": "048",
+            "value": "Je t'aime. Plus que tout au monde."
+        },
+        {
+            "key": "049",
+            "value": "C'est pourquoi…"
+        },
+        {
+            "key": "050",
+            "value": "Je te protégerai, à tout prix, même à celui de ma vie. Je le ferai pour toi, et pour l'héritage de Harvas…"
+        }
+    ]
+}

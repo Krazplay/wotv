@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "realmoney_tab_judge_sp",
+            "value": "限定"
+        },
+        {
+            "key": "realmoney_tab_judge_day",
+            "value": "每日"
+        },
+        {
+            "key": "realmoney_tab_judge_week",
+            "value": "每週"
+        },
+        {
+            "key": "realmoney_tab_judge_mon",
+            "value": "每月"
+        },
+        {
+            "key": "realmoney_tab_beginner",
+            "value": "新手"
+        },
+        {
+            "key": "realmoney_tab_comback",
+            "value": "回歸"
+        },
+        {
+            "key": "realmoney_tab_limited",
+            "value": "限定"
+        },
+        {
+            "key": "realmoney_tab_normal",
+            "value": "普通"
+        },
+        {
+            "key": "realmoney_tab_other",
+            "value": "其它"
+        }
+    ]
+}

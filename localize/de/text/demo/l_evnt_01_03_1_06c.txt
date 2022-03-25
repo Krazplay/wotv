@@ -1,0 +1,256 @@
+﻿{
+    "infos": [
+        {
+            "key": "249",
+            "value": "Da bin ich, Glaziela Wezette."
+        },
+        {
+            "key": "250",
+            "value": "Du bist spät, Glaziela. Es gibt nicht gerade viele, die mich so warten lassen."
+        },
+        {
+            "key": "251",
+            "value": "Ich war gerade in der Stadt, um mich etwas umzusehen. Warum diese Versammlungen?"
+        },
+        {
+            "key": "252",
+            "value": "Es ist Zeit, dass ich dir die Bedingungen erkläre, für deine Thronübernahme."
+        },
+        {
+            "key": "253",
+            "value": "Bedingungen?"
+        },
+        {
+            "key": "254",
+            "value": "Denke an deine Herkunft und was geschehen würde, würde sie bekannt werden. Dein Status als Erbin ist nicht gesichert."
+        },
+        {
+            "key": "255",
+            "value": "Dann ist es wohl am besten, wenn wir uns gleich um alles kümmern. Du solltest das als Test ansehen."
+        },
+        {
+            "key": "256",
+            "value": "Wie lauten nun diese Bedingungen?"
+        },
+        {
+            "key": "257",
+            "value": "Genau genommen gibt es nur eine."
+        },
+        {
+            "key": "258",
+            "value": "Du musst den Clan deiner Mutter bis auf die Wurzel ausrotten."
+        },
+        {
+            "key": "259",
+            "value": "Wie bitte?"
+        },
+        {
+            "key": "260",
+            "value": "War ich nicht deutlich genug? Du musst jeden töten, der das Blut deiner Mutter teilt."
+        },
+        {
+            "key": "261",
+            "value": "D-Das kannst du nicht ernst meinen. Um den Thron zu besteigen, muss ich meine Nächsten töten? Ist das ein schlechter Scherz?"
+        },
+        {
+            "key": "262",
+            "value": "Klinge ich etwa so, als würde ich scherzen?"
+        },
+        {
+            "key": "263",
+            "value": "Du meinst es also ernst! Was immer kann der Grund dafür sein?"
+        },
+        {
+            "key": "264",
+            "value": "Das Blut deiner Mutter war nun mal nicht von edlem Gemüt. Deine Vasallen und Untergebenen würden niemals jemandem gewöhnlicher Herkunft treu sein."
+        },
+        {
+            "key": "265",
+            "value": "Auch ich käme nicht ungeschoren davon, käme heraus, dass ich einem Halbblut auf den Thron verhalf."
+        },
+        {
+            "key": "266",
+            "value": "Darum musst du jegliche Spuren deiner Herkunft ausmerzen."
+        },
+        {
+            "key": "267",
+            "value": "Dafür muss meine Mutter ... und ihre Familie ... sterben?"
+        },
+        {
+            "key": "268",
+            "value": "Na komm, Glaziela. Du weißt, wie‘s auf dieser Welt zugeht. Glaubst du das wirklich, eine Königin nicht edlen Blutes könnte sie beherrschen?"
+        },
+        {
+            "key": "269",
+            "value": "Wenn du deine Zukunft sichern und dieses Reich beherrschen möchtest, musst du dich von den Fesseln deiner Vergangenheit lösen!"
+        },
+        {
+            "key": "270",
+            "value": "Niemals! Dem kann ich unter keinen Umständen zustimmen!"
+        },
+        {
+            "key": "271",
+            "value": "Deine Zustimmung ist nicht von nöten. Es ist ein Befehl, Glaziela."
+        },
+        {
+            "key": "272",
+            "value": "Das ist unmenschlich. Du bist unmenschlich."
+        },
+        {
+            "key": "273",
+            "value": "Niemand darf mich verunglimpfen, nicht mal du."
+        },
+        {
+            "key": "274",
+            "value": "Wenn ein Hund dich verschmäht oder ein Chocobo dich abwirft, muss er dann getötet werden? Wenn es deine eigene Familie ist, müssen sie dann alle sterben?"
+        },
+        {
+            "key": "275",
+            "value": "Jeder einzelne. Wenn du dich nicht beugst, wird diese Welt von einem Bürgerkrieg auseinandergerissen."
+        },
+        {
+            "key": "276",
+            "value": "Das kann nur verhindert werden, wenn niemand von deiner Herkunft erfährt."
+        },
+        {
+            "key": "277",
+            "value": "Kann Wezette sich nicht für seine Zukunft verändern?"
+        },
+        {
+            "key": "278",
+            "value": "Die Traditionen dieses Reiches haben es stark gemacht. Sie sind der Grund dafür, dass andere Nationen uns nicht testen - und das darf sich nicht ändern."
+        },
+        {
+            "key": "279",
+            "value": "Ein Königreich kann nicht ohne Opfer geschützt werden, und jeder große Herrscher muss manchmal rücksichtslose Entscheidungen treffen."
+        },
+        {
+            "key": "280",
+            "value": "Du bist noch zu jung, um das zu verstehen."
+        },
+        {
+            "key": "281",
+            "value": "Pah! Ich sehe, meine Herrschaftsideale stimmen nicht mit den deinen überein."
+        },
+        {
+            "key": "282",
+            "value": "Bis dann!"
+        },
+        {
+            "key": "283",
+            "value": "Törichtes Mädchen. Sie wird schon sehen."
+        },
+        {
+            "key": "284",
+            "value": "Erstatte Bericht!"
+        },
+        {
+            "key": "285",
+            "value": "Sprich."
+        },
+        {
+            "key": "286",
+            "value": "Glaziela hat Wezette in Richtung Spirare verlassen!"
+        },
+        {
+            "key": "287",
+            "value": "Lasst sie gehen."
+        },
+        {
+            "key": "288",
+            "value": "Aber sie könnte ..."
+        },
+        {
+            "key": "289",
+            "value": "Das ist mir einerlei. Es ist bereits geschehen."
+        },
+        {
+            "key": "290",
+            "value": "Glaziela ... deine Versuche sind hoffnungslos."
+        },
+        {
+            "key": "291",
+            "value": "Wir hatten Glück, diese Höhle gefunden zu haben. Aber ..."
+        },
+        {
+            "key": "292",
+            "value": "Ich hätte nicht gedacht, dass hier so viele Monster herumkriechen!"
+        },
+        {
+            "key": "293",
+            "value": "Sie haben gegen uns keine Chance. Schnappen wir sie uns."
+        },
+        {
+            "key": "294",
+            "value": "Es werden immer mehr!"
+        },
+        {
+            "key": "295",
+            "value": "Das macht keinen Sinn."
+        },
+        {
+            "key": "296",
+            "value": "Was?"
+        },
+        {
+            "key": "297",
+            "value": "Denk doch mal nach."
+        },
+        {
+            "key": "298",
+            "value": "Die Kernkristalle halten das Universum im Gleichgewicht."
+        },
+        {
+            "key": "299",
+            "value": "Das heißt, sie existieren, um allen Dingen Stabilität zu verleihen."
+        },
+        {
+            "key": "300",
+            "value": "Daher ist es seltsam, dass ein Kernkirstall solche Instabilität verursacht und Monster zur Raserei bewegt."
+        },
+        {
+            "key": "301",
+            "value": "Ist es nicht einfach nur seine starke Magie, die sie verrückt spielen lässt?"
+        },
+        {
+            "key": "302",
+            "value": "Das ist unsere Theorie, aber stimmt sie auch? Noch konnte sie niemand beweisen."
+        },
+        {
+            "key": "303",
+            "value": "Jetzt, wo du es sagst, ich habe nie wirklich darüber nachgedacht."
+        },
+        {
+            "key": "304",
+            "value": "Was, wenn die Kernkristalle, die der Wille des Lichts beschützt, der Welt schaden?"
+        },
+        {
+            "key": "305",
+            "value": "Die Kristalle könnten Geheimnisse bergen, die wir nicht wissen dürfen."
+        },
+        {
+            "key": "306",
+            "value": "Oder vielleicht sind es nicht mehr die Kristalle, die wir kennen."
+        },
+        {
+            "key": "307",
+            "value": "Jedenfalls dürfen wir das nicht den Menschen hinterlassen."
+        },
+        {
+            "key": "308",
+            "value": "Der Kristall kann einen Krieg zu den eigenen Gunsten leiten ... aber er kann ebenso zu mehr Krieg führen."
+        },
+        {
+            "key": "309",
+            "value": "Dafür müssen wir dann jetzt aber wirklich von hier entkommen!"
+        },
+        {
+            "key": "310",
+            "value": "Stimmt. Decke mich, mein Schüler! Wir kämpfen uns gemeinsam den Weg frei!"
+        },
+        {
+            "key": "311",
+            "value": "Jawohl!"
+        }
+    ]
+}

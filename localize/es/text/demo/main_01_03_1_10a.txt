@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bueno, bueno, vaya sorpresa, ¿no? Y yo que creía que no era más que un perro ladrador."
+        },
+        {
+            "key": "002",
+            "value": "Ya veo. Ahora entiendo por qué Elde dejó a este atrás."
+        },
+        {
+            "key": "003",
+            "value": "Matarlo sería todo un desperdicio."
+        },
+        {
+            "key": "004",
+            "value": "¿Ya estáis implorando por vuestra vida? ¡No os escondáis detrás de vuestros soldados! ¡Dad la cara!"
+        },
+        {
+            "key": "005",
+            "value": "En cuanto acabe con vos, tendré que ir hacia Wezette."
+        },
+        {
+            "key": "006",
+            "value": "¿Ya echas de menos a tu papá?"
+        },
+        {
+            "key": "007",
+            "value": "Puede que sí."
+        },
+        {
+            "key": "008",
+            "value": "No pienso perdonarle por lo que ha hecho."
+        },
+        {
+            "key": "009",
+            "value": "¿Y qué es lo que ha hecho exactamente?"
+        },
+        {
+            "key": "010",
+            "value": "¿El león abandonó a su cachorrito?"
+        },
+        {
+            "key": "011",
+            "value": "…"
+        },
+        {
+            "key": "012",
+            "value": "Conque de eso se trata, ¿eh?"
+        }
+    ]
+}

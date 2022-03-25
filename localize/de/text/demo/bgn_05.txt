@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Lasst uns nun über <color=#0000ff>Zustandsveränderungen</color> sprechen."
+        },
+        {
+            "key": "//変更なし、誤字のみなおし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Werdet Ihr von einem Zauber wie Bio oder Schlaf getroffen, kann dies bei Euch Zustandsveränderungen wie <color=#0000ff>Gift</color> oder <color=#0000ff>Schlaf</color> verursachen."
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Werdet Ihr Opfer einer derartigen Zustandsveränderung, wirkt sich dies für Euch <color=#0000ff>nachteilig</color> aus, indem Ihr kontinuierlich Schaden erleidet oder für einen gewissen Zeitraum nicht in der Lage seid, Aktionen auszuführen."
+        },
+        {
+            "key": "004",
+            "value": "Allerdings können diese Veränderungen aufgehoben werden, indem Ihr <color=#0000ff>Gegenstände</color> wie Antidote oder den weißmagischen Zauber <color=#0000ff>Esuna</color> einsetzt."
+        },
+        {
+            "key": "005",
+            "value": "Außerdem kann Zustandsveränderungen durch Anwenden der Klerikerfähigkeit <color=#0000ff>Unheilabwehr</color> vorgebeugt werden."
+        },
+        {
+            "key": "006",
+            "value": "Der euch dieses Mal gegenüberstehende Gegner neigt dazu, Zustandsveränderungen hervorrufende Attacken einzusetzen. Macht in diesem Kampf deshalb hinreichend von Prinzessin Margerys Fähigkeit Gebrauch."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Herzlichen Glückwunsch! Der Sieg ist Euer."
+        },
+        {
+            "key": "008",
+            "value": "Wenn Ihr Zustandsveränderungen unbehandelt lasst, kann Euch das den Sieg kosten. Sorgt daher stets dafür, entsprechende Gegenmaßnahmen zu ergreifen."
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+﻿{
+    "infos": [
+        {
+            "key": "249",
+            "value": "C'est Graziella Wezett, vous m'avez fait convoquer."
+        },
+        {
+            "key": "250",
+            "value": "Tu es en retard, Graziella. On se permet rarement de me faire attendre."
+        },
+        {
+            "key": "251",
+            "value": "J'étais en ville, pour y prendre la mesure des conditions de vie… Pourquoi m'avez-vous fait venir ?"
+        },
+        {
+            "key": "252",
+            "value": "Il est grand temps que je t'expose les conditions auxquelles tu pourras prétendre à hériter du trône."
+        },
+        {
+            "key": "253",
+            "value": "Des conditions ?"
+        },
+        {
+            "key": "254",
+            "value": "As-tu oublié d'où tu viens ? Pense à ce qui se passerait si cela venait à s'ébruiter. Ton titre d'héritière est loin d'être garanti."
+        },
+        {
+            "key": "255",
+            "value": "J'estime qu'il vaut mieux tuer les problèmes dans l'œuf avant qu'ils n'aient le temps de se manifester. Tu peux considérer que je… teste ta détermination."
+        },
+        {
+            "key": "256",
+            "value": "Et quelles sont ces fameuses conditions ?"
+        },
+        {
+            "key": "257",
+            "value": "En fait, il n'y en a qu'une."
+        },
+        {
+            "key": "258",
+            "value": "Tu dois anéantir le clan de ta mère. Jusqu'au dernier membre."
+        },
+        {
+            "key": "259",
+            "value": "Pa-pardon ?"
+        },
+        {
+            "key": "260",
+            "value": "Il me semble avoir été très clair. Je te demande de trancher toutes les gorges où coule le sang de ta mère."
+        },
+        {
+            "key": "261",
+            "value": "Vous... Vous plaisantez. Je dois massacrer les miens pour hériter du trône ? C'est certainement une très mauvaise blague."
+        },
+        {
+            "key": "262",
+            "value": "Tss, ressaisis-toi, ma fille. Ai-je l'air de plaisanter ?"
+        },
+        {
+            "key": "263",
+            "value": "Quoi ? Mais si vous êtes sérieux, pourquoi exigez-vous une telle chose de moi ?!"
+        },
+        {
+            "key": "264",
+            "value": "Pas une goutte de sang noble ne coule dans les veines de ta mère. Jamais nos sujets et vassaux ne courberont l'échine devant une bâtarde de basse extraction."
+        },
+        {
+            "key": "265",
+            "value": "Sans compter le prix qu'en paierait ma propre légitimité si l'on apprenait que j'ai mis une gueuse sur le trône."
+        },
+        {
+            "key": "266",
+            "value": "Aussi, tu dois effacer toute trace de tes origines avant qu'elles ne soient découvertes."
+        },
+        {
+            "key": "267",
+            "value": "Et à ce titre… Vous ordonnez le meurtre de ma mère... de toute ma famille ?"
+        },
+        {
+            "key": "268",
+            "value": "Ne prends pas cet air ahuri, Graziella. Tu n'ignores pas comment marche le monde. Croyais-tu vraiment qu'une reine de basse extraction avait la moindre chance de régner ?"
+        },
+        {
+            "key": "269",
+            "value": "Si tu es déterminée à revendiquer la couronne et à servir ce royaume, tu dois te défaire des fantômes du passé !"
+        },
+        {
+            "key": "270",
+            "value": "C'est hors de question ! Comment pourrais-je jamais accepter de telles conditions ?"
+        },
+        {
+            "key": "271",
+            "value": "Je ne te demande pas ton avis. Je te donne un ordre, Graziella."
+        },
+        {
+            "key": "272",
+            "value": "Vous êtes un monstre…"
+        },
+        {
+            "key": "273",
+            "value": "Je ne tolère aucune insulte à ma personne. Aucune."
+        },
+        {
+            "key": "274",
+            "value": "Alors quoi ? Vous allez tuer le moindre chien qui grogne dans votre direction et le moindre chocobo qui vous crache au visage ? Même votre propre famille, vous la condamnez au bûcher ?"
+        },
+        {
+            "key": "275",
+            "value": "Jusqu'au dernier, s'il le faut. Et si tu refuses de te plier à mon commandement, ce royaume volera en éclats par ta faute."
+        },
+        {
+            "key": "276",
+            "value": "Le seul moyen d'assurer son unité est d'empêcher quiconque de découvrir tes origines."
+        },
+        {
+            "key": "277",
+            "value": "N'y a-t-il aucune place pour le changement dans le destin de Wezett ?"
+        },
+        {
+            "key": "278",
+            "value": "Ce sont ses traditions qui font la puissance de notre royaume. Ce sont elles qui le rendent inébranlable face aux autres nations. Cela ne doit pas changer."
+        },
+        {
+            "key": "279",
+            "value": "Protéger un royaume exige des sacrifices. Tout grand souverain doit un jour prendre des décisions difficiles."
+        },
+        {
+            "key": "280",
+            "value": "Tu es trop jeune pour le comprendre."
+        },
+        {
+            "key": "281",
+            "value": "Tss, de toute évidence nous n'avons pas la même idée de ce qu'est un grand souverain."
+        },
+        {
+            "key": "282",
+            "value": "Au revoir !"
+        },
+        {
+            "key": "283",
+            "value": "Quelle petite idiote. Mais elle apprendra…"
+        },
+        {
+            "key": "284",
+            "value": "Au rapport !"
+        },
+        {
+            "key": "285",
+            "value": "Quoi ?"
+        },
+        {
+            "key": "286",
+            "value": "Dame Graziella a quitté Wezett à la tête de « Spirare » !"
+        },
+        {
+            "key": "287",
+            "value": "Laissez-la partir."
+        },
+        {
+            "key": "288",
+            "value": "M-Mais Sire, et si elle…"
+        },
+        {
+            "key": "289",
+            "value": "Ça n'a aucune importance. La situation est sous contrôle."
+        },
+        {
+            "key": "290",
+            "value": "Graziella… Il n'y a nul salut au bout de ton chemin."
+        },
+        {
+            "key": "291",
+            "value": "Bon, on a eu de la chance de trouver cette grotte au bon moment. Mais…"
+        },
+        {
+            "key": "292",
+            "value": "Je ne m'attendais pas à ce qu'elle soit si pleine de monstres !"
+        },
+        {
+            "key": "293",
+            "value": "Ils ne peuvent rien contre nous. Débarrassons-nous d'eux."
+        },
+        {
+            "key": "294",
+            "value": "Il en vient toujours davantage !"
+        },
+        {
+            "key": "295",
+            "value": "Étrange…"
+        },
+        {
+            "key": "296",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "297",
+            "value": "Ce n'est pas logique."
+        },
+        {
+            "key": "298",
+            "value": "Les cristaux fondamentaux rétablissent par nature l'équilibre de l'univers."
+        },
+        {
+            "key": "299",
+            "value": "Leur existence même permet à toute chose de trouver la paix."
+        },
+        {
+            "key": "300",
+            "value": "En ce sens, il n'y a rien de plus illogique à ce que la présence d'un cristal fondamental provoque une telle rage parmi les monstres."
+        },
+        {
+            "key": "301",
+            "value": "Je… Je croyais simplement que la quantité de magie qu'il dégageait était trop forte pour leurs esprits primitifs."
+        },
+        {
+            "key": "302",
+            "value": "Ça se tient. Mais il faudrait démontrer cette théorie. Jusqu'ici nous n'avons aucune preuve."
+        },
+        {
+            "key": "303",
+            "value": "C'est vrai que… Je n'y ai pas réfléchi plus que ça."
+        },
+        {
+            "key": "304",
+            "value": "Vous imaginez ? Si les cristaux fondamentaux que protège la Volonté de la Lumière étaient nocifs pour le monde ?"
+        },
+        {
+            "key": "305",
+            "value": "Les cristaux renferment sans doute des secrets qui nous dépassent. Et ce n'est pas à nous de les comprendre."
+        },
+        {
+            "key": "306",
+            "value": "Sauf si ce ne sont plus les cristaux que nous connaissons…"
+        },
+        {
+            "key": "307",
+            "value": "Quoi qu'il en soit, celui-ci est trop dangereux pour être abandonné aux mains de l'humanité."
+        },
+        {
+            "key": "308",
+            "value": "Il pourrait leur permettre de gagner une guerre, certes. Mais l'existence d'une telle puissance n'est que la promesse d'autres guerres futures, dans un cycle sans fin."
+        },
+        {
+            "key": "309",
+            "value": "Dans ce cas, il faut absolument qu'on sorte d'ici."
+        },
+        {
+            "key": "310",
+            "value": "Tout à fait. Couvre-moi, apprenti ! Regagnons la sortie coude à coude !"
+        },
+        {
+            "key": "311",
+            "value": "Oui, Maître !"
+        }
+    ]
+}

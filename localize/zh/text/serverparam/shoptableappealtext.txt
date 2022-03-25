@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "ItemSetA",
+            "value": "1天1個"
+        },
+        {
+            "key": "ItemSetB",
+            "value": "1天10個"
+        },
+        {
+            "key": "ItemSetC",
+            "value": "限定1個"
+        },
+        {
+            "key": "ItemSetD",
+            "value": "限定10個"
+        }
+    ]
+}

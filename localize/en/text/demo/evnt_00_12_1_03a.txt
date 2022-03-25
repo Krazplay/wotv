@@ -1,0 +1,168 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "I received a letter from Master. I suppose you were aware of that in coming here."
+        },
+        {
+            "key": "002",
+            "value": "Yes, that's right."
+        },
+        {
+            "key": "003",
+            "value": "That gives me an idea of what's going on."
+        },
+        {
+            "key": "004",
+            "value": "I take it there are others who were sent this letter."
+        },
+        {
+            "key": "005",
+            "value": "Just Velric."
+        },
+        {
+            "key": "006",
+            "value": "So he got one too..."
+        },
+        {
+            "key": "007",
+            "value": "You know what this means, right? Your skills in the forge will be compared against his."
+        },
+        {
+            "key": "008",
+            "value": "Things are different now."
+        },
+        {
+            "key": "009",
+            "value": "I've pushed myself to the brink of exhaustion honing my craft these past two years."
+        },
+        {
+            "key": "010",
+            "value": "Behold."
+        },
+        {
+            "key": "011",
+            "value": "Did you...forge this yourself?"
+        },
+        {
+            "key": "012",
+            "value": "That's right."
+        },
+        {
+            "key": "013",
+            "value": "It's incredible. I had no idea you had improved this much."
+        },
+        {
+            "key": "014",
+            "value": "Not a chance I'll come in second to Velric. I can finally feel confident saying so."
+        },
+        {
+            "key": "015",
+            "value": "......"
+        },
+        {
+            "key": "016",
+            "value": "Succeeding my father is not the only path forward for a swordmaker."
+        },
+        {
+            "key": "017",
+            "value": "You've not an inkling of what the world is really like."
+        },
+        {
+            "key": "018",
+            "value": "Wha...?"
+        },
+        {
+            "key": "019",
+            "value": "Even having honed my skills this far, those arms dealers still won't move to purchase my blades."
+        },
+        {
+            "key": "020",
+            "value": "...Don't you see?"
+        },
+        {
+            "key": "021",
+            "value": "Under my name, I could be forging the sharpest blades in the land and still no one would bother to glance my way."
+        },
+        {
+            "key": "022",
+            "value": "But how about if I were the first successor to the Harvas name?"
+        },
+        {
+            "key": "023",
+            "value": "The arms dealers would then surely bow their heads and beg that I sell to them. That's just how the world works."
+        },
+        {
+            "key": "024",
+            "value": "That's not true."
+        },
+        {
+            "key": "025",
+            "value": "I mean, everyone starts off without a scrap of renown to their name. Even my father was no exception."
+        },
+        {
+            "key": "026",
+            "value": "I take it that you'd rather I not become his successor."
+        },
+        {
+            "key": "027",
+            "value": "W-well..."
+        },
+        {
+            "key": "028",
+            "value": "......"
+        },
+        {
+            "key": "029",
+            "value": "I shall speak the truth then."
+        },
+        {
+            "key": "030",
+            "value": "My father—he intends to have you and Velric engage in a fight to the death."
+        },
+        {
+            "key": "031",
+            "value": "A fight to the death...!?"
+        },
+        {
+            "key": "032",
+            "value": "It's true. He only needs but one successor."
+        },
+        {
+            "key": "033",
+            "value": "In that case, it is all the more imperative that I reach Master's location."
+        },
+        {
+            "key": "034",
+            "value": "How can you be so thick-skulled? You very well may lose your life!"
+        },
+        {
+            "key": "035",
+            "value": "Were it solely a matchup of our competence as swordsmiths, then it's possible I would still lose to Velric."
+        },
+        {
+            "key": "036",
+            "value": "But the opportunity to brandish those very blades against one another eliminates any possibility of defeat."
+        },
+        {
+            "key": "037",
+            "value": "Zachar...!"
+        },
+        {
+            "key": "038",
+            "value": "Is what you fear the chance that I be killed?"
+        },
+        {
+            "key": "039",
+            "value": "Or perhaps...the chance that I kill Velric?"
+        },
+        {
+            "key": "040",
+            "value": "......"
+        },
+        {
+            "key": "041",
+            "value": "There is nothing you can say to keep me from going."
+        }
+    ]
+}

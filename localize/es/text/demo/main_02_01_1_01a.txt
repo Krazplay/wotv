@@ -1,0 +1,108 @@
+﻿{
+    "infos": [
+        {
+            "key": "025",
+            "value": "Señor, hemos tomado las puertas."
+        },
+        {
+            "key": "026",
+            "value": "Más rápido de lo que esperaba."
+        },
+        {
+            "key": "027",
+            "value": "¿Cuál es la situación de las tropas?"
+        },
+        {
+            "key": "028",
+            "value": "Ninguna ha abandonado el frente aún."
+        },
+        {
+            "key": "029",
+            "value": "Eso quiere decir que la batalla ha sido pan comido."
+        },
+        {
+            "key": "030",
+            "value": "Diría que sí, señor."
+        },
+        {
+            "key": "031",
+            "value": "Me imagino que se preguntan por qué no están asaltando el castillo principal…"
+        },
+        {
+            "key": "032",
+            "value": "Sino este castillo de Valdor, que no es más que un castillo anexo..."
+        },
+        {
+            "key": "033",
+            "value": "Sí que se lo preguntan, señor..."
+        },
+        {
+            "key": "034",
+            "value": "No hay nada que preguntarse. La guerra no solo se basa en combatir en primera fila."
+        },
+        {
+            "key": "035",
+            "value": "Pero..."
+        },
+        {
+            "key": "036",
+            "value": "Se dice que Heindler está teniendo problemas con su asedio del castillo principal..."
+        },
+        {
+            "key": "037",
+            "value": "No digas ni una palabra más."
+        },
+        {
+            "key": "038",
+            "value": "…"
+        },
+        {
+            "key": "039",
+            "value": "Fue decisión del rey Jayden confiarle tal tarea a Heindler."
+        },
+        {
+            "key": "040",
+            "value": "Si tienes algo que objetar..."
+        },
+        {
+            "key": "041",
+            "value": "Nu-nunca... iría en contra de las decisiones del rey Jayden..."
+        },
+        {
+            "key": "042",
+            "value": "Lo sé."
+        },
+        {
+            "key": "043",
+            "value": "No soy tan diferente de vosotros."
+        },
+        {
+            "key": "044",
+            "value": "Lord Chunak..."
+        },
+        {
+            "key": "045",
+            "value": "Tenemos una tarea que cumplir, y eso es lo que el rey Jayden espera de nosotros."
+        },
+        {
+            "key": "046",
+            "value": "... ¿Entendido?"
+        },
+        {
+            "key": "047",
+            "value": "¡Sí, señor!"
+        },
+        {
+            "key": "048",
+            "value": "Pues bien, echemos abajo el castillo de Valdor."
+        },
+        {
+            "key": "049",
+            "value": "Tened cuidado y no bajéis la guardia en ningún momento."
+        },
+        {
+            "key": "050",
+            "value": "El ejército de Rundal solo acepta la perfección absoluta en la victoria."
+        }
+    ]
+}

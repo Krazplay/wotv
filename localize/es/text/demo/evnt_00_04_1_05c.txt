@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Querida jefa de la aldea, ¿dónde te habías metido?"
+        },
+        {
+            "key": "002",
+            "value": "Mariela..."
+        },
+        {
+            "key": "003",
+            "value": "He estado en el campo de batalla."
+        },
+        {
+            "key": "004",
+            "value": "No había participado en la batalla ni una vez desde que comenzó..."
+        },
+        {
+            "key": "005",
+            "value": "He de decir... que estoy impresionada de que alguien como tú se haya convertido en la jefa de Gouga."
+        },
+        {
+            "key": "006",
+            "value": "Solo quiero que la batalla termine... El anciano piensa igual, y por eso..."
+        },
+        {
+            "key": "007",
+            "value": "¡Ya basta de tonterías!"
+        },
+        {
+            "key": "008",
+            "value": "¿Qué?..."
+        },
+        {
+            "key": "009",
+            "value": "¡Siempre has llevado una vida fácil por ser la hija única del anciano!"
+        },
+        {
+            "key": "010",
+            "value": "Pero el resto de nosotros somos diferentes."
+        },
+        {
+            "key": "011",
+            "value": "¿Qué crees que sería de nosotros si no tuviésemos que luchar?"
+        },
+        {
+            "key": "012",
+            "value": "Nada crece en este yermo."
+        },
+        {
+            "key": "013",
+            "value": "¿Cómo piensas alimentar a la gente en semejantes condiciones?"
+        },
+        {
+            "key": "014",
+            "value": "Bueno, yo..."
+        },
+        {
+            "key": "015",
+            "value": "Sin guerras en las que luchar, perdemos nuestro sustento."
+        },
+        {
+            "key": "016",
+            "value": "Y estoy harta de vivir en una cueva húmeda y oscura."
+        },
+        {
+            "key": "017",
+            "value": "No tienes que preocuparte por eso."
+        },
+        {
+            "key": "018",
+            "value": "¿Eres...?"
+        },
+        {
+            "key": "019",
+            "value": "Zazán. Zazán, el Inmortal."
+        },
+        {
+            "key": "020",
+            "value": "Un alma errante que promete mucho. Por eso lo he traído a Gouga."
+        },
+        {
+            "key": "021",
+            "value": "Un momento."
+        },
+        {
+            "key": "022",
+            "value": "Soy la jefa de esta aldea. ¿Cómo no me has consultado antes?"
+        },
+        {
+            "key": "023",
+            "value": "Permíteme que te pregunte yo ahora, entonces."
+        },
+        {
+            "key": "024",
+            "value": "¿Supone un problema dejar que Zazán se quede en nuestra aldea?"
+        },
+        {
+            "key": "025",
+            "value": "No sabemos nada de este hombre. No hay forma de saber qué pasará si le permitimos quedarse en Gouga."
+        },
+        {
+            "key": "026",
+            "value": "Este hombre... tiene información valiosa."
+        },
+        {
+            "key": "027",
+            "value": "¿A qué te refieres?..."
+        },
+        {
+            "key": "028",
+            "value": "He escuchado un rumor de que Skahal, el jefe de Saiga, ha estado manteniendo conversaciones en secreto con alguien de Gouga."
+        },
+        {
+            "key": "029",
+            "value": "¿Qué?..."
+        },
+        {
+            "key": "030",
+            "value": "Qué intriga, ¿no?"
+        },
+        {
+            "key": "031",
+            "value": "P-pero... podría tratarse de un simple rumor falso..."
+        },
+        {
+            "key": "032",
+            "value": "Podría."
+        },
+        {
+            "key": "033",
+            "value": "Pero la trayectoria de Zazán es impecable. Al fin y al cabo, fue Lairyu quien lo envió aquí."
+        },
+        {
+            "key": "034",
+            "value": "..."
+        },
+        {
+            "key": "035",
+            "value": "Déjamelo a mí."
+        },
+        {
+            "key": "036",
+            "value": "¡Trabajo más duro de lo que aparento! ¡Ja, ja, ja, ja, ja!"
+        },
+        {
+            "key": "037",
+            "value": "¡¿Eh?!..."
+        },
+        {
+            "key": "038",
+            "value": "Qu... ¿Qué pasa?"
+        },
+        {
+            "key": "039",
+            "value": "Hueles a sangre."
+        },
+        {
+            "key": "040",
+            "value": "¿A sangre?"
+        },
+        {
+            "key": "041",
+            "value": "Tu ropa apesta a sangre."
+        },
+        {
+            "key": "042",
+            "value": "Pareces inofensiva, pero estás impregnada de la sangre de al menos siete hombres."
+        },
+        {
+            "key": "043",
+            "value": "..."
+        },
+        {
+            "key": "044",
+            "value": "¡Así que los rumores de Gouga son verdad!"
+        },
+        {
+            "key": "045",
+            "value": "Bien, estoy preparado para ponerme a trabajar."
+        },
+        {
+            "key": "046",
+            "value": "Tengo la misión perfecta para ti."
+        },
+        {
+            "key": "047",
+            "value": "¿Y esa es...?"
+        },
+        {
+            "key": "048",
+            "value": "Uno de nuestros exploradores me acaba de comunicar..."
+        },
+        {
+            "key": "049",
+            "value": "Que el jefe de Saiga se encuentra gravemente herido y está intentando escapar."
+        },
+        {
+            "key": "050",
+            "value": "¡...!"
+        },
+        {
+            "key": "051",
+            "value": "¡Cazar al jefe de Saiga! ¡Una muy buena presa!"
+        },
+        {
+            "key": "052",
+            "value": "Su cabeza es historia. Con esto deberíais ganar esta guerra."
+        },
+        {
+            "key": "053",
+            "value": "Me voy."
+        },
+        {
+            "key": "054",
+            "value": "Entre tanto, ¿por qué no encuentras algo que hacer propio de una jefa?"
+        },
+        {
+            "key": "055",
+            "value": "¿Qué debería hacer?... A este paso, Skahal..."
+        },
+        {
+            "key": "056",
+            "value": "..."
+        },
+        {
+            "key": "057",
+            "value": "Tengo que detenerlo..."
+        },
+        {
+            "key": "058",
+            "value": "..."
+        }
+    ]
+}

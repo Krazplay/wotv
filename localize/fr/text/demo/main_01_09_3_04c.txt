@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "90550",
+            "value": "Argh..."
+        },
+        {
+            "key": "90551",
+            "value": "La blessure est profonde..."
+        },
+        {
+            "key": "90552",
+            "value": "L'hémorragie ne s'arrête pas..."
+        },
+        {
+            "key": "90553",
+            "value": "Allez chercher un médecin ! Immédiatement !"
+        }
+    ]
+}

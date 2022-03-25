@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ya hemos hablado antes sobre cómo recuperarse y prevenir los estados alterados, así que ahora me gustaría hablaros un poco sobre las <color=#0000ff>resistencias a los estados alterados</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Los ataques de estado alterado no siempre salen bien, pues cada unidad cuenta con su <color=#0000ff>resistencia a los estados alterados</color>."
+        },
+        {
+            "key": "003",
+            "value": "Como cualquier otro tipo de resistencia, tocad el icono de la <color=#0000ff>lupa</color> cuando vayáis a atacar al enemigo para confirmar la resistencia a los estados alterados."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "005",
+            "value": "Mediena se encuentra combatiendo ahora mismo, y tiene la capacidad de lanzar los hechizos de estado alterado <color=#0000ff>Bio, Morfeo y Tiniebla</color>."
+        },
+        {
+            "key": "006",
+            "value": "A ver que os explique. El <color=#0000ff>enemigo de la espada</color> es vulnerable a <color=#0000ff>Morfeo</color>."
+        },
+        {
+            "key": "007",
+            "value": "Por otro lado, el <color=#0000ff>enemigo de la lanza</color> es débil contra <color=#0000ff>Bio</color>."
+        },
+        {
+            "key": "008",
+            "value": "Y, por último, al <color=#0000ff>enemigo del arco</color> no le sienta nada bien el hechizo <color=#0000ff>Tiniebla</color>."
+        },
+        {
+            "key": "009",
+            "value": "Usad los estados alterados lo mejor que podáis para eliminar al enemigo."
+        }
+    ]
+}

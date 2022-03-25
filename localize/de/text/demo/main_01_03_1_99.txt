@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Es gibt kein Entkommen für dich!"
+        },
+        {
+            "key": "002",
+            "value": "Entkommen? Bring mich nicht zum Lachen, Bursche."
+        },
+        {
+            "key": "003",
+            "value": "Von diesem Moment an gehört ganz Leonis mir!"
+        },
+        {
+            "key": "004",
+            "value": "Styr ... Muraga ist ein äußerst geschickter Kämpfer."
+        },
+        {
+            "key": "005",
+            "value": "Ich weiß. Wenn ich fallen sollte ... kümmert Euch bitte um meine Mutter."
+        },
+        {
+            "key": "006",
+            "value": "... Haltet ein."
+        },
+        {
+            "key": "007",
+            "value": "Wer zum ...?!"
+        },
+        {
+            "key": "008",
+            "value": "Papst Sadali ...!"
+        },
+        {
+            "key": "009",
+            "value": "Hat er Sadali gesagt?!"
+        },
+        {
+            "key": "010",
+            "value": "Der Gründer der Kirche des Kristalls."
+        },
+        {
+            "key": "011",
+            "value": "Erlaubt mir, diesen Konflikt beizulegen."
+        },
+        {
+            "key": "012",
+            "value": "A-Aber ..."
+        },
+        {
+            "key": "013",
+            "value": "Was war das gerade, Muraga? Hast du etwa vor, mir den Gehorsam zu verweigern?"
+        },
+        {
+            "key": "014",
+            "value": "..."
+        },
+        {
+            "key": "015",
+            "value": "Leben sollte nicht verschwendet werden. Ist das klar?"
+        }
+    ]
+}

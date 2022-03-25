@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Padre…"
+        },
+        {
+            "key": "002",
+            "value": "Esta guerra va a requerir todas nuestras fuerzas… Lo presiento."
+        },
+        {
+            "key": "003",
+            "value": "¿Crees que Stern debería luchar a nuestro lado? Dime la verdad."
+        },
+        {
+            "key": "004",
+            "value": "Sí que lo creo, padre."
+        },
+        {
+            "key": "005",
+            "value": "¿Acaso tienes miedo de luchar contra Fennes sin la ayuda de tu hermano?…"
+        },
+        {
+            "key": "006",
+            "value": "…"
+        },
+        {
+            "key": "007",
+            "value": "Si Fennes avanza con todas sus tropas, no deberías tomarlos tan a la ligera."
+        },
+        {
+            "key": "008",
+            "value": "¡¿Pe-pero tú qué haces aquí?!"
+        },
+        {
+            "key": "009",
+            "value": "Cuidado con su legión Ruina. Si recibís su ataque de frente, la derrota estará asegurada."
+        },
+        {
+            "key": "010",
+            "value": "Padre, ¿qué hace Machérie aquí?"
+        },
+        {
+            "key": "011",
+            "value": "Lady Machérie ha decidido acompañarnos a la batalla por voluntad propia."
+        },
+        {
+            "key": "012",
+            "value": "Tus miedos son infundados, sabes que puedo cuidar perfectamente de mí misma."
+        },
+        {
+            "key": "013",
+            "value": "A lo mejor debería ser yo quien te proteja…"
+        },
+        {
+            "key": "014",
+            "value": "Vamos, apresúrate antes de que sea tarde. ¡Regresa al castillo!"
+        },
+        {
+            "key": "015",
+            "value": "Estaba más a gusto de lo que esperaba, eso no te lo puedo negar."
+        },
+        {
+            "key": "016",
+            "value": "Pero yo no soy de las que se quedan en la retaguardia."
+        },
+        {
+            "key": "017",
+            "value": "Disculpadnos, lord Mont…"
+        },
+        {
+            "key": "018",
+            "value": "Pero… ¿no es mejor que te acompañe?"
+        },
+        {
+            "key": "019",
+            "value": "¿A qué te refieres?"
+        }
+    ]
+}

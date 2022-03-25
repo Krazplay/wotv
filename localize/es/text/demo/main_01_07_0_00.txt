@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "70001",
+            "value": "¿Dónde te habías metido?"
+        },
+        {
+            "key": "70002",
+            "value": "Había salido a dar un paseo. Necesitaba un poco de aire fresco para no volverme loca aquí dentro."
+        },
+        {
+            "key": "70003",
+            "value": "Quieres convertirte en mi reina, ¿no? Quizá haya malinterpretado tus intenciones…"
+        },
+        {
+            "key": "70004",
+            "value": "Eso no tiene nada que ver. Lo que pasa es que detesto estar confinada."
+        },
+        {
+            "key": "70005",
+            "value": "Mmm…"
+        },
+        {
+            "key": "70006",
+            "value": "Por cierto, ¿a qué se debía todo ese jaleo en la sala del trono?"
+        },
+        {
+            "key": "70007",
+            "value": "Pues a que han llegado los leones."
+        },
+        {
+            "key": "70008",
+            "value": "¡Caramba! Entonces, seguro que están festejándolo como es debido."
+        },
+        {
+            "key": "70009",
+            "value": "¿Quieres saludarlos?"
+        },
+        {
+            "key": "70010",
+            "value": "¿Con los brazos abiertos… o con la hoja de mi espada?"
+        },
+        {
+            "key": "70011",
+            "value": "Guarda tus armas de momento. Puede que los leoncitos aún nos sirvan de algo… por muy increíble que parezca."
+        },
+        {
+            "key": "70012",
+            "value": "… ¿Y qué pasará cuando ya no sean de ninguna utilidad?"
+        }
+    ]
+}

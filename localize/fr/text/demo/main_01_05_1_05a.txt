@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh..."
+        },
+        {
+            "key": "002",
+            "value": "Sire ! Vous êtes blessé !"
+        },
+        {
+            "key": "003",
+            "value": "Ce n'est qu'une égratignure."
+        },
+        {
+            "key": "004",
+            "value": "Mais votre ventre... il saigne !"
+        },
+        {
+            "key": "005",
+            "value": "Écoute-moi bien, Lilyth. Personne ne doit savoir, c'est compris ?"
+        },
+        {
+            "key": "006",
+            "value": "Mais..."
+        },
+        {
+            "key": "007",
+            "value": "C'est un ordre, Lilyth !"
+        }
+    ]
+}

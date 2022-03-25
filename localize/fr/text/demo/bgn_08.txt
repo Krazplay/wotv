@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Intéressons-nous à présent à <color=#0000ff>l'agilité et à la barre d'action</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Kitone, la ninja actuellement présente sur le champ de bataille, est bien connue pour son agilité."
+        },
+        {
+            "key": "003",
+            "value": "Plus une unité est agile, plus elle agira <color=#0000ff>rapidement</color>. C'est-à-dire que <color=#0000ff>son tour reviendra plus vite</color> après avoir effectué une action."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "L'ogre posté à l'arrière est un monstre puissant mais très lent. Essayez d'envoyer rapidement Kitone à son contact."
+        },
+        {
+            "key": "005",
+            "value": "Une fois que Kitone est assez proche, il est plus judicieux de la laisser <color=#0000ff>attendre</color>, c'est-à-dire <color=#0000ff>ne pas utiliser d'aptitude ni d'attaque</color>."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "006",
+            "value": "Le tour suivant <color=#0000ff>revient plus rapidement</color> si vous n'effectuez qu'un type d'action par tour. Ainsi, il vaut mieux <color=#0000ff>se déplacer et attendre</color> ou <color=#0000ff>attaquer et attendre</color> ou encore <color=#0000ff>ne rien faire et attendre</color> que se déplacer et attaquer dans le même tour."
+        },
+        {
+            "key": "007",
+            "value": "Approchez-vous de l'ogre le plus vite possible avec Kitone et terrassez-le avec ses <color=#0000ff>aptitudes d'attaque</color>."
+        },
+        {
+            "key": "008",
+            "value": "Pendant ce temps, Sire Mont, vous déferez les loups qui vous encerclent."
+        }
+    ]
+}

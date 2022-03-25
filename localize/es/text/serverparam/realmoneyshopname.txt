@@ -1,0 +1,2332 @@
+﻿{
+    "infos": [
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact.001",
+            "value": "Equipo: Verdugo metálico"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.003",
+            "value": "Lote del lanzamiento III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.002.01",
+            "value": "Lote del lanzamiento II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.001",
+            "value": "Lote del lanzamiento I"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_booster.001",
+            "value": "Lote potenciador de energía"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_cg.001",
+            "value": "Lote de energía y guilonio"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.001",
+            "value": "Lote para despertar unidad"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_awaken.001",
+            "value": "Lote para despertar esper"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.001",
+            "value": "Lote de chocobo semanal"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.001",
+            "value": "Lote de mejora de unidad"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_exp.001",
+            "value": "Lote de mejora de equipo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.001",
+            "value": "Lote de mejora de esper"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.001",
+            "value": "Lote de mejora: c. visión"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.001",
+            "value": "Lote de energía diario"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.001",
+            "value": "[Gratis] Lote de visiores A"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.002",
+            "value": "[Gratis] Lote de visiores B"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.003",
+            "value": "[Gratis] Lote de visiores C"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.004",
+            "value": "[Gratis] Lote de visiores D"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.005",
+            "value": "[Gratis] Lote de visiores E"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.006",
+            "value": "[Gratis] Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.007",
+            "value": "[Gratis] Lote de visiores G"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.001",
+            "value": "Lote de visiores A"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.002",
+            "value": "Lote de visiores B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.003",
+            "value": "Lote de visiores C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.004",
+            "value": "Lote de visiores D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.005",
+            "value": "Lote de visiores E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.006",
+            "value": "Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.007.01",
+            "value": "Lote de visiores G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.004",
+            "value": "Lote mensual de fuego"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.005",
+            "value": "Lote mensual de agua"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.006",
+            "value": "Lote mensual de viento"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.007",
+            "value": "Lote mensual de rayo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.008",
+            "value": "Lote mensual de hielo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.009",
+            "value": "Lote mensual de tierra"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.010",
+            "value": "Lote mensual de luz"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.011",
+            "value": "Lote mensual de oscuridad"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_01.rew",
+            "value": "Tícket de invocación insólita"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_02.rew",
+            "value": "Tícket de invocación insólita (x10)"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_05.rew",
+            "value": "Visiores x100"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_03.rew",
+            "value": "Visiores x640"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_04.rew",
+            "value": "Visiores x1350"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.009",
+            "value": "[Colabo.] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.010",
+            "value": "[Colabo.] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.011",
+            "value": "[Colabo.] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.012",
+            "value": "[Colabo.] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.003",
+            "value": "[Colabo.] Lote arcoíris"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.001",
+            "value": "Carta v.: cristal de profesión"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.daily.001",
+            "value": "Lote diario de visiores"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.012",
+            "value": "Lote mensual arcoíris"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.001",
+            "value": "Lote de equipo fuerte"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.002",
+            "value": "Lote de equipo mágico"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.003",
+            "value": "Lotes de equipo vital"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.001",
+            "value": "Lote de estallido límite"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.001",
+            "value": "Lote de habilidad de equipo"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.001",
+            "value": "Lote de visiores 30 días"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.006",
+            "value": "Lote de inicio III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.005",
+            "value": "Lote de inicio II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.004",
+            "value": "Lote de inicio I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "FF EX Univ - Lote visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "FF EX Univ - Lote visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "FF EX Univ - Lote visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "FF EX Univ - Lote visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "FF EX Univ - Lote visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "FF EX Univ - Lote visiores VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "Lote diario de frenesí de FFI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "Lote de frenesí de FFI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.003",
+            "value": "Lote de mejora de unidad+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.003",
+            "value": "Lote de mejora: c. visión+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.015",
+            "value": "Lote de despertar de unidad+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.001",
+            "value": "Lote guilonio"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.014",
+            "value": "[Colabo.] Lote arcoíris"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.003",
+            "value": "Lote de chocobo veraniego x3"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.019",
+            "value": "[Colabo.] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.020",
+            "value": "[Colabo.] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.021",
+            "value": "[Colabo.] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.022",
+            "value": "[Colabo.] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.023",
+            "value": "[Colabo.] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.024",
+            "value": "[Colabo.] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "Pase de desafío"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "Pase de mejora de unidad"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "Pase de mejora de equipo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.016",
+            "value": "[Colabo.] Lote arcoíris"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.025",
+            "value": "[Colabo.] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.026",
+            "value": "[Colabo.] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.027",
+            "value": "[Colabo.] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.028",
+            "value": "[Colabo.] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.029",
+            "value": "[Colabo.] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.030",
+            "value": "[Colabo.] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst.001",
+            "value": "Lote de estallido límite"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability.001",
+            "value": "Lote de habilidad de equipo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.001",
+            "value": "Lote diario de pieza de unidad UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.002",
+            "value": "Lote especial de pieza de unidad UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.001",
+            "value": "Lote de tícket de avance de historia"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.003",
+            "value": "Lote de tícket de avance de evento"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.001",
+            "value": "Lote especial de tícket de avance"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.031",
+            "value": "[Limitado] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.032",
+            "value": "[Limitado] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.033",
+            "value": "[Limitado] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.034",
+            "value": "[Limitado] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.035",
+            "value": "[Limitado] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.036",
+            "value": "[Limitado] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.008",
+            "value": "Lote de visiores B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.009",
+            "value": "Lote de visiores C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.010",
+            "value": "Lote de visiores D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.011",
+            "value": "Lote de visiores E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.012",
+            "value": "Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.013",
+            "value": "Lote de visiores G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.001",
+            "value": "Lote de regalos de MyCard"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.037",
+            "value": "[Limitado] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.038",
+            "value": "[Limitado] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.039",
+            "value": "[Limitado] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.040",
+            "value": "[Limitado] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.041",
+            "value": "[Limitado] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.042",
+            "value": "[Limitado] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.043",
+            "value": "[Limitado] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.008",
+            "value": "[Gratis] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.014",
+            "value": "Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.044",
+            "value": "[Colabo.] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.045",
+            "value": "[Colabo.] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.046",
+            "value": "[Colabo.] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.047",
+            "value": "[Colabo.] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.048",
+            "value": "[Colabo.] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.049",
+            "value": "[Colabo.] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.050",
+            "value": "[Colabo.] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.002",
+            "value": "BlackFriday-Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.003",
+            "value": "BlackFriday-Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.004",
+            "value": "BlackFriday-Lote de medallas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.005",
+            "value": "BlackFriday-Lote despertar ud."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.006",
+            "value": "BlackFriday-Lote de c. visión"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.007",
+            "value": "BlackFriday-Lote de espers"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.008",
+            "value": "BlackFriday-Lote chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.009",
+            "value": "BlackFriday-Lote arcoíris"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.002",
+            "value": "[Limitado] Lote de 30 días+"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.051",
+            "value": "Celebración-Lote visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.052",
+            "value": "Celebración-Lote visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.053",
+            "value": "Celebración-Lote visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.054",
+            "value": "Celebración-Lote visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.055",
+            "value": "Celebración-Lote visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.056",
+            "value": "Celebración-Lote visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.057",
+            "value": "Celebración-Lote visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.010",
+            "value": "Invierno - Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.011",
+            "value": "Invierno - Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.012",
+            "value": "Lote de medallas festivas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.013",
+            "value": "Invierno - Lote despertar ud."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.014",
+            "value": "Invierno - Lote mejoracarta"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.015",
+            "value": "Invierno - Lote mejoraesper"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.016",
+            "value": "Invierno - Lote de chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.017",
+            "value": "Invierno - Lote arcoíris"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.058",
+            "value": "Año Nuevo-Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.059",
+            "value": "Año Nuevo-Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.060",
+            "value": "Año Nuevo-Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.061",
+            "value": "Año Nuevo-Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.062",
+            "value": "Año Nuevo-Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.063",
+            "value": "Año Nuevo-Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.064",
+            "value": "Año Nuevo-Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.065",
+            "value": "Invierno2021-Lote visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.066",
+            "value": "Invierno2021-Lote visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.067",
+            "value": "Invierno2021-Lote visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.068",
+            "value": "Invierno2021-Lote visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.069",
+            "value": "Invierno2021-Lote visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.070",
+            "value": "Invierno2021-Lote visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.071",
+            "value": "Invierno2021-Lote visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_egg.001",
+            "value": "Lote potenciador de PdP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_egg.002",
+            "value": "Lote de ovalitas diarias"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.001",
+            "value": "[Prueba] Lote de llave de PdP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.002",
+            "value": "Lote de llave de PdP mensual"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.018",
+            "value": "Invierno2021-Lote visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.019",
+            "value": "Invierno2021-Lote visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.020",
+            "value": "Invierno2021-Lote de medallas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.021",
+            "value": "Invierno2021-Lote de despertar"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.022",
+            "value": "Invierno2021-Lote de esper"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.023",
+            "value": "Invierno2021-Lote de avance"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.024",
+            "value": "Invierno2021-Lote chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.025",
+            "value": "Invierno2021-Lote arcoíris"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.001",
+            "value": "[Semanal] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.002",
+            "value": "[Semanal] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard_weekly.003",
+            "value": "[Semanal] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.003",
+            "value": "[Mensual] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.002",
+            "value": "[Mensual] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.lapis_monthly.001",
+            "value": "[Mensual] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.004",
+            "value": "Pase prémium"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.003",
+            "value": "1er aniv.-Lote de 30 días+"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.072",
+            "value": "1er aniv.-Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.073",
+            "value": "1er aniv.-Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.074",
+            "value": "1er aniv.-Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.075",
+            "value": "1er aniv.-Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.076",
+            "value": "1er aniv.-Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.077",
+            "value": "1er aniv.-Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.078",
+            "value": "1er aniv.-Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.001",
+            "value": "Lote de profesión EX"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.002",
+            "value": "Lote de losas de armas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.003",
+            "value": "Lote de estatuas de alcrists"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.004",
+            "value": "Lote de equipo (DEF)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.005",
+            "value": "Lote de equipo (ESP)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.006",
+            "value": "Lote de equipo (ATQ)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.007",
+            "value": "Lote de equipo (MAG)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.026",
+            "value": "1er aniv.-Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.027",
+            "value": "1er aniv.-Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.007",
+            "value": "Lote especial de principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.028",
+            "value": "1er aniv.-Lote profesión EX"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.029",
+            "value": "Lote de medalla del primer aniversario"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.030",
+            "value": "1er aniv.-Lote despertar ud."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.031",
+            "value": "1er aniv.-Lote de c. visión"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.032",
+            "value": "1er aniv.-Lote de esper"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.033",
+            "value": "1er aniv.-Lote de chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.034",
+            "value": "1er aniv.-Lote arcoíris"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.079",
+            "value": "[NieR] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.080",
+            "value": "[NieR] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.081",
+            "value": "[NieR] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.082",
+            "value": "[NieR] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.083",
+            "value": "[NieR] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.084",
+            "value": "[NieR] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.085",
+            "value": "[NieR] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.002",
+            "value": "Lote especial de tícket de avance"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.035",
+            "value": "[NieR] Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.036",
+            "value": "[NieR] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.037",
+            "value": "[NieR] Lote de fragmentos de NieR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.008",
+            "value": "[NieR] Lote especial de principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.038",
+            "value": "[NieR] Lote de profesión EX"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.039",
+            "value": "[NieR] Lote de medalla de primavera 2021"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.040",
+            "value": "[NieR] Lote para despertar unidad"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.041",
+            "value": "[NieR] Lote de c. visión"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.042",
+            "value": "[NieR] Lote de esper"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.043",
+            "value": "[NieR] Lote de chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.044",
+            "value": "[NieR] Lote arcoíris"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.004",
+            "value": "[Oferta] Superlote de 30 días"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.086",
+            "value": "[Oferta] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.087",
+            "value": "[Oferta] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.088",
+            "value": "[Oferta] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.089",
+            "value": "[Oferta] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.090",
+            "value": "[Oferta] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.091",
+            "value": "[Oferta] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.092",
+            "value": "[Oferta] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.visiore.001",
+            "value": "Lote de visiores inicial"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.comeback.001",
+            "value": "Lote de selección de unidad UR nv. 99"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.001",
+            "value": "[Oferta] Lote de entrenamiento de unidad"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.001",
+            "value": "[Oferta] Lote de esper y c.v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.001",
+            "value": "[Oferta] Lote de materiales"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.045",
+            "value": "[Oferta] Lote especial de equipo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.046",
+            "value": "[Oferta] Lote especial arcoíris"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.047",
+            "value": "[Oferta] Lote de mejora de esper"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.048",
+            "value": "[Oferta] Lote de profesión EX+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.049",
+            "value": "[Oferta] Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.050",
+            "value": "[Oferta] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.051",
+            "value": "[Oferta] Lote especial de principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.052",
+            "value": "[Oferta] Lote para despertar unidad"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.053",
+            "value": "[Oferta] Lote de carta de visión"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.054",
+            "value": "[Oferta] Lote de chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.055",
+            "value": "[Oferta] Lote arcoíris"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.093",
+            "value": "[Celeb. 3] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.094",
+            "value": "[Celeb. 3] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.095",
+            "value": "[Celeb. 3] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.096",
+            "value": "[Celeb. 3] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.097",
+            "value": "[Celeb. 3] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.098",
+            "value": "[Celeb. 3] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.099",
+            "value": "[Celeb. 3] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.056",
+            "value": "[Celeb. 3] Lote de Zazán UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.057",
+            "value": "[Celeb. 3] Lote de Duane"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.058",
+            "value": "[Celeb. 3] Lote de Fryevia"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.100",
+            "value": "[Verano 2021] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.101",
+            "value": "[Verano 2021] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.102",
+            "value": "[Verano 2021] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.103",
+            "value": "[Verano 2021] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.104",
+            "value": "[Verano 2021] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.105",
+            "value": "[Verano 2021] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.106",
+            "value": "[Verano 2021] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.job_ex.004",
+            "value": "Lote de losas de armas"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.059",
+            "value": "Lote de fragmentos de Lilit veraniega"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.060",
+            "value": "Lote de fragmentos de Kiton veraniega"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.061",
+            "value": "Lote de fragmentos de Kilfe veraniega"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.062",
+            "value": "Lote de fragmentos de Elsirel veraniega"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.002",
+            "value": "[Verano 2021] Lote de entrenamiento de unidad veraniega"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.002",
+            "value": "[Verano 2021] Lote de esper y c.v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.002",
+            "value": "[Verano 2021] Lote de materiales"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.063",
+            "value": "[Verano 2021] Lote de equipo+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.064",
+            "value": "[Verano 2021] Lote arcoíris+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.065",
+            "value": "[Verano 2021] Lote de esper+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.066",
+            "value": "[Verano 2021] Lote de profesión EX+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.067",
+            "value": "[Verano 2021] Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.068",
+            "value": "[Verano 2021] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.069",
+            "value": "[Verano 2021] Lote especial de principiantes"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.107",
+            "value": "[Colabo.] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.108",
+            "value": "[Colabo.] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.109",
+            "value": "[Colabo.] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.110",
+            "value": "[Colabo.] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.111",
+            "value": "[Colabo.] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.112",
+            "value": "[Colabo.] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.113",
+            "value": "[Colabo.] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.070",
+            "value": "[Colabo.] Lote de fragmentos de Cloud"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.071",
+            "value": "[Colabo.] Lote de fragmentos de Tifa"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.comeback.002",
+            "value": "Lote de unidad UR nv. 99"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit.training.003",
+            "value": "[Colabo.] Lote de entrenamiento de unidad"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.003",
+            "value": "[Colabo.] Lote de esper y c.v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.003",
+            "value": "[Colabo.] Lote de materiales"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.074",
+            "value": "[Colabo.] Lote de equipo+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.075",
+            "value": "[Colabo.] Lote arcoíris+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.076",
+            "value": "[Colabo.] Lote de esper+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.077",
+            "value": "[Colabo.] Lote de profesión EX+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.078",
+            "value": "[Colabo.] Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.079",
+            "value": "[Colabo.] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.080",
+            "value": "[Colabo.] Lote especial de principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.081",
+            "value": "[Colabo.] Lote de fragmentos de Barret"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.082",
+            "value": "[Colabo.] Lote de fragmentos de Aeris"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.114",
+            "value": "[Año y medio] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.115",
+            "value": "[Año y medio] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.116",
+            "value": "[Año y medio] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.117",
+            "value": "[Año y medio] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.118",
+            "value": "[Año y medio] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.119",
+            "value": "[Año y medio] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.120",
+            "value": "[Año y medio] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.item.001",
+            "value": "Lote especial de objetos para principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.083",
+            "value": "[Año y medio] Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.084",
+            "value": "[Año y medio] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.085",
+            "value": "[Año y medio] Lote de fragmentos de Lara Croft"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.086",
+            "value": "[Año y medio] Lote especial de principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.004",
+            "value": "[Año y medio] Lote de esper y c.v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.004",
+            "value": "[Año y medio] Lote de materiales"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.087",
+            "value": "[Año y medio] Lote de profesión EX+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.088",
+            "value": "[Año y medio] Lote arcoíris+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.089",
+            "value": "[Año y medio] Lote de esper+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.090",
+            "value": "[Año y medio] Lote de equipo+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.091",
+            "value": "[Año y medio] Lote de guilonios (XL)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.092",
+            "value": "Lote de habilidad de equipo"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.005",
+            "value": "[Año y medio] Superlote de 30 días"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.093",
+            "value": "[Año y medio] Lote de fragmentos de unidad de celeb."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.094",
+            "value": "[Año y medio] Lote de inicio de invocación de celeb."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.095",
+            "value": "[Año y medio] Lote de invocación de celeb."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.096",
+            "value": "[Año y medio] Lote de unidad UR nv. 99"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.121",
+            "value": "[Halloween 2021] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.122",
+            "value": "[Halloween 2021] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.123",
+            "value": "[Halloween 2021] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.124",
+            "value": "[Halloween 2021] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.125",
+            "value": "[Halloween 2021] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.126",
+            "value": "[Halloween 2021] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.127",
+            "value": "[Halloween 2021] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.item.002",
+            "value": "Lote especial de objetos para principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.097",
+            "value": "[Halloween 2021] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.098",
+            "value": "[Halloween 2021] Lote seleccionador de fragmentos de unidad de Halloween"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.099",
+            "value": "[Halloween 2021] Lote de invocación para principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.100",
+            "value": "[Halloween 2021] Lote de invocación"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.101",
+            "value": "[Halloween 2021] Lote especial de principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.training.005",
+            "value": "[Halloween 2021] Lote de esper y c.v."
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.ticket.training.005",
+            "value": "[Halloween 2021] Lote de materiales"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.102",
+            "value": "[Halloween 2021] Lote de profesión EX+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.103",
+            "value": "[Halloween 2021] Lote arcoíris+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.104",
+            "value": "[Halloween 2021] Lote de esper+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.105",
+            "value": "[Halloween 2021] Lote de equipo+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.106",
+            "value": "[Halloween 2021] Lote de guilonios (XL)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.107",
+            "value": "[Halloween 2021] Lote de misión de llave"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.108",
+            "value": "[Colaboración] Lote de misión de evento"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.109",
+            "value": "[Colaboración] Lote de unidad de tierra"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.110",
+            "value": "[Colaboración] Lote de unidad de oscuridad"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.111",
+            "value": "[Colaboración] Lote de unidad de hielo"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.128",
+            "value": "[Black Friday] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.129",
+            "value": "[Black Friday] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.130",
+            "value": "[Black Friday] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.131",
+            "value": "[Black Friday] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.132",
+            "value": "[Black Friday] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.133",
+            "value": "[Black Friday] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.134",
+            "value": "[Black Friday] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.112",
+            "value": "[Black Friday] Lote de visiores F"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.113",
+            "value": "[Black Friday] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.114",
+            "value": "[Black Friday] Lote seleccionador de unidad UR completo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.115",
+            "value": "[Black Friday] Lote de mejora de profesión EX+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.116",
+            "value": "[Black Friday] Lote de mejora de profesión+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.117",
+            "value": "[Black Friday] Lote seleccionador de carta de visión UR completo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.118",
+            "value": "[Black Friday] Lote seleccionador de mejora de esper"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.119",
+            "value": "[Black Friday] Lote de estrellas de alma"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.120",
+            "value": "[Black Friday] Lote de estrellas de visión"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.121",
+            "value": "[Black Friday] Lote de tíckets de avance"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.122",
+            "value": "[Black Friday] Lote de expedición chocobo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.123",
+            "value": "[Black Friday] Lote de provisiones de barracones"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.124",
+            "value": "[Colaboración de FFXV] Lote de fragmentos de Noctis"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.125",
+            "value": "[Colaboración de FFXV] Lote de fragmentos de Prompto"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.126",
+            "value": "[Colaboración de FFXV] Lote de fragmentos de Aranea"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.135",
+            "value": "[Invierno 2021] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.136",
+            "value": "[Invierno 2021] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.137",
+            "value": "[Invierno 2021] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.138",
+            "value": "[Invierno 2021] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.139",
+            "value": "[Invierno 2021] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.140",
+            "value": "[Invierno 2021] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.141",
+            "value": "[Invierno 2021] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.127",
+            "value": "[Invierno 2021] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.128",
+            "value": "[Invierno 2021] Lote de tícket de invocación destacada de las fiestas de invierno para principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.129",
+            "value": "[Invierno 2021] Lote de tícket de invocación destacada de las fiestas de invierno"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.130",
+            "value": "[Invierno 2021] Lote de fragmentos de Luarta invernal"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.131",
+            "value": "[Invierno 2021] Lote especial de principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.132",
+            "value": "[Invierno 2021] Lote de mejora de esper y carta de visión esencial"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.133",
+            "value": "[Invierno 2021] Lote de materiales esenciales"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.134",
+            "value": "[Invierno 2021] Lote de profesión EX+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.135",
+            "value": "[Invierno 2021] Lote arcoíris+ "
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.136",
+            "value": "[Invierno 2021] Lote de mejora de esper+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.137",
+            "value": "[Invierno 2021] Lote de mejora de equipo+ "
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.138",
+            "value": "[Invierno 2021] Lote de guilonios (XL)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.142",
+            "value": "[Celeb. 5] Lote de tícket de invocación destacada para principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.140",
+            "value": "[Celeb. 5] Lote de tíckets de invocación destacada"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.141",
+            "value": "[Celeb. 5] Lote de fragmentos de unidad internacional"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.142",
+            "value": "[10M] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.143",
+            "value": "[10M] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.144",
+            "value": "[10M] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.145",
+            "value": "[10M] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.146",
+            "value": "[10M] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.147",
+            "value": "[10M] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.148",
+            "value": "[10M] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.143",
+            "value": "[10M] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.144",
+            "value": "[FFIV] Lote de fragmentos de Golbez"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.145",
+            "value": "[FFIV] Lote de fragmentos de Cecil"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.146",
+            "value": "[FFIV] Lote de fragmentos de Kain"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.147",
+            "value": "[FFIV] Lote de fragmentos de Rosa"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.148",
+            "value": "[10M] Lote especial de principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.149",
+            "value": "[10M] Lote de mejora de esper y carta de visión"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.150",
+            "value": "[10M] Lote de tícket de avance+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.151",
+            "value": "[10M] Lote de provisiones"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.152",
+            "value": "[10M] Lote de profesión EX+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.153",
+            "value": "[10M] Lote arcoíris+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.154",
+            "value": "[10M] Lote de mejora de esper+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.155",
+            "value": "[10M] Lote de mejora de equipo+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.156",
+            "value": "[10M] Lote de guilonios (XL)"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157",
+            "value": "[Lunar 22] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161",
+            "value": "[Lunar 22] Lote de invocación destacada para principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159",
+            "value": "[Lunar 22] Lote de invocación destacada"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160",
+            "value": "[Lunar 22] Lote de fragmentos de Moore lunar"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.157(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.161(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.159(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.160(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162",
+            "value": "[Carnaval] Lote diario especial"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163",
+            "value": "[Carnaval] Lote de entrenamiento de unidad"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164",
+            "value": "[Carnaval] Lote de entrenamiento de carta de visión"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.162(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.163(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.164(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149",
+            "value": "[2º aniv.] Lote de visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150",
+            "value": "[2º aniv.] Lote de visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151",
+            "value": "[2º aniv.] Lote de visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152",
+            "value": "[2º aniv.] Lote de visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153",
+            "value": "[2º aniv.] Lote de visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154",
+            "value": "[2º aniv.] Lote de visiores VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155",
+            "value": "[2º aniv.] Lote de visiores VII"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003",
+            "value": "[Prueba] Lote de llaves de PdP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001",
+            "value": "[Prueba] Lote de llaves de afinidad/resonancia"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009",
+            "value": "[Principiantes] Lote seleccionador de unidad UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010",
+            "value": "[Principiantes] Lote de despertar de unidad+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011",
+            "value": "[Principiantes] Lote seleccionador de carta de visión UR"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003",
+            "value": "Lote de mejora de esper"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002",
+            "value": "Lote de guilonios"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002",
+            "value": "Lote de mejora de estallido límite"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002",
+            "value": "Lote de habilidad de equipo"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004",
+            "value": "[Mensual] Lote de llave de PdP"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002",
+            "value": "[Mensual] Lote de llaves de afinidad/resonancia"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001",
+            "value": "[Mensual] Lote de despertar+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165",
+            "value": "[2.º aniv.] Lote de visiores H"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166",
+            "value": "[FFVI] Lote de invocación destacada para principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167",
+            "value": "[FFVI] Lote de invocación destacada"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171",
+            "value": "[2.º aniv.] Lote especial de principiantes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172",
+            "value": "[2.º aniv.] Lote de mejora de esper y carta de visión"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173",
+            "value": "[2.º aniv.] Lote de tícket de avance+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174",
+            "value": "[2.º aniv.] Lote de provisiones"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175",
+            "value": "[2.º aniv.] Lote de profesión EX+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176",
+            "value": "[2.º aniv.] Lote arcoíris+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177",
+            "value": "[2.º aniv.] Lote de mejora de esper+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178",
+            "value": "[2.º aniv.] Lote de equipo+"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179",
+            "value": "[2.º aniv.] Lote de guilonios (XL)"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.149(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.150(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.151(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.152(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.153(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.154(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.155(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.003(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.009(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.010(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.011(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.003(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.jp_booster_key.004(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.link_key.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_full_awakening.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.165(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.166(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.167(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.171(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.172(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.173(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.174(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.175(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.176(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.177(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.178(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.179(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001",
+            "value": "Lote de fragmentos de Celes"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002",
+            "value": "Lote de fragmentos de Terra"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001",
+            "value": "Lote del 2.º aniversario"
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate1)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate2)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.001(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.collab_pack.002(Duplicate3)",
+            "value": ""
+        },
+        {
+            "key": "wotvffbeww.realmoney.hotdeal.2nd_anni_pack.001(Duplicate3)",
+            "value": ""
+        }
+    ]
+}

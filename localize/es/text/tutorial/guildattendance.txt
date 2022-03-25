@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "TALK_001",
+            "value": "Y con esto, doy por finalizada mi explicación. Hablaremos sobre las estatuas del gremio, los barracones y las misiones de gremio cuando los hayáis visitado."
+        },
+        {
+            "key": "TALK_002",
+            "value": "Hablaremos sobre las estatuas del gremio, los barracones y las misiones de gremio más adelante."
+        },
+        {
+            "key": "DIALOG_001_T",
+            "value": "• Vestíbulo del gremio •"
+        },
+        {
+            "key": "DIALOG_001_M",
+            "value": "• Vestíbulo del gremio •<br>Aquí podéis hacer uso de todas las opciones que os ofrece el gremio."
+        },
+        {
+            "key": "DIALOG_002_T",
+            "value": "• Asistencia •"
+        },
+        {
+            "key": "DIALOG_002_M",
+            "value": "• Asistencia •<br>Aquí podéis ver cuántos miembros del gremio están conectados. Los miembros reciben recompensas <color=#00ffff>según el número total de miembros conectados y el nivel de vuestras estatuas del gremio</color>."
+        },
+        {
+            "key": "DIALOG_003_T",
+            "value": "• Regalos •"
+        },
+        {
+            "key": "DIALOG_003_M",
+            "value": "• Regalos •<br><color=#00ffff>Podéis enviar regalos</color> a otros miembros de vuestro gremio."
+        },
+        {
+            "key": "DIALOG_004_T",
+            "value": "• Menú •"
+        },
+        {
+            "key": "DIALOG_004_M",
+            "value": "• Menú •<br>Aquí podéis ver la <color=#00ffff>información</color> sobre <color=#00ffff>vuestro gremio y sus miembros</color>. También podéis enviar <color=#00ffff>invitaciones y solicitudes para unirse</color>, o <color=#00ffff>abandonar vuestro gremio actual</color>."
+        },
+        {
+            "key": "DIALOG_005_T",
+            "value": "• Templo •"
+        },
+        {
+            "key": "DIALOG_005_M",
+            "value": "• Estatuas del gremio •<br>Aquí podéis <color=#00ffff>mejorar vuestras estatuas del gremio</color>."
+        },
+        {
+            "key": "DIALOG_006_T",
+            "value": "• Barracones •"
+        },
+        {
+            "key": "DIALOG_006_M",
+            "value": "• Barracones •<br>En el vestíbulo podéis comprobar <color=#00ffff>el estado de vuestras provisiones restantes</color>."
+        },
+        {
+            "key": "DIALOG_007_T",
+            "value": "• Combates de gremio •"
+        },
+        {
+            "key": "DIALOG_007_M",
+            "value": "• Combates de gremio •<br>En el vestíbulo podéis comprobar <color=#00ffff>la clasificación de vuestro gremio</color> y sus <color=#00ffff>resultados en la liga</color>."
+        },
+        {
+            "key": "DIALOG_008_T",
+            "value": "• Misiones de gremio •"
+        },
+        {
+            "key": "DIALOG_008_M",
+            "value": "• Misiones de gremio •<br>Puedes comprobar <color=#00ffff>si una campaña está activa o no</color> en el vestíbulo."
+        },
+        {
+            "key": "SKIP_TITLE",
+            "value": "• Gremios •"
+        },
+        {
+            "key": "SKIP_MSG",
+            "value": "¿Queréis ver el tutorial sobre los gremios?"
+        },
+        {
+            "key": "SKIP_YES",
+            "value": "Sí"
+        },
+        {
+            "key": "SKIP_NO",
+            "value": "No"
+        }
+    ]
+}

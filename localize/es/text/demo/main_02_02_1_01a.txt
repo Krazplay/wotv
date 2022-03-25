@@ -1,0 +1,96 @@
+﻿{
+    "infos": [
+        {
+            "key": "010",
+            "value": "¡Lady Moore!"
+        },
+        {
+            "key": "011",
+            "value": "Se acercan numerosos barcos enemigos."
+        },
+        {
+            "key": "012",
+            "value": "Sí, lo sé..."
+        },
+        {
+            "key": "013",
+            "value": "Las estrellas me lo han contado todo."
+        },
+        {
+            "key": "014",
+            "value": "¡Por supuesto, milady! Mis disculpas."
+        },
+        {
+            "key": "015",
+            "value": "Solo lady Moore podría ver más allá de lo que los demás vemos."
+        },
+        {
+            "key": "016",
+            "value": "No importa de cuántos barcos dispongan. Nuestra victoria es inquebrantable."
+        },
+        {
+            "key": "017",
+            "value": "Te voy a mostrar la habilidad de una verdadera astróloga, Ramada..."
+        },
+        {
+            "key": "018",
+            "value": "Eh... ¿Ramada..., milady?"
+        },
+        {
+            "key": "019",
+            "value": "No es nada."
+        },
+        {
+            "key": "020",
+            "value": "Preparad los cañones."
+        },
+        {
+            "key": "021",
+            "value": "¡Sí, milady!"
+        },
+        {
+            "key": "022",
+            "value": "No tendré piedad contigo, Ramada..."
+        },
+        {
+            "key": "023",
+            "value": "Pero no debes preocuparte."
+        },
+        {
+            "key": "024",
+            "value": "Haré que las pobres almas de nuestra gente descansen eternamente..."
+        },
+        {
+            "key": "025",
+            "value": "¡Cañones listos!"
+        },
+        {
+            "key": "026",
+            "value": "A estribor... ochenta y seis grados."
+        },
+        {
+            "key": "027",
+            "value": "¡¡¡Fuego!!!"
+        },
+        {
+            "key": "028",
+            "value": "Lady Moore... Parece que hemos fallado..."
+        },
+        {
+            "key": "029",
+            "value": "¡¿Cómo es posible?!"
+        },
+        {
+            "key": "030",
+            "value": "¡¿Se están... burlando de mí?!"
+        },
+        {
+            "key": "031",
+            "value": "¡¿Pero qué...?! Se supone que deberíamos estar echando a correr..."
+        },
+        {
+            "key": "032",
+            "value": "Ramada... Tú..."
+        }
+    ]
+}

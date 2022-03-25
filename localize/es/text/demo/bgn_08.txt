@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "En esta ocasión, vamos a aprender más sobre la <color=#0000ff>agilidad y la barra de acción</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Kiton, la ninja que se encuentra en el campo de batalla, es archiconocida por la agilidad de sus movimientos."
+        },
+        {
+            "key": "003",
+            "value": "Las unidades con un alto nivel de agilidad pueden moverse con mayor <color=#0000ff>rapidez</color> que otras y, además, después de realizar la acción, <color=#0000ff>el turno siguiente</color> les llegará más rápido."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "El ogro que hay al fondo del campo de batalla es un monstruo bastante poderoso, pero también es muy lento. Desplacemos a Kiton cerca de él."
+        },
+        {
+            "key": "005",
+            "value": "Cuando Kiton haya llegado a la ubicación deseada, lo mejor es dejarla en <color=#0000ff>modo de espera</color> después de moverse <color=#0000ff>sin realizar ninguna acción</color>, como podría ser un ataque o el uso de alguna habilidad."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "006",
+            "value": "Tu próximo turno tendrá lugar <color=#0000ff>más rápido</color> si <color=#0000ff>solo te mueves</color> y esperas, si <color=#0000ff>solo atacas</color> y esperas, o si esperas <color=#0000ff>sin moverte ni realizar ninguna otra acción</color> en lugar de moverte y atacar."
+        },
+        {
+            "key": "007",
+            "value": "Acércate al ogro lo más rápido que puedas y derríbalo con la <color=#0000ff>habilidad de ataque</color> de Kiton."
+        },
+        {
+            "key": "008",
+            "value": "Mientras tanto, lord Mont, vos encargaos de los lobos de alrededor."
+        }
+    ]
+}

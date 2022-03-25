@@ -1,0 +1,16 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Wir haben den Anführer der Skelette besiegt!"
+        },
+        {
+            "key": "002",
+            "value": "Damit wäre unser Auftrag abgeschlossen!"
+        },
+        {
+            "key": "003",
+            "value": "Juhuuu! Lasst uns zu Schloss Leonis zurückkehren!"
+        }
+    ]
+}

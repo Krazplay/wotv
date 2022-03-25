@@ -1,0 +1,152 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Lynx !"
+        },
+        {
+            "key": "002",
+            "value": "Tiens bon !"
+        },
+        {
+            "key": "003",
+            "value": "Ne t'inquiète pas... pour moi..."
+        },
+        {
+            "key": "004",
+            "value": "Il y a plus grave."
+        },
+        {
+            "key": "005",
+            "value": "Tu entends ?"
+        },
+        {
+            "key": "006",
+            "value": "On dirait le bruit... d'épées..."
+        },
+        {
+            "key": "007",
+            "value": "Une bataille ? Par ici ?"
+        },
+        {
+            "key": "008",
+            "value": "On l'a enfin rattrapé. C'est Adelard !"
+        },
+        {
+            "key": "009",
+            "value": "Mais tu es blessée..."
+        },
+        {
+            "key": "010",
+            "value": "Ne t'en fais pas. Dépêchons-nous !"
+        },
+        {
+            "key": "011",
+            "value": "Eh devant ! Pourquoi ça ralentit ?"
+        },
+        {
+            "key": "012",
+            "value": "Je crois qu'on se heurte à la fameuse puissance de la seconde division de Hourne, « Nitor »."
+        },
+        {
+            "key": "013",
+            "value": "C'est qui, ces deux-là ?"
+        },
+        {
+            "key": "014",
+            "value": "Rien qu'à leur tête, je sens qu'ils vont pas faire long feu !"
+        },
+        {
+            "key": "015",
+            "value": "Saliah, tu es blessée ?"
+        },
+        {
+            "key": "016",
+            "value": "Pas du tout. Et toi ?"
+        },
+        {
+            "key": "017",
+            "value": "Moi non plus, mais..."
+        },
+        {
+            "key": "018",
+            "value": "Il y a beaucoup trop de moines de l'Église. Il faut nous en débarrasser, sans quoi..."
+        },
+        {
+            "key": "019",
+            "value": "Laissez-nous faire !"
+        },
+        {
+            "key": "020",
+            "value": "Lynx !"
+        },
+        {
+            "key": "021",
+            "value": "Oh ! Et tu as une nouvelle amie ?"
+        },
+        {
+            "key": "022",
+            "value": "Je m'appelle Kitone. Je suis une shinobi au service de Leonis."
+        },
+        {
+            "key": "023",
+            "value": "De... Leonis ?"
+        },
+        {
+            "key": "024",
+            "value": "Seigneur, nous discuterons allégeances plus tard."
+        },
+        {
+            "key": "025",
+            "value": "Lynx... j'ai une faveur à te demander."
+        },
+        {
+            "key": "026",
+            "value": "Je t'écoute ?"
+        },
+        {
+            "key": "027",
+            "value": "Gardes-en un en vie. J'ai des questions à leur poser."
+        },
+        {
+            "key": "028",
+            "value": "Des questions ? Bah pose-les tout de suite !"
+        },
+        {
+            "key": "029",
+            "value": "Oui ! Oui ! Nous répondrons avec plaisir !"
+        },
+        {
+            "key": "030",
+            "value": "Très bien."
+        },
+        {
+            "key": "031",
+            "value": "Qui a tué la reine Helena et le seigneur Owe ?"
+        },
+        {
+            "key": "032",
+            "value": "Oh, ce n'était que ça ? Quelle déception."
+        },
+        {
+            "key": "033",
+            "value": "C'est vraiment tout ce qui t'intéresse ?"
+        },
+        {
+            "key": "034",
+            "value": "Si vous avez la réponse, donnez-la-moi !"
+        },
+        {
+            "key": "035",
+            "value": "C'est nous."
+        },
+        {
+            "key": "036",
+            "value": "Alors, heureuse ?"
+        },
+        {
+            "key": "037",
+            "value": "Oui... Maintenant, je sais qui tuer de mes mains !"
+        }
+    ]
+}

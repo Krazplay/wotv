@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "I-Ihr seid ...?!"
+        },
+        {
+            "key": "002",
+            "value": "W-Was macht Ihr denn hier?!"
+        },
+        {
+            "key": "003",
+            "value": "Euer Hoheit ...?"
+        },
+        {
+            "key": "004",
+            "value": "Wo ist deine Leibwächterin?"
+        },
+        {
+            "key": "005",
+            "value": "Sie ist losgezogen, um nach Schuzelt zu suchen."
+        },
+        {
+            "key": "006",
+            "value": "Ich verstehe ..."
+        },
+        {
+            "key": "007",
+            "value": "Ist etwas passiert?"
+        },
+        {
+            "key": "008",
+            "value": "Die Wahrheit ist ..."
+        },
+        {
+            "key": "009",
+            "value": "Schrecklich."
+        },
+        {
+            "key": "010",
+            "value": "Aber warum liegt deiner Leibwächterin so viel daran, Schuzelt zu helfen?"
+        },
+        {
+            "key": "011",
+            "value": "Lilith hat im Krieg mit Fennes ebenfalls jemanden verloren, der ihr sehr wichtig war."
+        },
+        {
+            "key": "012",
+            "value": "Ihren Geliebten?"
+        },
+        {
+            "key": "013",
+            "value": "Nein. Ihren Bruder."
+        },
+        {
+            "key": "014",
+            "value": "So ist das also ... Es ist der Schmerz des Verlustes, der die beiden verbindet."
+        },
+        {
+            "key": "015",
+            "value": "Dann gibt es wohl nichts, was wir tun können."
+        },
+        {
+            "key": "016",
+            "value": "Ei-Einen Moment. Was hast du vor?"
+        },
+        {
+            "key": "017",
+            "value": "Da dir eine Leibwächterin fehlt, werde ich diese Rolle übernehmen. Sei mir besser dankbar."
+        },
+        {
+            "key": "018",
+            "value": "..."
+        },
+        {
+            "key": "019",
+            "value": "Was? Nicht zufrieden damit?"
+        },
+        {
+            "key": "020",
+            "value": "N-Nein, ähm ... Nichts."
+        },
+        {
+            "key": "021",
+            "value": "Dann machen wir uns mal auf den Weg. Folgt mir!"
+        }
+    ]
+}

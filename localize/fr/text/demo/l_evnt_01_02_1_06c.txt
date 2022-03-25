@@ -1,0 +1,292 @@
+﻿{
+    "infos": [
+        {
+            "key": "236",
+            "value": "Avons-nous gagné suffisamment d'argent, seigneur Camillo ?"
+        },
+        {
+            "key": "237",
+            "value": "Non, pas tout à fait."
+        },
+        {
+            "key": "238",
+            "value": "Vous venez tout juste d'accepter une nouvelle mission, non ? Ne devrait-elle pas suffire ?"
+        },
+        {
+            "key": "239",
+            "value": "Si. Mais autant vous prévenir. Une grosse récompense à la clé implique de grands risques."
+        },
+        {
+            "key": "240",
+            "value": "Comment pouvons-nous vous aider ?"
+        },
+        {
+            "key": "241",
+            "value": "Nous devons tenir à bonne distance les monstres et autres voleurs des réserves de denrées du village."
+        },
+        {
+            "key": "242",
+            "value": "Le nombre de voleurs nocturnes semble avoir explosé depuis le début de la guerre."
+        },
+        {
+            "key": "243",
+            "value": "Je ne comprends pas l'intérêt qu'ont les gens de voler. Je vais devoir employer la manière forte pour les remettre sur le droit chemin."
+        },
+        {
+            "key": "244",
+            "value": "Le chevalier que je suis ne peut pas laisser un tel affront se produire sans réagir."
+        },
+        {
+            "key": "245",
+            "value": "Hé hé hé ! Je savais bien qu'on s’entendrait bien, toutes les deux !"
+        },
+        {
+            "key": "246",
+            "value": "Mais pour l'heure, attendons que la nuit tombe. Il sera plus facile de leur mettre la main dessus en leur tendant une embuscade."
+        },
+        {
+            "key": "247",
+            "value": "Je suis d'accord. Que tout le monde se tienne prêt à côté des réserves. Dès que l'ennemi se pointe, on lui saute dessus."
+        },
+        {
+            "key": "248",
+            "value": "Prenez autant de nourriture que vous pouvez et laissez de côté les objets clinquants !"
+        },
+        {
+            "key": "249",
+            "value": "Ils sont là ! Mes flèches leur sont toutes destinées !"
+        },
+        {
+            "key": "250",
+            "value": "Ouch !"
+        },
+        {
+            "key": "251",
+            "value": "Argh !"
+        },
+        {
+            "key": "252",
+            "value": "Pas mal. Il est temps pour moi de faire danser ma lame !"
+        },
+        {
+            "key": "253",
+            "value": "Grraaah !"
+        },
+        {
+            "key": "254",
+            "value": "Ils sont beaucoup trop forts ! Je me tire d'ici !"
+        },
+        {
+            "key": "255",
+            "value": "A-Attends-moi !"
+        },
+        {
+            "key": "256",
+            "value": "Bien… On dirait qu'il ne nous en reste plus qu'un."
+        },
+        {
+            "key": "257",
+            "value": "L-Laissez-moi partir, je vous en supplie ! Ma sœur est malade et elle attend mon retour !"
+        },
+        {
+            "key": "258",
+            "value": "Ta sœur ? Tous ces vols te permettent donc de prendre soin d'elle ?"
+        },
+        {
+            "key": "259",
+            "value": "V-Vous me croyez ?"
+        },
+        {
+            "key": "260",
+            "value": "Mes enfants risquent également de mourir de faim si je ne leur rapporte rien à manger !"
+        },
+        {
+            "key": "261",
+            "value": "Quelle tragédie ! La guerre est un vrai poison…"
+        },
+        {
+            "key": "262",
+            "value": "Dame Cétia ?! Ne voyez-vous pas qu'il joue avec vous ?"
+        },
+        {
+            "key": "263",
+            "value": "Qui inventerait de tels mensonges ? Tu ne le crois pas, toi ?"
+        },
+        {
+            "key": "264",
+            "value": "Je crois que le problème va au-delà du fait que je le croie ou non."
+        },
+        {
+            "key": "265",
+            "value": "Moi j'ai foi en lui ! Faire confiance à autrui, c'est la seule véritable force !"
+        },
+        {
+            "key": "266",
+            "value": "Ha ha ha ! Quelle idiote ! Te berner a été un jeu d'enfant !"
+        },
+        {
+            "key": "267",
+            "value": "Le seul idiot dans les parages, c'est bien toi ! Hyah !"
+        },
+        {
+            "key": "268",
+            "value": "Ouch !"
+        },
+        {
+            "key": "269",
+            "value": "Ne JAMAIS prendre les paroles de l'ennemi pour argent comptant ! Mentir est aussi naturel que respirer pour les voleurs de son genre."
+        },
+        {
+            "key": "270",
+            "value": "Mais, il…"
+        },
+        {
+            "key": "271",
+            "value": "Je dirais que notre devoir est accompli."
+        },
+        {
+            "key": "272",
+            "value": "Il est temps de conclure !"
+        },
+        {
+            "key": "273",
+            "value": "Et voilà, c'était le dernier. Il y en avait bien plus que je ne pensais, mais rien d'insurmontable."
+        },
+        {
+            "key": "274",
+            "value": "…"
+        },
+        {
+            "key": "275",
+            "value": "Dame Cétia, tout va bien ?"
+        },
+        {
+            "key": "276",
+            "value": "Je pensais être plus douée que ça pour lire dans le cœur des gens."
+        },
+        {
+            "key": "277",
+            "value": "Je te présente mes excuses pour avoir ignoré tes remarques, Lucio."
+        },
+        {
+            "key": "278",
+            "value": "N-Nul besoin de vous excuser. On ne peut pas dire que je vous ai été d'une grande utilité. Vous devriez plutôt remercier le seigneur Camillo."
+        },
+        {
+            "key": "279",
+            "value": "Ou peut-être pourriez-vous tout simplement nous laisser une plus grosse part de la récompense."
+        },
+        {
+            "key": "280",
+            "value": "Tenez ! Prenez tout !"
+        },
+        {
+            "key": "281",
+            "value": "C'était une blague ! De simples mots de reconnaissance feront l'affaire."
+        },
+        {
+            "key": "282",
+            "value": "Vraiment ? Bon, merci Camillo."
+        },
+        {
+            "key": "283",
+            "value": "Elle ne devrait pas avoir à te remercier, après le chantage que tu lui as fait."
+        },
+        {
+            "key": "284",
+            "value": "Moi ? Du chantage ?"
+        },
+        {
+            "key": "285",
+            "value": "L'un des voleurs appréhendés a révélé une de leurs cachettes non loin d'ici."
+        },
+        {
+            "key": "286",
+            "value": "Ce ne serait pas chevalier de notre part de pas aller y jeter un coup d'œil."
+        },
+        {
+            "key": "287",
+            "value": "Mais nous avons assez de gils comme ça…"
+        },
+        {
+            "key": "288",
+            "value": "Le problème ne sera pas réglé tant qu'on ne remonte pas à la source."
+        },
+        {
+            "key": "289",
+            "value": "On doit mettre fin à ce manège ou les villageois continueront d'en pâtir."
+        },
+        {
+            "key": "290",
+            "value": "Je te suis."
+        },
+        {
+            "key": "291",
+            "value": "Hors de question de laisser des gens sans parole profiter des autres."
+        },
+        {
+            "key": "292",
+            "value": "Nous devons les remettre sur le droit chemin !"
+        },
+        {
+            "key": "293",
+            "value": "Vous voulez vous rendre en territoire ennemi ? N'est-ce pas un peu… risqué ?"
+        },
+        {
+            "key": "294",
+            "value": "N'est-ce pas notre devoir de protéger les plus faibles ?"
+        },
+        {
+            "key": "295",
+            "value": "V-Vous avez raison !"
+        },
+        {
+            "key": "296",
+            "value": "Autant s'en occuper maintenant que de laisser ce genre de problème gangréner le royaume d'Ovis une fois qu'il sera libéré."
+        },
+        {
+            "key": "297",
+            "value": "Une petite visite de courtoisie ne sera pas du luxe. Je vous suis."
+        },
+        {
+            "key": "298",
+            "value": "Et puis, peut-être que Machalie décèlera dans ce choix la bravoure de mon âme, ce qui me fera gagner quelques points !"
+        },
+        {
+            "key": "299",
+            "value": "Maintenant que nous avons bien saisi les enjeux, nous sommes prêts à les écraser."
+        },
+        {
+            "key": "300",
+            "value": "Tiens ? Pas de petite scène cette fois-ci ?"
+        },
+        {
+            "key": "301",
+            "value": "Ce n'est pas comme si j'en faisais à longueur de journée."
+        },
+        {
+            "key": "302",
+            "value": "Qui êtes-vous ?"
+        },
+        {
+            "key": "303",
+            "value": "Nous sommes ici pour te remettre les idées en place !"
+        },
+        {
+            "key": "304",
+            "value": "D-Doucement. Peut-être devrions-nous essayer d'instaurer d'abord un certain dialogue avec lui…"
+        },
+        {
+            "key": "305",
+            "value": "Pour qui vous vous prenez ? Les gars, attrapez-les !"
+        },
+        {
+            "key": "306",
+            "value": "Dialoguer ne semble pas faire partie de ses priorités."
+        },
+        {
+            "key": "307",
+            "value": "Voilà qui nous facilite la tâche ! Goûtez à la pointe aiguisée des flèches de la justice !"
+        }
+    ]
+}

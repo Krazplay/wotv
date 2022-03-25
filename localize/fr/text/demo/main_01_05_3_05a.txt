@@ -1,0 +1,192 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Espèce de traître !"
+        },
+        {
+            "key": "002",
+            "value": "Je n'ai jamais été à votre service !"
+        },
+        {
+            "key": "003",
+            "value": "Sale petit..."
+        },
+        {
+            "key": "004",
+            "value": "Sire, ne faiblissez pas ! Muraga est à vous !"
+        },
+        {
+            "key": "005",
+            "value": "Que se passe-t-il, ici ?"
+        },
+        {
+            "key": "006",
+            "value": "Seigneur Sadali ! C'est ce chien... Sterne ! Il s'retourne contre nous !"
+        },
+        {
+            "key": "007",
+            "value": "Ce n'est pas moi le traître, Sadali !"
+        },
+        {
+            "key": "008",
+            "value": "On m'a promis qu'Eldo serait à moi !"
+        },
+        {
+            "key": "009",
+            "value": "En effet. À toi et toi seul."
+        },
+        {
+            "key": "010",
+            "value": "Alors pourquoi ? Qui l'a blessé ?"
+        },
+        {
+            "key": "011",
+            "value": "Sterne, ça suffit ! Ne l'écoute pas !"
+        },
+        {
+            "key": "012",
+            "value": "Mont..."
+        },
+        {
+            "key": "013",
+            "value": "Tu t'en souviens ? De la promesse qu'on s'est faite ?"
+        },
+        {
+            "key": "014",
+            "value": "La... promesse ?"
+        },
+        {
+            "key": "015",
+            "value": "On s'est juré de faire de Leonis le plus grand royaume du monde ! Toi et moi !"
+        },
+        {
+            "key": "016",
+            "value": "..."
+        },
+        {
+            "key": "017",
+            "value": "Je viens tout juste de recevoir une malheureuse information."
+        },
+        {
+            "key": "018",
+            "value": "Dame Helena et le chevalier Owe... ont perdu la vie."
+        },
+        {
+            "key": "019",
+            "value": "Une querelle interne, apparemment."
+        },
+        {
+            "key": "020",
+            "value": "Pardon ?!"
+        },
+        {
+            "key": "021",
+            "value": "Non..."
+        },
+        {
+            "key": "022",
+            "value": "Il ment ! C'est impossible !"
+        },
+        {
+            "key": "023",
+            "value": "Je ne rapporte que la stricte vérité."
+        },
+        {
+            "key": "024",
+            "value": "La reine Helena et le seigneur Owe étaient les estimés otages de Fennes."
+        },
+        {
+            "key": "025",
+            "value": "Malheureusement, il semble qu'ils n'aient pas supporté leur statut de prisonniers."
+        },
+        {
+            "key": "026",
+            "value": "Dame Helena s'est défaite de ses chaînes et s'est lancée dans une lutte insensée."
+        },
+        {
+            "key": "027",
+            "value": "Ils sont vraiment... morts ? Mère... Maître..."
+        },
+        {
+            "key": "028",
+            "value": "Je le crains. Vous m'en voyez le cœur brisé."
+        },
+        {
+            "key": "029",
+            "value": "Croyez bien qu'ils avaient beau être nos otages, j'avais strictement ordonné qu'on les traite avec respect."
+        },
+        {
+            "key": "030",
+            "value": "Hélas... je vous présente mes plus sincères condoléances."
+        },
+        {
+            "key": "031",
+            "value": "Menteur ! C'est vous qui avez tué mère ! J'en suis persuadé !"
+        },
+        {
+            "key": "032",
+            "value": "Est-ce vraiment ta conviction ?"
+        },
+        {
+            "key": "033",
+            "value": "Dame Helena était notre atout le plus précieux. Tant qu'elle était en vie, nous pouvions vous contraindre à la reddition."
+        },
+        {
+            "key": "034",
+            "value": "Tu en as bien conscience, je crois."
+        },
+        {
+            "key": "035",
+            "value": "Ce... Ce n'est pas..."
+        },
+        {
+            "key": "036",
+            "value": "À mon humble avis..."
+        },
+        {
+            "key": "037",
+            "value": "Ils ont préféré mourir dans l'honneur de la bataille, plutôt que de demeurer otages. Après tout... N'était-ce pas ce que Sa Majesté Eldo avait ordonné ?"
+        },
+        {
+            "key": "038",
+            "value": "... !!!"
+        },
+        {
+            "key": "039",
+            "value": "Eldo ! Répondez ! "
+        },
+        {
+            "key": "040",
+            "value": "Je n'ai à répondre devant... personne."
+        },
+        {
+            "key": "041",
+            "value": "Alors c'est vous, le coupable ! Mère est morte à cause de vous !"
+        },
+        {
+            "key": "042",
+            "value": "Sterne ! Non !"
+        },
+        {
+            "key": "043",
+            "value": "Écarte-toi, mon frère."
+        },
+        {
+            "key": "044",
+            "value": "Si tu persistes à te mettre en travers de mon chemin... je te tuerai, toi aussi !"
+        },
+        {
+            "key": "045",
+            "value": "..."
+        },
+        {
+            "key": "046",
+            "value": "Je ne m'écarterai pas !"
+        },
+        {
+            "key": "047",
+            "value": "Je protégerai la lignée Leonis... même contre mon propre frère !"
+        }
+    ]
+}

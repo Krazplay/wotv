@@ -1,0 +1,228 @@
+﻿{
+    "infos": [
+        {
+            "key": "10001",
+            "value": "Helft mir ... Krieger, die ihr das Licht in euch <br>tragt ..."
+        },
+        {
+            "key": "10002",
+            "value": "Wenn nichts geschieht, ist diese Welt dem Untergang nahe ... Eilt, bevor es zu spät ist ..."
+        },
+        {
+            "key": "10003",
+            "value": "Wo sind wir hier? ... Ich könnte schwören, eine Stimme hätte mich gerufen ..."
+        },
+        {
+            "key": "10004",
+            "value": "Rain!"
+        },
+        {
+            "key": "10005",
+            "value": "Fina! Du bist also auch hier."
+        },
+        {
+            "key": "10006",
+            "value": "Ja, auf einmal war ich hier. Wo ... sind wir hier überhaupt?"
+        },
+        {
+            "key": "10007",
+            "value": "Das wüsste ich auch gerne. So viel Miasma an einem Ort habe ich noch nie gesehen."
+        },
+        {
+            "key": "10008",
+            "value": "Irgendwas scheint hier nicht zu stimmen."
+        },
+        {
+            "key": "10009",
+            "value": "Wo ... wo bin ich? Ich wollte jemandem zu Hilfe zu eilen, und dann ..."
+        },
+        {
+            "key": "10010",
+            "value": "Du also ebenfalls, Mont. Auch ich vernahm einen Hilferuf."
+        },
+        {
+            "key": "10011",
+            "value": "Margery! Du bist auch hier."
+        },
+        {
+            "key": "10012",
+            "value": "Wie ermutigend, dass wir einander haben ... besonders an so einem bedrohlichen Ort wie diesem."
+        },
+        {
+            "key": "10013",
+            "value": "Wer seid ihr denn? Woher kommt ihr?"
+        },
+        {
+            "key": "10014",
+            "value": "Wir scheinen nicht die Einzigen zu sein ...!"
+        },
+        {
+            "key": "10015",
+            "value": "Wir sind auch auf einmal einfach hier gewesen!"
+        },
+        {
+            "key": "10016",
+            "value": "Verstehe ... Ich bin Mont von Leonis. Dies ist Margery von Hourne."
+        },
+        {
+            "key": "10017",
+            "value": "Leonis ...? Hourne ...?"
+        },
+        {
+            "key": "10018",
+            "value": "... Hätte ich noch nie davon gehört."
+        },
+        {
+            "key": "10019",
+            "value": "Unsere Königreiche sollen dir unbekannt sein? Woher stammst du?"
+        },
+        {
+            "key": "10020",
+            "value": "Ah, wir hatten uns noch nicht vorgestellt. Ich bin Rain, ein Ritter von Grandshelt."
+        },
+        {
+            "key": "10021",
+            "value": "Und ich bin Fina. Freut mich."
+        },
+        {
+            "key": "10022",
+            "value": "Ich kenne kein Land namens ... Grandshelt."
+        },
+        {
+            "key": "10023",
+            "value": "Oh. Dann wurden wir vielleicht aus verschiedenen Welten herbeigerufen ..."
+        },
+        {
+            "key": "10024",
+            "value": "Oder vielleicht sogar aus verschiedenen Zeitaltern."
+        },
+        {
+            "key": "10025",
+            "value": "Habt ihr auch eine Stimme gehört, die euch um Hilfe bat? "
+        },
+        {
+            "key": "10026",
+            "value": "Ja, die hörten wir. Wer könnte das gewesen <br>sein ...?"
+        },
+        {
+            "key": "10027",
+            "value": "Ich bin die Stimme, von der ihr sprecht."
+        },
+        {
+            "key": "10028",
+            "value": "Du bist doch ... der Wille des Lichts!"
+        },
+        {
+            "key": "10029",
+            "value": "Ganz recht. Auf der Suche nach Beistand rief ich euch als Visionen in diese Welt."
+        },
+        {
+            "key": "10030",
+            "value": "Visionen ...?! Willst du mir sagen, Margery und ich seien Visionen?"
+        },
+        {
+            "key": "10031",
+            "value": "In der Tat. Eure derzeitige Gestalt ist die Verkörperung eurer Bereitschaft, meinen Hilferuf zu erhören."
+        },
+        {
+            "key": "10032",
+            "value": "Ich verstehe ... Das ist anders als das, was ich mir bisher unter Visionen vorgestellt habe ..."
+        },
+        {
+            "key": "10033",
+            "value": "Niemals hätte ich mir erträumt, selbst zu einer zu werden ... Es fühlt sich seltsam an."
+        },
+        {
+            "key": "10034",
+            "value": "Fina nannte dich den Willen des Lichts ... Was bist du?"
+        },
+        {
+            "key": "10035",
+            "value": "Ich bin eine der Säulen, die das Gleichgewicht der Welt aufrechterhält."
+        },
+        {
+            "key": "10036",
+            "value": "Licht und Dunkelheit, Liebe und Hass, Schöpfung und Zerstörung. Alles im Universum verfügt über ein Gegenstück, und meine Aufgabe ist es, die Harmonie wahren."
+        },
+        {
+            "key": "10037",
+            "value": "Doch nun droht etwas, die Welt zu zerfressen und ihr Gleichgewicht in Scherben zu schmettern."
+        },
+        {
+            "key": "10038",
+            "value": "Solltet ihr nichts unternehmen, wird die Welt schließlich ihr Ende finden."
+        },
+        {
+            "key": "10039",
+            "value": "Deshalb hast du uns also um Hilfe gebeten."
+        },
+        {
+            "key": "10040",
+            "value": "Was könnte sich hinter einer solchen Gefahr nur verbergen ...."
+        },
+        {
+            "key": "10041",
+            "value": "Ein Paar tobender Morbols."
+        },
+        {
+            "key": "10042",
+            "value": "Sollten sie ihre Zerstörung fortsetzen können, wird nicht nur diese Welt davon betroffen sein."
+        },
+        {
+            "key": "10043",
+            "value": "Das Gleichgewicht jeglicher Welten könnte verloren gehen."
+        },
+        {
+            "key": "10044",
+            "value": "Das kann nicht ... Sind sie wirklich so gefährlich?"
+        },
+        {
+            "key": "10045",
+            "value": "Wenn das stimmt, sollten wir uns schleunigst um diese Morbols kümmern."
+        },
+        {
+            "key": "10046",
+            "value": "Ja. Sollten sie auch andere Welten gefährden, dann ist das umso mehr Grund, sie aufzuhalten."
+        },
+        {
+            "key": "10047",
+            "value": "Ich danke euch. Bitte ... rettet diese Welt."
+        },
+        {
+            "key": "10048",
+            "value": "Zwei Morbols sind also die Wurzel dieses Übels ... Lasst uns uns aufteilen – Mont und ich, Rain und Fina."
+        },
+        {
+            "key": "10049",
+            "value": "Klar. Ruft uns, wenn ihr in Gefahr steckt!"
+        },
+        {
+            "key": "10050",
+            "value": "Gefahr? He. Man mag Mont die Männlichkeit auf den ersten Blick zwar nicht ansehen, doch er ist ein Mann mit Rückgrat."
+        },
+        {
+            "key": "10051",
+            "value": "M-Margery ..."
+        },
+        {
+            "key": "10052",
+            "value": "Außerdem begleite ich ihn. Um uns braucht ihr euch nicht zu kümmern – sorgt euch lieber um eure eigene Sicherheit."
+        },
+        {
+            "key": "10053",
+            "value": "Hehe, du bist ja total überzeugt von Mont. Ihr scheint echt ein tolles Team zu sein."
+        },
+        {
+            "key": "10054",
+            "value": "Aber wir stehen euch in nichts nach, nicht wahr, Rain?!"
+        },
+        {
+            "key": "10055",
+            "value": "Allerdings. Heute Abend gibt es Morbol al dente!"
+        },
+        {
+            "key": "10056",
+            "value": "Möget ihr siegreich sein. Nun, lasst uns aufbrechen!"
+        }
+    ]
+}

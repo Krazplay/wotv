@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "100001",
+            "value": "¡¿Q-qué?!"
+        },
+        {
+            "key": "100002",
+            "value": "Rundal..."
+        },
+        {
+            "key": "100003",
+            "value": "Agh. ¡Han atacado aprovechando la ausencia de lord Sadali!"
+        },
+        {
+            "key": "100004",
+            "value": "¡C-cerdo asqueroso!"
+        },
+        {
+            "key": "100005",
+            "value": "Sin duda alguna..., van tras los cristales."
+        },
+        {
+            "key": "100006",
+            "value": "¡Como si fuésemos a entregárselos así como así! ¡Proteged la cámara!"
+        },
+        {
+            "key": "100007",
+            "value": "Por supuesto. ¡Les enseñaremos por qué la gente teme la guardia monástica de Dynverk!"
+        }
+    ]
+}

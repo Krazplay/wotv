@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Eh, ¿eso es todo? He de admitir que estoy un poco decepcionado."
+        },
+        {
+            "key": "002",
+            "value": "Esperaba divertirme un poco más contigo. Qué lástima."
+        },
+        {
+            "key": "003",
+            "value": "Re-rey Rob…, tengo que… apresurarme…"
+        },
+        {
+            "key": "004",
+            "value": "Conque aún sigues viva, ¿eh? ¿No tienes ganas de pasar a mejor vida o qué? ¡Je, je, je!"
+        },
+        {
+            "key": "005",
+            "value": "¡Ugh!"
+        },
+        {
+            "key": "006",
+            "value": "¿Y bien? ¿Qué pasa? ¡Venga, suplica por tu vida!"
+        },
+        {
+            "key": "007",
+            "value": "…"
+        },
+        {
+            "key": "008",
+            "value": "Qué aburrida. Ya estás con los últimos estertores, ¿eh?"
+        },
+        {
+            "key": "009",
+            "value": "Anda, deja que acabe con tu sufrimiento."
+        },
+        {
+            "key": "010",
+            "value": "Ja, ja, ja, ja. ¡Mua, ja, ja, ja!"
+        },
+        {
+            "key": "011",
+            "value": "¡¿Y a ti qué te hace tanta gracia?!"
+        },
+        {
+            "key": "012",
+            "value": "No hay nada más fácil que derrotar… a una sucia rata como tú."
+        },
+        {
+            "key": "013",
+            "value": "¿Pero qué?"
+        },
+        {
+            "key": "014",
+            "value": "¡¿Qué demonios?!…"
+        },
+        {
+            "key": "015",
+            "value": "Se ha tirado por el acantilado."
+        },
+        {
+            "key": "016",
+            "value": "Je, je, je. La cosa se pone interesante. Aguanta, aguanta si así lo quieres."
+        },
+        {
+            "key": "017",
+            "value": "Pero la próxima vez que nos veamos, desearás estar muerta."
+        }
+    ]
+}

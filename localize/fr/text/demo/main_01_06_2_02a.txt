@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh... Ils sont trop nombreux... On ne va pas tenir longtemps..."
+        },
+        {
+            "key": "002",
+            "value": "J'arrive juste à temps, alors."
+        },
+        {
+            "key": "003",
+            "value": "Qui va là ?"
+        },
+        {
+            "key": "004",
+            "value": "Tu es... Graziella !"
+        },
+        {
+            "key": "005",
+            "value": "Ça faisait longtemps, n'est-ce pas, Mont ?"
+        },
+        {
+            "key": "006",
+            "value": "Oui. Trop longtemps."
+        },
+        {
+            "key": "007",
+            "value": "Quelque chose dans ton regard a changé depuis notre dernière rencontre. Qu'est-ce qui t'a fait grandir comme cela ?"
+        },
+        {
+            "key": "008",
+            "value": "Deux ou trois... ou plutôt cent fâcheuses circonstances."
+        },
+        {
+            "key": "009",
+            "value": "Quoi qu'il en soit, je suis heureuse que tu sois arrivé à Wezett sain et sauf."
+        },
+        {
+            "key": "010",
+            "value": "Je savais que je pouvais compter sur Minnwu pour t'aider."
+        },
+        {
+            "key": "011",
+            "value": "Ah... Ah bon ?"
+        },
+        {
+            "key": "012",
+            "value": "Oui."
+        },
+        {
+            "key": "013",
+            "value": "Si tu t'étais directement rendu au château, à l'heure qu'il est tu serais..."
+        },
+        {
+            "key": "014",
+            "value": "... en train de me battre contre leurs gardes ?"
+        },
+        {
+            "key": "015",
+            "value": "Je t'ai envoyé Minnwu pour m'assurer que ça n'arrive pas."
+        },
+        {
+            "key": "016",
+            "value": "Mais que se passe-t-il, dans ce royaume, à la fin ?"
+        },
+        {
+            "key": "017",
+            "value": "C'est vrai ce qu'on dit ? Tu veux renverser le trône de Khory ?"
+        },
+        {
+            "key": "018",
+            "value": "C'est vrai. Et maintenant, le plan est en marche."
+        },
+        {
+            "key": "019",
+            "value": "Mont... Tout a commencé quand tu as décidé de rejoindre Wezett."
+        },
+        {
+            "key": "020",
+            "value": "Pour l'instant, nous devons nous débarrasser d'« Equito »."
+        }
+    ]
+}

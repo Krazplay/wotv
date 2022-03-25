@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Plus un geste."
+        },
+        {
+            "key": "002",
+            "value": "S-sire... ?"
+        },
+        {
+            "key": "003",
+            "value": "Schuzelt, tu es sûr que c'est lui ?"
+        },
+        {
+            "key": "004",
+            "value": "Oui, Sire. On l'a vu entasser des pierres sur le bord du chemin, juste après l'embranchement."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Alors Muraga a même réussi à infiltrer « Caelum » ? Je n'en reviens pas..."
+        },
+        {
+            "key": "007",
+            "value": "Vous avez donc fini par le remarquer ?"
+        },
+        {
+            "key": "008",
+            "value": "Que comptes-tu faire, seul contre nous ? Rends-toi."
+        },
+        {
+            "key": "009",
+            "value": "Hé hé hé !"
+        },
+        {
+            "key": "010",
+            "value": "Qu'y a-t-il de si drôle ?"
+        },
+        {
+            "key": "011",
+            "value": "J'ai reçu des pouvoirs... d'une certaine personne."
+        },
+        {
+            "key": "012",
+            "value": "Vous allez voir toute l'étendue de ma puissance !"
+        },
+        {
+            "key": "013",
+            "value": "Groaaaaaaaah !"
+        },
+        {
+            "key": "014",
+            "value": "Un ogre ?!"
+        },
+        {
+            "key": "015",
+            "value": "Sire ! Laissez-le-moi !"
+        }
+    ]
+}

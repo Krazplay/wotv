@@ -1,0 +1,96 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Estás bien? ¡Aguanta!"
+        },
+        {
+            "key": "002",
+            "value": "Lo-lo siento…, milord."
+        },
+        {
+            "key": "003",
+            "value": "Esta herida es muy profunda… Ningún espadachín normal sería capaz de hacer un corte así."
+        },
+        {
+            "key": "004",
+            "value": "No habrá sido…"
+        },
+        {
+            "key": "005",
+            "value": "Ha… sido… Muraga, milord. ¡Está aquí!"
+        },
+        {
+            "key": "006",
+            "value": "Lord Mont…, llévate a este soldado y vete de aquí cuanto antes."
+        },
+        {
+            "key": "007",
+            "value": "¿Me estás diciendo que me retire?"
+        },
+        {
+            "key": "008",
+            "value": "Muraga no es un enemigo cualquiera."
+        },
+        {
+            "key": "009",
+            "value": "¡Pero yo te tengo a ti, Lilit!"
+        },
+        {
+            "key": "010",
+            "value": "Yo solo soy una y la victoria es bastante incierta."
+        },
+        {
+            "key": "011",
+            "value": "¿En serio crees que no te puedo ayudar en nada?"
+        },
+        {
+            "key": "012",
+            "value": "Me temo que no, milord. Discúlpame por mi atrevimiento, pero no."
+        },
+        {
+            "key": "013",
+            "value": "Muraga está segando todo a su paso para recuperar a Machérie."
+        },
+        {
+            "key": "014",
+            "value": "…"
+        },
+        {
+            "key": "015",
+            "value": "¡Por eso no podemos darle cuartel!"
+        },
+        {
+            "key": "016",
+            "value": "Ya te lo he dicho, lord Mont, ¡semejante combate te costará la vida!"
+        },
+        {
+            "key": "017",
+            "value": "El linaje de los Leonis debe perdurar, aunque perdamos el favor de los dioses defendiéndolo."
+        },
+        {
+            "key": "018",
+            "value": "Esas fueron las palabras del rey…"
+        },
+        {
+            "key": "019",
+            "value": "Lo voy a derrotar. ¡Solo necesito que me ayudes!"
+        },
+        {
+            "key": "020",
+            "value": "¿Eso es una… orden?"
+        },
+        {
+            "key": "021",
+            "value": "¿Y qué pasa si lo es?"
+        },
+        {
+            "key": "022",
+            "value": "Pues que la cumpliré… con mucho gusto."
+        },
+        {
+            "key": "023",
+            "value": "No me olvido de que juré luchar por ti hasta el último aliento."
+        }
+    ]
+}

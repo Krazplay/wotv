@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "QUEST_AP",
+            "value": "Coût des PA RÉDUIT !"
+        },
+        {
+            "key": "QUEST_DROP_RATE",
+            "value": "Taux d'apparition augmenté"
+        },
+        {
+            "key": "QUEST_DROP_AMOUNT",
+            "value": "Apparition d'objet AUGMENTÉE"
+        },
+        {
+            "key": "QUEST_PLAYER_EXP",
+            "value": "EXP de joueur AUGMENTÉE"
+        },
+        {
+            "key": "QUEST_UNIT_EXP",
+            "value": "EXP de l'unité AUGMENTÉE"
+        },
+        {
+            "key": "QUEST_UNIT_JP",
+            "value": "Apparition doublée de PJ et d'objets"
+        },
+        {
+            "key": "QUEST_ARTI_PROFICIENCY",
+            "value": "Maîtrise de l'équipement AUGMENTÉE"
+        },
+        {
+            "key": "QUEST_HARD_DROP_AMOUNT",
+            "value": "Nbr de fragments « quête difficile » x{0} !"
+        },
+        {
+            "key": "QUEST_MULTI_AP",
+            "value": "Coût des PA multi RÉDUIT !"
+        },
+        {
+            "key": "GACHA_PICKUP",
+            "value": "Cliquez ICI !"
+        },
+        {
+            "key": "GACHA_NEWUNIT",
+            "value": "Nouvelle unité"
+        },
+        {
+            "key": "SHOP_SECRET",
+            "value": "Boutique secrète OUVERTE !"
+        }
+    ]
+}

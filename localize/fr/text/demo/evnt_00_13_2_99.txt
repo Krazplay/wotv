@@ -1,0 +1,136 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Qui va là ?"
+        },
+        {
+            "key": "002",
+            "value": "Permets-moi de te retourner la question."
+        },
+        {
+            "key": "003",
+            "value": "Quelles sont les raisons de votre présence en ces lieux ? Je vous conseille de bien réfléchir à votre réponse…"
+        },
+        {
+            "key": "004",
+            "value": "Calme-toi."
+        },
+        {
+            "key": "005",
+            "value": "Reine Helena ! Nous nous chargeons d'eux !"
+        },
+        {
+            "key": "006",
+            "value": "Elle a raison ! On peut très bien s'occuper de ces deux-là."
+        },
+        {
+            "key": "007",
+            "value": "Non. Si je ne m'abuse ils viennent des terres de l'est."
+        },
+        {
+            "key": "008",
+            "value": "N'est-ce pas ?"
+        },
+        {
+            "key": "009",
+            "value": "En effet. À dire vrai…"
+        },
+        {
+            "key": "010",
+            "value": "Je vois. Je comprends votre situation."
+        },
+        {
+            "key": "011",
+            "value": "Je n'en crois pas un mot. Faire confiance à ces mécréants…"
+        },
+        {
+            "key": "012",
+            "value": "Aucun doute. Ils préparent quelque chose."
+        },
+        {
+            "key": "013",
+            "value": "Ha ha ha ! Que de méfiance !"
+        },
+        {
+            "key": "014",
+            "value": "Mieux vaut rester sur ses gardes que d'accorder trop vite sa confiance."
+        },
+        {
+            "key": "015",
+            "value": "Voici l'épée d'Owe."
+        },
+        {
+            "key": "016",
+            "value": "Je suis navrée que les affaires de Leonis contraignent de valeureux visiteurs tels que vous à s'impliquer dans le conflit qui fait rage."
+        },
+        {
+            "key": "017",
+            "value": "Mais dites-moi. Pourquoi souhaitez-vous à ce point mettre la main sur cette arme ?"
+        },
+        {
+            "key": "018",
+            "value": "Avez-vous déjà entendu parler du formidable forgeur d'épées, Masachika ?"
+        },
+        {
+            "key": "019",
+            "value": "Quelques bruits de couloir."
+        },
+        {
+            "key": "020",
+            "value": "Il a sacrifié son âme au forgeage de l'épée ultime."
+        },
+        {
+            "key": "021",
+            "value": "Mais, soucieux à l'idée qu'elle tombe entre les mauvaises mains, il la scella quelque part."
+        },
+        {
+            "key": "022",
+            "value": "Où a-t-il bien pu la cacher… ?"
+        },
+        {
+            "key": "023",
+            "value": "Les indices concernant sa localisation ont été forgés sur six épées confiées aux maîtres de l'est."
+        },
+        {
+            "key": "024",
+            "value": "Il suffirait donc que quelqu'un rassemble toutes ces lames et…"
+        },
+        {
+            "key": "025",
+            "value": "Oui. Et c'est ce que cherche la guilde des trafiquants d'armes."
+        },
+        {
+            "key": "026",
+            "value": "Vous devriez garder cette arme."
+        },
+        {
+            "key": "027",
+            "value": "En êtes-vous certaine ?"
+        },
+        {
+            "key": "028",
+            "value": "Mon fils Sterne sert de marionnette meurtrière à Sadali."
+        },
+        {
+            "key": "029",
+            "value": "Si jamais il venait à s'intéresser à une telle relique… D'autant qu'il considérait Owe comme son propre père…"
+        },
+        {
+            "key": "030",
+            "value": "Je comprends. Je m'assurerais de vous retourner l'épée une fois le calme revenu."
+        },
+        {
+            "key": "031",
+            "value": "Je vous en remercie."
+        },
+        {
+            "key": "032",
+            "value": "Alors voici « Lame Tonnerre » ?"
+        },
+        {
+            "key": "033",
+            "value": "Je trouverai les cinq épées manquantes… Quoi qu'il m'en coûte."
+        }
+    ]
+}

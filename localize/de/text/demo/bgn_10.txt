@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Erlaubt mir, ein paar Worte über <color=#0000ff>Anrufungsmagie</color> zu verlieren."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Rüstet Ihr Euch mit Espern aus, dann seid Ihr in der Lage, mächtige Anrufungszauber zu wirken. Dazu müsst Ihr allerdings zuerst die <color=#0000ff>Anrufungsleiste</color> füllen."
+        },
+        {
+            "key": "003",
+            "value": "Dies wird erreicht, indem Mitglieder Eurer Gruppe <color=#0000ff>den Gegner angreifen</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Alle Arten von Attacken – selbst herkömmliche – tragen dabei zum Füllen der Leiste bei, wobei Angriffe <color=#0000ff>von der Seite</color> oder <color=#0000ff>von hinten</color> die Leiste schneller füllen."
+        },
+        {
+            "key": "005",
+            "value": "Einen noch größeren Effekt erzielt Ihr durch <color=#0000ff>Kritische Treffer</color> oder dadurch, dass Ihr einen Gegner <color=#0000ff>kampfunfähig</color> macht."
+        },
+        {
+            "key": "006",
+            "value": "Euer Hoheit, wie ich sehen kann, habt Ihr Euch mit Ifrit ausgerüstet."
+        },
+        {
+            "key": "007",
+            "value": "Der Anrufungszauber „Inferno“ fügt nicht nur Gegnern in einem weiten Umkreis Schaden zu ..."
+        },
+        {
+            "key": "008",
+            "value": "... sondern erhöht auch vorübergehend <color=#0000ff>die Angriffskraft Eurer gesamten Gruppe</color>. Darüber hinaus stellt er auch deshalb einen äußerst mächtigen Zauber dar, weil er <color=#0000ff>die Feuerresistenz aller Gegner herabsetzt</color>."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "009",
+            "value": "Obwohl Inferno pro Kampf nur einmal gewirkt werden kann, ist es durch seinen geschickten Einsatz möglich, Feuereinheiten wie König Yrde oder Lilith eine noch aktivere Rolle im Kampfgeschehen zukommen zu lassen."
+        },
+        {
+            "key": "010",
+            "value": "Ausgezeichnet, Euer Hoheit!"
+        },
+        {
+            "key": "011",
+            "value": "Wie ich gehört habe, soll es außer Ifrit auf der Welt noch <color=#0000ff>viele andere Esper</color> geben."
+        },
+        {
+            "key": "012",
+            "value": "Ich freue mich schon darauf zu sehen, wie Ihr sie Euch aneignet und ihren Einsatz meistert."
+        }
+    ]
+}

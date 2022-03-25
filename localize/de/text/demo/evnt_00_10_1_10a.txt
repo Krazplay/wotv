@@ -1,0 +1,112 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "W-Was ist denn hier geschehen ...?"
+        },
+        {
+            "key": "002",
+            "value": "B-Besser weg von hier."
+        },
+        {
+            "key": "003",
+            "value": "A-Aber ... wenn noch jemand am Leben ist, müssen wir ..."
+        },
+        {
+            "key": "004",
+            "value": "Hört! ... I-Ihr hört es doch auch, oder?"
+        },
+        {
+            "key": "005",
+            "value": "Die Schreie hören nicht auf ... "
+        },
+        {
+            "key": "006",
+            "value": "Wer auch immer das getan hat – er ist noch im Dorf."
+        },
+        {
+            "key": "007",
+            "value": "... Letztendlich spielt es keine Rolle. Wir können die Bewohner nicht ihrem Schicksal überlassen."
+        },
+        {
+            "key": "008",
+            "value": "Warum nicht ...?"
+        },
+        {
+            "key": "009",
+            "value": "Wir haben doch einen Auftrag! Und den können wir nicht erfüllen, wenn wir hier sterben ... "
+        },
+        {
+            "key": "010",
+            "value": "Für Diskussionen ist es bereits zu spät ..."
+        },
+        {
+            "key": "011",
+            "value": "...!!"
+        },
+        {
+            "key": "012",
+            "value": "Kiii!! D-Da ist er ...!"
+        },
+        {
+            "key": "013",
+            "value": "Halt ... Das ist doch nicht etwa ...!"
+        },
+        {
+            "key": "014",
+            "value": "Prinz ... Styr ..."
+        },
+        {
+            "key": "015",
+            "value": "... Ildyra."
+        },
+        {
+            "key": "016",
+            "value": "Wart wirklich Ihr derjenige ... der das Dorf so zugerichtet hat ...?"
+        },
+        {
+            "key": "017",
+            "value": "Ja. Und?"
+        },
+        {
+            "key": "018",
+            "value": "Euer Hoheit ..."
+        },
+        {
+            "key": "019",
+            "value": "Angeblich stehen diese Dorftrottel auf der Seite Yrdes."
+        },
+        {
+            "key": "020",
+            "value": "Dreckige Nester wie dieses gehören ausgelöscht."
+        },
+        {
+            "key": "021",
+            "value": "Wieso ..."
+        },
+        {
+            "key": "022",
+            "value": "Was ich tue, braucht nicht eure Sorge zu sein."
+        },
+        {
+            "key": "023",
+            "value": "Ihr seid doch „Lumen“ – Mutters persönliche Leibgarde, oder etwa nicht?"
+        },
+        {
+            "key": "024",
+            "value": "J-Ja ..."
+        },
+        {
+            "key": "025",
+            "value": "Warum seid ihr dann hier, und nicht bei ihr?!"
+        },
+        {
+            "key": "026",
+            "value": "Ihr ... Ihr seid vom selben Schlag wie dieser Bastard Yrde!"
+        },
+        {
+            "key": "027",
+            "value": "Ihr habt euch an eure kümmerlichen Leben geklammert und seid geflohen! Während Mutter im Schloss zurückgeblieben ist!"
+        }
+    ]
+}

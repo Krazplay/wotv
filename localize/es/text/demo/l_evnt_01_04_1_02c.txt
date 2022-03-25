@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "099",
+            "value": "¡Traigo noticias, majestad! ¡Se han avistado tropas de Fennes en nuestras fronteras! Se dirigen hacia aquí. ¿Qué hacemos?"
+        },
+        {
+            "key": "100",
+            "value": "Darles la bienvenida, por supuesto. Moviliza a las tropas. Quiero a todo hombre disponible para luchar."
+        },
+        {
+            "key": "101",
+            "value": "¡Como ordenéis! Ah, y... hay algo más, majestad."
+        },
+        {
+            "key": "102",
+            "value": "¿Qué ocurre?"
+        },
+        {
+            "key": "103",
+            "value": "Se aproxima también una manada de monstruos que quizá acabe extendiéndose por una de nuestras aldeas…"
+        },
+        {
+            "key": "104",
+            "value": "¿Lo saben los aldeanos?"
+        },
+        {
+            "key": "105",
+            "value": "No, todavía no. Acabamos de..."
+        },
+        {
+            "key": "106",
+            "value": "Entonces, déjalo. Nuestra prioridad es la tropa de Fennes."
+        },
+        {
+            "key": "107",
+            "value": "P-pero..."
+        },
+        {
+            "key": "108",
+            "value": "¿Alguna objeción?"
+        },
+        {
+            "key": "109",
+            "value": "N-no, majestad. ¡Nos prepararemos para el combate inmediatamente!"
+        },
+        {
+            "key": "110",
+            "value": "Bueno, Mont, ¿lo has oído?"
+        },
+        {
+            "key": "111",
+            "value": "Llévate a Caelum y sal tú primero al encuentro de Fennes."
+        },
+        {
+            "key": "112",
+            "value": "¿Padre, de verdad piensas abandonar a esa aldea a su suerte?"
+        },
+        {
+            "key": "113",
+            "value": "No me obligues a repetirme. Ahora no es momento de preocuparse por esa aldea."
+        },
+        {
+            "key": "114",
+            "value": "¿Pero qué hay de nuestro deber para con el pueblo? ¡Tenemos que protegerlos!"
+        },
+        {
+            "key": "115",
+            "value": "¡Tiene razón, padre! Un pequeño escuadrón bastaría para…"
+        },
+        {
+            "key": "116",
+            "value": "Tenemos una amenaza de invasión a las puertas. No podemos dividir nuestras fuerzas por una pequeña aldea."
+        },
+        {
+            "key": "117",
+            "value": "Confío en que no necesito daros más explicaciones."
+        },
+        {
+            "key": "118",
+            "value": "…"
+        },
+        {
+            "key": "119",
+            "value": "Si no podemos proteger la aldea, ¡al menos deberíamos evacuar a sus habitantes!"
+        },
+        {
+            "key": "120",
+            "value": "No hacer nada cuando está en nuestra mano salvar vidas inocentes…"
+        },
+        {
+            "key": "121",
+            "value": "Mont. Tendrías razón si fueras un hombre que no se debe a nadie más."
+        },
+        {
+            "key": "122",
+            "value": "Pero hace falta algo más que «tener razón» para proteger una nación."
+        },
+        {
+            "key": "123",
+            "value": "¡Lo sé, pero...!"
+        },
+        {
+            "key": "124",
+            "value": "Si no tienes lo que hace falta para esto, yo mismo dirigiré a Caelum."
+        },
+        {
+            "key": "125",
+            "value": "Fortem se quedará aquí para proteger el castillo."
+        },
+        {
+            "key": "126",
+            "value": "Te prohíbo enviar ninguna tropa a proteger la aldea."
+        },
+        {
+            "key": "127",
+            "value": "Por lo demás, haz lo que quieras."
+        },
+        {
+            "key": "128",
+            "value": "En... Entendido."
+        },
+        {
+            "key": "129",
+            "value": "Eso es todo."
+        },
+        {
+            "key": "130",
+            "value": "Padre..."
+        },
+        {
+            "key": "131",
+            "value": "No, este no es el momento de mostrar debilidad. La amenaza que se cierne sobre nuestro reino está cada vez más cerca."
+        },
+        {
+            "key": "132",
+            "value": "El ejército debe quedarse aquí, y yo tengo muy pocos hombres a mi disposición… Pero en cualquier caso, debemos hacer algo."
+        },
+        {
+            "key": "133",
+            "value": "¡Me niego a quedarme de brazos cruzados y dejar que muera una sola persona!"
+        },
+        {
+            "key": "134",
+            "value": "¡Hermano!…"
+        },
+        {
+            "key": "135",
+            "value": "Stern..."
+        },
+        {
+            "key": "136",
+            "value": "¿Estos son todos los hombres que tienes? No son suficientes."
+        },
+        {
+            "key": "137",
+            "value": "Hermano..., ¡déjame acompañarte!"
+        },
+        {
+            "key": "138",
+            "value": "No, Stern. Tú tienes tus propias responsabilidades."
+        },
+        {
+            "key": "139",
+            "value": "Esta es mi elección y no puedo arrastrarte conmigo."
+        },
+        {
+            "key": "140",
+            "value": "No es demasiado tarde. Aún estás a tiempo de pedirle a padre que te conceda algunos de sus soldados."
+        },
+        {
+            "key": "141",
+            "value": "No, padre tiene razón. La prioridad es proteger el reino y necesita a todos los hombres que pueda reunir."
+        },
+        {
+            "key": "142",
+            "value": "Pero hermano..."
+        },
+        {
+            "key": "143",
+            "value": "No temas. Antes de que el día termine, habremos puesto a salvo a los aldeanos."
+        },
+        {
+            "key": "144",
+            "value": "Protege el castillo, Stern."
+        },
+        {
+            "key": "145",
+            "value": "Lo haré. Como comandante de Fortem, juro que cumpliré con mi deber."
+        },
+        {
+            "key": "146",
+            "value": "Gracias, hermano."
+        }
+    ]
+}

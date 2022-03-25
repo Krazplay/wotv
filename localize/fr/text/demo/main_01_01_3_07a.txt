@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous... vous êtes... ?!"
+        },
+        {
+            "key": "002",
+            "value": "Que faites-vous ici ?!"
+        },
+        {
+            "key": "003",
+            "value": "Dame Machalie..."
+        },
+        {
+            "key": "004",
+            "value": "Où est votre garde du corps ?"
+        },
+        {
+            "key": "005",
+            "value": "Elle est partie rejoindre Schuzelt."
+        },
+        {
+            "key": "006",
+            "value": "Je vois..."
+        },
+        {
+            "key": "007",
+            "value": "Que s'est-il passé ?"
+        },
+        {
+            "key": "008",
+            "value": "Laissez-moi vous expliquer..."
+        },
+        {
+            "key": "009",
+            "value": "C'est tragique..."
+        },
+        {
+            "key": "010",
+            "value": "Mais pourquoi cette femme-chevalier fait-elle autant d'efforts pour aider Schuzelt ?"
+        },
+        {
+            "key": "011",
+            "value": "Lilyth aussi a perdu un être cher dans la guerre contre Fennes."
+        },
+        {
+            "key": "012",
+            "value": "Un amant ?"
+        },
+        {
+            "key": "013",
+            "value": "Non. Un frère."
+        },
+        {
+            "key": "014",
+            "value": "Je comprends. Ils partagent quelque chose que nous ne pouvons pas comprendre."
+        },
+        {
+            "key": "015",
+            "value": "Nous ne pouvons rien faire."
+        },
+        {
+            "key": "016",
+            "value": "Un... un moment... qu'avez-vous en tête ?"
+        },
+        {
+            "key": "017",
+            "value": "Je vais la remplacer. C'est moi qui serai votre garde du corps. Soyez-en reconnaissant."
+        },
+        {
+            "key": "018",
+            "value": "..."
+        },
+        {
+            "key": "019",
+            "value": "Qu'y a-t-il ? Ça n'a pas l'air de vous réjouir."
+        },
+        {
+            "key": "020",
+            "value": "N-non, rien."
+        },
+        {
+            "key": "021",
+            "value": "Dans ce cas, partons. Suivez-moi !"
+        }
+    ]
+}

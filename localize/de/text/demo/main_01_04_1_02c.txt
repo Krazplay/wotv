@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Was ist passiert?"
+        },
+        {
+            "key": "002",
+            "value": "Wir haben fennische Soldaten gesichtet."
+        },
+        {
+            "key": "003",
+            "value": "Unmöglich ..."
+        },
+        {
+            "key": "004",
+            "value": "Leider doch. Und sie sind schon ganz in der Nähe."
+        },
+        {
+            "key": "005",
+            "value": "Für eine Rast bleibt uns keine Zeit. Wir müssen diesen Ort sofort verlassen."
+        },
+        {
+            "key": "006",
+            "value": "Uns bleibt keine Wahl. Gehen wir."
+        },
+        {
+            "key": "007",
+            "value": "..."
+        },
+        {
+            "key": "008",
+            "value": "Euer Hoheit ... Warum habt Ihr Eurem Vater nicht gesagt, dass die Soldaten von der Höhle wussten?"
+        },
+        {
+            "key": "009",
+            "value": "Weil Minwu anwesend war."
+        },
+        {
+            "key": "010",
+            "value": "Euer Verdacht hat sich also erhärtet?"
+        },
+        {
+            "key": "011",
+            "value": "Schuzelt hat mir etwas erzählt, das mich beunruhigt."
+        },
+        {
+            "key": "012",
+            "value": "Er meinte, dass er ihr schon einmal begegnet sei."
+        },
+        {
+            "key": "013",
+            "value": "Aber ist doch nichts Ungewöhnliches, dass sich die Pfade von Leuten auf Reisen kreuzen, oder?"
+        },
+        {
+            "key": "014",
+            "value": "Das mag wohl stimmen, aber ..."
+        },
+        {
+            "key": "015",
+            "value": "Ich werde dieses Gefühl in meiner Magengrube einfach nicht los ..."
+        },
+        {
+            "key": "016",
+            "value": "..."
+        },
+        {
+            "key": "017",
+            "value": "Verstanden. Ich werde Minwu im Auge behalten."
+        }
+    ]
+}

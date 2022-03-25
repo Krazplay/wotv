@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...Huh?"
+        },
+        {
+            "key": "002",
+            "value": "A little rowdy, isn't it...? Did something happen?"
+        },
+        {
+            "key": "003",
+            "value": "Save your drowsy murmurings. We are at war."
+        },
+        {
+            "key": "004",
+            "value": "...Oh, and it looks like we're fighting...Fennes."
+        },
+        {
+            "key": "005",
+            "value": "Forgive me, but we lack the time to explain."
+        },
+        {
+            "key": "006",
+            "value": "We head for the archives. Assist us."
+        },
+        {
+            "key": "007",
+            "value": "Could you ask this of someone else? I'm still sleepy."
+        },
+        {
+            "key": "008",
+            "value": "The task comes from Queen Helena herself."
+        },
+        {
+            "key": "009",
+            "value": "Ugh... Fine, I'll go."
+        },
+        {
+            "key": "010",
+            "value": "Then get moving!"
+        }
+    ]
+}

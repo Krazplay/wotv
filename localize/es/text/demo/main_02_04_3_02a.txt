@@ -1,0 +1,256 @@
+﻿{
+    "infos": [
+        {
+            "key": "506",
+            "value": "¡¡¡...!!!"
+        },
+        {
+            "key": "507",
+            "value": "T-traigo noticias. ¡Hay una batalla en el bosque!"
+        },
+        {
+            "key": "508",
+            "value": "¿Una batalla?..."
+        },
+        {
+            "key": "509",
+            "value": "Quizás una disputa entre ellos."
+        },
+        {
+            "key": "510",
+            "value": "¿De verdad piensas que eso es posible?"
+        },
+        {
+            "key": "511",
+            "value": "Sí, milady."
+        },
+        {
+            "key": "512",
+            "value": "Sin poder atacarnos por el frente o la retaguardia, huyeron al bosque, y allí se han vuelto en contra de sus propios compañeros..."
+        },
+        {
+            "key": "513",
+            "value": "No... No me lo puedo creer."
+        },
+        {
+            "key": "514",
+            "value": "…"
+        },
+        {
+            "key": "515",
+            "value": "El olor de la pólvora permanece ligeramente en el aire."
+        },
+        {
+            "key": "516",
+            "value": "Tienes razón..."
+        },
+        {
+            "key": "517",
+            "value": "Pero ni Hourne ni Leonis dispone de una tropa de artilleros tan grande..."
+        },
+        {
+            "key": "518",
+            "value": "Ahí viene..."
+        },
+        {
+            "key": "519",
+            "value": "¡Agh!"
+        },
+        {
+            "key": "520",
+            "value": "Viene del bosque..."
+        },
+        {
+            "key": "521",
+            "value": "Así que aceptas tu destino."
+        },
+        {
+            "key": "522",
+            "value": "¿Qué?..."
+        },
+        {
+            "key": "523",
+            "value": "¡Tú eres... Jayden!"
+        },
+        {
+            "key": "524",
+            "value": "¿Por qué está el ejército de Rundal aquí?"
+        },
+        {
+            "key": "525",
+            "value": "Rey Jayden, dadnos permiso para hacernos con la cabeza de Kuri."
+        },
+        {
+            "key": "526",
+            "value": "No, dejaremos eso a Mont."
+        },
+        {
+            "key": "527",
+            "value": "Entonces nos enfrentaremos a sus tropas en el frente..."
+        },
+        {
+            "key": "528",
+            "value": "Supongo que puede funcionar. Sentíos libres de acabar con este puñado de enclenques si no tenéis nada que hacer."
+        },
+        {
+            "key": "529",
+            "value": "¡¿Puñado de... enclenques?!"
+        },
+        {
+            "key": "530",
+            "value": "¡¿Osas burlarte de lady Melnia?!"
+        },
+        {
+            "key": "531",
+            "value": "¿Melnia?..."
+        },
+        {
+            "key": "532",
+            "value": "Me han hablado de ti. Eres Melnia... Tiene sentido."
+        },
+        {
+            "key": "533",
+            "value": "Sedienta de sangre, abandonaste Saiga y te uniste a Fennes, y más tarde a Wezette."
+        },
+        {
+            "key": "534",
+            "value": "Ranel."
+        },
+        {
+            "key": "535",
+            "value": "No tienes que decir nada."
+        },
+        {
+            "key": "536",
+            "value": "Tendré que castigarlos."
+        },
+        {
+            "key": "537",
+            "value": "Pensaba perdonaros si os arrastrabais por el suelo rogando por vuestras vidas."
+        },
+        {
+            "key": "538",
+            "value": "Esto no está tan mal. Ahora podemos hacerlos rebanadas sin el menor inconveniente."
+        },
+        {
+            "key": "539",
+            "value": "Espero que sean un buen oponente."
+        },
+        {
+            "key": "540",
+            "value": "Os mataré... ¡Os mataré a todos!"
+        },
+        {
+            "key": "541",
+            "value": "Bien, ese es el espíritu."
+        },
+        {
+            "key": "542",
+            "value": "¿Empezamos?"
+        },
+        {
+            "key": "543",
+            "value": "Chunak... ¿Cómo lo hacemos?"
+        },
+        {
+            "key": "544",
+            "value": "Primero vamos a por Ranel o como se llame. Tú puedes encargarte de ella si quieres."
+        },
+        {
+            "key": "545",
+            "value": "¡De acuerdo, es toda mía!"
+        },
+        {
+            "key": "546",
+            "value": "Y con esto te mandaré al infierno."
+        },
+        {
+            "key": "547",
+            "value": "..."
+        },
+        {
+            "key": "548",
+            "value": "..."
+        },
+        {
+            "key": "549",
+            "value": "¡Esperad un momento!"
+        },
+        {
+            "key": "550",
+            "value": "¿Y tú quién eres?..."
+        },
+        {
+            "key": "551",
+            "value": "Un muerto viviente..."
+        },
+        {
+            "key": "552",
+            "value": "La muerte no me alcanzará hasta que consiga vengar al rey Muraga."
+        },
+        {
+            "key": "553",
+            "value": "Ey, vas a acabar de la misma forma si te entrometes en mi camino..."
+        },
+        {
+            "key": "554",
+            "value": "Deja que actúe como le plazca."
+        },
+        {
+            "key": "555",
+            "value": "Vengar a su señor... No es algo que me interese, sin embargo, esa ira que recorre su cuerpo despierta mi curiosidad."
+        },
+        {
+            "key": "556",
+            "value": "¿Entonces es toda mía?"
+        },
+        {
+            "key": "557",
+            "value": "Así es."
+        },
+        {
+            "key": "558",
+            "value": "Un hombre razonable. Una cualidad que aprecio."
+        },
+        {
+            "key": "559",
+            "value": "¡Pero...!"
+        },
+        {
+            "key": "560",
+            "value": "¡No le llegas ni a la suela de los zapatos al rey Muraga!"
+        },
+        {
+            "key": "561",
+            "value": "¡Ja, ja, ja, ja! No soy rival para Muraga, ¿eh? Qué pena."
+        },
+        {
+            "key": "562",
+            "value": "Oldoa, ¿no? Lucha con todas tus fuerzas."
+        },
+        {
+            "key": "563",
+            "value": "Pero que sepas que si las cosas se ponen feas, estás sola."
+        },
+        {
+            "key": "564",
+            "value": "Supongo que estás preparada..."
+        },
+        {
+            "key": "565",
+            "value": "¡Por supuesto que lo estoy!"
+        },
+        {
+            "key": "566",
+            "value": "Bien..., pues ven y saborea la muerte."
+        },
+        {
+            "key": "567",
+            "value": "Haré que te reúnas con Muraga."
+        },
+        {
+            "key": "568",
+            "value": "¡Oldoa contraataca! ¡Las segundas partes nunca fueron buenas!"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Also. Vor einiger Zeit erhielt die Waffenhändlergilde einen neuen Anführer."
+        },
+        {
+            "key": "002",
+            "value": "Davon habe ich gehört. Und?"
+        },
+        {
+            "key": "003",
+            "value": "Dadurch geriet die einst neutrale Waffenhändlergilde unter den Einfluss der Kristallenen Städte."
+        },
+        {
+            "key": "004",
+            "value": "Daher weiß diese jetzt über die Bewegungen der verschiedenen Armeen Bescheid."
+        },
+        {
+            "key": "005",
+            "value": "Genau."
+        },
+        {
+            "key": "006",
+            "value": "Die Stätte erließ ein Edikt an die Gilde."
+        },
+        {
+            "key": "007",
+            "value": "Sie sollen die sechs großen Klingen der Meisterschmiede des ganzen Landes an sich reißen, koste es was es wolle."
+        },
+        {
+            "key": "008",
+            "value": "So langsam verstehe ich. Du glaubst also, das von dir erlangte Schwert ist eine dieser großen Klingen."
+        },
+        {
+            "key": "009",
+            "value": "Exakt, mein Bruder."
+        },
+        {
+            "key": "010",
+            "value": "Ich bin nicht gerade ein Experte, was das Einschätzen von Schwertern angeht. Bist du dir sicher?"
+        },
+        {
+            "key": "011",
+            "value": "Ach, Ho-Ho! Ist das Schwert wirklich so kostbar?"
+        },
+        {
+            "key": "012",
+            "value": "Darauf kannst du wetten, Chell."
+        },
+        {
+            "key": "013",
+            "value": "Mit den Gil für das Schwert könnte man einen ganzen Berg deiner so geliebten Chocobo-Bonbons kaufen!"
+        },
+        {
+            "key": "014",
+            "value": "Wie viele sind denn ein Berg?"
+        },
+        {
+            "key": "015",
+            "value": "Mindestens hundert."
+        },
+        {
+            "key": "016",
+            "value": "Wow! So viele kann ich gar nicht essen."
+        },
+        {
+            "key": "017",
+            "value": "Ja ... Was sollst du laut dem Alten denn mit der Klinge machen?"
+        },
+        {
+            "key": "018",
+            "value": "Das weiß ich nicht."
+        },
+        {
+            "key": "019",
+            "value": "Genaueres ist mir nicht bekannt, aber wer immer alle sechs Klingen erlangt, soll angeblich große Macht erlangen."
+        },
+        {
+            "key": "020",
+            "value": "Die Stätte benutzt also die Waffenhändlergilde für ihre Zwecke?"
+        },
+        {
+            "key": "021",
+            "value": "So sieht es aus."
+        },
+        {
+            "key": "022",
+            "value": "Aber eines verstehe ich noch nicht. Was hat der alte Mann damit zu tun?"
+        },
+        {
+            "key": "023",
+            "value": "Er will doch sicher nicht diese große Macht für sich selbst, oder?"
+        },
+        {
+            "key": "024",
+            "value": "Wie? Wusstest du nicht, dass unser Meister einst selbst ein großer Schwertschmied war?"
+        },
+        {
+            "key": "025",
+            "value": "Was? Davon habe ich noch nie gehört."
+        },
+        {
+            "key": "026",
+            "value": "Der Meister schmiedete die Klinge für einen großen Samurai aus dem Osten und schenkte sie ihm. Leider ließ der Samurai sein Leben auf dem Schlachtfeld."
+        },
+        {
+            "key": "027",
+            "value": "Seitdem ist nicht bekannt, wo das Schwert sich befindet."
+        },
+        {
+            "key": "028",
+            "value": "Eine der sechs großen Klingen. Wolfsschatten ..."
+        },
+        {
+            "key": "029",
+            "value": "Der Alte hat sie geschmiedet? Unfassbar."
+        },
+        {
+            "key": "030",
+            "value": "Warum sah die Frau gerade so traurig aus?"
+        },
+        {
+            "key": "031",
+            "value": "Gute Frage."
+        },
+        {
+            "key": "032",
+            "value": "Sie war wie ein exquisites Juwel, das seinen Glanz verloren hatte und im Sand umher treibt ..."
+        },
+        {
+            "key": "033",
+            "value": "Ho-Ho!"
+        },
+        {
+            "key": "034",
+            "value": "Sie hat sicher ein tolles Lächeln, wenn sie glücklich ist. Kannst du dafür sorgen, dass sie lächelt?"
+        },
+        {
+            "key": "035",
+            "value": "Was für ein wundervoller Vorschlag, Chell. Diese Idee kam mir auch gerade?"
+        },
+        {
+            "key": "036",
+            "value": "Wirklich? Juchuuu!"
+        },
+        {
+            "key": "037",
+            "value": "M-Moment mal. Willst du einfach dieser armen Frau hinterherschleichen?"
+        },
+        {
+            "key": "038",
+            "value": "Mein lieber Bruder. Hast du unserer Unterhaltung gar nicht zugehört?"
+        },
+        {
+            "key": "039",
+            "value": "Aber was ist mit der Suche nach den anderen fünf Klingen?"
+        },
+        {
+            "key": "040",
+            "value": "Alles zu seiner Zeit."
+        },
+        {
+            "key": "041",
+            "value": "Natürlich. Und für dich ist immer Zeit, Schürzenjäger zu spielen."
+        },
+        {
+            "key": "042",
+            "value": "Ach, Titus. Deine Worte verletzen mich wirklich."
+        },
+        {
+            "key": "043",
+            "value": "Ich bin doch kein Schürzenjäger."
+        },
+        {
+            "key": "044",
+            "value": "Wenn überhaupt, jagen die Frauen mich von selbst."
+        },
+        {
+            "key": "045",
+            "value": "Ist dem so?"
+        },
+        {
+            "key": "046",
+            "value": "Du verstehst das natürlich nicht."
+        },
+        {
+            "key": "047",
+            "value": "Würde ich auch nicht wollen."
+        },
+        {
+            "key": "048",
+            "value": "Ich wünschte nur, du würdest einmal keine Probleme machen."
+        }
+    ]
+}

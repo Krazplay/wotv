@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ihr möchtet wissen, was in Wezette vor sich geht?"
+        },
+        {
+            "key": "002",
+            "value": "Natürlich will ich das."
+        },
+        {
+            "key": "003",
+            "value": "Und aus welchem Grund?"
+        },
+        {
+            "key": "004",
+            "value": "Weil ich mir um Glaziela Sorgen mache."
+        },
+        {
+            "key": "005",
+            "value": "Prinzessin Glaziela hat kein Interesse daran, Euch als Gefangene König Khuris zu sehen."
+        },
+        {
+            "key": "006",
+            "value": "Was willst du damit sagen?"
+        },
+        {
+            "key": "007",
+            "value": "Ihr wisst wirklich nichts darüber? Die Prinzessin hat vor, ihren Vater vom Thron zu stürzen."
+        },
+        {
+            "key": "008",
+            "value": "Unsinn!"
+        },
+        {
+            "key": "009",
+            "value": "Glaziela ist die Thronfolgerin Wezettes. Warum sollte sie also etwas Derartiges planen?!"
+        },
+        {
+            "key": "010",
+            "value": "Es ist ihr Geburtsrecht, eines Tages den Thron zu besteigen ..."
+        },
+        {
+            "key": "011",
+            "value": "Ihre Hoheit benötigt Eure Unterstützung."
+        },
+        {
+            "key": "012",
+            "value": "Das ist der Grund, warum sie mich zu Euch geschickt hat."
+        },
+        {
+            "key": "013",
+            "value": "Und wenn wir uns weigern?"
+        },
+        {
+            "key": "014",
+            "value": "Euch bleibt keine andere Wahl, als Ihrer Hoheit Gesuch anzunehmen."
+        },
+        {
+            "key": "015",
+            "value": "Als könntest du das entscheiden!"
+        },
+        {
+            "key": "016",
+            "value": "Oh, das kann ich. Denn ohne meine Hilfe werdet Ihr die Reise nach Wezette nicht überleben."
+        },
+        {
+            "key": "017",
+            "value": "Minwu, du erpresst uns ...?!"
+        }
+    ]
+}

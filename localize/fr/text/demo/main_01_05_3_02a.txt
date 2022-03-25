@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Je crois qu'on en voit le bout."
+        },
+        {
+            "key": "002",
+            "value": "Pas encore, en voilà d'autres."
+        },
+        {
+            "key": "003",
+            "value": "Quoi ?"
+        },
+        {
+            "key": "004",
+            "value": "Hm. Nous sommes encerclés."
+        },
+        {
+            "key": "005",
+            "value": "J'étais sûre qu'il y avait anguille sous roche !"
+        },
+        {
+            "key": "006",
+            "value": "Tss..."
+        },
+        {
+            "key": "007",
+            "value": "L'armée de Fennes elle-même..."
+        },
+        {
+            "key": "008",
+            "value": "Hé hé hé ! Regardez-moi le gros gibier qu'on a enfin attrapé !"
+        },
+        {
+            "key": "009",
+            "value": "Muraga ! Va en Enfer !"
+        },
+        {
+            "key": "010",
+            "value": "Schuzelt, non !"
+        },
+        {
+            "key": "011",
+            "value": "Rah ! Soldats, en avant !"
+        },
+        {
+            "key": "012",
+            "value": "Couvrez Schuzelt !"
+        }
+    ]
+}

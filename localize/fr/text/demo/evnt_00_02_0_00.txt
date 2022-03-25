@@ -1,0 +1,192 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Cette femme est l'une des commandantes de l'armée ennemie ?"
+        },
+        {
+            "key": "002",
+            "value": "J-j'ai entendu parler d'elle... Elle s'appelle…"
+        },
+        {
+            "key": "003",
+            "value": "Impossible... C'est la tireuse de légende à la tête de « Calorum », la troisième division de Rundall ?"
+        },
+        {
+            "key": "004",
+            "value": "Oui, il n'y a pas de doute. C'est celle qu'on appelle la Gâchette impitoyable... Lu'Cia !"
+        },
+        {
+            "key": "005",
+            "value": "Oh, je vois que ma réputation me précède. Je suis flattée."
+        },
+        {
+            "key": "006",
+            "value": "Puisque vous me connaissez, rapportez au roi de Hourne que cette forteresse est tombée aux mains de Lu'Cia !"
+        },
+        {
+            "key": "007",
+            "value": "Dépêchez-vous de retourner au château ! Ramenez des renforts, le plus vite possible !"
+        },
+        {
+            "key": "008",
+            "value": "O-oui."
+        },
+        {
+            "key": "009",
+            "value": "Argh !"
+        },
+        {
+            "key": "010",
+            "value": "Ça va ?!"
+        },
+        {
+            "key": "011",
+            "value": "Oui, ce n'est rien qu'une égratignure."
+        },
+        {
+            "key": "012",
+            "value": "Une légende telle que Lu'Cia n'aurait jamais manqué son tir à cette distance."
+        },
+        {
+            "key": "013",
+            "value": "Oui, eh bien peut-être que la fameuse Gâchette n'est pas aussi impitoyable qu'on le dit."
+        },
+        {
+            "key": "014",
+            "value": "Hé ! Vous avez entendu ?"
+        },
+        {
+            "key": "015",
+            "value": "Ils osent remettre en question les capacités de dame Lu'Cia !"
+        },
+        {
+            "key": "016",
+            "value": "Ils provoquent notre commandante ? Ils cherchent vraiment à en découdre, ceux-là."
+        },
+        {
+            "key": "017",
+            "value": "Hm ? Quoi ? Qu'est-ce qu'on cherche ?"
+        },
+        {
+            "key": "018",
+            "value": "Bien. La forteresse est à nous. En revanche..."
+        },
+        {
+            "key": "019",
+            "value": "C'est compris. Nous gardons ceux-là en vie."
+        },
+        {
+            "key": "020",
+            "value": "Comment ça ? Vous voulez nous garder comme otages ?"
+        },
+        {
+            "key": "021",
+            "value": "Ils jouent les ingénus, maintenant. C'est ce qu'ils attendaient depuis le début en fait ! Rah... je suis jaloux."
+        },
+        {
+            "key": "022",
+            "value": "Jaloux... ?"
+        },
+        {
+            "key": "023",
+            "value": "Évidemment ! Vous allez avoir l'honneur d'être torturés par Lu'Cia en personne !"
+        },
+        {
+            "key": "024",
+            "value": "Chut, pas de gros mots. Ils vont être « bichonnés » par moi en personne..."
+        },
+        {
+            "key": "025",
+            "value": "« Bichonnés »... Oui, c'est vrai que ça sonne bien."
+        },
+        {
+            "key": "026",
+            "value": "Ça donnerait presque envie d'être à leur place, hein ?"
+        },
+        {
+            "key": "027",
+            "value": "Commençons, alors ! Vous allez adorer..."
+        },
+        {
+            "key": "028",
+            "value": "On vient de me dire qu'un messager est arrivé de l'ouest... avec des nouvelles d'une forteresse à la frontière avec Rundall."
+        },
+        {
+            "key": "029",
+            "value": "Les nouvelles vont vite."
+        },
+        {
+            "key": "030",
+            "value": "Oui. Cette forteresse a succombé à l'attaque de la troisième division de Rundall, « Calorum »."
+        },
+        {
+            "key": "031",
+            "value": "Tu n'as quand même pas l'intention de t'y rendre ?"
+        },
+        {
+            "key": "032",
+            "value": "Cela me semblait naturel. Je comptais y conduire notre deuxième division, « Nitor »."
+        },
+        {
+            "key": "033",
+            "value": "Hm..."
+        },
+        {
+            "key": "034",
+            "value": "Je n'ai pas repris « Nitor » à Glahz pour me retrouver coincé au château."
+        },
+        {
+            "key": "035",
+            "value": "« Repris » ?"
+        },
+        {
+            "key": "036",
+            "value": "« Nitor » a été fondée par mon père. Ce n'est que la main griffue de l'ambition qui a permis à Glahz de s'en emparer."
+        },
+        {
+            "key": "037",
+            "value": "Tu n'as aucune preuve de ce que tu avances. Si les soldats avaient quoi que ce soit à reprocher à Glahz, ils n'en ont rien dit."
+        },
+        {
+            "key": "038",
+            "value": "Mais il a quand même... !"
+        },
+        {
+            "key": "039",
+            "value": "Je sais, je sais. C'est bien pour ça que j'ai autorisé un duel entre vous."
+        },
+        {
+            "key": "040",
+            "value": "..."
+        },
+        {
+            "key": "041",
+            "value": "Je suis inquiet, Adelard."
+        },
+        {
+            "key": "042",
+            "value": "Inquiet, Sire ?"
+        },
+        {
+            "key": "043",
+            "value": "Tu as beau être devenu le commandant de « Nitor », ses soldats sont encore tous fidèles à Glahz."
+        },
+        {
+            "key": "044",
+            "value": "J'ai peur que partir en expédition seul à sa tête ne te mette en danger."
+        },
+        {
+            "key": "045",
+            "value": "Non, Sire. C'est au contraire exactement l'occasion que j'attendais."
+        },
+        {
+            "key": "046",
+            "value": "Je vais leur montrer à quel point je suis un meilleur commandant que Glahz."
+        },
+        {
+            "key": "047",
+            "value": "..."
+        }
+    ]
+}

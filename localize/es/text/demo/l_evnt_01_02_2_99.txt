@@ -1,0 +1,308 @@
+﻿{
+    "infos": [
+        {
+            "key": "330",
+            "value": "No solo habéis protegido el almacén de las provisiones, sino que además habéis acabado con todos los ladrones en su guarida..."
+        },
+        {
+            "key": "331",
+            "value": "No sé cómo daros las gracias. Esto es más de lo que habíamos pedido."
+        },
+        {
+            "key": "332",
+            "value": "Solo he cumplido con mi deber de caballero."
+        },
+        {
+            "key": "333",
+            "value": "¡Qué buena acogida! Me gustaría haber estado desde el principio."
+        },
+        {
+            "key": "334",
+            "value": "¡Ahí estás, Camilo! ¿Dónde te habías metido?"
+        },
+        {
+            "key": "335",
+            "value": "Como ya teníamos todos los guiles que necesitábamos, he ido a comprar un bote."
+        },
+        {
+            "key": "336",
+            "value": "Lo cual me recuerda... Toma, lo prometido es deuda."
+        },
+        {
+            "key": "337",
+            "value": "¡El cristal núcleo! ¡Muchas gracias!"
+        },
+        {
+            "key": "338",
+            "value": "No hay de qué. Ese era el trato, ¿no?"
+        },
+        {
+            "key": "339",
+            "value": "Y ahora que el asunto está zanjado, tengo que pedirte un favor. ¿Podrías ayudarme a mover el bote? Es un poco pesado para mí solo."
+        },
+        {
+            "key": "340",
+            "value": "Claro. ¿Les pedimos ayuda a Cetia y Elsirel también?"
+        },
+        {
+            "key": "341",
+            "value": "No, hagámoslo solos. Así aprovechamos para lucirnos delante de las señoritas, ¿me sigues?"
+        },
+        {
+            "key": "342",
+            "value": "Eh... Supongo que sí..."
+        },
+        {
+            "key": "343",
+            "value": "Seguro que sí. Muy bien, vamos allá."
+        },
+        {
+            "key": "344",
+            "value": "Vale, les tomo la palabra entonces. No pienso mover un dedo."
+        },
+        {
+            "key": "345",
+            "value": "¡Eso! ¡Demuestra lo que vales, novato!"
+        },
+        {
+            "key": "346",
+            "value": "Uno, dos y... ¡Con fuerza, Lucius!"
+        },
+        {
+            "key": "347",
+            "value": "Ugh... Pese a ir en un carro, este bote es bastante pesado."
+        },
+        {
+            "key": "348",
+            "value": "¡¿Qué acabo de oír, novato?! ¡Eres un Guerrero de los Cristales, ¿no?! ¡Pues actúa como tal!"
+        },
+        {
+            "key": "349",
+            "value": "L-lo siento."
+        },
+        {
+            "key": "350",
+            "value": "Dime, Lucius... ¿Todos los Guerreros de los Cristales son como ella?..."
+        },
+        {
+            "key": "351",
+            "value": "Hmm... Supongo que en líneas generales todos son bastante estrictos, sí..."
+        },
+        {
+            "key": "352",
+            "value": "Me embarqué en esta misión nada más haber recibido un entrenamiento intensivo de Llum, y no me dieron ni un respiro."
+        },
+        {
+            "key": "353",
+            "value": "¿Llum?"
+        },
+        {
+            "key": "354",
+            "value": "Ah, sí. Fue la primera en darme algunas lecciones."
+        },
+        {
+            "key": "355",
+            "value": "Habla muy poco y por eso la gente tiende a malinterpretar sus palabras. Y entrenar con ella es más duro que lidiar con monstruos."
+        },
+        {
+            "key": "356",
+            "value": "Parece que tú también lo tienes difícil, amigo mío."
+        },
+        {
+            "key": "357",
+            "value": "Pero gracias a ella y a otros guerreros estoy aprendiendo mucho."
+        },
+        {
+            "key": "358",
+            "value": "Me motivan a esforzarme más para que tengan que regañarme un poco menos."
+        },
+        {
+            "key": "359",
+            "value": "Aunque todavía me falta experiencia, me da la sensación de que podré llegar a convertirme en un buen Guerrero de los Cristales si sigo aprendiendo de ellos."
+        },
+        {
+            "key": "360",
+            "value": "Vaya, ¡has tenido suerte con los superiores que te han tocado entonces, ¿eh?!"
+        },
+        {
+            "key": "361",
+            "value": "¡Ay! ¿A qué ha venido eso?"
+        },
+        {
+            "key": "362",
+            "value": "¡Te envidio, chaval!"
+        },
+        {
+            "key": "363",
+            "value": "Escúchame bien, Lucius. Si vas a grabarte algo a fuego en el corazón, que sea esto:"
+        },
+        {
+            "key": "364",
+            "value": "Tu vida entera puede cambiar de la noche a la mañana solo con conocer a una buena mujer."
+        },
+        {
+            "key": "365",
+            "value": "El día que yo conocí a Machérie, mi vida cambió para siempre."
+        },
+        {
+            "key": "366",
+            "value": "¿Conocer a Elsirel ha formado parte de ese cambio también?"
+        },
+        {
+            "key": "367",
+            "value": "Supongo que sí..., aunque no hace más que dormir."
+        },
+        {
+            "key": "368",
+            "value": "Oh, parece que ya hemos llegado."
+        },
+        {
+            "key": "369",
+            "value": "Buen trabajo, novato. Te ha servido de entrenamiento, ¿verdad?"
+        },
+        {
+            "key": "370",
+            "value": "Ja, ja, ja..."
+        },
+        {
+            "key": "371",
+            "value": "¿Cuál es el plan a partir de ahora?"
+        },
+        {
+            "key": "372",
+            "value": "Volver a nuestro reino, por supuesto. Debemos devolver el cristal al lugar al que pertenece."
+        },
+        {
+            "key": "373",
+            "value": "Entonces supongo que aquí nos despedimos. Os echaremos de menos..."
+        },
+        {
+            "key": "374",
+            "value": "Tampoco tiene por qué ser un adiós para siempre. ¡Podemos volver a vernos cuando queramos!"
+        },
+        {
+            "key": "375",
+            "value": "Es verdad. Ojalá sea pronto."
+        },
+        {
+            "key": "376",
+            "value": "Sigue puliendo esa confianza en ti mismo, Lucius."
+        },
+        {
+            "key": "377",
+            "value": "Ja, ja, ja... Lo intentaré."
+        },
+        {
+            "key": "378",
+            "value": "Y ven a verme cuando necesites un respiro. Te llevaré a comer cosas ricas."
+        },
+        {
+            "key": "379",
+            "value": "¡Oh, es una idea genial! Camilo nos invita a un festín entonces."
+        },
+        {
+            "key": "380",
+            "value": "¡¿Y por qué tengo que invitarte a nada a ti?!"
+        },
+        {
+            "key": "381",
+            "value": "Ya veo... Vaya un compañero de viaje insensible que me ha tocado... Tendré que informar de esto a lady Machérie."
+        },
+        {
+            "key": "382",
+            "value": "¡Eso es un ruin chantaje y lo sabes!"
+        },
+        {
+            "key": "383",
+            "value": "¡Ja, ja, ja! ¡Sois muy divertidos! ¡Eso es lo bueno de tener compañeros tan cercanos!"
+        },
+        {
+            "key": "384",
+            "value": "En fin, Camilo, Elsirel... Es hora de irnos."
+        },
+        {
+            "key": "385",
+            "value": "Cumple con tu deber como Guerrero de los Cristales. Nada de escaquearse, ¿de acuerdo?"
+        },
+        {
+            "key": "386",
+            "value": "Y duerme cuando las cosas se pongan difíciles. Eso siempre ayuda."
+        },
+        {
+            "key": "387",
+            "value": "¡Está bien! ¡Cuidaos!"
+        },
+        {
+            "key": "388",
+            "value": "¡Nos vemos!"
+        },
+        {
+            "key": "389",
+            "value": "Bueno, ya tenemos dos cristales... Yo diría que las cosas están yendo tan bien como cabía esperar."
+        },
+        {
+            "key": "390",
+            "value": "Bienvenidos. Sí que habéis tardado en volver..."
+        },
+        {
+            "key": "391",
+            "value": "Nos hemos encontrado con una pareja muy divertida."
+        },
+        {
+            "key": "392",
+            "value": "Ya hablaremos después de eso. Lo importante, Lucius, es que te pongas a entrenar de inmediato."
+        },
+        {
+            "key": "393",
+            "value": "¡¿Qué?! ¡Pero si acabo de llegar!"
+        },
+        {
+            "key": "394",
+            "value": "Eso no importa."
+        },
+        {
+            "key": "395",
+            "value": "Pe-pero..."
+        },
+        {
+            "key": "396",
+            "value": "¡Creo que yo también podría darte unas lecciones!"
+        },
+        {
+            "key": "397",
+            "value": "¡Entrenaremos hasta que se te olvide gimotear!"
+        },
+        {
+            "key": "398",
+            "value": "Eso suena a algún tipo de lavado de cerebro..."
+        },
+        {
+            "key": "399",
+            "value": "Iré a prepararlo todo. No llegues tarde."
+        },
+        {
+            "key": "400",
+            "value": "Tú siempre a tu ritmo, ¿eh, Llum?"
+        },
+        {
+            "key": "401",
+            "value": "Mira quién fue a hablar..."
+        },
+        {
+            "key": "402",
+            "value": "¡E-esperadme! ¡No me dejéis aquí!"
+        },
+        {
+            "key": "403",
+            "value": "Diría que el cristal acaba de debilitarse durante un momento..."
+        },
+        {
+            "key": "404",
+            "value": "Date prisa, Lucius."
+        },
+        {
+            "key": "405",
+            "value": "S-sí, ¡ya voy!"
+        }
+    ]
+}

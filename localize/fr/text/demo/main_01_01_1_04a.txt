@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Des renforts ennemis !"
+        },
+        {
+            "key": "002",
+            "value": "Ils n'ont pas l'air d'être des bandits ordinaires."
+        },
+        {
+            "key": "003",
+            "value": "Se pourrait-il qu'une puissance étrangère soit derrière tout cela ?"
+        },
+        {
+            "key": "004",
+            "value": "Vous êtes sûrement dans le vrai."
+        },
+        {
+            "key": "005",
+            "value": "Tu le penses vraiment ?"
+        },
+        {
+            "key": "006",
+            "value": "Quelles raisons aurions-nous de mentir ?"
+        },
+        {
+            "key": "007",
+            "value": "..."
+        },
+        {
+            "key": "008",
+            "value": "Si ce n'est pas Leonis alors... se pourrait-il qu'ils soient au service de Wezett ?!"
+        },
+        {
+            "key": "009",
+            "value": "Possible."
+        },
+        {
+            "key": "010",
+            "value": "Après tout, Hourne et Wezett ne s'apprécient pas beaucoup..."
+        },
+        {
+            "key": "011",
+            "value": "Attention à ce que tu dis, Mont."
+        },
+        {
+            "key": "012",
+            "value": "Wezett et Leonis ne sont pas en aussi mauvais termes qu'on le prétend."
+        },
+        {
+            "key": "013",
+            "value": "Oh, p-pardonnez-moi..."
+        },
+        {
+            "key": "014",
+            "value": "Nous nous occuperons de savoir d'où ils viennent plus tard."
+        },
+        {
+            "key": "015",
+            "value": "Tout ce qui importe, c'est leur nombre ! Roi Eldo, auriez-vous une idée ?"
+        },
+        {
+            "key": "016",
+            "value": "Répondre à la force par la force n'est pas la façon de procéder de Leonis."
+        },
+        {
+            "key": "017",
+            "value": "Cela veut-il dire que vous avez un plan ?"
+        },
+        {
+            "key": "018",
+            "value": "Oui. Abandonner le carrosse et battre en retraite dans la forêt."
+        },
+        {
+            "key": "019",
+            "value": "V-vous n'êtes pas sérieux ! Il pleut des cordes ! Dame Machalie..."
+        },
+        {
+            "key": "020",
+            "value": "... s'en sortira très bien."
+        },
+        {
+            "key": "021",
+            "value": "Après tout, ne dit-on pas « À Leonis, fais comme les Leoniens »."
+        },
+        {
+            "key": "022",
+            "value": "Mont, protège dame Machalie."
+        },
+        {
+            "key": "023",
+            "value": "O-oui, père !"
+        },
+        {
+            "key": "024",
+            "value": "Mont..."
+        },
+        {
+            "key": "025",
+            "value": "Mont... je vois ! Tu es le prince de Leonis."
+        },
+        {
+            "key": "026",
+            "value": "O-oui, mais..."
+        },
+        {
+            "key": "027",
+            "value": "On dit que le talent à l'épée du prince de Leonis n'a d'égal que sa susceptibilité."
+        },
+        {
+            "key": "028",
+            "value": "Dame Machalie, je pense que vous le confondez avec l'autre prince, le prince Sterne."
+        },
+        {
+            "key": "029",
+            "value": "Oh, maintenant je me rappelle. Des princes jumeaux. Aussi différents qu'un mog et un morbol."
+        },
+        {
+            "key": "030",
+            "value": "Je comprends désormais..."
+        },
+        {
+            "key": "031",
+            "value": "Eh bien, Prince héritier. Montrez-nous ce dont vous êtes capable."
+        }
+    ]
+}

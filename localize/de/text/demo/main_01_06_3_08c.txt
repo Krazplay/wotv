@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ihr jämmerlichen Gestalten seid ein Überbleibsel der leonischen Armee, stimmt’s?"
+        },
+        {
+            "key": "002",
+            "value": "Das Spiel ist aus! Wir wissen, was ihr vorhabt!"
+        },
+        {
+            "key": "003",
+            "value": "Ihr befördert in der Kutsche da etwas sehr, sehr, sehr Wichtiges, nicht wahr?"
+        },
+        {
+            "key": "004",
+            "value": "..."
+        },
+        {
+            "key": "005",
+            "value": "Ich weiß nicht, wo ihr so etwas gehört haben könntet. Aber ich weiß, dass Neugier tödlich sein kann."
+        },
+        {
+            "key": "006",
+            "value": "Was du nicht sagst. Jetzt bin ich wirklich neugierig."
+        },
+        {
+            "key": "007",
+            "value": "Damit wäre es also entschieden. Die Kutsche gehört jetzt uns!"
+        }
+    ]
+}

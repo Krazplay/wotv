@@ -1,0 +1,184 @@
+﻿{
+    "infos": [
+        {
+            "key": "EVENT_TITLE",
+            "value": "活動"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "獲得特別道具！"
+        },
+        {
+            "key": "MULTI_TITLE",
+            "value": "協力"
+        },
+        {
+            "key": "MULTI_DESC",
+            "value": "募集夥伴挑戰任務！"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "共鬥"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "大家齊心協力討伐強敵！"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "白磁之塔"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "高難度任務"
+        },
+        {
+            "key": "SUMMON_TITLE",
+            "value": "強敵之間"
+        },
+        {
+            "key": "SUMMON_DESC",
+            "value": "獲得使召喚獸覺醒所需要的素材！"
+        },
+        {
+            "key": "BATTLEROAD_TITLE",
+            "value": "特選任務"
+        },
+        {
+            "key": "BATTLEROAD_DESC",
+            "value": "挑戰僅有特定兵員可出擊的任務！"
+        },
+        {
+            "key": "QLN_EVENT_1",
+            "value": "聯動活動進行中！！"
+        },
+        {
+            "key": "QLN_EVENT_2",
+            "value": "測試進入新章！"
+        },
+        {
+            "key": "QLN_MULTI_1",
+            "value": "測試鬥技場硬幣2倍！"
+        },
+        {
+            "key": "QLN_MULTI_2",
+            "value": "測試邂逅活動舉辦中！"
+        },
+        {
+            "key": "QLN_RAID_1",
+            "value": "討伐死亡機器！"
+        },
+        {
+            "key": "QLN_RAID_1_2",
+            "value": "排名統計中"
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "討伐得到寬恕的失調！！"
+        },
+        {
+            "key": "QLN_RAID_2",
+            "value": "共鬥報酬領取期間"
+        },
+        {
+            "key": "QLN_RAID_4",
+            "value": "挑戰共鬥頭目！"
+        },
+        {
+            "key": "QLN_RAID_5",
+            "value": "討伐巨像兵！"
+        },
+        {
+            "key": "QLN_RAID_6",
+            "value": "討伐迪亞波羅斯！"
+        },
+        {
+            "key": "QLN_RAID_7",
+            "value": "討伐神聖布丁！"
+        },
+        {
+            "key": "QLN_RAID_8",
+            "value": "討伐古拉希亞爾！"
+        },
+        {
+            "key": "QLN_RAID_9",
+            "value": "討伐惡狼鐵兵！"
+        },
+        {
+            "key": "QLN_RAID_10",
+            "value": "討伐卡邦庫爾！"
+        },
+        {
+            "key": "QLN_RAID_11",
+            "value": "討伐利維坦！"
+        },
+        {
+            "key": "QLN_RAID_12",
+            "value": "討伐歐米茄！"
+        },
+        {
+            "key": "QLN_RAID_13",
+            "value": "討伐毀滅機械！"
+        },
+        {
+            "key": "QLN_RAID_14",
+            "value": "討伐艾拉菲凱拉斯！"
+        },
+        {
+            "key": "QLN_RAID_15",
+            "value": "討伐克拉肯！"
+        },
+        {
+            "key": "QLN_RAID_16",
+            "value": "討伐認知存在・鴨志田！"
+        },
+        {
+            "key": "QLN_TOWER_1",
+            "value": "白磁之塔舉辦中！"
+        },
+        {
+            "key": "QLN_TOWER_6",
+            "value": "立即前往贏得火業戒指！"
+        },
+        {
+            "key": "QLN_TOWER_7",
+            "value": "幻影之塔~獅子谷戰役~"
+        },
+        {
+            "key": "QLN_TOWER_8",
+            "value": "立即前往贏得土業戒指！"
+        },
+        {
+            "key": "QLN_SUMMON_1",
+            "value": "鐵巨人嶄新登場！！"
+        },
+        {
+            "key": "TOWER_OPEN_TITLE",
+            "value": "解鎖條件"
+        },
+        {
+            "key": "TOWER_OPEN_DESC",
+            "value": "達成以下條件可以解鎖。<br> 玩家等級到達{0}"
+        },
+        {
+            "key": "QUEST_OPEN_DESC",
+            "value": "非舉辦期間內"
+        },
+        {
+            "key": "CHALLENGE_OPEN_DESC",
+            "value": "挑戰期間結束"
+        },
+        {
+            "key": "QLN_TOWER_5",
+            "value": "立即前往贏得明光手鐲！"
+        },
+        {
+            "key": "QLN_TOWER_4",
+            "value": "立即前往贏得水業戒指！"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "立即前往贏得深紅烈焰！"
+        }
+    ]
+}

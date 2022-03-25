@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Il ne reste que des ruines... Tout a été anéanti par des monstres ?"
+        },
+        {
+            "key": "002",
+            "value": "Non. Les villageois ont été épargnés. Nous les avons déplacés à un autre endroit."
+        },
+        {
+            "key": "003",
+            "value": "Vous êtes un véritable roi, bienveillant envers son peuple."
+        },
+        {
+            "key": "004",
+            "value": "Ne vous méprenez pas, ce n'était pas mon idée. C'est Mont qui a insisté."
+        },
+        {
+            "key": "005",
+            "value": "Surprenant..."
+        },
+        {
+            "key": "006",
+            "value": "Surprenant ? Que voulez-vous dire ?"
+        },
+        {
+            "key": "007",
+            "value": "Je pensais que vous étiez le prince bien obéissant à son papa."
+        },
+        {
+            "key": "008",
+            "value": "..."
+        },
+        {
+            "key": "009",
+            "value": "Ne vous fâchez pas. Mon opinion à votre égard vient de s'améliorer. Un tout petit peu..."
+        },
+        {
+            "key": "010",
+            "value": "Il en arrive encore !"
+        },
+        {
+            "key": "011",
+            "value": "Ils n'abandonneront donc jamais."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "C'est qui, dans l'armure en or ?"
+        },
+        {
+            "key": "002",
+            "value": "... !"
+        },
+        {
+            "key": "003",
+            "value": "Sterne... ?"
+        },
+        {
+            "key": "004",
+            "value": "Sire ? Que faites-vous dans une amure pareille ?"
+        },
+        {
+            "key": "005",
+            "value": "Eldo ! Je vous ai enfin retrouvé !"
+        },
+        {
+            "key": "006",
+            "value": "Sterne... ? C'est toi, mon fils ?"
+        },
+        {
+            "key": "007",
+            "value": "Est-ce un râle d'agonie que j'entends ?"
+        },
+        {
+            "key": "008",
+            "value": "Qui est-ce ? Dénoncez-vous ! Qui a mis Eldo dans cet état ?"
+        },
+        {
+            "key": "009",
+            "value": "Il est à moi ! Personne ne vous a donc mis au courant ?"
+        },
+        {
+            "key": "010",
+            "value": "C'est toi qui l'as blessé ?"
+        },
+        {
+            "key": "011",
+            "value": "N-non ! Je n'aurais jamais..."
+        },
+        {
+            "key": "012",
+            "value": "(Je ne peux pas laisser Sterne affronter Père... Comment vais-je faire pour...)"
+        },
+        {
+            "key": "013",
+            "value": "(Oh ! Je sais !)"
+        },
+        {
+            "key": "014",
+            "value": "Sterne ! C'est de leur faute !"
+        },
+        {
+            "key": "015",
+            "value": "Ils ont voulu te voler la gloire en attaquant Père !"
+        },
+        {
+            "key": "016",
+            "value": "Alors c'était vous... ?"
+        },
+        {
+            "key": "017",
+            "value": "N-Non..."
+        },
+        {
+            "key": "018",
+            "value": "Chiens ! Vous m'avez volé ma proie !"
+        },
+        {
+            "key": "019",
+            "value": "Bien joué, Sire ! Comme d'habitude."
+        },
+        {
+            "key": "020",
+            "value": "C'est le moment ! Suivons Sterne et balayons l'armée de Fennes !"
+        }
+    ]
+}

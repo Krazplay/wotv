@@ -1,0 +1,300 @@
+﻿{
+    "infos": [
+        {
+            "key": "063",
+            "value": "Die Schwachen rotten sich immer zusammen. Gegen meine Fähigkeiten haben sie keine Chance."
+        },
+        {
+            "key": "064",
+            "value": "Du hingegen hattest scheinbar ganz schöne Probleme."
+        },
+        {
+            "key": "065",
+            "value": "E-Es tut mir aufrichtig leid. Das war mein erstes richtiges Gefecht ..."
+        },
+        {
+            "key": "066",
+            "value": "Ich will keine Entschuldigungen hören. Bei uns Kristallkriegern werden keine Schwächlinge geduldet."
+        },
+        {
+            "key": "067",
+            "value": "Du darfst dich nicht so viel bewegen. Schätze die Bewegungen deiner Gegner ein, bevor du selbst handelst."
+        },
+        {
+            "key": "068",
+            "value": "Die Monster haben den Kampf gegen dich beherrscht. Du solltest es sein, der das Geschehen kontrolliert."
+        },
+        {
+            "key": "069",
+            "value": "So haben wir keine Verwendung für dich. Du musst stärker werden. Ist das klar?"
+        },
+        {
+            "key": "070",
+            "value": "V-Vielen Dank für deine brutale Direktheit und Ehrlichkeit."
+        },
+        {
+            "key": "071",
+            "value": "Keine Zeit für Selbstmitleid. Wir müssen den Kristall erreichen, bevor die Sonne untergeht."
+        },
+        {
+            "key": "072",
+            "value": "Nachts werden die Monster noch boshafter sein."
+        },
+        {
+            "key": "073",
+            "value": "Ah! S-So warte doch, Jume!"
+        },
+        {
+            "key": "074",
+            "value": "Ein Dorf? Hier scheint es sehr ruhig zu sein."
+        },
+        {
+            "key": "075",
+            "value": "Ich spüre den Kernkristall in der Nähe. Versuchen wir, Informationen zu sammeln."
+        },
+        {
+            "key": "076",
+            "value": "Hast du hier einen Kernkristall gesehen?"
+        },
+        {
+            "key": "077",
+            "value": "Einen Kernkristall? Was soll das sein?"
+        },
+        {
+            "key": "078",
+            "value": "Er sollte hier irgendwo sein. Raus mit der Sprache, wo ist er?"
+        },
+        {
+            "key": "079",
+            "value": "Tut mir leid, ich bin dir da wohl keine große Hilfe."
+        },
+        {
+            "key": "080",
+            "value": "Was für eine Zeitverschwendung."
+        },
+        {
+            "key": "081",
+            "value": "W-Was ist denn dein Problem? Redet man so mit jemandem, den man um Hilfe bittet?"
+        },
+        {
+            "key": "082",
+            "value": "... Habe ich etwas falsch gemacht? Na ja, ich frage einfach den Nächsten."
+        },
+        {
+            "key": "083",
+            "value": "Hast du einen Kernkristall gesehen?"
+        },
+        {
+            "key": "084",
+            "value": "Was? E-Einen Kernkristall?"
+        },
+        {
+            "key": "085",
+            "value": "Exakt. Er sollte irgendwo hier sein. Sag mir, wo er ist."
+        },
+        {
+            "key": "086",
+            "value": "Ä-Ähm ... Ich habe hier jedenfalls keinen gesehen. Ich hoffe, das hilft dir weiter."
+        },
+        {
+            "key": "087",
+            "value": "Du bist wohl auch so nutzlos wie der eben."
+        },
+        {
+            "key": "088",
+            "value": "W-Was tust du da? Jume!"
+        },
+        {
+            "key": "089",
+            "value": "Was ist denn? Stör mich hier nicht."
+        },
+        {
+            "key": "090",
+            "value": "So erfährst du nie etwas. Du bringst die Leute nur gegen dich auf."
+        },
+        {
+            "key": "091",
+            "value": "Aber warum? Ich sage doch nur die Wahrheit."
+        },
+        {
+            "key": "092",
+            "value": "L-Lass mich das bitte übernehmen."
+        },
+        {
+            "key": "093",
+            "value": "Entschuldigung. Hat sich in letzter Zeit in der Nähe dieses Dorfes etwas verändert?"
+        },
+        {
+            "key": "094",
+            "value": "Etwas verändert? Jetzt, wo du es erwähnst ..."
+        },
+        {
+            "key": "095",
+            "value": "Die Monster, die in den Minen außerhalb des Dorfes leben, sind in letzter Zeit viel aggressiver geworden."
+        },
+        {
+            "key": "096",
+            "value": "Manche sagen, dies sei ein Vorzeichen auf eine kommende Naturkatastrophe, jedoch kennt niemand die Ursache."
+        },
+        {
+            "key": "097",
+            "value": "Ich verstehe. War dort vielleicht ein glänzendes Objekt in der Nähe?"
+        },
+        {
+            "key": "098",
+            "value": "Ich halte mich grundsätzlich von den Minen fern. Dort ist es sehr gefährlich, weißt du."
+        },
+        {
+            "key": "099",
+            "value": "Tut mir leid, dass ich keine große Hilfe war."
+        },
+        {
+            "key": "100",
+            "value": "A-Ach was!"
+        },
+        {
+            "key": "101",
+            "value": "Ich sollte mich dafür entschuldigen, wie meine Kameradin mit dir sprach."
+        },
+        {
+            "key": "102",
+            "value": "Vielen Dank für all die Informationen. Sie sind sehr hilfreich."
+        },
+        {
+            "key": "103",
+            "value": "Puh ... Hat dir noch nie jemand gesagt, dass du nicht gerade gut darin bist, die Stimmung anderer zu erkennen?"
+        },
+        {
+            "key": "104",
+            "value": "Keiner der Krieger hat je so etwas erwähnt. Meist schweigt mein Gegenüber einfach, wenn ich eine Konversation beginne."
+        },
+        {
+            "key": "105",
+            "value": "Das dachte ich mir schon. Es ist also ein grundlegendes Problem bei dir."
+        },
+        {
+            "key": "106",
+            "value": "Ich bin stets faktisch exakt. Daher verstehe ich nicht, warum meine Gesprächspartner die Konversation nicht fortzuführen wissen."
+        },
+        {
+            "key": "107",
+            "value": "Es ist nicht immer eine gute Sache, ganz direkt nur die Wahrheit und Fakten zu präsentieren."
+        },
+        {
+            "key": "108",
+            "value": "Wenn du die Gefühle deines Gegenübers verletzt, wird dieser nicht weiter reden wollen."
+        },
+        {
+            "key": "109",
+            "value": "Also sind sie alle gefühlsmäßig zu schwach?"
+        },
+        {
+            "key": "110",
+            "value": "Es geht dabei nicht um stark oder schwach."
+        },
+        {
+            "key": "111",
+            "value": "A-Aber okay, kümmern wir uns wieder um unsere Mission. Die Frau sagte, dass bei den Minen außerhalb des Dorfes seltsame Dinge vor sich gehen. Wie sollen wir fortfahren?"
+        },
+        {
+            "key": "112",
+            "value": "Wir werden es uns höchstpersönlich ansehen."
+        },
+        {
+            "key": "113",
+            "value": "Die erhöhte Aggressivität der Monster könnte eine Folge des Einflusses des Kernkristalls sein."
+        },
+        {
+            "key": "114",
+            "value": "Auch für die Dorfbewohner hoffe ich, dass wir den Kernkristall schon bald zurückerlangen."
+        },
+        {
+            "key": "115",
+            "value": "Ah, schon wieder? Warte doch, Jume!"
+        },
+        {
+            "key": "116",
+            "value": "Dies sind wohl die besagten Minen, in denen Monster leben sollen. In dieser Dunkelheit sieht man aber nicht mal die Hand vor Augen."
+        },
+        {
+            "key": "117",
+            "value": "Wir könnten jederzeit angegriffen werden. Bleibe stets wachsam."
+        },
+        {
+            "key": "118",
+            "value": "O-Okay."
+        },
+        {
+            "key": "119",
+            "value": "Wenn man vom Teufel spricht."
+        },
+        {
+            "key": "120",
+            "value": "Jume! Da wird jemand von den Monstern angegriffen!"
+        },
+        {
+            "key": "121",
+            "value": "Ngh!"
+        },
+        {
+            "key": "122",
+            "value": "Sie haben ihn sicher bald überwältigt. Wir müssen ihm sofort zu Hilfe eilen!"
+        },
+        {
+            "key": "123",
+            "value": "Es wäre besser für uns, ihn weiter gegen die Monster kämpfen zu lassen."
+        },
+        {
+            "key": "124",
+            "value": "Nutzen wir diese Gelegenheit, um nach dem Kernkristall zu suchen."
+        },
+        {
+            "key": "125",
+            "value": "W-Wir sollen ihn einfach im Stich lassen?"
+        },
+        {
+            "key": "126",
+            "value": "Die Starken überwältigen die Schwachen. So ist das auf der Welt. Wir sind nicht verpflichtet, Hilfe zu leisten."
+        },
+        {
+            "key": "127",
+            "value": "Nein ... Ich weigere mich, ihn seinem Tod zu überlassen!"
+        },
+        {
+            "key": "128",
+            "value": "Die Kristallkrieger existieren, um den Menschen zu helfen!"
+        },
+        {
+            "key": "129",
+            "value": "Nein. Unsere Aufgabe ist es, die Kernkristalle zu schützen."
+        },
+        {
+            "key": "130",
+            "value": "Aber der Junge weiß vielleicht, wo sich der Kernkristall befindet."
+        },
+        {
+            "key": "131",
+            "value": "Hm?"
+        },
+        {
+            "key": "132",
+            "value": "Helfen wir ihm, auch wenn es nur für Informationen geschieht."
+        },
+        {
+            "key": "133",
+            "value": "Ich bitte dich, Jume. Leih mir deine Klinge, auf dass wir ihn retten können."
+        },
+        {
+            "key": "134",
+            "value": "Nun, wenn wir dadurch etwas erfahren können, kann ich wohl nicht ablehnen."
+        },
+        {
+            "key": "135",
+            "value": "Ich werde das schnell erledigen. Komm mir nicht in die Quere, klar?"
+        },
+        {
+            "key": "136",
+            "value": "Jawohl!"
+        }
+    ]
+}

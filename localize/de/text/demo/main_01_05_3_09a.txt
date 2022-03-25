@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Wow! Styr ist wirklich eine Naturgewalt!"
+        },
+        {
+            "key": "002",
+            "value": "Mach weiter, Styr! Hau sie in Stücke!"
+        },
+        {
+            "key": "003",
+            "value": "Du gibst mir keine Befehle!"
+        },
+        {
+            "key": "004",
+            "value": "Hm?!"
+        },
+        {
+            "key": "005",
+            "value": "Ihr Bastarde seid als Nächstes dran!"
+        },
+        {
+            "key": "006",
+            "value": "W-Warte!"
+        }
+    ]
+}

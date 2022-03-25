@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bon sang, d'où viennent-ils tous ?"
+        },
+        {
+            "key": "002",
+            "value": "Leonis est une petite nation entourée de grandes puissances... C'est donc cet anneau qui vous a permis de conserver votre indépendance."
+        },
+        {
+            "key": "003",
+            "value": "Vous êtes perspicace, cela ne m'étonne pas de vous."
+        },
+        {
+            "key": "004",
+            "value": "Cet anneau... Je suppose qu'il s'agit d'une relique séculaire ?"
+        },
+        {
+            "key": "005",
+            "value": "En effet. Vous êtes une des rares personnes à l'avoir vu, Dame Machalie."
+        },
+        {
+            "key": "006",
+            "value": "Voyez cela comme la preuve de notre confiance mutuelle."
+        },
+        {
+            "key": "007",
+            "value": "Je vois... Une preuve de confiance..."
+        },
+        {
+            "key": "008",
+            "value": "Dame Machalie..."
+        },
+        {
+            "key": "009",
+            "value": "Ce n'est rien, tout va bien."
+        },
+        {
+            "key": "010",
+            "value": "Quelque chose vous tracasse ?"
+        },
+        {
+            "key": "011",
+            "value": "Non, tout va bien."
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "Père ! L'ennemi reçoit encore des renforts !"
+        },
+        {
+            "key": "014",
+            "value": "Ils n'apprennent donc jamais ? Retirons-nous pour l'instant. Nous riposterons quand nous serons à notre avantage."
+        }
+    ]
+}

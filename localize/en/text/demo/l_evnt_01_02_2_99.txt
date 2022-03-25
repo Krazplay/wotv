@@ -1,0 +1,308 @@
+﻿{
+    "infos": [
+        {
+            "key": "330",
+            "value": "Not only did you guard the provisions storage, but you even put an end to the thieves' hideout...?"
+        },
+        {
+            "key": "331",
+            "value": "I can't thank you all enough. You've gone above and beyond."
+        },
+        {
+            "key": "332",
+            "value": "I merely did my duty as a knight."
+        },
+        {
+            "key": "333",
+            "value": "What a warm reception. I wish I'd been here for the whole thing."
+        },
+        {
+            "key": "334",
+            "value": "There you are, Lord Camillo! Where were you?"
+        },
+        {
+            "key": "335",
+            "value": "Since we got all the gil we needed, I went and bought our boat."
+        },
+        {
+            "key": "336",
+            "value": "Which reminds me... Here, as promised."
+        },
+        {
+            "key": "337",
+            "value": "The Core Crystal! You have my thanks!"
+        },
+        {
+            "key": "338",
+            "value": "No thanks needed. That was the deal, remember?"
+        },
+        {
+            "key": "339",
+            "value": "Now that that's settled, I have a favor to ask. Could you help me move the boat? It's a little too heavy for me by myself."
+        },
+        {
+            "key": "340",
+            "value": "Of course. Should we ask Cetia and Elsirelle to help as well?"
+        },
+        {
+            "key": "341",
+            "value": "No, let's do it ourselves. May as well show off a little in front of the ladies, you catch my drift?"
+        },
+        {
+            "key": "342",
+            "value": "I...guess so?"
+        },
+        {
+            "key": "343",
+            "value": "I'm sure you do. All right, here we go."
+        },
+        {
+            "key": "344",
+            "value": "Well, I say we indulge them and lift not a single finger."
+        },
+        {
+            "key": "345",
+            "value": "Right! Show us what you've got, new recruit!"
+        },
+        {
+            "key": "346",
+            "value": "Heave, ho...! Give it all you've got, Lucio!"
+        },
+        {
+            "key": "347",
+            "value": "Urgh... Even though it's on a cart, this boat is quite heavy."
+        },
+        {
+            "key": "348",
+            "value": "Was that whining I heard just now, new recruit!? You're a Warrior of the Crystals—try to act like it!"
+        },
+        {
+            "key": "349",
+            "value": "M-my apologies."
+        },
+        {
+            "key": "350",
+            "value": "...Say, Lucio. Is every Warrior of the Crystals like her?"
+        },
+        {
+            "key": "351",
+            "value": "Hmm...I guess if I had to sum them up, everyone is pretty strict..."
+        },
+        {
+            "key": "352",
+            "value": "I was brought in for this task straight from Lady Jeume's intensive training without a break."
+        },
+        {
+            "key": "353",
+            "value": "Jeume?"
+        },
+        {
+            "key": "354",
+            "value": "Ah, right. She was the first person to give me guidance."
+        },
+        {
+            "key": "355",
+            "value": "She speaks very little, which causes her to be misunderstood a lot. And training with her is tougher than dealing with any monster."
+        },
+        {
+            "key": "356",
+            "value": "Sounds like you've got it rough too, my friend."
+        },
+        {
+            "key": "357",
+            "value": "But I'm able to learn so much from her and the other warriors."
+        },
+        {
+            "key": "358",
+            "value": "It all makes me want to try a little harder so that they don't have to scold me as much."
+        },
+        {
+            "key": "359",
+            "value": "Even though I still lack experience, I have a feeling that I'll become a fine Warrior of the Crystals if I keep learning from them."
+        },
+        {
+            "key": "360",
+            "value": "...Ooh! It sounds like you've been blessed with some wonderful superiors, huh!"
+        },
+        {
+            "key": "361",
+            "value": "Ow! Wh-what was that for?"
+        },
+        {
+            "key": "362",
+            "value": "Boy, do I envy you!"
+        },
+        {
+            "key": "363",
+            "value": "Listen well, Lucio. If you only take one thing to heart, let it be this—"
+        },
+        {
+            "key": "364",
+            "value": "Your entire life can change overnight just by meeting a good woman."
+        },
+        {
+            "key": "365",
+            "value": "The day I met Machérie was the day my life changed forever."
+        },
+        {
+            "key": "366",
+            "value": "Did meeting Elsirelle play a part in that change as well?"
+        },
+        {
+            "key": "367",
+            "value": "I guess you could say that...even though all she does is sleep."
+        },
+        {
+            "key": "368",
+            "value": "Oh, looks like we're here."
+        },
+        {
+            "key": "369",
+            "value": "Nice work, new recruit. It was a good training experience, right?"
+        },
+        {
+            "key": "370",
+            "value": "Hahaha..."
+        },
+        {
+            "key": "371",
+            "value": "What's the plan from here for you two?"
+        },
+        {
+            "key": "372",
+            "value": "To return to our realm, of course. We have to get the Crystal back to where it belongs."
+        },
+        {
+            "key": "373",
+            "value": "Then I guess this is goodbye. You will be missed..."
+        },
+        {
+            "key": "374",
+            "value": "It's not like we're gone for good. We can meet again whenever we fancy!"
+        },
+        {
+            "key": "375",
+            "value": "You're right. May we meet again someday."
+        },
+        {
+            "key": "376",
+            "value": "Keep working on improving that confidence, Lucio."
+        },
+        {
+            "key": "377",
+            "value": "Hahaha... I'll try."
+        },
+        {
+            "key": "378",
+            "value": "Pay me a visit whenever you need a break. I'll take you to try some real delicacies."
+        },
+        {
+            "key": "379",
+            "value": "Oh, what a splendid idea. Let us make it a feast, your treat."
+        },
+        {
+            "key": "380",
+            "value": "And why would I be treating you to anything!?"
+        },
+        {
+            "key": "381",
+            "value": "I see...what an unexpectedly heartless travel companion I've been dealt. I must report this to Lady Machérie."
+        },
+        {
+            "key": "382",
+            "value": "That's shameless extortion and you know it!"
+        },
+        {
+            "key": "383",
+            "value": "Hahaha! You two are so much fun! This is what having close companions is all about!"
+        },
+        {
+            "key": "384",
+            "value": "Alas, Lord Camillo and Lady Elsirelle...it's about time we headed back."
+        },
+        {
+            "key": "385",
+            "value": "Make sure you perform your duties as a Warrior of the Crystals, no slacking off. Got it?"
+        },
+        {
+            "key": "386",
+            "value": "Make sure to get some sleep when things get rough. It always makes things better."
+        },
+        {
+            "key": "387",
+            "value": "Understood! Be safe, you two!"
+        },
+        {
+            "key": "388",
+            "value": "See you around!"
+        },
+        {
+            "key": "389",
+            "value": "Well, that's two Crystals now... I'd say things are going about as well as can be expected."
+        },
+        {
+            "key": "390",
+            "value": "Welcome back. That took an unexpectedly long time."
+        },
+        {
+            "key": "391",
+            "value": "We happened upon a really amusing pair."
+        },
+        {
+            "key": "392",
+            "value": "We can discuss what happened later. What's more important now, Lucio, is getting back to your training."
+        },
+        {
+            "key": "393",
+            "value": "Huh!? But I've only just returned!"
+        },
+        {
+            "key": "394",
+            "value": "That matters not."
+        },
+        {
+            "key": "395",
+            "value": "B-but..."
+        },
+        {
+            "key": "396",
+            "value": "It sounds like I need to get in on this, too!"
+        },
+        {
+            "key": "397",
+            "value": "I'll train you until you've forgotten how to whine!"
+        },
+        {
+            "key": "398",
+            "value": "That almost sounds like some form of brainwashing..."
+        },
+        {
+            "key": "399",
+            "value": "I'll be preparing in the meantime. Do not be late."
+        },
+        {
+            "key": "400",
+            "value": "Always doing things at your own pace, huh?"
+        },
+        {
+            "key": "401",
+            "value": "You're the last person I want to hear that from..."
+        },
+        {
+            "key": "402",
+            "value": "W-wait for me! Don't leave me behind!"
+        },
+        {
+            "key": "403",
+            "value": "Did the Crystal just turn dim for a moment?"
+        },
+        {
+            "key": "404",
+            "value": "Hurry up, Lucio."
+        },
+        {
+            "key": "405",
+            "value": "O-okay, I'll be right there!"
+        }
+    ]
+}

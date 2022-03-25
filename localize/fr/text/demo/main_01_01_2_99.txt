@@ -1,0 +1,96 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Est-ce que ça va ? Tiens bon."
+        },
+        {
+            "key": "002",
+            "value": "P-pardonnez-moi, mon prince."
+        },
+        {
+            "key": "003",
+            "value": "Cette blessure est profonde... Ça ne provient sûrement pas de la lame d'un combattant ordinaire."
+        },
+        {
+            "key": "004",
+            "value": "Impossible..."
+        },
+        {
+            "key": "005",
+            "value": "C'était... Mura... ga... mon prince. Il est... ici."
+        },
+        {
+            "key": "006",
+            "value": "Prince Mont, prenez ce soldat et partez, maintenant."
+        },
+        {
+            "key": "007",
+            "value": "Tu me demandes de battre en retraite ?"
+        },
+        {
+            "key": "008",
+            "value": "Muraga n'est pas un ennemi ordinaire."
+        },
+        {
+            "key": "009",
+            "value": "Mais tu es avec moi, Lilyth !"
+        },
+        {
+            "key": "010",
+            "value": "ll n'y a que moi, c'est loin d'être gagné."
+        },
+        {
+            "key": "011",
+            "value": "En d'autres termes... tu dis que je te suis inutile ?!"
+        },
+        {
+            "key": "012",
+            "value": "J'en ai bien peur, mon prince, je suis désolée."
+        },
+        {
+            "key": "013",
+            "value": "Muraga a attaqué pour reprendre Machalie."
+        },
+        {
+            "key": "014",
+            "value": "..."
+        },
+        {
+            "key": "015",
+            "value": "C'est pour cela que je ne peux pas battre en retraite."
+        },
+        {
+            "key": "016",
+            "value": "Je vous l'ai déjà dit, Prince Mont ! C'est trop dangereux !"
+        },
+        {
+            "key": "017",
+            "value": "La lignée des Leonis doit perdurer, même s'il nous faut défier les dieux pour la défendre."
+        },
+        {
+            "key": "018",
+            "value": "Ce sont les mots du roi Eldo..."
+        },
+        {
+            "key": "019",
+            "value": "Je le battrai. Prête-moi... ta force !"
+        },
+        {
+            "key": "020",
+            "value": "Est-ce... un ordre ?"
+        },
+        {
+            "key": "021",
+            "value": "Et si c'était le cas... ?"
+        },
+        {
+            "key": "022",
+            "value": "Eh bien j'obéirai... avec plaisir."
+        },
+        {
+            "key": "023",
+            "value": "Après tout, j'ai juré d'être la lame du prince Mont jusqu'à mon dernier souffle."
+        }
+    ]
+}

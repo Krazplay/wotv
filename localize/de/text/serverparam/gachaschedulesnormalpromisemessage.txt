@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "1",
+            "value": "Eine [UR]-Einheit garantiert!"
+        },
+        {
+            "key": "2",
+            "value": "Eine [UR]-Visionskarte garantiert!"
+        },
+        {
+            "key": "3",
+            "value": "Eine [UR]-Einheit garantiert!"
+        },
+        {
+            "key": "4",
+            "value": "Eine [UR]-Visionskarte garantiert!"
+        },
+        {
+            "key": "5",
+            "value": "Eine [UR]-Einheit garantiert!"
+        },
+        {
+            "key": "6",
+            "value": "Eine [UR]-Visionskarte garantiert!"
+        },
+        {
+            "key": "7",
+            "value": "Eine [UR]-Einheit garantiert!"
+        }
+    ]
+}

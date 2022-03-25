@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Urkh ..."
+        },
+        {
+            "key": "002",
+            "value": "Euer Majestät! Eu-Euer Bauch ...!"
+        },
+        {
+            "key": "003",
+            "value": "Kein Grund, solches Aufheben zu machen."
+        },
+        {
+            "key": "004",
+            "value": "Aber Ihr blutet stark ..."
+        },
+        {
+            "key": "005",
+            "value": "Hör zu, Lilith. Kein Wort hierüber, zu niemandem."
+        },
+        {
+            "key": "006",
+            "value": "A-Aber ..."
+        },
+        {
+            "key": "007",
+            "value": "Das ist ... ein Befehl."
+        }
+    ]
+}

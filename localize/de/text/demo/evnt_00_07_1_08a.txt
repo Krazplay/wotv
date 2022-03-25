@@ -1,0 +1,116 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hier wurde ein riesiger Hohlraum ausgegraben ..."
+        },
+        {
+            "key": "002",
+            "value": "Wir müssen uns mitten im Kristallflöz befinden."
+        },
+        {
+            "key": "003",
+            "value": "Seht ...!"
+        },
+        {
+            "key": "004",
+            "value": "Was ist hier passiert? Wo sind die Mönchsoldaten?"
+        },
+        {
+            "key": "005",
+            "value": "Ko... Kommandant ..."
+        },
+        {
+            "key": "006",
+            "value": "Flieht ... Schnell ..."
+        },
+        {
+            "key": "007",
+            "value": "Kommandant!"
+        },
+        {
+            "key": "008",
+            "value": "Aaah!!"
+        },
+        {
+            "key": "009",
+            "value": "Hrk ..."
+        },
+        {
+            "key": "010",
+            "value": "Vizekommandantin! Warum habt Ihr das getan?!"
+        },
+        {
+            "key": "011",
+            "value": "Merkst du das denn nicht? Das ist eine Falle."
+        },
+        {
+            "key": "012",
+            "value": "... Eine Falle?!"
+        },
+        {
+            "key": "013",
+            "value": "Der Feind wusste, dass „Crucium“ hierherkommen würde."
+        },
+        {
+            "key": "014",
+            "value": "Das heißt ja ... dass es einen Maulwurf unter uns gibt!"
+        },
+        {
+            "key": "015",
+            "value": "Ja, so sieht es aus."
+        },
+        {
+            "key": "016",
+            "value": "Das hier ist der perfekte Ort, um eine reine Nahkampfeinheit in den Hinterhalt zu locken."
+        },
+        {
+            "key": "017",
+            "value": "Die Männer sind im Pfeilhagel umgekommen, bevor sie auch nur eine Chance zur Gegenwehr hatten."
+        },
+        {
+            "key": "018",
+            "value": "Oh nein ..."
+        },
+        {
+            "key": "019",
+            "value": "Dann hängt der Ausgang dieses Kampfes ... jetzt von euch beiden ab."
+        },
+        {
+            "key": "020",
+            "value": "Von ... Lu’Cia und mir ...?"
+        },
+        {
+            "key": "021",
+            "value": "Aber ich will keine Heldentaten sehen, hört ihr? Wenn der Kampf aussichtslos wird ... dann flieht!"
+        },
+        {
+            "key": "022",
+            "value": "Wir können Euch hier doch nicht zurücklassen!"
+        },
+        {
+            "key": "023",
+            "value": "Wir kämpfen mit Euch bis zum bitteren Ende!"
+        },
+        {
+            "key": "024",
+            "value": "Und von wem soll Seine Majestät dann erfahren, dass die Kirche einen Informanten in Rundall hat?"
+        },
+        {
+            "key": "025",
+            "value": "D-Das ist ..."
+        },
+        {
+            "key": "026",
+            "value": "Wenn es hier zu gefährlich wird, dann lauft, ohne zu zögern. Das ist ein Befehl, verstanden?"
+        },
+        {
+            "key": "027",
+            "value": "... Jawohl."
+        },
+        {
+            "key": "028",
+            "value": "Dann los, Creysse."
+        }
+    ]
+}

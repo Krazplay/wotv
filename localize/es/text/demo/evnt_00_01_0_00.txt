@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡¿Eh?!"
+        },
+        {
+            "key": "002",
+            "value": "¿Qué es ese olor?"
+        },
+        {
+            "key": "003",
+            "value": "Snif, snif…"
+        },
+        {
+            "key": "004",
+            "value": "Aaaj, ¡qué peste!"
+        },
+        {
+            "key": "005",
+            "value": "Puaaaaj…"
+        },
+        {
+            "key": "006",
+            "value": "A ver, un momento. A ver si preparándome mentalmente…"
+        },
+        {
+            "key": "007",
+            "value": "¡No puedo! ¡Imposible!"
+        },
+        {
+            "key": "008",
+            "value": "Lo siento mucho, lord Stern…"
+        }
+    ]
+}

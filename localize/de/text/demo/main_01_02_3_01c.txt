@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Was ...?"
+        },
+        {
+            "key": "002",
+            "value": "..."
+        },
+        {
+            "key": "003",
+            "value": "Euer Hoheit. Ist alles in Ordnung?"
+        },
+        {
+            "key": "004",
+            "value": "Margery ... Ich habe ihre Stimme gehört."
+        },
+        {
+            "key": "005",
+            "value": "Wenn dem so ist, solltet Ihr antworten."
+        },
+        {
+            "key": "006",
+            "value": "Was ...?"
+        },
+        {
+            "key": "007",
+            "value": "Ich kann die Prinzessin nirgendwo sehen."
+        },
+        {
+            "key": "008",
+            "value": "Und dennoch habt Ihr ihre Stimme gehört ..."
+        },
+        {
+            "key": "009",
+            "value": "Vielleicht eine Offenbarung der Götter?"
+        },
+        {
+            "key": "010",
+            "value": "Unmöglich ..."
+        },
+        {
+            "key": "011",
+            "value": "Euer Hoheit! Der Vormarsch des Feindes ist zum Stillstand gekommen!"
+        },
+        {
+            "key": "012",
+            "value": "Es sieht aus, als würde man uns eine kurze Verschnaufpause gönnen."
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Euer Hoheit. Es ist an der Zeit, eine Entscheidung zu treffen."
+        },
+        {
+            "key": "015",
+            "value": "Das ist wahr ... Wir begeben uns ins Schloss und bringen in Erfahrung, was mein Vater wirklich vorhat."
+        }
+    ]
+}

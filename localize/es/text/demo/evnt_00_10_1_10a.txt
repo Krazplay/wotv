@@ -1,0 +1,112 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Qu... ¿Qué ha ocurrido aquí?"
+        },
+        {
+            "key": "002",
+            "value": "La-larguémonos de aquí."
+        },
+        {
+            "key": "003",
+            "value": "Pe... Pero... Si aún hay vidas que podamos salvar, debemos..."
+        },
+        {
+            "key": "004",
+            "value": "Escuchad... ¿Podéis oírlo?"
+        },
+        {
+            "key": "005",
+            "value": "Los aldeanos siguen gritando..."
+        },
+        {
+            "key": "006",
+            "value": "Quienquiera que haya hecho esto... sigue por aquí."
+        },
+        {
+            "key": "007",
+            "value": "No importa. No podemos abandonar a esta gente."
+        },
+        {
+            "key": "008",
+            "value": "¿Y por qué no?"
+        },
+        {
+            "key": "009",
+            "value": "Tenemos una misión, ¿no es así? Si perdemos la vida aquí..."
+        },
+        {
+            "key": "010",
+            "value": "Es muy tarde para preocuparse por eso ahora..."
+        },
+        {
+            "key": "011",
+            "value": "¡...!"
+        },
+        {
+            "key": "012",
+            "value": "E... ¡Están aquí!"
+        },
+        {
+            "key": "013",
+            "value": "Un momento... ¡No puede ser!..."
+        },
+        {
+            "key": "014",
+            "value": "Lord... Stern...."
+        },
+        {
+            "key": "015",
+            "value": "Ildira..."
+        },
+        {
+            "key": "016",
+            "value": "¿El estado de la aldea... ha sido obra vuestra?"
+        },
+        {
+            "key": "017",
+            "value": "¿Y qué si lo es?"
+        },
+        {
+            "key": "018",
+            "value": "Lord Stern…"
+        },
+        {
+            "key": "019",
+            "value": "Dicen que los pobres aldeanos de la zona son devotos de Elde."
+        },
+        {
+            "key": "020",
+            "value": "Un lugar asqueroso como este necesita una limpieza."
+        },
+        {
+            "key": "021",
+            "value": "¿Por qué, alteza?"
+        },
+        {
+            "key": "022",
+            "value": "Mis acciones no son asunto tuyo."
+        },
+        {
+            "key": "023",
+            "value": "Pertenecéis a Lumen. Se supone que sois la guardia personal de madre."
+        },
+        {
+            "key": "024",
+            "value": "E... Eso es verdad..."
+        },
+        {
+            "key": "025",
+            "value": "¡¿Entonces por qué estáis aquí ante mí?!"
+        },
+        {
+            "key": "026",
+            "value": "No sois... ¡No sois diferentes a Elde!"
+        },
+        {
+            "key": "027",
+            "value": "¡Temisteis por vuestras miserables vidas y huisteis! ¡Dejasteis a madre abandonada a su suerte!"
+        }
+    ]
+}

@@ -1,0 +1,572 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Dame Jeaum ! Le prochain est pour moi !"
+        },
+        {
+            "key": "002",
+            "value": "Trop lent. Continue de bouger comme ça et tes ennemis ne feront qu'une bouchée de toi."
+        },
+        {
+            "key": "003",
+            "value": "Argh !"
+        },
+        {
+            "key": "004",
+            "value": "Honnêtement, la faire tournoyer dans les airs n'est pas plus efficace."
+        },
+        {
+            "key": "005",
+            "value": "Attaquer en fonçant tête baissée te rendra vulnérable… comme maintenant."
+        },
+        {
+            "key": "006",
+            "value": "Mon épée !"
+        },
+        {
+            "key": "007",
+            "value": "Comment espères-tu la garder en main sans t'y accrocher fermement ? J'ai encore gagné."
+        },
+        {
+            "key": "008",
+            "value": "J'aurais dû m'en douter, dame Jeaum… Vous battre va me prendre une éternité."
+        },
+        {
+            "key": "009",
+            "value": "Ce n'est pas une excuse. Je t'ai dit que les faibles n'avaient pas leur place au sein des Guerriers des cristaux."
+        },
+        {
+            "key": "010",
+            "value": "Argh ! Je sais bien…"
+        },
+        {
+            "key": "011",
+            "value": "Ce ne serait pas du luxe de te montrer plus agréable avec lui."
+        },
+        {
+            "key": "012",
+            "value": "Cétia… Qu'est-ce que tu fais ici ?"
+        },
+        {
+            "key": "013",
+            "value": "Si je te disais que je suis ici pour rencontrer cette nouvelle recrue prometteuse, tu me croirais ?"
+        },
+        {
+            "key": "014",
+            "value": "Tout ce que tu trouveras ici c'est un débutant qui n'a toujours pas réussi à me porter un coup. Pas une seule fois."
+        },
+        {
+            "key": "015",
+            "value": "Vraiment ? Personnellement, je trouve qu'il a du potentiel. Regarde-le, il est encore debout malgré l'intensité de ton entraînement. Plutôt admirable, tu ne crois pas ?"
+        },
+        {
+            "key": "016",
+            "value": "J'apprécie les gens qui persévèrent !"
+        },
+        {
+            "key": "017",
+            "value": "Mais moins de pleurnicheries serait plus qu'appréciable."
+        },
+        {
+            "key": "018",
+            "value": "Après tout, ne dit-on pas que rien n'est impossible !"
+        },
+        {
+            "key": "019",
+            "value": "Toujours aussi bavarde… Et sinon ? Qu'est-ce qui t'amène réellement ici ?"
+        },
+        {
+            "key": "020",
+            "value": "Le second cristal fondamental. J'espérais pouvoir demander l'aide du nouveau pour le trouver."
+        },
+        {
+            "key": "021",
+            "value": "Je pense que tu peux très bien t'en charger toute seule. Lucio a encore besoin de s'entraîner."
+        },
+        {
+            "key": "022",
+            "value": "D-Dame Jeaum…"
+        },
+        {
+            "key": "023",
+            "value": "C'est à moi de prendre cette décision, veux-tu."
+        },
+        {
+            "key": "024",
+            "value": "Ou peut-être espères-tu le garder pour toi toute seule ?"
+        },
+        {
+            "key": "025",
+            "value": "Entendu… Si l'avoir à tes côtés t'empêche d'interpréter mes intentions de travers, alors fais comme bon te semble."
+        },
+        {
+            "key": "026",
+            "value": "Je savais que nous finirions par nous entendre !"
+        },
+        {
+            "key": "027",
+            "value": "Bien… Lucio, c'est ça ?"
+        },
+        {
+            "key": "028",
+            "value": "O-Oui. Lucio, le guerrier novice."
+        },
+        {
+            "key": "029",
+            "value": "J'aime ce que tu dégages, je pense qu'on va très bien s'entendre ! Parlons affaires !"
+        },
+        {
+            "key": "030",
+            "value": "Toi et moi allons retrouver le second cristal fondamental."
+        },
+        {
+            "key": "031",
+            "value": "Allons-y !"
+        },
+        {
+            "key": "032",
+            "value": "M-Maintenant ?! Puis-je espérer pouvoir prendre une pause avant…"
+        },
+        {
+            "key": "033",
+            "value": "Tu t'en remettras ! La force morale surpasse la force physique, apprends juste à la maîtriser !"
+        },
+        {
+            "key": "034",
+            "value": "C'est parti, Lucio ! Direction le continent d'Ardra !"
+        },
+        {
+            "key": "035",
+            "value": "N'ai-je aucun droit de regard sur ce qui m'attend ? Hé !"
+        },
+        {
+            "key": "036",
+            "value": "Un lac à perte de vue, et aucun chemin qui le traverse…"
+        },
+        {
+            "key": "037",
+            "value": "*Soupire* Va-t-on réellement finir par atteindre Ovis ?"
+        },
+        {
+            "key": "038",
+            "value": "Et dire que moi, seigneur Camillo, suis tout à fait prêt à leur porter secours."
+        },
+        {
+            "key": "039",
+            "value": "Nul doute que personne ne s'attend à assister à une telle galanterie."
+        },
+        {
+            "key": "040",
+            "value": "Pardonnez-moi, beautés que je n'ai pas encore croisées, mais mon cœur appartient à Machalie…"
+        },
+        {
+            "key": "041",
+            "value": "Toi aussi tu veux pouvoir atteindre Ovis dans les plus brefs délais, n'est-ce pas ?"
+        },
+        {
+            "key": "042",
+            "value": "…"
+        },
+        {
+            "key": "043",
+            "value": "Elsirelle ?"
+        },
+        {
+            "key": "044",
+            "value": "Zzzzz…"
+        },
+        {
+            "key": "045",
+            "value": "Encore en train de dormir ? Qu'il doit être bon de mener une vie aussi insouciante…"
+        },
+        {
+            "key": "046",
+            "value": "*Bâillement* L'absence de monstres me fait somnoler. Qu'est-ce que tu disais ?"
+        },
+        {
+            "key": "047",
+            "value": "Que nous allions sauver Ovis et que je m'attirerai les faveurs de Machalie."
+        },
+        {
+            "key": "048",
+            "value": "Toujours le même discours. Je regrette de m'être réveillée pour ça."
+        },
+        {
+            "key": "049",
+            "value": "Tu es toujours de mauvaise humeur quand tu te réveilles ou bien… hmmm ?"
+        },
+        {
+            "key": "050",
+            "value": "Quoi ? Toi aussi tu commences à t'endormir ?"
+        },
+        {
+            "key": "051",
+            "value": "Ne nous mets pas dans le même panier, veux-tu. Il y a quelque chose de bizarre sur le sol, là-bas."
+        },
+        {
+            "key": "052",
+            "value": "Regarde-moi ça. Je n'ai jamais vu un cristal aussi grand."
+        },
+        {
+            "key": "053",
+            "value": "Quelqu'un a dû s'endormir et l'a laissé ici."
+        },
+        {
+            "key": "054",
+            "value": "Je t'ai déjà dit que ce problème t'était exclusivement réservé."
+        },
+        {
+            "key": "055",
+            "value": "C'est vraiment étrange. Il semble plus dense que les cristaux ordinaires… Et cette lumière qui s'en dégage…"
+        },
+        {
+            "key": "056",
+            "value": "Hmmm. Je parie qu'on peut en tirer un bon prix. Et puis, ce n'est pas comme si nous avions d'autres missions en perspective, alors pourquoi ne pas le prendre avec nous ?"
+        },
+        {
+            "key": "057",
+            "value": "Il doit déjà appartenir à quelqu'un."
+        },
+        {
+            "key": "058",
+            "value": "Je ne vois pas de nom et ça m'étonnerait que cette personne soit en mesure de remettre la main dessus."
+        },
+        {
+            "key": "059",
+            "value": "Je te rappelle aussi qu'on doit acheter un bateau pour rejoindre Ovis…"
+        },
+        {
+            "key": "060",
+            "value": "Et aucun de nous ne possède suffisamment de gils pour ça."
+        },
+        {
+            "key": "061",
+            "value": "C'est pourquoi nous devrions le vendre afin de couvrir au moins nos frais."
+        },
+        {
+            "key": "062",
+            "value": "Il n'y a que dans ce genre de situations que tu sembles raisonner de façon logique."
+        },
+        {
+            "key": "063",
+            "value": "Je mérite plus de reconnaissance que ça ! Voilà enfin notre porte d'entrée vers Ovis !"
+        },
+        {
+            "key": "064",
+            "value": "Hmmm… Je vais le garder sur moi. Te connaissant, tu le feras tomber dès que tu t'endormiras."
+        },
+        {
+            "key": "065",
+            "value": "C'est bien mal me connaître. Jamais je ne ferais une telle chose… je crois."
+        },
+        {
+            "key": "066",
+            "value": "Dit celle qui piquait un somme pendant que son pays traversait un tournant de son histoire."
+        },
+        {
+            "key": "067",
+            "value": "Enfin, il est grand temps qu'on sorte de cette forêt."
+        },
+        {
+            "key": "068",
+            "value": "La prochaine fois que tu t'endors, je te laisse sur place. C'est compris ?"
+        },
+        {
+            "key": "069",
+            "value": "Pas d'inquiétude à avoir. Une experte de ma stature reste à l'affût même lorsqu'elle glisse dans les bras de Morphée."
+        },
+        {
+            "key": "070",
+            "value": "Tu peux marcher en dormant ?"
+        },
+        {
+            "key": "071",
+            "value": "Beaucoup sont armés."
+        },
+        {
+            "key": "072",
+            "value": "Vu leur accoutrement, il doit s'agir de mercenaires. Une guerre doit secouer la région."
+        },
+        {
+            "key": "073",
+            "value": "Une guerre… ?"
+        },
+        {
+            "key": "074",
+            "value": "Oui, un concept que j'ai encore peine à comprendre."
+        },
+        {
+            "key": "075",
+            "value": "Ils pourraient éviter tellement de désagréments s'ils prenaient le temps de s'expliquer entre eux."
+        },
+        {
+            "key": "076",
+            "value": "Ha ha ha !"
+        },
+        {
+            "key": "077",
+            "value": "En tout cas, vu le monde, récolter des informations sera un jeu d'enfant."
+        },
+        {
+            "key": "078",
+            "value": "Ah, tu veux mener une petite enquête ?"
+        },
+        {
+            "key": "079",
+            "value": "Et comment comptes-tu t'y prendre ?"
+        },
+        {
+            "key": "080",
+            "value": "En les interrogeant un par un…"
+        },
+        {
+            "key": "081",
+            "value": "Hors de question !"
+        },
+        {
+            "key": "082",
+            "value": "Hein ?!"
+        },
+        {
+            "key": "083",
+            "value": "Attends-moi ici, le nouveau."
+        },
+        {
+            "key": "084",
+            "value": "Je vais te montrer une méthode bien plus efficace pour obtenir les informations qu'on cherche."
+        },
+        {
+            "key": "500",
+            "value": "*Inspire* "
+        },
+        {
+            "key": "085",
+            "value": "QUELQU'UN ICI AURAIT VU UN CRISTAL FONDAMENTAL ?"
+        },
+        {
+            "key": "086",
+            "value": "C'EST UN OBJET DE COULEUR ROUGE ! SI JAMAIS QUELQU'UN SE RAPPELLE DE QUELQUE CHOSE, FAITES-MOI SIGNE !"
+        },
+        {
+            "key": "087",
+            "value": "D-Dame Cétia ! Nous devrions nous faire discrets !"
+        },
+        {
+            "key": "088",
+            "value": "Pourquoi s'embêter à les interroger un à un si je peux leur poser la question à tous en une seule fois ?"
+        },
+        {
+            "key": "089",
+            "value": "Peut-être, mais sans contexte, nombreux sont ceux qui doivent vous prendre pour une folle !"
+        },
+        {
+            "key": "090",
+            "value": "Trouver quelqu'un qui acceptera de nous parler après votre intervention ne va pas être chose aisée."
+        },
+        {
+            "key": "091",
+            "value": "Bonjour, bellissima. Mes oreilles ont-elles bien tout entendu ? Tu cherches un cristal rouge ?"
+        },
+        {
+            "key": "092",
+            "value": "Il se pourrait que je puisse t'aider. Si vous voulez bien nous suivre."
+        },
+        {
+            "key": "093",
+            "value": "Tu vois ? Rien de plus simple, le nouveau."
+        },
+        {
+            "key": "094",
+            "value": "J-Je ne m'attendais pas à ce que quelqu'un se manifeste."
+        },
+        {
+            "key": "095",
+            "value": "Écoute-moi bien, Camillo ! Hors de question que tu m'embrigades dans un de tes plans drague."
+        },
+        {
+            "key": "096",
+            "value": "Je te rappelle que mon cœur ne bat que pour Machalie. Cette discussion est purement professionnelle."
+        },
+        {
+            "key": "097",
+            "value": "D'ailleurs si tu pouvais te taire, ça m'arrangerait. Tu vois pas que je suis en train de concrétiser un truc là ?"
+        },
+        {
+            "key": "098",
+            "value": "À part leur rendre le cristal, je ne vois pas ce qu'il y a d'autre à concrétiser."
+        },
+        {
+            "key": "099",
+            "value": "Chuuuuut !"
+        },
+        {
+            "key": "100",
+            "value": "Vous avez le cristal fondamental ?"
+        },
+        {
+            "key": "101",
+            "value": "Difficile à dire. Mais nous avons trouvé un cristal rouge dans les bois."
+        },
+        {
+            "key": "102",
+            "value": "Il me semble qu'il l'a dans sa poche."
+        },
+        {
+            "key": "103",
+            "value": "E-Elsirelle !"
+        },
+        {
+            "key": "104",
+            "value": "Oh, tu l'as donc trouvé ! Tu n'as pas idée du temps que tu nous fais gagner ! Donne-le moi maintenant…"
+        },
+        {
+            "key": "105",
+            "value": "Pas si vite ! Pourriez-vous déjà nous expliquer de quoi il s'agit ?"
+        },
+        {
+            "key": "106",
+            "value": "Je n'ai pas d'autre moyen de m'assurer qu'il vous appartient bel et bien."
+        },
+        {
+            "key": "107",
+            "value": "Bien sûr ! Laissez-moi vous donner quelques précisions."
+        },
+        {
+            "key": "108",
+            "value": "Etttt il est temps pour moi d'intervenir…"
+        },
+        {
+            "key": "109",
+            "value": "Voilà, grossièrement."
+        },
+        {
+            "key": "110",
+            "value": "Donc les cristaux fondamentaux préservent l'équilibre de l'univers…"
+        },
+        {
+            "key": "111",
+            "value": "C'est pourquoi nous vous sommes très reconnaissants, seigneur Camillo."
+        },
+        {
+            "key": "112",
+            "value": "Deux petites secondes. Vous ne pensez tout de même pas que je vais vous le remettre sans rien attendre en retour."
+        },
+        {
+            "key": "113",
+            "value": "Pardon ?!"
+        },
+        {
+            "key": "114",
+            "value": "Camillo, rends-leur."
+        },
+        {
+            "key": "115",
+            "value": "Dois-je te rappeler que nous devons atteindre Ovis ?"
+        },
+        {
+            "key": "116",
+            "value": "Et qu'il nous faut un bateau pour y arriver. Ce cristal nous permettra d'obtenir les gils nécessaires à son achat."
+        },
+        {
+            "key": "117",
+            "value": "Si nous leur rendons, nous nous retrouvons à la case départ sans moyen de transport jusqu'à Ovis."
+        },
+        {
+            "key": "118",
+            "value": "Je suis d'accord, mais…"
+        },
+        {
+            "key": "119",
+            "value": "J'aimerais vous faire une proposition."
+        },
+        {
+            "key": "120",
+            "value": "Seriez-vous prêts à nous l'acheter ?"
+        },
+        {
+            "key": "121",
+            "value": "Dans le cas contraire, nous vous serions gré de nous aider à gagner quelques gils."
+        },
+        {
+            "key": "122",
+            "value": "Juste de quoi nous acheter un bateau, et le cristal est vôtre. Alors, que dites-vous ?"
+        },
+        {
+            "key": "123",
+            "value": "Qu'est-ce qu'on fait, Dame Cétia ?"
+        },
+        {
+            "key": "124",
+            "value": "Marché conclu !"
+        },
+        {
+            "key": "125",
+            "value": "Euh… Ne devrions-nous pas nous concerter davantage avant de donner notre accord ?"
+        },
+        {
+            "key": "126",
+            "value": "Le cristal leur appartient dès lors qu'ils l'ont trouvé."
+        },
+        {
+            "key": "127",
+            "value": "Nous n'avons aucun droit de le leur arracher de force."
+        },
+        {
+            "key": "128",
+            "value": "J-Je comprends bien, mais… Si nous ne récupérons pas le cristal fondamental, l'équilibre de l'univers sera en péril."
+        },
+        {
+            "key": "129",
+            "value": "Et pourtant, je n'ai pas l'impression que cette idée vous émeuve plus que ça…"
+        },
+        {
+            "key": "130",
+            "value": "L'univers ne serait rien sans les personnes qui le peuplent ! Tu ne peux pas avoir de l'harmonie sans gage de confiance !"
+        },
+        {
+            "key": "131",
+            "value": "D'où vous vient une telle foi en l'humanité ?"
+        },
+        {
+            "key": "132",
+            "value": "Bon, je te rappelle que nous n'avons pas un sou en poche, donc on ferait mieux de se mettre au travail !"
+        },
+        {
+            "key": "133",
+            "value": "Quel magnifique sourire pour quelqu'un qui ne possède rien."
+        },
+        {
+            "key": "134",
+            "value": "Tout ce qui nous reste à faire c'est gagner quelques gils, et le cristal est à nous."
+        },
+        {
+            "key": "135",
+            "value": "On ne pouvait espérer meilleur marché !"
+        },
+        {
+            "key": "136",
+            "value": "Bien. Peut-être avez-vous raison, Dame Cétia."
+        },
+        {
+            "key": "137",
+            "value": "Alors nous sommes d'accord. Elsirelle et moi vous en sommes reconnaissants."
+        },
+        {
+            "key": "138",
+            "value": "Maintenant que nous sommes sur la même page, tentons de trouver du travail dans le village d'à côté."
+        },
+        {
+            "key": "139",
+            "value": "Ce n'est pas ce qui doit manquer par temps de guerre. On pourrait commencer par les missions les plus simples et ainsi avancer à notre rythme."
+        },
+        {
+            "key": "140",
+            "value": "Entendu. Je suis ravi de faire équipe avec vous !"
+        },
+        {
+            "key": "141",
+            "value": "Voilà qui est parfait ! Je suis impatiente de commencer !"
+        }
+    ]
+}

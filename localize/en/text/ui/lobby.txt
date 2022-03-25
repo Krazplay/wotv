@@ -1,0 +1,184 @@
+﻿{
+    "infos": [
+        {
+            "key": "EVENT_TITLE",
+            "value": "Events"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "Get special items!"
+        },
+        {
+            "key": "MULTI_TITLE",
+            "value": "Multi"
+        },
+        {
+            "key": "MULTI_DESC",
+            "value": "Take on quests with friends!"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "Raids"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "Work together to vanquish difficult foes!"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "Porcelain Tower"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "Grueling Quests"
+        },
+        {
+            "key": "SUMMON_TITLE",
+            "value": "Beast's Den"
+        },
+        {
+            "key": "SUMMON_DESC",
+            "value": "Get Awakening Materials needed to awaken your Espers!"
+        },
+        {
+            "key": "BATTLEROAD_TITLE",
+            "value": "Selection Quests"
+        },
+        {
+            "key": "BATTLEROAD_DESC",
+            "value": "Take on Quests with select units only!"
+        },
+        {
+            "key": "QLN_EVENT_1",
+            "value": "Collaborative Event now active!"
+        },
+        {
+            "key": "QLN_EVENT_2",
+            "value": "(Test) New Chapter rushing in!"
+        },
+        {
+            "key": "QLN_MULTI_1",
+            "value": "(Test) Arena Coins x2!"
+        },
+        {
+            "key": "QLN_MULTI_2",
+            "value": "(Test) Encounter Event now active!"
+        },
+        {
+            "key": "QLN_RAID_1",
+            "value": "Take on Death Machine!"
+        },
+        {
+            "key": "QLN_RAID_1_2",
+            "value": "Calculating rankings..."
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "Take on Forgiven Dissonance!"
+        },
+        {
+            "key": "QLN_RAID_2",
+            "value": "The raid reward claim period is on now."
+        },
+        {
+            "key": "QLN_RAID_4",
+            "value": "Take on the Raid Boss!"
+        },
+        {
+            "key": "QLN_RAID_5",
+            "value": "Take on Golem!"
+        },
+        {
+            "key": "QLN_RAID_6",
+            "value": "Take on Diabolos!"
+        },
+        {
+            "key": "QLN_RAID_7",
+            "value": "Take on Holy Flan!"
+        },
+        {
+            "key": "QLN_RAID_8",
+            "value": "Take on Glacial!"
+        },
+        {
+            "key": "QLN_RAID_9",
+            "value": "Take on Red Giant!"
+        },
+        {
+            "key": "QLN_RAID_10",
+            "value": "Take on Carbuncle!"
+        },
+        {
+            "key": "QLN_RAID_11",
+            "value": "Take on Leviathan!"
+        },
+        {
+            "key": "QLN_RAID_12",
+            "value": "Take on Omega!"
+        },
+        {
+            "key": "QLN_RAID_13",
+            "value": "Take on Aigaion!"
+        },
+        {
+            "key": "QLN_RAID_14",
+            "value": "Take on Elafikeras!"
+        },
+        {
+            "key": "QLN_RAID_15",
+            "value": "Take on Kraken!"
+        },
+        {
+            "key": "QLN_RAID_16",
+            "value": "Take on Shadow Kamoshida!"
+        },
+        {
+            "key": "QLN_TOWER_1",
+            "value": "Porcelain Tower Now Active!"
+        },
+        {
+            "key": "QLN_TOWER_6",
+            "value": "Acquire the Blaze Ring Now!"
+        },
+        {
+            "key": "QLN_TOWER_7",
+            "value": "Tower of Visions — War of Lion's Valley"
+        },
+        {
+            "key": "QLN_TOWER_8",
+            "value": "Acquire the Earthen Ring Now!"
+        },
+        {
+            "key": "QLN_SUMMON_1",
+            "value": "Iron Giant debuts anew!"
+        },
+        {
+            "key": "TOWER_OPEN_TITLE",
+            "value": "Unlock Conditions"
+        },
+        {
+            "key": "TOWER_OPEN_DESC",
+            "value": "Unlock by fulfilling the following conditions. <br>Reach Player Rank {0}"
+        },
+        {
+            "key": "QUEST_OPEN_DESC",
+            "value": "Outside of Event Period"
+        },
+        {
+            "key": "CHALLENGE_OPEN_DESC",
+            "value": "Challenge Period Concluded"
+        },
+        {
+            "key": "QLN_TOWER_5",
+            "value": "Acquire the Luminous Armlet Now!"
+        },
+        {
+            "key": "QLN_TOWER_4",
+            "value": "Acquire the Tide Ring Now!"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "Acquire the Crimson Saber Now!"
+        }
+    ]
+}

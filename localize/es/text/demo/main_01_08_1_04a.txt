@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "80096",
+            "value": "Jo… ¿Otra vez vamos a ir por el bosque?"
+        },
+        {
+            "key": "80097",
+            "value": "No sabéis cuánto echo de menos viajar por sitios donde llega la luz del sol."
+        },
+        {
+            "key": "80098",
+            "value": "¿Y qué otra alternativa tenemos?"
+        },
+        {
+            "key": "80099",
+            "value": "Si nos encuentran los soldados de Sadali…"
+        },
+        {
+            "key": "80100",
+            "value": "Tienes razón. No podríamos contra ellos nosotros solos."
+        },
+        {
+            "key": "80101",
+            "value": "De momento, no veo ninguna amenaza."
+        },
+        {
+            "key": "80102",
+            "value": "Eso parece, pero mejor no bajar la guardia."
+        },
+        {
+            "key": "80103",
+            "value": "No me cabe ninguna duda de que este bosque está repleto de bestias sanguinarias."
+        }
+    ]
+}

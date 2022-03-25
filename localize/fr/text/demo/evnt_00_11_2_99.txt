@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Je suis désolée de vous avoir été si peu utile."
+        },
+        {
+            "key": "002",
+            "value": "Au contraire. À vous deux, vous nous avez considérablement aidés."
+        },
+        {
+            "key": "003",
+            "value": "…"
+        },
+        {
+            "key": "004",
+            "value": "J'étais prêt à me sacrifier pour protéger cette terre."
+        },
+        {
+            "key": "005",
+            "value": "Mais au bout du compte, je supporte encore moins de voir mes camarades souffrir."
+        },
+        {
+            "key": "006",
+            "value": "Avez-vous des projets pour la suite ?"
+        },
+        {
+            "key": "007",
+            "value": "Nous allons sans doute trouver un coin paisible où nous installer… Et réfléchir à la façon de reprendre notre village."
+        },
+        {
+            "key": "008",
+            "value": "Puis-je espérer… Me joindre à vous ?"
+        },
+        {
+            "key": "009",
+            "value": "Je crains que non."
+        },
+        {
+            "key": "010",
+            "value": "…"
+        },
+        {
+            "key": "011",
+            "value": "Votre chemin n'est pas celui de la vengeance."
+        },
+        {
+            "key": "012",
+            "value": "Il mène à la fin de la guerre. Vous le savez, n'est-ce pas ?"
+        },
+        {
+            "key": "013",
+            "value": "Vous avez peut-être raison."
+        },
+        {
+            "key": "014",
+            "value": "C'est ici que nos routes se séparent. Nous n'oublierons jamais ce que vous avez fait pour nous."
+        },
+        {
+            "key": "015",
+            "value": "Et toi, Ramada ? Quelle voie choisis-tu ?"
+        },
+        {
+            "key": "016",
+            "value": "Je t'accompagne."
+        },
+        {
+            "key": "017",
+            "value": "Quoi ?"
+        },
+        {
+            "key": "018",
+            "value": "J'ai lu dans ton cœur."
+        },
+        {
+            "key": "019",
+            "value": "J'y ai vu l'espoir d'entendre à nouveau les oiseaux chanter sur une certaine terre. Je me trompe ?"
+        },
+        {
+            "key": "020",
+            "value": "…"
+        },
+        {
+            "key": "021",
+            "value": "Allez, en route."
+        },
+        {
+            "key": "022",
+            "value": "Pourquoi hésites-tu ?"
+        },
+        {
+            "key": "023",
+            "value": "Penses-tu… Qu'ils me pardonneront ?"
+        },
+        {
+            "key": "024",
+            "value": "Je n'en doute pas une seconde."
+        },
+        {
+            "key": "025",
+            "value": "Allez, une longue route nous attend. Vers Leonis, le royaume des Lions…"
+        }
+    ]
+}

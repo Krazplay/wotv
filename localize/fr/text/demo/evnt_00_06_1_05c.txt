@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Nous avons réussi à infiltrer le château de Lykeros."
+        },
+        {
+            "key": "002",
+            "value": "Je suis ébahie par la facilité avec laquelle nous sommes entrés..."
+        },
+        {
+            "key": "003",
+            "value": "Vous êtes vraiment incroyable !"
+        },
+        {
+            "key": "004",
+            "value": "Howly c'est le meilleur !"
+        },
+        {
+            "key": "005",
+            "value": "Ha ha ha ! Je ne fais que mon devoir de gentleman."
+        },
+        {
+            "key": "006",
+            "value": "Je ne savais pas que les fanfaronnades faisaient partie du code..."
+        },
+        {
+            "key": "007",
+            "value": "Dis, Thythy ? Tu as dit que tu voulais pas venir au château."
+        },
+        {
+            "key": "008",
+            "value": "Pourquoi tu es là, finalement ?"
+        },
+        {
+            "key": "009",
+            "value": "O-oh, ça va, hein ! Je suis là parce que je m'inquiète pour vous !"
+        },
+        {
+            "key": "010",
+            "value": "Bande d'idiots bouchés !"
+        },
+        {
+            "key": "011",
+            "value": "Hmmm ! T'es trop méchant, Thythy !"
+        },
+        {
+            "key": "012",
+            "value": "Ch-chut ! Ils vont t'entendre !"
+        },
+        {
+            "key": "013",
+            "value": "Ouinnnnn !"
+        },
+        {
+            "key": "014",
+            "value": "É-écoute, Chel, je suis désolé. Je ne voulais pas dire ça."
+        },
+        {
+            "key": "015",
+            "value": "D'accord ! Je te pardonne !"
+        },
+        {
+            "key": "016",
+            "value": "Parfait. Puisque tout va bien, avançons, voulez-vous ?"
+        },
+        {
+            "key": "017",
+            "value": "En route !"
+        },
+        {
+            "key": "018",
+            "value": "Mais Howl, tu n'as aucune idée de l'endroit du château où ils retiennent Luartha captive, si ?"
+        },
+        {
+            "key": "019",
+            "value": "Tu l'ignores donc ?"
+        },
+        {
+            "key": "020",
+            "value": "Hein ? T-tu le sais, toi ?"
+        },
+        {
+            "key": "021",
+            "value": "C'est par-là."
+        },
+        {
+            "key": "022",
+            "value": "Comment tu le sais ?"
+        },
+        {
+            "key": "023",
+            "value": "Nous sommes dans un château. Il y a donc une tour."
+        },
+        {
+            "key": "024",
+            "value": "Les princesses, c'est retenu dans les tours, tout le monde sait ça."
+        },
+        {
+            "key": "025",
+            "value": "Dites-moi que c'est une blague..."
+        }
+    ]
+}

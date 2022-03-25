@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡¿Pero qué...?!"
+        },
+        {
+            "key": "002",
+            "value": "¡¿Estás bien?!"
+        },
+        {
+            "key": "003",
+            "value": "Uhhh..."
+        },
+        {
+            "key": "004",
+            "value": "Menos mal. Parece que estás bien."
+        },
+        {
+            "key": "005",
+            "value": "¿Es esto... el este?"
+        },
+        {
+            "key": "006",
+            "value": "Para nosotros es el centro."
+        },
+        {
+            "key": "007",
+            "value": "Pero es verdad que para los de la zona continental esto es «el este»."
+        },
+        {
+            "key": "008",
+            "value": "Ya veo... Al final, he conseguido llegar."
+        },
+        {
+            "key": "009",
+            "value": "Me alegro de que estés a salvo, sea lo que sea lo que te ha traído aquí. Me llamo Miranda. ¿Y tú?"
+        },
+        {
+            "key": "010",
+            "value": "Soy Raviesse."
+        },
+        {
+            "key": "011",
+            "value": "¿Y qué te trae por estos lares, Raviesse?"
+        },
+        {
+            "key": "012",
+            "value": "Solo hay una razón por la que alguien se aventuraría al este."
+        },
+        {
+            "key": "013",
+            "value": "De ser así, te sugiero que vuelvas por donde has venido."
+        },
+        {
+            "key": "014",
+            "value": "¿Por qué?"
+        },
+        {
+            "key": "015",
+            "value": "Son innumerables los que se han visto arrastrados hasta aquí persiguiendo el mismo sueño."
+        },
+        {
+            "key": "016",
+            "value": "Pero lo único que acaban encontrando es desesperación."
+        },
+        {
+            "key": "017",
+            "value": "Este lugar no es para debiluchos que carecen de la habilidad necesaria."
+        },
+        {
+            "key": "018",
+            "value": "Yo no soy como ellos."
+        },
+        {
+            "key": "019",
+            "value": "Claro que no... Todos los que llegan hasta aquí dicen lo mismo al principio."
+        },
+        {
+            "key": "020",
+            "value": "No malgastes tu tiempo intentando hacerme cambiar de idea."
+        },
+        {
+            "key": "021",
+            "value": "…"
+        },
+        {
+            "key": "022",
+            "value": "Si tan decidida estás, entonces es mejor que vengas conmigo."
+        },
+        {
+            "key": "023",
+            "value": "Te presentaré a mis maestros."
+        },
+        {
+            "key": "024",
+            "value": "¿De verdad?"
+        },
+        {
+            "key": "025",
+            "value": "Aunque creo que acabarás arrepintiéndote."
+        }
+    ]
+}

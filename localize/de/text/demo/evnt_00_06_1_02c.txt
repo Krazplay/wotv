@@ -1,0 +1,184 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Sind die Rundallis etwa ... tot?"
+        },
+        {
+            "key": "002",
+            "value": "Nein, die werden sich nur für eine Weile nicht rühren können. Kein Anlass zur Sorge."
+        },
+        {
+            "key": "003",
+            "value": "Schließlich mussten wir bei denen nicht einmal ernst machen."
+        },
+        {
+            "key": "004",
+            "value": "Unglaublich!"
+        },
+        {
+            "key": "005",
+            "value": "Ohne eure Hilfe wären wir jetzt ganz schön in der Bredouille."
+        },
+        {
+            "key": "006",
+            "value": "Danke euch."
+        },
+        {
+            "key": "007",
+            "value": "Was genau wollten diese rundallschen Soldaten eigentlich von euch?"
+        },
+        {
+            "key": "008",
+            "value": "Ähm ..."
+        },
+        {
+            "key": "009",
+            "value": "Titus. Halte dein Neugier im Zaum."
+        },
+        {
+            "key": "010",
+            "value": "Was soll das heißen, Bruder? Wir haben uns eingemischt, ohne überhaupt zu wissen, wer im Unrecht ist!"
+        },
+        {
+            "key": "011",
+            "value": "Unrecht hast du, Titus, mit dem, was du da sagst."
+        },
+        {
+            "key": "012",
+            "value": "Hm ...?"
+        },
+        {
+            "key": "013",
+            "value": "Wir befinden uns hier auf lykerischem Gebiet."
+        },
+        {
+            "key": "014",
+            "value": "Wenn Soldaten aus Rundall auf fremdem Territorium ihr Unwesen treiben, besteht wohl keinerlei Zweifel über Recht und Unrecht."
+        },
+        {
+            "key": "015",
+            "value": "Sag bloß, du weißt es nicht, liebster Bruder?"
+        },
+        {
+            "key": "016",
+            "value": "Rundall und Lykeros befinden sich momentan im Krieg."
+        },
+        {
+            "key": "017",
+            "value": "Ach?"
+        },
+        {
+            "key": "018",
+            "value": "Deswegen ist die Anwesenheit rundallscher Soldaten nicht weiter ungewöhnlich."
+        },
+        {
+            "key": "019",
+            "value": "... Und genau deswegen solltet ihr beide euch ebenfalls vorsehen."
+        },
+        {
+            "key": "020",
+            "value": "Also, gehen wir weiter."
+        },
+        {
+            "key": "021",
+            "value": "Ein Sekündchen noch. Wer seid ihr drei eigentlich?"
+        },
+        {
+            "key": "022",
+            "value": "Eurem Äußeren nach zu urteilen ... seid ihr weder aus Rundall noch aus Lykeros, hmm?"
+        },
+        {
+            "key": "023",
+            "value": "Ich bin ... ein schöner Jüngling, der durch die Lande zieht. Belassen wir es einfach dabei."
+        },
+        {
+            "key": "024",
+            "value": "So etwas von sich selbst zu sagen ..."
+        },
+        {
+            "key": "025",
+            "value": "Du weißt, ich lüge nicht gerne."
+        },
+        {
+            "key": "026",
+            "value": "Aber von irgendwoher müsst ihr doch kommen."
+        },
+        {
+            "key": "027",
+            "value": "Mir ist schon aufgefallen, was du zu verstecken versuchtest. Diese Schwertschwünge ... So kämpft kein einfacher Reisender."
+        },
+        {
+            "key": "028",
+            "value": "Hahaha. Du bringst mich in Verlegenheit."
+        },
+        {
+            "key": "029",
+            "value": "Ich dachte eigentlich, ich hätte es gut versteckt, doch wahres Genie lässt sich wohl nie vollständig verbergen."
+        },
+        {
+            "key": "030",
+            "value": "Manchmal mache ich sogar mir selbst Angst."
+        },
+        {
+            "key": "031",
+            "value": "Also, Herr Genie, wo liegen denn nun deine Wurzeln?"
+        },
+        {
+            "key": "032",
+            "value": "Verzeih, doch hierüber will ich mir erlauben, Schweigen zu bewahren. Auch Rätsel machen den Reiz eines Mannes aus."
+        },
+        {
+            "key": "033",
+            "value": "Du spielst dich ganz schön auf für jemanden, der vor seinem Training weggelaufen ist ..."
+        },
+        {
+            "key": "034",
+            "value": "Jap! Unser Papa war böse auf Ho-Ho und hat ihn rausgeschmissen."
+        },
+        {
+            "key": "035",
+            "value": "Hahahaha. So hat wohl ein jeder seine Vergangenheit."
+        },
+        {
+            "key": "036",
+            "value": "Konkret bedeutet das, dass unser Bruder hier verstoßen wurde, weil er sich einmal zu oft vor seinem Training gedrückt hat, und wir aus Sorge mit ihm gegangen sind."
+        },
+        {
+            "key": "037",
+            "value": "Hmmm, verstehe."
+        },
+        {
+            "key": "038",
+            "value": "Reicht dir das?"
+        },
+        {
+            "key": "039",
+            "value": "Wir machen uns jetzt jedenfalls auf den Weg."
+        },
+        {
+            "key": "040",
+            "value": "Verzeiht meinem Bruder seine Taktlosigkeit. Ich wünschte, ich könnte noch etwas bleiben."
+        },
+        {
+            "key": "041",
+            "value": "Tschüssili!"
+        },
+        {
+            "key": "042",
+            "value": "Wie unerwartet."
+        },
+        {
+            "key": "043",
+            "value": "Ja. Wer hätte gedacht, dass wir solch starken Kerlen über den Weg laufen ..."
+        },
+        {
+            "key": "044",
+            "value": "... Die können wir uns zunutze machen."
+        },
+        {
+            "key": "045",
+            "value": "Das gefällt mir. Auf Reisen mit dir wird einem wirklich nie langweilig."
+        }
+    ]
+}

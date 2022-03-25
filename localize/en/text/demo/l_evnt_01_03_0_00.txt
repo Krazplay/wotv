@@ -1,0 +1,212 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Time for our training session. I swear, I'm going to land my first clean hit today!"
+        },
+        {
+            "key": "002",
+            "value": "Ah, Lucio. There you are."
+        },
+        {
+            "key": "003",
+            "value": "Er, hello... Lord Ranan, isn't it?"
+        },
+        {
+            "key": "004",
+            "value": "That's right. Cetia has been telling me all about you."
+        },
+        {
+            "key": "005",
+            "value": "She says Jeume has been running you through the wringer."
+        },
+        {
+            "key": "006",
+            "value": "She has... But it's for my own good, if I'm to become a true Warrior of the Crystals!"
+        },
+        {
+            "key": "007",
+            "value": "A splendid attitude. Now, do you have some time to spare?"
+        },
+        {
+            "key": "008",
+            "value": "My apologies, I have a training session with Lady Jeume..."
+        },
+        {
+            "key": "009",
+            "value": "Oh, that shouldn't be a problem."
+        },
+        {
+            "key": "010",
+            "value": "B-but I gave her my word..."
+        },
+        {
+            "key": "011",
+            "value": "We have succeeded in pinpointing the location of the third Core Crystal."
+        },
+        {
+            "key": "012",
+            "value": "You are to accompany me to Ardra. Together, we shall find the Core Crystal and bring it back."
+        },
+        {
+            "key": "013",
+            "value": "But before we go, there is something I need to explain."
+        },
+        {
+            "key": "014",
+            "value": "You recall that the flow of time here is different from the rest of the worlds?"
+        },
+        {
+            "key": "015",
+            "value": "Yes. I believe that's why we can go to any place at any time we want..."
+        },
+        {
+            "key": "016",
+            "value": "Precisely. Now on this journey, we will travel to a time somewhat before that of your last outing with Cetia."
+        },
+        {
+            "key": "017",
+            "value": "So the same Ardra, but further back in the past."
+        },
+        {
+            "key": "018",
+            "value": "Indeed. So you need to be careful about what you say to the local people."
+        },
+        {
+            "key": "019",
+            "value": "Revealing too much about future events may have unexpected and unwelcome consequences."
+        },
+        {
+            "key": "020",
+            "value": "Oh, I don't know anything about history, so I doubt I could tell anyone anything..."
+        },
+        {
+            "key": "021",
+            "value": "Confidence in ignorance, I see."
+        },
+        {
+            "key": "022",
+            "value": "Still, that shall serve us nicely. Come now, we depart for Ardra immediately."
+        },
+        {
+            "key": "023",
+            "value": "But I have to attend training with Lady Jeume..."
+        },
+        {
+            "key": "024",
+            "value": "The Will of Light takes precedence over all. If you are a Warrior of the Crystals, you must know that at least!"
+        },
+        {
+            "key": "025",
+            "value": "Well, yes, I suppose you are right... Finding the Core Crystals is our greatest priority, after all."
+        },
+        {
+            "key": "026",
+            "value": "Good, I am glad you see the way of things. Now, our destination is the kingdom of Wezette."
+        },
+        {
+            "key": "027",
+            "value": "...If you don't mind me asking... Does Lady Jeume know you're taking me?"
+        },
+        {
+            "key": "028",
+            "value": "Time is of the essence, you see...so naturally, no, she does not."
+        },
+        {
+            "key": "029",
+            "value": "S-sorry! I really think I should let her know before we depart..."
+        },
+        {
+            "key": "030",
+            "value": "We leave immediately. You can give her a full report with all the lovely details when we return."
+        },
+        {
+            "key": "031",
+            "value": "That's not the problem here..."
+        },
+        {
+            "key": "032",
+            "value": "Come, apprentice!"
+        },
+        {
+            "key": "033",
+            "value": "W-waaait! If I don't go to training, Lady Jeume is going to—"
+        },
+        {
+            "key": "034",
+            "value": "Where is that Lucio!? We are supposed to be training today."
+        },
+        {
+            "key": "035",
+            "value": "Oh, if you're looking for Lucio, Ranan took him. Apparently, the third Core Crystal has been located."
+        },
+        {
+            "key": "036",
+            "value": "Ranan, you say? The poor boy... He has no idea what he's gotten himself into."
+        },
+        {
+            "key": "037",
+            "value": "Hahaha! We may have our moments, but we're not a patch on that tyrant!"
+        },
+        {
+            "key": "038",
+            "value": "At last, at last, the day has come! The day that I win the favor of King Khury!"
+        },
+        {
+            "key": "039",
+            "value": "How long have I labored for this opportunity!"
+        },
+        {
+            "key": "040",
+            "value": "How I whipped the serfs to greater effort, how I wringed wealth from the land like blood from a stone!"
+        },
+        {
+            "key": "041",
+            "value": "But now the reward is within my grasp!"
+        },
+        {
+            "key": "042",
+            "value": "I have learned from the success of my peers and prepared a hearty donation for His Highness."
+        },
+        {
+            "key": "043",
+            "value": "The king will clap his hands in delight when I then share details of the ores that can be mined from my lands."
+        },
+        {
+            "key": "044",
+            "value": "Then I shall bathe in the light of his favor! HAHAHAHA!"
+        },
+        {
+            "key": "045",
+            "value": "Monologuing so the people can hear him. Does the fool not know that he injures his own repute?"
+        },
+        {
+            "key": "046",
+            "value": "I doubt that any noble of this realm cares what the people think."
+        },
+        {
+            "key": "047",
+            "value": "No matter how poorly they treat the people, with the king and the army behind them, the aristocrats needn't fear rebellion."
+        },
+        {
+            "key": "048",
+            "value": "The poor people have nowhere else to go, no place to escape to."
+        },
+        {
+            "key": "049",
+            "value": "In the west is our enemy, Hourne. Too dangerous to flee there. Leonis is an ally, but unstable and on the brink of war with Fennes."
+        },
+        {
+            "key": "050",
+            "value": "Wezette is the safest place, for now. Tyrannical and poverty-stricken as it is."
+        },
+        {
+            "key": "051",
+            "value": "But it cannot go on like this. We...we need to make things better, Cadia!"
+        },
+        {
+            "key": "052",
+            "value": "Yes... And we will!"
+        }
+    ]
+}

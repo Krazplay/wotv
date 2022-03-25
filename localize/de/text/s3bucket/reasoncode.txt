@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "GL_BAN_REASON_1000",
+            "value": "Dein Konto wurde gesperrt."
+        },
+        {
+            "key": "GL_BAN_REASON_2000",
+            "value": "Dein Konto wurde gesperrt, da festgestellt wurde, dass es von unrechtmäßigen oder unbegründeten Ansuchen mehrerer Rückerstattungen vom Store oder Markt, der diese Dienstleistung anbietet, profitiert hat. Dieser Beschluss entspricht den Allgemeinen Geschäftsbedingungen."
+        },
+        {
+            "key": "GL_BAN_REASON_3000",
+            "value": "Dein Konto wurde gesperrt, da festgestellt wurde, dass es gegen mindestens eines der unten angeführten Verbote verstoßen hat.<br><br>- Übertragung, Verleih, Austausch oder Verkauf von Konten gegen echtes Geld<br>- Verfälschung von Spieldaten, um sich einen unfairen Vorteil im Spiel zu verschaffen<br>- Andere Handlungen, die die Allgemeinen Geschäftsbedingungen verletzen"
+        },
+        {
+            "key": "GL_BAN_REASON_4000",
+            "value": "Konto existiert nicht."
+        }
+    ]
+}

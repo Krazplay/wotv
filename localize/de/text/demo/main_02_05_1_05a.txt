@@ -1,0 +1,228 @@
+﻿{
+    "infos": [
+        {
+            "key": "187",
+            "value": "Majestät!"
+        },
+        {
+            "key": "188",
+            "value": "Was gibt es?"
+        },
+        {
+            "key": "189",
+            "value": "Der Wasserspiegel ...!"
+        },
+        {
+            "key": "190",
+            "value": "Der Wasserspiegel des Sees sinkt seit einer Weile beständig."
+        },
+        {
+            "key": "191",
+            "value": "Wenn es so weitergeht, wird uns der Feind bald wieder auf dem Landweg angreifen können!"
+        },
+        {
+            "key": "192",
+            "value": "Ja. Und weiter?"
+        },
+        {
+            "key": "193",
+            "value": "Ähm. Wie meinen ...?"
+        },
+        {
+            "key": "194",
+            "value": "Ich habe es veranlasst, dass der Wasserspiegel gesenkt wird."
+        },
+        {
+            "key": "195",
+            "value": "Aber ... warum?"
+        },
+        {
+            "key": "196",
+            "value": "Ich habe in Erfahrung gebracht, dass Rundall über eine Kanone verfügt, die das gesamte Schloss zerstören könnte."
+        },
+        {
+            "key": "197",
+            "value": "Was, so eine Kanone gibt es?!"
+        },
+        {
+            "key": "198",
+            "value": "Offenbar ist der Feind im Begriff, diese Kanone auf sein Schiff zu montieren."
+        },
+        {
+            "key": "199",
+            "value": "Das heißt ja dann ..."
+        },
+        {
+            "key": "200",
+            "value": "Wenn dieses Schiff in Schussweite gelangt, wäre das unser Ende."
+        },
+        {
+            "key": "201",
+            "value": "Aber ohne den Schutz des Wassers sind wir doch wieder den feindlichen Fußtruppen ausgeliefert."
+        },
+        {
+            "key": "202",
+            "value": "Glaubst du, ich hätte das nicht berücksichtigt?"
+        },
+        {
+            "key": "203",
+            "value": "Äh, doch, selbstverständlich, Majestät ..."
+        },
+        {
+            "key": "204",
+            "value": "Das Wasser hat uns bereits genügend Zeit verschafft."
+        },
+        {
+            "key": "205",
+            "value": "Meint Ihr ... Verstärkung ist unterwegs?!"
+        },
+        {
+            "key": "206",
+            "value": "Genau so ist es."
+        },
+        {
+            "key": "207",
+            "value": "Aber natürlich ist das noch nicht alles, was ich geplant habe."
+        },
+        {
+            "key": "208",
+            "value": "Ä-Ähm ..."
+        },
+        {
+            "key": "209",
+            "value": "Was ist? Sprich."
+        },
+        {
+            "key": "210",
+            "value": "Ich habe gehört, dass König Oberon der Verlobte von Prinzessin Lucielle ist."
+        },
+        {
+            "key": "211",
+            "value": "Und trotzdem versucht er, das Schloss zu<br>erobern ..."
+        },
+        {
+            "key": "212",
+            "value": "Ich glaube kaum, dass dieser Mann zu so einer Tat imstande ist."
+        },
+        {
+            "key": "213",
+            "value": "(„Dieser Mann“? Warum redet sie so abfällig über ihn?)"
+        },
+        {
+            "key": "214",
+            "value": "Aber Heindler und Rundall haben sich doch gegen uns verbündet, oder nicht?"
+        },
+        {
+            "key": "215",
+            "value": "Dessen bin ich mir wohl bewusst."
+        },
+        {
+            "key": "216",
+            "value": "Aber das hat für uns keinerlei Bedeutung."
+        },
+        {
+            "key": "217",
+            "value": "Die Liebe, die dieser Mann für mich empfindet, ist dauerhafter als jedes Bündnis."
+        },
+        {
+            "key": "218",
+            "value": "... Was ist los?"
+        },
+        {
+            "key": "219",
+            "value": "Merkt Ihr denn nichts? Da stimmt etwas nicht mit der Prinzessin."
+        },
+        {
+            "key": "220",
+            "value": "Du meinst die Art, wie sie über König Oberon spricht?"
+        },
+        {
+            "key": "221",
+            "value": "Ja."
+        },
+        {
+            "key": "222",
+            "value": "„Dieser Mann“ hat sie ihn genannt ..."
+        },
+        {
+            "key": "223",
+            "value": "Und zwar zweimal nacheinander."
+        },
+        {
+            "key": "224",
+            "value": "Prinzessin Lucielle und König Oberon verbindet eine tiefe Zuneingung, die über lange Zeit hinweg gewachsen ist."
+        },
+        {
+            "key": "225",
+            "value": "Ich selbst kann das bezeugen."
+        },
+        {
+            "key": "226",
+            "value": "Aber jetzt ... hat sich vielleicht etwas verändert."
+        },
+        {
+            "key": "227",
+            "value": "Vielleicht will Prinzessin Lucielle König Oberon dazu benutzen, den Fortbestand von Ovis zu sichern ..."
+        },
+        {
+            "key": "228",
+            "value": "Möglich, aber das wäre dann eine Entscheidung, zu der unsere aussichtslose Lage sie gezwungen hätte."
+        },
+        {
+            "key": "229",
+            "value": "Ihre Augen aber sprechen eine andere Sprache, und das beunruhigt mich."
+        },
+        {
+            "key": "230",
+            "value": "Mich auch ..."
+        },
+        {
+            "key": "231",
+            "value": "Da ist so ein kalter Glanz in ihren Augen."
+        },
+        {
+            "key": "232",
+            "value": "Sie hat einen hohen Preis dafür bezahlt, Prinzessin Sherza und Prinzessin Rashina zur Flucht zu verhelfen."
+        },
+        {
+            "key": "233",
+            "value": "Jetzt ist sie darauf gefasst, gemeinsam mit dem Schloss unterzugehen. Ich dachte, das wäre der Grund ..."
+        },
+        {
+            "key": "234",
+            "value": "Aber wir sollten wohl davon ausgehen, dass etwas anderes dahinter steckt."
+        },
+        {
+            "key": "235",
+            "value": "Sollen wir nachforschen?"
+        },
+        {
+            "key": "236",
+            "value": "Aber nur mit höchster Diskretion."
+        },
+        {
+            "key": "237",
+            "value": "Das versteht sich von selbst."
+        },
+        {
+            "key": "238",
+            "value": "Nach langem Marsch erreichen Mont und seine Gefährten die Gefilde von Ovis ..."
+        },
+        {
+            "key": "239",
+            "value": "Ovis liegt direkt vor uns."
+        },
+        {
+            "key": "240",
+            "value": "Dann muss das da in der Ferne der See sein, der Schloss Ovis bisher Schutz geboten hat."
+        },
+        {
+            "key": "241",
+            "value": "Richtig. Aber ich bezweifle, dass dieser Zustand noch lange währt."
+        },
+        {
+            "key": "242",
+            "value": "Dann beeilen wir uns. "
+        }
+    ]
+}

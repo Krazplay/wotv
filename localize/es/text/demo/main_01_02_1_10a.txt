@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ramada…, ¿qué dicen las estrellas?"
+        },
+        {
+            "key": "002",
+            "value": "¿Que qué dicen? No sé si debería contestar a esa pregunta."
+        },
+        {
+            "key": "003",
+            "value": "¿No nos lo quieres decir? Eso no augura nada bueno…"
+        },
+        {
+            "key": "004",
+            "value": "¿Signifca eso que no hay esperanza para nuestra unidad?"
+        },
+        {
+            "key": "005",
+            "value": "No, no es eso. Cuando se conoce el futuro, este te traiciona. Por eso es mejor no decir nada."
+        },
+        {
+            "key": "006",
+            "value": "No lo entiendo…"
+        },
+        {
+            "key": "007",
+            "value": "Si ahora mismo proclamara que nuestra huida va a ser todo un éxito…, ¿cuál crees que sería el resultado?"
+        },
+        {
+            "key": "008",
+            "value": "A lo mejor los soldados se relajarían por el exceso de confianza."
+        },
+        {
+            "key": "009",
+            "value": "Por el contrario, si dijera que nadie va a sobrevivir a lo que se avecina, podrían perder la moral y abandonar sus puestos a las primeras de cambio."
+        },
+        {
+            "key": "010",
+            "value": "Tienes toda la razón…"
+        },
+        {
+            "key": "011",
+            "value": "En resumen: saber lo que nos depara el futuro puede hacer que este se escape como arena entre los dedos."
+        },
+        {
+            "key": "012",
+            "value": "Entonces, mejor ignorarlo, ¿no?"
+        },
+        {
+            "key": "013",
+            "value": "Sí. A veces, lo mejor es la ignorancia."
+        },
+        {
+            "key": "014",
+            "value": "Bueno, entonces vayamos de frente a por ese futuro incierto, ¿no?"
+        }
+    ]
+}

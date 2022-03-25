@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Solo quedas tú!"
+        },
+        {
+            "key": "002",
+            "value": "¿Estás seguro?"
+        },
+        {
+            "key": "003",
+            "value": "¿¡Qué...!?"
+        },
+        {
+            "key": "004",
+            "value": "¡U-ugh...!"
+        },
+        {
+            "key": "005",
+            "value": "Parece que aún no estás preparado para liderar a Saiga."
+        },
+        {
+            "key": "006",
+            "value": "¡Muere!"
+        },
+        {
+            "key": "007",
+            "value": "Vaya, si es lady Loreila..."
+        },
+        {
+            "key": "008",
+            "value": "Qué buen momento has elegido. Estábamos a punto de ejecutar a este hombre."
+        },
+        {
+            "key": "009",
+            "value": "Pero antes de eso..., hay algo que debo preguntarte."
+        },
+        {
+            "key": "010",
+            "value": "Las aldeas de Gouga y Saiga... planean unificarse en una sola nación."
+        },
+        {
+            "key": "011",
+            "value": "¿Es eso verdad o se trata de habladurías?"
+        },
+        {
+            "key": "012",
+            "value": "En función de tu respuesta, puede que tu destino acabe siendo el mismo que el de este hombre."
+        },
+        {
+            "key": "013",
+            "value": "…"
+        },
+        {
+            "key": "014",
+            "value": "Veo que preferirías acabar con nosotros antes que contestar a tal pregunta."
+        },
+        {
+            "key": "015",
+            "value": "Es ese caso, no esperes piedad."
+        },
+        {
+            "key": "016",
+            "value": "Primero, acabaremos con este hombre, el jefe de Saiga, y luego..."
+        },
+        {
+            "key": "017",
+            "value": "Jugaremos un rato contigo, lady Loreila."
+        },
+        {
+            "key": "018",
+            "value": "No oses ponerle ni un dedo encima."
+        },
+        {
+            "key": "019",
+            "value": "Interesante... Dicen que la gente de Gouga mataría hasta a sus padres por el precio adecuado."
+        },
+        {
+            "key": "020",
+            "value": "Mi Gouga... será diferente."
+        }
+    ]
+}

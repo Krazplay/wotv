@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Buf… Menos mal que conseguimos escapar."
+        },
+        {
+            "key": "002",
+            "value": "La cosa pintaba mal, ¿eh?"
+        },
+        {
+            "key": "003",
+            "value": "Hicimos bien en huir, ¿verdad?"
+        },
+        {
+            "key": "004",
+            "value": "Sí, salir pitando de allí era la única opción que nos quedaba."
+        },
+        {
+            "key": "005",
+            "value": "Si nos hubiéramos quedado, nos habrían matado…"
+        },
+        {
+            "key": "006",
+            "value": "Aunque puede que alguno de los monjes haya conseguido sobrevivir. ¿Se te ocurre algún plan para solucionar eso?"
+        },
+        {
+            "key": "007",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "008",
+            "value": "Esos tipos… no traen más que problemas."
+        },
+        {
+            "key": "009",
+            "value": "¿No creéis que le dirán a Sadali que salimos huyendo como ratas?"
+        },
+        {
+            "key": "010",
+            "value": "Si esto llega a oídos de lord Sadali, podemos ir despidiéndonos de ser la guardia real de su santidad…"
+        },
+        {
+            "key": "011",
+            "value": "Nunca nos elegiría."
+        },
+        {
+            "key": "012",
+            "value": "¿Qué hacemos, entonces? ¿Vamos a comprobar si ha sobrevivido algún monje?"
+        },
+        {
+            "key": "013",
+            "value": "Sí. Es lo mejor."
+        },
+        {
+            "key": "014",
+            "value": "Qué poco me gusta esto…"
+        },
+        {
+            "key": "015",
+            "value": "¿Cómo te encuentras, socio?"
+        },
+        {
+            "key": "016",
+            "value": "Si vosotros vais de caza, yo también."
+        },
+        {
+            "key": "017",
+            "value": "Se te ve de buen humor."
+        },
+        {
+            "key": "018",
+            "value": "Hermano, ¿nos vamos ya?"
+        },
+        {
+            "key": "019",
+            "value": "Sí, vámonos."
+        }
+    ]
+}

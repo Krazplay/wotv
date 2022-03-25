@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hmm, c'est tout ce que tu as dans le ventre ? Pour tout t'avouer, je suis un petit peu déçu."
+        },
+        {
+            "key": "002",
+            "value": "Je pensais m'amuser un peu plus longtemps avec toi. Quel dommage !"
+        },
+        {
+            "key": "003",
+            "value": "Roi Rob... Dépêchez... vous..."
+        },
+        {
+            "key": "004",
+            "value": "Tu es encore en vie ? La mort ne veut pas de toi on dirait ! Hé hé hé !"
+        },
+        {
+            "key": "005",
+            "value": "Argh !"
+        },
+        {
+            "key": "006",
+            "value": "Allez, qu'est-ce qui t'arrive ? Supplie-moi de t'épargner !"
+        },
+        {
+            "key": "007",
+            "value": "..."
+        },
+        {
+            "key": "008",
+            "value": "Pfff, tu n'en peux déjà plus ? Tu es d'un ennui, ma pauvre !"
+        },
+        {
+            "key": "009",
+            "value": "Laisse-moi abréger tes souffrances."
+        },
+        {
+            "key": "010",
+            "value": "Ha ha. Ha ha ha ! "
+        },
+        {
+            "key": "011",
+            "value": "Qu'y a-t-il de si amusant ?"
+        },
+        {
+            "key": "012",
+            "value": "Les vermines arrogantes de ton espèce sont les plus faciles à berner."
+        },
+        {
+            "key": "013",
+            "value": "Tu... !"
+        },
+        {
+            "key": "014",
+            "value": "Plaît-il ?"
+        },
+        {
+            "key": "015",
+            "value": "Elle a plongé de la falaise d'elle-même..."
+        },
+        {
+            "key": "016",
+            "value": "Hé hé hé. Cette petite est bien plus intéressante que je ne l'aurais cru. Accroche-toi donc à la vie, gamine, si c'est ce que tu veux..."
+        },
+        {
+            "key": "017",
+            "value": "... La prochaine fois qu'on se verra, tu me supplieras de te tuer !"
+        }
+    ]
+}

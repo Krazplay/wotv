@@ -1,0 +1,200 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Dis, Thythy !"
+        },
+        {
+            "key": "002",
+            "value": "Il revient quand Howlie ?"
+        },
+        {
+            "key": "003",
+            "value": "Aucune idée."
+        },
+        {
+            "key": "004",
+            "value": "Tu es fatiguée ?"
+        },
+        {
+            "key": "005",
+            "value": "Non ! Je vais très bien !"
+        },
+        {
+            "key": "006",
+            "value": "Bon. Je suis fier de toi, Chel."
+        },
+        {
+            "key": "007",
+            "value": "Bon sang. Qu'est-ce qui peut bien lui prendre autant de temps ?"
+        },
+        {
+            "key": "008",
+            "value": "Il a pourtant dit qu'il serait rapide. Saît-il seulement depuis combien de temps on l'attend ?!"
+        },
+        {
+            "key": "009",
+            "value": "Tu crois que quelque chose a pu lui arriver ?"
+        },
+        {
+            "key": "010",
+            "value": "Il doit surtout être occupé à courtiser les demoiselles, comme d'habitude."
+        },
+        {
+            "key": "011",
+            "value": "Hmmm…"
+        },
+        {
+            "key": "012",
+            "value": "Qu'est-ce qu'un homme aussi terne que toi peut savoir sur l'art de séduire ces dames ?"
+        },
+        {
+            "key": "013",
+            "value": "Pardonne-moi, ma tendre Chel… Et toi, Thytas."
+        },
+        {
+            "key": "014",
+            "value": "Howlet ? C'est quoi cet accoutrement ?"
+        },
+        {
+            "key": "015",
+            "value": "Qu'en penses-tu, Chel ? Ton frère n'a jamais été aussi séduisant, pas vrai ?"
+        },
+        {
+            "key": "016",
+            "value": "Tu es très beau, Howlie !"
+        },
+        {
+            "key": "017",
+            "value": "Tu n'étais pas venu ici pour l'épée à la base ?"
+        },
+        {
+            "key": "018",
+            "value": "Avais-tu vraiment besoin de t'encombrer de nouveaux habits ?"
+        },
+        {
+            "key": "019",
+            "value": "Je ne fais qu'écouter cette voix intérieure qui m'encourage à embrasser tout mon potentiel."
+        },
+        {
+            "key": "020",
+            "value": "Essayer de te comprendre serait une perte de temps…"
+        },
+        {
+            "key": "021",
+            "value": "Alors, cette épée ?"
+        },
+        {
+            "key": "022",
+            "value": "Ah oui ! Eh bien figurez-vous que j'ai fini par débusquer l'épée que le maître m’a chargé de retrouver."
+        },
+        {
+            "key": "023",
+            "value": "L'ancien t'a demandé une telle chose ?"
+        },
+        {
+            "key": "024",
+            "value": "Je croyais qu'il ne te voulait plus comme apprenti…"
+        },
+        {
+            "key": "025",
+            "value": "Lui ? Renoncer à moi ? Mon mensonge a bien pris."
+        },
+        {
+            "key": "026",
+            "value": "Tu nous as menti ? Mais pourquoi ?"
+        },
+        {
+            "key": "027",
+            "value": "Howlie ! Comment as-tu pu !"
+        },
+        {
+            "key": "028",
+            "value": "Écoute bien, Chel. Mentir n'est pas forcément une mauvaise chose."
+        },
+        {
+            "key": "029",
+            "value": "Ah bon ?"
+        },
+        {
+            "key": "030",
+            "value": "Imaginons par exemple que je t’aie promis de te retrouver ici."
+        },
+        {
+            "key": "031",
+            "value": "Impatient de revoir ma tendre sœur, j'arrive au lieu de rendez-vous très en avance."
+        },
+        {
+            "key": "032",
+            "value": "Oh, Howlie ! J'en serais ravie !"
+        },
+        {
+            "key": "033",
+            "value": "Tu finirais par arriver à ton tour et me demanderais…"
+        },
+        {
+            "key": "034",
+            "value": "« Coucou, Howlie ! Tu m'attends depuis longtemps ? »"
+        },
+        {
+            "key": "035",
+            "value": "Oui ! C'est ce que je te demanderais."
+        },
+        {
+            "key": "036",
+            "value": "Et maintenant, imagine que je te réponde « Oui, Chel. J'ai attendu une éternité !». Comment le prendrais-tu ?"
+        },
+        {
+            "key": "037",
+            "value": "Je serais très heureuse ! Après tout, mon frère m'attend depuis des heures et des heures !"
+        },
+        {
+            "key": "038",
+            "value": "Je… Bon d'accord…"
+        },
+        {
+            "key": "039",
+            "value": "Mais, imagine que je te réponde « Pas du tout, ma chère sœur ! Je viens tout juste d'arriver ! »."
+        },
+        {
+            "key": "040",
+            "value": "Tu serais un menteur ! Mentir n'est pas une bonne chose et tu le sais !"
+        },
+        {
+            "key": "041",
+            "value": "J-Je suppose, oui…"
+        },
+        {
+            "key": "042",
+            "value": "On dirait bien que Chel a eu le dernier mot."
+        },
+        {
+            "key": "043",
+            "value": "Est-ce que tu peux nous en dire un peu plus sur cette épée ?"
+        },
+        {
+            "key": "044",
+            "value": "Oui, mais pas ici. Je vous en dirai davantage en chemin."
+        },
+        {
+            "key": "045",
+            "value": "Le sujet serait-il sensible ?"
+        },
+        {
+            "key": "046",
+            "value": "Pas tant que ça. Mais avec toutes ces jeunes femmes qui ont les yeux rivés sur ma personne, je préfère me faire discret."
+        },
+        {
+            "key": "047",
+            "value": "Enfin, ce n'est pas comme si tu pouvais comprendre ce problème."
+        },
+        {
+            "key": "048",
+            "value": "J'envie presque la façon dont tu passes inaperçu auprès des demoiselles."
+        },
+        {
+            "key": "049",
+            "value": "Mais oui, cause toujours…"
+        }
+    ]
+}

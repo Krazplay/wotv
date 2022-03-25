@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...Ah. Th-that's—"
+        },
+        {
+            "key": "002",
+            "value": "An ancient tome... This belongs to Leonis, does it not?"
+        },
+        {
+            "key": "003",
+            "value": "......"
+        },
+        {
+            "key": "004",
+            "value": "What did you intend to do with this? Was this meant for Oelde?"
+        },
+        {
+            "key": "005",
+            "value": "......"
+        },
+        {
+            "key": "006",
+            "value": "Answer me!"
+        },
+        {
+            "key": "007",
+            "value": "The order came from Queen Helena."
+        },
+        {
+            "key": "008",
+            "value": "From Mother..."
+        },
+        {
+            "key": "009",
+            "value": "...I see now. You hope to prevent Khury's betrayal by giving this to Oelde..."
+        },
+        {
+            "key": "010",
+            "value": "Does Wezette truly intend to abandon its alliance with Leonis?"
+        },
+        {
+            "key": "011",
+            "value": "Only those of Leonis are blind to this."
+        },
+        {
+            "key": "012",
+            "value": "Wezette has already made contact with an envoy from the Sanctum."
+        },
+        {
+            "key": "013",
+            "value": "No..."
+        },
+        {
+            "key": "014",
+            "value": "You...would return the ancient tome to us?"
+        },
+        {
+            "key": "015",
+            "value": "Keep your book, but go no closer to Wezette."
+        },
+        {
+            "key": "016",
+            "value": "Huh...?"
+        },
+        {
+            "key": "017",
+            "value": "Should you venture any further north, know that I shall cut you down without mercy..."
+        },
+        {
+            "key": "018",
+            "value": "Return to Leonis Castle and protect Mother."
+        },
+        {
+            "key": "019",
+            "value": "What will you do, Lord Sterne...?"
+        },
+        {
+            "key": "020",
+            "value": "I shall slay Oelde."
+        },
+        {
+            "key": "021",
+            "value": "Fennes soldiers still lurk in the village. I suggest you be gone from this place."
+        }
+    ]
+}

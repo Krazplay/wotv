@@ -1,0 +1,308 @@
+﻿{
+    "infos": [
+        {
+            "key": "137",
+            "value": "Die waren härtere Brocken als gedacht. Geradezu wild, wie die Dorfbewohner gesagt hatten."
+        },
+        {
+            "key": "138",
+            "value": "W-Wer seid ihr?"
+        },
+        {
+            "key": "139",
+            "value": "Wir sind Kristallkrieger. Wir halfen dir, um an wichtige Informationen zu gelangen."
+        },
+        {
+            "key": "140",
+            "value": "Kristallkrieger?"
+        },
+        {
+            "key": "141",
+            "value": "W-Wenn ich etwas sagen dürfte. Sie meint, dass wir hier etwas suchen."
+        },
+        {
+            "key": "142",
+            "value": "Aber wichtiger ist erst mal, wie es dir geht."
+        },
+        {
+            "key": "143",
+            "value": "A-Alles gut, dank euch beiden."
+        },
+        {
+            "key": "144",
+            "value": "Ich bin für eure Hilfe sehr dankbar."
+        },
+        {
+            "key": "145",
+            "value": "Aber was wenn ihr eigentlich Meuchelmörder seid, die mich nur gerettet haben, um mich dann zu überraschen?"
+        },
+        {
+            "key": "146",
+            "value": "Runter mit der Klinge, Tyrrel."
+        },
+        {
+            "key": "147",
+            "value": "V-Vinera. Du hättest nicht kommen sollen."
+        },
+        {
+            "key": "148",
+            "value": "Das könnten Meuchelmörder aus Fennes sein."
+        },
+        {
+            "key": "149",
+            "value": "Wegen den beiden musst du dir keine Sorgen machen."
+        },
+        {
+            "key": "150",
+            "value": "W-Woher willst du das wissen?"
+        },
+        {
+            "key": "151",
+            "value": "Sie wollen uns nichts zuleide tun. Das spüre ich, auch wenn ich derzeit selbst nicht kämpfen kann."
+        },
+        {
+            "key": "152",
+            "value": "Wenn Vinera für euch bürgt ..."
+        },
+        {
+            "key": "153",
+            "value": "Dann habe ich meine Klinge auf meine Erretter gerichtet. Ich bitte demütigst um Verzeihung."
+        },
+        {
+            "key": "154",
+            "value": "Ich bin Tyrrel. Besondere Umstände sorgten dafür, dass Vinera sich auf Reisen begeben musste und ich habe sie seitdem begleitet. "
+        },
+        {
+            "key": "155",
+            "value": "Ich bin Vinera, wie Tyrrell bereits sagte."
+        },
+        {
+            "key": "156",
+            "value": "Lasst mich euch zunächst für eure Hilfe danken."
+        },
+        {
+            "key": "157",
+            "value": "Aber was führt euch hierher?"
+        },
+        {
+            "key": "158",
+            "value": "Wir suchen nach einem Kernkristall."
+        },
+        {
+            "key": "159",
+            "value": "Ich werde es mal genauer erklären."
+        },
+        {
+            "key": "160",
+            "value": "Und jetzt sind wir hier."
+        },
+        {
+            "key": "161",
+            "value": "Ihr sucht also nach Kristallen, die über verschiedene Länder verstreut wurden ..."
+        },
+        {
+            "key": "162",
+            "value": "Es fällt schwer, das zu glauben ... besonders das bezüglich eures Reiches."
+        },
+        {
+            "key": "163",
+            "value": "Und? Habt ihr Informationen bezüglich des Kernkristalls?"
+        },
+        {
+            "key": "164",
+            "value": "Ich muss euch leider enttäuschen. Ich fürchte, nein."
+        },
+        {
+            "key": "165",
+            "value": "Ich verstehe. Dann ziehen wir jetzt weiter."
+        },
+        {
+            "key": "166",
+            "value": "E-Einen Moment! Diese Entscheidung fiel etwas voreilig."
+        },
+        {
+            "key": "167",
+            "value": "Wir haben keine Zeit zu verlieren."
+        },
+        {
+            "key": "168",
+            "value": "Warum triffst du alle Entscheidungen nur nach ihrer Effizienz, Jume?"
+        },
+        {
+            "key": "169",
+            "value": "Ähm. Ich werde vorerst derjenige sein, der die Fragen stellt."
+        },
+        {
+            "key": "170",
+            "value": "Was macht ihr beiden in diesem Tunnel? Flüchtet ihr vor jemandem?"
+        },
+        {
+            "key": "171",
+            "value": "Nun ..."
+        },
+        {
+            "key": "172",
+            "value": "Unser Heimatland hat es auf unsere Köpfe abgesehen."
+        },
+        {
+            "key": "173",
+            "value": "V-Vinera?"
+        },
+        {
+            "key": "174",
+            "value": "Wir wissen nun, was sie herführte. Da ist es nur fair, dass wir ihnen auch alles erzählen, oder?"
+        },
+        {
+            "key": "175",
+            "value": "Da hast du wohl recht ..."
+        },
+        {
+            "key": "176",
+            "value": "Wir haben uns in die Minen geflüchtet, um unseren Verfolgern aus Fennes zu entkommen."
+        },
+        {
+            "key": "177",
+            "value": "Diese bösartigen Monster waren zu zahlreich für uns, daher konnten wir nicht tiefer in die Minen eindringen."
+        },
+        {
+            "key": "178",
+            "value": "Daher hätte ich einen Vorschlag."
+        },
+        {
+            "key": "179",
+            "value": "Würdet ihr uns durch die Minen eskortieren?"
+        },
+        {
+            "key": "180",
+            "value": "W-Was sagst du denn da? Als Eskorte reiche ich doch vollkommen aus."
+        },
+        {
+            "key": "181",
+            "value": "Tyrrel ... Wir können es uns nicht leisten, erwischt zu werden."
+        },
+        {
+            "key": "182",
+            "value": "Es wäre also nur vorteilhaft, von so vielen Leuten wie möglich bewacht zu werden."
+        },
+        {
+            "key": "183",
+            "value": "Und warum kämpfst du nicht, Vinera?"
+        },
+        {
+            "key": "184",
+            "value": "Vinera erwartet ein Kind."
+        },
+        {
+            "key": "185",
+            "value": "Sie kann also nicht kämpfen. Selbst wenn sie wollte, würde ich es verhindern."
+        },
+        {
+            "key": "186",
+            "value": "Welchen Zweck hat dann das Schwert an ihrer Hüfte, wenn sie nicht kämpfen kann?"
+        },
+        {
+            "key": "187",
+            "value": "Es wurde mir von jemandem anvertraut, der mir sehr wichtig ist."
+        },
+        {
+            "key": "188",
+            "value": "Es ist so etwas wie ein Glücksbringer für mich."
+        },
+        {
+            "key": "189",
+            "value": "Darum seid ihr also hier gelandet. Was sollen wir tun, Jume?"
+        },
+        {
+            "key": "190",
+            "value": "Für Umwege ist keine Zeit."
+        },
+        {
+            "key": "191",
+            "value": "Noch dazu kann ich mich nicht an etwas so Ineffizientem wie dem Schutz der Schwachen beteiligen."
+        },
+        {
+            "key": "192",
+            "value": "Natürlich würde ich nicht fragen, ohne eine Gegenleistung anzubieten. Wir werden euch als Gegenleistung bei der Suche nach dem Kernkristall unterstützen."
+        },
+        {
+            "key": "193",
+            "value": "Wenn ihr ihn hier in den Minen vermutet, wäre es dann nicht sinnvoll, dass so viele Leute wie möglich nach ihm suchen?"
+        },
+        {
+            "key": "194",
+            "value": "Für ihre Hilfe könnten wir sie doch ruhig eskortieren, oder?"
+        },
+        {
+            "key": "195",
+            "value": "Es will mir nicht in den Kopf, warum wir einen Klotz am Bein wie Vinera bewachen sollten."
+        },
+        {
+            "key": "196",
+            "value": "Sie zu eskortieren, würde uns nur in Gefahr bringen."
+        },
+        {
+            "key": "197",
+            "value": "Es ist nicht notwendig, das für andere auf uns zu nehmen."
+        },
+        {
+            "key": "198",
+            "value": "Ich habe zwar nur wenig Erfahrung als Kristallkrieger und es bedeutet vielleicht nicht viel, wenn jemand das sagt, der kein Mensch ist ..."
+        },
+        {
+            "key": "199",
+            "value": "Aber Menschen gestalten ihr Leben nicht nach reinem Nutzendenken."
+        },
+        {
+            "key": "200",
+            "value": "Und ich kann diese beiden nicht einfach sich selbst überlassen."
+        },
+        {
+            "key": "201",
+            "value": "So fühle ich nicht als Kristallkrieger, sondern als individuelles Wesen."
+        },
+        {
+            "key": "202",
+            "value": "Beantworte mir nur eine Frage."
+        },
+        {
+            "key": "203",
+            "value": "Macht es Sinn, wenn die Starken die Schwachen beschützen?"
+        },
+        {
+            "key": "204",
+            "value": "Das weiß ich nicht."
+        },
+        {
+            "key": "205",
+            "value": "Aber ich weiß, dass ich es später bereuen werde, wenn ich ihnen jetzt nicht helfe."
+        },
+        {
+            "key": "206",
+            "value": "Na gut."
+        },
+        {
+            "key": "207",
+            "value": "Wir werden uns eurer Bitte annehmen."
+        },
+        {
+            "key": "208",
+            "value": "Aber nur, bis wir den Kristall finden. Einverstanden?"
+        },
+        {
+            "key": "209",
+            "value": "Natürlich. Habt meinen Dank."
+        },
+        {
+            "key": "210",
+            "value": "Wenn die Dinge schlecht laufen, können wir euch zwei einfach als Köder verwenden."
+        },
+        {
+            "key": "211",
+            "value": "Vinera ... Vielleicht hätten wir diese beiden doch nicht um Hilfe bitten sollen ..."
+        },
+        {
+            "key": "212",
+            "value": "H-Hahaha ..."
+        }
+    ]
+}

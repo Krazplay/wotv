@@ -1,0 +1,352 @@
+﻿{
+    "infos": [
+        {
+            "key": "305",
+            "value": "C'est maintenant ou jamais, Lucio !"
+        },
+        {
+            "key": "306",
+            "value": "Oui ! Il est grand temps… d’en finir !"
+        },
+        {
+            "key": "307",
+            "value": "GROOOAAAHHH…"
+        },
+        {
+            "key": "308",
+            "value": "Haaa ! On a réussi…"
+        },
+        {
+            "key": "309",
+            "value": "Les autres font demi-tour. Maintenant que leur chef est à terre, toute once de courage a disparu."
+        },
+        {
+            "key": "310",
+            "value": "Pfiou ! Nous avons évité le pire."
+        },
+        {
+            "key": "311",
+            "value": "Et j'ai gagné."
+        },
+        {
+            "key": "312",
+            "value": "Ha ha ha ! Je ne pense pas pouvoir te surpasser un jour."
+        },
+        {
+            "key": "313",
+            "value": "Vous étiez incroyables ! J'ai du mal à croire que vous ayez réussi à abattre autant de monstres à vous seuls !"
+        },
+        {
+            "key": "314",
+            "value": "Permets-moi de te retourner le compliment."
+        },
+        {
+            "key": "315",
+            "value": "Tuer un tel monstre n'est pas chose aisée."
+        },
+        {
+            "key": "316",
+            "value": "Vous m'avez montré la véritable puissance des Guerriers des cristaux."
+        },
+        {
+            "key": "317",
+            "value": "Grâce à vous, nous avons pu sauver les villageois. Je vous en suis très reconn…"
+        },
+        {
+            "key": "318",
+            "value": "GROOOOAAAHH !"
+        },
+        {
+            "key": "319",
+            "value": "Qu'est-ce qui se passe ?"
+        },
+        {
+            "key": "320",
+            "value": "Le monstre est… revenu à la vie ! Comment est-ce possible ?"
+        },
+        {
+            "key": "321",
+            "value": "GROOAAH ! GRAAAAAH !"
+        },
+        {
+            "key": "322",
+            "value": "Il se transforme ! Pourquoi ?"
+        },
+        {
+            "key": "323",
+            "value": "Il ne fait pas que se transformer… Regardez ! Il aspire quelque chose des dépouilles de ses congénères…"
+        },
+        {
+            "key": "324",
+            "value": "Ça sent mauvais. Nous sommes à bout de force."
+        },
+        {
+            "key": "325",
+            "value": "Mais nous ne pouvons pas en rester là. Il reste une menace pour le royaume !"
+        },
+        {
+            "key": "326",
+            "value": "GROOOOAAAHH !"
+        },
+        {
+            "key": "327",
+            "value": "Attention ! Mont !"
+        },
+        {
+            "key": "328",
+            "value": "Argh !"
+        },
+        {
+            "key": "329",
+            "value": "Gnn !"
+        },
+        {
+            "key": "330",
+            "value": "Il a intercepté l'attaque !"
+        },
+        {
+            "key": "331",
+            "value": "Lucio !"
+        },
+        {
+            "key": "332",
+            "value": "Je ne laisserai personne d'autre… être blessé…"
+        },
+        {
+            "key": "333",
+            "value": "Je protègerai tout le monde… Je ne laisserai personne mourir !"
+        },
+        {
+            "key": "334",
+            "value": "Arrrrgh !"
+        },
+        {
+            "key": "335",
+            "value": "C'était quoi cette lumière ?"
+        },
+        {
+            "key": "336",
+            "value": "Il l'a abattu d'un seul coup…"
+        },
+        {
+            "key": "337",
+            "value": "Je vois. C’est de cela dont parlait Ranan."
+        },
+        {
+            "key": "338",
+            "value": "On dirait bien que notre nouvelle recrue est en passe de devenir un véritable Guerrier des cristaux."
+        },
+        {
+            "key": "339",
+            "value": "Ha… Ha…"
+        },
+        {
+            "key": "340",
+            "value": "Pfiou… T-Tout le monde va bien ?"
+        },
+        {
+            "key": "341",
+            "value": "Oui… Qu'est-ce qu’il vient de se passer ?"
+        },
+        {
+            "key": "342",
+            "value": "Je ne sais pas. J'avais en tête de tous vous protéger et tout à coup ce pouvoir m'a envahi."
+        },
+        {
+            "key": "343",
+            "value": "C'est un signe, Lucio. La preuve que tu commences à t'éveiller en tant que Guerrier des cristaux."
+        },
+        {
+            "key": "344",
+            "value": "M'éveiller ?"
+        },
+        {
+            "key": "345",
+            "value": "En d'autres termes, aujourd'hui sonne la réussite à ton examen. Félicitations !"
+        },
+        {
+            "key": "346",
+            "value": "V-Vraiment ?! Je… euh… Attendez… Mes jambes… sont toutes…"
+        },
+        {
+            "key": "347",
+            "value": "Pas étonnant. C'était un combat difficile et tu y as mis un terme avec ton nouveau pouvoir fraîchement acquis."
+        },
+        {
+            "key": "348",
+            "value": "Tu devras t'entraîner pour apprendre à le maîtriser et à l'utiliser quand tu en auras besoin."
+        },
+        {
+            "key": "349",
+            "value": "Ha ha… davantage d'entraînement…"
+        },
+        {
+            "key": "350",
+            "value": "Ce sera tout pour aujourd'hui."
+        },
+        {
+            "key": "351",
+            "value": "Nous avons le cristal fondamental, il est temps pour nous de rentrer."
+        },
+        {
+            "key": "352",
+            "value": "Rentrer ? C'est vrai que vous n'êtes pas originaires de ce monde."
+        },
+        {
+            "key": "353",
+            "value": "Je suppose que c'est ici que nous nous disons au revoir."
+        },
+        {
+            "key": "354",
+            "value": "J'espère que nos chemins se croiseront à nouveau, Lucio."
+        },
+        {
+            "key": "355",
+            "value": "Sans aucun doute. Je compte bien revenir admirer votre vision du futur."
+        },
+        {
+            "key": "356",
+            "value": "Je veux véritablement le voir de mes propres yeux."
+        },
+        {
+            "key": "357",
+            "value": "Je t'en fais la promesse. Mon rêve sera devenu réalité la prochaine fois que nous nous verrons."
+        },
+        {
+            "key": "358",
+            "value": "J'ai hâte de voir ça. Je compte bien m'en souvenir !"
+        },
+        {
+            "key": "359",
+            "value": "Et je m'engage à tout entreprendre pour qu'il se réalise, peu importe les obstacles qui se dresseront sur mon chemin."
+        },
+        {
+            "key": "360",
+            "value": "Dis-moi, Mont. Qui sont ces gens ?"
+        },
+        {
+            "key": "361",
+            "value": "De véritables amis, originaires d'un monde que nous ne verrons jamais."
+        },
+        {
+            "key": "362",
+            "value": "Tout est en place."
+        },
+        {
+            "key": "363",
+            "value": "Ça peut commencer."
+        },
+        {
+            "key": "364",
+            "value": "Je peux enfin libérer les prisonniers des chaînes du destin…"
+        },
+        {
+            "key": "365",
+            "value": "Et ainsi honorer la promesse que j'ai faite."
+        },
+        {
+            "key": "366",
+            "value": "La liberté est à portée de mains."
+        },
+        {
+            "key": "367",
+            "value": "Des félicitations s'imposent. Tu t'es éveillé."
+        },
+        {
+            "key": "368",
+            "value": "Je n'ai jamais douté que tu y arriverais. N'ai-je pas dit depuis le début que Lucio avait ça en lui ?"
+        },
+        {
+            "key": "369",
+            "value": "Il s'est éveillé ? Voyons voir ça."
+        },
+        {
+            "key": "370",
+            "value": "Je ne peux pas faire ça sur commande. C'est arrivé par accident. Je n'ai aucune idée du pourquoi du comment."
+        },
+        {
+            "key": "371",
+            "value": "Comme c'est navrant…"
+        },
+        {
+            "key": "372",
+            "value": "Mais c'est déjà un bon début ! Tu dois seulement apprendre à te contrôler."
+        },
+        {
+            "key": "373",
+            "value": "Une fois que tu y arriveras, ta puissance ne sera que plus incroyable !"
+        },
+        {
+            "key": "374",
+            "value": "Il ne nous reste plus qu'à pousser son corps à bout jusqu'à ce qu'il fasse usage de son pouvoir sur commande."
+        },
+        {
+            "key": "375",
+            "value": "Exactement ! Il a juste besoin de s'entraîner."
+        },
+        {
+            "key": "376",
+            "value": "Ha ha ha ! Regarde-toi, Lucio ! Une vraie vedette."
+        },
+        {
+            "key": "377",
+            "value": "J'ai comme l'impression que la suite ne va pas me plaire…"
+        },
+        {
+            "key": "378",
+            "value": "J’imagine que ton rapport me donnera tous les détails mais pour l'heure, permets-moi de te féliciter."
+        },
+        {
+            "key": "379",
+            "value": "Et Bériz, il est rare de te voir aller jusqu'au bout d'une mission. Tu as bien mérité de te reposer pour une fois."
+        },
+        {
+            "key": "380",
+            "value": "M'en parle pas. Plus jamais je ne me laisserai embarquer dans une mission aussi héroïque."
+        },
+        {
+            "key": "381",
+            "value": "Lucio, tu as aussi besoin de repos. Mais tu dois faire une dernière chose avant ça…"
+        },
+        {
+            "key": "382",
+            "value": "Remettre le cristal fondamental d'où il vient."
+        },
+        {
+            "key": "383",
+            "value": "Et voilà. Je vais le mettre ici…"
+        },
+        {
+            "key": "384",
+            "value": "Ce sera tout pour les cristaux fondamentaux. L'équilibre des mondes est donc sauf ?"
+        },
+        {
+            "key": "385",
+            "value": "C'est ce que la Volonté de la Lumière a dit."
+        },
+        {
+            "key": "386",
+            "value": "Bizarre… Rien ne semble se produire."
+        },
+        {
+            "key": "387",
+            "value": "Peut-être n'en avons-nous pas suffisamment ?"
+        },
+        {
+            "key": "388",
+            "value": "C'est impossible. Tous les cristaux fondamentaux sont là. Il n'y en a pas d'autres."
+        },
+        {
+            "key": "389",
+            "value": "Quelque chose ne tourne peut-être pas rond avec les cristaux…"
+        },
+        {
+            "key": "390",
+            "value": "Regardez ! La lumière des cristaux fondamentaux faiblit !"
+        },
+        {
+            "key": "391",
+            "value": "Qu'est-ce que ça veut dire ?!"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Votre Majesté, des intrus ont été repérés à la frontière."
+        },
+        {
+            "key": "002",
+            "value": "Encore des barbares de Fennes ?"
+        },
+        {
+            "key": "003",
+            "value": "Non, cette fois… il s'agit du roi Eldo de Leonis accompagné du prince Mont."
+        },
+        {
+            "key": "004",
+            "value": "Il semble que Hourne et Fennes ont formé une alliance et attaqué Leonis."
+        },
+        {
+            "key": "005",
+            "value": "Je vois. Ils sont sûrement venus pour nous demander de l'aide."
+        },
+        {
+            "key": "006",
+            "value": "Ils n'ont pas la courtoisie d'envoyer un messager annoncer leur visite."
+        },
+        {
+            "key": "007",
+            "value": "Quels sont vos ordres, Votre Majesté ?"
+        },
+        {
+            "key": "008",
+            "value": "Roi Khory, si je peux me permettre. Le roi Eldo nous serait redevable de toute l'aide que nous pourrions lui accorder."
+        },
+        {
+            "key": "009",
+            "value": "Et si une guerre contre Hourne est sur le point d'éclater, nous devrions commencer à nous préparer."
+        },
+        {
+            "key": "010",
+            "value": "Je suis du même avis."
+        },
+        {
+            "key": "011",
+            "value": "..."
+        },
+        {
+            "key": "012",
+            "value": "V-votre Majesté… Il y a autre chose."
+        },
+        {
+            "key": "013",
+            "value": "Qu'y a-t-il ?"
+        },
+        {
+            "key": "014",
+            "value": "Un chevalier de Hourne semble s'être glissé dans leur groupe."
+        },
+        {
+            "key": "015",
+            "value": "Pourquoi seraient-ils en compagnie d'un chevalier de Hourne ?!"
+        },
+        {
+            "key": "016",
+            "value": "Votre Majesté, nous pensons qu'il s'agit de Schuzelt, le Champion téméraire de « Solidus »."
+        },
+        {
+            "key": "017",
+            "value": "..."
+        },
+        {
+            "key": "018",
+            "value": "Serjes. Prends tes hommes et va à leur rencontre."
+        },
+        {
+            "key": "019",
+            "value": "Comme vous le souhaitez."
+        }
+    ]
+}

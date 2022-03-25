@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡¿Que el ejército de Hourne viene hacia aquí?!"
+        },
+        {
+            "key": "002",
+            "value": "Así es, majestad."
+        },
+        {
+            "key": "003",
+            "value": "Parece que han enviado a Nitor, el segundo batallón."
+        },
+        {
+            "key": "004",
+            "value": "¿Qué estará tramando la sabandija de Rob?"
+        },
+        {
+            "key": "005",
+            "value": "Hourne es nuestro aliado, ¿no es así? Me parece normal que envíen refuerzos."
+        },
+        {
+            "key": "006",
+            "value": "…"
+        },
+        {
+            "key": "007",
+            "value": "¿Cuál es el problema?"
+        },
+        {
+            "key": "008",
+            "value": "Incluso si Wezette intenta reunir un ejército, con el apoyo de Hourne, no le quedará otra que morder el polvo."
+        },
+        {
+            "key": "009",
+            "value": "Silencio. Tú a tus cosas, esto no tiene nada que ver contigo."
+        },
+        {
+            "key": "010",
+            "value": "Ya lo entiendo."
+        },
+        {
+            "key": "011",
+            "value": "¿Cómo dices?"
+        },
+        {
+            "key": "012",
+            "value": "Vuestro verdadero objetivo es haceros con la reliquia ancestral. Vamos, negádmelo."
+        },
+        {
+            "key": "013",
+            "value": "…"
+        },
+        {
+            "key": "014",
+            "value": "Vaya, qué astuto."
+        },
+        {
+            "key": "015",
+            "value": "Pues, entonces, me parece que la escoria de Hourne está a punto de interponerse en nuestro camino."
+        }
+    ]
+}

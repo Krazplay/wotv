@@ -1,0 +1,108 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Schuzelt... ça va ?"
+        },
+        {
+            "key": "002",
+            "value": "Sterne... n'est plus un homme, mais un monstre !"
+        },
+        {
+            "key": "003",
+            "value": "Il me fait la même impression."
+        },
+        {
+            "key": "004",
+            "value": "Sire, vous avez vraiment l'intention de le combattre ?"
+        },
+        {
+            "key": "005",
+            "value": "Je n'ai pas d'autre choix. Je ne peux y échapper."
+        },
+        {
+            "key": "006",
+            "value": "Les troupes ont du mal à suivre."
+        },
+        {
+            "key": "007",
+            "value": "Je sais."
+        },
+        {
+            "key": "008",
+            "value": "Et puis... qu'arrivera-t-il si vous l'affrontez ici ?"
+        },
+        {
+            "key": "009",
+            "value": "Tu crois qu'on a plus de chances de battre en retraite ? Nous sommes encerclés. "
+        },
+        {
+            "key": "010",
+            "value": "Mais, Sire Eldo..."
+        },
+        {
+            "key": "011",
+            "value": "De plus, c'est ce combat qui tranchera lequel de mes fils fera perdurer la lignée des Leonis."
+        },
+        {
+            "key": "012",
+            "value": "Sire..."
+        },
+        {
+            "key": "013",
+            "value": "C'est cette bataille-là que tu comptes déserter, Lilyth ?"
+        },
+        {
+            "key": "014",
+            "value": "Très bien, je me battrai. Pour Leonis, j'offrirai ma vie avec joie."
+        },
+        {
+            "key": "015",
+            "value": "Je ne crains pas la mort. Je m'y suis fermement préparé."
+        },
+        {
+            "key": "016",
+            "value": "La suite... dépend de Mont."
+        },
+        {
+            "key": "017",
+            "value": "... "
+        },
+        {
+            "key": "018",
+            "value": "Lilyth..."
+        },
+        {
+            "key": "019",
+            "value": "Ma vie est vouée à vous faire monter sur le trône, Mont."
+        },
+        {
+            "key": "020",
+            "value": "Ramada... Pardon de te demander cela, mais pourrais-tu te joindre à nous ?"
+        },
+        {
+            "key": "021",
+            "value": "Ha ha ha. Cela va de soi."
+        },
+        {
+            "key": "022",
+            "value": "Être le témoin de la chute du royaume de Leonis, quel honneur !"
+        },
+        {
+            "key": "023",
+            "value": "Hé hé hé. Sterne... mon enfant."
+        },
+        {
+            "key": "024",
+            "value": "Je le sens, l'armure en or décuple ta haine et ton pouvoir !"
+        },
+        {
+            "key": "025",
+            "value": "C'est l'amure qui le rend si puissant ?!"
+        },
+        {
+            "key": "026",
+            "value": "Va, mon garçon. Écrase-les, pour la naissance d'une nouvelle ère !"
+        }
+    ]
+}

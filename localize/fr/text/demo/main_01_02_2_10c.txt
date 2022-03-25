@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Mont..."
+        },
+        {
+            "key": "002",
+            "value": "Ce drapeau !"
+        },
+        {
+            "key": "003",
+            "value": "C'est le drapeau de la force principale de Hourne... « Solidus » !"
+        },
+        {
+            "key": "004",
+            "value": "M-Mont !"
+        }
+    ]
+}

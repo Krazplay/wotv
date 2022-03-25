@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "002",
+            "value": "(¡¿Madre?!)"
+        },
+        {
+            "key": "003",
+            "value": "¿Qué pasa?"
+        },
+        {
+            "key": "004",
+            "value": "¿Deseando volver a casa?"
+        },
+        {
+            "key": "005",
+            "value": "Deseando matar a Elde, querréis decir."
+        },
+        {
+            "key": "006",
+            "value": "Je, je, je. ¡Me alegro de oírlo!"
+        },
+        {
+            "key": "007",
+            "value": "Sigamos, entonces."
+        }
+    ]
+}

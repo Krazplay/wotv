@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "256",
+            "value": "We enter the castle now. I suggest you be wary."
+        },
+        {
+            "key": "257",
+            "value": "Monsters seem to have found their way in under the shroud of the miasma."
+        },
+        {
+            "key": "258",
+            "value": "......"
+        },
+        {
+            "key": "259",
+            "value": "...What is that?"
+        },
+        {
+            "key": "260",
+            "value": "What do you intend for that enormous crystal?"
+        },
+        {
+            "key": "261",
+            "value": "We will syphon its magic and deliver it to the Sanctum."
+        },
+        {
+            "key": "262",
+            "value": "That is our mission here?"
+        },
+        {
+            "key": "263",
+            "value": "It is but one of our missions."
+        },
+        {
+            "key": "264",
+            "value": "......"
+        },
+        {
+            "key": "265",
+            "value": "Let us head to the castle."
+        },
+        {
+            "key": "266",
+            "value": "The dear place you were born and raised..."
+        }
+    ]
+}

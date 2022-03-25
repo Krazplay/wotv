@@ -1,0 +1,120 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Zacar!"
+        },
+        {
+            "key": "002",
+            "value": "Hay una carta para ti."
+        },
+        {
+            "key": "003",
+            "value": "¿Para mí?..."
+        },
+        {
+            "key": "004",
+            "value": "«Lleva contigo la espada más afilada forjada hasta ahora». Hmm..."
+        },
+        {
+            "key": "005",
+            "value": "¿Vas a irte?"
+        },
+        {
+            "key": "006",
+            "value": "Me imagino que un niño de tu edad no ha escuchado hablar del gran Harvas."
+        },
+        {
+            "key": "007",
+            "value": "Es uno de los mejores herreros en todo Ardra."
+        },
+        {
+            "key": "008",
+            "value": "¿Ese tal Harvas es tu maestro?"
+        },
+        {
+            "key": "009",
+            "value": "Así es."
+        },
+        {
+            "key": "010",
+            "value": "¡Guau!"
+        },
+        {
+            "key": "011",
+            "value": "Puede que no vuelva a venir por aquí."
+        },
+        {
+            "key": "012",
+            "value": "¿En serio?... Te echaré mucho de menos."
+        },
+        {
+            "key": "013",
+            "value": "Cuídate, chaval."
+        },
+        {
+            "key": "014",
+            "value": "¡Tú también, Zacar!"
+        },
+        {
+            "key": "015",
+            "value": "La carta mencionaba que el maestro vive escondido en el sur de Rundal."
+        },
+        {
+            "key": "016",
+            "value": "Lo que quiere decir... que debo seguir hacia el oeste por ahora."
+        },
+        {
+            "key": "017",
+            "value": "Ya han pasado dos años desde aquello..."
+        },
+        {
+            "key": "018",
+            "value": "No sabría decir si se me ha hecho largo o corto."
+        },
+        {
+            "key": "019",
+            "value": "Pero no importa..."
+        },
+        {
+            "key": "020",
+            "value": "Por aquel entonces me esforcé entrenando hasta el límite absoluto."
+        },
+        {
+            "key": "021",
+            "value": "Seguro que el maestro reconoce mis esfuerzos."
+        },
+        {
+            "key": "022",
+            "value": "¡¿Hm?!..."
+        },
+        {
+            "key": "023",
+            "value": "Si pensáis que no soy más que un simple herrero, estáis muy equivocados."
+        },
+        {
+            "key": "024",
+            "value": "Muy bien, ¡preparaos!"
+        },
+        {
+            "key": "025",
+            "value": "¡Déjame que te eche una mano!"
+        },
+        {
+            "key": "026",
+            "value": "¡...!"
+        },
+        {
+            "key": "027",
+            "value": "¡¿Lemuré?! ¿Qué estás haciendo aquí?"
+        },
+        {
+            "key": "028",
+            "value": "Podemos hablarlo más tarde."
+        },
+        {
+            "key": "029",
+            "value": "Entendido."
+        }
+    ]
+}

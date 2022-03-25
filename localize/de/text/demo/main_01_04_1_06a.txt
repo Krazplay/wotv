@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Euer Hoheit. Bitte geht nicht weiter in diese Richtung."
+        },
+        {
+            "key": "002",
+            "value": "Warum nicht?"
+        },
+        {
+            "key": "003",
+            "value": "Das hier ist doch der kürzere Weg nach Wezette, oder nicht?"
+        },
+        {
+            "key": "004",
+            "value": "Oh, ähm ... D-Das mag wohl sein ..."
+        },
+        {
+            "key": "005",
+            "value": "Was hast du, Minwu?"
+        },
+        {
+            "key": "006",
+            "value": "..."
+        },
+        {
+            "key": "007",
+            "value": "Antworte Seiner Majestät."
+        },
+        {
+            "key": "008",
+            "value": "Es mag zwar der kürzere Weg sein, aber in letzter Zeit treiben dort Horden wilder Monster ihr Unwesen."
+        },
+        {
+            "key": "009",
+            "value": "Da wir verfolgt werden, ging ich davon aus, dass die Route mit weniger Hindernissen für uns die bessere Wahl ist."
+        },
+        {
+            "key": "010",
+            "value": "Eine kluge Annahme."
+        },
+        {
+            "key": "011",
+            "value": "Wir werden Minwus Rat befolgen. Hast du dagegen etwas einzuwenden, Mont?"
+        },
+        {
+            "key": "012",
+            "value": "... Nein, Vater."
+        }
+    ]
+}

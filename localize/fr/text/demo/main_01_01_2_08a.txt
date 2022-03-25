@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Il fait déjà nuit..."
+        },
+        {
+            "key": "002",
+            "value": "Nous connaissons le terrain mieux que quiconque. Utilisons cet avantage."
+        },
+        {
+            "key": "003",
+            "value": "Mais... c'est inutile, prince Mont !"
+        },
+        {
+            "key": "004",
+            "value": "Les ennemis sont là !"
+        },
+        {
+            "key": "005",
+            "value": "Mont, utilisez le collier !"
+        },
+        {
+            "key": "006",
+            "value": "Oui."
+        },
+        {
+            "key": "007",
+            "value": "... Ah. Nous sommes arrivés juste à temps."
+        },
+        {
+            "key": "008",
+            "value": "Je retire ce que j'ai dit. Il semble que mon don pour cerner les gens soit un peu rouillé."
+        },
+        {
+            "key": "009",
+            "value": "Finalement, je tiens de mon père."
+        },
+        {
+            "key": "010",
+            "value": "Ne soyez pas trop dure avec vous-même."
+        },
+        {
+            "key": "011",
+            "value": "Est-ce que je suis en train de rêver ? Tu es du côté de Mont ?"
+        },
+        {
+            "key": "012",
+            "value": "À première vue, j'ai trouvé qu'il n'était qu'un prince gâté et bien trop faible."
+        },
+        {
+            "key": "013",
+            "value": "Cependant, il fait preuve de beaucoup de force et de courage."
+        },
+        {
+            "key": "014",
+            "value": "Je suis impressionné par la pureté de son cœur."
+        },
+        {
+            "key": "015",
+            "value": "C'est vrai."
+        },
+        {
+            "key": "016",
+            "value": "Cette lumière en lui... Elle pourrait aussi bien éclairer le monde que le condamner aux ténèbres..."
+        },
+        {
+            "key": "017",
+            "value": "J'espère voir ce que le destin réserve à Mont."
+        }
+    ]
+}

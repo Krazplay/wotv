@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "GL_BAN_REASON_1000",
+            "value": "Votre compte a été suspendu."
+        },
+        {
+            "key": "GL_BAN_REASON_2000",
+            "value": "Votre compte a été suspendu suite à la découverte de nombreuses demandes de remboursements injustifiées adressées aux différentes plateformes et boutiques d'applications. Cette décision est en adéquation avec les Conditions générales de service."
+        },
+        {
+            "key": "GL_BAN_REASON_3000",
+            "value": "Votre compte a été suspendu suite à la découverte d'au moins un des mauvais agissements listés ci-dessous de votre part.<br><br>- Transfert, prêt, échange ou vente de comptes<br>- Falsification des données de l'application pour prendre l'avantage dans le jeu<br>- Tout autre comportement qui irait à l'encontre des Conditions générales de service."
+        },
+        {
+            "key": "GL_BAN_REASON_4000",
+            "value": "Ce compte n'existe pas."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "…!"
+        },
+        {
+            "key": "002",
+            "value": "Was ist …?"
+        },
+        {
+            "key": "003",
+            "value": "Still … Da kommt jemand. "
+        },
+        {
+            "key": "004",
+            "value": "Ich kann nichts hören ... "
+        },
+        {
+            "key": "005",
+            "value": "Sie sind uns bestimmt nicht freundlich gesonnen, sonst würden sie sich nicht so anschleichen."
+        },
+        {
+            "key": "006",
+            "value": "Vielleicht Männer aus Fennes. Oder Ghalzark, oder ..."
+        },
+        {
+            "key": "007",
+            "value": "Egal. Wir müssen schnell und gnadenlos sein, verstanden?"
+        },
+        {
+            "key": "008",
+            "value": "... Ja."
+        }
+    ]
+}

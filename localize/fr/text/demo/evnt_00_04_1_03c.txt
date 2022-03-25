@@ -1,0 +1,160 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Skahal, comment vont tes blessures ?"
+        },
+        {
+            "key": "002",
+            "value": "Les médicaments ont stoppé l'hémorragie. Ça devrait aller…"
+        },
+        {
+            "key": "003",
+            "value": "Tu ferais mieux de rentrer au village et de te reposer..."
+        },
+        {
+            "key": "004",
+            "value": "Je suis désolé, Loreila…"
+        },
+        {
+            "key": "005",
+            "value": "Tu as fini par trahir Rundall à cause de moi…"
+        },
+        {
+            "key": "006",
+            "value": "Tu n'as pas besoin de t'excuser. Et puis..."
+        },
+        {
+            "key": "007",
+            "value": "Rundall n'a aucune raison valable d'envahir Ovis."
+        },
+        {
+            "key": "008",
+            "value": "Nous nous sommes alliés à Rundall pour le bien de mon clan, mais je ne le supporte plus…"
+        },
+        {
+            "key": "009",
+            "value": "L'issue de cette guerre s'est décidée au moment même où elle a commencé."
+        },
+        {
+            "key": "010",
+            "value": "Je sais."
+        },
+        {
+            "key": "011",
+            "value": "Mais il y a encore des gens de Gouga qui continuent de mépriser ceux de Saiga…"
+        },
+        {
+            "key": "012",
+            "value": "Il s'agit de Mariale."
+        },
+        {
+            "key": "013",
+            "value": "Elle pense que je lui ai volé la place de cheffe. Et…"
+        },
+        {
+            "key": "014",
+            "value": "Elle savait parfaitement que Saiga s'allierait à Ovis et a donc manœuvré pour soutenir Rundall."
+        },
+        {
+            "key": "015",
+            "value": "Oui..."
+        },
+        {
+            "key": "016",
+            "value": "Elle disait que nous devions nous rallier à Rundall afin de détruire Saiga."
+        },
+        {
+            "key": "017",
+            "value": "Malheureusement, je n'ai pas été en mesure de l'arrêter…"
+        },
+        {
+            "key": "018",
+            "value": "Mais si cette bataille prend fin…"
+        },
+        {
+            "key": "019",
+            "value": "Il y a fort à parier que tout le monde envisagera le futur de notre village plus posément."
+        },
+        {
+            "key": "020",
+            "value": "Une guerre entre shinobis ne nous apportera rien…"
+        },
+        {
+            "key": "021",
+            "value": "Et si jamais ils ne veulent pas entendre ce que tu as à leur dire ?"
+        },
+        {
+            "key": "022",
+            "value": "Eh bien..."
+        },
+        {
+            "key": "023",
+            "value": "Quitteras-tu Gouga pour rejoindre Saiga ?"
+        },
+        {
+            "key": "024",
+            "value": "Comment ?"
+        },
+        {
+            "key": "025",
+            "value": "Tu sauras facilement t'y faire une place."
+        },
+        {
+            "key": "026",
+            "value": "D'ailleurs, je trouve que Saiga te sied bien mieux que Gouga."
+        },
+        {
+            "key": "027",
+            "value": "Merci, Skahal."
+        },
+        {
+            "key": "028",
+            "value": "Mais je compte bien faire tout ce qui est en mon pouvoir pour convaincre Gouga."
+        },
+        {
+            "key": "029",
+            "value": "Il s'agit de mon clan après tout."
+        },
+        {
+            "key": "030",
+            "value": "Je te comprends."
+        },
+        {
+            "key": "031",
+            "value": "J'aimerais tant que nous puissions rester ainsi pour toujours."
+        },
+        {
+            "key": "032",
+            "value": "Moi aussi…"
+        },
+        {
+            "key": "033",
+            "value": "Mais je dois y aller, sinon ils vont commencer à s'inquiéter."
+        },
+        {
+            "key": "034",
+            "value": "Tu penses pouvoir rentrer jusqu'à Saiga sans escorte ?"
+        },
+        {
+            "key": "035",
+            "value": "Oui, n'aie crainte."
+        },
+        {
+            "key": "036",
+            "value": "Tes blessures sont encore fraîches, fais attention…"
+        },
+        {
+            "key": "037",
+            "value": "Inutile de t'inquiéter. J'emprunterai une route secrète qui me permettra de prendre tout mon temps."
+        },
+        {
+            "key": "038",
+            "value": "Jusqu'à ce que nos chemins se croisent de nouveau…"
+        },
+        {
+            "key": "039",
+            "value": "Oui. Prends soin de toi, Loreila."
+        }
+    ]
+}

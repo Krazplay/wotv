@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ahora nos toca hablar de los <color=#0000ff>estados alterados</color>."
+        },
+        {
+            "key": "//変更なし、誤字のみなおし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Si os lanzan algún hechizo como Bio o Morfeo, podríais sufrir algún estado alterado como <color=#0000ff>veneno</color> o <color=#0000ff>sueño</color>."
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Si os infligieran alguno de estos efectos, os encontraríais en <color=#0000ff>desventaja</color>, porque iríais sufriendo cierta cantidad de daño poco a poco o no podríais realizar ninguna acción durante cierto tiempo."
+        },
+        {
+            "key": "004",
+            "value": "Sin embargo, estos estados se pueden curar con la ayuda de <color=#0000ff>objetos</color> como antídotos o con el hechizo de magia blanca <color=#0000ff>Esna</color>."
+        },
+        {
+            "key": "005",
+            "value": "Además, se pueden prevenir los estados alterados con <color=#0000ff>Guardia calamitosa</color>, una habilidad de clérigo."
+        },
+        {
+            "key": "006",
+            "value": "El enemigo que tenéis delante infligirá estados alterados con frecuencia, así que aprovechad al máximo la habilidad de lady Machérie durante el combate."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "¡Buen trabajo! ¡La victoria es nuestra!"
+        },
+        {
+            "key": "008",
+            "value": "Si no le prestáis atención a los estados alterados, podríais perder la batalla. Por tanto, intentad tomar siempre las medidas más efectivas contra ellos."
+        }
+    ]
+}

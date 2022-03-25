@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vinera, ¿me acompañas afuera?"
+        },
+        {
+            "key": "002",
+            "value": "N-no podemos salir de aquí, Darío."
+        },
+        {
+            "key": "003",
+            "value": "Vi-vinera tiene razón."
+        },
+        {
+            "key": "004",
+            "value": "No quiero seguir aquí ni un segundo más."
+        },
+        {
+            "key": "005",
+            "value": "Este castillo no ha sido más que una prisión para mí."
+        },
+        {
+            "key": "006",
+            "value": "Te lo ruego, Vinera. Apresúrate."
+        },
+        {
+            "key": "007",
+            "value": "De acuerdo."
+        },
+        {
+            "key": "008",
+            "value": "Pe-pero si acabamos de decir que no podemos salir de aquí."
+        },
+        {
+            "key": "009",
+            "value": "Parece que hemos acabado con la mayoría de los enemigos, pero es más seguro que permanezcamos en el castillo."
+        },
+        {
+            "key": "010",
+            "value": "Si salimos, no sabemos desde dónde podría venir el ataque.  "
+        },
+        {
+            "key": "011",
+            "value": "Perdóname, Tyrell. Cúbrenos, por favor."
+        },
+        {
+            "key": "012",
+            "value": "D-de acuerdo."
+        },
+        {
+            "key": "013",
+            "value": "Me pregunto qué estará haciendo Machérie."
+        },
+        {
+            "key": "014",
+            "value": "…"
+        },
+        {
+            "key": "015",
+            "value": "Lo más probable es que esté con el rey Muraga y se hayan casado."
+        },
+        {
+            "key": "016",
+            "value": "Estuvo llorando tres días enteros cuando le anunciaron que tendría que casarse con él."
+        },
+        {
+            "key": "017",
+            "value": "Machérie, con lo valiente y dura que es…, llorando."
+        },
+        {
+            "key": "018",
+            "value": "Se me parte el corazón de tan solo pensarlo."
+        },
+        {
+            "key": "019",
+            "value": "Porque, en parte, yo tengo culpa."
+        },
+        {
+            "key": "020",
+            "value": "¿Y eso por qué?"
+        },
+        {
+            "key": "021",
+            "value": "¿Sabes por qué motivo quiso mi padre establecer una alianza con Fennes?"
+        },
+        {
+            "key": "022",
+            "value": "¿Por la amenaza que Rundal suponía en el oeste?"
+        },
+        {
+            "key": "023",
+            "value": "Sí, en parte, pero…"
+        },
+        {
+            "key": "024",
+            "value": "Mi negativa constante a poner un pie en el campo de batalla fue también un factor importante."
+        },
+        {
+            "key": "025",
+            "value": "Por eso…"
+        },
+        {
+            "key": "026",
+            "value": "Lo siento mucho, Machérie. Por favor, perdona al cobarde de tu hermano."
+        },
+        {
+            "key": "027",
+            "value": "No, Darío. Yo también he cometido errores."
+        },
+        {
+            "key": "028",
+            "value": "Si no hubiera esperado tanto para decirte que no era la hija de Muraga, quizá…"
+        },
+        {
+            "key": "029",
+            "value": "Je, je, je. ¡No tenéis escapatoria!"
+        },
+        {
+            "key": "030",
+            "value": "¡Darío poco os va a poder ayudar ahora!"
+        },
+        {
+            "key": "031",
+            "value": "¡Estáis perdidos, panda de traidores!"
+        }
+    ]
+}

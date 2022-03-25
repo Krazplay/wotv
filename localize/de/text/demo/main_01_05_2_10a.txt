@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "K-Kiton!"
+        },
+        {
+            "key": "002",
+            "value": "Urgh! Gngh ..."
+        },
+        {
+            "key": "003",
+            "value": "Aber, aber! Was ist denn mit eurem Kampfgeist passiert, hm?"
+        },
+        {
+            "key": "004",
+            "value": "Tut es weh? Es tut weh, nicht? Och, du musst dich nicht schämen, Kleine! Lass deinen Tränen freien Lauf!"
+        },
+        {
+            "key": "005",
+            "value": "I-Ihr dreckigen Hunde!"
+        },
+        {
+            "key": "006",
+            "value": "Kiton! Beruhig dich."
+        },
+        {
+            "key": "007",
+            "value": "Bruderherz ..."
+        },
+        {
+            "key": "008",
+            "value": "Sag nichts. Du musst sie nicht noch zusätzlich motivieren."
+        },
+        {
+            "key": "009",
+            "value": "Ach, du denkst, dass ich mich beschweren will?"
+        },
+        {
+            "key": "010",
+            "value": "Wieso, willst du das nicht?"
+        },
+        {
+            "key": "011",
+            "value": "Hey, ich wollte nur um Erlaubnis fragen, nicht mehr. Also – darf ich sie umbringen? Bitte, bitte, bitte!"
+        },
+        {
+            "key": "012",
+            "value": "... Na gut. Aber nicht leichtsinnig werden, hörst du?"
+        },
+        {
+            "key": "013",
+            "value": "Oha! Soll das heißen, dass ihr uns jetzt zeigt, aus welchem Holz ihr wirklich geschnitzt seid?"
+        },
+        {
+            "key": "014",
+            "value": "Tja, Brüderchen. Dann sollten wir ihnen den gleichen Gefallen tun, oder?"
+        },
+        {
+            "key": "015",
+            "value": "Stimmt, warum nicht?"
+        },
+        {
+            "key": "016",
+            "value": "Kommt raus!"
+        },
+        {
+            "key": "017",
+            "value": "Verdammt ... Wie viele von denen gibt es denn noch?!"
+        },
+        {
+            "key": "018",
+            "value": "Tut uns leid, Kleine, aber wir haben kein Interesse an Schwächlingen."
+        },
+        {
+            "key": "019",
+            "value": "Machen wir es so – schafft ihr es, die da zu erledigen, darfst du dich an uns versuchen, okay? Obwohl du dir die Radieschen eh gleich von unten ansehen wirst!"
+        }
+    ]
+}

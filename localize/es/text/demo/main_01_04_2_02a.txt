@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "No sois ni de Gouga ni de Saiga…"
+        },
+        {
+            "key": "002",
+            "value": "No sois más que soldados de Fennes jugando a ser ninjas…"
+        },
+        {
+            "key": "003",
+            "value": "¡Ca-cállate!"
+        },
+        {
+            "key": "004",
+            "value": "Parece que seguís sin entenderlo."
+        },
+        {
+            "key": "005",
+            "value": "No me va a derrotar ningún intento de ninja, por muchos que seáis."
+        },
+        {
+            "key": "006",
+            "value": "Y qué pasa si te derrotamos, ¿eh?"
+        },
+        {
+            "key": "007",
+            "value": "En tal caso reconoceré que Fennes alberga la tercera gran aldea de ninjas."
+        },
+        {
+            "key": "008",
+            "value": "¿Nos das tu palabra?"
+        },
+        {
+            "key": "009",
+            "value": "Ponedme a prueba."
+        },
+        {
+            "key": "010",
+            "value": "…"
+        },
+        {
+            "key": "011",
+            "value": "¿Qué ocurre? ¿Ahora os van a entrar las dudas?"
+        },
+        {
+            "key": "012",
+            "value": "¡Entonces empezaré yo!"
+        }
+    ]
+}

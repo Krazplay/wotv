@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... Hui. Damit hätten wir das auch erledigt."
+        },
+        {
+            "key": "002",
+            "value": "Wir haben den Codex."
+        },
+        {
+            "key": "003",
+            "value": "Hmm. ... Und jetzt?"
+        },
+        {
+            "key": "004",
+            "value": "Wir brechen nach Wezette auf."
+        },
+        {
+            "key": "005",
+            "value": "Noch ein Auftrag von der Königin?"
+        },
+        {
+            "key": "006",
+            "value": "Ja."
+        },
+        {
+            "key": "007",
+            "value": "Okay. Dann begleite ich euch bis zum Hinterausgang."
+        }
+    ]
+}

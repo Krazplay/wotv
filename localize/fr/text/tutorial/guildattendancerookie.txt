@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "TALK_001",
+            "value": "Voici quelques informations qui pourraient s'avérer utiles pour votre guilde. Veuillez les utiliser comme suit."
+        },
+        {
+            "key": "TALK_002",
+            "value": "Si vous appréciez une guilde en particulier pendant votre période d'essai, nous vous encourageons vivement à la rejoindre en tant que membre officiel."
+        },
+        {
+            "key": "TALK_003",
+            "value": "Les entraînements aux combats de guilde vous permettent de vous entraîner contre les autres membres de votre guilde autant de fois que vous le souhaitez, nous espérons que vous en profiterez."
+        },
+        {
+            "key": "DIALOG_001_T",
+            "value": "• Période d'essai dans une guilde •"
+        },
+        {
+            "key": "DIALOG_001_M",
+            "value": "• Période d'essai dans une guilde •<br>Quand vous essayez une guilde, vous pouvez utiliser ses fonctionnalités pendant <color=#00ffff>sept jours</color><br>."
+        },
+        {
+            "key": "DIALOG_002_T",
+            "value": "• Participation •"
+        },
+        {
+            "key": "DIALOG_002_M",
+            "value": "• Participation •<br>Vous voyez ici quels membres sont actifs. Les membres d'une guilde reçoivent des récompenses <color=#00ffff>en fonction du nombre de joueurs actifs et du niveau de vos statues de guilde</color>."
+        },
+        {
+            "key": "DIALOG_003_T",
+            "value": "• Cadeaux •"
+        },
+        {
+            "key": "DIALOG_003_M",
+            "value": "• Cadeaux •<br><color=#00ffff>Vous pouvez envoyer des cadeaux</color> aux membres de votre guilde."
+        },
+        {
+            "key": "DIALOG_004_T",
+            "value": "• Sanctuaire •"
+        },
+        {
+            "key": "DIALOG_004_M",
+            "value": "• Statues de guilde •<br>Améliorer vos statues de guilde vous permet d'obtenir des <color=#00ffff>bonus de caractéristiques</color>."
+        },
+        {
+            "key": "DIALOG_005_T",
+            "value": "• Quêtes de guilde •"
+        },
+        {
+            "key": "DIALOG_005_M",
+            "value": "• Quêtes de guilde •<br>Vous pouvez <color=#00ffff>obtenir des récompenses</color> et <color=#00ffff>ainsi contribuer au quotidien de votre guilde</color> en participant aux quêtes de guilde quotidiennes."
+        },
+        {
+            "key": "DIALOG_006_T",
+            "value": "• Caserne •"
+        },
+        {
+            "key": "DIALOG_006_M",
+            "value": "• Caserne •<br>Fournir des vivres à vos unités vous permet d'obtenir des PJ ou des fragments d'unité."
+        },
+        {
+            "key": "DIALOG_007_T",
+            "value": "• Combats de guilde •"
+        },
+        {
+            "key": "DIALOG_007_M",
+            "value": "• Combats de guilde •<br>Vous <color=#00ffff>ne pouvez pas prendre part</color> aux combats de guilde lorsque vous être en période d'essai. Cependant, vous pouvez participer aux <color=#00ffff>entraînements de combat de guilde</color> en dehors de la période des combats de guilde."
+        },
+        {
+            "key": "SKIP_TITLE",
+            "value": "• Les guildes •"
+        },
+        {
+            "key": "SKIP_MSG",
+            "value": "Voulez-vous lancer le tutoriel sur les guildes ?"
+        },
+        {
+            "key": "SKIP_YES",
+            "value": "Oui"
+        },
+        {
+            "key": "SKIP_NO",
+            "value": "Non"
+        }
+    ]
+}

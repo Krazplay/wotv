@@ -1,0 +1,384 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Reina Helena! ¡Estabais aquí!"
+        },
+        {
+            "key": "002",
+            "value": "Ildira..."
+        },
+        {
+            "key": "003",
+            "value": "Majestad, ¡apartad!"
+        },
+        {
+            "key": "004",
+            "value": "¡Echaremos abajo la puerta con nuestra magia!"
+        },
+        {
+            "key": "005",
+            "value": "¡Maldición! ¡No funciona!"
+        },
+        {
+            "key": "006",
+            "value": "Ni se ha movido... No puede ser..."
+        },
+        {
+            "key": "007",
+            "value": "Este lugar cumple su función de encerrar a criminales. No la abriremos tan fácilmente."
+        },
+        {
+            "key": "008",
+            "value": "Aun así, no nos rendiremos. Debemos derribar esta puerta cueste lo que cueste."
+        },
+        {
+            "key": "009",
+            "value": "No, es imposible. Os ruego que abandonéis."
+        },
+        {
+            "key": "010",
+            "value": "No podemos hacer eso, majestad. Para eso somos Lumen, vuestra guardia personal."
+        },
+        {
+            "key": "011",
+            "value": "Hay algo más importante que debéis hacer."
+        },
+        {
+            "key": "012",
+            "value": "No os referís a que sigamos al rey Elde, ¿verdad, majestad?"
+        },
+        {
+            "key": "013",
+            "value": "Un momento, Ildira. ¿Seguir... al rey Elde, dices?"
+        },
+        {
+            "key": "014",
+            "value": "Así es..."
+        },
+        {
+            "key": "015",
+            "value": "¿De qué estás hablando?"
+        },
+        {
+            "key": "016",
+            "value": "No me digas que el rey Elde ya no se encuentra en el castillo..."
+        },
+        {
+            "key": "017",
+            "value": "Perdonad mi silencio."
+        },
+        {
+            "key": "018",
+            "value": "No hace mucho que el rey Elde y lord Mont escaparon por la puerta trasera del castillo."
+        },
+        {
+            "key": "019",
+            "value": "E... Eso no es posible."
+        },
+        {
+            "key": "020",
+            "value": "¿Se han largado dejando a la reina Helena aquí?"
+        },
+        {
+            "key": "021",
+            "value": "No me dejaron aquí. Yo decidí quedarme."
+        },
+        {
+            "key": "022",
+            "value": "Y no solo yo. Fortem también se encuentra en el castillo."
+        },
+        {
+            "key": "023",
+            "value": "¿No es solo para que el rey Elde pueda escapar?"
+        },
+        {
+            "key": "024",
+            "value": "Sylma, cuidado con tus palabras."
+        },
+        {
+            "key": "025",
+            "value": "Oh... Lo... Lo siento."
+        },
+        {
+            "key": "026",
+            "value": "Si mi pueblo piensa así, entonces es seguro decir que la estrategia del rey fue un éxito."
+        },
+        {
+            "key": "027",
+            "value": "¿La estrategia del rey?..."
+        },
+        {
+            "key": "028",
+            "value": "El rey y Mont se sumieron en el infierno de la batalla para que Stern y yo nos salvásemos."
+        },
+        {
+            "key": "029",
+            "value": "¿Qué queréis decir?"
+        },
+        {
+            "key": "030",
+            "value": "Qu... ¡¿Queréis decir que Wezette podría... traicionarnos?!"
+        },
+        {
+            "key": "031",
+            "value": "Creo que es más que probable."
+        },
+        {
+            "key": "032",
+            "value": "De ahí que el rey pusiese a lord Mont y lord Stern en caminos diferentes..."
+        },
+        {
+            "key": "033",
+            "value": "Pero puede que Leonis y Wezette sigan aliados como siempre han hecho..."
+        },
+        {
+            "key": "034",
+            "value": "Sí, eso es también posible, pero..."
+        },
+        {
+            "key": "035",
+            "value": "El rey considera que ceñirse solo a esa posibilidad puede ser arriesgado."
+        },
+        {
+            "key": "036",
+            "value": "¿Y qué necesidad hay de dividir a la familia Leonis en dos?"
+        },
+        {
+            "key": "037",
+            "value": "Es como si no le importase siempre que uno de ellos sobreviva..."
+        },
+        {
+            "key": "038",
+            "value": "El rey... está preparado para morir a manos de Stern. No, no solo el rey, me temo que Mont también..."
+        },
+        {
+            "key": "039",
+            "value": "No..."
+        },
+        {
+            "key": "040",
+            "value": "En ese caso, Stern sobrevivirá como peón de Sadali."
+        },
+        {
+            "key": "041",
+            "value": "Es lo que probablemente pase si consigue hacerse con el anillo de Mont..."
+        },
+        {
+            "key": "042",
+            "value": "..."
+        },
+        {
+            "key": "043",
+            "value": "El rey ya predijo que esto pasaría."
+        },
+        {
+            "key": "044",
+            "value": "Es por eso que mantuvo a Stern fuera del campo de batalla para no enfurecer a las naciones cercanas."
+        },
+        {
+            "key": "045",
+            "value": "Aun así, debemos ir..."
+        },
+        {
+            "key": "046",
+            "value": "Como guardián del reino de Leonis..."
+        },
+        {
+            "key": "047",
+            "value": "¿Guardián?... ¿Qué queréis decir con eso?"
+        },
+        {
+            "key": "048",
+            "value": "Debo encomendaros una tarea a todos."
+        },
+        {
+            "key": "049",
+            "value": "Id al archivo y quemad el libro antiguo de Leonis."
+        },
+        {
+            "key": "050",
+            "value": "¿Libro antiguo?..."
+        },
+        {
+            "key": "051",
+            "value": "Un texto al que incluso yo solo tenía acceso a ciertas partes."
+        },
+        {
+            "key": "052",
+            "value": "En sus páginas se encuentra información sobre el acuerdo con la deidad y el lugar secreto donde se esconden las reliquias ancestrales."
+        },
+        {
+            "key": "053",
+            "value": "¡¿El acuerdo con... la deidad?!"
+        },
+        {
+            "key": "054",
+            "value": "¿Eso significa que aún existen otras reliquias ancestrales?"
+        },
+        {
+            "key": "055",
+            "value": "Si ese libro acaba en manos de Sadali..., se hará con un poder aún mayor al de la deidad. "
+        },
+        {
+            "key": "056",
+            "value": "Por eso debemos destruir ese libro antes de que sea demasiado tarde..."
+        },
+        {
+            "key": "057",
+            "value": "..."
+        },
+        {
+            "key": "058",
+            "value": "Lo siento, majestad, pero no puedo hacer esto."
+        },
+        {
+            "key": "059",
+            "value": "Ildira... ¿Por qué...?"
+        },
+        {
+            "key": "060",
+            "value": "¿Acaso ese libro no es la clave para reconstruir Leonis?"
+        },
+        {
+            "key": "061",
+            "value": "¿La clave para reconstruir Leonis?"
+        },
+        {
+            "key": "062",
+            "value": "El rey Elde debe estar de camino a Wezette mientras hablamos, pero si de alguna forma pudiésemos llevarle ese libro..."
+        },
+        {
+            "key": "063",
+            "value": "¿Podría eso asegurar que el rey Kuri no se alejase de Leonis?"
+        },
+        {
+            "key": "064",
+            "value": "Así es. De todas formas, aún hay muchas reliquias ancestrales por descubrir en Leonis."
+        },
+        {
+            "key": "065",
+            "value": "Pero puede que esto no se ciña al plan del rey Elde…"
+        },
+        {
+            "key": "066",
+            "value": "No tenemos otra forma de salvar al rey Elde y a lord Mont..."
+        },
+        {
+            "key": "067",
+            "value": "..."
+        },
+        {
+            "key": "068",
+            "value": "¡Reina Helena, os lo ruego!"
+        },
+        {
+            "key": "069",
+            "value": "Yo tampoco puedo abandonar a Mont a su suerte."
+        },
+        {
+            "key": "070",
+            "value": "Incluso si la guerra se prolonga..., debo resistir, como madre que soy..."
+        },
+        {
+            "key": "071",
+            "value": "Ildira, ¿puedo contar contigo?"
+        },
+        {
+            "key": "072",
+            "value": "Claro que sí, majestad."
+        },
+        {
+            "key": "073",
+            "value": "¿Estás totalmente segura? Puede que sea una tarea ardua en la que se presenten numerosas dificultades..."
+        },
+        {
+            "key": "074",
+            "value": "Somos Lumen, vuestra guardia personal."
+        },
+        {
+            "key": "075",
+            "value": "Estamos más que preparados para arriesgar nuestra vida por la vuestra."
+        },
+        {
+            "key": "076",
+            "value": "Pero... si Wezette nos traiciona antes de que podamos entregar el libro antiguo..."
+        },
+        {
+            "key": "077",
+            "value": "Entonces no tenéis otra que hacerlo cenizas... ¿Entendido?"
+        },
+        {
+            "key": "078",
+            "value": "Sí. Entendido."
+        },
+        {
+            "key": "079",
+            "value": "Esta es la llave del archivo."
+        },
+        {
+            "key": "080",
+            "value": "¿No podemos liberaros de vuestra celda primero e ir juntos al archivo?"
+        },
+        {
+            "key": "081",
+            "value": "Me temo que no podéis."
+        },
+        {
+            "key": "082",
+            "value": "¿Por qué, majestad?"
+        },
+        {
+            "key": "083",
+            "value": "Parece que Stern y los demás de Fortem están siendo interrogados en otro lugar."
+        },
+        {
+            "key": "084",
+            "value": "¿Cómo se supone que voy a abandonar a mis hijos de esa forma?"
+        },
+        {
+            "key": "085",
+            "value": "E-esto..."
+        },
+        {
+            "key": "086",
+            "value": "Soy prisionera por voluntad propia."
+        },
+        {
+            "key": "087",
+            "value": "..."
+        },
+        {
+            "key": "088",
+            "value": "No debéis preocuparos por mí. Soy más útil viva que muerta."
+        },
+        {
+            "key": "089",
+            "value": "Ni siquiera Muraga es tan estúpido como para no saberlo."
+        },
+        {
+            "key": "090",
+            "value": "Como gustéis, majestad..."
+        },
+        {
+            "key": "091",
+            "value": "El castillo ahora está lleno de soldados de Fennes."
+        },
+        {
+            "key": "092",
+            "value": "Daos prisa y dirigíos a los aposentos de Elsirel."
+        },
+        {
+            "key": "093",
+            "value": "¿Elsirel? Seguro que ella también se ha largado en medio del caos..."
+        },
+        {
+            "key": "094",
+            "value": "No, debe de estar en sus aposentos. Con su ayuda, no tendréis problemas en llegar al archivo."
+        },
+        {
+            "key": "095",
+            "value": "Muy bien... Pues vayamos a por ella."
+        }
+    ]
+}

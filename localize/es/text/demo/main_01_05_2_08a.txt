@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bip, bip, bip…"
+        },
+        {
+            "key": "002",
+            "value": "¿…?"
+        },
+        {
+            "key": "003",
+            "value": "Vaya, un informe del espía del ejército de Elde."
+        },
+        {
+            "key": "004",
+            "value": "¿Qué pasa?"
+        },
+        {
+            "key": "005",
+            "value": "…"
+        },
+        {
+            "key": "006",
+            "value": "Entendido. Llegaremos pronto."
+        },
+        {
+            "key": "007",
+            "value": "¿Qué ha dicho?"
+        },
+        {
+            "key": "008",
+            "value": "Que por fin los vamos a alcanzar en el bosque que hay más adelante."
+        },
+        {
+            "key": "009",
+            "value": "…"
+        },
+        {
+            "key": "010",
+            "value": "Esas sabandijas están escondidas en el bosque y planean tendernos una emboscada."
+        },
+        {
+            "key": "011",
+            "value": "¿Y eso qué tiene que ver?"
+        },
+        {
+            "key": "012",
+            "value": "Eso no es todo: Elde tiene una herida bastante grave."
+        },
+        {
+            "key": "013",
+            "value": "¡¿Que está herido?! ¡¿Qué le ha pasado?!"
+        },
+        {
+            "key": "014",
+            "value": "Yo… y solo yo seré el que acabe con su vida. ¡Elde es mío!"
+        },
+        {
+            "key": "015",
+            "value": "No te preocupes. Nadie le va a poner la mano encima."
+        },
+        {
+            "key": "016",
+            "value": "…"
+        },
+        {
+            "key": "017",
+            "value": "Je, je, je. Cuánto odio."
+        },
+        {
+            "key": "018",
+            "value": "¡En marcha! ¡Hoy llega a su fin el linaje de Leonis!"
+        }
+    ]
+}

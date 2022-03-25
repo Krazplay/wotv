@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Conque este es el castillo de Wezette…"
+        },
+        {
+            "key": "002",
+            "value": "Aunque aquí no se ve ni un alma…"
+        },
+        {
+            "key": "003",
+            "value": "¿No hay nadie para darnos la bienvenida? Espera, Mont. Presiento que hay algún peligro cerca."
+        },
+        {
+            "key": "004",
+            "value": "¡¿Estamos rodeados?!"
+        },
+        {
+            "key": "005",
+            "value": "¿Qué hacemos? ¿Qué hacemos?"
+        },
+        {
+            "key": "006",
+            "value": "Comandante Serjes…"
+        },
+        {
+            "key": "007",
+            "value": "Todos atrás."
+        },
+        {
+            "key": "008",
+            "value": "Po-por favor, dejadme que yo me encargue de esto, milord."
+        },
+        {
+            "key": "009",
+            "value": "No desenvainéis ninguna espada."
+        },
+        {
+            "key": "010",
+            "value": "Dejad claro a todo el mundo que Leonis se ha rendido ante Wezette."
+        },
+        {
+            "key": "011",
+            "value": "Me imagino que no pasaréis por las armas a aquellos que ya se han rendido…"
+        },
+        {
+            "key": "012",
+            "value": "Nosotros solo obedecemos las órdenes de nuestro rey."
+        },
+        {
+            "key": "013",
+            "value": "Aj…"
+        },
+        {
+            "key": "014",
+            "value": "Hazte a un lado, Serjes."
+        },
+        {
+            "key": "015",
+            "value": "Pe-pero…"
+        },
+        {
+            "key": "016",
+            "value": "No pasa nada. Estoy seguro de que el rey Kuri será razonable."
+        },
+        {
+            "key": "017",
+            "value": "Igual que lo fuiste tú cuando nos ganamos tu confianza."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Le château est toujours hors de vue..."
+        },
+        {
+            "key": "002",
+            "value": "Pour l'instant."
+        },
+        {
+            "key": "003",
+            "value": "Les blessures d'Eldo semblent plus profondes que je le croyais."
+        },
+        {
+            "key": "004",
+            "value": "En effet."
+        },
+        {
+            "key": "005",
+            "value": "Nous devons nous dépêcher. Il a besoin de soins."
+        },
+        {
+            "key": "006",
+            "value": "Oui, hâtons-nous."
+        }
+    ]
+}

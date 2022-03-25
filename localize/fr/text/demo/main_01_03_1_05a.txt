@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "..."
+        },
+        {
+            "key": "002",
+            "value": "Quel est le problème ?"
+        },
+        {
+            "key": "003",
+            "value": "Vous souffrez encore de vos blessures ?"
+        },
+        {
+            "key": "004",
+            "value": "Non, ce n'est pas cela."
+        },
+        {
+            "key": "005",
+            "value": "Il vaudrait mieux que je ne me rende pas à Wezett."
+        },
+        {
+            "key": "006",
+            "value": "Il n'y a aucune crainte à avoir."
+        },
+        {
+            "key": "007",
+            "value": "Mais… Ils vont sûrement penser que je suis un espion à la solde de Hourne."
+        },
+        {
+            "key": "008",
+            "value": "Ce serait une source d'ennui pour vous, roi Eldo."
+        },
+        {
+            "key": "009",
+            "value": "Ne vous en faites pas. Il en faut plus pour que je perde la face."
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "Bien au contraire, ils pourraient chercher à faire de vous leur vassal."
+        },
+        {
+            "key": "012",
+            "value": "Moi… Un vassal aux ordres du roi Khory de Wezett ?"
+        },
+        {
+            "key": "013",
+            "value": "C'est une possibilité."
+        },
+        {
+            "key": "014",
+            "value": "Cela fait des générations que le roi de Wezett n'a pas eu de général digne de ce nom."
+        },
+        {
+            "key": "015",
+            "value": "Vous êtes le Champion téméraire de « Solidus » après tout, ce titre inciterait n'importe qui à tenter désespérément de vous mettre dans sa poche."
+        },
+        {
+            "key": "016",
+            "value": "Vraiment ? Je trouve cela difficile à…"
+        },
+        {
+            "key": "017",
+            "value": "Ce n'est pas une blague. Tôt ou tard, il se pourrait même que vous héritiez du trône de Wezett."
+        },
+        {
+            "key": "018",
+            "value": "Moi... Roi de Wezett ?!"
+        },
+        {
+            "key": "019",
+            "value": "Ah, pardonnez-moi. Vous venez de perdre votre fiancée."
+        }
+    ]
+}

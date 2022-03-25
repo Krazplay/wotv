@@ -1,0 +1,176 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Wie bitte? Wir wissen immer noch nicht, wo sich die leonischen Truppen aufhalten?!"
+        },
+        {
+            "key": "002",
+            "value": "Wie ist so etwas überhaupt möglich?"
+        },
+        {
+            "key": "003",
+            "value": "Ich bitte demütigst um Verzeihung."
+        },
+        {
+            "key": "004",
+            "value": "Wir haben von mehreren Aussichtspunkten aus die Überlandstraße nach Leonis überwacht, bekamen jedoch nicht einen einzigen leonischen Soldaten zu Gesicht."
+        },
+        {
+            "key": "005",
+            "value": "Es stellt sich die Frage, ob sie wirklich auf dem Weg nach Wezette sind."
+        },
+        {
+            "key": "006",
+            "value": "Nein, daran besteht kein Zweifel. Allerdings ..."
+        },
+        {
+            "key": "007",
+            "value": "Hm?!"
+        },
+        {
+            "key": "008",
+            "value": "Yrde und seine Gefolgschaft wurden gesichtet!"
+        },
+        {
+            "key": "009",
+            "value": "Endlich! Wo war das?"
+        },
+        {
+            "key": "010",
+            "value": "Nun ja ... Sie wurden auf einem Wildwechsel gesehen, der nur in der Gegend Ansässigen bekannt sein dürfte."
+        },
+        {
+            "key": "011",
+            "value": "Du willst also sagen, dass jemand Ortskundiges ihnen als Führer dient?"
+        },
+        {
+            "key": "012",
+            "value": "Also, ähm ..."
+        },
+        {
+            "key": "013",
+            "value": "Komm schon. Raus damit!"
+        },
+        {
+            "key": "014",
+            "value": "Wir sind uns nicht vollkommen sicher, aber ... wir gehen davon aus, dass es sich dabei um Minwu handelt."
+        },
+        {
+            "key": "015",
+            "value": "Minwu hilft ihnen?! Aber warum?!"
+        },
+        {
+            "key": "016",
+            "value": "Jetzt, wo ich darüber nachdenke ... Ich habe Minwu schon eine ganze Weile nicht mehr gesehen."
+        },
+        {
+            "key": "017",
+            "value": "Hast du das denn nicht mitbekommen? Minwu wird als Vaterlandsverräterin verfolgt."
+        },
+        {
+            "key": "018",
+            "value": "Eine Vaterlandsverräterin?! Wirklich?"
+        },
+        {
+            "key": "019",
+            "value": "Ja, die Gerüchte habe ich auch gehört."
+        },
+        {
+            "key": "020",
+            "value": "Anscheinend hat sie ihre magischen Kräfte außer Kontrolle geraten lassen und das Institut für Arkane Forschungen in Schutt und Asche gelegt."
+        },
+        {
+            "key": "021",
+            "value": "Aus welchem Grund würde sie so etwas Schreckliches tun?"
+        },
+        {
+            "key": "022",
+            "value": "Es heißt, sie habe versucht, einen vergessen geglaubten Zauber aus uralten Zeiten zu wirken."
+        },
+        {
+            "key": "023",
+            "value": "Man nahm an, dass sie in Folge aus Wezette geflohen sei ... Was kann sie nur dazu bewegt haben, Leonis zu helfen?"
+        },
+        {
+            "key": "024",
+            "value": "An dieser ganzen Sache kommt mir einiges komisch vor."
+        },
+        {
+            "key": "025",
+            "value": "Mir auch. Sollten wir nicht einstweilen ins Schloss zurückkehren?"
+        },
+        {
+            "key": "026",
+            "value": "Nein, sollten wir nicht."
+        },
+        {
+            "key": "027",
+            "value": "Aber ... sind Wezette und Leonis nicht eigentlich Bündnispartner?"
+        },
+        {
+            "key": "028",
+            "value": "Und trotzdem sollen wir uns König Yrdes Kopf holen?"
+        },
+        {
+            "key": "029",
+            "value": "Ich kann eure Zweifel nachvollziehen."
+        },
+        {
+            "key": "030",
+            "value": "Aber das ist nun mal der Auftrag, der „Equito“ erteilt wurde."
+        },
+        {
+            "key": "031",
+            "value": "Wenn wir unsere Allianz mit Leonis aufkündigen ..."
+        },
+        {
+            "key": "032",
+            "value": "Werden wir im Kampf gegen Fennes und Hourne auf uns allein gestellt sein."
+        },
+        {
+            "key": "033",
+            "value": "Ich kann auch nicht mit Bestimmtheit sagen, was Seine Majestät geplant hat."
+        },
+        {
+            "key": "034",
+            "value": "Doch ich befürchte ... dass er nach einem Weg sucht, eine Allianz mit Hourne eingehen zu können."
+        },
+        {
+            "key": "035",
+            "value": "Was?! Du glaubst, dass er plötzlich vorhat, Freundschaft zu schließen mit einem Feind, den wir bereits seit Jahrzehnten bekämpfen?!"
+        },
+        {
+            "key": "036",
+            "value": "Es ist auch denkbar, dass er eine Allianz mit Fennes anstrebt."
+        },
+        {
+            "key": "037",
+            "value": "Und fürs Schmieden derselben dürfte sich Yrdes Kopf als sehr nützlich erweisen ..."
+        },
+        {
+            "key": "038",
+            "value": "Genug der Spekulationen. Was immer wir auch mutmaßen, keiner von uns weiß wirklich, was die wahren Motive Seiner Majestät sind."
+        },
+        {
+            "key": "039",
+            "value": "Konzentriert euch nur auf eure Befehle. Verstanden?"
+        },
+        {
+            "key": "040",
+            "value": "J-Ja ..."
+        },
+        {
+            "key": "041",
+            "value": "Mir gefällt das alles nicht, aber uns bleibt wohl keine andere Wahl."
+        },
+        {
+            "key": "042",
+            "value": "Selbst wenn sich Minwu auf die Seite des Feindes geschlagen hat, haben wir unsere Pflicht zu erfüllen – egal, wie schwierig oder unangenehm dies auch sein mag."
+        },
+        {
+            "key": "043",
+            "value": "Ausrücken!"
+        }
+    ]
+}

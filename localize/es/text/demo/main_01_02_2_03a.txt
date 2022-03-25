@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Majestad, ¡traigo novedades del campo de batalla!"
+        },
+        {
+            "key": "002",
+            "value": "La primera división de Fennes, la que iba tras el enemigo, ha sido aniquilada."
+        },
+        {
+            "key": "003",
+            "value": "Parece que no nos lo van a poner nada fácil."
+        },
+        {
+            "key": "004",
+            "value": "No hay que preocuparse. La guerra no ha hecho más que empezar."
+        },
+        {
+            "key": "005",
+            "value": "Eso no es todo, majestad. El contingente principal del enemigo ha emprendido la retirada."
+        },
+        {
+            "key": "006",
+            "value": "Seguro que tienen planeado refugiarse en su castillo."
+        },
+        {
+            "key": "007",
+            "value": "En ese caso, imagino que el príncipe Stern estará a cargo de la retaguardia."
+        },
+        {
+            "key": "008",
+            "value": "Dicen que su espada rivaliza con la del propio rey Elde, pero, aun así, nunca se ha dejado ver en una batalla."
+        },
+        {
+            "key": "009",
+            "value": "Seguro que le aterra la idea de vérselas conmigo."
+        },
+        {
+            "key": "010",
+            "value": "Ojalá fuera eso verdad, pero me da a mí…"
+        },
+        {
+            "key": "011",
+            "value": "Que el rey Elde se trae algo entre manos."
+        },
+        {
+            "key": "012",
+            "value": "Alteza, Stern no está a cargo de la retaguardia, sino un tal Mont que parece ser el líder de Caelum."
+        },
+        {
+            "key": "013",
+            "value": "¿El príncipe Mont? ¿El cachorrito indefenso de Leonis?"
+        },
+        {
+            "key": "014",
+            "value": "Así es, su alteza."
+        },
+        {
+            "key": "015",
+            "value": "Conque el cerdo de Elde está reservando a Stern…"
+        },
+        {
+            "key": "016",
+            "value": "En ese caso, no hay duda de que la victoria será nuestra."
+        },
+        {
+            "key": "017",
+            "value": "¡Solidus, vamos! ¡Acabad con el enemigo y no mostréis misericordia alguna!"
+        },
+        {
+            "key": "018",
+            "value": "¡La segunda división del enemigo está avanzando!"
+        },
+        {
+            "key": "019",
+            "value": "¡Permaneced firmes! ¡No cedáis ante los adversarios!"
+        }
+    ]
+}

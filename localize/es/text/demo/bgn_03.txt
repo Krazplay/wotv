@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Qué os parece si hablamos un poco de los <color=#0000ff>elementos de las habilidades de ataque</color> y de <color=#0000ff>las resistencias elementales</color>?"
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Como pasa con las unidades, la mayoría de habilidades de ataque son de alguno de los siguientes elementos: <color=#0000ff>fuego</color>, <color=#0000ff>hielo</color>, <color=#0000ff>viento</color>, <color=#0000ff>tierra</color>, <color=#0000ff>rayo</color>, <color=#0000ff>agua</color>, <color=#0000ff>luz</color> u <color=#0000ff>oscuridad</color>."
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Como ya dije en su momento, todas las unidades tienen elementos ante los que son fuertes y otros ante los que son especialmente vulnerables."
+        },
+        {
+            "key": "006",
+            "value": "Tocad el icono de la <color=#0000ff>lupa</color> al atacar a un enemigo para que aparezca la <color=#0000ff>tabla de afinidad elemental</color>, en la que se detalla la vulnerabilidad del enemigo a ciertos elementos."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Si usáis habilidades de ataque de un elemento al que vuestro enemigo es débil, le haréis mucho más daño."
+        },
+        {
+            "key": "008",
+            "value": "Lord Mont, ya que la mayoría de vuestras habilidades de ataque son de <color=#0000ff>elemento tierra</color>, deberíais apuntar a <color=#0000ff>enemigos</color> con <color=#0000ff>baja resistencia a tierra</color>."
+        },
+        {
+            "key": "009",
+            "value": "Lilit, cuyas habilidades de ataque son principalmente de <color=#0000ff>elemento fuego</color>, debería apuntar a <color=#0000ff>enemigos</color> con <color=#0000ff>baja resistencia a fuego</color>."
+        },
+        {
+            "key": "010",
+            "value": "Por otro lado, la mayoría de mis habilidades de ataque son de <color=#0000ff>elemento agua</color>, así que yo atacaré a los <color=#0000ff>enemigos</color> con <color=#0000ff>baja resistencia a agua</color>."
+        },
+        {
+            "key": "011",
+            "value": "Utilizad el icono de la <color=#0000ff>lupa</color> que aparece al atacar a enemigos para confirmar quién es débil a qué elemento."
+        },
+        {
+            "key": "012",
+            "value": "¡Hemos conseguido frenar el ataque enemigo!"
+        },
+        {
+            "key": "013",
+            "value": "La mayoría de veces, las habilidades de ataque y las afinidades elementales vienen definidas por el <color=#0000ff>elemento</color> de una unidad, pero en ocasiones excepcionales <color=#0000ff>ese no es el caso</color>."
+        },
+        {
+            "key": "014",
+            "value": "Lo que califica a un gran líder es su habilidad para juzgar con precisión las situaciones tras sopesar las características de sus aliados y oponentes. Esa es la recompensa de la diligencia constante."
+        }
+    ]
+}

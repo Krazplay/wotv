@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "ARENA_NPC01",
+            "value": "傑克"
+        },
+        {
+            "key": "ARENA_NPC02",
+            "value": "施維亞"
+        },
+        {
+            "key": "ARENA_NPC03",
+            "value": "亨特"
+        },
+        {
+            "key": "ARENA_NPC04",
+            "value": "布爾"
+        },
+        {
+            "key": "ARENA_NPC05",
+            "value": "路希安"
+        },
+        {
+            "key": "ARENA_NPC06",
+            "value": "米斯蒂"
+        },
+        {
+            "key": "ARENA_NPC07",
+            "value": "雪白"
+        },
+        {
+            "key": "ARENA_NPC08",
+            "value": "深黑"
+        },
+        {
+            "key": "ARENA_NPC09",
+            "value": "安琪兒"
+        },
+        {
+            "key": "ARENA_NPC10",
+            "value": "基爾"
+        },
+        {
+            "key": "ARENA_NPC11",
+            "value": "吉恩"
+        },
+        {
+            "key": "ARENA_NPC12",
+            "value": "珊裘莉"
+        },
+        {
+            "key": "ARENA_NPC13",
+            "value": "戈弗雷"
+        },
+        {
+            "key": "ARENA_NPC14",
+            "value": "青綠"
+        },
+        {
+            "key": "ARENA_NPC15",
+            "value": "吉姆雷特"
+        },
+        {
+            "key": "ARENA_NPC16",
+            "value": "沃卡"
+        },
+        {
+            "key": "ARENA_NPC17",
+            "value": "鮮黃"
+        },
+        {
+            "key": "ARENA_NPC18",
+            "value": "艷橘"
+        },
+        {
+            "key": "ARENA_NPC19",
+            "value": "布洛森"
+        },
+        {
+            "key": "ARENA_NPC20",
+            "value": "札札"
+        }
+    ]
+}

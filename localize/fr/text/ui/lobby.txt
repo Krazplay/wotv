@@ -1,0 +1,184 @@
+﻿{
+    "infos": [
+        {
+            "key": "EVENT_TITLE",
+            "value": "Événements"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "Obtenez des objets spéciaux !"
+        },
+        {
+            "key": "MULTI_TITLE",
+            "value": "Multi"
+        },
+        {
+            "key": "MULTI_DESC",
+            "value": "Participez aux quêtes avec vos amis !"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "Raids"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "Unissez vos forces pour vaincre de féroces ennemis !"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "Tour de porcelaine"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "Quêtes extrêmes"
+        },
+        {
+            "key": "SUMMON_TITLE",
+            "value": "Le repaire de la bête"
+        },
+        {
+            "key": "SUMMON_DESC",
+            "value": "Obtenez des matériaux d'éveil pour éveiller vos chimères !"
+        },
+        {
+            "key": "BATTLEROAD_TITLE",
+            "value": "Quêtes sélectives"
+        },
+        {
+            "key": "BATTLEROAD_DESC",
+            "value": "Participez aux quêtes uniquement avec des unités spécifiques !"
+        },
+        {
+            "key": "QLN_EVENT_1",
+            "value": "L'événement de collaboration est là !"
+        },
+        {
+            "key": "QLN_EVENT_2",
+            "value": "(Test) Nouveau chapitre !"
+        },
+        {
+            "key": "QLN_MULTI_1",
+            "value": "(Test) Pièces d'Arène x2 !"
+        },
+        {
+            "key": "QLN_MULTI_2",
+            "value": "(Test) Événement disponible !"
+        },
+        {
+            "key": "QLN_RAID_1",
+            "value": "Affrontez Sentinelle !"
+        },
+        {
+            "key": "QLN_RAID_1_2",
+            "value": "Calcul du classement en cours…"
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "Affrontez Dissonance pardonnée !"
+        },
+        {
+            "key": "QLN_RAID_2",
+            "value": "La période de récupération des récompenses de raid est en cours."
+        },
+        {
+            "key": "QLN_RAID_4",
+            "value": "Affrontez le boss de raid !"
+        },
+        {
+            "key": "QLN_RAID_5",
+            "value": "Affrontez Golem !"
+        },
+        {
+            "key": "QLN_RAID_6",
+            "value": "Affrontez Diabolos !"
+        },
+        {
+            "key": "QLN_RAID_7",
+            "value": "Affrontez Flan sacré !"
+        },
+        {
+            "key": "QLN_RAID_8",
+            "value": "Affrontez Glacial !"
+        },
+        {
+            "key": "QLN_RAID_9",
+            "value": "Affrontez Géant mutant !"
+        },
+        {
+            "key": "QLN_RAID_10",
+            "value": "Affrontez Carbuncle !"
+        },
+        {
+            "key": "QLN_RAID_11",
+            "value": "Affrontez Léviathan !"
+        },
+        {
+            "key": "QLN_RAID_12",
+            "value": "Affrontez Oméga !"
+        },
+        {
+            "key": "QLN_RAID_13",
+            "value": "Affrontez Égéon !"
+        },
+        {
+            "key": "QLN_RAID_14",
+            "value": "Affrontez Elafikeras !"
+        },
+        {
+            "key": "QLN_RAID_15",
+            "value": "Affrontez Kraken !"
+        },
+        {
+            "key": "QLN_RAID_16",
+            "value": "Affrontez Ombre de Kamoshida !"
+        },
+        {
+            "key": "QLN_TOWER_1",
+            "value": "Tour de porcelaine accessible !"
+        },
+        {
+            "key": "QLN_TOWER_6",
+            "value": "Obtenez l'Anneau des flammes dès maintenant !"
+        },
+        {
+            "key": "QLN_TOWER_7",
+            "value": "Tour des visions - La bataille de la vallée du Lion"
+        },
+        {
+            "key": "QLN_TOWER_8",
+            "value": "Obtenez l'Anneau de la terre dès maintenant !"
+        },
+        {
+            "key": "QLN_SUMMON_1",
+            "value": "Géant de fer est de nouveau là !"
+        },
+        {
+            "key": "TOWER_OPEN_TITLE",
+            "value": "Conditions pour débloquer :"
+        },
+        {
+            "key": "TOWER_OPEN_DESC",
+            "value": "Vous devez remplir les conditions suivantes pour y accéder. <br>Atteignez le rang de joueur {0}"
+        },
+        {
+            "key": "QUEST_OPEN_DESC",
+            "value": "Hors période"
+        },
+        {
+            "key": "CHALLENGE_OPEN_DESC",
+            "value": "Période de défi terminée"
+        },
+        {
+            "key": "QLN_TOWER_5",
+            "value": "Obtenez le Bracelet éblouissant dès maintenant !"
+        },
+        {
+            "key": "QLN_TOWER_4",
+            "value": "Obtenez l'Anneau de la mer dès maintenant !"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "Obtenez le Sabre carmin dès maintenant !"
+        }
+    ]
+}

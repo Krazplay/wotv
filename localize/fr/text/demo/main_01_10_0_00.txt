@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "100001",
+            "value": "Hein ? Qu'est-ce qui se passe ?"
+        },
+        {
+            "key": "100002",
+            "value": "C'est Rundall."
+        },
+        {
+            "key": "100003",
+            "value": "Quelle plaie ! Pourquoi faut-il qu'ils attaquent juste quand Sadali est absent ?"
+        },
+        {
+            "key": "100004",
+            "value": "E-espèce de... d'ordures !"
+        },
+        {
+            "key": "100005",
+            "value": "C'est évident, ils sont là pour les cristaux."
+        },
+        {
+            "key": "100006",
+            "value": "Ils s'attendent à ce qu'on les leur remette gentiment ? Protégez le coffre !"
+        },
+        {
+            "key": "100007",
+            "value": "Certainement. On va leur montrer de quoi la garde moniale de Dynverk est capable !"
+        }
+    ]
+}

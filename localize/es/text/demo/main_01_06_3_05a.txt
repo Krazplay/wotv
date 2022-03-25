@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Paaam!"
+        },
+        {
+            "key": "002",
+            "value": "¡Uno menos!"
+        },
+        {
+            "key": "003",
+            "value": "Puf. Son tan patéticos que hasta me han hecho perder el interés…"
+        },
+        {
+            "key": "004",
+            "value": "Federica, no dejes de apretar el gatillo."
+        },
+        {
+            "key": "005",
+            "value": "Pero si…"
+        },
+        {
+            "key": "006",
+            "value": "A pesar de lo que acabo de decir…"
+        },
+        {
+            "key": "007",
+            "value": "Estos monjes de Santocristal no son ninguna amenaza contra Solidus."
+        },
+        {
+            "key": "008",
+            "value": "¡Claro que no!"
+        },
+        {
+            "key": "009",
+            "value": "Pero, eso sí…, según cuentan, Sadali ya es otra cosa."
+        },
+        {
+            "key": "010",
+            "value": "¡No hay nada de lo que preocuparse!"
+        },
+        {
+            "key": "011",
+            "value": "Entre los dos, somos invencibles, cariño."
+        },
+        {
+            "key": "012",
+            "value": "¡Déjate de cariños, anda!"
+        }
+    ]
+}

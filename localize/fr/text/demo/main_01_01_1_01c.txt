@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Je... j'ai réussi !"
+        },
+        {
+            "key": "002",
+            "value": "Maîtrise-toi. Tu es le prince ainé de Leonis."
+        },
+        {
+            "key": "003",
+            "value": "Oui..."
+        },
+        {
+            "key": "004",
+            "value": "Continuons d'avancer."
+        },
+        {
+            "key": "005",
+            "value": "Ouf."
+        },
+        {
+            "key": "006",
+            "value": "Très bon travail, Seigneur Mont. Votre stratégie était admirable."
+        },
+        {
+            "key": "007",
+            "value": "Pas tant que cela..."
+        },
+        {
+            "key": "008",
+            "value": "Ne sous-estimez pas vos capacités, mon prince."
+        },
+        {
+            "key": "009",
+            "value": "M-mais..."
+        },
+        {
+            "key": "010",
+            "value": "Je dis simplement que vous devriez montrer plus d'assurance."
+        },
+        {
+            "key": "011",
+            "value": "Plus... d'assurance ?"
+        },
+        {
+            "key": "012",
+            "value": "Tout le monde sait que vous devenez de plus en plus fort. Tout le monde, sauf vous."
+        },
+        {
+            "key": "013",
+            "value": "Je dirais que vous avez un certain talent..."
+        },
+        {
+            "key": "014",
+            "value": "Du talent ? C'est plutôt Sterne, ça."
+        },
+        {
+            "key": "015",
+            "value": "Vous avez beau être différents, vous restez des jumeaux."
+        },
+        {
+            "key": "016",
+            "value": "Vous vous ressemblez beaucoup."
+        },
+        {
+            "key": "017",
+            "value": "Sterne et moi... se ressembler ? C'est ridicule..."
+        },
+        {
+            "key": "018",
+            "value": "Vous savez pourtant que je ne suis pas du genre à flatter, ou à mentir..."
+        },
+        {
+            "key": "019",
+            "value": "Je le sais."
+        },
+        {
+            "key": "020",
+            "value": "Mais... c'est la première fois que j'entends une telle chose."
+        },
+        {
+            "key": "021",
+            "value": "J'ai toujours voulu être fort comme Sterne pour être utile à père."
+        },
+        {
+            "key": "022",
+            "value": "Et vous le serez, Seigneur Mont, je vous le promets !"
+        },
+        {
+            "key": "023",
+            "value": "Que t'arrive-t-il ? Dépêche-toi !"
+        },
+        {
+            "key": "024",
+            "value": "O-oui."
+        },
+        {
+            "key": "025",
+            "value": "Allons-y."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ha llegado la hora."
+        },
+        {
+            "key": "002",
+            "value": "¿Estás decidido, entonces?"
+        },
+        {
+            "key": "003",
+            "value": "Vinera ya ha tenido que recibir la orden de ejecutar a Darío."
+        },
+        {
+            "key": "004",
+            "value": "Con lo cual, solo faltaría Machérie."
+        },
+        {
+            "key": "005",
+            "value": "Tampoco te olvides de Rob. Hourne continúa siendo una amenaza hasta que desaparezcan Solidus y Nitor."
+        },
+        {
+            "key": "006",
+            "value": "Tenemos que asegurarnos de que a Machérie no le pase nada."
+        },
+        {
+            "key": "007",
+            "value": "¿Cuando sea nuestra prisionera?"
+        },
+        {
+            "key": "008",
+            "value": "Hasta tú lo sabes bien."
+        },
+        {
+            "key": "009",
+            "value": "La adoración que siente Rob hacia Machérie lo tiene completamente cegado."
+        },
+        {
+            "key": "010",
+            "value": "…"
+        },
+        {
+            "key": "011",
+            "value": "Con gusto daría su vida si eso conllevara salvar a Machérie."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "¿Me dejas a mí a Machérie?"
+        },
+        {
+            "key": "014",
+            "value": "¿Eh? ¿Y eso por qué?"
+        },
+        {
+            "key": "015",
+            "value": "Me ha humillado un montón de veces…"
+        },
+        {
+            "key": "016",
+            "value": "Je, je. Entonces, ahora podrás devolvérselas una a una."
+        },
+        {
+            "key": "017",
+            "value": "Es lo que pretendo hacer."
+        },
+        {
+            "key": "018",
+            "value": "Venga, vamos. Si seguimos aquí, acabaremos llamando la atención."
+        }
+    ]
+}

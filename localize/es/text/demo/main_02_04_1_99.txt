@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "256",
+            "value": "Estamos entrando en el castillo. Te sugiero que andes con cuidado."
+        },
+        {
+            "key": "257",
+            "value": "Los monstruos se han abierto paso entre el miasma y se han colado en el interior del castillo."
+        },
+        {
+            "key": "258",
+            "value": "…"
+        },
+        {
+            "key": "259",
+            "value": "¿Qué es eso?"
+        },
+        {
+            "key": "260",
+            "value": "¿Qué piensas hacer con ese enorme cristal?"
+        },
+        {
+            "key": "261",
+            "value": "Vamos a extraer su magia y enviarla a Santocristal."
+        },
+        {
+            "key": "262",
+            "value": "¿Esa es nuestra misión aquí?"
+        },
+        {
+            "key": "263",
+            "value": "Solo es una de ellas."
+        },
+        {
+            "key": "264",
+            "value": "…"
+        },
+        {
+            "key": "265",
+            "value": "Vayamos al castillo."
+        },
+        {
+            "key": "266",
+            "value": "El querido lugar en el que naciste y te criaste..."
+        }
+    ]
+}

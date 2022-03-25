@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Thanks for the passage."
+        },
+        {
+            "key": "002",
+            "value": "Oh, don't sweat it. We're friends now, are we not?"
+        },
+        {
+            "key": "003",
+            "value": "We'll be on our way then."
+        },
+        {
+            "key": "004",
+            "value": "Miss Lumeide..."
+        },
+        {
+            "key": "005",
+            "value": "Go wake Lameiga. He must still be fast asleep in the ship's hold."
+        },
+        {
+            "key": "006",
+            "value": "I'm awake."
+        },
+        {
+            "key": "007",
+            "value": "Where are those two headed...?"
+        },
+        {
+            "key": "008",
+            "value": "To Owe's grave, most likely."
+        },
+        {
+            "key": "009",
+            "value": "They must be feeling pressed not to let anyone else gain possession of Owe's sword."
+        },
+        {
+            "key": "010",
+            "value": "Devious as ever, Lumeide."
+        },
+        {
+            "key": "011",
+            "value": "Well then, shall we prepare to depart as well?"
+        }
+    ]
+}

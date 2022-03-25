@@ -1,0 +1,108 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Parece que estás en un callejón sin salida. ¡Es hora de que te rindas!"
+        },
+        {
+            "key": "002",
+            "value": "¿Qué?..."
+        },
+        {
+            "key": "003",
+            "value": "¿Mía?... Pero, ¿por qué...?"
+        },
+        {
+            "key": "004",
+            "value": "Pe... Perdonadme..."
+        },
+        {
+            "key": "005",
+            "value": "Estoy segura de que tienes una razón."
+        },
+        {
+            "key": "006",
+            "value": "Pensaba que te dirigiste a Lykeros..."
+        },
+        {
+            "key": "007",
+            "value": "Así es."
+        },
+        {
+            "key": "008",
+            "value": "Pero ese reino fue destruido por la guerra con Rundal hace tiempo, ¿no?"
+        },
+        {
+            "key": "009",
+            "value": "Sí..., pero mi madre y yo conseguimos escapar a una región fronteriza."
+        },
+        {
+            "key": "010",
+            "value": "Y te apresuraste aquí en cuanto oíste que la aldea estaba en peligro, me imagino."
+        },
+        {
+            "key": "011",
+            "value": "A-así es..."
+        },
+        {
+            "key": "012",
+            "value": "¿Entonces, por qué huiste de nosotros?"
+        },
+        {
+            "key": "013",
+            "value": "¿Qué?..."
+        },
+        {
+            "key": "014",
+            "value": "¿Acaso te sientes culpable por algo?"
+        },
+        {
+            "key": "015",
+            "value": "Numbra, ya está bien."
+        },
+        {
+            "key": "016",
+            "value": "No te metas en esto."
+        },
+        {
+            "key": "017",
+            "value": "..."
+        },
+        {
+            "key": "018",
+            "value": "¿No tienes nada que confesar?"
+        },
+        {
+            "key": "019",
+            "value": "Pensaba que estaríais enfadados porque abandoné el reino por mi cuenta..."
+        },
+        {
+            "key": "020",
+            "value": "Si tu reino ya no existe como tal, eres una persona libre."
+        },
+        {
+            "key": "021",
+            "value": "Deberías vivir con tu madre en esta aldea de nuevo."
+        },
+        {
+            "key": "022",
+            "value": "Gr... Gracias."
+        },
+        {
+            "key": "023",
+            "value": "..."
+        },
+        {
+            "key": "024",
+            "value": "¡Gouga no será rival para nosotros!"
+        },
+        {
+            "key": "025",
+            "value": "Y tanto que no... No creo que Gouga espere que nos pongamos a la ofensiva ahora mismo."
+        },
+        {
+            "key": "026",
+            "value": "Marchemos hacia Gouga, pues."
+        }
+    ]
+}

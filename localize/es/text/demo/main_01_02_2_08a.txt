@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Está amaneciendo…"
+        },
+        {
+            "key": "002",
+            "value": "A lo mejor sería buena idea no cruzar esa puerta."
+        },
+        {
+            "key": "003",
+            "value": "Pe-pero ¿qué dices? ¿Es que no vas a volver al castillo?"
+        },
+        {
+            "key": "004",
+            "value": "…"
+        },
+        {
+            "key": "005",
+            "value": "Lilit, ¿qué te pasa? Explícate, por favor."
+        },
+        {
+            "key": "006",
+            "value": "Creo que… el rey Elde no ha ideado ningún plan esta vez."
+        },
+        {
+            "key": "007",
+            "value": "Pero…"
+        },
+        {
+            "key": "008",
+            "value": "Tienes razón. Yo sospechaba lo mismo."
+        },
+        {
+            "key": "009",
+            "value": "Un momento. Si no vamos a volver al castillo, ¿entonces qué pensáis hacer?"
+        },
+        {
+            "key": "010",
+            "value": "Podemos optar por echar a correr."
+        },
+        {
+            "key": "011",
+            "value": "¿Estás sugiriendo que deberíamos abandonar el castillo?"
+        },
+        {
+            "key": "012",
+            "value": "Nos refugiemos en el castillo o no, Leonis va a acabar claudicando tarde o temprano."
+        },
+        {
+            "key": "013",
+            "value": "…"
+        },
+        {
+            "key": "014",
+            "value": "Sin embargo, si lord Mont sobrevive, el linaje de Leonis conseguirá perdurar."
+        },
+        {
+            "key": "015",
+            "value": "Se nos acaba el tiempo."
+        },
+        {
+            "key": "016",
+            "value": "La decisión es tuya, lord Mont, al igual que mi espada."
+        },
+        {
+            "key": "017",
+            "value": "…"
+        },
+        {
+            "key": "018",
+            "value": "Príncipe Mont, tienes que tomar una decisión."
+        },
+        {
+            "key": "019",
+            "value": "¡Vi-vienen más enemigos!"
+        }
+    ]
+}

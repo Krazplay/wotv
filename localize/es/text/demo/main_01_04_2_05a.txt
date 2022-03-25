@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bien hecho. Ahora vamos a llevar las reliquias a…"
+        },
+        {
+            "key": "002",
+            "value": "Creo que no, alteza. La prueba de verdad comienza ahora, o eso parece…"
+        },
+        {
+            "key": "003",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "004",
+            "value": "¡Hemos llegado justo a tiempo!"
+        },
+        {
+            "key": "005",
+            "value": "Yo a vosotros os conozco. ¡Sois Dorand y Gargas!"
+        },
+        {
+            "key": "006",
+            "value": "¿Eh? ¡Parece que somos famosos!"
+        },
+        {
+            "key": "007",
+            "value": "Qué honor. ¡El gran Owe nos ha reconocido!"
+        },
+        {
+            "key": "008",
+            "value": "¿Cómo sabíais que estábamos aquí?"
+        },
+        {
+            "key": "009",
+            "value": "Hacía un buen día para salir a dar una vuelta, eso es todo."
+        },
+        {
+            "key": "010",
+            "value": "Un buen día para salir y derramar sangre, ¿no? ¿Os apetece un combate para celebrar este feliz encuentro?"
+        },
+        {
+            "key": "011",
+            "value": "Owe, ¿quiénes son?"
+        },
+        {
+            "key": "012",
+            "value": "Son vasallos de Sadali, aunque también lideran las tropas de Fennes."
+        },
+        {
+            "key": "013",
+            "value": "Entonces, vienen de parte de Muraga."
+        },
+        {
+            "key": "014",
+            "value": "¿Qué llevan vuestros caballeros ahí?"
+        },
+        {
+            "key": "015",
+            "value": "Eeeh… Eso es de lo que Muraga quería que le informáramos, ¿no?"
+        },
+        {
+            "key": "016",
+            "value": "Me imagino que ya es tarde para retirarse…"
+        },
+        {
+            "key": "017",
+            "value": "Reina Helena, por favor, apartaos. Dejad que yo me encargue de estos dos."
+        },
+        {
+            "key": "018",
+            "value": "Anda, ¿vas a luchar? ¡Qué galante!"
+        },
+        {
+            "key": "019",
+            "value": "¡Toma ya! ¡Voy a llevarme la cabeza de Owe de trofeo!"
+        },
+        {
+            "key": "020",
+            "value": "Venga, pues ven a por ella… ¡si es que puedes!"
+        }
+    ]
+}

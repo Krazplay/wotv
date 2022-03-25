@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Parece que ya no quedan más."
+        },
+        {
+            "key": "002",
+            "value": "Te equivocas. Ahí vienen más."
+        },
+        {
+            "key": "003",
+            "value": "¡¿Cómo?!"
+        },
+        {
+            "key": "004",
+            "value": "Parece que nos tienen rodeados."
+        },
+        {
+            "key": "005",
+            "value": "Vale, pues al final sí que era una trampa."
+        },
+        {
+            "key": "006",
+            "value": "Puf…"
+        },
+        {
+            "key": "007",
+            "value": "Es el ejército principal de Fennes."
+        },
+        {
+            "key": "008",
+            "value": "¡Je, je, je! ¡Por fin os tenemos!"
+        },
+        {
+            "key": "009",
+            "value": "¡Muraga! ¡Estás acabado!"
+        },
+        {
+            "key": "010",
+            "value": "¡Schuzelt, espera!"
+        },
+        {
+            "key": "011",
+            "value": "Maldita sea. ¡Atacad todos!"
+        },
+        {
+            "key": "012",
+            "value": "¡Cubrid a Schuzelt!"
+        }
+    ]
+}

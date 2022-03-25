@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "449",
+            "value": "Da, ich kann es sehen. Das ist Schloss Ovis."
+        },
+        {
+            "key": "450",
+            "value": "Es ist gerade erst in Sichtweite gekommen, wir haben es noch lange nicht erreicht."
+        },
+        {
+            "key": "451",
+            "value": "Wir sind wohl noch nicht nah genug, um zu erkennen, wie die Lage ist."
+        },
+        {
+            "key": "452",
+            "value": "Ich fürchte nicht, Majestät."
+        },
+        {
+            "key": "453",
+            "value": "Dann lasst uns weitergehen."
+        },
+        {
+            "key": "454",
+            "value": "Ja, beeilen wir uns."
+        }
+    ]
+}

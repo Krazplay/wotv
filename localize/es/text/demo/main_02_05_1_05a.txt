@@ -1,0 +1,228 @@
+﻿{
+    "infos": [
+        {
+            "key": "187",
+            "value": "¡Rey Roghza!"
+        },
+        {
+            "key": "188",
+            "value": "¿Ocurre algo?"
+        },
+        {
+            "key": "189",
+            "value": "¡El nivel del agua...!"
+        },
+        {
+            "key": "190",
+            "value": "El agua que rodea el castillo está bajando de nivel a un ritmo trepidante."
+        },
+        {
+            "key": "191",
+            "value": "¡A este paso, no habrá nada que le pare los pies al enemigo!"
+        },
+        {
+            "key": "192",
+            "value": "¿Es eso lo que os tiene tan nerviosas?"
+        },
+        {
+            "key": "193",
+            "value": "Eh... ¿Qué queréis decir?..."
+        },
+        {
+            "key": "194",
+            "value": "Ha sido mi decisión bajar el nivel del agua."
+        },
+        {
+            "key": "195",
+            "value": "Pero ¿por qué haríais algo así?..."
+        },
+        {
+            "key": "196",
+            "value": "Me han informado de que Rundal cuenta con un cañón de asalto capaz de arrasar con nuestro castillo."
+        },
+        {
+            "key": "197",
+            "value": "¡¿Tienen un cañón tan poderoso?!"
+        },
+        {
+            "key": "198",
+            "value": "Parece que intentan acoplarlo a su barco."
+        },
+        {
+            "key": "199",
+            "value": "Lo que significa que..."
+        },
+        {
+            "key": "200",
+            "value": "Este castillo acabará hecho añicos si ese barco navega libremente por nuestras aguas."
+        },
+        {
+            "key": "201",
+            "value": "Pero sus tropas nos avasallarán sin agua de por medio que se lo impida."
+        },
+        {
+            "key": "202",
+            "value": "¿Crees que no he considerado tal situación?"
+        },
+        {
+            "key": "203",
+            "value": "Oh, eh... No lo decía con esa intención, majestad."
+        },
+        {
+            "key": "204",
+            "value": "El agua ha mantenido a los enemigos a raya durante bastante tiempo."
+        },
+        {
+            "key": "205",
+            "value": "¡¿Queréis decir que... vienen refuerzos de camino?!"
+        },
+        {
+            "key": "206",
+            "value": "Así es."
+        },
+        {
+            "key": "207",
+            "value": "Naturalmente, nuestra estrategia no acaba ahí."
+        },
+        {
+            "key": "208",
+            "value": "Eh..."
+        },
+        {
+            "key": "209",
+            "value": "¿Qué estás pensando? Habla claro."
+        },
+        {
+            "key": "210",
+            "value": "Ha llegado a mis oídos que el rey Oberón es el prometido de lady Luciela."
+        },
+        {
+            "key": "211",
+            "value": "Pero Heindler aún intenta echar abajo el castillo de Ovis a pesar de todo..."
+        },
+        {
+            "key": "212",
+            "value": "No pensaba que ese hombre fuera capaz de hacer algo así."
+        },
+        {
+            "key": "213",
+            "value": "(¿«Ese hombre»?... ¿Por qué se refiere a él de esa forma?)"
+        },
+        {
+            "key": "214",
+            "value": "Pero Heindler y Rundal han formado una alianza, ¿no es así?"
+        },
+        {
+            "key": "215",
+            "value": "Sí, eso no se me olvida."
+        },
+        {
+            "key": "216",
+            "value": "¿Pero por qué crees que es así?"
+        },
+        {
+            "key": "217",
+            "value": "El amor que ese hombre siente por mí es aún mayor que cualquier alianza."
+        },
+        {
+            "key": "218",
+            "value": "¿Qué es lo que pasa?..."
+        },
+        {
+            "key": "219",
+            "value": "¿No lo sientes? Hay algo raro sobre lady Luciela..."
+        },
+        {
+            "key": "220",
+            "value": "Te refieres a la forma que tiene de hablar del rey Oberón."
+        },
+        {
+            "key": "221",
+            "value": "Así es."
+        },
+        {
+            "key": "222",
+            "value": "Se refirió a él como «ese hombre»."
+        },
+        {
+            "key": "223",
+            "value": "Y no solo una vez, sino dos."
+        },
+        {
+            "key": "224",
+            "value": "Lady Luciela y el rey Oberón... Ambos comparten un amor que se remonta a mucho tiempo atrás."
+        },
+        {
+            "key": "225",
+            "value": "Un amor del que yo mismo he sido testigo."
+        },
+        {
+            "key": "226",
+            "value": "Aun así, también lo cuestiono..."
+        },
+        {
+            "key": "227",
+            "value": "Es posible que lady Luciela intente aprovecharse del rey Oberón para asegurar que Ovis perdure..."
+        },
+        {
+            "key": "228",
+            "value": "Así es, pero puede que actúe así debido a las circunstancias."
+        },
+        {
+            "key": "229",
+            "value": "Lo que no puedo sacarme de la cabeza es su mirada..."
+        },
+        {
+            "key": "230",
+            "value": "Me estaba irritando mucho..."
+        },
+        {
+            "key": "231",
+            "value": "Esa mirada fría."
+        },
+        {
+            "key": "232",
+            "value": "Ha sacrificado mucho para ayudar a que lady Shalze y lady Rashina escapen..."
+        },
+        {
+            "key": "233",
+            "value": "Por eso, pensé que su mente se había hecho a la idea de compartir el mismo destino que el castillo de Ovis."
+        },
+        {
+            "key": "234",
+            "value": "Es sensato asumir que algo ha pasado."
+        },
+        {
+            "key": "235",
+            "value": "Podríamos investigar."
+        },
+        {
+            "key": "236",
+            "value": "Pero debemos estar seguros de no levantar sospechas."
+        },
+        {
+            "key": "237",
+            "value": "Ni se me ocurriría."
+        },
+        {
+            "key": "238",
+            "value": "Al fin, Mont y sus compañeros llegan a los dominios de Ovis..."
+        },
+        {
+            "key": "239",
+            "value": "Ovis se encuentra frente a nosotros."
+        },
+        {
+            "key": "240",
+            "value": "Así que ese lago que se ve a lo lejos es lo que protege al castillo."
+        },
+        {
+            "key": "241",
+            "value": "Correcto. Pero me imagino que no será así para siempre."
+        },
+        {
+            "key": "242",
+            "value": "Entonces pongámonos en marcha."
+        }
+    ]
+}

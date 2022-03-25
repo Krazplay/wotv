@@ -1,0 +1,184 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous... Vous avez tué tous les méchants ?"
+        },
+        {
+            "key": "002",
+            "value": "Non. On les a simplement mis hors d'état de nuire pour un moment. Tout va bien."
+        },
+        {
+            "key": "003",
+            "value": "Ce n'était qu'un petit exercice de santé pour nous, tu sais."
+        },
+        {
+            "key": "004",
+            "value": "Vous êtes trop forts !"
+        },
+        {
+            "key": "005",
+            "value": "Et vous nous avez sauvées."
+        },
+        {
+            "key": "006",
+            "value": "Merci !"
+        },
+        {
+            "key": "007",
+            "value": "Qu'est-ce qu'ils vous voulaient, au juste, ces soldats de Rundall ?"
+        },
+        {
+            "key": "008",
+            "value": "Hm..."
+        },
+        {
+            "key": "009",
+            "value": "Thytas. Ne pose pas de question indiscrète aux dames."
+        },
+        {
+            "key": "010",
+            "value": "Tu rigoles ? Tu as foncé dans le tas sans même savoir qui avait fait quoi ?!"
+        },
+        {
+            "key": "011",
+            "value": "Ne m'accuses pas de ta propre ignorance, Thytas."
+        },
+        {
+            "key": "012",
+            "value": "Hein ?"
+        },
+        {
+            "key": "013",
+            "value": "Nous sommes en territoire Lykeros."
+        },
+        {
+            "key": "014",
+            "value": "Je ne vois pas comment des soldats de Rundall en flagrant délit de violence en territoire étranger pourraient être innocents."
+        },
+        {
+            "key": "015",
+            "value": "C'est toi qui ne comprends rien, Howl."
+        },
+        {
+            "key": "016",
+            "value": "Rundall et Lykeros sont en pleine guerre, en ce moment."
+        },
+        {
+            "key": "017",
+            "value": "Ah."
+        },
+        {
+            "key": "018",
+            "value": "Ces soldats avaient peut-être une très bonne raison de se trouver ici."
+        },
+        {
+            "key": "019",
+            "value": "Enfin bon. Vous aussi vous devriez être plus prudentes."
+        },
+        {
+            "key": "020",
+            "value": "Allez, on y va."
+        },
+        {
+            "key": "021",
+            "value": "Attendez. Qui êtes-vous, exactement ?"
+        },
+        {
+            "key": "022",
+            "value": "Votre style ne me rappelle ni Rundall ni Lykeros, je me trompe ?"
+        },
+        {
+            "key": "023",
+            "value": "Vous n'avez qu'à dire... Que je suis un beau voyageur."
+        },
+        {
+            "key": "024",
+            "value": "Que la modestie n'étouffe pas..."
+        },
+        {
+            "key": "025",
+            "value": "Honnête, surtout, tu le sais bien."
+        },
+        {
+            "key": "026",
+            "value": "Mais vous devez bien venir de quelque part, non ?"
+        },
+        {
+            "key": "027",
+            "value": "Hah ! J'en étais sûre. Cette maîtrise de l'épée doit bien venir de quelque part. Tu n'es pas qu'un simple voyageur."
+        },
+        {
+            "key": "028",
+            "value": "Ha ha ha ! Je suis démasqué."
+        },
+        {
+            "key": "029",
+            "value": "J'espérais pouvoir le cacher mais il est vrai qu'un talent comme le mien ne peut rester dans l'ombre bien longtemps."
+        },
+        {
+            "key": "030",
+            "value": "Je m'effraie moi-même, parfois."
+        },
+        {
+            "key": "031",
+            "value": "Ce talent extraordinaire, alors... D'où vient-il ?"
+        },
+        {
+            "key": "032",
+            "value": "Pardonnez-moi, gente dame, mais je ne peux vous dévoiler ce secret. Conserver une part de mystère fait beaucoup pour le charme d'un homme."
+        },
+        {
+            "key": "033",
+            "value": "Regardez-le faire le beau gosse alors qu'il s'est juste enfui de l'entraînement."
+        },
+        {
+            "key": "034",
+            "value": "C'est vrai ! Papa s'est fâché tout rouge et il a banni Howly !"
+        },
+        {
+            "key": "035",
+            "value": "Ha ha ha ! Il faut que jeunesse se passe, n'est-ce pas ?"
+        },
+        {
+            "key": "036",
+            "value": "Pour le dire autrement, notre cher frère s'est fait déshériter après avoir séché une leçon de trop et nous, on l'a suivi... Parce qu'on s'inquiétait pour lui."
+        },
+        {
+            "key": "037",
+            "value": "Hm. Je vois."
+        },
+        {
+            "key": "038",
+            "value": "Vous avez ce que vous vouliez savoir ?"
+        },
+        {
+            "key": "039",
+            "value": "Sur ce, nous, on y va."
+        },
+        {
+            "key": "040",
+            "value": "Ah, cette séparation si précoce me déchire le cœur. Pardonnez la froideur de mon cadet."
+        },
+        {
+            "key": "041",
+            "value": "Bye bye les filles !"
+        },
+        {
+            "key": "042",
+            "value": "Incroyable."
+        },
+        {
+            "key": "043",
+            "value": "Oui, hein ? On a eu de la chance de tomber sur des guerriers aussi doués."
+        },
+        {
+            "key": "044",
+            "value": "Ils pourraient encore nous servir..."
+        },
+        {
+            "key": "045",
+            "value": "Ah ! Je ne te reconnais bien là. On ne s'ennuie jamais avec toi."
+        }
+    ]
+}

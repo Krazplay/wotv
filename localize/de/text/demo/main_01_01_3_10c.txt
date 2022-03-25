@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Schuzelt. Schmerzen deine Wunden sehr?"
+        },
+        {
+            "key": "002",
+            "value": "Vergebt mir, Euer Hoheit ..."
+        },
+        {
+            "key": "003",
+            "value": "Mach dir nichts daraus. Es gibt nichts, wofür du dich entschuldigen müsstest."
+        },
+        {
+            "key": "004",
+            "value": "Hurraaa!"
+        },
+        {
+            "key": "005",
+            "value": "Verstärkung!"
+        },
+        {
+            "key": "006",
+            "value": "Verstärkung?! Das darf nicht sein ..."
+        },
+        {
+            "key": "007",
+            "value": "Hourne! Hourne hat uns Verstärkung geschickt!"
+        },
+        {
+            "key": "008",
+            "value": "Dann ist es wohl zu spät ..."
+        },
+        {
+            "key": "009",
+            "value": "..."
+        }
+    ]
+}

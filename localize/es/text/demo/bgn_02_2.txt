@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Qué os parece si ahora hablamos de los <color=#0000ff>PT</color>, los <color=#0000ff>PA</color> y los <color=#0000ff>estallidos límite</color>?"
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Según las características de la habilidad en cuestión, necesitaréis o bien <color=#0000ff>PT (puntos de técnica)</color> o bien <color=#0000ff>PA (puntos de ataque)</color>."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Los <color=#0000ff>PT</color> se usan mayormente para habilidades con <color=#0000ff>efectos de apoyo</color>, mientras que los <color=#0000ff>PA</color> se usan sobre todo para las habilidades que infligen <color=#0000ff>daño</color> directamente."
+        },
+        {
+            "key": "004",
+            "value": "Los PT están <color=#0000ff>al máximo</color> al inicio del combate y <color=#0000ff>no se restaurarán</color> a menos que se usen objetos como los éteres."
+        },
+        {
+            "key": "005",
+            "value": "Por otra parte, los PA escasean al inicio de la batalla, pero sí que se pueden <color=#0000ff>acumular</color> al usar ataques normales o habilidades que consumen PT."
+        },
+        {
+            "key": "006",
+            "value": "Los <color=#0000ff>estallidos límite</color> son habilidades que poseen algunas unidades y son equivalentes a las <color=#0000ff>técnicas especiales</color>. Para usarse, requieren <color=#0000ff>una gran cantidad de PA</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Tampoco os olvidéis de que cada habilidad cuenta con un <color=#0000ff>número de usos limitado</color>."
+        },
+        {
+            "key": "008",
+            "value": "¡No esperaba menos de vos, lord Mont!"
+        },
+        {
+            "key": "009",
+            "value": "Por cierto, ¿os habéis dado cuenta de que las ventanas de las habilidades que se nutren de PT son <color=#0000ff>amarillas</color>, mientras que las que requieren PA son <color=#0000ff>rosas</color>?"
+        },
+        {
+            "key": "010",
+            "value": "Los PT son de apoyo y los PA son de ataque… Mientras mejor comprendáis todas sus características, más fácil os resultará vencer en las batallas que están por venir."
+        }
+    ]
+}

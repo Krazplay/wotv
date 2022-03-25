@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Schloss Wezette ist noch immer außer Sichtweite?"
+        },
+        {
+            "key": "002",
+            "value": "Leider ja."
+        },
+        {
+            "key": "003",
+            "value": "König Yrdes Wunden scheinen wesentlich schwerer zu sein, als ich angenommen hatte."
+        },
+        {
+            "key": "004",
+            "value": "Das sind sie."
+        },
+        {
+            "key": "005",
+            "value": "Wir müssen uns beeilen. Wenn sich nicht schon sehr bald ein Heiler um ihn kümmert, wird er ihnen erliegen."
+        },
+        {
+            "key": "006",
+            "value": "... Dann gilt es, keine Zeit zu verlieren."
+        }
+    ]
+}

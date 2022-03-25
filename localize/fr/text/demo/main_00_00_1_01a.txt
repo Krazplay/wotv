@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "000_1",
+            "value": "Ardra, ancienne terre de Lapis, dont l'histoire est brodée de la légende des Cristaux, et dont les enfants se déchirent en querelles intestines."
+        },
+        {
+            "key": "000_2",
+            "value": "Parmi eux, le royaume de Leonis, taille de chaton mais griffes de lion, tient tête depuis des siècles aux puissantes nations qui l'assiègent grâce au pouvoir d'un Anneau offert par Ailes d'acier en personne."
+        },
+        {
+            "key": "000_3",
+            "value": "Les visions, manifestations de pensées et d'émotions enfouies, et puissantes alliées en combat, ont permis au royaume d'inspirer la crainte à ses voisins."
+        },
+        {
+            "key": "000_4",
+            "value": "Mais à chaque ruade d'un cruel destin, les liens familiaux, d'amour et même d'amitié se distendent jusqu'à la rupture."
+        },
+        {
+            "key": "000_5",
+            "value": "Lequel de ces royaumes rivaux parviendra à obtenir la radieuse faveur des Cristaux ?"
+        },
+        {
+            "key": "001",
+            "value": "Voilà donc le village..."
+        },
+        {
+            "key": "002",
+            "value": "Tu es nerveux, Mont ?"
+        },
+        {
+            "key": "003",
+            "value": "Et toi, Sterne ? Tu ne vas pas me faire croire que tu aimes ça, si ?"
+        },
+        {
+            "key": "004",
+            "value": "Si terrasser des monstres me permet de t'accompagner sur le terrain, ça me va."
+        },
+        {
+            "key": "005",
+            "value": "À force de passer ses journées au château, on finit par s'ennuyer, tu sais."
+        },
+        {
+            "key": "006",
+            "value": "Tu n'as pas tort..."
+        },
+        {
+            "key": "007",
+            "value": "Nous discuterons plus tard. On a de la compagnie... des bombos nous barrent la route."
+        },
+        {
+            "key": "008",
+            "value": "Mont..."
+        },
+        {
+            "key": "009",
+            "value": "Oui, je sais..."
+        }
+    ]
+}

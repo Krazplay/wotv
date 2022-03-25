@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Il est temps de parler des <color=#0000ff>enchaînements élémentaires</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Vous souvenez-vous des <color=#0000ff>enchaînements</color> générés par <color=#0000ff>une succession</color> d'attaques de même type sur un ennemi ? Eh bien, voici la <color=#0000ff>version élémentaire</color> de ce phénomène."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "En infligeant <color=#0000ff>à répétition des aptitudes du même élément</color> sur un ennemi, vous provoquerez un enchaînement élémentaire qui <color=#0000ff>multipliera vos dégâts</color>."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Ces unités sont toutes <color=#0000ff>bénies par la terre</color>, faites-les attaquer avec leurs <color=#0000ff>aptitudes élémentaires</color>."
+        },
+        {
+            "key": "006",
+            "value": "Si l'ennemi est <color=#0000ff>attaqué par un élément différent</color> ou si c'est à <color=#0000ff>son tour d'agir</color>, alors l'enchaînement élémentaire <color=#0000ff>se brise</color>."
+        },
+        {
+            "key": "007",
+            "value": "Bien sûr, les <color=#0000ff>attaques normales</color> <color=#0000ff>ne contribuent pas</color> à générer un enchaînement élémentaire, puisqu'elles <color=#0000ff>n'appartiennent à aucun élément</color>. Prêtez une attention particulière à ce point."
+        },
+        {
+            "key": "009",
+            "value": "Rien ne vous arrête, Sire !"
+        },
+        {
+            "key": "010",
+            "value": "Saviez-vous que les enchaînements normaux et les enchaînements élémentaires <color=#0000ff>se cumulent</color> ?"
+        },
+        {
+            "key": "011",
+            "value": "Ainsi, deux unités qui <color=#0000ff>partagent des attaques de même type et de même élément</color>, comme Mont et Beilo par exemple, génèrent donc <color=#0000ff>deux enchaînements à la fois</color> !"
+        },
+        {
+            "key": "012",
+            "value": "Vous serez un réel expert du combat quand vous saurez vous servir des faiblesses des ennemis pour générer les enchaînements les plus efficaces."
+        }
+    ]
+}

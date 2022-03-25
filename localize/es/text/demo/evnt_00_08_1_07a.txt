@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Aquella mansión que se ve allí... Ese debe de ser el gremio de mercaderes de armas."
+        },
+        {
+            "key": "002",
+            "value": "Sin duda. Galzak debe de estar en su interior."
+        },
+        {
+            "key": "003",
+            "value": "Velne..., tú quédate aquí."
+        },
+        {
+            "key": "004",
+            "value": "No, voy contigo."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Permaneceremos juntos, incluso en la muerte..."
+        },
+        {
+            "key": "007",
+            "value": "No vamos a morir aquí. Sobreviviremos... ¿Entendido?"
+        },
+        {
+            "key": "008",
+            "value": "Sí..."
+        },
+        {
+            "key": "009",
+            "value": "En marcha. Ya es hora de reescribir el destino de nuestro pueblo..."
+        }
+    ]
+}

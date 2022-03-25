@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Permettez-moi de vous expliquer les <color=#0000ff>éléments</color> d'une unité."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Toutes les unités sont bénies par la faveur d'un des éléments suivants : <color=#0000ff>le feu</color>, <color=#0000ff>la glace</color>, <color=#0000ff>le vent</color>, <color=#0000ff>la terre</color>, <color=#0000ff>la foudre</color>, <color=#0000ff>l'eau</color>, <color=#0000ff>la lumière</color>, ou bien <color=#0000ff>l'ombre</color>."
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Les éléments possèdent certaines affinités entre eux, autrement dit, ils sont <color=#0000ff>efficaces contre certains éléments</color> et <color=#0000ff>limités contre d'autres</color>."
+        },
+        {
+            "key": "006",
+            "value": "Amener vos alliés à attaquer <color=#0000ff>avec des éléments efficaces</color> contre vos ennemis, vous aidera à leur infliger <color=#0000ff>d'importants dégâts</color>."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Au contraire, attaquer un ennemi avec une unité dont <color=#0000ff>l'élément est faible</color> infligera des dégâts plus <color=#0000ff>faibles</color> qu'à l'accoutumée."
+        },
+        {
+            "key": "008",
+            "value": "Sire, <color=#0000ff>votre élément est la terre</color>. Attaquez-vous donc plutôt à des <color=#0000ff>ennemis de type foudre</color>."
+        },
+        {
+            "key": "009",
+            "value": "L'élément de la Commandante Lilyth est <color=#0000ff>le feu</color>, elle sera donc plus forte contre les <color=#0000ff>ennemis de type glace</color>."
+        },
+        {
+            "key": "010",
+            "value": "Quant à moi, je suis bénie par <color=#0000ff>l'élément d'eau</color>, je préfère donc me battre contre des <color=#0000ff>ennemis affiliés à l'élément feu</color>. Répartissons-nous les ennemis selon le type de <color=#0000ff>dégât élémentaire</color> que nous pouvons leur asséner."
+        },
+        {
+            "key": "011",
+            "value": "【削除】"
+        },
+        {
+            "key": "012",
+            "value": "Encore une victoire !"
+        },
+        {
+            "key": "013",
+            "value": "Pendant le combat, avez-vous remarqué que le <color=#0000ff>tableau des affinités élémentaires</color> apparaissait juste avant de lancer une attaque sur un ennemi ?"
+        },
+        {
+            "key": "014",
+            "value": "N'hésitez pas à le consulter le temps de vous familiariser avec ces informations."
+        }
+    ]
+}

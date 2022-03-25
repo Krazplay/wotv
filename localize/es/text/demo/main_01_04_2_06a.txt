@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ugh…"
+        },
+        {
+            "key": "002",
+            "value": "¿Eso es todo? ¡Vaya pandilla de enclenques!"
+        },
+        {
+            "key": "003",
+            "value": "¿De verdad sois la élite de Leonis? Esto es todo de lo que Fortem es capaz, ¿no?"
+        },
+        {
+            "key": "004",
+            "value": "¡Uh!"
+        },
+        {
+            "key": "005",
+            "value": "¡Reina Helena!"
+        },
+        {
+            "key": "006",
+            "value": "N-no te preocupes… por mí."
+        },
+        {
+            "key": "007",
+            "value": "Pero esa herida…"
+        },
+        {
+            "key": "008",
+            "value": "¡Malditas sanguijuelas!"
+        },
+        {
+            "key": "009",
+            "value": "(Owe, debes retirarte)."
+        },
+        {
+            "key": "010",
+            "value": "(¡N-no puedo! Eso sería…)"
+        },
+        {
+            "key": "011",
+            "value": "(¡Es una orden!)"
+        },
+        {
+            "key": "012",
+            "value": "¿Cómo? ¡¿Ya estáis barajando la retirada?!"
+        },
+        {
+            "key": "013",
+            "value": "¡Eso no puede ser! El gran sir Owe nunca huiría de un combate, ¿no?"
+        },
+        {
+            "key": "014",
+            "value": "Venga, sigamos."
+        },
+        {
+            "key": "015",
+            "value": "Sí, la diversión aún no ha acabado."
+        }
+    ]
+}

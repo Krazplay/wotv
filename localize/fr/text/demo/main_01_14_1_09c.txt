@@ -1,0 +1,240 @@
+﻿{
+    "infos": [
+        {
+            "key": "140209",
+            "value": "Vous n'avez pas le choix, il me semble."
+        },
+        {
+            "key": "140210",
+            "value": "Je t'offre ma vie en échange, si tu préfères."
+        },
+        {
+            "key": "140211",
+            "value": "Pourquoi donc ?"
+        },
+        {
+            "key": "140212",
+            "value": "Pour que tu me prêtes ton pouvoir."
+        },
+        {
+            "key": "140213",
+            "value": "Non."
+        },
+        {
+            "key": "140214",
+            "value": "Il n'y a donc aucun moyen ?"
+        },
+        {
+            "key": "140215",
+            "value": "Je ne me battrai pas pour Fennes tant que Mallius ne sera pas libre."
+        },
+        {
+            "key": "140216",
+            "value": "Il n'y a plus… de Mallius."
+        },
+        {
+            "key": "140217",
+            "value": "Qu-qui l'a tué ?"
+        },
+        {
+            "key": "140218",
+            "value": "…"
+        },
+        {
+            "key": "140219",
+            "value": "Réponds !"
+        },
+        {
+            "key": "140220",
+            "value": "C'était de ma faute…"
+        },
+        {
+            "key": "140221",
+            "value": "Pardonne-moi… Je suis vraiment désolée."
+        },
+        {
+            "key": "140222",
+            "value": "…"
+        },
+        {
+            "key": "140223",
+            "value": "Je le savais."
+        },
+        {
+            "key": "140224",
+            "value": "Quoi… ?"
+        },
+        {
+            "key": "140225",
+            "value": "Je… Je suis descendue dans les prisons."
+        },
+        {
+            "key": "140226",
+            "value": "Alors… pourquoi ?"
+        },
+        {
+            "key": "140227",
+            "value": "Je refusais de l'admettre."
+        },
+        {
+            "key": "140228",
+            "value": "J'ai peut-être réussi à me convaincre que ce n'était qu'un cauchemar…"
+        },
+        {
+            "key": "140229",
+            "value": "Que tant que je ne ferais pas face à la réalité, j'avais encore une chance de me réveiller."
+        },
+        {
+            "key": "140230",
+            "value": "Mais vous venez de… !"
+        },
+        {
+            "key": "140231",
+            "value": "Pourquoi ? Pourquoi avouer ? Pourquoi vous excuser pour ce crime ?"
+        },
+        {
+            "key": "140232",
+            "value": "Si vous n'aviez rien dit, Mallius serait encore vivant dans mes rêves !"
+        },
+        {
+            "key": "140233",
+            "value": "Oh, Mallius, Mallius…"
+        },
+        {
+            "key": "140234",
+            "value": "Que me reste-t-il au monde si tu n'es plus là ?"
+        },
+        {
+            "key": "140235",
+            "value": "Quelle raison ai-je encore de me battre pour Muraga ?"
+        },
+        {
+            "key": "140236",
+            "value": "Non !"
+        },
+        {
+            "key": "140237",
+            "value": "C'est moi qui l'ai tué !"
+        },
+        {
+            "key": "140238",
+            "value": "Si tu dois haïr quelqu'un, hais-moi !"
+        },
+        {
+            "key": "140239",
+            "value": "Je ne me battrai pas pour l'ancien roi."
+        },
+        {
+            "key": "140240",
+            "value": "Que puis-je t'offrir pour… ?"
+        },
+        {
+            "key": "140241",
+            "value": "Ça suffit."
+        },
+        {
+            "key": "140242",
+            "value": "Si je dois me battre…"
+        },
+        {
+            "key": "140243",
+            "value": "Kilphe…"
+        },
+        {
+            "key": "140244",
+            "value": "Je me battrai pour celle qui a décoré chaque jour la tombe de Mallius avec des fleurs fraîches."
+        },
+        {
+            "key": "140245",
+            "value": "Kilphe… !"
+        },
+        {
+            "key": "140246",
+            "value": "Ceci étant dit, les forces de Fennes n'ont aucune chance contre celles de Hourne et Leonis réunies."
+        },
+        {
+            "key": "140247",
+            "value": "Alors même toi tu es impuissante ?"
+        },
+        {
+            "key": "140248",
+            "value": "Nous avons un seul recours."
+        },
+        {
+            "key": "140249",
+            "value": "Nous allier avec Mont."
+        },
+        {
+            "key": "140250",
+            "value": "M-mais…"
+        },
+        {
+            "key": "140251",
+            "value": "La double armée prévoit sûrement d'envahir Wezett après avoir achevé le serpent sans tête qu'est Fennes."
+        },
+        {
+            "key": "140252",
+            "value": "Et Sadali ne peut l'ignorer."
+        },
+        {
+            "key": "140253",
+            "value": "C'est-à-dire ?"
+        },
+        {
+            "key": "140254",
+            "value": "Qu'il se prépare sans doute à les prendre à revers avec ses moines."
+        },
+        {
+            "key": "140255",
+            "value": "Mont et ses alliés doivent déjà le craindre."
+        },
+        {
+            "key": "140256",
+            "value": "C'est pourquoi ils commencent par se débarrasser de Fennes."
+        },
+        {
+            "key": "140257",
+            "value": "Tu veux dire que si nous nous rendons et joignons nos forces aux leurs…"
+        },
+        {
+            "key": "140258",
+            "value": "Nous avons une chance de vaincre Melenia."
+        },
+        {
+            "key": "140259",
+            "value": "Très bien."
+        },
+        {
+            "key": "140260",
+            "value": "Mais il reste un problème."
+        },
+        {
+            "key": "140261",
+            "value": "Lequel ?"
+        },
+        {
+            "key": "140262",
+            "value": "Pouvons-nous faire entendre raison à la garde impériale de Muraga et les convaincre de se rendre ?"
+        },
+        {
+            "key": "140263",
+            "value": "Ça serait…"
+        },
+        {
+            "key": "140264",
+            "value": "Si nous échouons, nous perdons notre seule voie vers Wezett."
+        },
+        {
+            "key": "140265",
+            "value": "Très bien. Je rallierai la garde à notre cause."
+        },
+        {
+            "key": "140266",
+            "value": "Et sinon ?"
+        },
+        {
+            "key": "140267",
+            "value": "Ils obéiront à mon épée."
+        }
+    ]
+}

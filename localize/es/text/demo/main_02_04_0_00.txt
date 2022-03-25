@@ -1,0 +1,108 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Por qué paras? ¿Crees que voy a huir?"
+        },
+        {
+            "key": "002",
+            "value": "Cuéntame qué es lo que se te pasa por la cabeza..."
+        },
+        {
+            "key": "003",
+            "value": "Nada. No tengo ningún sentimiento que aflore en este lugar."
+        },
+        {
+            "key": "004",
+            "value": "¿Te parece extraño?..."
+        },
+        {
+            "key": "005",
+            "value": "Pensaba que cuando alguien regresa a su tierra natal después de tanto tiempo sentiría algo especial..."
+        },
+        {
+            "key": "006",
+            "value": "Yo abandoné esta nación. Ya no hay nada a lo que pueda llamar tierra natal."
+        },
+        {
+            "key": "007",
+            "value": "¿Eso piensas?..."
+        },
+        {
+            "key": "008",
+            "value": "Me imagino que estabas esperando otro tipo de respuesta."
+        },
+        {
+            "key": "009",
+            "value": "Solo me preguntaba cómo podría ser una tierra natal... Mera curiosidad."
+        },
+        {
+            "key": "010",
+            "value": "Dicen que tu tierra natal es un tubo de cultivo en las profundidades de Santocristal."
+        },
+        {
+            "key": "011",
+            "value": "Así es."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "¿No crees que es hora de que me lo cuentes?"
+        },
+        {
+            "key": "014",
+            "value": "¿Contarte el qué?"
+        },
+        {
+            "key": "015",
+            "value": "La razón por la que has venido aquí."
+        },
+        {
+            "key": "016",
+            "value": "Buscas algo aquí, en la tierra de Leonis, ¿me equivoco?"
+        },
+        {
+            "key": "017",
+            "value": "…"
+        },
+        {
+            "key": "018",
+            "value": "Si no me cuentas de qué se trata, poco puedo hacer por ayudarte."
+        },
+        {
+            "key": "019",
+            "value": "Lo sabrás muy pronto."
+        },
+        {
+            "key": "020",
+            "value": "Bien."
+        },
+        {
+            "key": "021",
+            "value": "Entraremos en el territorio de Leonis dentro de muy poco."
+        },
+        {
+            "key": "022",
+            "value": "Te recomiendo que lleves tu equipo de protección y que te prepares para lidiar con el miasma."
+        },
+        {
+            "key": "023",
+            "value": "Dicen que es capaz de pudrir tu cuerpo desde el interior si alcanza tus pulmones."
+        },
+        {
+            "key": "024",
+            "value": "Me imagino que el equipo no es de tu agrado, pero no creo que quieras morir aún."
+        },
+        {
+            "key": "025",
+            "value": "Los seres humanos son una forma de vida compleja…"
+        },
+        {
+            "key": "026",
+            "value": "..."
+        }
+    ]
+}

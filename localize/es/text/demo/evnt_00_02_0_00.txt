@@ -1,0 +1,192 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡¿Esa es la comandante del enemigo?!"
+        },
+        {
+            "key": "002",
+            "value": "¡H-he oído hablar de ella! Si no recuerdo mal, se llama…"
+        },
+        {
+            "key": "003",
+            "value": "No, no puede ser… Es la pistolera de la tercera división de Rundal, la comandante de Calorum…"
+        },
+        {
+            "key": "004",
+            "value": "Así es. La Gatillo Fácil… ¡La mismísima Lu'Cía!"
+        },
+        {
+            "key": "005",
+            "value": "Caramba, veo que mi nombre ha llegado hasta las regiones más remotas. Qué honor."
+        },
+        {
+            "key": "006",
+            "value": "Decidle al rey de Hourne que esta fortaleza ahora pertenece a Lu'Cía."
+        },
+        {
+            "key": "007",
+            "value": "¡Volvamos al castillo! ¡Hay que pedir refuerzos cuanto antes!"
+        },
+        {
+            "key": "008",
+            "value": "¡D-de acuerdo!"
+        },
+        {
+            "key": "009",
+            "value": "¡Ay!"
+        },
+        {
+            "key": "010",
+            "value": "¡¿Estás bien?!"
+        },
+        {
+            "key": "011",
+            "value": "No te preocupes. Solo me ha rozado."
+        },
+        {
+            "key": "012",
+            "value": "La Lu'Cía que yo conozco no falla ningún disparo a esa distancia…"
+        },
+        {
+            "key": "013",
+            "value": "Bueno, pues parece que las historias exageran sobre la puntería de la Gatillo Fácil."
+        },
+        {
+            "key": "014",
+            "value": "¿Has oído eso?"
+        },
+        {
+            "key": "015",
+            "value": "¡Dicen que lady Lu'Cía tiene que afinar más la puntería!"
+        },
+        {
+            "key": "016",
+            "value": "Como la provoquen, van a desear no haber nacido."
+        },
+        {
+            "key": "017",
+            "value": "¿Creéis que la estamos provocando? ¿En serio?"
+        },
+        {
+            "key": "018",
+            "value": "La fortaleza es nuestra. Sin embargo…"
+        },
+        {
+            "key": "019",
+            "value": "Entendido. Y a estos… los dejamos vivos."
+        },
+        {
+            "key": "020",
+            "value": "¡¿Dejarnos con vida?! ¡¿Acaso nos vais a usar como rehenes?!"
+        },
+        {
+            "key": "021",
+            "value": "Así que os estáis haciendo los tontos, ¿eh? Eso es lo que estabais esperando desde el principio, ¿o me equivoco? ¡Vaya, qué envidia me dais!"
+        },
+        {
+            "key": "022",
+            "value": "¿Envidia?"
+        },
+        {
+            "key": "023",
+            "value": "¡Pues claro! Vais a tener la suerte de que os torture lady Lu'Cía."
+        },
+        {
+            "key": "024",
+            "value": "Cuidado con lo que dices. No los voy a torturar, vamos a jugar."
+        },
+        {
+            "key": "025",
+            "value": "Jugar… Me gusta cómo suena."
+        },
+        {
+            "key": "026",
+            "value": "Pues, entonces, yo también quiero unirme a los soldados de Hourne."
+        },
+        {
+            "key": "027",
+            "value": "Venga, ya es hora de comenzar. Hay que disfrutar todo lo que se pueda."
+        },
+        {
+            "key": "028",
+            "value": "Acabo de oír que ha regresado un mensajero de la fortaleza que hay cerca de la frontera con Rundal al oeste."
+        },
+        {
+            "key": "029",
+            "value": "Te enteras rápido de las cosas."
+        },
+        {
+            "key": "030",
+            "value": "La fortaleza ha caído en manos de Calorum, la tercera división del ejército de Rundal."
+        },
+        {
+            "key": "031",
+            "value": "No me digas que vas a ir al oeste, hacia la fortaleza…"
+        },
+        {
+            "key": "032",
+            "value": "Voy a convocar a la segunda división de Hourne, a Nitor. Lo normal en estos casos."
+        },
+        {
+            "key": "033",
+            "value": "Mmm."
+        },
+        {
+            "key": "034",
+            "value": "No recuperé el control de Nitor de las garras de Glahz para hacer labores de mantenimiento en el castillo…"
+        },
+        {
+            "key": "035",
+            "value": "¿Recuperar, dices?"
+        },
+        {
+            "key": "036",
+            "value": "Nitor es la división que fundó mi padre. Glahz se hizo con ella jugando sucio."
+        },
+        {
+            "key": "037",
+            "value": "No hay ninguna prueba de ello. Si los soldados tenían algo que decir contra Glahz, se lo callaron en su momento."
+        },
+        {
+            "key": "038",
+            "value": "¡Pe-pero ese bastardo…!"
+        },
+        {
+            "key": "039",
+            "value": "Te comprendo. Y, por eso mismo, he autorizado el duelo entre Glahz y tú."
+        },
+        {
+            "key": "040",
+            "value": "…"
+        },
+        {
+            "key": "041",
+            "value": "Estoy preocupado, Adelardo."
+        },
+        {
+            "key": "042",
+            "value": "¿Preocupado por qué?"
+        },
+        {
+            "key": "043",
+            "value": "Puede que ahora seas el comandante de Nitor, pero los soldados siguen siendo leales a Glahz."
+        },
+        {
+            "key": "044",
+            "value": "Si lideras a Nitor en una expedición tú solo, podrías correr peligro."
+        },
+        {
+            "key": "045",
+            "value": "Os equivocáis, su majestad. Eso es precisamente lo que quiero que suceda."
+        },
+        {
+            "key": "046",
+            "value": "Es la oportunidad perfecta para demostrarle a los soldados quién es mejor comandante."
+        },
+        {
+            "key": "047",
+            "value": "…"
+        }
+    ]
+}

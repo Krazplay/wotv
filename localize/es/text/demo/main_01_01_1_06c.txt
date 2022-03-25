@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Majestad, tengo novedades!"
+        },
+        {
+            "key": "002",
+            "value": "Cuéntame."
+        },
+        {
+            "key": "003",
+            "value": "Parece que los bandidos se están concentrando en el bosque de allí delante."
+        },
+        {
+            "key": "004",
+            "value": "Creemos que nos triplican en número."
+        },
+        {
+            "key": "005",
+            "value": "No estamos lidiando con bribones de tres al cuarto. Son de armas tomar."
+        },
+        {
+            "key": "006",
+            "value": "¿Quién creéis que les está dando las órdenes entonces?"
+        },
+        {
+            "key": "007",
+            "value": "Espero que no os estéis guardando la respuesta a esa pregunta, lady Machérie…"
+        },
+        {
+            "key": "008",
+            "value": "Porque está claro a quién andan buscando."
+        },
+        {
+            "key": "009",
+            "value": "Por desgracia…, tengo demasiados enemigos."
+        }
+    ]
+}

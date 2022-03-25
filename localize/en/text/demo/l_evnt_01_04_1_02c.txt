@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "099",
+            "value": "Reporting, Your Majesty! Fennes troops have been sighted on our borders! They appear to be heading this way. How shall we proceed?"
+        },
+        {
+            "key": "100",
+            "value": "We meet them as they come, of course. Mobilize the troops. I want every available man."
+        },
+        {
+            "key": "101",
+            "value": "As you wish! And, er, there is something else, Your Majesty."
+        },
+        {
+            "key": "102",
+            "value": "What is it?"
+        },
+        {
+            "key": "103",
+            "value": "A swarm of monsters has been spotted approaching. It is possible they'll sweep right through one of our villages..."
+        },
+        {
+            "key": "104",
+            "value": "Do the villagers know?"
+        },
+        {
+            "key": "105",
+            "value": "No, not as yet. We just..."
+        },
+        {
+            "key": "106",
+            "value": "Then leave it be. Our priority is the Fennes army."
+        },
+        {
+            "key": "107",
+            "value": "B-but..."
+        },
+        {
+            "key": "108",
+            "value": "Do you object?"
+        },
+        {
+            "key": "109",
+            "value": "N-no, Your Majesty! We will prepare for battle immediately!"
+        },
+        {
+            "key": "110",
+            "value": "...Well, Mont? You heard."
+        },
+        {
+            "key": "111",
+            "value": "March out immediately with «Caelum» and meet Fennes head on."
+        },
+        {
+            "key": "112",
+            "value": "Father, do you really intend to abandon the village to the monsters?"
+        },
+        {
+            "key": "113",
+            "value": "Do not make me repeat myself. Give the village no more thought."
+        },
+        {
+            "key": "114",
+            "value": "But what of our duty to our people...? They need to be protected!"
+        },
+        {
+            "key": "115",
+            "value": "He's right, Father! Even just a small squadron would be enough..."
+        },
+        {
+            "key": "116",
+            "value": "Our realm is threatened by invasion. Our forces cannot be divided for sake of one small village."
+        },
+        {
+            "key": "117",
+            "value": "I trust I needn't explain any further."
+        },
+        {
+            "key": "118",
+            "value": "......"
+        },
+        {
+            "key": "119",
+            "value": "If we cannot protect the village, we should at least evacuate its inhabitants!"
+        },
+        {
+            "key": "120",
+            "value": "To do nothing, when we have it in our power to save innocent lives..."
+        },
+        {
+            "key": "121",
+            "value": "Mont. You'd have the right of it―if you were a man beholden to no one but yourself."
+        },
+        {
+            "key": "122",
+            "value": "But it takes more than being \"right\" to protect a nation."
+        },
+        {
+            "key": "123",
+            "value": "Yet, still...!"
+        },
+        {
+            "key": "124",
+            "value": "If you do not have the spine for this, then I shall lead «Caelum» myself."
+        },
+        {
+            "key": "125",
+            "value": "«Fortem» will stay here to protect the castle."
+        },
+        {
+            "key": "126",
+            "value": "You are forbidden to send any troops to the village."
+        },
+        {
+            "key": "127",
+            "value": "Beyond that, do as you please."
+        },
+        {
+            "key": "128",
+            "value": "I-I understand."
+        },
+        {
+            "key": "129",
+            "value": "That will be all."
+        },
+        {
+            "key": "130",
+            "value": "Father..."
+        },
+        {
+            "key": "131",
+            "value": "...No, this is not the time to let my heart sink. The threat to our people draws nearer with every moment."
+        },
+        {
+            "key": "132",
+            "value": "The army must stay here, and I have few men at my disposal... But we must take action nonetheless."
+        },
+        {
+            "key": "133",
+            "value": "I refuse to sit back and allow a single soul to die!"
+        },
+        {
+            "key": "134",
+            "value": "...Brother!"
+        },
+        {
+            "key": "135",
+            "value": "...Sterne."
+        },
+        {
+            "key": "136",
+            "value": "Is this all the men you have? It's not enough."
+        },
+        {
+            "key": "137",
+            "value": "Brother...I should go with you!"
+        },
+        {
+            "key": "138",
+            "value": "No, Sterne. You have your own duties."
+        },
+        {
+            "key": "139",
+            "value": "This is my own rash choice, and I cannot drag you into it."
+        },
+        {
+            "key": "140",
+            "value": "It's not too late. You could plead with Father to spare you some of his soldiers."
+        },
+        {
+            "key": "141",
+            "value": "No. He was right. Protecting the realm comes first, and he needs every man."
+        },
+        {
+            "key": "142",
+            "value": "But Brother..."
+        },
+        {
+            "key": "143",
+            "value": "Fear not. We shall bring the villagers to safety before the day is over."
+        },
+        {
+            "key": "144",
+            "value": "Protect the castle, Sterne."
+        },
+        {
+            "key": "145",
+            "value": "...I will. As commander of «Fortem», I swear to carry out my sworn duty."
+        },
+        {
+            "key": "146",
+            "value": "...Thank you, Brother."
+        }
+    ]
+}

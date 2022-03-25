@@ -1,0 +1,116 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Majestad, traigo noticias de la frontera."
+        },
+        {
+            "key": "002",
+            "value": "Unos bandidos están atacando a una brigada cerca de la frontera con Hourne."
+        },
+        {
+            "key": "003",
+            "value": "¡¿Bandidos?!"
+        },
+        {
+            "key": "004",
+            "value": "¡Padre! Permite que…"
+        },
+        {
+            "key": "005",
+            "value": "No, seré yo el que vaya."
+        },
+        {
+            "key": "006",
+            "value": "¿Pero por qué? ¿Es que no me ves capaz?"
+        },
+        {
+            "key": "007",
+            "value": "No tengas tanta prisa por alcanzar la gloria."
+        },
+        {
+            "key": "008",
+            "value": "La gloria me importa un bledo. Dame una respuesta…"
+        },
+        {
+            "key": "009",
+            "value": "Cuando llegue el momento."
+        },
+        {
+            "key": "010",
+            "value": "Siempre dices lo mismo, padre, pero cuándo…"
+        },
+        {
+            "key": "011",
+            "value": "Más pronto de lo que esperas y, ahora, basta de discusiones."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "Siempre dices que combatir es la única forma de entrenar de verdad…"
+        },
+        {
+            "key": "014",
+            "value": "¿No es así, padre?"
+        },
+        {
+            "key": "015",
+            "value": "Exactamente."
+        },
+        {
+            "key": "016",
+            "value": "Entonces…"
+        },
+        {
+            "key": "017",
+            "value": "El linaje de los Leonis debe perdurar, aunque perdamos el favor de los dioses defendiéndolo."
+        },
+        {
+            "key": "018",
+            "value": "Que no se te olvide, pues no hay nada más importante."
+        },
+        {
+            "key": "019",
+            "value": "…"
+        },
+        {
+            "key": "020",
+            "value": "Mont, encárgate de los preparativos. Reúne a tus espadachines, hay que poner a Caelum en marcha."
+        },
+        {
+            "key": "021",
+            "value": "S-sí, padre."
+        },
+        {
+            "key": "022",
+            "value": "Helena, cuida del castillo en nuestra ausencia."
+        },
+        {
+            "key": "023",
+            "value": "Por supuesto, mi señor. También rezaré para que volváis lo antes posible."
+        },
+        {
+            "key": "024",
+            "value": "Kiton."
+        },
+        {
+            "key": "025",
+            "value": "No pierdas de vista a Stern y que no haga ninguna tontería."
+        },
+        {
+            "key": "026",
+            "value": "A sus órdenes."
+        },
+        {
+            "key": "027",
+            "value": "¿Por qué padre tiene tan poca confianza en mí?"
+        },
+        {
+            "key": "028",
+            "value": "¿Voy a ser un príncipe segundón toda mi vida?…"
+        }
+    ]
+}

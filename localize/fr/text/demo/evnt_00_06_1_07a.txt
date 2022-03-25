@@ -1,0 +1,120 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Qu'est-ce qu'il s'est passé, ici ?"
+        },
+        {
+            "key": "002",
+            "value": "Hm. Ils ne donnent pas des lits très confortables à leurs soldats dans l'armée de Rundall."
+        },
+        {
+            "key": "003",
+            "value": "Ils ne dorment pas, espèce de crétin. Quelqu'un les a mis dans cet état."
+        },
+        {
+            "key": "004",
+            "value": "Eh, toi. Qu'est-ce qu'il s'est passé ?"
+        },
+        {
+            "key": "005",
+            "value": "Vous êtes... Des amis de cette femme... ?"
+        },
+        {
+            "key": "006",
+            "value": "Non. On ne peut pas dire ça..."
+        },
+        {
+            "key": "007",
+            "value": "Argh... Qui est-elle, au juste ?"
+        },
+        {
+            "key": "008",
+            "value": "J'allais poser la même question. Où est-elle partie ?"
+        },
+        {
+            "key": "009",
+            "value": "Argh !"
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "On dirait que Luartha est responsable de ce carnage."
+        },
+        {
+            "key": "012",
+            "value": "Je ne m'attendais pas à ça."
+        },
+        {
+            "key": "013",
+            "value": "Hm... Cette Luartha a l'air d'être une sacrée princesse !"
+        },
+        {
+            "key": "014",
+            "value": "Il y a quelqu'un !"
+        },
+        {
+            "key": "015",
+            "value": "V-vous ! Vous êtes avec elle !"
+        },
+        {
+            "key": "016",
+            "value": "Pas encore, non. Mais dans le futur, elle pourrait devenir la mère de mes enfants."
+        },
+        {
+            "key": "017",
+            "value": "A-arrête. C'est déjà assez gênant comme ça."
+        },
+        {
+            "key": "018",
+            "value": "Je ne fais que dire la vérité."
+        },
+        {
+            "key": "019",
+            "value": "Tiens, mais..."
+        },
+        {
+            "key": "020",
+            "value": "Où est Viktora ?"
+        },
+        {
+            "key": "021",
+            "value": "Bon. Qu'est-ce qu'on fait d'eux ?"
+        },
+        {
+            "key": "022",
+            "value": "On va finir par mettre Chel en danger."
+        },
+        {
+            "key": "023",
+            "value": "Hors de question. Je ne laisserai pas cela arriver."
+        },
+        {
+            "key": "024",
+            "value": "Je tiens à Chel comme à la prunelle de mes yeux."
+        },
+        {
+            "key": "025",
+            "value": "Youhou ! Moi aussi je t'adore, frérot !"
+        },
+        {
+            "key": "026",
+            "value": "Comme c'est émouvant, une famille aussi soudée."
+        },
+        {
+            "key": "027",
+            "value": "On vous envoie tous ensemble dans l'au-delà, promis."
+        },
+        {
+            "key": "028",
+            "value": "Howl, on les écrase et on se tire d'ici."
+        },
+        {
+            "key": "029",
+            "value": "Je crois que tu as raison. Nous n'avons pas le choix."
+        }
+    ]
+}

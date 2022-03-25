@@ -1,0 +1,364 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "You're just going to let them go like that?"
+        },
+        {
+            "key": "002",
+            "value": "No need to waste our time with lackeys and underlings."
+        },
+        {
+            "key": "003",
+            "value": "...I see."
+        },
+        {
+            "key": "004",
+            "value": "Well, then. We have the blade...shall we return home?"
+        },
+        {
+            "key": "005",
+            "value": "No doubt the old man's worried about us."
+        },
+        {
+            "key": "006",
+            "value": "...I will not be returning."
+        },
+        {
+            "key": "007",
+            "value": "What? Why not?"
+        },
+        {
+            "key": "008",
+            "value": "You said all that about being renounced was just a jest, did you not?"
+        },
+        {
+            "key": "009",
+            "value": "I have nowhere to return to."
+        },
+        {
+            "key": "010",
+            "value": "Nowhere?"
+        },
+        {
+            "key": "011",
+            "value": "The Sanctum is searching for Master as we speak."
+        },
+        {
+            "key": "012",
+            "value": "That is why I had to lead you and Chel away from that place..."
+        },
+        {
+            "key": "013",
+            "value": "My deception was simply a means to throw our enemy off our trail."
+        },
+        {
+            "key": "014",
+            "value": "And the old man...?"
+        },
+        {
+            "key": "015",
+            "value": "He has long since abandoned the mansion. Of that I am certain."
+        },
+        {
+            "key": "016",
+            "value": "Where he hides himself...I cannot say."
+        },
+        {
+            "key": "017",
+            "value": "Well, then. Shouldn't we go find him?"
+        },
+        {
+            "key": "018",
+            "value": "A sound idea. I leave that to you."
+        },
+        {
+            "key": "019",
+            "value": "And where will you go, Brother?"
+        },
+        {
+            "key": "020",
+            "value": "Me? I have unfinished business to which I must attend."
+        },
+        {
+            "key": "021",
+            "value": "The remaining five blades...?"
+        },
+        {
+            "key": "022",
+            "value": "Precisely. And so this is where I say farewell."
+        },
+        {
+            "key": "023",
+            "value": "No. In that case, I'm going with you."
+        },
+        {
+            "key": "024",
+            "value": "I want to go with you, too!"
+        },
+        {
+            "key": "025",
+            "value": "...No. I cannot put the two of you at risk."
+        },
+        {
+            "key": "026",
+            "value": "Brother..."
+        },
+        {
+            "key": "027",
+            "value": "But why, Howlie? Why can't we go with you?"
+        },
+        {
+            "key": "028",
+            "value": "Things have changed... My journey from here will not be a pleasant one."
+        },
+        {
+            "key": "029",
+            "value": "Because the Sanctum will not give up until they acquire the blade...?"
+        },
+        {
+            "key": "030",
+            "value": "...Precisely, Brother."
+        },
+        {
+            "key": "031",
+            "value": "Men like that Khamral may be mere lackeys..."
+        },
+        {
+            "key": "032",
+            "value": "But they will stop at nothing to achieve their nefarious goals..."
+        },
+        {
+            "key": "033",
+            "value": "Pray watch over my siblings."
+        },
+        {
+            "key": "034",
+            "value": "I cannot do that. I..."
+        },
+        {
+            "key": "035",
+            "value": "You were prepared to throw your life away, were you not?"
+        },
+        {
+            "key": "036",
+            "value": "And now you mean to say I owe it to you?"
+        },
+        {
+            "key": "037",
+            "value": "Far from it. You yourself made the choice to live."
+        },
+        {
+            "key": "038",
+            "value": "You renounced death, and chose to fight at my side."
+        },
+        {
+            "key": "039",
+            "value": "I have my own score to settle with the Sanctum. Nothing more."
+        },
+        {
+            "key": "040",
+            "value": "I know. And that very Sanctum would take aim at the lives of my family."
+        },
+        {
+            "key": "041",
+            "value": "But why me?"
+        },
+        {
+            "key": "042",
+            "value": "The strength you possess is abundantly clear to me from our battle together."
+        },
+        {
+            "key": "043",
+            "value": "......"
+        },
+        {
+            "key": "044",
+            "value": "Howlie!"
+        },
+        {
+            "key": "045",
+            "value": "Forgive me, Chel. Brother must go off on his own for a while."
+        },
+        {
+            "key": "046",
+            "value": "No! I won't let you! I want to be with you, Howlie!"
+        },
+        {
+            "key": "047",
+            "value": "Forever! Forever and ever and ever and ever!"
+        },
+        {
+            "key": "048",
+            "value": "All men reach a time in their life when they need do what must be done."
+        },
+        {
+            "key": "049",
+            "value": "It'll just be for a little while...until my task is done."
+        },
+        {
+            "key": "050",
+            "value": "Just a little while? Really just a little while, this time?"
+        },
+        {
+            "key": "051",
+            "value": "Yes, Chel. Just a little while."
+        },
+        {
+            "key": "052",
+            "value": "In the meantime, promise me you, too, will do what must be done."
+        },
+        {
+            "key": "053",
+            "value": "But what's that?"
+        },
+        {
+            "key": "054",
+            "value": "Why, to put a smile on this young lady's face, of course."
+        },
+        {
+            "key": "055",
+            "value": "A smile...?"
+        },
+        {
+            "key": "056",
+            "value": "You said you wanted to see her smile, yes?"
+        },
+        {
+            "key": "057",
+            "value": "I sure did!"
+        },
+        {
+            "key": "058",
+            "value": "Okay, Howlie! You just watch me! I'll do just that!"
+        },
+        {
+            "key": "059",
+            "value": "...And that's not all. You, too, must grow strong."
+        },
+        {
+            "key": "060",
+            "value": "I will! I'll grow so strong!"
+        },
+        {
+            "key": "061",
+            "value": "And you must become even more beautiful..."
+        },
+        {
+            "key": "062",
+            "value": "Beautiful...? But why?"
+        },
+        {
+            "key": "063",
+            "value": "So that I have even more to look forward to when we are next reunited."
+        },
+        {
+            "key": "064",
+            "value": "Got it!"
+        },
+        {
+            "key": "065",
+            "value": "I trust you'll keep Chel from any rats on our trail, Tyytas?"
+        },
+        {
+            "key": "066",
+            "value": "I am not the warrior you are, Brother..."
+        },
+        {
+            "key": "067",
+            "value": "But you are my brother. You can do it."
+        },
+        {
+            "key": "068",
+            "value": "You would not have been born my brother otherwise."
+        },
+        {
+            "key": "069",
+            "value": "I'm not sure that's how it works...　"
+        },
+        {
+            "key": "070",
+            "value": "Forgive me, Tyytas. Those of my power are prone to confidence. I am trying to keep myself in check, despite what you may think."
+        },
+        {
+            "key": "071",
+            "value": "...If you say so."
+        },
+        {
+            "key": "072",
+            "value": "That settles that, then."
+        },
+        {
+            "key": "073",
+            "value": "I ask you again. You would entrust your dear siblings to me, a stranger?"
+        },
+        {
+            "key": "074",
+            "value": "Chel is my treasure. My pride and joy."
+        },
+        {
+            "key": "075",
+            "value": "Forgive me..."
+        },
+        {
+            "key": "076",
+            "value": "If only I were as strong as Brother, we would not have to impose upon you like this..."
+        },
+        {
+            "key": "077",
+            "value": "No..."
+        },
+        {
+            "key": "078",
+            "value": "There is no need to apologize. In fact, I owe you my thanks."
+        },
+        {
+            "key": "079",
+            "value": "Why is that...?"
+        },
+        {
+            "key": "080",
+            "value": "If I had gone to join my departed brother today as I planned...he would never have forgiven me."
+        },
+        {
+            "key": "081",
+            "value": "He would have rebuked me for not having protected your dear sister..."
+        },
+        {
+            "key": "082",
+            "value": "When I see him again, I want to greet him with my head held high."
+        },
+        {
+            "key": "083",
+            "value": "So please, allow me to do this much."
+        },
+        {
+            "key": "084",
+            "value": "......"
+        },
+        {
+            "key": "085",
+            "value": "I fear I cannot promise you a smile."
+        },
+        {
+            "key": "086",
+            "value": "The wounds are too deep, and the scars will not heal..."
+        },
+        {
+            "key": "087",
+            "value": "But still..."
+        },
+        {
+            "key": "088",
+            "value": "Perhaps by living on I can bring smiles to the faces of others..."
+        },
+        {
+            "key": "089",
+            "value": "...Yes."
+        },
+        {
+            "key": "090",
+            "value": "If anyone can do that, it is you."
+        }
+    ]
+}

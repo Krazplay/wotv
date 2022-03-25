@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ce navire appartient donc à la guilde…"
+        },
+        {
+            "key": "002",
+            "value": "Beau vaisseau. Les affaires vont bon train à ce que je vois."
+        },
+        {
+            "key": "003",
+            "value": "Qui va-là ?"
+        },
+        {
+            "key": "004",
+            "value": "… !"
+        }
+    ]
+}

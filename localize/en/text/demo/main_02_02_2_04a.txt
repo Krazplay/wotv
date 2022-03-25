@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "308",
+            "value": "Go no further if you value your life."
+        },
+        {
+            "key": "309",
+            "value": "I am Resnick of Heindler. I wish to speak with Garvall."
+        },
+        {
+            "key": "310",
+            "value": "Did you not hear what I said?"
+        },
+        {
+            "key": "311",
+            "value": "That would be my sentiment."
+        },
+        {
+            "key": "312",
+            "value": "......"
+        },
+        {
+            "key": "313",
+            "value": "If this must be done with force, then step forward."
+        },
+        {
+            "key": "314",
+            "value": "This is your last chance to eat those words."
+        },
+        {
+            "key": "315",
+            "value": "Cease your incessant chatter. I have naught the time for it."
+        },
+        {
+            "key": "316",
+            "value": "...Oh?"
+        },
+        {
+            "key": "317",
+            "value": "Then we'll do this the painful way."
+        }
+    ]
+}

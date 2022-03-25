@@ -1,0 +1,112 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Merci de m'avoir accompagné. Tu peux rentrer maintenant."
+        },
+        {
+            "key": "002",
+            "value": "Comment ça rentrer ? Tu ne crois quand même pas que je vais te laisser y aller seul ?"
+        },
+        {
+            "key": "003",
+            "value": "Tu ne viens pas. Un point c'est tout."
+        },
+        {
+            "key": "004",
+            "value": "Tu peux dire ce que tu veux, rien ne m'empêchera de te suivre. J'ai horreur de voir mon grand frère partir sans moi."
+        },
+        {
+            "key": "005",
+            "value": "Saliah, ce n'est pas un jeu, je suis en mission."
+        },
+        {
+            "key": "006",
+            "value": "C'est justement pour ça que je t'accompagne ! Tu sais à quel point je suis une bonne mage, n'est-ce pas ?"
+        },
+        {
+            "key": "007",
+            "value": "C'est vrai que tu te débrouilles, m..."
+        },
+        {
+            "key": "008",
+            "value": "... Voilà ce que voulais entendre ! Je viens !"
+        },
+        {
+            "key": "009",
+            "value": "..."
+        },
+        {
+            "key": "010",
+            "value": "Donc… Tu vas le faire ?"
+        },
+        {
+            "key": "011",
+            "value": "Le faire ? Faire quoi ?"
+        },
+        {
+            "key": "012",
+            "value": "Sauver Mont, pardi ! Tu es un peu lent à la détente."
+        },
+        {
+            "key": "013",
+            "value": "Tu veux dire nous allier avec Leonis ?"
+        },
+        {
+            "key": "014",
+            "value": "Eh bien… Machalie est amoureuse de Mont, n'est-ce pas ? Ça se voit comme le nez au milieu de la figure."
+        },
+        {
+            "key": "015",
+            "value": "Oui, on dirait, mais il ne faut pas oublier que nous représentons Hourne, et c'est avec Fennes que nous sommes alliés."
+        },
+        {
+            "key": "016",
+            "value": "Oh… Donc on va se battre contre Leonis ?"
+        },
+        {
+            "key": "017",
+            "value": "C'est plus subtil que ça. Notre mission est de récupérer les reliques séculaires."
+        },
+        {
+            "key": "018",
+            "value": "Ceux qui se mettront en travers de notre route devront en payer le prix."
+        },
+        {
+            "key": "019",
+            "value": "Et si c'est Muraga ?"
+        },
+        {
+            "key": "020",
+            "value": "Tu n'aimes vraiment pas Muraga, n'est-ce pas ?"
+        },
+        {
+            "key": "021",
+            "value": "Pas plus que toi Adelard, je me trompe ?"
+        },
+        {
+            "key": "022",
+            "value": "Je ne pense pas que le roi Rob approuverait cela."
+        },
+        {
+            "key": "023",
+            "value": "Je pourrais peut-être saboter la poursuite, lui infliger une ou deux graves blessures, ni vu ni connu."
+        },
+        {
+            "key": "024",
+            "value": "Hein ? Tu penses que ça suffirait ?"
+        },
+        {
+            "key": "025",
+            "value": "Le moment viendra, pour l'instant, ce n'est pas ce qui nous est demandé."
+        },
+        {
+            "key": "026",
+            "value": "Bon... tu peux m'accompagner, mais pas de vagues... C'est clair ?"
+        },
+        {
+            "key": "027",
+            "value": "Pff… ça va, ça va j'ai compris... Comme tu veux."
+        }
+    ]
+}

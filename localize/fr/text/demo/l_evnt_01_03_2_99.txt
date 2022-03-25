@@ -1,0 +1,276 @@
+﻿{
+    "infos": [
+        {
+            "key": "385",
+            "value": "On a gagné !"
+        },
+        {
+            "key": "386",
+            "value": "Aaargh !"
+        },
+        {
+            "key": "387",
+            "value": "Maître, le cristal !"
+        },
+        {
+            "key": "388",
+            "value": "Ne crains rien apprenti. Comme tu le vois, il est à nous."
+        },
+        {
+            "key": "389",
+            "value": "Ouf ! Notre plan a marché, alors."
+        },
+        {
+            "key": "390",
+            "value": "C'est notre charge désespérée et irréfléchie que tu qualifies de « plan » ? Mais en effet, nous avons réussi à disperser leurs rangs grâce à l'effet de surprise."
+        },
+        {
+            "key": "391",
+            "value": "Dame Graziella, merci pour votre aide."
+        },
+        {
+            "key": "392",
+            "value": "Je vous en prie. Nous aurions dû nous battre contre eux à un moment ou un autre, cristal fondamental ou pas."
+        },
+        {
+            "key": "393",
+            "value": "Vous n'avez jamais été tentée de vous servir du cristal à vos propres fins, pour aider Wezett ?"
+        },
+        {
+            "key": "394",
+            "value": "Il vous aurait été utile dans votre révolte contre Khory."
+        },
+        {
+            "key": "395",
+            "value": "Non… Si nous changeons Wezett, ce doit être par nos propres moyens."
+        },
+        {
+            "key": "396",
+            "value": "Et je ne suis pas naïve au point de croire que posséder quelque chose d'aussi puissant serait sans conséquence."
+        },
+        {
+            "key": "397",
+            "value": "Même si le cristal fondamental nous permettait de gagner, nous attirerions des ennemis animés par la convoitise."
+        },
+        {
+            "key": "398",
+            "value": "Et ce royaume ne connaîtrait jamais la paix à cause de sa présence même."
+        },
+        {
+            "key": "399",
+            "value": "Hm. Si c'est une femme telle que vous qui devient reine, alors le rêve de paix me semble bien avoir des chances de se réaliser."
+        },
+        {
+            "key": "400",
+            "value": "C'est un rêve que je compte bien entretenir."
+        },
+        {
+            "key": "401",
+            "value": "C'est ma vocation, si vous voulez. Bien qu'elle soit plus modeste que celle de restaurer l'équilibre du monde."
+        },
+        {
+            "key": "402",
+            "value": "Dame Graziella. Nous jurons de protéger votre monde."
+        },
+        {
+            "key": "403",
+            "value": "Mais en échange, promettez-nous que vous offrirez à votre peuple un plus bel avenir."
+        },
+        {
+            "key": "404",
+            "value": "Nous saurions alors que nous ne nous battons pas pour rien."
+        },
+        {
+            "key": "405",
+            "value": "Je vous le promets. Nous allons révolutionner ce pays, le monde, même, et le rendre meilleur."
+        },
+        {
+            "key": "406",
+            "value": "Mais pour l'instant, nous allons devoir nous faire discrets le temps de rassembler assez de forces pour nous défendre. Aussi devons-nous vous quitter ici."
+        },
+        {
+            "key": "407",
+            "value": "Même si à la vérité, nous aurions de quoi faire avec des guerriers tels que vous dans nos rangs."
+        },
+        {
+            "key": "408",
+            "value": "J'aurais aimé vous aider davantage, mais nous devons remplir notre mission avant tout."
+        },
+        {
+            "key": "409",
+            "value": "Je sais. Le destin nous pousse sur des chemins différents. Que nous trouvions chacun la victoire au bout !"
+        },
+        {
+            "key": "410",
+            "value": "Oui !"
+        },
+        {
+            "key": "411",
+            "value": "Tu as fini, Lucio ? Approche, veux-tu, et ne traîne pas."
+        },
+        {
+            "key": "412",
+            "value": "Nous devons partir d'ici avant que Wezett ne remarque ce qui est arrivé à son armée."
+        },
+        {
+            "key": "413",
+            "value": "Dame Graziella, soldats de « Spirare ». De notre monde au vôtre, je prie pour votre triomphe face aux événements qui vous attendent."
+        },
+        {
+            "key": "414",
+            "value": "Merci pour votre aide précieuse !"
+        },
+        {
+            "key": "415",
+            "value": "Je tiendrai ma promesse. Nous rendrons la paix et la prospérité à ce royaume !"
+        },
+        {
+            "key": "416",
+            "value": "Beau travail, Lucio. Cette mission n'était pas facile, tu t'en es pourtant sorti avec brio."
+        },
+        {
+            "key": "417",
+            "value": "Oh, euh, merci Seigneur."
+        },
+        {
+            "key": "418",
+            "value": "Tu m'auras même appris quelque chose : qu'il faut parfois savoir agir sans trop réfléchir."
+        },
+        {
+            "key": "419",
+            "value": "Nous ne cessons d'apprendre, et il semble que j'aie quelques leçons à recevoir de toi."
+        },
+        {
+            "key": "420",
+            "value": "C-C'est trop, Maître. Je ne sais plus où me mettre."
+        },
+        {
+            "key": "421",
+            "value": "Ce n'est pas trop tôt."
+        },
+        {
+            "key": "422",
+            "value": "Hiiii ! D-Dame Jeaum !"
+        },
+        {
+            "key": "423",
+            "value": "Vous revoilà ! Il paraît que vous revenez d'une sacrée aventure."
+        },
+        {
+            "key": "424",
+            "value": "Était-ce une raison pour sécher ton entraînement ? Je vais t'apprendre le respect à coup de bâton !"
+        },
+        {
+            "key": "425",
+            "value": "A-attendez, je voulais vous prévenir avant de partir, je-je le jure ! Mais le seigneur Ranan a…"
+        },
+        {
+            "key": "426",
+            "value": "Allons, du calme, Jeaum. Je ne doute pas qu'il se sent très mal de t'avoir fait faux bond."
+        },
+        {
+            "key": "427",
+            "value": "Seigneur, vous prenez ma défense ?"
+        },
+        {
+            "key": "428",
+            "value": "Mais puisqu'on parle de son entraînement, j'ai identifié quelques points faibles qui requièrent ton attention."
+        },
+        {
+            "key": "429",
+            "value": "Il a la mauvaise habitude de ne pas surveiller son flanc gauche. Je suis certain qu'il apprécierait que vous vous concentriez là-dessus."
+        },
+        {
+            "key": "430",
+            "value": "C'est compris."
+        },
+        {
+            "key": "431",
+            "value": "Qu-quoi ? Mais Maître, je croyais que vous étiez de mon côté !"
+        },
+        {
+            "key": "432",
+            "value": "Tu aspires à devenir un grand Guerrier des cristaux, non ? Alors entraîne-toi."
+        },
+        {
+            "key": "433",
+            "value": "Bon, c'est tout ? Nous avons un entraînement à reprendre, nous."
+        },
+        {
+            "key": "434",
+            "value": "M-mais…"
+        },
+        {
+            "key": "435",
+            "value": "Ah !"
+        },
+        {
+            "key": "436",
+            "value": "Hein ?"
+        },
+        {
+            "key": "437",
+            "value": "Qu'est-ce que... cette lumière !"
+        },
+        {
+            "key": "438",
+            "value": "Qu-qu'est-ce qu'il se passe ?!"
+        },
+        {
+            "key": "439",
+            "value": "Tiens, tiens…"
+        },
+        {
+            "key": "440",
+            "value": "Ranan. Tu es au courant de quelque chose ?"
+        },
+        {
+            "key": "441",
+            "value": "Ce n'est qu'une simple hypothèse pour l'instant. Mais si elle est correcte…"
+        },
+        {
+            "key": "442",
+            "value": "Oui ? Maître ? Qu'est-ce qu'il se passe si vous avez raison ?"
+        },
+        {
+            "key": "443",
+            "value": "Je ne vais pas m'étendre sur un sujet aussi incertain. Je garde mes réflexions pour moi pour le moment."
+        },
+        {
+            "key": "444",
+            "value": "Mais, Maître…"
+        },
+        {
+            "key": "445",
+            "value": "Allez, ne t'inquiète pas. Tu as beaucoup appris de ta dernière aventure, non ?"
+        },
+        {
+            "key": "446",
+            "value": "Et l'expérience, c'est la clef pour un apprenti comme toi. Je suis sûre que tu récoltes les fruits de tes efforts !"
+        },
+        {
+            "key": "447",
+            "value": "Vous… Vous croyez que je me mets à briller parce que je deviens plus fort ?"
+        },
+        {
+            "key": "448",
+            "value": "Aucune idée !"
+        },
+        {
+            "key": "449",
+            "value": "Mais je croyais que c'était ce que vous veniez de dire !"
+        },
+        {
+            "key": "450",
+            "value": "Bon, quand tu auras fini de faire la luciole, on pourra reprendre. Ton programme vient de doubler, pour rattraper le retard que tu as pris."
+        },
+        {
+            "key": "451",
+            "value": "Mais ce n'était pas ma faute ! Dame Jeaum, attendez !"
+        },
+        {
+            "key": "452",
+            "value": "Hmm… Un nouveau Guerrier des cristaux…"
+        }
+    ]
+}

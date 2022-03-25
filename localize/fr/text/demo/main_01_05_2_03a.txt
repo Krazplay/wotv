@@ -1,0 +1,156 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Père !"
+        },
+        {
+            "key": "002",
+            "value": "Ce n'est vraiment... qu'une égratignure..."
+        },
+        {
+            "key": "003",
+            "value": "Nous ne pouvons pas continuer ainsi."
+        },
+        {
+            "key": "004",
+            "value": "..."
+        },
+        {
+            "key": "005",
+            "value": "Au rapport !"
+        },
+        {
+            "key": "006",
+            "value": "Les forces de Muraga sont toujours à nos trousses ! Elles ne vont pas tarder à nous rattraper !"
+        },
+        {
+            "key": "007",
+            "value": "Comment est-ce possible ? Personne ne connaît cette route hormis les habitants de Wezett !"
+        },
+        {
+            "key": "008",
+            "value": "Sire, nous risquons de..."
+        },
+        {
+            "key": "009",
+            "value": "Je sais."
+        },
+        {
+            "key": "010",
+            "value": "Minnwu, écoute-moi."
+        },
+        {
+            "key": "011",
+            "value": "Si tu es vraiment de notre côté, alors j'ai une proposition à te faire."
+        },
+        {
+            "key": "012",
+            "value": "Je vous écoute."
+        },
+        {
+            "key": "013",
+            "value": "Muraga a découvert notre route d'une façon ou d'une autre."
+        },
+        {
+            "key": "014",
+            "value": "Vous soupçonnez la présence d'un espion dans vos rangs ?"
+        },
+        {
+            "key": "015",
+            "value": "Mont, ça suffit."
+        },
+        {
+            "key": "016",
+            "value": "Père..."
+        },
+        {
+            "key": "017",
+            "value": "Ne comprends-tu pas les conséquences que pourrait avoir le fait de jeter ainsi un discrédit immérité sur ceux qui t'obéissent ?"
+        },
+        {
+            "key": "018",
+            "value": "..."
+        },
+        {
+            "key": "019",
+            "value": "Je t'ai posé une question !"
+        },
+        {
+            "key": "020",
+            "value": "S-si... Je le comprends."
+        },
+        {
+            "key": "021",
+            "value": "Prince Mont, êtes-vous certain qu'un traître se trouve parmi nous ?"
+        },
+        {
+            "key": "022",
+            "value": "La décision que vous prendrez maintenant scellera le destin de tous."
+        },
+        {
+            "key": "023",
+            "value": "..."
+        },
+        {
+            "key": "024",
+            "value": "La route forme une fourche un peu plus loin."
+        },
+        {
+            "key": "025",
+            "value": "Je voulais nous faire prendre le chemin de droite, mais..."
+        },
+        {
+            "key": "026",
+            "value": "Sire !"
+        },
+        {
+            "key": "027",
+            "value": "Nous emprunterons celui de gauche. Mais seulement un temps, puis nous ferons demi-tour."
+        },
+        {
+            "key": "028",
+            "value": "Mont ! Tu ne m'écoutes donc pas !"
+        },
+        {
+            "key": "029",
+            "value": "Je vois. Nous regagnerons donc finalement le chemin de droite."
+        },
+        {
+            "key": "030",
+            "value": "Mont !"
+        },
+        {
+            "key": "031",
+            "value": "Quand nous tournerons à gauche, l'espion le transmettra à ses alliés."
+        },
+        {
+            "key": "032",
+            "value": "Vous comptez retourner leur ruse contre eux ?"
+        },
+        {
+            "key": "033",
+            "value": "Je ne sais si l'espion indique notre passage en marquant l'écorce des arbres ou en laissant des signes sur le chemin. "
+        },
+        {
+            "key": "034",
+            "value": "Mais nos ennemis suivent une piste, cela ne fait aucun doute. Nous devons la découvrir..."
+        },
+        {
+            "key": "035",
+            "value": "C'est une folie..."
+        },
+        {
+            "key": "036",
+            "value": "Père... j'entendrai votre sermon. Mais plus tard."
+        },
+        {
+            "key": "037",
+            "value": "Nous n'avons pas le temps pour le moment. Vous devez me faire confiance."
+        },
+        {
+            "key": "038",
+            "value": "Très bien. Mais n'oublie pas. Tu seras seul responsable des conséquences de tes actes."
+        }
+    ]
+}

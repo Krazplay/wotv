@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ahora os voy a explicar los <color=#0000ff>cristales</color> y la <color=#0000ff>aparición de objetos</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Los cristales aparecen cuando una unidad <color=#0000ff>se retira</color> del combate."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "También podrían aparecer en el propio mapa al inicio del combate."
+        },
+        {
+            "key": "004",
+            "value": "Los cristales se pueden conseguir desplazando a una unidad encima de ellos. Sirven para <color=#0000ff>recuperar VIT y PT</color> y para <color=#0000ff>aumentar la bravura</color> de una unidad."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "005",
+            "value": "No obstante, es muy importante que sepáis que los enemigos también pueden hacerse con cristales."
+        },
+        {
+            "key": "006",
+            "value": "Además, se pueden <color=#0000ff>conseguir</color> objetos de los <color=#0000ff>enemigos que están K.O.</color>. A este efecto se le llama <color=#0000ff>aparición de objetos</color>."
+        },
+        {
+            "key": "007",
+            "value": "El número de objetos adquiridos en la aparición de objetos se muestra cerca del <color=#0000ff>icono del cofre</color> que hay en la pantalla."
+        },
+        {
+            "key": "008",
+            "value": "También podéis ver lo que habéis conseguido a través del menú."
+        },
+        {
+            "key": "009",
+            "value": "Mirad, parece que están apuntando a Learte. ¡Usad los cristales a vuestro favor y aplastad al enemigo!"
+        }
+    ]
+}

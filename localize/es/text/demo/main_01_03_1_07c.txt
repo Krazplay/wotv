@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Una aldea!"
+        },
+        {
+            "key": "002",
+            "value": "Me pregunto si tendrán algo de comer…"
+        },
+        {
+            "key": "003",
+            "value": "¿En serio? ¿Solo piensas en eso o qué?"
+        },
+        {
+            "key": "004",
+            "value": "Beilo, me vas a tener que perdonar, pero no vamos a parar en esa aldea."
+        },
+        {
+            "key": "005",
+            "value": "¿Eh? ¿Cómo?"
+        },
+        {
+            "key": "006",
+            "value": "Tenemos que llegar al castillo de Wezette lo antes posible."
+        },
+        {
+            "key": "007",
+            "value": "Además, si entramos en la aldea con el enemigo pisándonos los talones, sus habitantes podrían sufrir las consecuencias."
+        },
+        {
+            "key": "008",
+            "value": "Alteza, cuánta razón albergan vuestras palabras."
+        },
+        {
+            "key": "009",
+            "value": "Kiton, ¿alguna novedad?"
+        },
+        {
+            "key": "010",
+            "value": "Los soldados de Fennes cada vez están más cerca."
+        },
+        {
+            "key": "011",
+            "value": "¡¿Cómo?! ¿Ya los tenemos encima?"
+        },
+        {
+            "key": "012",
+            "value": "Panda de bárbaros… Corren como bestias salvajes."
+        },
+        {
+            "key": "013",
+            "value": "Padre, tenemos que darnos prisa. A este paso…"
+        },
+        {
+            "key": "014",
+            "value": "Venga, vamos. Haremos un pequeño alto en la aldea."
+        },
+        {
+            "key": "015",
+            "value": "¿Cómo?"
+        },
+        {
+            "key": "016",
+            "value": "¡Eso no es posible! Si vamos a la aldea, la van a…"
+        }
+    ]
+}

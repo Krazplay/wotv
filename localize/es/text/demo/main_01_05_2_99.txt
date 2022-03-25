@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Pero qué es esto? No paran de salir…"
+        },
+        {
+            "key": "002",
+            "value": "Maldita sea. Son infinitos…"
+        },
+        {
+            "key": "003",
+            "value": "Je, je. Habéis subestimado a Santocristal."
+        },
+        {
+            "key": "004",
+            "value": "¿Acaso no sabíais la cantidad de gente que alaba a lord Sadali? ¡No os lo podéis ni imaginar!"
+        },
+        {
+            "key": "005",
+            "value": "Cantidad es sinónimo de fuerza. Os vendría bien grabaros eso en la frente."
+        },
+        {
+            "key": "006",
+            "value": "Bueno, va siendo hora de mandaros al infierno, ¿no?"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Por favor, alteza, no vayáis por ahí."
+        },
+        {
+            "key": "002",
+            "value": "¿Por qué no?"
+        },
+        {
+            "key": "003",
+            "value": "¿Es que no se tarda menos por aquí en llegar a Wezette?"
+        },
+        {
+            "key": "004",
+            "value": "A… a lo mejor…"
+        },
+        {
+            "key": "005",
+            "value": "¿Qué pasa, Minwu?"
+        },
+        {
+            "key": "006",
+            "value": "…"
+        },
+        {
+            "key": "007",
+            "value": "Contesta."
+        },
+        {
+            "key": "008",
+            "value": "Puede que sea un atajo, pero el camino está infestado de monstruos muy peligrosos."
+        },
+        {
+            "key": "009",
+            "value": "Como nos están persiguiendo, creo que es mejor tomar un camino más seguro…"
+        },
+        {
+            "key": "010",
+            "value": "Buena idea."
+        },
+        {
+            "key": "011",
+            "value": "Minwu nos seguirá guiando. ¿Tienes algo que objetar, Mont?"
+        },
+        {
+            "key": "012",
+            "value": "No, padre."
+        }
+    ]
+}

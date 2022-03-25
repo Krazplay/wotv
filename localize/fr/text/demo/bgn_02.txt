@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Passons maintenant aux <color=#0000ff>enchaînements</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Pendant le dernier combat, vous étiez épaulé par Sire Sterne."
+        },
+        {
+            "key": "003",
+            "value": "En infligeant <color=#0000ff>le même type d'attaque à répétition</color> à un ennemi, vous provoquerez un enchaînement qui <color=#0000ff>multipliera vos dégâts</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Plus vous provoquez d'enchaînements, plus les dégâts augmentent."
+        },
+        {
+            "key": "005",
+            "value": "En revanche, l'enchaînement se brise si l'ennemi <color=#0000ff>fait une action</color>."
+        },
+        {
+            "key": "006",
+            "value": "Pour l'instant, notre équipe est composée de nombreux spécialistes des attaques tranchantes, dont vous, Sire Mont, et Sire Sterne."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Je vous recommande d'éliminer d'abord le bandit à l'aide d'un <color=#0000ff>enchaînement d'attaques normales</color>, puis d'infliger à l'ogre en dernière ligne un enchaînement combiné d'attaques normales et d'<color=#0000ff>aptitudes tranchantes</color>."
+        },
+        {
+            "key": "008",
+            "value": "Bravo Sire ! Rien ne vous résiste."
+        },
+        {
+            "key": "009",
+            "value": "Vous avez remarqué comme <color=#0000ff>les dégâts augmentaient</color> avec la multiplication des enchaînements ?"
+        },
+        {
+            "key": "010",
+            "value": "Gardez un œil sur la barre d'action pour élaborer des stratégies et optimiser vos attaques."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Por fin las hemos encontrado!"
+        },
+        {
+            "key": "002",
+            "value": "¡Reina Helena! ¡Estas reliquias ancestrales nos ayudarán a afianzar las victorias en el futuro!"
+        },
+        {
+            "key": "003",
+            "value": "…"
+        },
+        {
+            "key": "004",
+            "value": "Aún seguís preocupada, ¿verdad?"
+        },
+        {
+            "key": "005",
+            "value": "¿Qué ocurre?"
+        },
+        {
+            "key": "006",
+            "value": "Supongo que tengo mis dudas…"
+        },
+        {
+            "key": "007",
+            "value": "¿De verdad está bien que nos llevemos todas estas reliquias de aquí?"
+        },
+        {
+            "key": "008",
+            "value": "¿Por qué no iba a estarlo? Los dioses nos las legaron para que las usáramos llegado el momento."
+        },
+        {
+            "key": "009",
+            "value": "Es verdad…"
+        },
+        {
+            "key": "010",
+            "value": "Estas reliquias nos llevarán hacia la gloria. No podemos perder la fe ahora."
+        },
+        {
+            "key": "011",
+            "value": "¿Qué clase de reliquias habrá aquí dentro?…"
+        },
+        {
+            "key": "012",
+            "value": "No toques eso."
+        },
+        {
+            "key": "013",
+            "value": "No sabemos qué tipo de reliquias contienen los cofres."
+        },
+        {
+            "key": "014",
+            "value": "Ni cuáles son las consecuencias de manipularlas sin saber."
+        },
+        {
+            "key": "015",
+            "value": "Di-disculpadme, majestad."
+        },
+        {
+            "key": "016",
+            "value": "Sacad los cofres de aquí."
+        },
+        {
+            "key": "017",
+            "value": "¡A la orden!"
+        },
+        {
+            "key": "018",
+            "value": "Ya habéis oído a su majestad. Sacadlos de aquí con cuidado."
+        }
+    ]
+}

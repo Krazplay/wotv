@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Les voilà enfin !"
+        },
+        {
+            "key": "002",
+            "value": "Reine Helena ! Avec ces reliques en notre possession, nous sommes certains de sortir victorieux de nos futures batailles !"
+        },
+        {
+            "key": "003",
+            "value": "..."
+        },
+        {
+            "key": "004",
+            "value": "Vous semblez toujours préoccupée, Votre Altesse."
+        },
+        {
+            "key": "005",
+            "value": "Qu'est-ce qui vous tracasse... ?"
+        },
+        {
+            "key": "006",
+            "value": "Il me vient un doute..."
+        },
+        {
+            "key": "007",
+            "value": "Avons-nous le droit de nous emparer de ces reliques ?"
+        },
+        {
+            "key": "008",
+            "value": "Pourquoi ? Ne sommes-nous pas à un de ces « moments » prophétisés par les dieux ?"
+        },
+        {
+            "key": "009",
+            "value": "C'est vrai..."
+        },
+        {
+            "key": "010",
+            "value": "Ces reliques nous guideront vers la gloire, j'en suis sûre."
+        },
+        {
+            "key": "011",
+            "value": "Voyons voir de quelles reliques séculaires..."
+        },
+        {
+            "key": "012",
+            "value": "Ne les touchez pas."
+        },
+        {
+            "key": "013",
+            "value": "Nous ne savons pas encore de quelles reliques il s'agit."
+        },
+        {
+            "key": "014",
+            "value": "Il est impossible de savoir ce qu'il va se passer si vous les touchez."
+        },
+        {
+            "key": "015",
+            "value": "Pardonnez-moi..."
+        },
+        {
+            "key": "016",
+            "value": "Emportez ces coffres en pierre."
+        },
+        {
+            "key": "017",
+            "value": "Compris !"
+        },
+        {
+            "key": "018",
+            "value": "Vous avez entendu la reine. Faites attention en les manipulant."
+        }
+    ]
+}

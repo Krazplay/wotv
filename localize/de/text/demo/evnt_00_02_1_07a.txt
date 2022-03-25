@@ -1,0 +1,184 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... Puh. Bis zur Festung ist es nur noch ein Katzensprung."
+        },
+        {
+            "key": "002",
+            "value": "Da diese sogenannte Meisterschützin Lu’Cia uns nicht ins Visier genommen hat, sollte es uns leichtfallen, die Festung zurückzuerobern."
+        },
+        {
+            "key": "003",
+            "value": "... Das wäre ideal. Aber ..."
+        },
+        {
+            "key": "004",
+            "value": "Argh!"
+        },
+        {
+            "key": "005",
+            "value": "Salire!"
+        },
+        {
+            "key": "006",
+            "value": "Ich wurde an der rechten Schulter getroffen. Aber keine Sorge, es ist nicht mehr als ein Kratzer."
+        },
+        {
+            "key": "007",
+            "value": "An der rechten Schulter, so wie die anderen auch …"
+        },
+        {
+            "key": "008",
+            "value": "Jetzt, wo du es sagst ... Glaubst du, dass diese Lu’Cia absichtlich auf unsere rechten Schultern schießt?!"
+        },
+        {
+            "key": "009",
+            "value": "Warum verstecken wir uns hier? Was kriechen wir hier herum, hm?"
+        },
+        {
+            "key": "010",
+            "value": "Ich würde sagen, das ist die Gelegenheit."
+        },
+        {
+            "key": "011",
+            "value": "H-Hast du sie noch alle?! Doch nicht jetzt!"
+        },
+        {
+            "key": "012",
+            "value": "Halt. Nicht bewegen."
+        },
+        {
+            "key": "013",
+            "value": "War zu erwarten. Nicht einmal du kannst es gleichzeitig mit so vielen Gegnern aufnehmen."
+        },
+        {
+            "key": "014",
+            "value": "Arh!"
+        },
+        {
+            "key": "015",
+            "value": "Urgh!"
+        },
+        {
+            "key": "016",
+            "value": "W-Was ist los?!"
+        },
+        {
+            "key": "017",
+            "value": "Dummkopf! Geh in Deckung, schnell!"
+        },
+        {
+            "key": "018",
+            "value": "Kapierst du das denn nicht? Sie wurden von Schüssen getroffen."
+        },
+        {
+            "key": "019",
+            "value": "Von oben, von der Spitze der Festung."
+        },
+        {
+            "key": "020",
+            "value": "Von dort ..."
+        },
+        {
+            "key": "021",
+            "value": "Jetzt ist klar, was hier vorgeht. Dieses Weib … Lu’Cia macht sich ein Spiel daraus, uns zu drangsalieren."
+        },
+        {
+            "key": "022",
+            "value": "W-Woher weißt du das?"
+        },
+        {
+            "key": "023",
+            "value": "Bisher wurden ohne Ausnahme alle an der rechten Schulter getroffen, richtig?"
+        },
+        {
+            "key": "024",
+            "value": "Es bereitet ihr wohl Vergnügen, sich des eigenen Könnens zu vergewissern und die Angeschossenen leiden zu sehen."
+        },
+        {
+            "key": "025",
+            "value": "..."
+        },
+        {
+            "key": "026",
+            "value": "Also ... was werdet ihr nun tun?"
+        },
+        {
+            "key": "027",
+            "value": "Ihr könnt natürlich weglaufen und euch zurück nach Hourne begeben, wo man euch dann wohl der Fahnenflucht anklagen wird ..."
+        },
+        {
+            "key": "028",
+            "value": "Oder ihr könnt euch die Taschen mit dem außerordentlich großzügigen Kopfgeld für Lu’Cia füllen."
+        },
+        {
+            "key": "029",
+            "value": "K-Kopfgeld ...?! Davon höre ich zum ersten Mal."
+        },
+        {
+            "key": "030",
+            "value": "Ich habe vor, euch in einem Sturmangriff auf die Festung anzuführen. Dort angekommen, will ich, dass jemand Lu’Cia eliminiert."
+        },
+        {
+            "key": "031",
+            "value": "Derjenige, der sie erledigt, bekommt von mir das Kopfgeld."
+        },
+        {
+            "key": "032",
+            "value": "Und ... du wirst auch wirklich zahlen?"
+        },
+        {
+            "key": "033",
+            "value": "Ich bin nicht Glahz – ich halte meine Versprechen. Allerdings ..."
+        },
+        {
+            "key": "034",
+            "value": "Es kann nur einen geben, der sie zur Strecke bringt."
+        },
+        {
+            "key": "035",
+            "value": "..."
+        },
+        {
+            "key": "036",
+            "value": "Also dann. Trefft eure Entscheidung."
+        },
+        {
+            "key": "037",
+            "value": "Diese Lu’Cia ist eine außergewöhnlich begabte Scharfschützin ..."
+        },
+        {
+            "key": "038",
+            "value": "Aber wenn jemand anderes als wir von ihr ins Visier genommen würde, sollte es uns möglich sein, an sie heranzukommen ..."
+        },
+        {
+            "key": "039",
+            "value": "Es sollte also kein allzu großes Problem darstellen, sie niederzustrecken."
+        },
+        {
+            "key": "040",
+            "value": "Kommandant ... Du kommst doch mit, oder?"
+        },
+        {
+            "key": "041",
+            "value": "Wie schon gesagt – ich bin nicht Glahz."
+        },
+        {
+            "key": "042",
+            "value": "Dann ... werde ich beim Angriff mitmachen. Wenn wir alle gleichzeitig drauflos stürmen ..."
+        },
+        {
+            "key": "043",
+            "value": "Ja. Selbst eine Meisterschützin kann uns nicht alle auf einmal ins Visier nehmen."
+        },
+        {
+            "key": "044",
+            "value": "Dann ist es also entschieden."
+        },
+        {
+            "key": "045",
+            "value": "Lasst uns den Generalangriff auf die Festung beginnen. Das Zielobjekt ist ... Lu’Cia!"
+        }
+    ]
+}

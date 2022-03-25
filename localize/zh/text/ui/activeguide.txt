@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "AUTOLAP_TITLE",
+            "value": "關於自動連刷"
+        },
+        {
+            "key": "AUTOLAP_DESC",
+            "value": "完成任務後方可利用"
+        },
+        {
+            "key": "ARTSELL_TITLE",
+            "value": "不可販售"
+        },
+        {
+            "key": "ARTSELL_FAVORITE_DESC",
+            "value": "已被設定為鎖定"
+        },
+        {
+            "key": "ARTSELL_EQUIP_DESC ",
+            "value": "目前有其他兵員裝備中"
+        },
+        {
+            "key": "ARTSELL_NOT_DESC",
+            "value": "不可販售的武具"
+        }
+    ]
+}

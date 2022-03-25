@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Nacimos y crecimos en una aldea remota del oeste…"
+        },
+        {
+            "key": "002",
+            "value": "Y cuando esa aldea a la que llamamos hogar fue reducida a cenizas por Rundal, nuestra odisea por la venganza comenzó."
+        },
+        {
+            "key": "003",
+            "value": "Aun así, a pesar de ser hermanas, nuestro camino se bifurcó."
+        },
+        {
+            "key": "004",
+            "value": "Tú elegiste ir con Heindler y vengarte de Rundal desde el interior."
+        },
+        {
+            "key": "005",
+            "value": "Yo hice un amigo al que jamás abandonaría y me asenté en el pequeño reino de Leonis al este."
+        },
+        {
+            "key": "006",
+            "value": "No ha pasado un solo día en el que no haya pensado en nuestra venganza contra Rundal."
+        },
+        {
+            "key": "007",
+            "value": "Y aun así... aquí nos encontramos como enemigas..."
+        },
+        {
+            "key": "008",
+            "value": "No puedo ver las estrellas que tú puedes ver..."
+        },
+        {
+            "key": "009",
+            "value": "Pero hay otras que solo yo puedo ver, y son esas en las que confío..."
+        }
+    ]
+}

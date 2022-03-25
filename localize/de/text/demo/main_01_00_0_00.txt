@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Gibt es ein Problem, Schuzelt?"
+        },
+        {
+            "key": "002",
+            "value": "Sorgt Euch nicht. Ich werde dieses Gesindel im Handumdrehen eliminieren."
+        },
+        {
+            "key": "003",
+            "value": "Ach, wie ich das Schloss vermisse ..."
+        },
+        {
+            "key": "004",
+            "value": "Prinzessin ..."
+        },
+        {
+            "key": "005",
+            "value": "Ich weiß, ich weiß. Es geht hier um das Wohl des Reiches."
+        },
+        {
+            "key": "006",
+            "value": "Seid meines Mitgefühls versichert, Euer Hoheit."
+        },
+        {
+            "key": "007",
+            "value": "Wäre ich doch nur als Mann geboren worden. Dann könnte ich mich mit dir kopfüber in den Kampf stürzen."
+        },
+        {
+            "key": "008",
+            "value": "..."
+        },
+        {
+            "key": "009",
+            "value": "Genug geplappert."
+        },
+        {
+            "key": "010",
+            "value": "Dann lass mich dir nur eine Frage stellen."
+        },
+        {
+            "key": "011",
+            "value": "Ihr wisst, dass ihr euch der Kutsche von Prinzessin Margery, der Königlichen Hoheit Hournes, in den Weg stellt?"
+        },
+        {
+            "key": "012",
+            "value": "Als würde ich dir antworten."
+        },
+        {
+            "key": "013",
+            "value": "Ich verstehe ... Dann gibt es wohl nur eine Erklärung."
+        },
+        {
+            "key": "014",
+            "value": "Ihr Pack seid aus Leonis, habe ich recht?"
+        },
+        {
+            "key": "015",
+            "value": "Nun denn … Möge Leonis deinen Hass verdienen!"
+        }
+    ]
+}

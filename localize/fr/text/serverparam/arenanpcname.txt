@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "ARENA_NPC01",
+            "value": "Jack"
+        },
+        {
+            "key": "ARENA_NPC02",
+            "value": "Sylvie"
+        },
+        {
+            "key": "ARENA_NPC03",
+            "value": "Chasseur"
+        },
+        {
+            "key": "ARENA_NPC04",
+            "value": "Bull"
+        },
+        {
+            "key": "ARENA_NPC05",
+            "value": "Lucian"
+        },
+        {
+            "key": "ARENA_NPC06",
+            "value": "Misty"
+        },
+        {
+            "key": "ARENA_NPC07",
+            "value": "Blanc"
+        },
+        {
+            "key": "ARENA_NPC08",
+            "value": "Noir"
+        },
+        {
+            "key": "ARENA_NPC09",
+            "value": "Ange"
+        },
+        {
+            "key": "ARENA_NPC10",
+            "value": "Keal"
+        },
+        {
+            "key": "ARENA_NPC11",
+            "value": "Jin"
+        },
+        {
+            "key": "ARENA_NPC12",
+            "value": "Sentry"
+        },
+        {
+            "key": "ARENA_NPC13",
+            "value": "Le Parrain"
+        },
+        {
+            "key": "ARENA_NPC14",
+            "value": "Vert"
+        },
+        {
+            "key": "ARENA_NPC15",
+            "value": "Gimlee"
+        },
+        {
+            "key": "ARENA_NPC16",
+            "value": "Walker"
+        },
+        {
+            "key": "ARENA_NPC17",
+            "value": "Jaune"
+        },
+        {
+            "key": "ARENA_NPC18",
+            "value": "Orange"
+        },
+        {
+            "key": "ARENA_NPC19",
+            "value": "Fleur"
+        },
+        {
+            "key": "ARENA_NPC20",
+            "value": "Zahza"
+        }
+    ]
+}

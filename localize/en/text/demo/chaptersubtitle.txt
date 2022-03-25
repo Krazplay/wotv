@@ -1,0 +1,16 @@
+﻿{
+    "infos": [
+        {
+            "key": "INTERLUDE",
+            "value": "INTERLUDE"
+        },
+        {
+            "key": "INTERLUDE_FIRST_HALF",
+            "value": "Interlude: Part I"
+        },
+        {
+            "key": "INTERLUDE_SECOND_HALF",
+            "value": "Interlude: Part II"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Comment se présente la bataille ?"
+        },
+        {
+            "key": "002",
+            "value": "Bien qu'en sous-nombre, les soldats de Leonis tiennent bon. On voit qu'ils aiment se battre."
+        },
+        {
+            "key": "003",
+            "value": "Ils ont l'avantage du terrain et ils sont commandés avec une grande précision. "
+        },
+        {
+            "key": "004",
+            "value": "Si ce prince, Mont, continue d'évoluer de la sorte..."
+        },
+        {
+            "key": "005",
+            "value": "Oui... Il deviendrait certainement une menace."
+        },
+        {
+            "key": "006",
+            "value": "Si vous m'en donnez l'ordre, je me ferai un plaisir de me glisser dans la mêlée pour lui trancher la tête."
+        },
+        {
+            "key": "007",
+            "value": "Cela ne sera pas nécessaire."
+        },
+        {
+            "key": "008",
+            "value": "Dame Machalie, ne me dites pas que...?!"
+        },
+        {
+            "key": "009",
+            "value": "Vous... vous êtes de son côté ?"
+        },
+        {
+            "key": "010",
+            "value": "Qui y a-t-il de si surprenant ? Parce que c'est notre ennemi, peut-être ?"
+        },
+        {
+            "key": "011",
+            "value": "Dans ce cas, j'ai une question pour toi... Penses-tu vraiment que l'alliance avec Fennes soit sincère ?"
+        },
+        {
+            "key": "012",
+            "value": "Eh bien... Je... Oui, bien sûr. Je... Je l'espère en tout cas."
+        },
+        {
+            "key": "013",
+            "value": "La fille du roi Muraga s'est mariée à Hourne et bientôt vous serez vous-même mariée à Fennes."
+        },
+        {
+            "key": "014",
+            "value": "Les mots du roi Eldo résonnent dans ma tête."
+        },
+        {
+            "key": "015",
+            "value": "Il prétend que le roi Muraga n'a pas de fille... Il doit forcément se tromper."
+        },
+        {
+            "key": "016",
+            "value": "Vous observez Mont, n'est-ce pas ?"
+        },
+        {
+            "key": "017",
+            "value": "Oui, de très près. J'ai l'œil pour ces choses-là."
+        },
+        {
+            "key": "018",
+            "value": "Si seulement mon père avait ce don, mais hélas..."
+        },
+        {
+            "key": "019",
+            "value": "Vous avez toute ma sympathie, ma dame, si seulement il n'y avait pas de menace à l'ouest..."
+        }
+    ]
+}

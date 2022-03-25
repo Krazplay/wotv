@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "I will now discuss <color=#0000ff>chains</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "In the previous battle, you generated a chain together with Lord Sterne."
+        },
+        {
+            "key": "003",
+            "value": "If multiple units attack an enemy with the same <color=#0000ff>attack type</color> in <color=#0000ff>succession</color>, a chain will be generated, <color=#0000ff>increasing</color> the amount of damage dealt to the enemy."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "The damage dealt increases as the number of chained attacks increases."
+        },
+        {
+            "key": "005",
+            "value": "However, once <color=#0000ff>the enemy is able to act</color>, the chain reverts to zero."
+        },
+        {
+            "key": "006",
+            "value": "At present, we have several people gathered who specialize in slash attacks, including Lord Sterne and yourself, Lord Mont."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "I recommend that the bandit should first be defeated with a <color=#0000ff>normal attack chain</color>, followed by the ogre with a chain that combines normal attacks and <color=#0000ff>slash abilities</color>."
+        },
+        {
+            "key": "008",
+            "value": "As expected, Lord Mont! Congratulations."
+        },
+        {
+            "key": "009",
+            "value": "You saw for yourself how the <color=#0000ff>damage dealt increased</color> by linking chains, correct?"
+        },
+        {
+            "key": "010",
+            "value": "Make use of the Action Timeline and try to generate chains as proactively as you can."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous sous-estimez Leonis. Ha ha ha !"
+        },
+        {
+            "key": "002",
+            "value": "Vous semblez penser qu'en prenant Sterne en otage vous pouvez mettre la main sur Leonis ?"
+        },
+        {
+            "key": "003",
+            "value": "Tais-toi et marche !"
+        },
+        {
+            "key": "004",
+            "value": "Et si je refuse ?"
+        },
+        {
+            "key": "005",
+            "value": "Ça risque de piquer."
+        },
+        {
+            "key": "006",
+            "value": "Que voulez-vous que je fasse, Reine Helena ?"
+        },
+        {
+            "key": "007",
+            "value": "Je vais sûrement devoir vous montrer ce qu'est la fierté des Leonis."
+        },
+        {
+            "key": "008",
+            "value": "C'est ce que je pensais."
+        },
+        {
+            "key": "009",
+            "value": "Plaît-il ?"
+        },
+        {
+            "key": "010",
+            "value": "Est-ce que tu es sérieux ?"
+        },
+        {
+            "key": "011",
+            "value": "Ce n'est pas ce que votre chef espère ?"
+        },
+        {
+            "key": "012",
+            "value": "Pour quelle autre raison nous auriez-vous laissé nos armes ?"
+        },
+        {
+            "key": "013",
+            "value": "Afin de vous débarrasser de nous, j'en suis sûr !"
+        },
+        {
+            "key": "014",
+            "value": "Puisque tu es si malin, finissons-en."
+        },
+        {
+            "key": "015",
+            "value": "Ramène-toi ! Montre un peu ce que tu as dans le ventre."
+        },
+        {
+            "key": "016",
+            "value": "Tu viens de me faire une offre que je ne peux pas refuser. Ha ha ha !"
+        }
+    ]
+}

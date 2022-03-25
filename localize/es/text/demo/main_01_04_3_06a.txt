@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Numbra!"
+        },
+        {
+            "key": "002",
+            "value": "Estás herida. ¿Qué te ha pasado?"
+        },
+        {
+            "key": "003",
+            "value": "Espera aquí. Voy a por un mago blanco de inmediato."
+        },
+        {
+            "key": "004",
+            "value": "N-no pasa nada. Sé cómo detener… la hemorragia. Esta herida… no es tan…"
+        },
+        {
+            "key": "005",
+            "value": "Pe-pero…"
+        },
+        {
+            "key": "006",
+            "value": "¿Quién te ha hecho eso?"
+        },
+        {
+            "key": "007",
+            "value": "Lairyu, el ninja de Gouga que trabaja para Muraga."
+        },
+        {
+            "key": "008",
+            "value": "Padre…"
+        },
+        {
+            "key": "009",
+            "value": "Vaya, parece que ya no tenemos ninguna obligación con Muraga."
+        },
+        {
+            "key": "010",
+            "value": "Entonces…"
+        },
+        {
+            "key": "011",
+            "value": "Hay… una cosa más…"
+        },
+        {
+            "key": "012",
+            "value": "Vi al grupo de Sadali abriéndose camino hacia el norte."
+        },
+        {
+            "key": "013",
+            "value": "¿Hacia el norte, dices?"
+        },
+        {
+            "key": "014",
+            "value": "Vaya… Se dirigen a Wezette."
+        },
+        {
+            "key": "015",
+            "value": "Nitor también va de camino a Wezette. Tenemos que informar de inmediato."
+        },
+        {
+            "key": "016",
+            "value": "Yo iré a informar a sir Adelardo."
+        },
+        {
+            "key": "017",
+            "value": "No seas tonta. Primero tenemos que curarte esas heridas."
+        },
+        {
+            "key": "018",
+            "value": "Me temo que no hay tiempo para eso, y yo soy la que está mejor preparada para esta misión."
+        },
+        {
+            "key": "019",
+            "value": "¡Numbra!"
+        },
+        {
+            "key": "020",
+            "value": "Numbra…"
+        }
+    ]
+}

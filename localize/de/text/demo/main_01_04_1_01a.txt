@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Wir sollten gleich auf eine Höhle stoßen."
+        },
+        {
+            "key": "002",
+            "value": "Eine Höhle?"
+        },
+        {
+            "key": "003",
+            "value": "Es wäre vielleicht eine gute Idee, uns dort ein Weilchen auszuruhen."
+        },
+        {
+            "key": "004",
+            "value": "Minwu. Gibt es hier in der Nähe einen Fluss oder Bach?"
+        },
+        {
+            "key": "005",
+            "value": "Unsere Wasservorräte gehen nämlich zur Neige."
+        },
+        {
+            "key": "006",
+            "value": "Wenn Ihr diesen Pfad dort hinuntergeht, solltet ihr fündig werden, Euer Hoheit."
+        },
+        {
+            "key": "007",
+            "value": "Gut, dann hole ich uns Wasser. Vater, geh bitte schon voraus zur Höhle."
+        },
+        {
+            "key": "008",
+            "value": "Verstanden. Aber lass dir nicht zu viel Zeit."
+        },
+        {
+            "key": "009",
+            "value": "Lilith ..."
+        },
+        {
+            "key": "010",
+            "value": "Ich sehe sie. Fennische Soldaten."
+        },
+        {
+            "key": "011",
+            "value": "Irgendwo hier muss sie sein ..."
+        },
+        {
+            "key": "012",
+            "value": "Keine Sorge, wir werden die Höhle schon finden. Sie haben sich dort versteckt."
+        },
+        {
+            "key": "013",
+            "value": "... Hat er gerade „Höhle“ gesagt?"
+        },
+        {
+            "key": "014",
+            "value": "Es scheint, als wüssten sie von ihr."
+        },
+        {
+            "key": "015",
+            "value": "Das gefällt mir ganz und gar nicht."
+        },
+        {
+            "key": "016",
+            "value": "Wir sollten so schnell wie möglich zurück zu meinem Vater."
+        }
+    ]
+}

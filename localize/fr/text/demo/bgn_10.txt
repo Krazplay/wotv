@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Laissez-moi vous parler de la <color=#0000ff>magie des invocations</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Équiper une chimère vous permettra d'utiliser sa puissante magie, à condition que la <color=#0000ff>jauge d'invocation</color> soit remplie."
+        },
+        {
+            "key": "003",
+            "value": "Elle se remplit quand un membre de l'équipe <color=#0000ff>attaque un ennemi</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Toutes les attaques sont concernées, même les attaques normales, mais attaquer <color=#0000ff>de côté</color> ou <color=#0000ff>par derrière</color> permet de remplir la jauge plus rapidement."
+        },
+        {
+            "key": "005",
+            "value": "Plus efficace encore, les <color=#0000ff>coups critiques</color> ou quand un <color=#0000ff>ennemi tombe KO</color> permettent à votre jauge de se remplir à grande vitesse."
+        },
+        {
+            "key": "006",
+            "value": "Sire Mont, Ifrit vous accompagne."
+        },
+        {
+            "key": "007",
+            "value": "La magie d'invocation « Flammes de l'enfer » ne se contente pas de faire flamber les ennemis à longue distance..."
+        },
+        {
+            "key": "008",
+            "value": "... elle <color=#0000ff>augmente aussi l'Attaque de toute l'équipe</color> et inflige une brûlure si cruelle qu'elle <color=#0000ff>réduit la résistance au feu de tous les ennemis</color>."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "009",
+            "value": "Vous ne pouvez utiliser « Flammes de l'enfer » qu'une seule fois par combat, mais soyez malin et les unités de type feu comme le Roi Eldo ou Lilyth pourraient déchaîner toute leur puissance."
+        },
+        {
+            "key": "010",
+            "value": "Encore une victoire éclatante, Sire !"
+        },
+        {
+            "key": "011",
+            "value": "On dit que le monde est peuplé de <color=#0000ff>nombreuses chimères</color>..."
+        },
+        {
+            "key": "012",
+            "value": "J'ai hâte de les voir mettre leur puissance à votre service, Sire Mont !"
+        }
+    ]
+}

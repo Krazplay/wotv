@@ -1,0 +1,152 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Perdonad mi derrota… No tengo excusa."
+        },
+        {
+            "key": "002",
+            "value": "No hay nada que perdonar. Nos superaban en número, eso es todo."
+        },
+        {
+            "key": "003",
+            "value": "Al contrario, has aguantado el tipo de manera formidable."
+        },
+        {
+            "key": "004",
+            "value": "No merezco vuestros elogios, majestad."
+        },
+        {
+            "key": "005",
+            "value": "¡Buuu!"
+        },
+        {
+            "key": "006",
+            "value": "¡Sa-saria! ¡No seas tan irrespetuosa con el rey!"
+        },
+        {
+            "key": "007",
+            "value": "¡Ja, ja, ja! No te preocupes tanto. Es nuestra forma habitual de interactuar."
+        },
+        {
+            "key": "008",
+            "value": "Pe-pero…"
+        },
+        {
+            "key": "009",
+            "value": "Saria, pareces disgustada."
+        },
+        {
+            "key": "010",
+            "value": "Es que Dorand y sus hombres han conseguido escapar…"
+        },
+        {
+            "key": "011",
+            "value": "Vuestros oponentes eran muy hábiles. Parece que también había ninjas de Gouga entre sus filas."
+        },
+        {
+            "key": "012",
+            "value": "Rey Rob, ¿qué vamos a hacer ahora?"
+        },
+        {
+            "key": "013",
+            "value": "Seguiremos hacia el norte, escoltados por Solidus."
+        },
+        {
+            "key": "014",
+            "value": "¿Pensáis enfrentaros al ejército de Muraga en una guerra sin cuartel?"
+        },
+        {
+            "key": "015",
+            "value": "Sí, así es."
+        },
+        {
+            "key": "016",
+            "value": "Parece que Sadali también se dirige hacia Wezette."
+        },
+        {
+            "key": "017",
+            "value": "Sí, Numbra ya me ha puesto al corriente."
+        },
+        {
+            "key": "018",
+            "value": "Seguro que forma parte de su plan."
+        },
+        {
+            "key": "019",
+            "value": "Debemos ponerle fin a esto de una vez."
+        },
+        {
+            "key": "020",
+            "value": "Esto, rey Rob…"
+        },
+        {
+            "key": "021",
+            "value": "Lo sé, Saria. Quieres perseguir a Dorand y a Gargas, ¿verdad?"
+        },
+        {
+            "key": "022",
+            "value": "¡Guau! ¡El rey Rob puede leer la mente!"
+        },
+        {
+            "key": "023",
+            "value": "¡Saria! ¿Qué te acabo de decir?"
+        },
+        {
+            "key": "024",
+            "value": "Si consideras que el último encuentro ha sido una derrota, ahora es tu oportunidad de resarcirte."
+        },
+        {
+            "key": "025",
+            "value": "¿Hermano?…"
+        },
+        {
+            "key": "026",
+            "value": "No os fallaremos, majestad."
+        },
+        {
+            "key": "027",
+            "value": "¡Di que sí! ¡Así se habla, hermanito!"
+        },
+        {
+            "key": "028",
+            "value": "Numbra… y tú, la ninja de Leonis."
+        },
+        {
+            "key": "029",
+            "value": "En Leonis me llaman Kiton."
+        },
+        {
+            "key": "030",
+            "value": "¿Cuál será vuestro siguiente paso?"
+        },
+        {
+            "key": "031",
+            "value": "Con vuestro permiso, majestad, tenemos un asunto pendiente con Lairyu…"
+        },
+        {
+            "key": "032",
+            "value": "Eso es."
+        },
+        {
+            "key": "033",
+            "value": "Está bien. Podéis marcharos."
+        },
+        {
+            "key": "034",
+            "value": "El honor es importante…, pero la vida no lo es menos, protegedla. ¿Entendido?"
+        },
+        {
+            "key": "035",
+            "value": "Sí, majestad."
+        },
+        {
+            "key": "036",
+            "value": "Todo irá de perlas, rey Rob. ¡Yo cuidaré bien de mi hermano!"
+        },
+        {
+            "key": "037",
+            "value": "Sadali… Llegará el momento en que tu cabeza caiga ante mis propios ojos."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Rey Elde…, ¿podemos confiar en vos?"
+        },
+        {
+            "key": "002",
+            "value": "Schuzelt, ¿eso es lo que le vas a decir al rey después de haberte salvado la vida?"
+        },
+        {
+            "key": "003",
+            "value": "Mi misión es escoltar a lady Machérie hasta Fennes."
+        },
+        {
+            "key": "004",
+            "value": "No me importa parecer insolente si, a cambio, mantengo a milady sana y salva."
+        },
+        {
+            "key": "005",
+            "value": "Basta ya, Schuzelt."
+        },
+        {
+            "key": "006",
+            "value": "No tengo intención de poner ni un pie en Fennes."
+        },
+        {
+            "key": "007",
+            "value": "¡Pero lady Machérie! ¡¿Qué pasa con vuestro compromiso con el rey Muraga?!"
+        },
+        {
+            "key": "008",
+            "value": "Estoy segura de que te habrás dado cuenta de que hay gato encerrado. Todos estos asaltos son un tanto… sospechosos."
+        },
+        {
+            "key": "009",
+            "value": "Tenéis razón, milady…"
+        },
+        {
+            "key": "010",
+            "value": "Rey Elde, me gustaría visitar el castillo de Leonis. ¿Seré bienvenida?"
+        },
+        {
+            "key": "011",
+            "value": "Por supuesto. Esperemos que nuestro cubil, el castillo de los leones, sea de vuestro agrado."
+        }
+    ]
+}

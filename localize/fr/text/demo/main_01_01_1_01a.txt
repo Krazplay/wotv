@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Il y a tant de monstres qui rôdent juste en dehors de l'enceinte du château..."
+        },
+        {
+            "key": "002",
+            "value": "C'est l'occasion rêvée de me montrer si ton entraînement a porté ses fruits."
+        },
+        {
+            "key": "003",
+            "value": "C'est... l'Anneau séculaire..."
+        },
+        {
+            "key": "004",
+            "value": "Tu sais comment t'en servir ?"
+        },
+        {
+            "key": "005",
+            "value": "Bien sûr, Père."
+        },
+        {
+            "key": "006",
+            "value": "Il permet d'invoquer des visions, les esprits des héros..."
+        },
+        {
+            "key": "007",
+            "value": "Murmure... Chuchotement... Souffle... Transe..."
+        }
+    ]
+}

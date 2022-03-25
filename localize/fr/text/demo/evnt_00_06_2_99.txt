@@ -1,0 +1,220 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Il... Il a vraiment réussi..."
+        },
+        {
+            "key": "002",
+            "value": "Quel homme !"
+        },
+        {
+            "key": "003",
+            "value": "Princesses, vous êtes saines et sauves ?"
+        },
+        {
+            "key": "004",
+            "value": "Euh, oui..."
+        },
+        {
+            "key": "005",
+            "value": "Parfait, vous m'en voyez ravi."
+        },
+        {
+            "key": "006",
+            "value": "Je pense que les soldats de Rundall ont retenu la leçon et qu'ils vous laisseront tranquilles un bon moment."
+        },
+        {
+            "key": "007",
+            "value": "…"
+        },
+        {
+            "key": "008",
+            "value": "Vous n'êtes pas satisfaites ?"
+        },
+        {
+            "key": "009",
+            "value": "Tu es... Un homme droit."
+        },
+        {
+            "key": "010",
+            "value": "Ce n'est que maintenant que vous vous en rendez compte ?"
+        },
+        {
+            "key": "011",
+            "value": "Ha ha ha !"
+        },
+        {
+            "key": "012",
+            "value": "Notre prochaine étape est Wezett."
+        },
+        {
+            "key": "013",
+            "value": "Wezett ? On dit qu'il y fait un froid glacial. Et c'est bien loin."
+        },
+        {
+            "key": "014",
+            "value": "Vous ne voulez pas venir avec nous ? Vous seriez les bienvenus."
+        },
+        {
+            "key": "015",
+            "value": "Non, non, non ! On ne fera pas le moindre pas en direction de Wezett."
+        },
+        {
+            "key": "016",
+            "value": "Alors, allez, oust ! Fichez le camp."
+        },
+        {
+            "key": "017",
+            "value": "Thytas ! On ne s'adresse pas ainsi aux princesses."
+        },
+        {
+            "key": "018",
+            "value": "Nous nous reverrons, mesdames, soyez-en certaines."
+        },
+        {
+            "key": "019",
+            "value": "D'ici là, je chérirai le souvenir de votre beau sourire."
+        },
+        {
+            "key": "020",
+            "value": "J'ai hâte."
+        },
+        {
+            "key": "021",
+            "value": "Hé ! On fait quoi, maintenant ?"
+        },
+        {
+            "key": "022",
+            "value": "Que fait-on, en effet ?"
+        },
+        {
+            "key": "023",
+            "value": "C'est toi qui décides, Chel. Vers où veux-tu aller ?"
+        },
+        {
+            "key": "024",
+            "value": "Hmm... Par-là !"
+        },
+        {
+            "key": "025",
+            "value": "Alors, allons-y."
+        },
+        {
+            "key": "026",
+            "value": "Howl... Tu es sûr de toi ?"
+        },
+        {
+            "key": "027",
+            "value": "Tu attendais autre chose ?"
+        },
+        {
+            "key": "028",
+            "value": "Non, ce n'est pas ça, mais..."
+        },
+        {
+            "key": "029",
+            "value": "Bah. Tant qu'on s'éloigne de Wezett, moi, ça me va..."
+        },
+        {
+            "key": "030",
+            "value": "En route, alors."
+        },
+        {
+            "key": "031",
+            "value": "Ha..."
+        },
+        {
+            "key": "032",
+            "value": "Vivement que père nous autorise à rentrer à la maison..."
+        },
+        {
+            "key": "033",
+            "value": "J'apprends que le château de Lykeros est attaqué et quand j'arrive, c'est ça que je trouve ?"
+        },
+        {
+            "key": "034",
+            "value": "Pa-pardonnez-nous, Sire."
+        },
+        {
+            "key": "035",
+            "value": "Quelle armée est-elle parvenue à ce tour de force ? Sadali, sans doute ? Ou bien..."
+        },
+        {
+            "key": "036",
+            "value": "E-en fait, euh..."
+        },
+        {
+            "key": "037",
+            "value": "Je t'écoute."
+        },
+        {
+            "key": "038",
+            "value": "C'était trois vagabonds. Deux frères et une petite sœur..."
+        },
+        {
+            "key": "039",
+            "value": "Qu'est-ce que tu dis ?!"
+        },
+        {
+            "key": "040",
+            "value": "Vous vous êtes fait écraser par seulement trois adversaires ?"
+        },
+        {
+            "key": "041",
+            "value": "Pa-pardonnez-nous !"
+        },
+        {
+            "key": "042",
+            "value": "Hmpf."
+        },
+        {
+            "key": "043",
+            "value": "Hé hé..."
+        },
+        {
+            "key": "044",
+            "value": "Sire Jayden... ?"
+        },
+        {
+            "key": "045",
+            "value": "Ha ha ha ha ha !"
+        },
+        {
+            "key": "046",
+            "value": "C'est énorme, non ? Ils ont l'air incroyables !"
+        },
+        {
+            "key": "047",
+            "value": "Ha... J'aurais voulu voir ça."
+        },
+        {
+            "key": "048",
+            "value": "Ah, euh..."
+        },
+        {
+            "key": "049",
+            "value": "Bon. Si vous êtes tombés contre de tels monstres, vous ne pouviez rien faire."
+        },
+        {
+            "key": "050",
+            "value": "M-mais Sire... À ce rythme, notre invasion top secrète du royaume d'Ovis ne risque-t-elle pas d'être difficile ?"
+        },
+        {
+            "key": "051",
+            "value": "Et alors ?"
+        },
+        {
+            "key": "052",
+            "value": "C-c'est que..."
+        },
+        {
+            "key": "053",
+            "value": "Le monde est vaste, après tout."
+        },
+        {
+            "key": "054",
+            "value": "Ah oui... Qu'est-ce que je m'amuse... !"
+        }
+    ]
+}

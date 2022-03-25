@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Keinen Schritt weiter."
+        },
+        {
+            "key": "002",
+            "value": "Euer ... Euer Hoheit?"
+        },
+        {
+            "key": "003",
+            "value": "Schuzelt. Bist du dir sicher, dass er es ist?"
+        },
+        {
+            "key": "004",
+            "value": "Das bin ich. Er wurde dabei beobachtet, wie er an der Weggabelung ein Zeichen aus Steinen gelegt hat."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Ich kann kaum glauben, dass es Muragas Schergen tatsächlich gelungen ist, „Caelum“ zu unterwandern."
+        },
+        {
+            "key": "007",
+            "value": "Du hast lange genug gebraucht, es mitzubekommen."
+        },
+        {
+            "key": "008",
+            "value": "Alleine wirst du hier nichts ausrichten. Ergib dich."
+        },
+        {
+            "key": "009",
+            "value": "Hähähä."
+        },
+        {
+            "key": "010",
+            "value": "W-Was gibt’s da zu lachen?!"
+        },
+        {
+            "key": "011",
+            "value": "Ein gewisser Jemand hat mir Macht verliehen."
+        },
+        {
+            "key": "012",
+            "value": "Werdet Zeuge meiner ungeheuren Stärke!"
+        },
+        {
+            "key": "013",
+            "value": "Guaaaaaarrr!"
+        },
+        {
+            "key": "014",
+            "value": "Ein Oger!"
+        },
+        {
+            "key": "015",
+            "value": "Euer Hoheit! Bleibt zurück!"
+        }
+    ]
+}

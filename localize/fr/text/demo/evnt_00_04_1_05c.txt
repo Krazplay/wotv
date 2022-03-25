@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "On peut savoir où vous étiez passée, « cheffe » ?"
+        },
+        {
+            "key": "002",
+            "value": "Mariale…"
+        },
+        {
+            "key": "003",
+            "value": "J'étais sur le champ de bataille."
+        },
+        {
+            "key": "004",
+            "value": "Je n'y avais encore jamais mis les pieds depuis le début du conflit…"
+        },
+        {
+            "key": "005",
+            "value": "Je dois dire que je suis surprise de constater que quelqu'un comme toi soit devenu cheffe de Gouga."
+        },
+        {
+            "key": "006",
+            "value": "Il est temps que tout ça s'arrête… L'ancien partage mon ressenti, c'est pourquoi je…"
+        },
+        {
+            "key": "007",
+            "value": "Arrête avec tes absurdités !"
+        },
+        {
+            "key": "008",
+            "value": "Je te demande pardon ?"
+        },
+        {
+            "key": "009",
+            "value": "Tu es la fille unique de l'ancien ! Tu n'as jamais souffert de quoi que ce soit !"
+        },
+        {
+            "key": "010",
+            "value": "Mais nous autres, nous sommes différents."
+        },
+        {
+            "key": "011",
+            "value": "Si les combats cessent, qu'adviendra-t-il de nous ? En as-tu la moindre idée ?"
+        },
+        {
+            "key": "012",
+            "value": "Ces terres sont arides et rien n'y pousse."
+        },
+        {
+            "key": "013",
+            "value": "Comment comptes-tu nourrir le village dans ces conditions ?"
+        },
+        {
+            "key": "014",
+            "value": "Je..."
+        },
+        {
+            "key": "015",
+            "value": "Si la guerre cesse, nous perdons notre gagne-pain."
+        },
+        {
+            "key": "016",
+            "value": "Et j'en ai plus qu'assez de vivre recluse dans le noir au fond d'un trou."
+        },
+        {
+            "key": "017",
+            "value": "Tu n'as pas à t'en faire pour ça."
+        },
+        {
+            "key": "018",
+            "value": "Qui es-tu ?"
+        },
+        {
+            "key": "019",
+            "value": "Zazan. Zazan l'immortel."
+        },
+        {
+            "key": "020",
+            "value": "C'est un vagabond. Il a un certain potentiel, c'est pourquoi je l'ai ramené ici."
+        },
+        {
+            "key": "021",
+            "value": "Attends une seconde…"
+        },
+        {
+            "key": "022",
+            "value": "Je suis la cheffe du village. Tu aurais dû m'en parler avant de prendre cette décision."
+        },
+        {
+            "key": "023",
+            "value": "Dans ce cas, permets-moi de le faire maintenant."
+        },
+        {
+            "key": "024",
+            "value": "As-tu la moindre objection à ce que Zazan reste avec nous ?"
+        },
+        {
+            "key": "025",
+            "value": "On ne connaît rien de lui. Qui sait ce qui pourrait arriver à Gouga s'il restait au village ?"
+        },
+        {
+            "key": "026",
+            "value": "Cet homme possède des informations… intéressantes."
+        },
+        {
+            "key": "027",
+            "value": "Qu'est-ce que tu veux dire par là ?"
+        },
+        {
+            "key": "028",
+            "value": "J'ai ouï dire que Skahal, le chef de Saiga, s'entretenait en secret avec une personne de Gouga."
+        },
+        {
+            "key": "029",
+            "value": "Je te demande pardon ?"
+        },
+        {
+            "key": "030",
+            "value": "Surprenant, n'est-ce pas ?"
+        },
+        {
+            "key": "031",
+            "value": "Mais... Ce n'est peut-être qu'un mensonge..."
+        },
+        {
+            "key": "032",
+            "value": "C'est une possibilité."
+        },
+        {
+            "key": "033",
+            "value": "Mais l'expérience de Zanzan en fait un messager sérieux. Après tout, c'est Rairyuu qui l'a envoyé jusqu'ici."
+        },
+        {
+            "key": "034",
+            "value": "..."
+        },
+        {
+            "key": "035",
+            "value": "Laissez-moi m'en occuper."
+        },
+        {
+            "key": "036",
+            "value": "Je suis plus consciencieux que vous semblez le croire. Ha ha ha !"
+        },
+        {
+            "key": "037",
+            "value": "Tiens donc !"
+        },
+        {
+            "key": "038",
+            "value": "Qu-qu'y a-t-il ?"
+        },
+        {
+            "key": "039",
+            "value": "L'odeur du sang te colle à la peau."
+        },
+        {
+            "key": "040",
+            "value": "Qu'est-ce que tu racontes ?"
+        },
+        {
+            "key": "041",
+            "value": "Je peux la sentir sur tes vêtements."
+        },
+        {
+            "key": "042",
+            "value": "On ne dirait pas comme ça, mais je dirais que tu as le sang d'au moins sept hommes sur les mains."
+        },
+        {
+            "key": "043",
+            "value": "..."
+        },
+        {
+            "key": "044",
+            "value": "Les rumeurs disaient donc vrai ! Ce village, c'est vraiment quelque chose !"
+        },
+        {
+            "key": "045",
+            "value": "Je suis plus que prêt à me rendre utile !"
+        },
+        {
+            "key": "046",
+            "value": "J'ai la mission idéale pour toi."
+        },
+        {
+            "key": "047",
+            "value": "Qui est... ?"
+        },
+        {
+            "key": "048",
+            "value": "Ce sont mes éclaireurs qui m'en ont fait part..."
+        },
+        {
+            "key": "049",
+            "value": "Il semblerait que le chef de Saiga soit gravement blessé. Il tenterait de s'enfuir en ce moment même."
+        },
+        {
+            "key": "050",
+            "value": "... ?!"
+        },
+        {
+            "key": "051",
+            "value": "Abattre le chef de Saiga... Hmm, belle cible !"
+        },
+        {
+            "key": "052",
+            "value": "C'est comme s'il était déjà mort. Ça devrait vous permettre d'emporter la victoire."
+        },
+        {
+            "key": "053",
+            "value": "Allez, en route."
+        },
+        {
+            "key": "054",
+            "value": "Quant à toi, pourquoi tu ne te comporterais pas un peu plus en cheffe ?"
+        },
+        {
+            "key": "055",
+            "value": "Que faire ? Skahal risque de…"
+        },
+        {
+            "key": "056",
+            "value": "..."
+        },
+        {
+            "key": "057",
+            "value": "Je dois l'en empêcher."
+        },
+        {
+            "key": "058",
+            "value": "..."
+        }
+    ]
+}

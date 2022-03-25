@@ -1,0 +1,16 @@
+﻿{
+    "infos": [
+        {
+            "key": "INTERLUDE",
+            "value": "幕間曲"
+        },
+        {
+            "key": "INTERLUDE_FIRST_HALF",
+            "value": "幕間曲前篇"
+        },
+        {
+            "key": "INTERLUDE_SECOND_HALF",
+            "value": "幕間曲後篇"
+        }
+    ]
+}

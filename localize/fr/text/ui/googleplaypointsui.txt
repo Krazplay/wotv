@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "GPP_TITLE",
+            "value": "Cadeaux récupérés !"
+        },
+        {
+            "key": "GPP_LATER_BTN",
+            "value": "Plus tard"
+        },
+        {
+            "key": "GPP_GO2PRESENTS_BTN",
+            "value": "Rendez-vous dans vos Cadeaux"
+        },
+        {
+            "key": "GPP_DESC",
+            "value": "Vos Google Point ont bien été échangés. Veuillez vous rendre dans votre boîte de réception. Les visiores ont été directement crédités sur votre compte."
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Kiton, ¿estás ahí?"
+        },
+        {
+            "key": "002",
+            "value": "Estoy aquí, majestad."
+        },
+        {
+            "key": "003",
+            "value": "¿Qué pasa con la persecución?"
+        },
+        {
+            "key": "004",
+            "value": "Al batallón que nos estaba persiguiendo le tiene que quedar solo un puñado de soldados."
+        },
+        {
+            "key": "005",
+            "value": "Creía que iban a esperar a acumular más refuerzos, pero…"
+        },
+        {
+            "key": "006",
+            "value": "¿Qué? ¿Que no han dejado de perseguirnos?"
+        },
+        {
+            "key": "007",
+            "value": "Eso parece, majestad."
+        },
+        {
+            "key": "008",
+            "value": "Para continuar en tan malas condiciones, tienen que considerarnos bastante débiles."
+        },
+        {
+            "key": "009",
+            "value": "No podemos bajar la guardia."
+        },
+        {
+            "key": "010",
+            "value": "No tenía la menor intención."
+        },
+        {
+            "key": "011",
+            "value": "Dicho eso, pronto habremos cruzado las montañas y nos aproximaremos a las primeras poblaciones de Wezette."
+        },
+        {
+            "key": "012",
+            "value": "Estarán intentando frenarnos antes de que lleguemos allí. No podemos ceder ahora."
+        },
+        {
+            "key": "013",
+            "value": "¡Un poco más, Mont! Pronto estarás con tu querida Graciela."
+        },
+        {
+            "key": "014",
+            "value": "Alteza…, ¿es Graciela vuestra…?"
+        },
+        {
+            "key": "015",
+            "value": "Po-por supuesto que no. Además, seguro que ya se ha olvidado por completo de mí."
+        },
+        {
+            "key": "016",
+            "value": "…"
+        },
+        {
+            "key": "017",
+            "value": "Lo importante es…"
+        },
+        {
+            "key": "018",
+            "value": "¿Qué es lo que te tiene preocupado, príncipe Mont?"
+        },
+        {
+            "key": "019",
+            "value": "Aún no lo tengo claro… ¿De verdad crees que Wezette querrá ayudarnos?"
+        },
+        {
+            "key": "020",
+            "value": "Pues claro que sí."
+        },
+        {
+            "key": "021",
+            "value": "Al fin y al cabo, son nuestros únicos aliados."
+        },
+        {
+            "key": "022",
+            "value": "Eso espero."
+        }
+    ]
+}

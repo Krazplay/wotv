@@ -1,0 +1,224 @@
+﻿{
+    "infos": [
+        {
+            "key": "489",
+            "value": "Así que vosotros sois Equito, con los que Ranel dijo que debo tratar..."
+        },
+        {
+            "key": "490",
+            "value": "Schuzelt…"
+        },
+        {
+            "key": "491",
+            "value": "¿Por qué habéis aceptado un pacto como este?..."
+        },
+        {
+            "key": "492",
+            "value": "Porque eres un buen amigo."
+        },
+        {
+            "key": "493",
+            "value": "…"
+        },
+        {
+            "key": "494",
+            "value": "Lo siento."
+        },
+        {
+            "key": "495",
+            "value": "No tenéis que disculparos. Ambos hicimos lo que creímos correcto. Así han sido las cosas."
+        },
+        {
+            "key": "496",
+            "value": "Esto no es el fin."
+        },
+        {
+            "key": "497",
+            "value": "He venido hasta aquí para llevar a cabo lo que tengo que hacer."
+        },
+        {
+            "key": "498",
+            "value": "Lord Mont..."
+        },
+        {
+            "key": "499",
+            "value": "Basta de cháchara."
+        },
+        {
+            "key": "500",
+            "value": "No estoy a favor de esto..., pero no queda otra. Rendíos."
+        },
+        {
+            "key": "501",
+            "value": "Sabéis qué es lo que esperamos de vos..., ¿no es así?"
+        },
+        {
+            "key": "502",
+            "value": "…"
+        },
+        {
+            "key": "503",
+            "value": "¡Lord Mont, huid mientras podáis!"
+        },
+        {
+            "key": "504",
+            "value": "No nos malinterpretéis. No nos gusta involucrarnos en asuntos turbios..."
+        },
+        {
+            "key": "505",
+            "value": "Lo sé..."
+        },
+        {
+            "key": "506",
+            "value": "¡¿...?!"
+        },
+        {
+            "key": "507",
+            "value": "Ese anillo..."
+        },
+        {
+            "key": "508",
+            "value": "Sí, ese es."
+        },
+        {
+            "key": "509",
+            "value": "¿Esto?... Tan solo es..."
+        },
+        {
+            "key": "510",
+            "value": "Dádmelo de inmediato. ¡Ahora!"
+        },
+        {
+            "key": "511",
+            "value": "¡Aún tenemos a Schuzelt retenido! ¡¿Estáis seguro de que queréis hacernos perder el tiempo?!"
+        },
+        {
+            "key": "512",
+            "value": "¡Lord Mont!"
+        },
+        {
+            "key": "513",
+            "value": "El anillo..."
+        },
+        {
+            "key": "514",
+            "value": "Es nuestro."
+        },
+        {
+            "key": "515",
+            "value": "El destino de Schuzelt está en nuestras manos."
+        },
+        {
+            "key": "516",
+            "value": "Es nuestra decisión si vive o muere..."
+        },
+        {
+            "key": "517",
+            "value": "Pero con este anillo en nuestro poder..."
+        },
+        {
+            "key": "518",
+            "value": "Poco nos importa que un simple soldado se libre de su destino."
+        },
+        {
+            "key": "519",
+            "value": "Liberadlo."
+        },
+        {
+            "key": "520",
+            "value": "¿Estáis... totalmente seguros?"
+        },
+        {
+            "key": "521",
+            "value": "Sí, y tenemos una nueva tarea que encomendaros."
+        },
+        {
+            "key": "522",
+            "value": "¿Una nueva tarea?... ¿Qué quieres decir?..."
+        },
+        {
+            "key": "523",
+            "value": "Debéis entregar esto al rey Kuri de inmediato."
+        },
+        {
+            "key": "524",
+            "value": "Así es. Debe de llevar esperándolo mucho tiempo."
+        },
+        {
+            "key": "525",
+            "value": "A sus órdenes."
+        },
+        {
+            "key": "526",
+            "value": "¡Partid ahora mismo!"
+        },
+        {
+            "key": "527",
+            "value": "¡Schuzelt!"
+        },
+        {
+            "key": "528",
+            "value": "Jua... ¡Esos dos siempre han sido unos blandengues!"
+        },
+        {
+            "key": "529",
+            "value": "Tienes toda la razón."
+        },
+        {
+            "key": "530",
+            "value": "Tal como lord Abot dice, Equito no es más que un grupo de incompetentes que no valen para nada."
+        },
+        {
+            "key": "531",
+            "value": "Pero es por eso que vamos a llevarnos todo el mérito."
+        },
+        {
+            "key": "532",
+            "value": "Somos nosotros los que le hemos robado el anillo a Mont..."
+        },
+        {
+            "key": "533",
+            "value": "Je, je... ¡Me muero de ganas de ver con qué nos recompensan!"
+        },
+        {
+            "key": "534",
+            "value": "Deberíamos apresurarnos a la sala del trono."
+        },
+        {
+            "key": "535",
+            "value": "Nuestro trato ha finalizado."
+        },
+        {
+            "key": "536",
+            "value": "Lo que significa que el alto al fuego ha finalizado también."
+        },
+        {
+            "key": "537",
+            "value": "Ugh..."
+        },
+        {
+            "key": "538",
+            "value": "Esto es todo lo que podemos hacer."
+        },
+        {
+            "key": "539",
+            "value": "Rezo por que os vaya bien."
+        },
+        {
+            "key": "540",
+            "value": "Lord Mont... Dejadme aquí... Escapad, rápido..."
+        },
+        {
+            "key": "541",
+            "value": "No pienso hacerte algo así de nuevo..."
+        },
+        {
+            "key": "542",
+            "value": "Pero ¿por qué?..."
+        },
+        {
+            "key": "543",
+            "value": "Soy el rey de Leonis. Pase lo que pase, siempre mantendré mi palabra."
+        }
+    ]
+}

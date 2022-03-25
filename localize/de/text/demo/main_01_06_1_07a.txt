@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Gngh ... Urch!"
+        },
+        {
+            "key": "002",
+            "value": "Styr, mein Sohn. Schmerzt deine Wunde so sehr?"
+        },
+        {
+            "key": "003",
+            "value": "Urgh ..."
+        },
+        {
+            "key": "004",
+            "value": "Wir ziehen uns fürs Erste von hier zurück. Sobald du Zeit gehabt hast, deine Wunden auszukurieren, werden wir weitersehen."
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Was hast du, Muraga?"
+        },
+        {
+            "key": "007",
+            "value": "Töten, töten, alle töten ... Ich töte alle, töte, ich töte ..."
+        },
+        {
+            "key": "008",
+            "value": "Euer ... Majestät?!"
+        },
+        {
+            "key": "009",
+            "value": "Ah, aaah! N-Nein! Euer Majestät, ich flehe Euch an!"
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "Kann es nicht ... unterdrücken. Ein Blutbad ... ich muss ... jemanden niedermetzeln ..."
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "(Styrs Rüstung zehrt von seinem Hass, wohingegen die magische Ausrüstung, die ich Muraga gegeben habe, sich das Gefühl der Demütigung zunutze macht.)"
+        },
+        {
+            "key": "014",
+            "value": "(Das war eine unkluge Entscheidung. In Muragas Ausrüstung hat sich weit mehr Macht angesammelt, als ich mir vorgestellt hatte. Jeden Moment könnte es zu einem unkontrollierten Gewaltausbruch kommen.)"
+        },
+        {
+            "key": "015",
+            "value": "Muraga ... Wie geht es dir?"
+        },
+        {
+            "key": "016",
+            "value": "Töten. Zerhacken. Abschlachten. Aufschlitzen ..."
+        },
+        {
+            "key": "017",
+            "value": "Muraga ...?"
+        },
+        {
+            "key": "018",
+            "value": "Euer Heiligkeit ... Bitte, Ihr müsst mir etwas zu tun geben ..."
+        },
+        {
+            "key": "019",
+            "value": "Dieser Trieb ... Ich kann ihn nicht kontrollieren ... Muss zerstören. Muss morden."
+        },
+        {
+            "key": "020",
+            "value": "Ich verstehe. Bitte zieh dich umgehend zurück."
+        },
+        {
+            "key": "021",
+            "value": "Zurückziehen? Nein, nein, das kann ich nicht. Ich muss ..."
+        },
+        {
+            "key": "022",
+            "value": "Ein Rückzug ist nicht das Gleiche wie eine Flucht."
+        },
+        {
+            "key": "023",
+            "value": "Ich möchte, dass du an der Grenze eine Festung errichtest."
+        },
+        {
+            "key": "024",
+            "value": "Eine Festung ... für unseren Einmarsch in Wezette?"
+        },
+        {
+            "key": "025",
+            "value": "Genau so ist es."
+        },
+        {
+            "key": "026",
+            "value": "Solange Wezette sich uns ergibt, wird sich alles recht schnell fügen."
+        },
+        {
+            "key": "027",
+            "value": "Und falls sie dies nicht tun, werden sie gemeinsam mit Leonis untergehen. Wir werden ihr Reich in Schutt und Asche legen ..."
+        },
+        {
+            "key": "028",
+            "value": "Jawohl, Euer Heiligkeit."
+        },
+        {
+            "key": "029",
+            "value": "Währenddessen ..."
+        },
+        {
+            "key": "008_1",
+            "value": "(*Wütender Schrei*)"
+        },
+        {
+            "key": "008_2",
+            "value": "(*Zorniges Brüllen*)"
+        }
+    ]
+}

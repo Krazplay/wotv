@@ -1,0 +1,312 @@
+﻿{
+    "infos": [
+        {
+            "key": "147",
+            "value": "C'est bien trop calme… Les animaux auraient-ils fui avant l'arrivée de la horde de monstres ?"
+        },
+        {
+            "key": "148",
+            "value": "Nous devons nous dépêcher. Nous ne pouvons pas laisser un seul de ces villageois perdre la vie aujourd'hui."
+        },
+        {
+            "key": "149",
+            "value": "… ?!"
+        },
+        {
+            "key": "150",
+            "value": "I-Il y a quelqu'un !"
+        },
+        {
+            "key": "151",
+            "value": "Ton visage ne me dit rien. Que fais-tu ici ?"
+        },
+        {
+            "key": "152",
+            "value": "R-Rien de grave, je vous assure ! Ce n'est absolument pas ce que vous croyez !"
+        },
+        {
+            "key": "153",
+            "value": "Je crois que tu nous enfonce, mon garçon."
+        },
+        {
+            "key": "154",
+            "value": "Seigneur Bériz ! Arrêtez de vous comporter comme si tout ceci ne vous regardait pas et réagissez !"
+        },
+        {
+            "key": "155",
+            "value": "Bien… Dites voir, est-ce que vous auriez croisé un groupe de monstres par hasard ?"
+        },
+        {
+            "key": "156",
+            "value": "Un groupe de monstres ?"
+        },
+        {
+            "key": "157",
+            "value": "Oui. Une brute épaisse suivie par de plus petits. Ils sont peut-être passés par ici…"
+        },
+        {
+            "key": "158",
+            "value": "Vous n'êtes pas de Fennes ?"
+        },
+        {
+            "key": "159",
+            "value": "Fennes ? Ah, je vois. Non, non. Nous sommes juste deux mercenaires sur les routes."
+        },
+        {
+            "key": "160",
+            "value": "Nous sommes à la recherche d'un monstre qui s'est emparé d'un petit quelque chose relativement important à nos yeux."
+        },
+        {
+            "key": "161",
+            "value": "Un monstre qui appartient à une meute bien plus importante ?"
+        },
+        {
+            "key": "162",
+            "value": "Tout à fait. Je suppose que vous ne l'avez pas croisé ?"
+        },
+        {
+            "key": "163",
+            "value": "Il semblerait que nos missions se complètent. Nous nous apprêtions à évacuer des villageois avant que la horde ne les frappe de plein fouet."
+        },
+        {
+            "key": "164",
+            "value": "Ah ? Quelque chose me fait dire que tu es bien plus qu'un simple guerrier au cœur sur la main…"
+        },
+        {
+            "key": "165",
+            "value": "Mes excuses, je ne me suis pas présenté. Je m'appelle Mont Leonis."
+        },
+        {
+            "key": "166",
+            "value": "Nos troupes nous ont remis un rapport…"
+        },
+        {
+            "key": "167",
+            "value": "Et me voici…"
+        },
+        {
+            "key": "168",
+            "value": "La vie de ces villageois est en danger. Et j'ai bien peur que ce soit en partie de notre faute…"
+        },
+        {
+            "key": "169",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "170",
+            "value": "Eh bien… Seigneur Bériz, devrions-nous…"
+        },
+        {
+            "key": "171",
+            "value": "Nous n'avons rien à cacher. Dire la vérité ne peut pas faire de mal."
+        },
+        {
+            "key": "172",
+            "value": "Il en va de ma responsabilité. Ranan trouve toujours un moyen de m'embêter avec ça. Je suis habitué depuis le temps."
+        },
+        {
+            "key": "173",
+            "value": "M-Merci."
+        },
+        {
+            "key": "174",
+            "value": "Laissez-moi vous expliquer. Nous sommes ici pour mettre la main sur un cristal fondamental…"
+        },
+        {
+            "key": "175",
+            "value": "Donc vous êtes des Guerriers des cristaux… qui parcourent ce monde en quête d'un autre cristal fondamental."
+        },
+        {
+            "key": "176",
+            "value": "Nous étions à deux doigts de réussir lorsqu'un béhémoth s'est mis en tête de l'avaler."
+        },
+        {
+            "key": "177",
+            "value": "La magie qui émane de ce cristal a décuplé la puissance du monstre. Résultat, nous n'avons pas pu lui faire la peau."
+        },
+        {
+            "key": "178",
+            "value": "Nous étions en train de réfléchir à ce que nous allions faire quand nous vous avons croisés."
+        },
+        {
+            "key": "179",
+            "value": "Nous vous présentons nos excuses pour tous ces problèmes, ainsi que pour avoir mis la vie des vôtres en danger."
+        },
+        {
+            "key": "180",
+            "value": "Nul besoin de vous excuser. Nous n'aurions jamais dû laisser ces hordes de monstres parcourir librement nos terres aussi longtemps."
+        },
+        {
+            "key": "181",
+            "value": "Mais si ce que vous dites est vrai, alors nous n'avons plus de temps à perdre."
+        },
+        {
+            "key": "182",
+            "value": "Les villageois doivent évacuer avant que les monstres ne les atteignent."
+        },
+        {
+            "key": "183",
+            "value": "Laissez-nous vous aider."
+        },
+        {
+            "key": "184",
+            "value": "Nous l'avons laissé nous échapper, c'est la moindre des choses que nous vous aidions."
+        },
+        {
+            "key": "185",
+            "value": "Il en va de notre devoir de s'assurer que notre présence en ces terres n'ait aucun impact sur d'innocentes âmes."
+        },
+        {
+            "key": "186",
+            "value": "Et puis, nous nous dirigeons dans la même direction. Le nombre fait la force comme on dit."
+        },
+        {
+            "key": "187",
+            "value": "Je vous remercie pour votre proposition. En fait, je vous aurais demandé cette faveur si vous ne l'aviez pas proposée."
+        },
+        {
+            "key": "188",
+            "value": "Lucio, Bériz. Prêtez-moi vos épées, et partons sauver les miens."
+        },
+        {
+            "key": "189",
+            "value": "Entendu, Sire ! C'est un honneur de nous joindre à vous !"
+        },
+        {
+            "key": "190",
+            "value": "Du moment que vous n'en attendez pas trop de moi, je dirais que ça me va."
+        },
+        {
+            "key": "191",
+            "value": "Tout le monde se doute que vous êtes bien plus qu'un simple guerrier paresseux. Nous comptons sur vous."
+        },
+        {
+            "key": "192",
+            "value": "Encouragé par un novice ! Cette journée ne fait qu'aller de mal en pis."
+        },
+        {
+            "key": "193",
+            "value": "Hâtons-nous."
+        },
+        {
+            "key": "194",
+            "value": "Oui !"
+        },
+        {
+            "key": "195",
+            "value": "Euh… Sire Mont ? Vous êtes un prince, c'est ça ?"
+        },
+        {
+            "key": "196",
+            "value": "Oui, bien que je trouve difficile de me considérer comme tel avec un père qui passe son temps à me reprocher ma naïveté et mes faiblesses."
+        },
+        {
+            "key": "197",
+            "value": "Mais ça veut tout de même dire que vous serez roi un jour ?"
+        },
+        {
+            "key": "198",
+            "value": "Qui sait… Mon jeune frère ferait un bien meilleur souverain que moi."
+        },
+        {
+            "key": "199",
+            "value": "Mais que je devienne roi ou non, mon souhait est de renforcer les liens entre les différents royaumes et de faire de Leonis une nation alliée de tous."
+        },
+        {
+            "key": "200",
+            "value": "Une nation qui avance aux côtés des autres royaumes plutôt que de les affronter sur un champ de bataille."
+        },
+        {
+            "key": "201",
+            "value": "Un royaume empli de bonnes intentions… Voilà une belle ambition."
+        },
+        {
+            "key": "202",
+            "value": "Tu trouves ? La plupart des personnes rient de mes idées et soulignent à quel point je suis naïf…"
+        },
+        {
+            "key": "203",
+            "value": "Construire un monde de paix, où tout le monde vivrait d'égal à égal… On ne pourrait rêver mieux."
+        },
+        {
+            "key": "204",
+            "value": "Tu me vois ravi de te l'entendre dire, même si vous êtes très peu à partager mon ambition."
+        },
+        {
+            "key": "205",
+            "value": "Lors de mon dernier voyage, je me suis retrouvé dans un royaume ravagé par la tyrannie, alors je comprends tout à fait où vous voulez en venir."
+        },
+        {
+            "key": "206",
+            "value": "L'espoir était inexistant, les âmes des habitants étaient complètement détruites et la guerre les avait privés de leurs terres."
+        },
+        {
+            "key": "207",
+            "value": "Mais j'ai bon espoir qu'avec une personne telle que vous sur le trône, ce scénario n'aura plus lieu d'être."
+        },
+        {
+            "key": "208",
+            "value": "Je veux voir émerger un nouveau monde tel que vous nous l'avez décrit."
+        },
+        {
+            "key": "209",
+            "value": "Alors je ferai tout mon possible pour y arriver."
+        },
+        {
+            "key": "210",
+            "value": "Vous devriez vous faire davantage confiance. À propos du fait de devenir roi."
+        },
+        {
+            "key": "211",
+            "value": "J'ai appris à mes dépends que les guerriers les plus vaillants sont avant tout ceux qui souhaitent le bonheur des autres."
+        },
+        {
+            "key": "212",
+            "value": "Je t'en remercie. J'apprécie que le hasard nous ait fait nous rencontrer."
+        },
+        {
+            "key": "213",
+            "value": "Veuillez excuser ma franchise. Je ne devrais pas me montrer aussi familier avec un prince, encore moins sur ses propres terres."
+        },
+        {
+            "key": "214",
+            "value": "Je n'ai pas pu m'en empêcher de vous dire le fond de mes pensées lorsque j'ai réalisé que nous partagions les mêmes idéaux…"
+        },
+        {
+            "key": "215",
+            "value": "Tu n'as pas besoin de t'excuser."
+        },
+        {
+            "key": "216",
+            "value": "Surtout que tu n'as nullement tourné mes idées au ridicule. Il se pourrait bien que nous ayons réellement la même vision du monde."
+        },
+        {
+            "key": "217",
+            "value": "Merci, Mont…"
+        },
+        {
+            "key": "218",
+            "value": "S-Sire, au rapport !"
+        },
+        {
+            "key": "219",
+            "value": "La horde de monstres a été aperçue dans les bois, à proximité du village ! Ils sont de plus en plus nombreux et se dirigent droit sur lui !"
+        },
+        {
+            "key": "220",
+            "value": "Ils vont bien plus vite que je ne l'avais prévu. Dites aux éclaireurs de les garder en vue."
+        },
+        {
+            "key": "221",
+            "value": "Bien, mon seigneur !"
+        },
+        {
+            "key": "222",
+            "value": "Dépêchons-nous, Lucio. Nous devons atteindre le village avant qu'il ne soit trop tard."
+        },
+        {
+            "key": "223",
+            "value": "Entendu ! Hors de question d'abandonner les villageois à leur triste sort !"
+        }
+    ]
+}

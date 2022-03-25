@@ -1,0 +1,804 @@
+﻿{
+    "infos": [
+        {
+            "key": "CMD_ACTION",
+            "value": "行動"
+        },
+        {
+            "key": "CMD_WAIT",
+            "value": "待機"
+        },
+        {
+            "key": "CMD_ATTACK",
+            "value": "攻擊"
+        },
+        {
+            "key": "CMD_ABILITY",
+            "value": "能力"
+        },
+        {
+            "key": "CMD_NBEAST",
+            "value": "召喚魔法"
+        },
+        {
+            "key": "CMD_ITEM",
+            "value": "道具"
+        },
+        {
+            "key": "CMD_OK",
+            "value": "確定"
+        },
+        {
+            "key": "CMD_CANCEL",
+            "value": "<cspace=-2>取消"
+        },
+        {
+            "key": "ORDER",
+            "value": "行動順序"
+        },
+        {
+            "key": "TITLE_CASTSPEED",
+            "value": "詠唱速度"
+        },
+        {
+            "key": "TITLE_RANGE",
+            "value": "射程"
+        },
+        {
+            "key": "TITLE_COUNT_USELIMIT",
+            "value": "使用次數"
+        },
+        {
+            "key": "COUNT_NOLIMIT",
+            "value": "無限制"
+        },
+        {
+            "key": "RESULT_NEXT",
+            "value": "繼續"
+        },
+        {
+            "key": "MENU_AUTO",
+            "value": "自動"
+        },
+        {
+            "key": "MENU_LAP",
+            "value": "連刷"
+        },
+        {
+            "key": "MENU_SKIP",
+            "value": "跳過"
+        },
+        {
+            "key": "MENU_SPEED_DEFAULT",
+            "value": "普通"
+        },
+        {
+            "key": "MENU_SPEED_NOBODY",
+            "value": "1.5倍"
+        },
+        {
+            "key": "MENU_SPEED_VIP",
+            "value": "2倍"
+        },
+        {
+            "key": "ACTION_LIMIT",
+            "value": "剩餘行動次數"
+        },
+        {
+            "key": "TIME_LIMIT_RAID",
+            "value": "剩餘挑戰時間："
+        },
+        {
+            "key": "TIME_LIMIT_EVENT",
+            "value": "剩餘活動時間："
+        },
+        {
+            "key": "WATCHING_VALUE",
+            "value": "觀戰人數"
+        },
+        {
+            "key": "BATTLE_COMMAND_MAP",
+            "value": "<cspace=1>地圖"
+        },
+        {
+            "key": "BATTLE_COMMAND_MAP_MODE",
+            "value": "地圖<space=7>模式"
+        },
+        {
+            "key": "BATTLE_ORDER_ACTIVE",
+            "value": "行動順序"
+        },
+        {
+            "key": "BATTLE_ORDER_CHARGE",
+            "value": "<cspace=-0.5>Charge</cspace>"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_MAP_EFFECT",
+            "value": "地圖效果"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_RESET",
+            "value": "重置"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_DONE",
+            "value": "準備完畢"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_PARTY",
+            "value": "隊伍"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_DESC",
+            "value": "可在黃色框內變更選擇的兵員配置"
+        },
+        {
+            "key": "SKILLTARGETLOCK_TITLE",
+            "value": "能力發動對象"
+        },
+        {
+            "key": "SKILLTARGETLOCK_UNIT",
+            "value": "<cspace=-1>兵員"
+        },
+        {
+            "key": "SKILLTARGETLOCK_PANEL",
+            "value": "格子"
+        },
+        {
+            "key": "BATTLE_MENU_GET_ITEM_TITLE",
+            "value": "獲得道具"
+        },
+        {
+            "key": "BATTLE_MENU_MISSON",
+            "value": "挑戰"
+        },
+        {
+            "key": "BATTLE_MENU_OPTION",
+            "value": "選項"
+        },
+        {
+            "key": "BATTLE_MENU_GIVEUP",
+            "value": "撤退"
+        },
+        {
+            "key": "BATTLE_MENU_WEATHER",
+            "value": "天氣："
+        },
+        {
+            "key": "BATTLE_MENU_SKIP",
+            "value": "跳過"
+        },
+        {
+            "key": "BATTLE_MENU_SPEEDMODE_TITLE",
+            "value": "加速功能"
+        },
+        {
+            "key": "BATTLE_MENU_SPEEDMODE_DESC",
+            "value": "<size=22>加速功能<br>於<color=#F0C040>會員等級1</color>解鎖<color=#F0C040>1.5</color>倍。<br>於<color=#F0C040>會員等級8</color>解鎖<color=#F0C040>2.0</color>倍。<br><br>※會員等級經驗值<br>可透過<color=#F0C040>完成挑戰</color>或購買幻導石獲得。</size>"
+        },
+        {
+            "key": "BATTLE_GIVEUP_TITLE",
+            "value": "撤退"
+        },
+        {
+            "key": "BATTLE_GIVEUP_DESC",
+            "value": "真的決定撤退嗎？"
+        },
+        {
+            "key": "BATTLE_SKIP_TITLE",
+            "value": "跳過"
+        },
+        {
+            "key": "BATTLE_SKIP_DESC",
+            "value": "真的決定跳過嗎？"
+        },
+        {
+            "key": "BATTLE_OPTION_TITLE",
+            "value": "選項"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_TITLE",
+            "value": "音樂"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_BGM",
+            "value": "BGM"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_SE",
+            "value": "SE"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_TITLE",
+            "value": "範圍效果顯示"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_ON",
+            "value": "ON"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "BATTLE_OPTION_AUTO_NOT_CHANGE",
+            "value": "戰鬥中無法切換"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_ABILITY",
+            "value": "能力"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_NBEAST",
+            "value": "召喚魔法"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_ITEM",
+            "value": "道具"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_TITLE",
+            "value": "推薦"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_ATTACK_TITLE",
+            "value": "推薦使用普通攻擊"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_ATTACK_DESC",
+            "value": "返回點擊攻擊按鈕"
+        },
+        {
+            "key": "BATTLE_MISSION_TITLE",
+            "value": "挑戰"
+        },
+        {
+            "key": "UNITINFO_CHAIN",
+            "value": "Chain"
+        },
+        {
+            "key": "UNITINFO_HIT",
+            "value": "命中"
+        },
+        {
+            "key": "UNITINFO_CRITICAL",
+            "value": "暴擊"
+        },
+        {
+            "key": "STATUS_TAB_STATUS",
+            "value": "現在的狀態"
+        },
+        {
+            "key": "STATUS_TAB_RESIST",
+            "value": "顯示耐性"
+        },
+        {
+            "key": "STATUS_TYPE_TITLE",
+            "value": "類型："
+        },
+        {
+            "key": "RESULT_MISSION_TITLE",
+            "value": "<cspace=-0.2>挑戰</cspace>"
+        },
+        {
+            "key": "RESULT_UNIT_EXP_TITLE",
+            "value": "兵員經驗值"
+        },
+        {
+            "key": "RESULT_GET_ITEM_TITLE",
+            "value": "獲得道具"
+        },
+        {
+            "key": "RESULT_END",
+            "value": "任務結束"
+        },
+        {
+            "key": "RESULT_CLEAR_PARTY_TITLE",
+            "value": "<cspace=-0.4>通關資訊<br>公開</cspace>"
+        },
+        {
+            "key": "RESULT_EFF_LEVELUP",
+            "value": "<cspace=-0.036em>等<size=0.85em>級</size><space=0.25em><cspace=1>提升"
+        },
+        {
+            "key": "RESULT_EFF_ARTIUP",
+            "value": "<cspace=-0.14em>武具熟練度<cspace=1><br>提升"
+        },
+        {
+            "key": "RESULT_DEMO_SKIP",
+            "value": "是否要跳過演出？"
+        },
+        {
+            "key": "RESULT_DIALOG_REMATCH_DESC",
+            "value": "選擇「再戰」的話，過關後的演出會直接跳過。"
+        },
+        {
+            "key": "RESULT_NETHERBEAST_SYNCHRO",
+            "value": "召喚獸共鳴度 獲得率"
+        },
+        {
+            "key": "RESULT_UNIT_INTIMACY",
+            "value": "兵員親密度 上升率"
+        },
+        {
+            "key": "RESULT_ERROR_PERIOD_TITLE",
+            "value": "非舉辦期間內"
+        },
+        {
+            "key": "RESULT_ERROR_PERIOD_DESC",
+            "value": "非任務舉辦期間內。"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "獲得追加的★"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "獲得此玩家<br>沒有設定防禦隊伍的<br><color=#F0C040>★×{0}個</color>。"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TITLE",
+            "value": "<cspace=0.05em>點數統計"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SUB",
+            "value": "<cspace=0.05em>結果"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WIN",
+            "value": "戰鬥勝利"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_OVERKILL",
+            "value": "OVERKILL"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_DAMAGE",
+            "value": "遭受傷害"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SPECIFIC_UNIT_DEFEAT",
+            "value": "擊敗特定兵員"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ACTION_NUM",
+            "value": "行動次數"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_USE_ITEM",
+            "value": "使用道具次數"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WEEKNESS_RESIST",
+            "value": "弱點攻擊耐性攻擊"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WEEKNESS_ELEMENT",
+            "value": "弱點屬性攻擊"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_DEAD_NUM",
+            "value": "無法戰鬥（撤退）的兵員數量"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ATTACK_CHAIN_MAX",
+            "value": "最大連擊數"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ELEMENT_CHAIN_MAX",
+            "value": "最大屬性連擊數"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SPECIAL_ATTACK_RATE",
+            "value": "兵員、幻兵卡獎勵"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_LAP_NUM",
+            "value": "連刷數"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_LAP_TOTAL",
+            "value": "連刷合計"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_CURRENT_SCORE",
+            "value": "本次獲得分數"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_HIGH_SCORE",
+            "value": "任務最高得分"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TOTAL_HIGH_SCORE",
+            "value": "最高得分合計"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TOTAL_SCORE",
+            "value": "活動累計分數"
+        },
+        {
+            "key": "INTIMACYUP_BONUS_TITLE",
+            "value": "親密度獎勵"
+        },
+        {
+            "key": "INTIMACYUP_EFF_TITLE",
+            "value": "<cspace=-2><size=48>親密度<space=3><size=52>L<space=-3><size=40>V<space=7><cspace=1><size=52>提升"
+        },
+        {
+            "key": "BATTLE_CONTINUE_TITLE",
+            "value": "接關"
+        },
+        {
+            "key": "BATTLE_CONTINUE_DESC",
+            "value": "要消耗<space=8><color=#601818>{0}<space=6>個幻導石</color><space=8>接關嗎？"
+        },
+        {
+            "key": "BATTLE_CONTINUE_DESC_CHECK",
+            "value": "確定<br>接關嗎？"
+        },
+        {
+            "key": "BATTLE_CONTINUE_CAUTION",
+            "value": "選擇不接關的話，將失去獲得的道具。"
+        },
+        {
+            "key": "BATTLE_CONTINUE_CAUTION_ADD",
+            "value": "<line-height=28>選擇接關後，<space=-0.5em> HP<space=-0.3em>、<space=-0.2em>TP<space=-0.2em>、<space=-0.2em>AP<space=-0.2em>、<space=-0.2em>能力使用次數會以全滿狀態<br>再次開戰。   "
+        },
+        {
+            "key": "BATTLE_CONTINUE_BTN_GIVEUP",
+            "value": "放棄"
+        },
+        {
+            "key": "BATTLE_CONTINUE_BTN_CONTINUE",
+            "value": "接關"
+        },
+        {
+            "key": "BATTLE_CONTINUE_GIVEUP_TITLE",
+            "value": "放棄"
+        },
+        {
+            "key": "BATTLE_CONTINUE_GIVEUP_DESC",
+            "value": "真的確定放棄嗎？"
+        },
+        {
+            "key": "BATTLE_MULTI_CTR_NOW",
+            "value": "操作中…"
+        },
+        {
+            "key": "BATTLE_MULTI_CTR_AUTO",
+            "value": "設定自動中"
+        },
+        {
+            "key": "BATTLE_MULTI_CONNECTING",
+            "value": "連線中…"
+        },
+        {
+            "key": "BATTLE_MULTI_CONTINUE",
+            "value": "考慮是否接關中…"
+        },
+        {
+            "key": "BATTLE_MULTI_LIMIT",
+            "value": "剩餘時間："
+        },
+        {
+            "key": "BATTLE_MULTI_NEXT_TURN",
+            "value": "輪到您的行動還有<color=#F0C040><size=1.25em><space=5>{0}   "
+        },
+        {
+            "key": "BATTLE_MULTI_CURRENT_TURN",
+            "value": "<color=#F0C040><size=1.25em>您</color></size><space=5>的回合"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER",
+            "value": "{0}撤退了。"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER_OWNER",
+            "value": "{0}撤退了。<br><br><color=#FFF080>您成為了房主。</color>"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER_MEMBER",
+            "value": "{0}撤退了。<br><br><color=#FFF080>{1}成為了房主。</color>"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PVP",
+            "value": "對手撤退了。"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_TITLE",
+            "value": "玩家撤退"
+        },
+        {
+            "key": "BATTLE_MULTI_MEETING_TITLE",
+            "value": "初次見面獎勵"
+        },
+        {
+            "key": "BATTLE_MULTI_MEETING_DESC",
+            "value": "已經與第{0}人達成了初次見面！<br>收到了初次見面報酬。<br>可在通知中查看詳細內容。"
+        },
+        {
+            "key": "BATTLE_MULTI_OFFLINE",
+            "value": "離線"
+        },
+        {
+            "key": "BATTLE_MULTI_COM_CTRL",
+            "value": "COM操作中……"
+        },
+        {
+            "key": "BATTLE_MULTI_EXIT_TITLE",
+            "value": "成員退出房間"
+        },
+        {
+            "key": "BATTLE_MULTI_EXIT_DESC",
+            "value": "<color=#F0C040>{0}</color>P 退出了房間   "
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_TOP",
+            "value": "<cspace=-2>好友"
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_TITLE",
+            "value": "申請好友"
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_DESC",
+            "value": "向選擇的玩家申請好友。"
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_BTN",
+            "value": "申請"
+        },
+        {
+            "key": "BATTLE_MULTI_BLOCK_TITLE",
+            "value": "關於黑名單"
+        },
+        {
+            "key": "BATTLE_MULTI_BLOCK_DESC",
+            "value": "把玩家加入黑名單後，將無法一起遊玩協力任務。<br><br>隨時可在好友畫面的黑名單中解除。"
+        },
+        {
+            "key": "RAID_SKIP_TITLE",
+            "value": "確認跳過"
+        },
+        {
+            "key": "RAID_SKIP_DESC",
+            "value": "選擇「立刻挑戰」共鬥頭目時，會直接跳過過關後的演出。"
+        },
+        {
+            "key": "RAID_HELP",
+            "value": "關於共鬥"
+        },
+        {
+            "key": "RAID_TIMEUP_TITLE",
+            "value": "時間到"
+        },
+        {
+            "key": "RAID_TIMEUP_DESC",
+            "value": "挑戰時間已為0。<br>戰鬥自動結束。"
+        },
+        {
+            "key": "FEVER_SKIP_TITLE",
+            "value": "確認跳過"
+        },
+        {
+            "key": "FEVER_SKIP_DESC",
+            "value": "選擇「確認」的話，會直接跳過過關後的演出。"
+        },
+        {
+            "key": "GUERILLA_SKIP_TITLE",
+            "value": "確認跳過"
+        },
+        {
+            "key": "GUERILLA_SKIP_DESC",
+            "value": "選擇「前往流動商店」的話，會直接跳過過關後的演出。"
+        },
+        {
+            "key": "BATTLE_STEAL_SUCCESS",
+            "value": "偷到了{0}！   "
+        },
+        {
+            "key": "BATTLE_STEAL_FAILED",
+            "value": "沒偷到！"
+        },
+        {
+            "key": "BATTLE_STEAL_STEALED",
+            "value": "什麽都沒有！"
+        },
+        {
+            "key": "BATTLE_STEAL_NOITEM",
+            "value": "什麽都沒有！"
+        },
+        {
+            "key": "BATTLE_GAIN_JP",
+            "value": "JP+{0}"
+        },
+        {
+            "key": "CHAPTER_TITLE",
+            "value": "第 {0} 章"
+        },
+        {
+            "key": "ERROR_BATTLE_MAIN",
+            "value": "戰鬥中發生錯誤"
+        },
+        {
+            "key": "ERROR_BATTLE_PARSEFAILED",
+            "value": "檔案損壞"
+        },
+        {
+            "key": "ERROR_REPLAY_TITLE",
+            "value": "重新播放錯誤"
+        },
+        {
+            "key": "ERROR_REPLAY",
+            "value": "無法播放"
+        },
+        {
+            "key": "ERROR_REPLAY_BREAK",
+            "value": "播放中斷。<br>要繼續進行遊戲嗎？"
+        },
+        {
+            "key": "ERROR_TUTORIAL_TITLE",
+            "value": "錯誤"
+        },
+        {
+            "key": "ERROR_TUTORIAL_NOTFOUND",
+            "value": "新手教學資料不存在"
+        },
+        {
+            "key": "BATTLE_RESULT_VICTORY_BONUS",
+            "value": "勝利獎勵"
+        },
+        {
+            "key": "BATTLE_REWARD_WINNING_BONUS",
+            "value": "連勝獎勵"
+        },
+        {
+            "key": "BATTLE_REWARD_PROMOTION_DESC",
+            "value": "距離升段戰還有"
+        },
+        {
+            "key": "BATTLE_CLASSUP_DESC_FRONT",
+            "value": "段位"
+        },
+        {
+            "key": "BATTLE_CLASSRESULT_UP",
+            "value": "升段。"
+        },
+        {
+            "key": "BATTLE_CLASSRESULT_DOWN",
+            "value": "降段。"
+        },
+        {
+            "key": "BATTLE_EFFECT_PROMFAILED",
+            "value": "升段失敗"
+        },
+        {
+            "key": "BATTLE_EFFECT_PROMBATTLE",
+            "value": "進 入 升 段 戰"
+        },
+        {
+            "key": "BATTLE_EFFECT_CONGRATS",
+            "value": "恭喜！"
+        },
+        {
+            "key": "BATTLE_EFFECT_RANKING",
+            "value": "排名"
+        },
+        {
+            "key": "BATTLE_EFFECT_CLASSUP",
+            "value": "升段！！"
+        },
+        {
+            "key": "BATTLE_EFFECT_CLASSDOWN",
+            "value": "降段"
+        },
+        {
+            "key": "BATTLE_MATCH_RESULTITEM_WINNING",
+            "value": "連勝獎勵<br><size=20>({0}連勝中)   "
+        },
+        {
+            "key": "BATTLE_WATCH_BATTLE_END_TITLE",
+            "value": "觀戰結束"
+        },
+        {
+            "key": "BATTLE_WATCH_HOST_LEAVE_ROOM",
+            "value": "1P退出了房間。 "
+        },
+        {
+            "key": "BATTLE_WATCH_GUEST_LEAVE_ROOM",
+            "value": "2P退出了房間。 "
+        },
+        {
+            "key": "BATTLE_WATCH_CONNECT_ERROR",
+            "value": "觀戰中發生錯誤<br>結束觀戰"
+        },
+        {
+            "key": "RETRY_TITLE",
+            "value": "沒有同行者的再戰"
+        },
+        {
+            "key": "RETRY_DESC",
+            "value": "如要即刻再戰<br>將會沒有同行者。<br><br>若要設定同行者，<br>請回到出擊畫面選取。"
+        },
+        {
+            "key": "RETRY_OK",
+            "value": "即刻再戰"
+        },
+        {
+            "key": "RETRY_NO",
+            "value": "取消 "
+        },
+        {
+            "key": "TOWER_COMPLETE_EFF_TITLE",
+            "value": "恭喜！"
+        },
+        {
+            "key": "TOWER_COMPLETE_EFF_CLEAR",
+            "value": "完成！"
+        },
+        {
+            "key": "TOWER_COMPLETE_RESULT",
+            "value": "結果"
+        },
+        {
+            "key": "TOWER_COMPLETE_RANKING",
+            "value": "到達排名"
+        },
+        {
+            "key": "TOWER_COMPLETE_RANKING_UNIT",
+            "value": "排名："
+        },
+        {
+            "key": "TOWER_COMPLETE_SCORE",
+            "value": "分數"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_ACTION",
+            "value": "累計行動次數"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_DEAD",
+            "value": "無法戰鬥的兵員數量"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_GIVEUP",
+            "value": "撤退次數"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_HEAL",
+            "value": "全兵員恢復次數"
+        },
+        {
+            "key": "BATTLE_HEIGHT_ABBREV",
+            "value": "h"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_POINT",
+            "value": "累計討伐數"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_STATUE_EXP",
+            "value": "獲得石像經驗值"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_CHALLENGE",
+            "value": "挑戰次數"
+        },
+        {
+            "key": "GUILD_HUNT_KILLS",
+            "value": "討伐數"
+        },
+        {
+            "key": "GL_SELECT_ATTACK_LOCATION",
+            "value": "請選擇攻擊部位。"
+        },
+        {
+            "key": "GUILDRAID_BATTLE_GIVEUP_DESC",
+            "value": "如果選擇撤退，<br>將會失去挑戰次數，戰鬥中的傷害、<br>反映傷害並不會留下紀錄。<br><br><color=#FF0000>確定要撤退嗎？</color>"
+        },
+        {
+            "key": "RESULT_RETRY",
+            "value": "再次出擊"
+        }
+    ]
+}

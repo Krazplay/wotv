@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "70345",
+            "value": "Qu'est-ce que vous allez faire de moi ?"
+        },
+        {
+            "key": "70346",
+            "value": "Hmpf. Alors, ce n'était que de l'esbrouffe ?"
+        },
+        {
+            "key": "70347",
+            "value": "Tiens ?"
+        },
+        {
+            "key": "70348",
+            "value": "Qu'est-ce donc que cette chose ?"
+        },
+        {
+            "key": "70349",
+            "value": "Sire, ne baissez pas votre garde ! Les soldats de Fennes arrivent !"
+        },
+        {
+            "key": "70350",
+            "value": "Je ne comprends pas... Ils ne se rendent pas ? Même après la chute d'Oldoa ?"
+        },
+        {
+            "key": "70351",
+            "value": "Hm, en plus elle ne vaut pas grand-chose comme otage. Bon, bah, autant s'en débarrasser tout de suite."
+        },
+        {
+            "key": "70352",
+            "value": "Hiiii !"
+        },
+        {
+            "key": "70353",
+            "value": "Attends. Je crains que même cela ne décourage pas les soldats."
+        },
+        {
+            "key": "70354",
+            "value": "Dans ce cas... il ne reste qu'une solution, n'est-ce pas ?"
+        }
+    ]
+}

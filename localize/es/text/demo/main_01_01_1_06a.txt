@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Solo quedan ruinas… ¿Los monstruos han acabado con todos?"
+        },
+        {
+            "key": "002",
+            "value": "No, evacuamos a los aldeanos a tiempo para evitar una tragedia aún peor."
+        },
+        {
+            "key": "003",
+            "value": "Un acto digno de un buen rey."
+        },
+        {
+            "key": "004",
+            "value": "Mont fue el encargado de organizarlo. Él insistió."
+        },
+        {
+            "key": "005",
+            "value": "Qué sorpresa."
+        },
+        {
+            "key": "006",
+            "value": "¿Cómo que qué sorpresa? ¿Qué quieres decir con eso?"
+        },
+        {
+            "key": "007",
+            "value": "Creía que no eras más que el perrito faldero de tu padre."
+        },
+        {
+            "key": "008",
+            "value": "…"
+        },
+        {
+            "key": "009",
+            "value": "No es para tanto. En cualquier caso, ahora tengo mejor imagen de ti…, aunque solo un poco."
+        },
+        {
+            "key": "010",
+            "value": "¡Ahí vienen!"
+        },
+        {
+            "key": "011",
+            "value": "Madre mía, no se cansan."
+        }
+    ]
+}

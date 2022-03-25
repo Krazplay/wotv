@@ -1,0 +1,116 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Je ne détecte plus la présence d'aucun monstre. Ce devait être les derniers."
+        },
+        {
+            "key": "002",
+            "value": "Maître, avez-vous pu observer notre performance ?"
+        },
+        {
+            "key": "003",
+            "value": "Le son m'a suffi. Vous avez en effet forgé des lames admirables."
+        },
+        {
+            "key": "004",
+            "value": "Alors dites-nous lequel d'entre nous choisissez-vous comme héritier !"
+        },
+        {
+            "key": "005",
+            "value": "…"
+        },
+        {
+            "key": "006",
+            "value": "Maître ?"
+        },
+        {
+            "key": "007",
+            "value": "De mon point de vue, je n'ai nul élément qui puisse départager vos talents de forgeron."
+        },
+        {
+            "key": "008",
+            "value": "…"
+        },
+        {
+            "key": "009",
+            "value": "Maître, inutile de tourner autour du pot."
+        },
+        {
+            "key": "010",
+            "value": "Que veux-tu dire, Zakar ?"
+        },
+        {
+            "key": "011",
+            "value": "Qu'il est temps de nous soumettre à l'épreuve suivante. L'épreuve ultime."
+        },
+        {
+            "key": "012",
+            "value": "Tu es donc prêt à la passer ?"
+        },
+        {
+            "key": "013",
+            "value": "Sans hésiter, maître."
+        },
+        {
+            "key": "014",
+            "value": "Et toi, Velrik ?"
+        },
+        {
+            "key": "015",
+            "value": "De quelle épreuve parle-t-on, exactement ?"
+        },
+        {
+            "key": "016",
+            "value": "Nous, les forgerons, créons des armes qui servent à ôter la vie. C'est pourquoi…"
+        },
+        {
+            "key": "017",
+            "value": "Maître, vous ne comptez tout de même pas…"
+        },
+        {
+            "key": "018",
+            "value": "Ce qu'il nous reste à déterminer, c'est laquelle de vos lames tue le mieux."
+        },
+        {
+            "key": "019",
+            "value": "Un combat à mort ? C'est pour cela que vous nous avez fait venir ?"
+        },
+        {
+            "key": "020",
+            "value": "Moi, je suis prêt. Je m'y prépare depuis longtemps."
+        },
+        {
+            "key": "021",
+            "value": "Es-tu devenu fou ? "
+        },
+        {
+            "key": "022",
+            "value": "Je ne reculerai devant rien pour porter le nom de Harvas à ta place."
+        },
+        {
+            "key": "023",
+            "value": "…"
+        },
+        {
+            "key": "024",
+            "value": "Zakar, non. Ça ne peut pas se terminer comme ça."
+        },
+        {
+            "key": "025",
+            "value": "Maître. Ce combat décidera lequel d'entre nous prendra votre succession, n'est-ce pas ?"
+        },
+        {
+            "key": "026",
+            "value": "En effet."
+        },
+        {
+            "key": "027",
+            "value": "Elle reviendra au vainqueur."
+        },
+        {
+            "key": "028",
+            "value": "Celui qui émergera de ce combat vivant héritera non seulement de mon nom, mais aussi de tous mes derniers secrets !"
+        }
+    ]
+}

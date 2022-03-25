@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "FRIEND_INVITE_TITLE",
+            "value": "Freundeseinladung"
+        },
+        {
+            "key": "FRIEND_INVITE_AMOUNT_TITLE",
+            "value": "Anzahl der Einladungen"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INVITE",
+            "value": "Freund einladen"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INPUT",
+            "value": "Einladungscode eingeben"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_TITLE",
+            "value": "Freundeseinladungsbelohnungen"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_DESC",
+            "value": "Lade deine Freunde ins Spiel ein! Wenn deine Freunde spielen, bekommst du zur Belohnung Geschenke!"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_CONDITION",
+            "value": "* Du musst Rang {0} oder höher erreicht haben, um Freunde einladen zu können."
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_TITLE",
+            "value": "Freundescode-Eingabe-Belohnungen"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_CONDITION",
+            "value": "* Bitte gib den Einladungscode ein, bevor du Rang {0} erreichst."
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_RANK",
+            "value": "Einladungen können ab Rang {0} versendet werden."
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_LIMIT",
+            "value": "Einladungs-Limit"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_CHALLANGE_MISSION",
+            "value": "Freund schließt {1} auf Herausforderungsbrett #{0} ab"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_STORY",
+            "value": "Freund schließt Kapitel {0}, Abschnitt {1}-{2} der Storyaufträge ab"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_LOGIN",
+            "value": "Freund loggt sich {0} Tage hintereinander ein"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_TITLE",
+            "value": "Einladungscode eingeben"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_DESC",
+            "value": "<line-height=36>Gib den Einladungscode ein, den du von deinem Freund erhalten hast."
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_TITLE",
+            "value": "Einladung angenommen!"
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_DESC",
+            "value": "Herzlichen Glückwunsch! <br>Deine Freundeseinladung wurde angenommen. <br>Wir haben dir ein paar Belohnungen geschickt!"
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_TITLE",
+            "value": "Einladung fehlgeschlagen"
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_DESC",
+            "value": "Deine Einladung ist fehlgeschlagen. <br>{0} deiner Freundeseinladungen wurden bisher angenommen."
+        }
+    ]
+}

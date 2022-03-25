@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Está anocheciendo…"
+        },
+        {
+            "key": "002",
+            "value": "Conocemos estas tierras mejor que nadie. ¡Aprovechemos esta ventaja!"
+        },
+        {
+            "key": "003",
+            "value": "N-no nos va a servir de mucho, lord Mont."
+        },
+        {
+            "key": "004",
+            "value": "¡Enemigos!"
+        },
+        {
+            "key": "005",
+            "value": "Mont, ¡usa el colgante!"
+        },
+        {
+            "key": "006",
+            "value": "¡Vale!"
+        },
+        {
+            "key": "007",
+            "value": "Mmm. Parece que hemos llegado justo a tiempo."
+        },
+        {
+            "key": "008",
+            "value": "Retiro lo dicho. Parece que mi don para conocer a la gente falla de vez en cuando…"
+        },
+        {
+            "key": "009",
+            "value": "Habré salido a mi padre."
+        },
+        {
+            "key": "010",
+            "value": "Sois demasiado dura con vos."
+        },
+        {
+            "key": "011",
+            "value": "¿He oído bien o le estás dando el beneficio de la duda a Mont?"
+        },
+        {
+            "key": "012",
+            "value": "Eh, a primera vista, parece uno de esos príncipes debiluchos que se han criado rodeados de lujos."
+        },
+        {
+            "key": "013",
+            "value": "Pero, después de todo el coraje que ha demostrado, he cambiado de opinión."
+        },
+        {
+            "key": "014",
+            "value": "Creo que ese tipo de bondad brilla con luz propia."
+        },
+        {
+            "key": "015",
+            "value": "¿Brilla, dices?"
+        },
+        {
+            "key": "016",
+            "value": "Esa luz… podría traer el albor de una nueva era o acabar engullida por la oscuridad de la guerra…"
+        },
+        {
+            "key": "017",
+            "value": "Y yo espero poder ser testigo de lo que el destino le tenga preparado a Mont."
+        }
+    ]
+}

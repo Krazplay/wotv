@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "이번에는 <color=#0000ff>TP</color>와 <color=#0000ff>AP</color>,<br><color=#0000ff>리미트 버스트</color>에 대해<br>설명해 드릴게요."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "어빌리티는 성질에 따라<br><color=#0000ff>TP</color>(전술 포인트) 또는<br><color=#0000ff>AP</color>(공격 포인트)를 소비합니다."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "<color=#0000ff>보조</color> 효과를 지닌 어빌리티는 <color=#0000ff>TP</color>,<br>직접 <color=#0000ff>피해</color>를 주는 어빌리티는 <color=#0000ff>AP</color>를<br>주로 소비합니다."
+        },
+        {
+            "key": "004",
+            "value": "TP는 전투 시작 시에는 <color=#0000ff>100%</color>지만<br>에테르 등의 아이템을 사용하지 않으면<br><color=#0000ff>회복되지 않아요</color>."
+        },
+        {
+            "key": "005",
+            "value": "한편, AP는 적은 상태로 시작하지만<br>일반 공격이나 TP 소비 어빌리티를<br>사용하면 <color=#0000ff>점점 쌓입니다</color>."
+        },
+        {
+            "key": "006",
+            "value": "<color=#0000ff>리미트 버스트</color>는 일부 유닛이 지닌<br><color=#0000ff>필살기</color>에 해당하는 어빌리티로,<br><color=#0000ff>많은 AP</color>가 필요하답니다."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "또한, 모든 어빌리티는<br><color=#0000ff>사용 횟수 제한</color>이 있으니<br>주의하세요."
+        },
+        {
+            "key": "008",
+            "value": "몬트 님, 역시 대단하세요!"
+        },
+        {
+            "key": "009",
+            "value": "TP가 필요한 어빌리티는 <color=#0000ff>노란색 창</color>,<br>AP가 필요한 어빌리티는<br><color=#0000ff>분홍색</color> 창이란 걸 눈치채셨나요?"
+        },
+        {
+            "key": "010",
+            "value": "보조형은 TP, 공격형은 AP.<br>각각의 특색을 파악하면<br>금방 전투에 익숙해지실 거예요."
+        }
+    ]
+}

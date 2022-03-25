@@ -1,0 +1,220 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "E-Er hat sie wirklich demoliert."
+        },
+        {
+            "key": "002",
+            "value": "Was für ein Typ ..."
+        },
+        {
+            "key": "003",
+            "value": "Prinzessinnen, mit euch alles in Ordnung?"
+        },
+        {
+            "key": "004",
+            "value": "Ah, ja ..."
+        },
+        {
+            "key": "005",
+            "value": "Ein Glück."
+        },
+        {
+            "key": "006",
+            "value": "Damit sollten in Zukunft auch die rundallschen Soldaten ihre Finger von euch lassen."
+        },
+        {
+            "key": "007",
+            "value": "..."
+        },
+        {
+            "key": "008",
+            "value": "Ist das etwa nicht genehm?"
+        },
+        {
+            "key": "009",
+            "value": "Du ... Du bist ein ganz schöner Prachtkerl."
+        },
+        {
+            "key": "010",
+            "value": "Das wussten wir doch alle schon längst."
+        },
+        {
+            "key": "011",
+            "value": "Hihihihi."
+        },
+        {
+            "key": "012",
+            "value": "Wir machen uns als nächstes nach Wezette auf."
+        },
+        {
+            "key": "013",
+            "value": "Wezette ... Das Land bitterer Kälte, wie man sich erzählt. Da habt ihr einen langen Weg vor euch."
+        },
+        {
+            "key": "014",
+            "value": "Wollt ihr uns nicht begleiten. Wir würden uns freuen."
+        },
+        {
+            "key": "015",
+            "value": "Auf gar keinen Fall. Keinen Schritt werden wir in Richtung Wezette tun."
+        },
+        {
+            "key": "016",
+            "value": "Also geht bitte einfach schnell."
+        },
+        {
+            "key": "017",
+            "value": "Titus, sei nicht so harsch."
+        },
+        {
+            "key": "018",
+            "value": "Irgendwann werden wir euch auf jeden Fall besuchen."
+        },
+        {
+            "key": "019",
+            "value": "Und bis dahin werde ich dein Lächeln stets in Erinnerung behalten, Prinzessin."
+        },
+        {
+            "key": "020",
+            "value": "Ich werde dich erwarten."
+        },
+        {
+            "key": "021",
+            "value": "Ho-Ho, Ho-Ho! Was machen wir jetzt?"
+        },
+        {
+            "key": "022",
+            "value": "Tja, das ist jetzt wohl die Frage."
+        },
+        {
+            "key": "023",
+            "value": "Wohin willst du denn gehen, Chell?"
+        },
+        {
+            "key": "024",
+            "value": "Hmmm. Dahin!"
+        },
+        {
+            "key": "025",
+            "value": "Gut, damit wäre das beschlossen. Gehen wir „dahin“."
+        },
+        {
+            "key": "026",
+            "value": "Bruder ... Bist du dir sicher?"
+        },
+        {
+            "key": "027",
+            "value": "Bist du unzufrieden?"
+        },
+        {
+            "key": "028",
+            "value": "Nein, das nicht, aber ..."
+        },
+        {
+            "key": "029",
+            "value": "Na ja, solange wir uns nicht weiter Wezette annähern ..."
+        },
+        {
+            "key": "030",
+            "value": "Dann brechen wir auf."
+        },
+        {
+            "key": "031",
+            "value": "Haaah ..."
+        },
+        {
+            "key": "032",
+            "value": "Wann man uns wohl endlich gestatten wird, wieder nachhause zurückzukehren?"
+        },
+        {
+            "key": "033",
+            "value": "Da lasse ich wegen Berichten von einem Angriff auf Schloss Lykeros alles stehen und liegen, und das ist der Anblick, der sich mir bietet ..."
+        },
+        {
+            "key": "034",
+            "value": "W-Wir bitten um Vergebung, Euer Majestät ..."
+        },
+        {
+            "key": "035",
+            "value": "Wessen Militär hätte das anrichten können? Sadali etwa? Oder vielleicht ..."
+        },
+        {
+            "key": "036",
+            "value": "N-Nun ..."
+        },
+        {
+            "key": "037",
+            "value": "Raus damit."
+        },
+        {
+            "key": "038",
+            "value": "Es waren drei reisende Geschwister ..."
+        },
+        {
+            "key": "039",
+            "value": "Was ... Was sagst du da ...?!"
+        },
+        {
+            "key": "040",
+            "value": "Nur drei Gegner haben euch so zugerichtet ...?"
+        },
+        {
+            "key": "041",
+            "value": "B-Bitte vergebt uns."
+        },
+        {
+            "key": "042",
+            "value": "Heh ..."
+        },
+        {
+            "key": "043",
+            "value": "Hehehe ..."
+        },
+        {
+            "key": "044",
+            "value": "Euer Majestät ...?"
+        },
+        {
+            "key": "045",
+            "value": "Raahahahaha!"
+        },
+        {
+            "key": "046",
+            "value": "Was für ein Wahnsinn! Das müssen ja Mordstypen gewesen sein!"
+        },
+        {
+            "key": "047",
+            "value": "Aah, wie gerne wäre ich ihnen auch begegnet."
+        },
+        {
+            "key": "048",
+            "value": "Äh ..."
+        },
+        {
+            "key": "049",
+            "value": "Nun, wenn das der Fall war, kann man wohl nichts mehr machen."
+        },
+        {
+            "key": "050",
+            "value": "A-Aber Euer Hoheit, dieser Zustand könnte unseren streng geheimen Überfall auf Ovis<br>beeinträchtigen ..."
+        },
+        {
+            "key": "051",
+            "value": "Das macht doch nichts."
+        },
+        {
+            "key": "052",
+            "value": "Äh ...?"
+        },
+        {
+            "key": "053",
+            "value": "Die Welt ist doch größer als angenommen."
+        },
+        {
+            "key": "054",
+            "value": "Hmpf ... Welch ein Spaß."
+        }
+    ]
+}

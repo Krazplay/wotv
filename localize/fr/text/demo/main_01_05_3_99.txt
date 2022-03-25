@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Mont... tu ne peux pas échapper au destin !"
+        },
+        {
+            "key": "002",
+            "value": "Non, mais je peux en changer le cours ! Je le sais !"
+        },
+        {
+            "key": "003",
+            "value": "Quel spectacle fascinant, hé hé hé !"
+        },
+        {
+            "key": "004",
+            "value": "C'est pas trop tôt ! Leonis s'effondre enfin !"
+        },
+        {
+            "key": "005",
+            "value": "Je ne le permettrai pas !"
+        },
+        {
+            "key": "006",
+            "value": "Quoi ?"
+        },
+        {
+            "key": "007",
+            "value": "Gilgamesh !"
+        },
+        {
+            "key": "008",
+            "value": "Il est descendu du ciel... "
+        },
+        {
+            "key": "009",
+            "value": "Un tel basculement du destin, maintenant et en ce lieu, mettrait mon projet en péril."
+        },
+        {
+            "key": "010",
+            "value": "Cela ne me concerne en rien."
+        },
+        {
+            "key": "011",
+            "value": "Vraiment ? Pourtant je peux annihiler vos existences d'un claquement de doigts."
+        },
+        {
+            "key": "012",
+            "value": "..."
+        },
+        {
+            "key": "013",
+            "value": "Retire-toi, jusqu'à ce que l'heure soit venue."
+        },
+        {
+            "key": "014",
+            "value": "Quand elle aura sonné, je n'interviendrai plus, et vous aurez tout le loisir de vous entretuer."
+        }
+    ]
+}

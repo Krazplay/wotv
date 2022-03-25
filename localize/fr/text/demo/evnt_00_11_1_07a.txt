@@ -1,0 +1,232 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous êtes donc résolues à partir ?"
+        },
+        {
+            "key": "002",
+            "value": "Et je vous suggère de faire de même. Cette bataille n'a aucun sens."
+        },
+        {
+            "key": "003",
+            "value": "Comment pouvez-vous dire cela ? Nous défendons la terre qui nous a vus naître et grandir."
+        },
+        {
+            "key": "004",
+            "value": "Je pensais que vous comprendriez, puisque vous avez perdu la vôtre."
+        },
+        {
+            "key": "005",
+            "value": "C'est précisément pour cela que je vous dis que ça n'a aucun sens."
+        },
+        {
+            "key": "006",
+            "value": "…"
+        },
+        {
+            "key": "007",
+            "value": "Notre village était un lieu sacré pour les lecteurs d'étoiles."
+        },
+        {
+            "key": "008",
+            "value": "Il nous était impossible de l'abandonner à l'ennemi."
+        },
+        {
+            "key": "009",
+            "value": "Je vois. Et c'est donc cela qui a causé sa destruction."
+        },
+        {
+            "key": "010",
+            "value": "Natale ou pas, la terre n'est finalement que de la terre."
+        },
+        {
+            "key": "011",
+            "value": "Pensez-vous réellement qu'il soit raisonnable de laisser tous vos hommes périr pour protéger un peu de poussière ?"
+        },
+        {
+            "key": "012",
+            "value": "Eh ! Depuis tout à l'heure, j'ai bien l'impression que vous aimez présenter les choses comme ça vous arrange !"
+        },
+        {
+            "key": "013",
+            "value": "Cette terre, elle renferme encore tous nos souvenirs, c'est bien plus qu'un peu de poussière !"
+        },
+        {
+            "key": "014",
+            "value": "Aujourd'hui vous nous promettez la ruine de Rundall…"
+        },
+        {
+            "key": "015",
+            "value": "Mais qu'est-ce qui nous dit que ce n'est pas une excuse pour vous enfuir plus vite ?"
+        },
+        {
+            "key": "016",
+            "value": "Eh ! Oh !"
+        },
+        {
+            "key": "017",
+            "value": "Sa décision semble irrévocable."
+        },
+        {
+            "key": "018",
+            "value": "Mais dites-moi… Où comptez-vous aller, à présent ?"
+        },
+        {
+            "key": "019",
+            "value": "À Heindler."
+        },
+        {
+            "key": "020",
+            "value": "Heindler ? Mais c'est un fief de Rundall !"
+        },
+        {
+            "key": "021",
+            "value": "J'ai l'intention d'infiltrer l'ennemi en son cœur pour savourer sa chute depuis les premières loges. Rien de plus. "
+        },
+        {
+            "key": "022",
+            "value": "C'est ça. Et on doit te croire sur parole."
+        },
+        {
+            "key": "023",
+            "value": "Pardon ?"
+        },
+        {
+            "key": "024",
+            "value": "Ça arrangera bien Rundall de t'avoir à Heindler, à mon avis. J'ai pas raison ?"
+        },
+        {
+            "key": "025",
+            "value": "Ta décision va causer la perte de milliers d'innocents."
+        },
+        {
+            "key": "026",
+            "value": "Et alors ?"
+        },
+        {
+            "key": "027",
+            "value": "Tu ne devrais pas te vanter d'abandonner si facilement les faibles à leur sort."
+        },
+        {
+            "key": "028",
+            "value": "C'est à cause de gens comme toi que la guerre continue, sans fin…"
+        },
+        {
+            "key": "029",
+            "value": "Tu peux parler. Tu n'as pas fait la même chose, peut-être ?"
+        },
+        {
+            "key": "030",
+            "value": "Moi ?!"
+        },
+        {
+            "key": "031",
+            "value": "Je t'ai bien entendue te vanter d'avoir abandonné ta patrie, non ?"
+        },
+        {
+            "key": "032",
+            "value": "El alors ? Je ne pouvais plus supporter la chiffe molle qui nous servait de prince."
+        },
+        {
+            "key": "033",
+            "value": "Toi qui tiens tant à mourir, je te souhaite un trépas à ton image : misérable et solitaire."
+        },
+        {
+            "key": "034",
+            "value": "…"
+        },
+        {
+            "key": "035",
+            "value": "Hm. Tu parles fort, mais on dirait qu'il te reste encore beaucoup de raisons de vivre."
+        },
+        {
+            "key": "036",
+            "value": "Qu'est-ce qui te retient encore ? L'honneur ? La gloire de tuer un chef ennemi ? À moins que…"
+        },
+        {
+            "key": "037",
+            "value": "Je veux… Je veux mettre fin à la guerre."
+        },
+        {
+            "key": "038",
+            "value": "Vraiment ? Alors explique-moi, exactement, comment déserter ton royaume pour te battre seule aidera à résoudre ce conflit ?"
+        },
+        {
+            "key": "039",
+            "value": "…"
+        },
+        {
+            "key": "040",
+            "value": "Au contraire de toi, vois-tu, je ne me laisse pas gouverner par mes pulsions."
+        },
+        {
+            "key": "041",
+            "value": "Chacun de mes actes concoure à pousser Rundall au bord de la chute, ne serait-ce que d'un centimètre."
+        },
+        {
+            "key": "042",
+            "value": "Je ne prétends rien d'autre."
+        },
+        {
+            "key": "043",
+            "value": "Ramada, je ne te poserai la question qu'une seule fois."
+        },
+        {
+            "key": "044",
+            "value": "M'accompagneras-tu ?"
+        },
+        {
+            "key": "045",
+            "value": "Non, je reste."
+        },
+        {
+            "key": "046",
+            "value": "Je constate que tu t'offres donc aux ténèbres dévorantes."
+        },
+        {
+            "key": "047",
+            "value": "Quelles ténèbres ?"
+        },
+        {
+            "key": "048",
+            "value": "Prends soin de toi. "
+        },
+        {
+            "key": "049",
+            "value": "Je ne comprends pas, Ramada. Pourquoi ne suis-tu pas ta sœur ?"
+        },
+        {
+            "key": "050",
+            "value": "Ha ha ha. Tu trouves cela étrange ?"
+        },
+        {
+            "key": "051",
+            "value": "Eh bien disons que… Je voulais assister à la naissance du Lion. "
+        },
+        {
+            "key": "052",
+            "value": "Quoi ? Quel lion ? De quoi tu parles ?"
+        },
+        {
+            "key": "053",
+            "value": "Tu comprendras quand l'heure sera venue."
+        },
+        {
+            "key": "054",
+            "value": "Armée de Rundall en approche !"
+        },
+        {
+            "key": "055",
+            "value": "Ramada. Merci."
+        },
+        {
+            "key": "056",
+            "value": "Les remerciements seront bienvenus, mais après la bataille."
+        },
+        {
+            "key": "057",
+            "value": "Pour l'heure, contentons-nous de survivre."
+        }
+    ]
+}

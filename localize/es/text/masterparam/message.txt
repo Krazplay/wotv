@@ -1,0 +1,16 @@
+﻿{
+    "infos": [
+        {
+            "key": "VIP_PERIOD_01",
+            "value": "Recompensa del paquete de rango 001"
+        },
+        {
+            "key": "VIP_PERIOD_02",
+            "value": "Recompensa del paquete de rango 002"
+        },
+        {
+            "key": "VIP_PERIOD_03",
+            "value": "Recompensa del paquete de rango 003"
+        }
+    ]
+}

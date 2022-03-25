@@ -1,0 +1,228 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Euer Majestät. Wie befohlen bleibt das Schlosstor in geöffnetem Zustand."
+        },
+        {
+            "key": "002",
+            "value": "Gut."
+        },
+        {
+            "key": "003",
+            "value": "V-Vergebt mir, Euer Majestät, aber kann der Feind so nicht einfach unbehelligt ins Schloss eindringen?"
+        },
+        {
+            "key": "004",
+            "value": "Begreifst du das nicht?"
+        },
+        {
+            "key": "005",
+            "value": "Schließen wir das Schlosstor, wird der Feind seine Kräfte ballen und uns mit voller Wucht angreifen."
+        },
+        {
+            "key": "006",
+            "value": "Steht das Tor jedoch offen, lässt sie das eine Falle vermuten und zögern, den nächsten Schritt zu unternehmen."
+        },
+        {
+            "key": "007",
+            "value": "V-Verstanden, Euer Majestät. Bitte vergebt mir meine Dreistigkeit."
+        },
+        {
+            "key": "008",
+            "value": "Nichtsdestotrotz lässt sich diese List nicht dauerhaft aufrechterhalten."
+        },
+        {
+            "key": "009",
+            "value": "Helena und Styr bleiben hier im Schloss."
+        },
+        {
+            "key": "010",
+            "value": "V-Vater!"
+        },
+        {
+            "key": "011",
+            "value": "Mont und ich werden es verlassen. Ich dulde keine Widersprüche."
+        },
+        {
+            "key": "012",
+            "value": "Und Margery?"
+        },
+        {
+            "key": "013",
+            "value": "Es wäre töricht, sie mitzunehmen."
+        },
+        {
+            "key": "014",
+            "value": "Margery ... Hier trennen sich also unsere Wege."
+        },
+        {
+            "key": "015",
+            "value": "Ich gebe Schuzelt in deine Obhut. In seinem Zustand kann er unmöglich nach Hourne zurückkehren."
+        },
+        {
+            "key": "016",
+            "value": "Ich habe verstanden. Er ist in guten Händen."
+        },
+        {
+            "key": "017",
+            "value": "..."
+        },
+        {
+            "key": "018",
+            "value": "Ich werde zurückkommen. Das verspreche ich."
+        },
+        {
+            "key": "019",
+            "value": "Aber kannst du dein Versprechen auch halten?"
+        },
+        {
+            "key": "020",
+            "value": "Ja. Wenn du an mich glaubst."
+        },
+        {
+            "key": "021",
+            "value": "Was ...?"
+        },
+        {
+            "key": "022",
+            "value": "Dein Vertrauen wird mich stärker machen. Stärker als ich jemals war."
+        },
+        {
+            "key": "023",
+            "value": "Dann werde ich an dich glauben."
+        },
+        {
+            "key": "024",
+            "value": "Werde stärker, Mont. Stärker als alle anderen."
+        },
+        {
+            "key": "025",
+            "value": "Danach komm und hol mich. Bevor ich dich vergesse. Hast du verstanden?"
+        },
+        {
+            "key": "026",
+            "value": "Du lässt Mutter und mich hier zurück, während du selbst die Flucht antrittst. Das ist also dein Plan?"
+        },
+        {
+            "key": "027",
+            "value": "Er missfällt dir?"
+        },
+        {
+            "key": "028",
+            "value": "Er macht uns zu Geiseln."
+        },
+        {
+            "key": "029",
+            "value": "Denk darüber, was du willst."
+        },
+        {
+            "key": "030",
+            "value": "Warum weigerst du dich zu kämpfen?! Und wenn Flucht in Frage kommt, warum treten wir sie dann nicht gemeinsam an, als Familie?!"
+        },
+        {
+            "key": "031",
+            "value": "Vergiss eins niemals."
+        },
+        {
+            "key": "032",
+            "value": "Das Haus Leonis wird fortbestehen, auch wenn wir uns den Zorn der Götter zuziehen müssen, um es zu verteidigen."
+        },
+        {
+            "key": "033",
+            "value": "Vater, ich habe nur eine Bitte. Ich bleibe bereitwillig hier zurück. Aber ich flehe dich an ..."
+        },
+        {
+            "key": "034",
+            "value": "Bitte, nimm Mutter mit."
+        },
+        {
+            "key": "035",
+            "value": "Würde ihr etwas zustoßen, ich weiß nicht ..."
+        },
+        {
+            "key": "036",
+            "value": "Helena bleibt hier."
+        },
+        {
+            "key": "037",
+            "value": "Um welchen Preis auch immer?"
+        },
+        {
+            "key": "038",
+            "value": "Es reicht."
+        },
+        {
+            "key": "039",
+            "value": "Mir auch!"
+        },
+        {
+            "key": "040",
+            "value": "Das Ganze ist nicht mehr als eine faule Ausrede, um deine eigene Haut zu retten!"
+        },
+        {
+            "key": "041",
+            "value": "Styr!"
+        },
+        {
+            "key": "042",
+            "value": "Wenn mein Leben sowieso schon verwirkt ist, werde ich noch so viele Feinde wie möglich mit ins Grab nehmen."
+        },
+        {
+            "key": "043",
+            "value": "Bruder ..."
+        },
+        {
+            "key": "044",
+            "value": "Soll die Erde doch mit meinem Blut getränkt werden."
+        },
+        {
+            "key": "045",
+            "value": "Du hast vor ... zu sterben?"
+        },
+        {
+            "key": "046",
+            "value": "Es ist mir nie in den Sinn gekommen, sterben zu wollen. Aber ..."
+        },
+        {
+            "key": "047",
+            "value": "Ich schwöre Leonis ab. Das ist alles."
+        },
+        {
+            "key": "048",
+            "value": "Helena."
+        },
+        {
+            "key": "049",
+            "value": "Beschütze die Blutlinie von Leonis – koste es, was es wolle."
+        },
+        {
+            "key": "050",
+            "value": "Koste es, was es wolle ..."
+        },
+        {
+            "key": "051",
+            "value": "So ist es."
+        },
+        {
+            "key": "052",
+            "value": "Euer Majestät. Ich bitte um Erlaubnis, zu Felde ziehen zu dürfen."
+        },
+        {
+            "key": "053",
+            "value": "... Die sollt Ihr haben. Und verzeiht mir, Ornh."
+        },
+        {
+            "key": "054",
+            "value": "Dass ich Euch, meinen ehrenwerten Gast, in all dies verwickelt habe ..."
+        },
+        {
+            "key": "055",
+            "value": "Ich fürchte, das bringt es mit sich, ein Ritter zu sein, selbst wenn man wie ich auch nur eher bescheidenen Rang bekleidet."
+        },
+        {
+            "key": "056",
+            "value": "Aber das nennt man wohl Schicksal, nicht? Hyahyahya!"
+        }
+    ]
+}

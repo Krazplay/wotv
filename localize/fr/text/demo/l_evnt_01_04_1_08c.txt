@@ -1,0 +1,216 @@
+﻿{
+    "infos": [
+        {
+            "key": "252",
+            "value": "Ha… Rah… Nous devons… les empêcher d’avancer…"
+        },
+        {
+            "key": "253",
+            "value": "Grooooah !"
+        },
+        {
+            "key": "254",
+            "value": "Oh non ! L'un d'eux a réussi à passer ! Mont, ici !"
+        },
+        {
+            "key": "255",
+            "value": "Grr !"
+        },
+        {
+            "key": "256",
+            "value": "Grooooah !"
+        },
+        {
+            "key": "257",
+            "value": "Qu'est-ce que… ?!"
+        },
+        {
+            "key": "258",
+            "value": "C'était moins une. On dirait bien que je tombe à point nommé."
+        },
+        {
+            "key": "259",
+            "value": "Seigneur Bériz ! Les villageois sont-ils sains et saufs ?"
+        },
+        {
+            "key": "260",
+            "value": "Je ne serais pas là sinon. Les hommes de Mont peuvent se charger du reste, je suis ici pour profiter du combat."
+        },
+        {
+            "key": "261",
+            "value": "Je te remercie, Bériz."
+        },
+        {
+            "key": "262",
+            "value": "Des remerciements de la part d'un prince ? J'adorerais prendre le temps de savourer ce moment mais il me semble mal choisi !"
+        },
+        {
+            "key": "263",
+            "value": "Groooooaaaaah !"
+        },
+        {
+            "key": "264",
+            "value": "Regardez !"
+        },
+        {
+            "key": "265",
+            "value": "On dirait bien que notre grand blessé a décidé de nous honorer de sa présence. Avec sa cour de sauvageons en prime !"
+        },
+        {
+            "key": "266",
+            "value": "Juste au moment où on pense pouvoir souffler, il en arrive encore davantage !"
+        },
+        {
+            "key": "267",
+            "value": "Est-ce là le monstre que vous cherchiez ? Celui qui a avalé le cristal fondamental ?"
+        },
+        {
+            "key": "268",
+            "value": "Hugh… Je ne peux pas… flancher maintenant… Je dois me battre jusqu'au bout…"
+        },
+        {
+            "key": "269",
+            "value": "Notre ami princier s'est vaillamment battu, mais on dirait bien qu'il a atteint à ses limites. Il est temps pour nous d'agir, Lucio."
+        },
+        {
+            "key": "270",
+            "value": "Entendu ! Mont, laissez-nous nous en charger !"
+        },
+        {
+            "key": "271",
+            "value": "Juste vous deux ? Vous n'y arriverez pas…"
+        },
+        {
+            "key": "272",
+            "value": "Asseyez-vous et profitez du spectacle. Nous allons vous montrer de quoi sont faits les Guerriers des cristaux !"
+        },
+        {
+            "key": "273",
+            "value": "Tu fais moins le malin sans tes sbires pour te protéger, hm ?"
+        },
+        {
+            "key": "274",
+            "value": "GROOOOOOAAAAAHHHH !"
+        },
+        {
+            "key": "275",
+            "value": "C'est tout ce que tu as dans le ventre ? Tiens, prends ça !"
+        },
+        {
+            "key": "276",
+            "value": "GROOAAAH !"
+        },
+        {
+            "key": "277",
+            "value": "Seigneur Bériz ! Les autres monstres se carapatent !"
+        },
+        {
+            "key": "278",
+            "value": "Ils ont l'air déterminés à nous faire suer… Mais on ne les laissera pas faire !"
+        },
+        {
+            "key": "279",
+            "value": "Ces montres commencent à me courir sur le système !"
+        },
+        {
+            "key": "280",
+            "value": "I-Incroyable ! Alors c'est ça, la puissance d'un Guerrier des cristaux…"
+        },
+        {
+            "key": "281",
+            "value": "Mais il reste encore tant de monstres… Comment pourrions-nous…"
+        },
+        {
+            "key": "282",
+            "value": "On dirait bien que j'arrive à temps."
+        },
+        {
+            "key": "283",
+            "value": "Cette voix… Sterne !"
+        },
+        {
+            "key": "284",
+            "value": "Désolé pour mon retard."
+        },
+        {
+            "key": "285",
+            "value": "Qu'est-ce que tu fais ici ? Qui s'occupe de « Fortem » ?"
+        },
+        {
+            "key": "286",
+            "value": "Le maître avait pour habitude de dire qu'une lame qui vacille ne peut rien couper…"
+        },
+        {
+            "key": "287",
+            "value": "Des mots sages comme à son habitude."
+        },
+        {
+            "key": "288",
+            "value": "Il m'a conseillé d'aller faire un tour pour m'aérer, et je me suis dirigé jusqu'ici."
+        },
+        {
+            "key": "289",
+            "value": "Ha ha ha…"
+        },
+        {
+            "key": "290",
+            "value": "Hmm…"
+        },
+        {
+            "key": "291",
+            "value": "Merci, Sterne."
+        },
+        {
+            "key": "292",
+            "value": "Et donc ? Tu comptes rester assis toute la journée ?"
+        },
+        {
+            "key": "293",
+            "value": "Je m'apprêtais à me relever."
+        },
+        {
+            "key": "294",
+            "value": "Lucio et son ami affrontent le chef de meute."
+        },
+        {
+            "key": "295",
+            "value": "Que dis-tu que nous nous occupions du reste ?"
+        },
+        {
+            "key": "296",
+            "value": "Ça me va. Tu veux compter les points ?"
+        },
+        {
+            "key": "297",
+            "value": "Si tu penses pouvoir tenir la distance… Allons-y !"
+        },
+        {
+            "key": "298",
+            "value": "C'est le frère de Mont…"
+        },
+        {
+            "key": "299",
+            "value": "Ces deux là forment un puissant duo. On dirait bien que la situation tourne enfin à notre avantage."
+        },
+        {
+            "key": "300",
+            "value": "Leur jeu d'épée est quelque peu maladroit, mais leur synergie vient palier leurs lacunes."
+        },
+        {
+            "key": "301",
+            "value": "Regarde comme ils combattent côte-à-côte. On dirait un duo de champions aguerris."
+        },
+        {
+            "key": "302",
+            "value": "Nous devons faire notre part ! Abattons ce béhémoth, seigneur Bériz !"
+        },
+        {
+            "key": "303",
+            "value": "Fais-lui mordre la poussière. Je couvre tes arrières."
+        },
+        {
+            "key": "304",
+            "value": "Entendu ! C'est parti !"
+        }
+    ]
+}

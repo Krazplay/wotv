@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Gngh ..."
+        },
+        {
+            "key": "002",
+            "value": "K-König Robb ... ich muss ... zu ihm ..."
+        },
+        {
+            "key": "003",
+            "value": "Tut mir leid. Aber ich kann das nicht zulassen."
+        },
+        {
+            "key": "004",
+            "value": "...!!"
+        },
+        {
+            "key": "005",
+            "value": "I-Ihr seid ...?!"
+        },
+        {
+            "key": "006",
+            "value": "Sieht aus, als hätte Rairyu recht gehabt."
+        },
+        {
+            "key": "007",
+            "value": "Er meinte, dass du uns ins Netz gehen würdest, wenn wir hier nur lange genug auf der Lauer lägen."
+        },
+        {
+            "key": "008",
+            "value": "Dieses Mal wirst du nicht entkommen. Mach dich bereit!"
+        },
+        {
+            "key": "009",
+            "value": "Verdammt!"
+        }
+    ]
+}

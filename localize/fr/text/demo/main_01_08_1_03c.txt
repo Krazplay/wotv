@@ -1,0 +1,220 @@
+﻿{
+    "infos": [
+        {
+            "key": "80042",
+            "value": "Engelbert, te voilà."
+        },
+        {
+            "key": "80043",
+            "value": "C'est eux, « Solidus »... ?"
+        },
+        {
+            "key": "80044",
+            "value": "..."
+        },
+        {
+            "key": "80045",
+            "value": "Vous êtes de Leonis."
+        },
+        {
+            "key": "80046",
+            "value": "B-bonjour ! Je m'appelle Lillyla !"
+        },
+        {
+            "key": "80047",
+            "value": "Vos noms m'importent peu."
+        },
+        {
+            "key": "80048",
+            "value": "Espèce de malotru !"
+        },
+        {
+            "key": "80049",
+            "value": "Hé, du calme."
+        },
+        {
+            "key": "80050",
+            "value": "Sans l'intervention stupide de Leonis, Son Altesse Machalie et Schuzelt seraient..."
+        },
+        {
+            "key": "80051",
+            "value": "Hé, dis donc, toi !"
+        },
+        {
+            "key": "80052",
+            "value": "Notre intervention n'était pas stupide ! Nous leur sommes venus en aide !"
+        },
+        {
+            "key": "80053",
+            "value": "Tss. Schuzelt et la princesse s'en seraient très bien sortis sans vous..."
+        },
+        {
+            "key": "80054",
+            "value": "Engelbert, c'en est assez de ruminer le passé."
+        },
+        {
+            "key": "80055",
+            "value": "Le présent exige que nous nous allions à Leonis et combattions ensemble."
+        },
+        {
+            "key": "80056",
+            "value": "Leonis... est l'allié de Hourne..."
+        },
+        {
+            "key": "80057",
+            "value": "Quand vous verrez le roi Eldo, demandez-lui de veiller sur Schuzelt pour moi."
+        },
+        {
+            "key": "80058",
+            "value": "Oui, Sire."
+        },
+        {
+            "key": "80059",
+            "value": "Alors vous l'abandonnez à la merci de Leonis ?"
+        },
+        {
+            "key": "80060",
+            "value": "Très bien, moi aussi j'ai un message pour le roi Eldo."
+        },
+        {
+            "key": "80061",
+            "value": "Dites-lui que s'il touche à un seul des cheveux de Schuzelt, il aura gagné un ennemi juré !"
+        },
+        {
+            "key": "80062",
+            "value": "Engelbert, pour la deuxième fois. C'est assez."
+        },
+        {
+            "key": "80063",
+            "value": "Je vous demande pardon, Sire."
+        },
+        {
+            "key": "80064",
+            "value": "Inutile. Je comprends ta colère."
+        },
+        {
+            "key": "80065",
+            "value": "Toi et Schuzelt êtes amis depuis plus longtemps que « Solidus » existe."
+        },
+        {
+            "key": "80066",
+            "value": "En effet. Il est plus qu'un frère, pour moi."
+        },
+        {
+            "key": "80067",
+            "value": "Alors aie foi en Leonis."
+        },
+        {
+            "key": "80068",
+            "value": "Oui, Sire."
+        },
+        {
+            "key": "80069",
+            "value": "Il est temps de partir. Nous devons nous mettre en route vers le château."
+        },
+        {
+            "key": "80070",
+            "value": "Nous, nous continuons notre chemin jusqu'à Wezett."
+        },
+        {
+            "key": "80071",
+            "value": "Bien."
+        },
+        {
+            "key": "80072",
+            "value": "Et toi, Diah ? Nous accompagneras-tu au château des Lions ?"
+        },
+        {
+            "key": "80073",
+            "value": "Je m'excuse, Sire, mais je vais pousser jusqu'à Wezett moi aussi."
+        },
+        {
+            "key": "80074",
+            "value": "Vraiment ? Et le sort d'Ovis ?"
+        },
+        {
+            "key": "80075",
+            "value": "Retrouver mon royaume est mon vœu le plus cher. Cependant..."
+        },
+        {
+            "key": "80076",
+            "value": "Avec Heindler sous sa bannière, Rundall possède une force de frappe qui surpasse même celle de la puissante Hourne."
+        },
+        {
+            "key": "80077",
+            "value": "Je vois. Tu espères donc rallier Leonis à ta cause."
+        },
+        {
+            "key": "80078",
+            "value": "En effet, Sire. Mais il n'y a pas que cela."
+        },
+        {
+            "key": "80079",
+            "value": "Ces soldats de Leonis m'ont escortée jusqu'ici. J'aimerais leur retourner la faveur."
+        },
+        {
+            "key": "80080",
+            "value": "Ce n'est que justice."
+        },
+        {
+            "key": "80081",
+            "value": "Sire, nous avons une dernière chose à vous dire."
+        },
+        {
+            "key": "80082",
+            "value": "Au château d'Anvil, nous avons trouvé quelques reliques séculaires. Quatre, pour être exacte."
+        },
+        {
+            "key": "80083",
+            "value": "Quoi ? Vous avez trouvé quatre reliques séculaires ?!"
+        },
+        {
+            "key": "80084",
+            "value": "Malheureusement, elles nous ont été dérobées par les hommes de main de Sadali."
+        },
+        {
+            "key": "80085",
+            "value": "Il les a donc en sa possession... Voilà qui n'augure rien de bon."
+        },
+        {
+            "key": "80086",
+            "value": "Veuillez nous pardonner."
+        },
+        {
+            "key": "80087",
+            "value": "Après la perte de la reine Helena et du seigneur Owe... nous n'avons pas eu d'autre choix que de fuir."
+        },
+        {
+            "key": "80088",
+            "value": "Ah, encore une mauvaise nouvelle. Qu'ils reposent en paix."
+        },
+        {
+            "key": "80089",
+            "value": "Merci, Majesté."
+        },
+        {
+            "key": "80090",
+            "value": "Il va vous falloir faire un long détour si vous espérez éviter les forces de Sadali. Désirez-vous une escorte ?"
+        },
+        {
+            "key": "80091",
+            "value": "Merci pour vous soutien, Sire. Mais nous ferons route seuls."
+        },
+        {
+            "key": "80092",
+            "value": "Dans ce cas, que vos épées restent aiguisées et vos boucliers solides."
+        },
+        {
+            "key": "80093",
+            "value": "Engelbert. Je te charge de protéger notre retraite."
+        },
+        {
+            "key": "80094",
+            "value": "Entendu, Sire !"
+        },
+        {
+            "key": "80095",
+            "value": "Bien. Nos chemins se séparent ici."
+        }
+    ]
+}

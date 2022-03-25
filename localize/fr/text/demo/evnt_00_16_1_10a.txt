@@ -1,0 +1,212 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Q-Quelle puissance…"
+        },
+        {
+            "key": "002",
+            "value": "Qui sont-ils ?"
+        },
+        {
+            "key": "003",
+            "value": "Cette agilité…"
+        },
+        {
+            "key": "004",
+            "value": "Cette lame serait-elle la Kyuro Michikage ?"
+        },
+        {
+            "key": "005",
+            "value": "Seigneur Khamral ! Seigneur Jinok !"
+        },
+        {
+            "key": "006",
+            "value": "Mes yeux ne sauraient me tromper."
+        },
+        {
+            "key": "007",
+            "value": "Nos terres décimées… Réduites à servir l'Église comme de vulgaires sujets pour survivre…"
+        },
+        {
+            "key": "008",
+            "value": "Mais on dirait bien que la chance nous sourit aujourd'hui !"
+        },
+        {
+            "key": "009",
+            "value": "Quand je pense que le trésor que le Seigneur Sadali nous a chargés de retrouver apparaît dans un moment pareil !"
+        },
+        {
+            "key": "010",
+            "value": "Un trésor indigne de chiens de garde de votre espèce."
+        },
+        {
+            "key": "011",
+            "value": "Oh oh…"
+        },
+        {
+            "key": "012",
+            "value": "En voilà une langue bien pendue… Tu ignores qui se trouve face à toi apparemment."
+        },
+        {
+            "key": "013",
+            "value": "Je suis Khamral, ancien commandant de la seconde division de Lykeros, « Obtritus »."
+        },
+        {
+            "key": "014",
+            "value": "Lykeros… ?"
+        },
+        {
+            "key": "015",
+            "value": "Ha ha ha ! Cette simple évocation suffit à te glacer le sang !"
+        },
+        {
+            "key": "016",
+            "value": "Je me disais bien avoir déjà entendu ce nom quelque part."
+        },
+        {
+            "key": "017",
+            "value": "C'est le royaume qui a été écrasé par Rundall, pas vrai ?"
+        },
+        {
+            "key": "018",
+            "value": "Et dont les survivants pensent avoir tous les droits parce que l'ombre de l'Église plane derrière eux…"
+        },
+        {
+            "key": "019",
+            "value": "Répète un peu, idiot ?!"
+        },
+        {
+            "key": "020",
+            "value": "Je ne suis pas du genre à m'en prendre aux plus faibles…"
+        },
+        {
+            "key": "021",
+            "value": "Mais je ne peux pas partir en laissant un combat inachevé."
+        },
+        {
+            "key": "022",
+            "value": "Enfin. Si tu es d'humeur à maudire quelqu'un, je te suggère de t'en prendre à ton incompétence."
+        },
+        {
+            "key": "023",
+            "value": "Tu vas regretter ces paroles !"
+        },
+        {
+            "key": "024",
+            "value": "Je vais récupérer cette lame et mettre fin à ta misérable existence !"
+        },
+        {
+            "key": "025",
+            "value": "Attends. J'ai quelque chose à te demander."
+        },
+        {
+            "key": "026",
+            "value": "Hmm ?"
+        },
+        {
+            "key": "027",
+            "value": "Pourquoi l'Église a-t-elle construit un sanctuaire dans ces lieux reculés ?"
+        },
+        {
+            "key": "028",
+            "value": "Ce n'est pas le seul endroit."
+        },
+        {
+            "key": "029",
+            "value": "Le Seigneur Sadali a érigé des sanctuaires dans tout le royaume. Pour ce qui est de ses motivations, on les découvrira en temps et en heure…"
+        },
+        {
+            "key": "030",
+            "value": "J'en étais sûr."
+        },
+        {
+            "key": "031",
+            "value": "De ?"
+        },
+        {
+            "key": "032",
+            "value": "J'ai vu bon nombre de ces bâtisses tout au long de mon voyage en ces terres."
+        },
+        {
+            "key": "033",
+            "value": "Tu peux demander à n'importe qui, ils tiendront le même discours. L'Église aide les villages ravagés par la guerre à se reconstruire."
+        },
+        {
+            "key": "034",
+            "value": "Ce… c'est impossible…"
+        },
+        {
+            "key": "035",
+            "value": "Hé ! C'est que tu comprends vite."
+        },
+        {
+            "key": "036",
+            "value": "Les plus nécessiteux ne refusent jamais la main qui leur est tendue."
+        },
+        {
+            "key": "037",
+            "value": "Les plus nécessiteux ? Je vois…"
+        },
+        {
+            "key": "038",
+            "value": "L'invasion de Fennes et le désespoir qu'elle a entraîné sur son passage… L'Église avait donc tout planifié…"
+        },
+        {
+            "key": "039",
+            "value": "Pourquoi s'énerver ?"
+        },
+        {
+            "key": "040",
+            "value": "Un soupçon de misère a permis à ce village reculé de bénéficier de la construction d'une église digne de ce nom."
+        },
+        {
+            "key": "041",
+            "value": "Tu devrais nous en être reconnaissants ! Ha ha ha ha ha !"
+        },
+        {
+            "key": "042",
+            "value": "Toutes ces églises… À la gloire du Seigneur Sadali… Pour attirer de plus en plus de fidèles…"
+        },
+        {
+            "key": "043",
+            "value": "Nous n’avons jamais rien demandé de tel…"
+        },
+        {
+            "key": "044",
+            "value": "Tout ce que nous désirions c'était vivre en paix !"
+        },
+        {
+            "key": "045",
+            "value": "Rien d'autre… Et pourtant…"
+        },
+        {
+            "key": "046",
+            "value": "Vous allez payer pour ça !  "
+        },
+        {
+            "key": "047",
+            "value": "Et pas seulement vous…"
+        },
+        {
+            "key": "048",
+            "value": "Sadali ! L'Église ! Vous devrez tous répondre de votre infamie !"
+        },
+        {
+            "key": "049",
+            "value": "Eh bien, cette petite révélation t'a revigorée à ce que je vois."
+        },
+        {
+            "key": "050",
+            "value": "Dire que tu étais prête à en finir avec la vie quelques minutes auparavant."
+        },
+        {
+            "key": "051",
+            "value": "Je ne mourrai pas aujourd'hui !"
+        },
+        {
+            "key": "052",
+            "value": "Non… Je vais vivre jusqu'à ce que ma vengeance sur vous tous soit complète !"
+        }
+    ]
+}

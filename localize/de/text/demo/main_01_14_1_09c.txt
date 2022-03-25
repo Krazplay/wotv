@@ -1,0 +1,240 @@
+﻿{
+    "infos": [
+        {
+            "key": "140209",
+            "value": "... Du befindest dich in einer denkbar schlechten Verhandlungsposition."
+        },
+        {
+            "key": "140210",
+            "value": "Ich biete dir mein Leben an. ... Was meinst du?"
+        },
+        {
+            "key": "140211",
+            "value": "Wofür?"
+        },
+        {
+            "key": "140212",
+            "value": "Im Austausch gegen deine Kampfkraft."
+        },
+        {
+            "key": "140213",
+            "value": "Abgelehnt."
+        },
+        {
+            "key": "140214",
+            "value": "Gibt es nicht irgendetwas ...?"
+        },
+        {
+            "key": "140215",
+            "value": "Solange Mallius in Gefangenschaft ist, kämpfe ich nicht für Fennes."
+        },
+        {
+            "key": "140216",
+            "value": "Mallius ... lebt nicht mehr."
+        },
+        {
+            "key": "140217",
+            "value": "Wer ... hat ihn getötet?"
+        },
+        {
+            "key": "140218",
+            "value": "......"
+        },
+        {
+            "key": "140219",
+            "value": "Antworte!"
+        },
+        {
+            "key": "140220",
+            "value": "I-Ich war es ..."
+        },
+        {
+            "key": "140221",
+            "value": "Es tut mir so leid. Bitte ... verzeih mir."
+        },
+        {
+            "key": "140222",
+            "value": "......"
+        },
+        {
+            "key": "140223",
+            "value": "Ich wusste es bereits."
+        },
+        {
+            "key": "140224",
+            "value": "Was ...?"
+        },
+        {
+            "key": "140225",
+            "value": "Ich bin auch ... in den Kerker gegangen."
+        },
+        {
+            "key": "140226",
+            "value": "Warum hast du dann ..."
+        },
+        {
+            "key": "140227",
+            "value": "Ich konnte das, was ich dort gesehen hatte, nicht akzeptieren."
+        },
+        {
+            "key": "140228",
+            "value": "Deswegen habe ich mir wohl eingeredet, dass es einfach nur ein Traum war ..."
+        },
+        {
+            "key": "140229",
+            "value": "Und daran festgehalten, dass sein Tod nicht real ist, solange das Geschehene vor mir verborgen gehalten wird ..."
+        },
+        {
+            "key": "140230",
+            "value": "Aber du ... Du ....!"
+        },
+        {
+            "key": "140231",
+            "value": "Warum musstest du mir deine Sünde beichten? Warum musstest du mich um Vergebung bitten?"
+        },
+        {
+            "key": "140232",
+            "value": "Wenn du die Wahrheit nicht ans Tageslicht gelassen hättest, hätte Mallius für immer in meinen Träumen weiterleben können!"
+        },
+        {
+            "key": "140233",
+            "value": "Mallius ... Mein lieber Mallius ..."
+        },
+        {
+            "key": "140234",
+            "value": "Jetzt, wo Mallius nicht mehr existiert, gibt es auch für mich keinen Grund mehr, auf dieser Welt zu bleiben."
+        },
+        {
+            "key": "140235",
+            "value": "Und genauso wenig einen, für Muraga zu kämpfen."
+        },
+        {
+            "key": "140236",
+            "value": "Nein!"
+        },
+        {
+            "key": "140237",
+            "value": "Ich war es, die Mallius umgebracht hat!"
+        },
+        {
+            "key": "140238",
+            "value": "Wenn du jemanden hassen musst, dann mich!"
+        },
+        {
+            "key": "140239",
+            "value": "Ich werde nicht für Muraga kämpfen."
+        },
+        {
+            "key": "140240",
+            "value": "Gibt es denn gar nichts, was ich ..."
+        },
+        {
+            "key": "140241",
+            "value": "Still."
+        },
+        {
+            "key": "140242",
+            "value": "Denn wenn ..."
+        },
+        {
+            "key": "140243",
+            "value": "Kilphe ..."
+        },
+        {
+            "key": "140244",
+            "value": "Wenn ich kämpfe, dann für diejenige, die Mallius nach seinem Tod Tag für Tag Blumen dargebracht hat."
+        },
+        {
+            "key": "140245",
+            "value": "Kilphe ...!"
+        },
+        {
+            "key": "140246",
+            "value": "Allerdings übersteigt die Truppenstärke der leonisch-hournschen Allianz die unsere bei Weitem."
+        },
+        {
+            "key": "140247",
+            "value": "Das heißt also, selbst für jemanden wie dich ist es unmöglich ..."
+        },
+        {
+            "key": "140248",
+            "value": "Nicht unbedingt. Eine Strategie gäbe es."
+        },
+        {
+            "key": "140249",
+            "value": "Wir schließen uns Mont an."
+        },
+        {
+            "key": "140250",
+            "value": "A-A-Aber ..."
+        },
+        {
+            "key": "140251",
+            "value": "Die vereinten Truppen haben offensichtlich vor, in Wezette einzufallen, nachdem sie Fennes den Rest gegeben haben."
+        },
+        {
+            "key": "140252",
+            "value": "Jedoch ist es mehr als unwahrscheinlich, dass das alles an Sadali vorbeigegangen ist."
+        },
+        {
+            "key": "140253",
+            "value": "Und das heißt ...?"
+        },
+        {
+            "key": "140254",
+            "value": "Das heißt, dass ihre Nachhut mit einem Angriff durch ein gewaltiges Heer Mönchsoldaten rechnen muss."
+        },
+        {
+            "key": "140255",
+            "value": "Selbstverständlich dürfte das Mont und seinen Verbündeten Kopfschmerzen bereiten."
+        },
+        {
+            "key": "140256",
+            "value": "Wohl genau aus diesem Grund ist es ihre oberste Priorität, Schloss Fennes zu erobern."
+        },
+        {
+            "key": "140257",
+            "value": "Du meinst also, wenn wir kapitulieren und uns ihren Truppen anschließen ..."
+        },
+        {
+            "key": "140258",
+            "value": "Ja. Dann werden wir Gelegenheit haben, Melnia zu töten."
+        },
+        {
+            "key": "140259",
+            "value": "... Gut."
+        },
+        {
+            "key": "140260",
+            "value": "Ein Problem besteht allerdings."
+        },
+        {
+            "key": "140261",
+            "value": "... Was für ein Problem?"
+        },
+        {
+            "key": "140262",
+            "value": "Vor unserer Kapitulation müssen wir Muragas Reichsgarde auf unsere Seite ziehen."
+        },
+        {
+            "key": "140263",
+            "value": "D-Das wird nicht ..."
+        },
+        {
+            "key": "140264",
+            "value": "Sollte uns das nicht gelingen, wird es sich für uns schwierig gestalten, auf wezettisches Terrain zu gelangen."
+        },
+        {
+            "key": "140265",
+            "value": "Okay. Ich werde die Mitglieder der Reichsgarde überzeugen."
+        },
+        {
+            "key": "140266",
+            "value": "... Was, wenn du das nicht schaffst?"
+        },
+        {
+            "key": "140267",
+            "value": "Dann zwinge ich sie mit Gewalt zum Gehorsam."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Curse those Fennes soldiers... They are intent on opening the archives' doors."
+        },
+        {
+            "key": "002",
+            "value": "Indeed, but we cannot allow the tome to fall into their hands."
+        },
+        {
+            "key": "003",
+            "value": "Let's take them out!"
+        },
+        {
+            "key": "004",
+            "value": "Ildyra... I'll keep the enemy entertained."
+        },
+        {
+            "key": "005",
+            "value": "Use that chance to open the archives' doors and go inside."
+        },
+        {
+            "key": "006",
+            "value": "Understood."
+        },
+        {
+            "key": "007",
+            "value": "...Here I go! Follow me!"
+        },
+        {
+            "key": "008",
+            "value": "There's still some Leonis scum on the loose!"
+        },
+        {
+            "key": "009",
+            "value": "You shall go no further!"
+        },
+        {
+            "key": "010",
+            "value": "Come to your demise, snakes of Fennes! I'm right here!"
+        }
+    ]
+}

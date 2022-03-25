@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "80096",
+            "value": "Ah... encore une forêt ?"
+        },
+        {
+            "key": "80097",
+            "value": "Ne verrons-nous donc plus jamais le soleil au-dessus de nos têtes ?"
+        },
+        {
+            "key": "80098",
+            "value": "Nous n'avons pas vraiment le choix."
+        },
+        {
+            "key": "80099",
+            "value": "On ne peut pas se permettre de se faire repérer par Sadali."
+        },
+        {
+            "key": "80100",
+            "value": "Exactement. On ne fait pas le poids à quatre contre une armée."
+        },
+        {
+            "key": "80101",
+            "value": "Je ne détecte aucune menace pour l'instant."
+        },
+        {
+            "key": "80102",
+            "value": "Moi non plus. Mais nous devons continuer à être prudents."
+        },
+        {
+            "key": "80103",
+            "value": "Ces bois aussi sont infestés de monstres assoiffés de sang..."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Permitidme que os explique ahora los <color=#0000ff>elementos</color> de las unidades."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Todas las unidades son de alguno de los siguientes elementos: <color=#0000ff>fuego</color>, <color=#0000ff>hielo</color>, <color=#0000ff>viento</color>, <color=#0000ff>tierra</color>, <color=#0000ff>rayo</color>, <color=#0000ff>agua</color>, <color=#0000ff>luz</color> u <color=#0000ff>oscuridad</color>. Del primero al último de nosotros recibimos la bendición de uno de estos elementos."
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Además, los elementos tienen afinidad entre ellos, es decir, son <color=#0000ff>efectivos contra unos elementos</color> y <color=#0000ff>débiles contra otros</color>."
+        },
+        {
+            "key": "006",
+            "value": "Dirigir a vuestros aliados para que ataquen con <color=#0000ff>elementos efectivos</color> contra el enemigo <color=#0000ff>aumentará</color> el daño que reciben."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Por el contrario, atacar con una unidad cuyo <color=#0000ff>elemento es débil</color> contra el enemigo hará que este reciba un daño <color=#0000ff>mucho menor</color> al habitual."
+        },
+        {
+            "key": "008",
+            "value": "Vuestro elemento, lord Mont, es la <color=#0000ff>tierra</color>, por lo que lo ideal sería que os enfrentarais a los <color=#0000ff>enemigos de rayo</color>."
+        },
+        {
+            "key": "009",
+            "value": "El elemento de la comandante Lilit es el <color=#0000ff>fuego</color>, por lo que le resultará más fácil enfrentarse a <color=#0000ff>enemigos de hielo</color>."
+        },
+        {
+            "key": "010",
+            "value": "Y, por último, mi elemento es el <color=#0000ff>agua</color>, por lo que a mí se me da mejor luchar contra los <color=#0000ff>enemigos de fuego</color>. Cada uno debería enfrentarse al enemigo al que pueda causar <color=#0000ff>daño elemental efectivo</color>, ¿no os parece?"
+        },
+        {
+            "key": "011",
+            "value": "【削除】"
+        },
+        {
+            "key": "012",
+            "value": "Veo que habéis sido capaz de derrotar al enemigo."
+        },
+        {
+            "key": "013",
+            "value": "Por cierto, ¿os habéis dado cuenta de que la <color=#0000ff>tabla de afinidad elemental</color> aparece justo antes de confirmar el ataque que vais a usar contra el enemigo?"
+        },
+        {
+            "key": "014",
+            "value": "Hasta que os acostumbréis a luchar como es debido, os aconsejo que le echéis un vistazo a la tabla de afinidad elemental siempre que podáis durante cada combate."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "256",
+            "value": "Wir werden jetzt das Schloss betreten. Ich empfehle dir, wachsam zu bleiben."
+        },
+        {
+            "key": "257",
+            "value": "Zusammen mit dem Miasma sind offenbar auch Monster in das Schloss eingedrungen."
+        },
+        {
+            "key": "258",
+            "value": "..."
+        },
+        {
+            "key": "259",
+            "value": "Was ist das?"
+        },
+        {
+            "key": "260",
+            "value": "Was hast du mit diesem riesigen Kristall vor?"
+        },
+        {
+            "key": "261",
+            "value": "Wir werden seine magische Kraft extrahieren und zur Kristallenen Stätte bringen."
+        },
+        {
+            "key": "262",
+            "value": "Das ist also das Ziel unserer Mission?"
+        },
+        {
+            "key": "263",
+            "value": "Es ist eines der Ziele."
+        },
+        {
+            "key": "264",
+            "value": "..."
+        },
+        {
+            "key": "265",
+            "value": "Begeben wir uns ins Schloss."
+        },
+        {
+            "key": "266",
+            "value": "In jene Hallen, die dich seit Kindertagen kennen ..."
+        }
+    ]
+}

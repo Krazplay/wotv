@@ -1,0 +1,164 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hermanooo, ¿aún no hemos llegado a la fortaleza?"
+        },
+        {
+            "key": "002",
+            "value": "Falta poco. En cuanto salgamos del bosque, habremos llegado."
+        },
+        {
+            "key": "003",
+            "value": "¿Esta se piensa que estamos yendo de excursión o qué?"
+        },
+        {
+            "key": "004",
+            "value": "¿Eh? ¿Has dicho algo?"
+        },
+        {
+            "key": "005",
+            "value": "No. ¿Qué pasa? ¿Has oído algo? Estaba hablando solo."
+        },
+        {
+            "key": "006",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "007",
+            "value": "Silencio. Huele a sangre."
+        },
+        {
+            "key": "008",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "009",
+            "value": "¡Hermano, espera!"
+        },
+        {
+            "key": "010",
+            "value": "Aún tiene pulso. Eh, oye, di algo."
+        },
+        {
+            "key": "011",
+            "value": "¡Lord Adelardo ha venido en nuestra ayuda!"
+        },
+        {
+            "key": "012",
+            "value": "¿Qué ocurre?"
+        },
+        {
+            "key": "013",
+            "value": "Tened… mucho… cuidado. Lu'Cía…"
+        },
+        {
+            "key": "014",
+            "value": "¿Lu'Cía? Así que es ella…"
+        },
+        {
+            "key": "015",
+            "value": "Hermano, ¿quién es Lu'Cía?"
+        },
+        {
+            "key": "016",
+            "value": "La comandante de Calorum, la tercera división de Rundal. Según dicen, tiene una puntería inigualable."
+        },
+        {
+            "key": "017",
+            "value": "Mmm."
+        },
+        {
+            "key": "018",
+            "value": "Por suerte, esa herida no parece muy profunda."
+        },
+        {
+            "key": "019",
+            "value": "Sí, eso parece. Solo me ha dado en el hombro derecho."
+        },
+        {
+            "key": "020",
+            "value": "¿Y tú? ¿Cómo te encuentras?"
+        },
+        {
+            "key": "021",
+            "value": "Lo mismo… Me ha disparado en el hombro derecho, pero no es grave."
+        },
+        {
+            "key": "022",
+            "value": "¿Crees que la puntería de Lu'Cía no es tan buena como dicen?"
+        },
+        {
+            "key": "023",
+            "value": "Mmm…"
+        },
+        {
+            "key": "024",
+            "value": "¿Y bien? ¿Qué hacemos, hermano?"
+        },
+        {
+            "key": "025",
+            "value": "Atacaremos la fortaleza antes de que se den cuenta de que estamos aquí."
+        },
+        {
+            "key": "026",
+            "value": "¡¿En serio?!"
+        },
+        {
+            "key": "027",
+            "value": "¿Tenéis miedo o qué?"
+        },
+        {
+            "key": "028",
+            "value": "¡¿Cómo decís?!"
+        },
+        {
+            "key": "029",
+            "value": "Han atacado a tus compañeros, ¿no? Así que mejor guárdate para luego los rencores hacia mi persona."
+        },
+        {
+            "key": "030",
+            "value": "…"
+        },
+        {
+            "key": "031",
+            "value": "Cuando hayamos reconquistado la fortaleza y rescatado a los nuestros…, entonces podrás hacer lo que quieras."
+        },
+        {
+            "key": "032",
+            "value": "¿Te parece bien que sea así?"
+        },
+        {
+            "key": "033",
+            "value": "Por supuesto."
+        },
+        {
+            "key": "034",
+            "value": "¡A la carga!"
+        },
+        {
+            "key": "035",
+            "value": "Un momento. ¿Todas las unidades, mi comandante? ¡¿También vos?!"
+        },
+        {
+            "key": "036",
+            "value": "Por supuesto."
+        },
+        {
+            "key": "037",
+            "value": "¿Qué sucede? ¿Acaso Glahz se esconde siempre en la retaguardia o qué?"
+        },
+        {
+            "key": "038",
+            "value": "…"
+        },
+        {
+            "key": "039",
+            "value": "¡Venga, vamos!"
+        },
+        {
+            "key": "040",
+            "value": "¡A por los de Rundal! ¡Recuperemos la fortaleza!"
+        }
+    ]
+}

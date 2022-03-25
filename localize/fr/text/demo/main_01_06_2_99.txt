@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Au rapport, Sire !"
+        },
+        {
+            "key": "002",
+            "value": "Un détachement de moines se dirige vers nous."
+        },
+        {
+            "key": "003",
+            "value": "Il fait peu de doute qu'ils soient menés par Sadali."
+        },
+        {
+            "key": "004",
+            "value": "Voyez-vous cela..."
+        },
+        {
+            "key": "005",
+            "value": "Se met-il à douter de nous ?"
+        },
+        {
+            "key": "006",
+            "value": "Non, Sire. Nous n'avons observé aucun signe de défiance de sa part."
+        },
+        {
+            "key": "007",
+            "value": "C'est le moment de les prendre par surprise !"
+        },
+        {
+            "key": "008",
+            "value": "Et Muraga ?"
+        },
+        {
+            "key": "009",
+            "value": "Pas de trace de lui... ni d'aucun soldat de Fennes."
+        },
+        {
+            "key": "010",
+            "value": "Ils sont sans doute restés sur le champ de bataille."
+        },
+        {
+            "key": "011",
+            "value": "Sire !"
+        },
+        {
+            "key": "012",
+            "value": "Hm."
+        },
+        {
+            "key": "013",
+            "value": "On dirait que Sadali a décidé de retourner à la cathédrale de Dynverk."
+        },
+        {
+            "key": "014",
+            "value": "Ce qui nous arrangerait bien."
+        },
+        {
+            "key": "015",
+            "value": "Moi, Rob, roi de Hourne, je leur rendrai, coup pour coup, chacun de leurs crimes et de leurs trahisons !"
+        },
+        {
+            "key": "016",
+            "value": "Informez les troupes ! Que toutes nos forces marchent à sa rencontre !"
+        },
+        {
+            "key": "017",
+            "value": "Nous lançons l'assaut contre les moines de l'Église !"
+        },
+        {
+            "key": "018",
+            "value": "Nous foulerons leurs cadavres de nos bottes jusqu'à ce que la terre rougisse de leur sang !"
+        }
+    ]
+}

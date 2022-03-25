@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Aaargh..."
+        },
+        {
+            "key": "002",
+            "value": "Est-ce douloureux ?"
+        },
+        {
+            "key": "003",
+            "value": "É-éloignez-vous de moi ou je vous tue !"
+        },
+        {
+            "key": "004",
+            "value": "Eh bien, quelle galanterie."
+        },
+        {
+            "key": "005",
+            "value": "Je compatis sincèrement. Mais..."
+        },
+        {
+            "key": "006",
+            "value": "Êtes-vous naïf au point de croire que j'ignorerais délibérément les dangers qui menacent mon prince ?"
+        },
+        {
+            "key": "007",
+            "value": "Schuzelt, calme-toi."
+        },
+        {
+            "key": "008",
+            "value": "Vous pensez que je ne vais pas vous attaquer parce que vous êtes prince ?"
+        },
+        {
+            "key": "009",
+            "value": "..."
+        },
+        {
+            "key": "010",
+            "value": "Vous tremblez, n'est-ce pas ? Prince des couards !"
+        },
+        {
+            "key": "011",
+            "value": "Vous avez raison, je n'ai pas les qualités requises pour être prince."
+        },
+        {
+            "key": "012",
+            "value": "Qu'avez-vous dit ?"
+        },
+        {
+            "key": "013",
+            "value": "Mais vous n'avez pas non plus les qualités requises pour être garde royal."
+        },
+        {
+            "key": "014",
+            "value": "Fermez-la !"
+        },
+        {
+            "key": "015",
+            "value": "Ha... ha..."
+        },
+        {
+            "key": "016",
+            "value": "Ah..."
+        },
+        {
+            "key": "017",
+            "value": "Pourquoi... Pourquoi n'avez-vous pas bougé ?"
+        },
+        {
+            "key": "018",
+            "value": "Vous n'êtes pas digne de servir Machalie. Je serai son bouclier."
+        },
+        {
+            "key": "019",
+            "value": "Pardonnez la rudesse de mon chevalier, il n'avait plus toute sa tête."
+        },
+        {
+            "key": "020",
+            "value": "Ne vous inquiétez pas. Mont l'a poussé à bout. Ce ne sont que des blessures superficielles."
+        },
+        {
+            "key": "021",
+            "value": "Je m'excuse également d'avoir parlé trop librement… Cependant, il semble plus brave qu'avant, tout d'un coup."
+        },
+        {
+            "key": "022",
+            "value": "C'est grâce à vous, j'ai l'impression."
+        },
+        {
+            "key": "023",
+            "value": "Grâce à moi... ?"
+        },
+        {
+            "key": "024",
+            "value": "Fichons le camp d'ici. Notre vengeance viendra plus tard. Nous devrions panser nos blessures et attendre le bon moment."
+        },
+        {
+            "key": "025",
+            "value": "Préparez-vous à battre en retraite !"
+        }
+    ]
+}

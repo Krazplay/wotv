@@ -1,0 +1,120 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Zakar !"
+        },
+        {
+            "key": "002",
+            "value": "Tu as reçu une lettre."
+        },
+        {
+            "key": "003",
+            "value": "Une lettre ?"
+        },
+        {
+            "key": "004",
+            "value": "« Munis-toi de la lame la plus mortelle que tu n'aies jamais forgée et viens à moi. » Je vois…"
+        },
+        {
+            "key": "005",
+            "value": "Tu t'en vas, alors ?"
+        },
+        {
+            "key": "006",
+            "value": "Tu es trop jeune pour avoir connu le grand Harvas, n'est-ce pas ?"
+        },
+        {
+            "key": "007",
+            "value": "On dit que c'était le meilleur forgeron de tout Ardra."
+        },
+        {
+            "key": "008",
+            "value": "Mais c'était pas ton maître ?"
+        },
+        {
+            "key": "009",
+            "value": "Si, exactement."
+        },
+        {
+            "key": "010",
+            "value": "Trop bien !"
+        },
+        {
+            "key": "011",
+            "value": "Je ne reviendrai peut-être jamais."
+        },
+        {
+            "key": "012",
+            "value": "Quoi… ? Oh non…"
+        },
+        {
+            "key": "013",
+            "value": "Prends soin de toi, gamin."
+        },
+        {
+            "key": "014",
+            "value": "Oui, toi aussi !"
+        },
+        {
+            "key": "015",
+            "value": "D'après cette lettre, mon maître s'est retiré dans les terres méridionales de Rundall."
+        },
+        {
+            "key": "016",
+            "value": "D'ici, ça veut dire que je dois aller… Vers l'ouest."
+        },
+        {
+            "key": "017",
+            "value": "Dire que ça fait déjà deux ans…"
+        },
+        {
+            "key": "018",
+            "value": "Je ne saurais dire si c'est passé vite ou non."
+        },
+        {
+            "key": "019",
+            "value": "Qu'importe."
+        },
+        {
+            "key": "020",
+            "value": "Ces années m'ont donné le temps de pousser jusqu'au bout mon entraînement de forgeron."
+        },
+        {
+            "key": "021",
+            "value": "Le maître devrait être fier de mes progrès."
+        },
+        {
+            "key": "022",
+            "value": "Que ?!"
+        },
+        {
+            "key": "023",
+            "value": "Ne me sous-estimez pas, vous allez le regretter."
+        },
+        {
+            "key": "024",
+            "value": "Très bien, puisque vous insistez !"
+        },
+        {
+            "key": "025",
+            "value": "Tu veux un peu d'aide ?"
+        },
+        {
+            "key": "026",
+            "value": "Quoi ?"
+        },
+        {
+            "key": "027",
+            "value": "Rémyur ! Que fais-tu là ?"
+        },
+        {
+            "key": "028",
+            "value": "On en parlera plus tard, tu veux bien ?"
+        },
+        {
+            "key": "029",
+            "value": "Oui, d'accord."
+        }
+    ]
+}

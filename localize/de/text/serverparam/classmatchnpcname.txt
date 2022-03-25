@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "CM_NPC01",
+            "value": "Jack"
+        },
+        {
+            "key": "CM_NPC02",
+            "value": "Silvia"
+        },
+        {
+            "key": "CM_NPC03",
+            "value": "Wolf"
+        },
+        {
+            "key": "CM_NPC04",
+            "value": "Stipe"
+        },
+        {
+            "key": "CM_NPC05",
+            "value": "Lucius"
+        },
+        {
+            "key": "CM_NPC06",
+            "value": "Nebula"
+        },
+        {
+            "key": "CM_NPC07",
+            "value": "Weiß"
+        },
+        {
+            "key": "CM_NPC08",
+            "value": "Schwarz"
+        },
+        {
+            "key": "CM_NPC09",
+            "value": "Angelina"
+        },
+        {
+            "key": "CM_NPC10",
+            "value": "Kilian"
+        },
+        {
+            "key": "CM_NPC11",
+            "value": "Jin"
+        },
+        {
+            "key": "CM_NPC12",
+            "value": "Samuel"
+        },
+        {
+            "key": "CM_NPC13",
+            "value": "Gottfried"
+        },
+        {
+            "key": "CM_NPC14",
+            "value": "Grün"
+        },
+        {
+            "key": "CM_NPC15",
+            "value": "Gernot"
+        },
+        {
+            "key": "CM_NPC16",
+            "value": "Vladimir"
+        },
+        {
+            "key": "CM_NPC17",
+            "value": "Gelb"
+        },
+        {
+            "key": "CM_NPC18",
+            "value": "Orange"
+        },
+        {
+            "key": "CM_NPC19",
+            "value": "Flora"
+        },
+        {
+            "key": "CM_NPC20",
+            "value": "Zaza"
+        },
+        {
+            "key": "CM_NPC21",
+            "value": "Alpha"
+        },
+        {
+            "key": "CM_NPC22",
+            "value": "Venia"
+        },
+        {
+            "key": "CM_NPC23",
+            "value": "Katherina"
+        },
+        {
+            "key": "CM_NPC24",
+            "value": "Ronja"
+        },
+        {
+            "key": "CM_NPC25",
+            "value": "Hibiki"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ist das ...?!"
+        },
+        {
+            "key": "002",
+            "value": "Alles in Ordnung?!"
+        },
+        {
+            "key": "003",
+            "value": "Urgh ..."
+        },
+        {
+            "key": "004",
+            "value": "Gott sei Dank. Du scheinst unversehrt zu sein."
+        },
+        {
+            "key": "005",
+            "value": "Sind wir ... im Osten?"
+        },
+        {
+            "key": "006",
+            "value": "Für uns hier liegen wir eher zentral."
+        },
+        {
+            "key": "007",
+            "value": "Aber es stimmt, dass die Leute vom Festland es „den Osten“ nennen."
+        },
+        {
+            "key": "008",
+            "value": "Ich verstehe ... Dann habe ich es also bis hierher geschafft."
+        },
+        {
+            "key": "009",
+            "value": "Und in einem Stück! Mein Name ist Miranda. Und du bist ...?"
+        },
+        {
+            "key": "010",
+            "value": "Ich bin Ravesse."
+        },
+        {
+            "key": "011",
+            "value": "Du bist einen weiten Weg gekommen, Ravesse. Was hat dich bis hierher geführt?"
+        },
+        {
+            "key": "012",
+            "value": "Es gibt nur einen Grund, warum Leute sich in den Osten wagen."
+        },
+        {
+            "key": "013",
+            "value": "Wenn dem so ist, rate ich dir heimzukehren."
+        },
+        {
+            "key": "014",
+            "value": "Aber warum?"
+        },
+        {
+            "key": "015",
+            "value": "Unzählige haben diesem Traum nachgejagt und sind hier gestrandet ..."
+        },
+        {
+            "key": "016",
+            "value": "Nur um im Endeffekt ihre Illusionen aufzugeben."
+        },
+        {
+            "key": "017",
+            "value": "Dieses Schicksal erwartet alle Wagemutigen ohne Talent dahinter."
+        },
+        {
+            "key": "018",
+            "value": "Ich bin anders."
+        },
+        {
+            "key": "019",
+            "value": "Du meinst es bestimmt gut ... Jeder, der hierher kommt, sagt das zunächst einmal."
+        },
+        {
+            "key": "020",
+            "value": "Dein Versuch, mich abzuhalten, ist sinnlos."
+        },
+        {
+            "key": "021",
+            "value": "..."
+        },
+        {
+            "key": "022",
+            "value": "Wenn deine Entschlossenheit wirklich so unbeugsam ist, dann komm mit mir."
+        },
+        {
+            "key": "023",
+            "value": "Ich werde dich meinen Meistern vorstellen."
+        },
+        {
+            "key": "024",
+            "value": "Ehrlich?"
+        },
+        {
+            "key": "025",
+            "value": "Obwohl ich fürchte, dass du es bereuen wirst."
+        }
+    ]
+}

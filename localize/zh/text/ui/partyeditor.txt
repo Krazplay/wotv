@@ -1,0 +1,324 @@
+﻿{
+    "infos": [
+        {
+            "key": "PARTYEDITOR_TEAM_RENAME",
+            "value": "變更隊伍名"
+        },
+        {
+            "key": "PARTYEDITOR_FIX_PARTY",
+            "value": "不可編配"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_SUPPORT",
+            "value": "雇用<br>傭兵！！"
+        },
+        {
+            "key": "PARTYEDITOR_ITEM_NOT_USED",
+            "value": "無法使用<br>道具"
+        },
+        {
+            "key": "PARTYEDITOR_FRIEND_SKILL_NONE",
+            "value": "無"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_GO",
+            "value": "出擊！！"
+        },
+        {
+            "key": "PARTYEDITOR_BATTLE_SKIP",
+            "value": "跳過戰鬥"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_TITLE",
+            "value": "戰鬥設定"
+        },
+        {
+            "key": "MAP_EFFECT_TITLE",
+            "value": "地圖效果"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_TITLE",
+            "value": "地形"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_DEFAULT",
+            "value": "無"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_TITLE",
+            "value": "地圖效果"
+        },
+        {
+            "key": "ITEM_SELECT_TITLE",
+            "value": "選擇道具"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ALL",
+            "value": "全部"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_HEAL",
+            "value": "恢復"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ATTACK",
+            "value": "攻擊"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_TITLE",
+            "value": "變更隊伍名"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_DESCRIPTION",
+            "value": "請輸入新的隊伍名。"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_CAUTION",
+            "value": "請輸入8字以內的內容。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_TITLE",
+            "value": "自動編配"
+        },
+        {
+            "key": "RECOMMEND_TEAM_MSG_1",
+            "value": "請選擇重視的項目與屬性。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ALL_TEXT",
+            "value": "全部"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_FIRE_TEXT",
+            "value": "火屬性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ICE_TEXT",
+            "value": "冰屬性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WIND_TEXT",
+            "value": "風屬性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_EARTH_TEXT",
+            "value": "土屬性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_THUNDER_TEXT",
+            "value": "雷屬性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WATER_TEXT",
+            "value": "水屬性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_SHINE_TEXT",
+            "value": "光屬性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_DARK_TEXT",
+            "value": "暗屬性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_TOTAL_TEXT",
+            "value": "綜合"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TEXT",
+            "value": "攻擊"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_DEFENCE_TEXT",
+            "value": "物防"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MAGIC_TEXT",
+            "value": "魔力"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MIND_TEXT",
+            "value": "魔防"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_HP_TEXT",
+            "value": "HP"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_SPEED_TEXT",
+            "value": "敏捷"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SLASH_TEXT",
+            "value": "斬擊"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_STAB_TEXT",
+            "value": "刺突"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_BLOW_TEXT",
+            "value": "打擊"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SHOT_TEXT",
+            "value": "射擊"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_MAGIC_TEXT",
+            "value": "魔法"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_NONE_TEXT",
+            "value": "其他"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_ALL_TEXT",
+            "value": "全攻擊系"
+        },
+        {
+            "key": "PARTYEDITOR_COND_LIMIT",
+            "value": "【出擊限制】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_LIMIT",
+            "value": "【出擊限制】<br>無"
+        },
+        {
+            "key": "PARTYEDITOR_COND_FIXED",
+            "value": "【強制出擊】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_FIXED",
+            "value": "【強制出擊】<br>無"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PUNCTUATE",
+            "value": "/"
+        },
+        {
+            "key": "PARTYEDITOR_COND_DETAIL",
+            "value": "【關卡信息】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT",
+            "value": "【地形】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER",
+            "value": "【天氣】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_SEP",
+            "value": "、"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PLV",
+            "value": "玩家等級："
+        },
+        {
+            "key": "PARTYEDITOR_COND_ULV",
+            "value": "兵員等級："
+        },
+        {
+            "key": "PARTYEDITOR_COND_ELEM",
+            "value": "屬性："
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOB",
+            "value": "職業："
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNIT",
+            "value": "兵員："
+        },
+        {
+            "key": "PARTYEDITOR_COND_SEX",
+            "value": "性別："
+        },
+        {
+            "key": "PARTYEDITOR_COND_RARITY",
+            "value": "稀有度："
+        },
+        {
+            "key": "PARTYEDITOR_COND_HEIGHT",
+            "value": "身高："
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEIGHT",
+            "value": "體重："
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX",
+            "value": "職業編號："
+        },
+        {
+            "key": "PARTYEDITOR_COND_BIRTH",
+            "value": "出身國："
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX_VALUE",
+            "value": "第{0}職業"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TEXTFRAME",
+            "value": "【{0}】"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_PARENT",
+            "value": "{0}：習得{1}{2}"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TITLE",
+            "value": "{0}要滿足以下所有條件"
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND_OWNED_UNIT",
+            "value": "沒有此編配"
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND",
+            "value": "沒有此編配"
+        },
+        {
+            "key": "DEFAULT_PARTY_NAME",
+            "value": "隊伍{0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
+            "value": "隊伍還有空位"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
+            "value": "隊伍有空位的情況下，可能會不利於挑戰期間限定的公會戰鬥。確定要結束設定？"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
+            "value": "未達成編配條件"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
+            "value": "因未達成編配條件，使用之前的編配完成。"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LEAGUE_GUILD_EMPTY_DESC",
+            "value": "隊伍有空位的情況下，可能會不利於挑戰公會戰鬥頂尖對決。確定要結束設定？"
+        }
+    ]
+}

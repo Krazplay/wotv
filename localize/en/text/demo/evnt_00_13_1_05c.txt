@@ -1,0 +1,112 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "You...!"
+        },
+        {
+            "key": "002",
+            "value": "Hey now, be civil."
+        },
+        {
+            "key": "003",
+            "value": "Miss Lumeide...! Who are these two...?"
+        },
+        {
+            "key": "004",
+            "value": "They are not the masters of the east we seek."
+        },
+        {
+            "key": "005",
+            "value": "That's right. Just a couple of extra passengers."
+        },
+        {
+            "key": "006",
+            "value": "Wait! You cannot seriously intend to board a ship full of enemies like this...!"
+        },
+        {
+            "key": "007",
+            "value": "Alright then, hold down the fort while I'm gone."
+        },
+        {
+            "key": "008",
+            "value": "...Hm? So you're on board after all."
+        },
+        {
+            "key": "009",
+            "value": "Owe was not my only master. Seymore trained me as well."
+        },
+        {
+            "key": "010",
+            "value": "Fair enough."
+        },
+        {
+            "key": "011",
+            "value": "Lumeide... Tell me more about Garvall."
+        },
+        {
+            "key": "012",
+            "value": "You understand Garvall is our leader, right?"
+        },
+        {
+            "key": "013",
+            "value": "I'm not asking you to spill his every last secret to me."
+        },
+        {
+            "key": "014",
+            "value": "I hear he's systematically killing off swordsmiths across the continent."
+        },
+        {
+            "key": "015",
+            "value": "Why would one do something like that?"
+        },
+        {
+            "key": "016",
+            "value": "Without new weapons circulating, a weakening of the major powers of Ardra would become inevitable."
+        },
+        {
+            "key": "017",
+            "value": "Which I suppose means the Arms Dealers' Guild is trying to become a nation itself."
+        },
+        {
+            "key": "018",
+            "value": "Neither of you would understand. This is..."
+        },
+        {
+            "key": "019",
+            "value": "The wish of the Yezagh people, I suppose?"
+        },
+        {
+            "key": "020",
+            "value": "You're aware of my background?"
+        },
+        {
+            "key": "021",
+            "value": "I had a feeling that was where you hailed from."
+        },
+        {
+            "key": "022",
+            "value": "You...You are from Yezagh?"
+        },
+        {
+            "key": "023",
+            "value": "If you wish to hold me in contempt...then go ahead. Scorn me all you like."
+        },
+        {
+            "key": "024",
+            "value": "I do not discriminate based on blood or birth."
+        },
+        {
+            "key": "025",
+            "value": "......"
+        },
+        {
+            "key": "026",
+            "value": "...I see land. The guild certainly has itself a fast ship."
+        },
+        {
+            "key": "027",
+            "value": "The mainland... It's good to be back."
+        }
+    ]
+}

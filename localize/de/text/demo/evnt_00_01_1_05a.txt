@@ -1,0 +1,188 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... Wer ist da?!"
+        },
+        {
+            "key": "002",
+            "value": "Hiaaaaaa!"
+        },
+        {
+            "key": "003",
+            "value": "Beruhig dich, Etre. Sie ist ein Mensch, genau wie wir."
+        },
+        {
+            "key": "004",
+            "value": "Puh, ihr habt mir einen schönen Schrecken eingejagt. Ich hätte nicht erwartet, hier auf Menschen zu stoßen ..."
+        },
+        {
+            "key": "005",
+            "value": "Du bist ... ein Paladin, stimmt’s?"
+        },
+        {
+            "key": "006",
+            "value": "Exakt. Und?"
+        },
+        {
+            "key": "007",
+            "value": "Aha ... Dann bist du diejenige, die von Lilith hierher geschickt wurde?"
+        },
+        {
+            "key": "008",
+            "value": "Wie, ihr wisst von meinem Auftrag?"
+        },
+        {
+            "key": "009",
+            "value": "Dann ... bist du vielleicht die Rekrutin, die von den Skeletten gefressen wurde ...?"
+        },
+        {
+            "key": "010",
+            "value": "Also gefressen wurde ich ganz offensichtlich noch nicht ..."
+        },
+        {
+            "key": "011",
+            "value": "Als wir gesagt haben, dass wir uns bei „Fortem“ verpflichten wollen, hat man uns auch hierher geschickt."
+        },
+        {
+            "key": "012",
+            "value": "Ich heiße Nashia. Und ihr seid ...?"
+        },
+        {
+            "key": "013",
+            "value": "Etre. Und das hier ist Yerma."
+        },
+        {
+            "key": "014",
+            "value": "Freut mich!"
+        },
+        {
+            "key": "015",
+            "value": "Also dann. Wenn ihr mich jetzt entschuldigen würdet ..."
+        },
+        {
+            "key": "016",
+            "value": "Halt, halt! Warte mal einen Augenblick."
+        },
+        {
+            "key": "017",
+            "value": "Du bist doch auch hier, um die Skelette zu erledigen, nicht? Wie wäre es, wenn wir zusammenarbeiten ...?"
+        },
+        {
+            "key": "018",
+            "value": "Tut mir leid. Ich bestreite meine Kämpfe alleine."
+        },
+        {
+            "key": "019",
+            "value": "Jetzt warte doch mal! Hör zu, die Skelette hier sind ziemlich stark."
+        },
+        {
+            "key": "020",
+            "value": "Wenn du nicht aufpasst, könntest du hier drin umkommen ..."
+        },
+        {
+            "key": "021",
+            "value": "Niemals! Ich werde nicht sterben!"
+        },
+        {
+            "key": "022",
+            "value": "Ähm ..."
+        },
+        {
+            "key": "023",
+            "value": "Solange ich nicht Prinz Styrs Frau geworden bin, kann und darf ich einfach nicht sterben!"
+        },
+        {
+            "key": "024",
+            "value": "..."
+        },
+        {
+            "key": "025",
+            "value": "..."
+        },
+        {
+            "key": "026",
+            "value": "Das heißt also ...  wir sind ... Rivalinnen?"
+        },
+        {
+            "key": "027",
+            "value": "Ich fürchte, ja."
+        },
+        {
+            "key": "028",
+            "value": "Hmmm, so ist das also ..."
+        },
+        {
+            "key": "029",
+            "value": "Also gut. Dann lasst uns das ehrenhaft und fair austragen!"
+        },
+        {
+            "key": "030",
+            "value": "..."
+        },
+        {
+            "key": "031",
+            "value": "..."
+        },
+        {
+            "key": "032",
+            "value": "Kommt schon, lasst uns gehen."
+        },
+        {
+            "key": "033",
+            "value": "Wir vergeuden nur Zeit, wenn wir hier herumstehen."
+        },
+        {
+            "key": "034",
+            "value": "Ich bin recht unerfahren, was Kämpfe und Krieg angeht, aber ..."
+        },
+        {
+            "key": "035",
+            "value": "Paladine schlagen Schneisen in die Vorhut des Feindes, um den eigenen Truppen das Vorankommen zu erleichtern, richtig?"
+        },
+        {
+            "key": "036",
+            "value": "Ja, so könnte man es zusammenfassen."
+        },
+        {
+            "key": "037",
+            "value": "Ich habe einen ausgesprochen schlechten Orientierungssinn. Hihi!"
+        },
+        {
+            "key": "038",
+            "value": "Sag mir jetzt nicht ..."
+        },
+        {
+            "key": "039",
+            "value": "Dass du die letzten drei Tage in der Nähe des Höhleneingangs im Kreis gelaufen bist!"
+        },
+        {
+            "key": "040",
+            "value": "U-Und, wo liegt das Problem? Jeder hat Stärken und Schwächen, oder etwa nicht?"
+        },
+        {
+            "key": "041",
+            "value": "Dann übernehme wohl besser ich die Führung."
+        },
+        {
+            "key": "042",
+            "value": "Traust du dir das zu?"
+        },
+        {
+            "key": "043",
+            "value": "Ja, denn mein Näschen hier wird mir dabei helfen."
+        },
+        {
+            "key": "044",
+            "value": "*Schnupper, schnupper* ..."
+        },
+        {
+            "key": "045",
+            "value": "Ich rieche Monster!"
+        },
+        {
+            "key": "046",
+            "value": "Also gut. Dann lasst uns weiter in diese Richtung marschieren!"
+        }
+    ]
+}

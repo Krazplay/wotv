@@ -1,0 +1,364 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Vamos a dejar que se larguen sin más?"
+        },
+        {
+            "key": "002",
+            "value": "No importa. En el fondo no son más que unas pequeñas sabandijas."
+        },
+        {
+            "key": "003",
+            "value": "Ya veo…"
+        },
+        {
+            "key": "004",
+            "value": "Bueno. Ya tenemos la espada… ¿Qué tal si volvemos a casa?"
+        },
+        {
+            "key": "005",
+            "value": "Sin duda el viejo estará preocupado."
+        },
+        {
+            "key": "006",
+            "value": "No voy a volver…"
+        },
+        {
+            "key": "007",
+            "value": "¿Qué? ¿Por qué no?"
+        },
+        {
+            "key": "008",
+            "value": "Todo aquello que dijiste sobre el viejo repudiándote era una broma, ¿no?"
+        },
+        {
+            "key": "009",
+            "value": "Yo ya no tengo ningún lugar al que regresar."
+        },
+        {
+            "key": "010",
+            "value": "¿Que no tienes ningún lugar?"
+        },
+        {
+            "key": "011",
+            "value": "Santocristal está buscando al maestro mientras hablamos."
+        },
+        {
+            "key": "012",
+            "value": "Por eso tuve que alejaros a Chel y a ti de allí."
+        },
+        {
+            "key": "013",
+            "value": "Solo mentí para quitarnos al enemigo de encima."
+        },
+        {
+            "key": "014",
+            "value": "¿Y qué hay del viejo?"
+        },
+        {
+            "key": "015",
+            "value": "Es más que probable que ya haya abandonado la mansión."
+        },
+        {
+            "key": "016",
+            "value": "Dónde se esconde... Eso no sabría decirlo."
+        },
+        {
+            "key": "017",
+            "value": "Bien pues, vayamos a buscarlo."
+        },
+        {
+            "key": "018",
+            "value": "Buena idea. Os lo dejo a vosotros."
+        },
+        {
+            "key": "019",
+            "value": "¿Adónde te dirigirás tú, hermano?"
+        },
+        {
+            "key": "020",
+            "value": "Aún me quedan cosas que hacer."
+        },
+        {
+            "key": "021",
+            "value": "¿Las otras cinco espadas?"
+        },
+        {
+            "key": "022",
+            "value": "Así es. Por lo que aquí me despido."
+        },
+        {
+            "key": "023",
+            "value": "No. En ese caso, te acompañaré."
+        },
+        {
+            "key": "024",
+            "value": "¡Yo también quiero ir contigo!"
+        },
+        {
+            "key": "025",
+            "value": "No... No puedo poneros en riesgo."
+        },
+        {
+            "key": "026",
+            "value": "Hermano…"
+        },
+        {
+            "key": "027",
+            "value": "¿Pero por qué, Howletito? ¿Por qué no podemos ir contigo?"
+        },
+        {
+            "key": "028",
+            "value": "Las circunstancias son diferentes ahora… Me espera un arduo camino a partir de aquí."
+        },
+        {
+            "key": "029",
+            "value": "¿Porque Santocristal no cesará hasta hacerse con la espada?"
+        },
+        {
+            "key": "030",
+            "value": "Así es, hermano…"
+        },
+        {
+            "key": "031",
+            "value": "Puede que algunos como Khamral solo sean meros lacayos…"
+        },
+        {
+            "key": "032",
+            "value": "Pero no se detendrán ante nada para llevar a cabo sus planes malévolos…"
+        },
+        {
+            "key": "033",
+            "value": "Por favor, cuida de mis hermanos."
+        },
+        {
+            "key": "034",
+            "value": "No puedo hacer eso. Yo…"
+        },
+        {
+            "key": "035",
+            "value": "Estabas preparada para tirar tu vida, ¿no es así?"
+        },
+        {
+            "key": "036",
+            "value": "¿Quieres decir que ahora te debo un favor?"
+        },
+        {
+            "key": "037",
+            "value": "Nada de eso. Eres tú misma quien eligió vivir."
+        },
+        {
+            "key": "038",
+            "value": "Renunciaste a la muerte y elegiste luchar a mi lado."
+        },
+        {
+            "key": "039",
+            "value": "Tan solo porque debo llevar a cabo mi venganza contra Santocristal. Eso es todo."
+        },
+        {
+            "key": "040",
+            "value": "Lo sé. Pero también sé que ese mismo Santocristal irá contra mi familia ahora."
+        },
+        {
+            "key": "041",
+            "value": "Pero ¿por qué yo?"
+        },
+        {
+            "key": "042",
+            "value": "Me quedó bastante claro que eres lo suficientemente fuerte como para poder pedirte este favor."
+        },
+        {
+            "key": "043",
+            "value": "..."
+        },
+        {
+            "key": "044",
+            "value": "¡Howletito!"
+        },
+        {
+            "key": "045",
+            "value": "Perdóname, Chel. Tu hermanito debe marcharse por ahora."
+        },
+        {
+            "key": "046",
+            "value": "¡No! ¡No te dejaré! ¡Quiero estar a tu lado, Howletito!"
+        },
+        {
+            "key": "047",
+            "value": "¡Siempre! ¡Siempre a tu lado!"
+        },
+        {
+            "key": "048",
+            "value": "Todos llegamos a un punto de nuestras vidas en el que debemos hacer lo correcto."
+        },
+        {
+            "key": "049",
+            "value": "Solo será por un tiempo… hasta que termine mi misión."
+        },
+        {
+            "key": "050",
+            "value": "¿Solo por un tiempo? ¿De verdad que solo por un tiempo?"
+        },
+        {
+            "key": "051",
+            "value": "Así es, Chel. Solo un poquito."
+        },
+        {
+            "key": "052",
+            "value": "Mientras tanto, prométeme que tú también harás lo correcto."
+        },
+        {
+            "key": "053",
+            "value": "¿Y qué es eso?"
+        },
+        {
+            "key": "054",
+            "value": "Hacer sonreír a esta muchacha, por supuesto."
+        },
+        {
+            "key": "055",
+            "value": "¿Sonreír?"
+        },
+        {
+            "key": "056",
+            "value": "Dijiste que te gustaría verla sonreír, ¿no?"
+        },
+        {
+            "key": "057",
+            "value": "¡Sí! ¡Me encantaría!"
+        },
+        {
+            "key": "058",
+            "value": "¡Está bien, Howletito! ¡Lo conseguiré!"
+        },
+        {
+            "key": "059",
+            "value": "Y no solo eso... También debes hacerte fuerte…"
+        },
+        {
+            "key": "060",
+            "value": "¡Lo haré! ¡Me haré superfuerte!"
+        },
+        {
+            "key": "061",
+            "value": "Y más linda aún…"
+        },
+        {
+            "key": "062",
+            "value": "¿Más linda? ¿Para qué?"
+        },
+        {
+            "key": "063",
+            "value": "Para así poder estar más orgulloso de mi hermanita la próxima vez que nos veamos."
+        },
+        {
+            "key": "064",
+            "value": "¡No te decepcionaré!"
+        },
+        {
+            "key": "065",
+            "value": "Confío en que mantendrás a Chel a salvo en cualquier situación, ¿verdad, Taitas?"
+        },
+        {
+            "key": "066",
+            "value": "No soy un guerrero a tu altura, hermano…"
+        },
+        {
+            "key": "067",
+            "value": "Pero eres mi hermano. Puedes hacerlo."
+        },
+        {
+            "key": "068",
+            "value": "No hay nada que no puedas hacer."
+        },
+        {
+            "key": "069",
+            "value": "No creo que con solo eso…　"
+        },
+        {
+            "key": "070",
+            "value": "Lo siento, Taitas. Los que poseemos tanto poder tendemos a rebosar confianza. Aun así, intento contenerme."
+        },
+        {
+            "key": "071",
+            "value": "Si tú lo dices…"
+        },
+        {
+            "key": "072",
+            "value": "Tal como te digo."
+        },
+        {
+            "key": "073",
+            "value": "Te lo preguntaré de nuevo. ¿Vas a dejar a una desconocida como yo a cargo de tus hermanos?"
+        },
+        {
+            "key": "074",
+            "value": "Chel es mi tesoro. Mi orgullo y mi vida."
+        },
+        {
+            "key": "075",
+            "value": "Lo siento…"
+        },
+        {
+            "key": "076",
+            "value": "Si fuese tan fuerte como mi hermano, no te habríamos metido en esto…"
+        },
+        {
+            "key": "077",
+            "value": "No…"
+        },
+        {
+            "key": "078",
+            "value": "No hace falta que te disculpes. En realidad debo agradecértelo todo a ti."
+        },
+        {
+            "key": "079",
+            "value": "¿Y eso por qué?"
+        },
+        {
+            "key": "080",
+            "value": "Si hubiese aceptado el mismo destino que mi hermano como tenía planeado..., él nunca me lo habría perdonado."
+        },
+        {
+            "key": "081",
+            "value": "Me habría odiado por no haber protegido a una pequeña niña inocente…"
+        },
+        {
+            "key": "082",
+            "value": "Cuando me reúna con mi hermano, quiero saludarlo con la cabeza bien alta."
+        },
+        {
+            "key": "083",
+            "value": "Así que permitidme que os ayude…"
+        },
+        {
+            "key": "084",
+            "value": "..."
+        },
+        {
+            "key": "085",
+            "value": "No puedo prometeros volver a sonreír."
+        },
+        {
+            "key": "086",
+            "value": "Mis heridas son profundas, y las cicatrices no curan así como así…"
+        },
+        {
+            "key": "087",
+            "value": "Pero…"
+        },
+        {
+            "key": "088",
+            "value": "Quizás pueda sacrificarme para que los demás sí que puedan sonreír…"
+        },
+        {
+            "key": "089",
+            "value": "Sí..."
+        },
+        {
+            "key": "090",
+            "value": "Si alquien puede conseguirlo, eres tú."
+        }
+    ]
+}

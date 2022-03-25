@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Man dankt für‘s Mitnehmen."
+        },
+        {
+            "key": "002",
+            "value": "Oh la la, ist doch kein Problemchen. Wir sind doch nun Freunde."
+        },
+        {
+            "key": "003",
+            "value": "Dann wollen wir mal los."
+        },
+        {
+            "key": "004",
+            "value": "Kommandantin Lumeide ..."
+        },
+        {
+            "key": "005",
+            "value": "Geh Lameiga aufwecken – der schläft doch sicher noch tief und fest im Laderaum."
+        },
+        {
+            "key": "006",
+            "value": "Bin schon wach!"
+        },
+        {
+            "key": "007",
+            "value": "Wo wollen die zwei hin ...?"
+        },
+        {
+            "key": "008",
+            "value": "Höchstwahrscheinlich zu Ornhs Grabstätte."
+        },
+        {
+            "key": "009",
+            "value": "Ihnen flattern sicher schon die Höschen, dass sich jemand das Schwert, das Ornh hinterlassen hat, unter den Nagel reißen könnte."
+        },
+        {
+            "key": "010",
+            "value": "Du enttäuschst einfach nicht, Lumeide."
+        },
+        {
+            "key": "011",
+            "value": "Na dann, Zeit, uns an ihre Fersen zu heften!"
+        }
+    ]
+}

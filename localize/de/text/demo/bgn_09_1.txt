@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Lasst mich nun mit Euch mein Wissen über <color=#0000ff>Kristalle</color> und <color=#0000ff>Beute</color> teilen."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Kristalle bilden sich, wenn eine Einheit aus dem Kampf <color=#0000ff>ausscheidet</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Es kommt auch vor, dass sie sich schon von Beginn des Kampfes an auf dem Schlachtfeld befinden."
+        },
+        {
+            "key": "004",
+            "value": "Man kann sich einen Kristall aneignen, indem man eine Einheit ihren Zug auf dem Feld beenden lässt, auf dem er sich befindet. Kristalle <color=#0000ff>frischen LP sowie TP auf</color> und <color=#0000ff>erhöhen den Couragewert</color> der entsprechenden Einheit."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "005",
+            "value": "Es ist jedoch wichtig, darauf hinzuweisen, dass auch gegnerische Einheiten in der Lage sind, sich Kristalle anzueignen."
+        },
+        {
+            "key": "006",
+            "value": "Des Weiteren können Gegenstände von <color=#0000ff>kampfunfähig gemachten Gegnern erbeutet</color> werden. Diese Gegenstände werden als <color=#0000ff>Beute</color> bezeichnet."
+        },
+        {
+            "key": "007",
+            "value": "Die Zahl der erbeuteten Gegenstände wird auf dem Bildschirm neben dem <color=#0000ff>Schatztruhensymbol</color> angezeigt."
+        },
+        {
+            "key": "008",
+            "value": "Ihr könnt Euch auch des Menüs bedienen, um nachzusehen, was Ihr erbeutet habt."
+        },
+        {
+            "key": "009",
+            "value": "Wohlan. Der Gegner hat Learte ins Visier genommen. Entscheidet den Kampf durch geschickten Einsatz von Kristallen für Euch."
+        }
+    ]
+}

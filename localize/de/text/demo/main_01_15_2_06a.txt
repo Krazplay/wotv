@@ -1,0 +1,200 @@
+﻿{
+    "infos": [
+        {
+            "key": "150404",
+            "value": "Der Sieg ist unser."
+        },
+        {
+            "key": "150405",
+            "value": "... Bist du nun zufrieden?"
+        },
+        {
+            "key": "150406",
+            "value": "Bitte ...?"
+        },
+        {
+            "key": "150407",
+            "value": "Wir hätten ohne Schwierigkeiten durch überlegene Truppenstärke gewinnen können."
+        },
+        {
+            "key": "150408",
+            "value": "Verzeiht."
+        },
+        {
+            "key": "150409",
+            "value": "Was musstest du dir noch beweisen?"
+        },
+        {
+            "key": "150410",
+            "value": "Du weißt doch bereits, dass du eine bessere Strategin als Kilphe bist."
+        },
+        {
+            "key": "150411",
+            "value": "Ihr seid zu gütig."
+        },
+        {
+            "key": "150412",
+            "value": "Und doch hast du so einen Aufwand betrieben, nur um dich zu behaupten ..."
+        },
+        {
+            "key": "150413",
+            "value": "Allerdings muss ich zugeben ..."
+        },
+        {
+            "key": "150414",
+            "value": "... dass ich mich durchaus amüsiert habe. Und ..."
+        },
+        {
+            "key": "150415",
+            "value": "Ich habe deine Liebe zu mir gespürt."
+        },
+        {
+            "key": "150416",
+            "value": "Hast du das gehört, Kilphe?"
+        },
+        {
+            "key": "150417",
+            "value": "Die beste Strategin in ganz Ardra, das bin ich."
+        },
+        {
+            "key": "150418",
+            "value": "Und ich bin auch die Einzige, die Madame Melnias Gunst genießt."
+        },
+        {
+            "key": "150419",
+            "value": "... Hrk."
+        },
+        {
+            "key": "150420",
+            "value": "Frederika ...! Reiß dich zusammen!"
+        },
+        {
+            "key": "150421",
+            "value": "Frederika!"
+        },
+        {
+            "key": "150422",
+            "value": "Liebchen ..."
+        },
+        {
+            "key": "150423",
+            "value": "Es ist ... aus mit mir ..."
+        },
+        {
+            "key": "150424",
+            "value": "Komm ... gib mir noch einen letzten Kuss ..."
+        },
+        {
+            "key": "150425",
+            "value": "... Du wirst schon durchkommen."
+        },
+        {
+            "key": "150426",
+            "value": "Also ehrlich! Kannst du nicht wenigstens ab und zu mal ein bisschen einfühlsam sein?"
+        },
+        {
+            "key": "150427",
+            "value": "Komm, hoch mit dir!"
+        },
+        {
+            "key": "150428",
+            "value": "Hehe ... Bin wohl nochmal davongekommen."
+        },
+        {
+            "key": "150429",
+            "value": "Aber was zur Hölle war das gerade, General?"
+        },
+        {
+            "key": "150430",
+            "value": "Ein Artillerieangriff ... glaube ich."
+        },
+        {
+            "key": "150431",
+            "value": "Wa ...?!"
+        },
+        {
+            "key": "150432",
+            "value": "Magische Granaten!"
+        },
+        {
+            "key": "150433",
+            "value": "Bist du verletzt?"
+        },
+        {
+            "key": "150434",
+            "value": "Nein. Aber von woher kommt der Beschuss?"
+        },
+        {
+            "key": "150435",
+            "value": "Von Wezettes Großschiff."
+        },
+        {
+            "key": "150436",
+            "value": "Verstehe. Sie greifen uns also von zwei Seiten gleichzeitig an."
+        },
+        {
+            "key": "150437",
+            "value": "Habt ihr darum zu uns aufgeschlossen?"
+        },
+        {
+            "key": "150438",
+            "value": "Ja. Ich dachte, dass der Feind dann das Feuer einstellen würde, um im Chaos des Gefechts nicht auch seine eigenen Truppen zu gefährden."
+        },
+        {
+            "key": "150439",
+            "value": "Nur scheint die Kerle das nicht im Geringsten zu kümmern."
+        },
+        {
+            "key": "150440",
+            "value": "Sie haben unsere Truppen in den Nahkampf verwickelt, um unserem Artilleriebeschuss zu entgehen."
+        },
+        {
+            "key": "150441",
+            "value": "Päh. Das schert mich nicht im Geringsten."
+        },
+        {
+            "key": "150442",
+            "value": "Meine Befehle lauten, aus allen Rohren zu schießen, was das Zeug hält."
+        },
+        {
+            "key": "150443",
+            "value": "Der Feind muss vernichtet werden, das ist das Einzige, was zählt."
+        },
+        {
+            "key": "150444",
+            "value": "... Das ist barbarisch."
+        },
+        {
+            "key": "150445",
+            "value": "Unsere eigenen Toten spielen keine Rolle, solange der Feind größere Verluste erleidet."
+        },
+        {
+            "key": "150446",
+            "value": "Ihr Plan war, uns zwischen ihren Landstreitkräften und dem Schiff auf dem Fluss in die Zange zu nehmen."
+        },
+        {
+            "key": "150447",
+            "value": "Verdammt ... Wenn nur diese Kanonen nicht wären!"
+        },
+        {
+            "key": "150448",
+            "value": "Das Schiff befindet sich völlig außerhalb unserer Reichweite."
+        },
+        {
+            "key": "150449",
+            "value": "Dann bleibt uns wohl nichts anderes übrig, als die Reihen ihrer Landstreitkräfte zu durchbrechen."
+        },
+        {
+            "key": "150450",
+            "value": "Wir formieren „Solidus“ neu und schlagen uns eine Bresche."
+        },
+        {
+            "key": "150451",
+            "value": "Verstanden!"
+        },
+        {
+            "key": "150452",
+            "value": "Hehe. Mir war schon fast langweilig!"
+        }
+    ]
+}

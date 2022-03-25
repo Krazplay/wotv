@@ -1,0 +1,208 @@
+﻿{
+    "infos": [
+        {
+            "key": "UNIT_LEVELUP",
+            "value": "NIVEAU ↑"
+        },
+        {
+            "key": "UNIT_AWAKE",
+            "value": "ÉVEIL"
+        },
+        {
+            "key": "UNIT_RANKUP",
+            "value": "LIMITE BRISÉE"
+        },
+        {
+            "key": "TRUST_MASTER",
+            "value": "CONFIANCE ABSOLUE"
+        },
+        {
+            "key": "JOB_LEVELUP",
+            "value": "NIV. DE JOB ↑"
+        },
+        {
+            "key": "MASTER_ABILITY",
+            "value": "Nouveau pouvoir débloqué !"
+        },
+        {
+            "key": "MASTER_ABILITY_GRADEUP",
+            "value": "Puissance encore plus améliorée !"
+        },
+        {
+            "key": "LIMITBURST_LEVELUP",
+            "value": "NIVEAU ↑"
+        },
+        {
+            "key": "ENCHANT",
+            "value": "CHANGEMENT EN JOB EX"
+        },
+        {
+            "key": "PLAYER_RANKUP",
+            "value": "Rang ↑"
+        },
+        {
+            "key": "PLAYER_RANKUP_RANK",
+            "value": "Rang"
+        },
+        {
+            "key": "PLAYER_RANKUP_STAMINA",
+            "value": "Endurance max"
+        },
+        {
+            "key": "PLAYER_RANKUP_FRIEND",
+            "value": "Nbr d'amis max"
+        },
+        {
+            "key": "PLAYER_RANKUP_OPEN",
+            "value": "Débloqué"
+        },
+        {
+            "key": "ARTI_LEVELUP",
+            "value": "NIVEAU ↑"
+        },
+        {
+            "key": "ARTI_STATUSUP",
+            "value": "CARACTÉRISTIQUES AMÉLIORÉES"
+        },
+        {
+            "key": "CHALLENGE_CLEAR",
+            "value": "MISSION COMPLÉTÉE"
+        },
+        {
+            "key": "CHALLENGE_BINGO",
+            "value": "BINGO !"
+        },
+        {
+            "key": "DEMO_TOBECONTINUED",
+            "value": "À suivre..."
+        },
+        {
+            "key": "EXPEDITION_ITEM_GET",
+            "value": "Objets obtenus !"
+        },
+        {
+            "key": "RAID_APPEAR_TITLE",
+            "value": "Un boss de raid a fait son apparition !"
+        },
+        {
+            "key": "VISION_LEVELUP",
+            "value": "NIVEAU ↑"
+        },
+        {
+            "key": "VISION_AWAKE",
+            "value": "ÉVEIL"
+        },
+        {
+            "key": "VISION_GROWTH_MAX",
+            "value": "Bonus d'entraînement max"
+        },
+        {
+            "key": "NEW_BONUS",
+            "value": "Bonus de 1re fois"
+        },
+        {
+            "key": "GUILD_EFF_ESTABLISHMENT",
+            "value": "Guilde formée"
+        },
+        {
+            "key": "GUILD_STATUE_LEVELUP",
+            "value": "NIVEAU ↑"
+        },
+        {
+            "key": "GUILD_STATUE_EFF",
+            "value": "Effet débloqué"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKUP",
+            "value": "Niveau de ligue ↑"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKDOWN",
+            "value": "Niveau de ligue ↓"
+        },
+        {
+            "key": "GUILD_BATTLE_RESULT",
+            "value": "RÉSULTATS"
+        },
+        {
+            "key": "BATTLE_FEVER",
+            "value": "CHOCOBOOST !"
+        },
+        {
+            "key": "GUERILLA_TITLE",
+            "value": "Boutique surprise"
+        },
+        {
+            "key": "GUERILLA_SUBTITLE",
+            "value": "Boutique surprise"
+        },
+        {
+            "key": "GUERILLA_OPEN",
+            "value": "OUVERTE"
+        },
+        {
+            "key": "GUERILLA_BTN_LATER",
+            "value": "Plus tard"
+        },
+        {
+            "key": "GUERILLA_BTN_TRY",
+            "value": "Visiter la boutique"
+        },
+        {
+            "key": "RESULT_FIRST_CLEAR",
+            "value": "Récompenses de première réussite obtenues !"
+        },
+        {
+            "key": "RESULT_CLEAR",
+            "value": "Récompenses de complétude obtenues !"
+        },
+        {
+            "key": "POINTQUEST_REWARD_TITLE",
+            "value": "Obtenu !"
+        },
+        {
+            "key": "POINTQUEST_REWARD_POINT",
+            "value": "pts atteints !"
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_HIGH_SCORE",
+            "value": "Récompenses de réussite du meilleur score."
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_TOTAL",
+            "value": "Récompenses pour l'accumulation des points."
+        },
+        {
+            "key": "MASTERRANK_LEVELUP",
+            "value": "NIVEAU ↑"
+        },
+        {
+            "key": "MATERIA_FRAME_OPEN",
+            "value": "Piédestal débloqué"
+        },
+        {
+            "key": "MATERIA_FEAME_LEVELUP",
+            "value": "NIVEAU ↑"
+        },
+        {
+            "key": "MATERIA_TRAIN_OPEN",
+            "value": "Forgeage terminé"
+        },
+        {
+            "key": "MATERIA_GET_TITLE",
+            "value": "Tablette sacrée obtenue"
+        },
+        {
+            "key": "MATERIA_ENHANCE_TITLE",
+            "value": "Tablette sacrée améliorée"
+        },
+        {
+            "key": "MATERIA_CAPACITY_TITLE",
+            "value": "Aptitude améliorée"
+        },
+        {
+            "key": "MATERIA_INTEGRA_TITLE",
+            "value": "Aptitudes fusionnées"
+        }
+    ]
+}

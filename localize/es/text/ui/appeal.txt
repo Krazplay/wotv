@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "QUEST_AP",
+            "value": "¡Coste de PA↓!"
+        },
+        {
+            "key": "QUEST_DROP_RATE",
+            "value": "¡Tasa de aparición↑!"
+        },
+        {
+            "key": "QUEST_DROP_AMOUNT",
+            "value": "¡Objetos↑!"
+        },
+        {
+            "key": "QUEST_PLAYER_EXP",
+            "value": "¡EXP de jugador↑!"
+        },
+        {
+            "key": "QUEST_UNIT_EXP",
+            "value": "¡EXP de unidad↑!"
+        },
+        {
+            "key": "QUEST_UNIT_JP",
+            "value": "PdP y objetos x2"
+        },
+        {
+            "key": "QUEST_ARTI_PROFICIENCY",
+            "value": "¡Maestría de equipo↑!"
+        },
+        {
+            "key": "QUEST_HARD_DROP_AMOUNT",
+            "value": "¡Fragmentos difíciles x{0}!"
+        },
+        {
+            "key": "QUEST_MULTI_AP",
+            "value": "¡Coste de PA de multijugador↓!"
+        },
+        {
+            "key": "GACHA_PICKUP",
+            "value": "¡Toca AQUÍ!"
+        },
+        {
+            "key": "GACHA_NEWUNIT",
+            "value": "Nueva unidad"
+        },
+        {
+            "key": "SHOP_SECRET",
+            "value": "¡Tienda secreta ABIERTA!"
+        }
+    ]
+}

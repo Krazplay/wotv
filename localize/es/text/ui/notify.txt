@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "REQUEST",
+            "value": "<voffset=0.3em>PETICIÓN"
+        },
+        {
+            "key": "UNLOCK",
+            "value": "¡DESBLOQUEADO!"
+        },
+        {
+            "key": "CLEAR",
+            "value": "<cspace=0.11em>¡HECHO!"
+        },
+        {
+            "key": "REWARD",
+            "value": "<size=14>¡RECOMPENSA!"
+        },
+        {
+            "key": "FRIENDREQUEST_TITLE",
+            "value": "Solicitudes de amistad"
+        },
+        {
+            "key": "RANDOMSHOP_TITLE",
+            "value": "Tienda fugaz"
+        },
+        {
+            "key": "FEVER_TITLE",
+            "value": "¡Frenesí!"
+        },
+        {
+            "key": "RAIDBOSS_TITLE",
+            "value": "¡Ha aparecido un jefe de asalto!"
+        },
+        {
+            "key": "UNLOCK_TITLE",
+            "value": "¡Desbloqueado!"
+        },
+        {
+            "key": "MISSIONCLEAR_TITLE",
+            "value": "¡Misión cumplida!"
+        },
+        {
+            "key": "SUBQUESTCLEAR_TITLE",
+            "value": "¡Misión secundaria cumplida!"
+        },
+        {
+            "key": "SUPPORTREWARD_TITLE",
+            "value": "¡Recompensas de compañero!"
+        },
+        {
+            "key": "QUESTCOSTZERO_TITLE",
+            "value": "Sin coste de energía"
+        },
+        {
+            "key": "ROYALRANKUP_TITLE",
+            "value": "¡Rango vip aumentado!"
+        },
+        {
+            "key": "RAIDBOSSENCOUNTSTOCK_TITLE",
+            "value": "¡Ha aparecido un jefe de asalto!"
+        },
+        {
+            "key": "STAMPMISSIONCLEAR_TITLE",
+            "value": "¡Emblema conseguido!"
+        },
+        {
+            "key": "FRIENDREQUEST_DESC",
+            "value": "Nuevas solicitudes de amistad: {0}."
+        },
+        {
+            "key": "RANDOMSHOP_DESC",
+            "value": "Ha aparecido una tienda fugaz."
+        },
+        {
+            "key": "FEVER_DESC",
+            "value": "¡Tasa de aparición de objetos raros aumentada!"
+        },
+        {
+            "key": "RAIDBOSS_DESC",
+            "value": "¡{1} de nv. {0} ha aparecido!"
+        },
+        {
+            "key": "UNLOCK_DESC",
+            "value": "¡Desbloqueado: {0}!"
+        },
+        {
+            "key": "SUBQUESTCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "MISSIONCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "SUPPORTREWARD_DESC",
+            "value": "Consigue {1} guiles junto a {0} jugador(es)"
+        },
+        {
+            "key": "QUESTCOSTZERO_DESC",
+            "value": "Sin coste de energía hasta el rango {0}"
+        },
+        {
+            "key": "ROYALRANKUP_DESC",
+            "value": "Has alcanzado el rango vip {0}."
+        },
+        {
+            "key": "RAIDBOSSENCOUNTSTOCK_DESC",
+            "value": "{0} ha aparecido."
+        },
+        {
+            "key": "STAMPMISSIONCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "GPPREWARDS_DESC",
+            "value": "¡Has reclamado tus recompensas de Google Play Points!"
+        },
+        {
+            "key": "GPPREWARDS_TITLE",
+            "value": "¡Felicidades!"
+        },
+        {
+            "key": "GOOGLEPLAYPOINTREWARDS",
+            "value": "¡Recompensas<br>de Google!"
+        }
+    ]
+}

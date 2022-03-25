@@ -1,0 +1,804 @@
+﻿{
+    "infos": [
+        {
+            "key": "CMD_ACTION",
+            "value": "행동"
+        },
+        {
+            "key": "CMD_WAIT",
+            "value": "대기"
+        },
+        {
+            "key": "CMD_ATTACK",
+            "value": "공격"
+        },
+        {
+            "key": "CMD_ABILITY",
+            "value": "어빌리티"
+        },
+        {
+            "key": "CMD_NBEAST",
+            "value": "소환마법"
+        },
+        {
+            "key": "CMD_ITEM",
+            "value": "아이템"
+        },
+        {
+            "key": "CMD_OK",
+            "value": "결정"
+        },
+        {
+            "key": "CMD_CANCEL",
+            "value": "<cspace=-2>취소"
+        },
+        {
+            "key": "ORDER",
+            "value": "행동 순서"
+        },
+        {
+            "key": "TITLE_CASTSPEED",
+            "value": "시전 속도"
+        },
+        {
+            "key": "TITLE_RANGE",
+            "value": "사정거리"
+        },
+        {
+            "key": "TITLE_COUNT_USELIMIT",
+            "value": "사용 횟수"
+        },
+        {
+            "key": "COUNT_NOLIMIT",
+            "value": "무제한"
+        },
+        {
+            "key": "RESULT_NEXT",
+            "value": "다음"
+        },
+        {
+            "key": "MENU_AUTO",
+            "value": "Auto"
+        },
+        {
+            "key": "MENU_LAP",
+            "value": "반복"
+        },
+        {
+            "key": "MENU_SKIP",
+            "value": "건너뛰기"
+        },
+        {
+            "key": "MENU_SPEED_DEFAULT",
+            "value": "일반"
+        },
+        {
+            "key": "MENU_SPEED_NOBODY",
+            "value": "1.5배"
+        },
+        {
+            "key": "MENU_SPEED_VIP",
+            "value": "배속"
+        },
+        {
+            "key": "ACTION_LIMIT",
+            "value": "남은 행동 횟수"
+        },
+        {
+            "key": "TIME_LIMIT_RAID",
+            "value": "남은 도전 시간:"
+        },
+        {
+            "key": "TIME_LIMIT_EVENT",
+            "value": "남은 이벤트 기간:"
+        },
+        {
+            "key": "WATCHING_VALUE",
+            "value": "관전자 수"
+        },
+        {
+            "key": "BATTLE_COMMAND_MAP",
+            "value": "<cspace=1>MAP"
+        },
+        {
+            "key": "BATTLE_COMMAND_MAP_MODE",
+            "value": "MAP<space=7> MODE"
+        },
+        {
+            "key": "BATTLE_ORDER_ACTIVE",
+            "value": "현재 순서"
+        },
+        {
+            "key": "BATTLE_ORDER_CHARGE",
+            "value": "<cspace=-0.5>시전</cspace>"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_MAP_EFFECT",
+            "value": "맵 효과"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_RESET",
+            "value": "초기화"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_DONE",
+            "value": "준비 완료"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_PARTY",
+            "value": "파티"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_DESC",
+            "value": "선택한 유닛 위치를 노란 칸 안에서 변경할 수 있습니다."
+        },
+        {
+            "key": "SKILLTARGETLOCK_TITLE",
+            "value": "어빌리티 발동 대상"
+        },
+        {
+            "key": "SKILLTARGETLOCK_UNIT",
+            "value": "<cspace=-1>유닛"
+        },
+        {
+            "key": "SKILLTARGETLOCK_PANEL",
+            "value": "패널"
+        },
+        {
+            "key": "BATTLE_MENU_GET_ITEM_TITLE",
+            "value": "획득 아이템"
+        },
+        {
+            "key": "BATTLE_MENU_MISSON",
+            "value": "미션"
+        },
+        {
+            "key": "BATTLE_MENU_OPTION",
+            "value": "설정"
+        },
+        {
+            "key": "BATTLE_MENU_GIVEUP",
+            "value": "후퇴"
+        },
+        {
+            "key": "BATTLE_MENU_WEATHER",
+            "value": "날씨:"
+        },
+        {
+            "key": "BATTLE_MENU_SKIP",
+            "value": "건너뛰기"
+        },
+        {
+            "key": "BATTLE_MENU_SPEEDMODE_TITLE",
+            "value": "배속 기능"
+        },
+        {
+            "key": "BATTLE_MENU_SPEEDMODE_DESC",
+            "value": "<size=22>배속 기능은<br><color=#F0C040>로열 랭크 1</color>에서 <color=#F0C040>1.5</color>배,<br><color=#F0C040>로열 랭크 8</color>에서 <color=#F0C040>2.0</color>배<br>가 개방됩니다.<br><br>※ 로열 랭크 경험치는<br><color=#F0C040>미션 완료</color> 및 환도석 구입을 통해<br>획득할 수 있습니다.</size>"
+        },
+        {
+            "key": "BATTLE_GIVEUP_TITLE",
+            "value": "후퇴"
+        },
+        {
+            "key": "BATTLE_GIVEUP_DESC",
+            "value": "정말 후퇴하시겠습니까?"
+        },
+        {
+            "key": "BATTLE_SKIP_TITLE",
+            "value": "건너뛰기"
+        },
+        {
+            "key": "BATTLE_SKIP_DESC",
+            "value": "정말 건너뛰시겠습니까?"
+        },
+        {
+            "key": "BATTLE_OPTION_TITLE",
+            "value": "설정"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_TITLE",
+            "value": "사운드"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_BGM",
+            "value": "배경음악"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_SE",
+            "value": "효과음"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_TITLE",
+            "value": "범위 효과 표시"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_ON",
+            "value": "ON"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "BATTLE_OPTION_AUTO_NOT_CHANGE",
+            "value": "전투 중에는 전환 불가"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_ABILITY",
+            "value": "어빌리티"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_NBEAST",
+            "value": "소환마법"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_ITEM",
+            "value": "아이템"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_TITLE",
+            "value": "추천"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_ATTACK_TITLE",
+            "value": "일반 공격 추천"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_ATTACK_DESC",
+            "value": "돌아가서 공격 버튼 터치"
+        },
+        {
+            "key": "BATTLE_MISSION_TITLE",
+            "value": "미션"
+        },
+        {
+            "key": "UNITINFO_CHAIN",
+            "value": "CHAIN"
+        },
+        {
+            "key": "UNITINFO_HIT",
+            "value": "Hit"
+        },
+        {
+            "key": "UNITINFO_CRITICAL",
+            "value": "크리티컬"
+        },
+        {
+            "key": "STATUS_TAB_STATUS",
+            "value": "현재 능력치"
+        },
+        {
+            "key": "STATUS_TAB_RESIST",
+            "value": "저항력 표시"
+        },
+        {
+            "key": "STATUS_TYPE_TITLE",
+            "value": "유형: "
+        },
+        {
+            "key": "RESULT_MISSION_TITLE",
+            "value": "<cspace=-0.2>미션</cspace>"
+        },
+        {
+            "key": "RESULT_UNIT_EXP_TITLE",
+            "value": "유닛 경험치"
+        },
+        {
+            "key": "RESULT_GET_ITEM_TITLE",
+            "value": "획득 아이템"
+        },
+        {
+            "key": "RESULT_END",
+            "value": "퀘스트 종료"
+        },
+        {
+            "key": "RESULT_CLEAR_PARTY_TITLE",
+            "value": "<cspace=-0.4>완료 정보<br>공개</cspace>"
+        },
+        {
+            "key": "RESULT_EFF_LEVELUP",
+            "value": "<cspace=-0.036em>L<size=0.85em>EVEL</size><space=0.25em><cspace=1> UP"
+        },
+        {
+            "key": "RESULT_EFF_ARTIUP",
+            "value": "<cspace=-0.14em>장비 숙련도<space=6><cspace=1> UP"
+        },
+        {
+            "key": "RESULT_DEMO_SKIP",
+            "value": "영상을 건너뛰시겠습니까?"
+        },
+        {
+            "key": "RESULT_DIALOG_REMATCH_DESC",
+            "value": "'재도전'을 선택하면 완료 후의 영상은 건너뛰게 됩니다."
+        },
+        {
+            "key": "RESULT_NETHERBEAST_SYNCHRO",
+            "value": "소환수 공명도 획득률"
+        },
+        {
+            "key": "RESULT_UNIT_INTIMACY",
+            "value": "유닛 친밀도 증가율"
+        },
+        {
+            "key": "RESULT_ERROR_PERIOD_TITLE",
+            "value": "개최 기간 외"
+        },
+        {
+            "key": "RESULT_ERROR_PERIOD_DESC",
+            "value": "개최 기간이 아닌 퀘스트입니다."
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "추가 ★ 획득"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "이 플레이어의 방어 파티에<br>설정되지 않은 유닛 수만큼<br><color=#F0C040>★ × {0}개</color>를 추가 획득했습니다."
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TITLE",
+            "value": "<cspace=0.05em>포인트 집계"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SUB",
+            "value": "<cspace=0.05em>결과"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WIN",
+            "value": "전투 승리"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_OVERKILL",
+            "value": "오버 킬"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_DAMAGE",
+            "value": "받은 피해"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SPECIFIC_UNIT_DEFEAT",
+            "value": "특정 유닛 격파"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ACTION_NUM",
+            "value": "행동 횟수"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_USE_ITEM",
+            "value": "아이템 사용 횟수"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WEEKNESS_RESIST",
+            "value": "약점 공격 저항력 공격"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WEEKNESS_ELEMENT",
+            "value": "약점 속성 공격"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_DEAD_NUM",
+            "value": "전투불능(아군 후퇴) 유닛"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ATTACK_CHAIN_MAX",
+            "value": "최대 CHAIN 수"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ELEMENT_CHAIN_MAX",
+            "value": "최대 ELEMENT CHAIN 수"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SPECIAL_ATTACK_RATE",
+            "value": "유닛 및 비전 카드 보너스"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_LAP_NUM",
+            "value": "반복 횟수"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_LAP_TOTAL",
+            "value": "반복 합계"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_CURRENT_SCORE",
+            "value": "이번 획득 점수"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_HIGH_SCORE",
+            "value": "퀘스트 최고 점수"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TOTAL_HIGH_SCORE",
+            "value": "최고 점수 합계"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TOTAL_SCORE",
+            "value": "이벤트 누적 점수"
+        },
+        {
+            "key": "INTIMACYUP_BONUS_TITLE",
+            "value": "친밀도 보너스"
+        },
+        {
+            "key": "INTIMACYUP_EFF_TITLE",
+            "value": "<cspace=-2><size=48>친밀도 <space=3><size=52>L<space=-3><size=40>V<space=7><cspace=1><size=52> UP"
+        },
+        {
+            "key": "BATTLE_CONTINUE_TITLE",
+            "value": "이어하기"
+        },
+        {
+            "key": "BATTLE_CONTINUE_DESC",
+            "value": "환도석을 <space=8><color=#601818>{0}<space=6>개</color><space=8> 사용하여 이어하시겠습니까?"
+        },
+        {
+            "key": "BATTLE_CONTINUE_DESC_CHECK",
+            "value": "정말 이어하시겠습니까?"
+        },
+        {
+            "key": "BATTLE_CONTINUE_CAUTION",
+            "value": "이어하지 않으면 획득한 아이템을 잃게 됩니다."
+        },
+        {
+            "key": "BATTLE_CONTINUE_CAUTION_ADD",
+            "value": "이어하면 HP, TP, AP, 어빌리티 사용 횟수가<br>모두 회복된 상태로 전투를 재개합니다."
+        },
+        {
+            "key": "BATTLE_CONTINUE_BTN_GIVEUP",
+            "value": "포기"
+        },
+        {
+            "key": "BATTLE_CONTINUE_BTN_CONTINUE",
+            "value": "이어하기"
+        },
+        {
+            "key": "BATTLE_CONTINUE_GIVEUP_TITLE",
+            "value": "포기"
+        },
+        {
+            "key": "BATTLE_CONTINUE_GIVEUP_DESC",
+            "value": "정말 포기하시겠습니까?"
+        },
+        {
+            "key": "BATTLE_MULTI_CTR_NOW",
+            "value": "님 조작 중…"
+        },
+        {
+            "key": "BATTLE_MULTI_CTR_AUTO",
+            "value": "자동 설정 중"
+        },
+        {
+            "key": "BATTLE_MULTI_CONNECTING",
+            "value": "통신 중…"
+        },
+        {
+            "key": "BATTLE_MULTI_CONTINUE",
+            "value": "이어하기 판단 중…"
+        },
+        {
+            "key": "BATTLE_MULTI_LIMIT",
+            "value": "남은 시간:"
+        },
+        {
+            "key": "BATTLE_MULTI_NEXT_TURN",
+            "value": "당신의 턴까지 앞으로 <color=#F0C040><size=1.25em><space=5>{0}"
+        },
+        {
+            "key": "BATTLE_MULTI_CURRENT_TURN",
+            "value": "<color=#F0C040><size=1.25em>자신</color></size><space=5>의 차례입니다"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER",
+            "value": "{0}이(가) 퇴장했습니다."
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER_OWNER",
+            "value": "{0}이(가) 퇴장했습니다.<br><br><color=#FFF080>당신이 방장이 되었습니다.</color>"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER_MEMBER",
+            "value": "{0}이(가) 퇴장했습니다.<br><br><color=#FFF080>{1} 님이 방장이 되었습니다.</color>"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PVP",
+            "value": "대전 상대가 후퇴했습니다."
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_TITLE",
+            "value": "플레이어 후퇴"
+        },
+        {
+            "key": "BATTLE_MULTI_MEETING_TITLE",
+            "value": "첫 대면 보너스"
+        },
+        {
+            "key": "BATTLE_MULTI_MEETING_DESC",
+            "value": "{0}명과 첫 대면을 마쳤습니다!<br>첫 대면 보상을 받았습니다.<br>보상 내용은 공지에서 확인할 수 있습니다."
+        },
+        {
+            "key": "BATTLE_MULTI_OFFLINE",
+            "value": "오프라인"
+        },
+        {
+            "key": "BATTLE_MULTI_COM_CTRL",
+            "value": "COM 조작 중…"
+        },
+        {
+            "key": "BATTLE_MULTI_EXIT_TITLE",
+            "value": "멤버 퇴장"
+        },
+        {
+            "key": "BATTLE_MULTI_EXIT_DESC",
+            "value": "<color=#F0C040>{0}</color>P가 퇴장하였습니다."
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_TOP",
+            "value": "<cspace=-2>친구"
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_TITLE",
+            "value": "친구 신청"
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_DESC",
+            "value": "체크한 플레이어에게 친구 신청을 보냅니다."
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_BTN",
+            "value": "신청"
+        },
+        {
+            "key": "BATTLE_MULTI_BLOCK_TITLE",
+            "value": "차단에 대하여"
+        },
+        {
+            "key": "BATTLE_MULTI_BLOCK_DESC",
+            "value": "차단한 플레이어와는 서로의 멀티 방에 참가할 수 없게 됩니다.<br><br>차단은 친구 화면의 차단 목록에서 언제든지 해제할 수 있습니다."
+        },
+        {
+            "key": "RAID_SKIP_TITLE",
+            "value": "건너뛰기 확인"
+        },
+        {
+            "key": "RAID_SKIP_DESC",
+            "value": "레이드 보스에게 '지금 바로 도전하기'를 선택하면 완료 후의 영상은 건너뛰게 됩니다."
+        },
+        {
+            "key": "RAID_HELP",
+            "value": "레이드에 대하여"
+        },
+        {
+            "key": "RAID_TIMEUP_TITLE",
+            "value": "제한 시간 종료"
+        },
+        {
+            "key": "RAID_TIMEUP_DESC",
+            "value": "제한 시간이 끝났습니다.<br>전투가 자동으로 종료됩니다."
+        },
+        {
+            "key": "FEVER_SKIP_TITLE",
+            "value": "건너뛰기 확인"
+        },
+        {
+            "key": "FEVER_SKIP_DESC",
+            "value": "'확인'을 선택하면 완료 후의 영상은 건너뛰게 됩니다."
+        },
+        {
+            "key": "GUERILLA_SKIP_TITLE",
+            "value": "건너뛰기 확인"
+        },
+        {
+            "key": "GUERILLA_SKIP_DESC",
+            "value": "'변덕쟁이 상점으로'를 선택하면 완료 후의 영상은 건너뛰게 됩니다."
+        },
+        {
+            "key": "BATTLE_STEAL_SUCCESS",
+            "value": "{0}을(를) 훔쳤습니다!"
+        },
+        {
+            "key": "BATTLE_STEAL_FAILED",
+            "value": "훔치기에 실패했습니다!"
+        },
+        {
+            "key": "BATTLE_STEAL_STEALED",
+            "value": "아무것도 갖고 있지 않았습니다!"
+        },
+        {
+            "key": "BATTLE_STEAL_NOITEM",
+            "value": "아무것도 갖고 있지 않았습니다!"
+        },
+        {
+            "key": "BATTLE_GAIN_JP",
+            "value": "JP+{0}"
+        },
+        {
+            "key": "CHAPTER_TITLE",
+            "value": "챕터 {0}"
+        },
+        {
+            "key": "ERROR_BATTLE_MAIN",
+            "value": "전투 중 오류가 발생했습니다."
+        },
+        {
+            "key": "ERROR_BATTLE_PARSEFAILED",
+            "value": "파일이 손상되었습니다."
+        },
+        {
+            "key": "ERROR_REPLAY_TITLE",
+            "value": "리플레이 에러"
+        },
+        {
+            "key": "ERROR_REPLAY",
+            "value": "재생하지 못했습니다."
+        },
+        {
+            "key": "ERROR_REPLAY_BREAK",
+            "value": "재생이 중단되었습니다. <br>이어서 재생하시겠습니까?"
+        },
+        {
+            "key": "ERROR_TUTORIAL_TITLE",
+            "value": "에러"
+        },
+        {
+            "key": "ERROR_TUTORIAL_NOTFOUND",
+            "value": "튜토리얼 데이터가 존재하지 않습니다."
+        },
+        {
+            "key": "BATTLE_RESULT_VICTORY_BONUS",
+            "value": "승리 보너스"
+        },
+        {
+            "key": "BATTLE_REWARD_WINNING_BONUS",
+            "value": "연승 보너스"
+        },
+        {
+            "key": "BATTLE_REWARD_PROMOTION_DESC",
+            "value": "승급전까지"
+        },
+        {
+            "key": "BATTLE_CLASSUP_DESC_FRONT",
+            "value": "클래스가"
+        },
+        {
+            "key": "BATTLE_CLASSRESULT_UP",
+            "value": "(으)로 승급되었습니다."
+        },
+        {
+            "key": "BATTLE_CLASSRESULT_DOWN",
+            "value": "(으)로 강등되었습니다."
+        },
+        {
+            "key": "BATTLE_EFFECT_PROMFAILED",
+            "value": "승급 실패"
+        },
+        {
+            "key": "BATTLE_EFFECT_PROMBATTLE",
+            "value": "승급전 시작"
+        },
+        {
+            "key": "BATTLE_EFFECT_CONGRATS",
+            "value": "Congratulations!"
+        },
+        {
+            "key": "BATTLE_EFFECT_RANKING",
+            "value": "랭킹"
+        },
+        {
+            "key": "BATTLE_EFFECT_CLASSUP",
+            "value": "Class UP!!"
+        },
+        {
+            "key": "BATTLE_EFFECT_CLASSDOWN",
+            "value": "Class Down"
+        },
+        {
+            "key": "BATTLE_MATCH_RESULTITEM_WINNING",
+            "value": "연승 보너스<br><size=20>({0}연승 중)"
+        },
+        {
+            "key": "BATTLE_WATCH_BATTLE_END_TITLE",
+            "value": "관전 종료"
+        },
+        {
+            "key": "BATTLE_WATCH_HOST_LEAVE_ROOM",
+            "value": "1P가 퇴장하였습니다."
+        },
+        {
+            "key": "BATTLE_WATCH_GUEST_LEAVE_ROOM",
+            "value": "2P가 퇴장하였습니다."
+        },
+        {
+            "key": "BATTLE_WATCH_CONNECT_ERROR",
+            "value": "관전 중에 오류가 발생했습니다.<br>관전을 종료합니다."
+        },
+        {
+            "key": "RETRY_TITLE",
+            "value": "동행자 없이 재도전하게 됩니다."
+        },
+        {
+            "key": "RETRY_DESC",
+            "value": "바로 재도전할 경우<br>동행자 없이 재도전하게 됩니다.<br><br>동행자를 설정하려면<br>'출격 화면으로 돌아가기'를 선택하세요."
+        },
+        {
+            "key": "RETRY_OK",
+            "value": "바로 재도전"
+        },
+        {
+            "key": "RETRY_NO",
+            "value": "취소 "
+        },
+        {
+            "key": "TOWER_COMPLETE_EFF_TITLE",
+            "value": "축하합니다!"
+        },
+        {
+            "key": "TOWER_COMPLETE_EFF_CLEAR",
+            "value": "완료!"
+        },
+        {
+            "key": "TOWER_COMPLETE_RESULT",
+            "value": "결과"
+        },
+        {
+            "key": "TOWER_COMPLETE_RANKING",
+            "value": "도달 순위"
+        },
+        {
+            "key": "TOWER_COMPLETE_RANKING_UNIT",
+            "value": "#"
+        },
+        {
+            "key": "TOWER_COMPLETE_SCORE",
+            "value": "Score"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_ACTION",
+            "value": "누적 행동 횟수"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_DEAD",
+            "value": "전투불능 유닛 수"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_GIVEUP",
+            "value": "후퇴 횟수"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_HEAL",
+            "value": "모든 유닛 회복 수"
+        },
+        {
+            "key": "BATTLE_HEIGHT_ABBREV",
+            "value": "h"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_POINT",
+            "value": "누적 토벌 수"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_STATUE_EXP",
+            "value": "획득 석상 경험치"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_CHALLENGE",
+            "value": "도전 횟수"
+        },
+        {
+            "key": "GUILD_HUNT_KILLS",
+            "value": "토벌 수"
+        },
+        {
+            "key": "GL_SELECT_ATTACK_LOCATION",
+            "value": "공격할 부위를 선택하세요."
+        },
+        {
+            "key": "GUILDRAID_BATTLE_GIVEUP_DESC",
+            "value": "후퇴할 경우,<br>도전 횟수를 잃게 되며 전투 중의 피해량,<br>반영된 피해량 기록은 남지 않습니다.<br><br><color=#FF0000>정말 후퇴하시겠습니까?</color>"
+        },
+        {
+            "key": "RESULT_RETRY",
+            "value": "재출격"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "We were born and raised in a remote village to the west..."
+        },
+        {
+            "key": "002",
+            "value": "And when the village we called home was decimated by Rundall, we began our journey of revenge."
+        },
+        {
+            "key": "003",
+            "value": "Yet despite being sisters, our paths diverged."
+        },
+        {
+            "key": "004",
+            "value": "You chose to go to Heindler to exact revenge on Rundall from within."
+        },
+        {
+            "key": "005",
+            "value": "I made a friend whom I could not abandon and settled in the small kingdom of Leonis to the east."
+        },
+        {
+            "key": "006",
+            "value": "Not a day has passed that I do not think about our revenge against Rundall."
+        },
+        {
+            "key": "007",
+            "value": "And yet...here we stand in such a place as foes..."
+        },
+        {
+            "key": "008",
+            "value": "I cannot see the stars that you see..."
+        },
+        {
+            "key": "009",
+            "value": "But there are stars which avail themselves only to me, and it is those stars in which I believe..."
+        }
+    ]
+}

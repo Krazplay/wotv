@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "70001",
+            "value": "Wo warst du?"
+        },
+        {
+            "key": "70002",
+            "value": "Spazieren. Ich wollte frische Luft schnappen, bevor mir hier noch die Decke auf den Kopf fällt."
+        },
+        {
+            "key": "70003",
+            "value": "Du hast doch vor, meine Königin zu werden, oder nicht? Vielleicht habe ich da etwas missverstanden."
+        },
+        {
+            "key": "70004",
+            "value": "Das Eine hat mit dem Anderen nichts zu tun. Ich kann es einfach nicht leiden, mich eingepfercht zu fühlen."
+        },
+        {
+            "key": "70005",
+            "value": "Hmpf ..."
+        },
+        {
+            "key": "70006",
+            "value": "Apropos ... Was ist das für ein Tumult im Rittersaal?"
+        },
+        {
+            "key": "70007",
+            "value": "Unsere Gäste aus Leonis sind eingetroffen."
+        },
+        {
+            "key": "70008",
+            "value": "Sieh an, sieh an! Die Begrüßungsfeier ist dann wohl schon in vollem Gange."
+        },
+        {
+            "key": "70009",
+            "value": "Möchtest du sie vielleicht willkommen heißen?"
+        },
+        {
+            "key": "70010",
+            "value": "Mit offenen Armen ... oder mit blankem Stahl?"
+        },
+        {
+            "key": "70011",
+            "value": "Lass deine Waffe ungezogen – zumindest fürs Erste. Das leonische Pack könnte sich noch als nützlich erweisen ... So unerwartet das auch sein mag."
+        },
+        {
+            "key": "70012",
+            "value": "Hm ... Und was, wenn sie ihren Zweck erfüllt haben?"
+        }
+    ]
+}

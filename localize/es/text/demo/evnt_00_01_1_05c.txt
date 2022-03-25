@@ -1,0 +1,16 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Ya hemos acabado con el esqueleto jefe!"
+        },
+        {
+            "key": "002",
+            "value": "¡Misión completada!"
+        },
+        {
+            "key": "003",
+            "value": "¡Yuju! ¡Volvamos al castillo de Leonis!"
+        }
+    ]
+}

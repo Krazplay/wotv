@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Le jour se lève."
+        },
+        {
+            "key": "002",
+            "value": "Nous perdons notre temps à discuter. Nous devons partir d'ici maintenant, sinon ils nous rattraperont !"
+        },
+        {
+            "key": "003",
+            "value": "Machalie... ne pourriez-vous pas retourner seule à Hourne ?"
+        },
+        {
+            "key": "004",
+            "value": "Nous pourrions peut-être trouver une issue favorable si vous expliquiez à votre père ce qu'il s'est réellement passé ?"
+        },
+        {
+            "key": "005",
+            "value": "C'est une idée idiote."
+        },
+        {
+            "key": "006",
+            "value": "Comment... ?"
+        },
+        {
+            "key": "007",
+            "value": "Tu ne comprends donc pas, Mont ?"
+        },
+        {
+            "key": "008",
+            "value": "La seule qui en réchapperait, c'est Machalie."
+        },
+        {
+            "key": "009",
+            "value": "C'est cela."
+        },
+        {
+            "key": "010",
+            "value": "Faire de moi votre otage vous permettra de négocier avec mon père."
+        },
+        {
+            "key": "011",
+            "value": "Notre otage ? Mais cela serait..."
+        },
+        {
+            "key": "012",
+            "value": "Avez-vous déjà oublié ce que vous m'avez dit ? Vous m'avez juré de me protéger."
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Alors ?"
+        },
+        {
+            "key": "015",
+            "value": "Je l'ai juré et je le jure encore. Je vous protégerai !"
+        },
+        {
+            "key": "016",
+            "value": "C'est mieux."
+        },
+        {
+            "key": "017",
+            "value": "Bien, battons en retraite, retournons au château des Lions."
+        }
+    ]
+}

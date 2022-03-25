@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "TALK_001",
+            "value": "Ich möchte Euch einige Gegenstände überreichen, die sich in der Gilde als nützlich erweisen könnten. Bitte zögert nicht, sie einzusetzen."
+        },
+        {
+            "key": "TALK_002",
+            "value": "Solltet Ihr während Eurer Schnupperstunde Gefallen an dieser Gilde gefunden haben, möchte ich Euch nahelegen, über einen offiziellen Beitritt nachzudenken."
+        },
+        {
+            "key": "TALK_003",
+            "value": "In Gilden-Probekämpfen habt Ihr die Möglichkeit, ungezwungen mit anderen Gildenmitgliedern zu üben. Ich hoffe, Ihr werdet ausgiebig davon Gebrauch machen."
+        },
+        {
+            "key": "DIALOG_001_T",
+            "value": "• Gilden-Schnupperstunden •"
+        },
+        {
+            "key": "DIALOG_001_M",
+            "value": "• Gilden-Schnupperstunden •<br>Bei einer Schnupperstunde kannst du die Funktionen einer Gilde <color=#00ffff>sieben Tage lang</color> nutzen.<br>"
+        },
+        {
+            "key": "DIALOG_002_T",
+            "value": "• Anwesenheit •"
+        },
+        {
+            "key": "DIALOG_002_M",
+            "value": "• Anwesenheit •<br>Hier kannst du sehen, wie viele Gildenmitglieder anwesend sind. Gildenmitglieder erhalten Belohnungen basierend auf der <color=#00ffff>Anzahl der anwesenden Mitglieder und der Stufe deiner Gildenstatuen</color>."
+        },
+        {
+            "key": "DIALOG_003_T",
+            "value": "• Geschenke •"
+        },
+        {
+            "key": "DIALOG_003_M",
+            "value": "• Geschenke •<br>Du kannst deinen Gildenkollegen <color=#00ffff>Geschenke schicken</color>."
+        },
+        {
+            "key": "DIALOG_004_T",
+            "value": "• Schrein •"
+        },
+        {
+            "key": "DIALOG_004_M",
+            "value": "• Gildenstatuen •<br>Durch das Verbessern der Gildenstatuen können verschiedene <color=#00ffff>Werteboni</color> gewonnen werden."
+        },
+        {
+            "key": "DIALOG_005_T",
+            "value": "• Gildenaufträge •"
+        },
+        {
+            "key": "DIALOG_005_M",
+            "value": "• Gildenaufträge •<br>Indem du dich an die täglichen Gildenaufträge wagst, kannst du <color=#00ffff>Belohnungen verdienen</color> und <color=#00ffff>zum Gedeihen deiner Gilde beitragen</color>."
+        },
+        {
+            "key": "DIALOG_006_T",
+            "value": "• Kaserne •"
+        },
+        {
+            "key": "DIALOG_006_M",
+            "value": "• Kaserne •<br>Wenn du deine Einheiten mit Verpflegung versorgst, erhältst du hier JP und Fragmente."
+        },
+        {
+            "key": "DIALOG_007_T",
+            "value": "• Gildenkämpfe •"
+        },
+        {
+            "key": "DIALOG_007_M",
+            "value": "• Gildenkämpfe •<br>Während deiner Schnupperstunde kannst du <color=#00ffff>nicht an Gildenkämpfen teilnehmen</color>, aber du kannst außerhalb des Gildenkampfzeitraums <color=#00ffff>Probekämpfe </color>austragen."
+        },
+        {
+            "key": "SKIP_TITLE",
+            "value": "• Gilden •"
+        },
+        {
+            "key": "SKIP_MSG",
+            "value": "Möchtest du dir ein Tutorial zu Gilden ansehen?"
+        },
+        {
+            "key": "SKIP_YES",
+            "value": "Ja"
+        },
+        {
+            "key": "SKIP_NO",
+            "value": "Nein"
+        }
+    ]
+}

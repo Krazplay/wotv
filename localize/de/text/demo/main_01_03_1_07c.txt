@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Da! Ein Dorf!"
+        },
+        {
+            "key": "002",
+            "value": "Ob es da etwas Leckeres zu mampfen gibt ...?"
+        },
+        {
+            "key": "003",
+            "value": "Denkst du eigentlich auch mal an etwas anderes?"
+        },
+        {
+            "key": "004",
+            "value": "Baelo. Tut mir leid, dir das sagen zu müssen, aber wir werden das Dorf links liegenlassen."
+        },
+        {
+            "key": "005",
+            "value": "Hä?! Wieso das denn?"
+        },
+        {
+            "key": "006",
+            "value": "Wir müssen so schnell es geht Schloss Wezette erreichen."
+        },
+        {
+            "key": "007",
+            "value": "Außerdem würden wir die Leute dort nur unnötig in Gefahr bringen, wenn unsere Verfolger uns im Dorf stellen sollten."
+        },
+        {
+            "key": "008",
+            "value": "Ihr habt wie immer recht, Euer Hoheit ..."
+        },
+        {
+            "key": "009",
+            "value": "Kiton. Was gibt es zu melden?"
+        },
+        {
+            "key": "010",
+            "value": "Die fennischen Verfolgungstruppen befinden sich bereits in unmittelbarer Nähe."
+        },
+        {
+            "key": "011",
+            "value": "Unmöglich ... Sie haben uns schon eingeholt?!"
+        },
+        {
+            "key": "012",
+            "value": "Verdammte Barbaren ... Ihre Beine sind so stark wie die wilder Tiere."
+        },
+        {
+            "key": "013",
+            "value": "Vater, wir müssen uns beeilen. Bleiben wir noch länger hier, werden uns ..."
+        },
+        {
+            "key": "014",
+            "value": "Wir marschieren weiter. Im Dorf legen wir einen kurzen Halt ein."
+        },
+        {
+            "key": "015",
+            "value": "Was ...?"
+        },
+        {
+            "key": "016",
+            "value": "Das können wir nicht tun! Wenn wir dort hingehen, wird das Dorf ...!"
+        }
+    ]
+}

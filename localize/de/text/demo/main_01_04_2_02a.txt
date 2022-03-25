@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ihr kommt weder aus Gouga noch aus Saiga."
+        },
+        {
+            "key": "002",
+            "value": "Ihr seid nur ein paar fennische Soldaten, die Ninja spielen."
+        },
+        {
+            "key": "003",
+            "value": "H-Halt dein Maul!"
+        },
+        {
+            "key": "004",
+            "value": "Anscheinend habt ihr es immer noch nicht kapiert."
+        },
+        {
+            "key": "005",
+            "value": "Ich werde mich nicht von Möchtegern-Shinobis besiegen lassen. Egal, wie viele ihr auch seid."
+        },
+        {
+            "key": "006",
+            "value": "Und wenn wir dich doch besiegen?"
+        },
+        {
+            "key": "007",
+            "value": "Dann werde ich Fennes als dritte Hochburg der Shinobi-Kampfkunst anerkennen."
+        },
+        {
+            "key": "008",
+            "value": "... Und darauf gibst du uns dein Wort?"
+        },
+        {
+            "key": "009",
+            "value": "Kommt schon."
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "Was ist denn nun? Hat euch etwa der Mut verlassen?"
+        },
+        {
+            "key": "012",
+            "value": "Dann lasst mich den ersten Hieb ausführen!"
+        }
+    ]
+}

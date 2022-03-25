@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Ugh!"
+        },
+        {
+            "key": "002",
+            "value": "¡Padre!"
+        },
+        {
+            "key": "003",
+            "value": "¡¿Qué es esto?! ¡Nos aseguraste que el camino estaría libre de monstruos!"
+        },
+        {
+            "key": "004",
+            "value": "…"
+        },
+        {
+            "key": "005",
+            "value": "Ah…, ya me acuerdo."
+        },
+        {
+            "key": "006",
+            "value": "Minwu, la última vez que nos vimos fue en el campo de batalla, ¿no es así?"
+        },
+        {
+            "key": "007",
+            "value": "Eres una maga blanca de Wezette. No puedes negarlo."
+        },
+        {
+            "key": "008",
+            "value": "Lo fui… Pero de eso hace ya tiempo."
+        },
+        {
+            "key": "009",
+            "value": "¿Cuánto tiempo?"
+        },
+        {
+            "key": "010",
+            "value": "Antes de huir de Wezette."
+        },
+        {
+            "key": "011",
+            "value": "¿Y por qué aceptaste guiarnos al mismo lugar del que decidiste marcharte?"
+        },
+        {
+            "key": "012",
+            "value": "Solo sigo las órdenes de lady Graciela."
+        },
+        {
+            "key": "013",
+            "value": "¡¿De Graciela?!"
+        },
+        {
+            "key": "014",
+            "value": "¿Qué demonios está pasando en Wezette?"
+        },
+        {
+            "key": "015",
+            "value": "Ya es demasiado tarde para dar media vuelta."
+        },
+        {
+            "key": "016",
+            "value": "Si decidimos volver, nos toparemos con el ejército de Muraga sin ninguna duda."
+        },
+        {
+            "key": "017",
+            "value": "¡No puedes estar hablando en serio!"
+        },
+        {
+            "key": "018",
+            "value": "Sí que voy en serio. No nos queda otra que seguir este camino."
+        }
+    ]
+}

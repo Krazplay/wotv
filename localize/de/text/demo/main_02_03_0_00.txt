@@ -1,0 +1,284 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "..."
+        },
+        {
+            "key": "002",
+            "value": "Währenddessen im Verlies von Schloss Wezette ..."
+        },
+        {
+            "key": "003",
+            "value": "Warte. Wo gehst du hin?"
+        },
+        {
+            "key": "004",
+            "value": "Oh, verzeih. Ich wollte dich nicht aufwecken."
+        },
+        {
+            "key": "005",
+            "value": "Ich wollte nur kurz nach draußen, frische Luft schnappen."
+        },
+        {
+            "key": "006",
+            "value": "Verkauf mich nicht für dumm."
+        },
+        {
+            "key": "007",
+            "value": "Sag, wird es ... wirklich zu einem Krieg zwischen Hourne und Wezette kommen?"
+        },
+        {
+            "key": "008",
+            "value": "Nun, Khuri betrachtet es sicher als dreisten Verrat, dass Leonis sich mit Hourne verbündet hat."
+        },
+        {
+            "key": "009",
+            "value": "Pah! Wer war es denn, der Leonis fallen gelassen hat, weil ihm die Kirche nützlicher erschien?"
+        },
+        {
+            "key": "010",
+            "value": "Zum Glück sind wir hier tief unter der Erde. Wenn Khuri dich so reden hören würde ..."
+        },
+        {
+            "key": "011",
+            "value": "Was, kann er zu seinen Missetaten nicht offen stehen?"
+        },
+        {
+            "key": "012",
+            "value": "Er hat bisher noch jeden, der ihn kritisiert hat, als Verräter hinrichten lassen."
+        },
+        {
+            "key": "013",
+            "value": "Aber das ist hier in Wezette nichts Ungewöhnliches. Man könnte sagen, das ist eine unserer ältesten Traditionen."
+        },
+        {
+            "key": "014",
+            "value": "..."
+        },
+        {
+            "key": "015",
+            "value": "Vielleicht interessiert es dich, dass die verbleibenden Kräfte von Fennes sich nach Muragas Tod entzweit haben."
+        },
+        {
+            "key": "016",
+            "value": "Entzweit? Wer steht jetzt auf wessen Seite?"
+        },
+        {
+            "key": "017",
+            "value": "Oldoa hat sich auf Leonis’ Seite geschlagen ... aber das ist wohl kaum von Bedeutung."
+        },
+        {
+            "key": "018",
+            "value": "Viel wichtiger ist, dass Melnia und Ranella von Wezette aufgenommen worden sind."
+        },
+        {
+            "key": "019",
+            "value": "Melnia und Ranella? Die Namen höre ich zum ersten Mal ..."
+        },
+        {
+            "key": "020",
+            "value": "Tatsächlich? Du solltest sie dir gut merken, das sind zwei sehr gefährliche Akteure."
+        },
+        {
+            "key": "021",
+            "value": "Sie haben erst versucht, in Saiga Fuß zu fassen, aber das hat nicht funktioniert. Danach haben sie sich sozusagen selbstständig gemacht."
+        },
+        {
+            "key": "022",
+            "value": "Aber mit den vereinten Kräften von Leonis und Hourne ..."
+        },
+        {
+            "key": "023",
+            "value": "Ihr Fremdlinge macht euch keinen Begriff davon, was Khuri noch in der Hinterhand hat."
+        },
+        {
+            "key": "024",
+            "value": "In der Hinterhand ...?"
+        },
+        {
+            "key": "025",
+            "value": "Ja. Eine besondere Überraschung, die er gerade mit großer Eile vorbereitet."
+        },
+        {
+            "key": "026",
+            "value": "Ich dachte ja, dass er sich das für den Krieg gegen Rundall aufheben würde ..."
+        },
+        {
+            "key": "027",
+            "value": "Aber ganz offenbar fühlt sich sogar der stolze Khuri von Leonis’ und Hournes vereinten Kräften bedroht."
+        },
+        {
+            "key": "028",
+            "value": "Es hat sich anscheinend ausgezahlt, dass du dem jungen Löwen unter Einsatz deines Lebens zur Flucht verholfen hast."
+        },
+        {
+            "key": "029",
+            "value": "Und damit das auch so bleibt, muss ich mich jetzt sputen ..."
+        },
+        {
+            "key": "030",
+            "value": "Heißt das ... dass du uns im Kampf zur Seite stehen wirst?"
+        },
+        {
+            "key": "031",
+            "value": "Nein. Ich werde mich in diesen Konflikt nicht direkt einmischen."
+        },
+        {
+            "key": "032",
+            "value": "Du hast es also allein auf Khuri abgesehen?"
+        },
+        {
+            "key": "033",
+            "value": "Auch wenn du Hourne und Leonis dafür zum Bauernopfer machen musst?"
+        },
+        {
+            "key": "034",
+            "value": "Genau so ist es."
+        },
+        {
+            "key": "035",
+            "value": "Warum hasst du ihn so sehr ...?"
+        },
+        {
+            "key": "036",
+            "value": "Khuri hat ... meinen Vater ermordet."
+        },
+        {
+            "key": "037",
+            "value": "..."
+        },
+        {
+            "key": "038",
+            "value": "Mein Vater war ein Stratege in Khuris Diensten."
+        },
+        {
+            "key": "039",
+            "value": "Damals war Wezette mitten in einem heftigen Erbfolgestreit, weil Khuri auch außereheliche Kinder gezeugt hatte. Es herrschte völliges Chaos."
+        },
+        {
+            "key": "040",
+            "value": "Mein Vater, der sich um die Zukunft des Landes sorgte, trat mit einem Vorschlag an den König heran."
+        },
+        {
+            "key": "041",
+            "value": "Khuri könnte landesweit proklamieren, dass er den Thron Glaziela überlassen würde, der geschicktesten Kämpferin unter seinen Nachkommen."
+        },
+        {
+            "key": "042",
+            "value": "Doch Khuri wollte davon nichts wissen. Mehr noch, er war wütend, dass mein Vater ihn hinterfragt hatte, und ließ ihn wegen Hochverrats hinrichten."
+        },
+        {
+            "key": "043",
+            "value": "Unvorstellbar ..."
+        },
+        {
+            "key": "044",
+            "value": "Wie gesagt, das hat bei uns Tradition."
+        },
+        {
+            "key": "045",
+            "value": "Und wie wurde das Problem mit der Nachfolge geregelt?"
+        },
+        {
+            "key": "046",
+            "value": "Khuri hetzte seine möglichen Nachfolger aufeinander. Wer als letztes noch lebte, würde den Thron besteigen."
+        },
+        {
+            "key": "047",
+            "value": "Und das war am Ende Glaziela ..."
+        },
+        {
+            "key": "048",
+            "value": "Ja. Genau, wie mein Vater schon vorgeschlagen hatte."
+        },
+        {
+            "key": "049",
+            "value": "Seine Hinrichtung war völlig überflüssig ... der reinste Hohn."
+        },
+        {
+            "key": "050",
+            "value": "..."
+        },
+        {
+            "key": "051",
+            "value": "Meine Mutter ließ sich vor lauter Gram dazu hinreißen, sich bei Khuri zu beschweren."
+        },
+        {
+            "key": "052",
+            "value": "Ich habe noch versucht, sie aufzuhalten ..."
+        },
+        {
+            "key": "053",
+            "value": "Also hat er auch deine Mutter ..."
+        },
+        {
+            "key": "054",
+            "value": "Nicht nur sie. Auch meine ältere Schwester."
+        },
+        {
+            "key": "055",
+            "value": "Aber dich hat er verschont ..."
+        },
+        {
+            "key": "056",
+            "value": "Glaub nur nicht, dass er das aus Mitleid oder Menschlichkeit getan hat."
+        },
+        {
+            "key": "057",
+            "value": "Willst du wissen, warum er mich verschont hat?"
+        },
+        {
+            "key": "058",
+            "value": "Nein ..."
+        },
+        {
+            "key": "059",
+            "value": "Ich habe seine Stiefel geleckt. Und noch abscheulichere Dinge getan."
+        },
+        {
+            "key": "060",
+            "value": "Nicht nur meinetwegen, sondern auch für meine jüngere Schwester."
+        },
+        {
+            "key": "061",
+            "value": "Ich verstehe ..."
+        },
+        {
+            "key": "062",
+            "value": "Früher war es meine Absicht, Khuri zu vernichten, Glaziela zum Thron zu verhelfen und dann als Stratege an ihrer Seite zu dienen."
+        },
+        {
+            "key": "063",
+            "value": "Zusammen mit meiner kleinen Schwester. Doch nun ..."
+        },
+        {
+            "key": "064",
+            "value": "Nun geht es dir nur noch um Rache."
+        },
+        {
+            "key": "065",
+            "value": "Mir liegt nichts mehr an der Zukunft Wezettes, rein gar nichts."
+        },
+        {
+            "key": "066",
+            "value": "Es ist mir auch egal, ob das Volk leidet."
+        },
+        {
+            "key": "067",
+            "value": "... Zumindest war es das bis vor Kurzem."
+        },
+        {
+            "key": "068",
+            "value": "Ich kann es im Moment nicht riskieren, dich zu befreien."
+        },
+        {
+            "key": "069",
+            "value": "Pass auf dich auf ..."
+        },
+        {
+            "key": "070",
+            "value": "Wa-Warte! Willst du etwa wirklich ...?!"
+        }
+    ]
+}

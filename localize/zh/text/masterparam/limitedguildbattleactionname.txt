@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "LGBA_001",
+            "value": "偵查"
+        },
+        {
+            "key": "LGBA_002",
+            "value": "補給"
+        },
+        {
+            "key": "LGBA_003",
+            "value": "詠唱"
+        },
+        {
+            "key": "LGBA_004",
+            "value": "偵查"
+        },
+        {
+            "key": "LGBA_005",
+            "value": "攻擊強化"
+        },
+        {
+            "key": "LGBA_006",
+            "value": "魔力強化"
+        },
+        {
+            "key": "LGBA_007",
+            "value": "命中強化"
+        },
+        {
+            "key": "LGBA_008",
+            "value": "攻擊弱化"
+        },
+        {
+            "key": "LGBA_009",
+            "value": "魔力弱化"
+        },
+        {
+            "key": "LGBA_010",
+            "value": "治癒力弱化"
+        }
+    ]
+}

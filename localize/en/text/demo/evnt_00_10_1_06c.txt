@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...Phew. That should just about do it."
+        },
+        {
+            "key": "002",
+            "value": "The tome is ours."
+        },
+        {
+            "key": "003",
+            "value": "Good. So...what's next?"
+        },
+        {
+            "key": "004",
+            "value": "We make for Wezette."
+        },
+        {
+            "key": "005",
+            "value": "Another task from the queen herself?"
+        },
+        {
+            "key": "006",
+            "value": "Yes, that's correct."
+        },
+        {
+            "key": "007",
+            "value": "All right. I'll escort you to the rear gates."
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Así que no me vas a dejar pasar?"
+        },
+        {
+            "key": "002",
+            "value": "Son órdenes del rey Muraga."
+        },
+        {
+            "key": "003",
+            "value": "Y, aun así, ¿tengo que decirte adónde me dirijo?"
+        },
+        {
+            "key": "004",
+            "value": "…"
+        },
+        {
+            "key": "005",
+            "value": "¿No será que quieres impedirme que regrese al castillo de Hourne?"
+        },
+        {
+            "key": "006",
+            "value": "Podéis inventaros la historia que queráis, a mí me da lo mismo."
+        },
+        {
+            "key": "007",
+            "value": "Bueno, ¿y qué me dices si estoy dispuesta a usar la fuerza bruta para abrirme paso?"
+        },
+        {
+            "key": "008",
+            "value": "En ese caso, no dudaría en devolveros el golpe… Son órdenes de arriba."
+        },
+        {
+            "key": "009",
+            "value": "Estupendo. Pues ve desenvainando la espada."
+        },
+        {
+            "key": "010",
+            "value": "¿En serio estáis dispuesta a luchar?"
+        },
+        {
+            "key": "011",
+            "value": "Os superamos en número."
+        },
+        {
+            "key": "012",
+            "value": "Los números no ganan las batallas."
+        },
+        {
+            "key": "013",
+            "value": "Si vas a retirarte, te sugiero que lo hagas ahora que aún estás a tiempo."
+        },
+        {
+            "key": "014",
+            "value": "¿Retirarme? ¿Estáis loca o qué?"
+        },
+        {
+            "key": "015",
+            "value": "¡El ejército principal de Hourne ha sido destruido! ¡Vuestras amenazas no sirven de nada!"
+        },
+        {
+            "key": "016",
+            "value": "Ya veo… Que conste que te he avisado."
+        },
+        {
+            "key": "017",
+            "value": "Se me ha acabado la paciencia. ¡Que sepas que no voy a tener piedad ninguna!"
+        }
+    ]
+}

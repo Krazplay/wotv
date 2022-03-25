@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "AUTOLAP_TITLE",
+            "value": "자동 반복"
+        },
+        {
+            "key": "AUTOLAP_DESC",
+            "value": "퀘스트 완료 후 이용할 수 있습니다."
+        },
+        {
+            "key": "ARTSELL_TITLE",
+            "value": "판매 불가"
+        },
+        {
+            "key": "ARTSELL_FAVORITE_DESC",
+            "value": "즐겨찾기로 설정되어 있습니다."
+        },
+        {
+            "key": "ARTSELL_EQUIP_DESC ",
+            "value": "유닛이 장착 중입니다."
+        },
+        {
+            "key": "ARTSELL_NOT_DESC",
+            "value": "판매할 수 없는 장비입니다."
+        }
+    ]
+}

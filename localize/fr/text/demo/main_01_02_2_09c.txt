@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Nous ne pouvons attendre plus longtemps, père, laissez-moi me battre."
+        },
+        {
+            "key": "002",
+            "value": "C'est hors de question."
+        },
+        {
+            "key": "003",
+            "value": "Pourquoi ? Si je ne me bats pas, Mont va... !"
+        },
+        {
+            "key": "004",
+            "value": "Dois-je me répéter ?"
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "Cela suffit, Sterne."
+        },
+        {
+            "key": "007",
+            "value": "Avez-vous l'intention de rester les bras croisés et de laisser mon frère mourir ?"
+        },
+        {
+            "key": "008",
+            "value": "Cela dépend de Mont..."
+        },
+        {
+            "key": "009",
+            "value": "Pourquoi êtes-vous aussi impitoyable envers ceux qui ne partagent pas vos idées ?"
+        },
+        {
+            "key": "010",
+            "value": "Ne te méprends pas. Tout ce que je souhaite c'est faire perdurer la lignée des Leonis."
+        },
+        {
+            "key": "011",
+            "value": "Et je donnerais volontiers ma vie pour ça."
+        },
+        {
+            "key": "012",
+            "value": "Malgré tout... je n'ai pas l'intention d'avoir de la pitié pour ceux qui ne comprennent pas la valeur de leur sang."
+        },
+        {
+            "key": "013",
+            "value": "Êtes-vous... en train de dire que vous voulez que mon frère abandonne le château et s'enfuie ?"
+        },
+        {
+            "key": "014",
+            "value": "Est-ce que c'est... Mont ?!"
+        },
+        {
+            "key": "015",
+            "value": "L'idiot... Il a choisi de revenir."
+        }
+    ]
+}

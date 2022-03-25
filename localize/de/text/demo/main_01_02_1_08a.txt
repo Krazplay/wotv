@@ -1,0 +1,204 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Garh ..."
+        },
+        {
+            "key": "002",
+            "value": "Sind die Schmerzen schlimm?"
+        },
+        {
+            "key": "003",
+            "value": "Ist Jammern eine Spezialdisziplin der Gardesoldaten Hournes?"
+        },
+        {
+            "key": "004",
+            "value": "Ich habe meinen Rang und meine Ehre aufgegeben. Ich bin kein Gardesoldat mehr."
+        },
+        {
+            "key": "005",
+            "value": "Ist das so? Na ja, da kann man wohl nichts machen."
+        },
+        {
+            "key": "006",
+            "value": "Nun sollte es euch leichter fallen, mich zu benutzen."
+        },
+        {
+            "key": "007",
+            "value": "Dich benutzen? Wer sollte das vorhaben?"
+        },
+        {
+            "key": "008",
+            "value": "Jetzt, da ich alles verloren habe, werdet ihr mich sicherlich für eure Zwecke benutzen wollen."
+        },
+        {
+            "key": "009",
+            "value": "Es ist eher umgekehrt. Du kannst uns für deine Zwecke benutzen."
+        },
+        {
+            "key": "010",
+            "value": "Was plapperst du da?"
+        },
+        {
+            "key": "011",
+            "value": "In jedem Krieg wird Blut vergossen. Doch denkst du nicht auch, dass es Blut gibt, das niemals vergossen werden sollte?"
+        },
+        {
+            "key": "012",
+            "value": "Muraga Fennes hat etwas Unverzeihliches getan. Soll er dafür nicht bestraft werden?"
+        },
+        {
+            "key": "013",
+            "value": "..."
+        },
+        {
+            "key": "014",
+            "value": "Sind das ... Tränen?"
+        },
+        {
+            "key": "015",
+            "value": "Weinst du um meine Familie ... um Naiah?"
+        },
+        {
+            "key": "016",
+            "value": "Würde Krieg doch für immer aus der Welt verschwinden! Und ich glaube, dass Prinz Mont der Einzige ist, der uns das bringen kann."
+        },
+        {
+            "key": "017",
+            "value": "Um dieses Ziel zu erreichen, soll mir jedes Mittel recht sein."
+        },
+        {
+            "key": "018",
+            "value": "Und deshalb solltest du auch von uns Gebrauch machen."
+        },
+        {
+            "key": "019",
+            "value": "..."
+        },
+        {
+            "key": "020",
+            "value": "Ich fürchte, du hast nicht die geringste Ahnung, was Prinz Mont fühlt."
+        },
+        {
+            "key": "021",
+            "value": "Was er fühlt?"
+        },
+        {
+            "key": "022",
+            "value": "Hat er es dir nicht gerade erst gesagt? „Dir fehlt das Zeug zum Gardesoldaten.“"
+        },
+        {
+            "key": "023",
+            "value": "..."
+        },
+        {
+            "key": "024",
+            "value": "Zweifellos sagte er das, weil er nicht mit ansehen konnte, wie sehr du unter den mit dem Titel verbundenen Einschränkungen littst."
+        },
+        {
+            "key": "025",
+            "value": "Benutzen oder benutzt werden, Freund oder Feind ..."
+        },
+        {
+            "key": "026",
+            "value": "Alles belanglos. Das Richtige zu tun – das ist das Einzige, was zählt."
+        },
+        {
+            "key": "027",
+            "value": "Er ist eine gute Seele, euer Prinz Mont."
+        },
+        {
+            "key": "028",
+            "value": "Das ist er. Doch aus genau diesem Grund mache ich mir auch immer Sorgen um ihn."
+        },
+        {
+            "key": "029",
+            "value": "Kommandantin Lilith!"
+        },
+        {
+            "key": "030",
+            "value": "Was gibt es?"
+        },
+        {
+            "key": "031",
+            "value": "Zahlreiche Kontingente aus Hourne sind eingetroffen. Unsere eigenen Kräfte werden zurückgetrieben."
+        },
+        {
+            "key": "032",
+            "value": "Sollte sich dies fortsetzen ..."
+        },
+        {
+            "key": "033",
+            "value": "W-Warte! Wo willst du hin?"
+        },
+        {
+            "key": "034",
+            "value": "Prinz Mont kämpft immer noch an der Front."
+        },
+        {
+            "key": "035",
+            "value": "Geh nicht."
+        },
+        {
+            "key": "036",
+            "value": "Oh? Auf einmal behandelst du mich wie ein zerbrechliches, kleines Mädchen?"
+        },
+        {
+            "key": "037",
+            "value": "Weißt du denn nicht, mit wem du dich anlegst?! „Solidus“ die Stirn zu bieten, ist Wahnsinn!"
+        },
+        {
+            "key": "038",
+            "value": "Bring die beiden ... Eskortiere Prinzessin Margery und Lord Schuzelt zu Schloss Leonis. Und beeil dich!"
+        },
+        {
+            "key": "039",
+            "value": "Jawohl, Kommandantin!"
+        },
+        {
+            "key": "040",
+            "value": "Halt! Bist du lebensmüde?"
+        },
+        {
+            "key": "041",
+            "value": "Ich werde nicht sterben. Noch nicht. Ich tue dies, um zu leben."
+        },
+        {
+            "key": "042",
+            "value": "Im Gegensatz zu dir!"
+        },
+        {
+            "key": "043",
+            "value": "Lilith ... Sie ist eine tolle Frau. Nicht so toll wie ich, aber Rang zwei dürfte sie immerhin einnehmen."
+        },
+        {
+            "key": "044",
+            "value": "Ihr meintet sicherlich Rang drei. Vergesst nicht Naiah."
+        },
+        {
+            "key": "045",
+            "value": "Na gut. Jemand, der so schlagfertig ist, kann sicherlich auf seinen eigenen zwei Beinen stehen."
+        },
+        {
+            "key": "046",
+            "value": "Wo sind Margery und Schuzelt?"
+        },
+        {
+            "key": "047",
+            "value": "Macht Euch keine Sorgen. Ich habe eine bewaffnete Eskorte abgestellt, um sie sicher nach Schloss Leonis zu bringen."
+        },
+        {
+            "key": "048",
+            "value": "Freut mich zu hören. Ich danke dir."
+        },
+        {
+            "key": "049",
+            "value": "Also – lasst uns mit diesem Zug kurzen Prozess machen und dann den Rückzug antreten."
+        },
+        {
+            "key": "050",
+            "value": "Hört sich gut an."
+        }
+    ]
+}

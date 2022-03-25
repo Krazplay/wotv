@@ -1,0 +1,188 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Qui va là ?"
+        },
+        {
+            "key": "002",
+            "value": "Hiiiaaa... !"
+        },
+        {
+            "key": "003",
+            "value": "Du calme, Éthéa. C'est une humaine, tout comme nous."
+        },
+        {
+            "key": "004",
+            "value": "Haaa... ! Vous m'avez fait peur ! Je ne pensais pas rencontrer de vivants ici !"
+        },
+        {
+            "key": "005",
+            "value": "Tiens... tu es paladin, non ?"
+        },
+        {
+            "key": "006",
+            "value": "Oui. Et alors ?"
+        },
+        {
+            "key": "007",
+            "value": "Ah ! Alors c'est à toi que Lilyth a ordonné de nettoyer cette grotte ?"
+        },
+        {
+            "key": "008",
+            "value": "... ? Comment vous savez ça ?"
+        },
+        {
+            "key": "009",
+            "value": "C'est aussi toi la recrue qui a été mangée par les squelettes... ?"
+        },
+        {
+            "key": "010",
+            "value": "Pas encore, apparemment."
+        },
+        {
+            "key": "011",
+            "value": "On nous a envoyées ici, nous aussi, quand on a dit qu'on voulait rejoindre « Fortem »."
+        },
+        {
+            "key": "012",
+            "value": "Je m'appelle Nasha. Et vous ?"
+        },
+        {
+            "key": "013",
+            "value": "Je m'appelle Éthéa, et elle c'est Yelma."
+        },
+        {
+            "key": "014",
+            "value": "Enchantée."
+        },
+        {
+            "key": "015",
+            "value": "Bon. Eh bien, bonne journée à vous deux."
+        },
+        {
+            "key": "016",
+            "value": "Hé ! Une minute."
+        },
+        {
+            "key": "017",
+            "value": "Toi aussi tu es là pour éliminer les squelettes, non ? On ne devrait pas plutôt s'entraider ?"
+        },
+        {
+            "key": "018",
+            "value": "Désolée. Je me bats seule."
+        },
+        {
+            "key": "019",
+            "value": "Attends, attends ! Ces squelettes sont dangereux !"
+        },
+        {
+            "key": "020",
+            "value": "Si tu fonces tête baissée, tu pourrais la perdre."
+        },
+        {
+            "key": "021",
+            "value": "Je ne vais pas mourir !"
+        },
+        {
+            "key": "022",
+            "value": "Hm ?"
+        },
+        {
+            "key": "023",
+            "value": "Je ne peux pas mourir ! Pas avant d'avoir épousé le prince Sterne !"
+        },
+        {
+            "key": "024",
+            "value": "..."
+        },
+        {
+            "key": "025",
+            "value": "..."
+        },
+        {
+            "key": "026",
+            "value": "Ne me dites pas... que vous êtes des rivales ?"
+        },
+        {
+            "key": "027",
+            "value": "Désolée."
+        },
+        {
+            "key": "028",
+            "value": "Ah d'accord, je vois."
+        },
+        {
+            "key": "029",
+            "value": "Dans ce cas, je vous défie à la loyale !"
+        },
+        {
+            "key": "030",
+            "value": "..."
+        },
+        {
+            "key": "031",
+            "value": "..."
+        },
+        {
+            "key": "032",
+            "value": "Dépêchons-nous de nous mettre en route."
+        },
+        {
+            "key": "033",
+            "value": "On perd du temps pour rien, là !"
+        },
+        {
+            "key": "034",
+            "value": "Je ne comprends pas grand-chose aux combats, mais..."
+        },
+        {
+            "key": "035",
+            "value": "Le rôle des paladins ne se résume pas à être en première ligne pour percer la défense de l'ennemi et montrer la voie ?"
+        },
+        {
+            "key": "036",
+            "value": "Si, c'est tout à fait ça."
+        },
+        {
+            "key": "037",
+            "value": "C'est que... je n'ai pas vraiment le sens de l'orientation..."
+        },
+        {
+            "key": "038",
+            "value": "Ne me dites pas que..."
+        },
+        {
+            "key": "039",
+            "value": "Tu erres près de l'entrée de cette grotte depuis trois jours ?!"
+        },
+        {
+            "key": "040",
+            "value": "Oui ! Et alors ? Tout le monde a des forces et des faiblesses !"
+        },
+        {
+            "key": "041",
+            "value": "Bon. Alors je passe devant."
+        },
+        {
+            "key": "042",
+            "value": "Ça ira ?"
+        },
+        {
+            "key": "043",
+            "value": "Oui. J'ai mon flair avec moi !"
+        },
+        {
+            "key": "044",
+            "value": "Snif ! Snif !"
+        },
+        {
+            "key": "045",
+            "value": "Ça sent le monstre !"
+        },
+        {
+            "key": "046",
+            "value": "Dans ce cas, en avant."
+        }
+    ]
+}

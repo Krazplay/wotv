@@ -1,0 +1,208 @@
+﻿{
+    "infos": [
+        {
+            "key": "UNIT_LEVELUP",
+            "value": "AUFLEVELN"
+        },
+        {
+            "key": "UNIT_AWAKE",
+            "value": "ERWECKUNG"
+        },
+        {
+            "key": "UNIT_RANKUP",
+            "value": "LIMITBRUCH"
+        },
+        {
+            "key": "TRUST_MASTER",
+            "value": "TREUEMEISTER"
+        },
+        {
+            "key": "JOB_LEVELUP",
+            "value": "Jobstufe ERHÖHT"
+        },
+        {
+            "key": "MASTER_ABILITY",
+            "value": "Neue Kraft freigeschaltet!"
+        },
+        {
+            "key": "MASTER_ABILITY_GRADEUP",
+            "value": "Stärke ist weiter angestiegen!"
+        },
+        {
+            "key": "LIMITBURST_LEVELUP",
+            "value": "AUFLEVELN"
+        },
+        {
+            "key": "ENCHANT",
+            "value": "EX-JOB-ÄNDERUNG"
+        },
+        {
+            "key": "PLAYER_RANKUP",
+            "value": "Neuer Rang"
+        },
+        {
+            "key": "PLAYER_RANKUP_RANK",
+            "value": "Rang"
+        },
+        {
+            "key": "PLAYER_RANKUP_STAMINA",
+            "value": "Max. Ausdauer"
+        },
+        {
+            "key": "PLAYER_RANKUP_FRIEND",
+            "value": "Max. Freundesanzahl"
+        },
+        {
+            "key": "PLAYER_RANKUP_OPEN",
+            "value": "Freigeschaltet"
+        },
+        {
+            "key": "ARTI_LEVELUP",
+            "value": "AUFLEVELN"
+        },
+        {
+            "key": "ARTI_STATUSUP",
+            "value": "ATTRIBUTE ERHÖHT"
+        },
+        {
+            "key": "CHALLENGE_CLEAR",
+            "value": "MISSION ABGESCHLOSSEN!"
+        },
+        {
+            "key": "CHALLENGE_BINGO",
+            "value": "BINGO!"
+        },
+        {
+            "key": "DEMO_TOBECONTINUED",
+            "value": "Fortsetzung folgt ..."
+        },
+        {
+            "key": "EXPEDITION_ITEM_GET",
+            "value": "Gegenstände erhalten!"
+        },
+        {
+            "key": "RAID_APPEAR_TITLE",
+            "value": "Kraftproben-Boss erschienen!"
+        },
+        {
+            "key": "VISION_LEVELUP",
+            "value": "AUFLEVELN"
+        },
+        {
+            "key": "VISION_AWAKE",
+            "value": "ERWECKUNG"
+        },
+        {
+            "key": "VISION_GROWTH_MAX",
+            "value": "Trainingsabschlussbonus"
+        },
+        {
+            "key": "NEW_BONUS",
+            "value": "Erstversuch-Bonus"
+        },
+        {
+            "key": "GUILD_EFF_ESTABLISHMENT",
+            "value": "Gilde gegründet"
+        },
+        {
+            "key": "GUILD_STATUE_LEVELUP",
+            "value": "AUFLEVELN"
+        },
+        {
+            "key": "GUILD_STATUE_EFF",
+            "value": "Effekt freischalten"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKUP",
+            "value": "Ligastufe gestiegen!"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKDOWN",
+            "value": "Ligastufe gesunken"
+        },
+        {
+            "key": "GUILD_BATTLE_RESULT",
+            "value": "ERGEBNIS"
+        },
+        {
+            "key": "BATTLE_FEVER",
+            "value": "EKSTASE!"
+        },
+        {
+            "key": "GUERILLA_TITLE",
+            "value": "Launischer Laden"
+        },
+        {
+            "key": "GUERILLA_SUBTITLE",
+            "value": "Launischer Laden"
+        },
+        {
+            "key": "GUERILLA_OPEN",
+            "value": "GEÖFFNET"
+        },
+        {
+            "key": "GUERILLA_BTN_LATER",
+            "value": "Später"
+        },
+        {
+            "key": "GUERILLA_BTN_TRY",
+            "value": "Zum Launischen Laden"
+        },
+        {
+            "key": "RESULT_FIRST_CLEAR",
+            "value": "Erstabschluss-Belohnung erhalten!"
+        },
+        {
+            "key": "RESULT_CLEAR",
+            "value": "Abschlussbelohnungen erhalten!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_TITLE",
+            "value": "Erhalten!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_POINT",
+            "value": "Punkte erreicht!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_HIGH_SCORE",
+            "value": "Highscore-Belohnung erhalten."
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_TOTAL",
+            "value": "Gesamtpunktebelohnung erhalten."
+        },
+        {
+            "key": "MASTERRANK_LEVELUP",
+            "value": "AUFLEVELN"
+        },
+        {
+            "key": "MATERIA_FRAME_OPEN",
+            "value": "Sockel freigeschaltet"
+        },
+        {
+            "key": "MATERIA_FEAME_LEVELUP",
+            "value": "AUFLEVELN"
+        },
+        {
+            "key": "MATERIA_TRAIN_OPEN",
+            "value": "Schmieden abgeschlossen"
+        },
+        {
+            "key": "MATERIA_GET_TITLE",
+            "value": "Vertrauensstein erhalten"
+        },
+        {
+            "key": "MATERIA_ENHANCE_TITLE",
+            "value": "Vertrauensstein verstärkt"
+        },
+        {
+            "key": "MATERIA_CAPACITY_TITLE",
+            "value": "Fähigkeit verbessert"
+        },
+        {
+            "key": "MATERIA_INTEGRA_TITLE",
+            "value": "Fähigkeiten zusammengeführt"
+        }
+    ]
+}

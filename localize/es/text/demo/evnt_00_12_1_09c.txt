@@ -1,0 +1,116 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "No siento la presencia de más bestias... Quizá esta era la última."
+        },
+        {
+            "key": "002",
+            "value": "Maestro... ¿Has podido ver bien el espectáculo?"
+        },
+        {
+            "key": "003",
+            "value": "Solo escucharlo ha sido suficiente. Son espadas increíbles, sin lugar a dudas."
+        },
+        {
+            "key": "004",
+            "value": "Entonces, ¿a cuál de nosotros elegirás?"
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "¡Maestro!"
+        },
+        {
+            "key": "007",
+            "value": "Por lo que puedo apreciar, no parece que haya ninguna diferencia en la calidad de vuestras espadas."
+        },
+        {
+            "key": "008",
+            "value": "..."
+        },
+        {
+            "key": "009",
+            "value": "Maestro, no hay necesidad de enfatizar eso."
+        },
+        {
+            "key": "010",
+            "value": "¿Zacar?"
+        },
+        {
+            "key": "011",
+            "value": "Comencemos el siguiente... No..., el combate final."
+        },
+        {
+            "key": "012",
+            "value": "Me imagino que venís preparados."
+        },
+        {
+            "key": "013",
+            "value": "Por supuesto, Maestro."
+        },
+        {
+            "key": "014",
+            "value": "¿Y tú, Velric?"
+        },
+        {
+            "key": "015",
+            "value": "¿Para qué, exactamente?"
+        },
+        {
+            "key": "016",
+            "value": "Las armas que nosotros, los herreros, forjamos están diseñadas para matar a seres humanos. Por lo que, naturalmente..."
+        },
+        {
+            "key": "017",
+            "value": "Maestro, no querrás decir..."
+        },
+        {
+            "key": "018",
+            "value": "Cuál de vuestras armas es superior para realizar una matanza... Eso es lo que lograremos determinar aquí hoy."
+        },
+        {
+            "key": "019",
+            "value": "Una batalla a muerte... ¡¿Es eso lo que quieres que llevemos a cabo?!"
+        },
+        {
+            "key": "020",
+            "value": "Yo no tengo inconveniente... He estado preparado para esto desde hace tiempo."
+        },
+        {
+            "key": "021",
+            "value": "¿Has perdido la cabeza?... "
+        },
+        {
+            "key": "022",
+            "value": "De ninguna manera voy a ceder el nombre de Harvas a nadie."
+        },
+        {
+            "key": "023",
+            "value": "..."
+        },
+        {
+            "key": "024",
+            "value": "Detente, Zacar. Esto no está bien..."
+        },
+        {
+            "key": "025",
+            "value": "Maestro... Entiendo que esta batalla decidirá quién será tu sucesor, ¿no es así?"
+        },
+        {
+            "key": "026",
+            "value": "Correcto."
+        },
+        {
+            "key": "027",
+            "value": "El ganador será mi sucesor."
+        },
+        {
+            "key": "028",
+            "value": "¡El que quede en pie heredará el nombre de Harvas, y solo con él compartiré mis numerosos secretos!"
+        }
+    ]
+}

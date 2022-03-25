@@ -1,0 +1,132 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ce carrosse !"
+        },
+        {
+            "key": "002",
+            "value": "On les a rattrapés !"
+        },
+        {
+            "key": "003",
+            "value": "Votre Majesté... ils portent des armures de Hourne."
+        },
+        {
+            "key": "004",
+            "value": "Que fait un carrosse de Hourne sur notre territoire ?"
+        },
+        {
+            "key": "005",
+            "value": "Les bandits n'ont pas dû leur laisser d'autre choix que de traverser la frontière."
+        },
+        {
+            "key": "006",
+            "value": "C'est effectivement une possibilité."
+        },
+        {
+            "key": "007",
+            "value": "Peu importe. Saisissons cette occasion pour gagner les faveurs de Hourne."
+        },
+        {
+            "key": "008",
+            "value": "Oh, mais que vois-je ? Ne serait-ce pas le roi de Leonis qui nous fait l'honneur de sa présence ?"
+        },
+        {
+            "key": "009",
+            "value": "Tu as oublié qui sont tes amis et tes ennemis ?"
+        },
+        {
+            "key": "010",
+            "value": "Silence ! Je vais m'occuper de vous !"
+        },
+        {
+            "key": "011",
+            "value": "Et t'es qui, toi ?!"
+        },
+        {
+            "key": "012",
+            "value": "Lilyth, commandante de la division « Caelum » de Leonis."
+        },
+        {
+            "key": "013",
+            "value": "Schuzelt, champion de la garde royale « Solidus » de Hourne."
+        },
+        {
+            "key": "014",
+            "value": "Oh, j'ai entendu parler de toi. Le « Champion téméraire », c'est ça ?"
+        },
+        {
+            "key": "015",
+            "value": "Et tu es le « Fléau écarlate ». Ce nom semble t'aller comme un gant."
+        },
+        {
+            "key": "016",
+            "value": "Oui, et si tu ne tiens pas ta langue quand tu t'adresses à Sa Majesté, je veillerai moi-même à te réduire en cendres."
+        },
+        {
+            "key": "017",
+            "value": "Tu ne me fais pas peur ! Dois-je souiller les flaques avec ton sang ?!"
+        },
+        {
+            "key": "018",
+            "value": "Assez."
+        },
+        {
+            "key": "019",
+            "value": "Quoi ?"
+        },
+        {
+            "key": "020",
+            "value": "Mais dame Machalie, je... !"
+        },
+        {
+            "key": "021",
+            "value": "Il a bien dit « Machalie » ?!"
+        },
+        {
+            "key": "022",
+            "value": "Si je m'attendais à voir la princesse de Hourne en personne, ici."
+        },
+        {
+            "key": "023",
+            "value": "La Demoiselle d'acier ?! Cette fille ?!"
+        },
+        {
+            "key": "024",
+            "value": "Il semble que nous soyons sur le territoire de Leonis. Je tiens à m'excuser pour tous les ennuis que nous vous avons causés."
+        },
+        {
+            "key": "025",
+            "value": "N'y prêtez pas attention. Heureusement que Leonis et Hourne ne sont pas des ennemis."
+        },
+        {
+            "key": "026",
+            "value": "..."
+        },
+        {
+            "key": "027",
+            "value": "Nous serions heureux de vous recevoir comme invités d'honneur."
+        },
+        {
+            "key": "028",
+            "value": "Je vous en suis infiniment reconnaissante."
+        },
+        {
+            "key": "029",
+            "value": "Mont, veille à bien te tenir devant une vraie dame. Ha ha ha !"
+        },
+        {
+            "key": "030",
+            "value": "P-promis !"
+        },
+        {
+            "key": "031",
+            "value": "Mont ? Il me semble avoir déjà entendu ce nom quelque part..."
+        },
+        {
+            "key": "032",
+            "value": "Maintenant, faisons regretter à ces bandits d'avoir mis les pieds dans mon royaume !"
+        }
+    ]
+}

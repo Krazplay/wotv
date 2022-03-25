@@ -1,0 +1,160 @@
+﻿{
+    "infos": [
+        {
+            "key": "VIDEOADS",
+            "value": "Annonces vidéos"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_DESC",
+            "value": "Visionnez une annonce et regagnez {0} points d'endurance."
+        },
+        {
+            "key": "AP_HEAL_VIDEO_CONFIRM_TITLE",
+            "value": "Confirmer"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_CONFIRM_DESC",
+            "value": "Une annonce va être lancée."
+        },
+        {
+            "key": "AP_HEAL_VIDEO_RESULT_TITLE",
+            "value": "Résultat"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_RESULT_DESC",
+            "value": "Félicitations !<br>Vos points d'endurance ont été restaurés."
+        },
+        {
+            "key": "AP_HEAL_VIDEO_ERROR_TITLE",
+            "value": "Erreur"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_ERROR_DESC",
+            "value": "Vos points d'endurances n'ont pas été restaurés."
+        },
+        {
+            "key": "GACHA_WATCH_VIDEO",
+            "value": "Visionner une vidéo"
+        },
+        {
+            "key": "GACHA_FREE_AMOUNT_TITLE",
+            "value": "Nombre de chances gratuites :"
+        },
+        {
+            "key": "OFFERWALL",
+            "value": "Mur d'annonces"
+        },
+        {
+            "key": "GACHA_WATCH_VIDEO_TITLE",
+            "value": "Invocation"
+        },
+        {
+            "key": "GLOBAL_MAIN_VIDEOADS",
+            "value": "Invoquez pour recevoir des visiores !"
+        },
+        {
+            "key": "GLOBAL_MAIN_VIDEOADS_APPEAL",
+            "value": "GRATUIT"
+        },
+        {
+            "key": "IT_LP_WW_01",
+            "value": "Visiores"
+        },
+        {
+            "key": "IT_GIL_WW_01",
+            "value": "Gils"
+        },
+        {
+            "key": "GACHA_NO_VIDEO_AVAILABLE_TITLE",
+            "value": "Vidéo indisponible"
+        },
+        {
+            "key": "GACHA_NO_VIDEO_AVAILABLE_DESC",
+            "value": "Vidéos indisponibles. Veuillez réessayer."
+        },
+        {
+            "key": "GACHA_CHECK_TICKET_TITLE",
+            "value": "Invoquer avec une vidéo"
+        },
+        {
+            "key": "GACHA_CHECK_VIDEOADS_DESC",
+            "value": "Utiliser votre compte d'annonces pour invoquer ?"
+        },
+        {
+            "key": "GACHA_VIDEOADS_DISCLAIMER",
+            "value": "Les récompenses seront envoyées dans vos Cadeaux sous 24 heures."
+        },
+        {
+            "key": "BUY_LAPIS_OFFERWALL_REALMONEY",
+            "value": "GRATUIT"
+        },
+        {
+            "key": "BUY_LAPIS_OFFERWALL_DESC",
+            "value": "Visiores"
+        },
+        {
+            "key": "BATTLE_RESULT_TITLE",
+            "value": "Annonces pour restaurer vos points d'endurance"
+        },
+        {
+            "key": "BATTLE_RESULT_DESC",
+            "value": "Quantité d'<color=#792E2E>END</color> faible"
+        },
+        {
+            "key": "GACHA_VIDEO_RESETS_IN",
+            "value": "Dispo. dans <size=1.2em><color=#F0C040>{0}:{1}:{2}</color></size>"
+        },
+        {
+            "key": "VideoGacha_Normal",
+            "value": "Invocation vidéo"
+        },
+        {
+            "key": "VideoGacha_Normal_20210421",
+            "value": "Invocation vidéo"
+        },
+        {
+            "key": "VideoGacha_Normal_20210922",
+            "value": "Invocation vidéo"
+        },
+        {
+            "key": "VideoGacha_Normal_20211020",
+            "value": "Invocation vidéo"
+        },
+        {
+            "key": "VideoGacha_Normal_20220323",
+            "value": "Invocation vidéo"
+        },
+        {
+            "key": "CONTINUE",
+            "value": "Continuer"
+        },
+        {
+            "key": "CANCEL",
+            "value": "Annuler"
+        },
+        {
+            "key": "GACHA_VIDEO_REACHED_LIMIT_TITLE",
+            "value": "Limite max. d'invocations vidéos atteinte"
+        },
+        {
+            "key": "GACHA_VIDEO_REACHED_LIMIT_DESC",
+            "value": "Vous avez atteint le nombre maximum d'invocations vidéos autorisé. Réessayer plus tard."
+        },
+        {
+            "key": "GACHA_ON_CANCEL_TITLE",
+            "value": "Erreur"
+        },
+        {
+            "key": "GACHA_ON_CANCEL_DESC",
+            "value": "Vous avez annulé l'invocation vidéo."
+        },
+        {
+            "key": "OFFERWALL_BONUS_MULTIPLIER_DESC",
+            "value": "Bonus"
+        },
+        {
+            "key": "OFFERWALL_BONUS_MULTIPLIER",
+            "value": "x{0}"
+        }
+    ]
+}

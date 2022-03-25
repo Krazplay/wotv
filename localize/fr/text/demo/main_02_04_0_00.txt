@@ -1,0 +1,108 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Qu'est-ce qu'il y a ? Tu as cru que j'allais fuir ?"
+        },
+        {
+            "key": "002",
+            "value": "Dites-moi ce que vous ressentez."
+        },
+        {
+            "key": "003",
+            "value": "Rien. Je ne ressens rien de particulier pour cet endroit."
+        },
+        {
+            "key": "004",
+            "value": "Ça te surprend ?"
+        },
+        {
+            "key": "005",
+            "value": "Je croyais que retourner sur sa terre natale après une longue séparation provoquait forcément quelque chose."
+        },
+        {
+            "key": "006",
+            "value": "J'ai abandonné ce royaume. Je n'ai plus de terre natale."
+        },
+        {
+            "key": "007",
+            "value": "Je vois..."
+        },
+        {
+            "key": "008",
+            "value": "J'ai l'impression que tu espérais une autre réponse."
+        },
+        {
+            "key": "009",
+            "value": "J'aurais bien aimé savoir ce qu'est une terre natale. Par curiosité… c'est tout."
+        },
+        {
+            "key": "010",
+            "value": "On dit que tu es née dans une boîte de pétri quelque part dans les caves de l'Église."
+        },
+        {
+            "key": "011",
+            "value": "C'est vrai."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "Tu ne crois pas qu'il est temps de me le dire ?"
+        },
+        {
+            "key": "014",
+            "value": "Vous dire quoi ?"
+        },
+        {
+            "key": "015",
+            "value": "Ce que nous faisons ici."
+        },
+        {
+            "key": "016",
+            "value": "L'Église cherche quelque chose sur les terres de Leonis, n'est-ce pas ?"
+        },
+        {
+            "key": "017",
+            "value": "…"
+        },
+        {
+            "key": "018",
+            "value": "Je vais avoir du mal à t'aider si tu ne me dis pas ce que tu cherches."
+        },
+        {
+            "key": "019",
+            "value": "Vous saurez bien assez tôt."
+        },
+        {
+            "key": "020",
+            "value": "Bon, très bien."
+        },
+        {
+            "key": "021",
+            "value": "Nous entrerons bientôt sur les terres de Leonis."
+        },
+        {
+            "key": "022",
+            "value": "Je vous conseille d'enfiler l'équipement de protection contre le nuage toxique."
+        },
+        {
+            "key": "023",
+            "value": "On dit qu'il suffit d'en aspirer une bouffée pour commencer à pourrir de l'intérieur."
+        },
+        {
+            "key": "024",
+            "value": "Je conçois que l'équipement soit inconfortable, mais mieux vaut ça que mourir, n'est-ce pas ?"
+        },
+        {
+            "key": "025",
+            "value": "Les humains… sont des créatures incommodes."
+        },
+        {
+            "key": "026",
+            "value": "…"
+        }
+    ]
+}

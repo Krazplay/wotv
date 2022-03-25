@@ -1,0 +1,596 @@
+﻿{
+    "infos": [
+        {
+            "key": "053",
+            "value": "Pfiou ! À peine débarqués qu'on rencontre déjà des monstres ?"
+        },
+        {
+            "key": "054",
+            "value": "Les rapports n'ont pas menti. La présence du cristal fondamental décuple l'agressivité des monstres alentour."
+        },
+        {
+            "key": "055",
+            "value": "Ce qui signifie que nous sommes sur la bonne route. Le cristal doit se trouver par ici."
+        },
+        {
+            "key": "056",
+            "value": "Avises-tu cette forteresse au loin ? C'est le Château de Wezett."
+        },
+        {
+            "key": "057",
+            "value": "Incroyable..."
+        },
+        {
+            "key": "058",
+            "value": "Nous ne sommes pas là pour faire du tourisme."
+        },
+        {
+            "key": "059",
+            "value": "Nous avons un cristal fondamental à retrouver."
+        },
+        {
+            "key": "060",
+            "value": "Oui, Maître !"
+        },
+        {
+            "key": "061",
+            "value": "Malheureusement, nous n'y sommes pas encore tout à fait. Je ne sens que des bribes."
+        },
+        {
+            "key": "062",
+            "value": "Vous croyez que quelqu'un a pu nous devancer ?"
+        },
+        {
+            "key": "063",
+            "value": "Ce n'est pas impossible. Quelqu'un ou un monstre affamé, qui sait ?"
+        },
+        {
+            "key": "064",
+            "value": "Par pitié que le cristal n'ait pas été ingurgité cette fois, j'ai des frissons rien que d'y repenser."
+        },
+        {
+            "key": "065",
+            "value": "Quoi qu'il en soit, nous devons continuer. Nul humain ni monstre ne nous barrera la route."
+        },
+        {
+            "key": "066",
+            "value": "Oh !"
+        },
+        {
+            "key": "067",
+            "value": "Ces derniers ont l'air d'avoir faim. Ne te jette pas dans la gueule de ces loups, leurs crocs ont l'air acérés."
+        },
+        {
+            "key": "068",
+            "value": "Vous pensez qu'ils sont sous l'influence du cristal ?"
+        },
+        {
+            "key": "069",
+            "value": "Selon toute évidence, oui."
+        },
+        {
+            "key": "070",
+            "value": "Mais cela ne leur donne pas pour autant droit à sa protection."
+        },
+        {
+            "key": "071",
+            "value": "Je suis un Guerrier des cristaux et c'est mon devoir de mater ces monstres."
+        },
+        {
+            "key": "072",
+            "value": "Allons, réglons leur cas rapidement et fermement."
+        },
+        {
+            "key": "073",
+            "value": "Tss. Ils aboient plus fort qu'ils ne mordent."
+        },
+        {
+            "key": "074",
+            "value": "C'est vrai qu'ils n'étaient pas très réactifs pour des monstres enragés."
+        },
+        {
+            "key": "075",
+            "value": "Voilà une remarque perspicace, apprenti. Je vois que Jeaum et Cétia ont réussi à te faire entrer deux ou trois leçons dans le crâne pendant vos sorties."
+        },
+        {
+            "key": "076",
+            "value": "Ces bêtes n'étaient pas seulement faméliques, elles étaient également gelées."
+        },
+        {
+            "key": "077",
+            "value": "Même stimulées par le cristal fondamental, elles n'ont pas pu mobiliser assez de forces pour représenter une réelle menace."
+        },
+        {
+            "key": "078",
+            "value": "Elles étaient déjà trop affaiblies."
+        },
+        {
+            "key": "079",
+            "value": "Je vois…"
+        },
+        {
+            "key": "080",
+            "value": "Cela ne les a pas empêchées d'attaquer dès l'apparition d'une proie potentielle. Reconnaissons-leur une certaine détermination."
+        },
+        {
+            "key": "081",
+            "value": "Sans compter qu'une meute plus grande commencerait à poser problème. Parfois, c'est la quantité qui fait la qualité."
+        },
+        {
+            "key": "082",
+            "value": "Nous ferions mieux de nous hâter vers Wezett, voir ce que l'on peut y apprendre."
+        },
+        {
+            "key": "083",
+            "value": "J'espère qu'on y trouvera de bons indices !"
+        },
+        {
+            "key": "084",
+            "value": "Tout à fait. Nous avons intérêt à mener cette mission efficacement."
+        },
+        {
+            "key": "085",
+            "value": "J'ai demandé à tout le monde, mais personne ne semble avoir d'information sur le cristal fondamental."
+        },
+        {
+            "key": "086",
+            "value": "Dites, Maître. C'est moi ou quelque chose cloche avec ces gens ? Ils ont tous l'air tellement… livide."
+        },
+        {
+            "key": "087",
+            "value": "En effet. Je me suis fait la même réflexion et j'ai mené ma petite enquête sur l'état de ce royaume."
+        },
+        {
+            "key": "088",
+            "value": "Il semble qu'il y ait des tensions entre Wezett et son puissant voisin occidental, Hourne."
+        },
+        {
+            "key": "089",
+            "value": "La précarité de la situation enfonce le peuple dans la pauvreté et la famine, sans perspective d'en sortir."
+        },
+        {
+            "key": "090",
+            "value": "C'est le dénuement qui les a mis dans cet état…"
+        },
+        {
+            "key": "091",
+            "value": "Pourtant j'ai l'impression que certains sont mieux nourris que d'autres."
+        },
+        {
+            "key": "092",
+            "value": "Les nobles, sûrement. Ils sollicitent les faveurs du roi pour vivre dans le luxe sous sa protection."
+        },
+        {
+            "key": "093",
+            "value": "Mais c'est injuste, non ? Comment un roi peut-il en choyer quelques-uns au détriment des autres ?"
+        },
+        {
+            "key": "094",
+            "value": "Un royaume de cette taille doit bien réussir à produire assez pour tout le monde."
+        },
+        {
+            "key": "095",
+            "value": "Qui sait ? En tout cas, ça ne nous regarde pas, et nous n'avons certainement pas intérêt à nous en mêler."
+        },
+        {
+            "key": "096",
+            "value": "Mais ça ne vous touche pas du tout ?"
+        },
+        {
+            "key": "097",
+            "value": "Ce qui me touche, apprenti, c'est la réussite de notre mission. Nous sommes là pour retrouver le cristal fondamental. L'aurais-tu oublié ?"
+        },
+        {
+            "key": "098",
+            "value": "Si les gens d'ici n'ont même pas la volonté de s'aider eux-mêmes, quel secours pourrions-nous leur apporter ?"
+        },
+        {
+            "key": "099",
+            "value": "C'est à eux de trouver remède à leurs maux, pourtant regarde-les à rester là les bras ballants et à bâiller aux corneilles."
+        },
+        {
+            "key": "100",
+            "value": "Ils font pitié à voir. Voilà ce qu'on récolte quand on abandonne la logique, je parie qu'ils ne s'en rendent même pas compte."
+        },
+        {
+            "key": "101",
+            "value": "Pardon de te le dire, Lucio, mais je n'arrive à éprouver aucune sympathie, ni même de compassion, pour ceux qui ne savent pas s'occuper d'eux-mêmes."
+        },
+        {
+            "key": "102",
+            "value": "Pour changer le cours de sa vie, il faut d'abord réfléchir, puis se remonter sérieusement les manches."
+        },
+        {
+            "key": "103",
+            "value": "Chaque pensée pour ceux qui ne commencent même pas ce processus est une pensée de perdue."
+        },
+        {
+            "key": "104",
+            "value": "P-Peut-être mais enfin…"
+        },
+        {
+            "key": "105",
+            "value": "Vous feriez mieux de ne pas juger ces gens trop durement."
+        },
+        {
+            "key": "106",
+            "value": "Oh ? Qui êtes-vous ?"
+        },
+        {
+            "key": "107",
+            "value": "Je m'appelle Graziella. Je suis l'héritière du trône de ce royaume, pour le moment en tout cas."
+        },
+        {
+            "key": "108",
+            "value": "Et moi je suis Cadia, la sœur et le garde du corps personnel de Dame Graziella."
+        },
+        {
+            "key": "109",
+            "value": "L'héritière du trône ? C'est un grand honneur."
+        },
+        {
+            "key": "110",
+            "value": "Mais dites-moi, tous les membres de la famille royale se promènent-ils hors du château pour accoster de parfaits inconnus ?"
+        },
+        {
+            "key": "111",
+            "value": "Je descends en ville m'enquérir de l'état du royaume. Voir comment vit le peuple, à travers leurs yeux."
+        },
+        {
+            "key": "112",
+            "value": "Je n'ai pas pu m'empêcher d'entendre votre conversation. Elle a piqué mon intérêt."
+        },
+        {
+            "key": "113",
+            "value": "On n'avait pas l'intention de déclencher une révolution, si c'est ça qui vous inquiète."
+        },
+        {
+            "key": "114",
+            "value": "Loin de là. Car nous sommes d'accord avec vous, jeune homme, et non avec votre ami distingué. Cette misère doit cesser."
+        },
+        {
+            "key": "115",
+            "value": "Nul ne s'inquiète davantage des souffrances du peuple que ma sœur."
+        },
+        {
+            "key": "116",
+            "value": "Tout le monde sait que Wezett est une terre en prise au désespoir que l'optimisme à déserté."
+        },
+        {
+            "key": "117",
+            "value": "Pourtant vous voilà, visiblement surpris des souffrances de mon peuple. Ma curiosité est toute naturelle."
+        },
+        {
+            "key": "118",
+            "value": "Nous avons eu tort de parler si fort. Lucio, à l'avenir, si tu as une remarque à faire, fais-la en silence."
+        },
+        {
+            "key": "119",
+            "value": "Mais c'est vous qui vous êtes énervé tout seul !"
+        },
+        {
+            "key": "120",
+            "value": "Ah ah, vous faites une paire intéressante. Mais vous n'êtes pas d'ici, ça se voit. Voyagez-vous depuis longtemps ?"
+        },
+        {
+            "key": "121",
+            "value": "Euh… Oui, on peut dire ça, quoique... Enfin c'est compliqué."
+        },
+        {
+            "key": "122",
+            "value": "Disons simplement que nous voyageons, en effet, à la recherche d'un cristal fondamental."
+        },
+        {
+            "key": "123",
+            "value": "Un cristal à nul autre pareil, d'une couleur et d'une forme inattendue. Impossible de le confondre. Vous n'auriez pas, à tout hasard, entendu parler d'un tel artefact ?"
+        },
+        {
+            "key": "124",
+            "value": "Un cristal fondamental, vous dites ? Je suis navrée, je ne crois pas pouvoir vous aider."
+        },
+        {
+            "key": "125",
+            "value": "Mais si je puis me permettre, il a bien la forme d'un cristal, n'est-ce pas ?"
+        },
+        {
+            "key": "126",
+            "value": "Oh, tu penses à ce que je pense ?"
+        },
+        {
+            "key": "127",
+            "value": "Oui. Je pense que Minnwu est susceptible de savoir quelque chose."
+        },
+        {
+            "key": "128",
+            "value": "Minnwu, qui est-ce ?"
+        },
+        {
+            "key": "129",
+            "value": "Une amie qui en sait beaucoup à propos des cristaux, de la magie et ce genre de choses. Elle nous attend au quartier général."
+        },
+        {
+            "key": "130",
+            "value": "C'est peut-être le destin qui nous a fait nous rencontrer ici. Voulez-vous que nous vous menions à elle ?"
+        },
+        {
+            "key": "131",
+            "value": "Qu'en dites-vous, Seigneur ?"
+        },
+        {
+            "key": "132",
+            "value": "Je dis « bien sûr », sans l'ombre d'un doute."
+        },
+        {
+            "key": "133",
+            "value": "Alors c'est décidé. Suivez-nous, nous allons vous conduire aux quartiers de « Spirare », ma brigade personnelle."
+        },
+        {
+            "key": "134",
+            "value": "C'est nous ! Minnwu est-elle là ?"
+        },
+        {
+            "key": "135",
+            "value": "Dame Graziella, vous m'avez appelée ?"
+        },
+        {
+            "key": "136",
+            "value": "Je voudrais te présenter deux personnes. Ces messieurs sont à la recherche d'un artefact qu'on appelle le cristal fondamental."
+        },
+        {
+            "key": "137",
+            "value": "Enchanté, moi c'est Lucio."
+        },
+        {
+            "key": "138",
+            "value": "Ranan, pour vous servir."
+        },
+        {
+            "key": "139",
+            "value": "Ravie de vous rencontrer. Je suis Minnwu, au service de Dame Graziella."
+        },
+        {
+            "key": "140",
+            "value": "Nous nous demandions si par hasard vous aviez eu vent de la présence d'un cristal rare et peu commun."
+        },
+        {
+            "key": "141",
+            "value": "Un cristal rare ? Tiens, c'est drôle que vous en parliez parce que…"
+        },
+        {
+            "key": "142",
+            "value": "Quoi ? Tu sais quelque chose ?"
+        },
+        {
+            "key": "143",
+            "value": "Oui, je viens d'en entendre parler. De la bouche d'un ami au château."
+        },
+        {
+            "key": "144",
+            "value": "Un cristal étrange vient justement d'être découvert, paraît-il."
+        },
+        {
+            "key": "145",
+            "value": "J'ignore si c'est celui que vous cherchez, mais il serait intéressant de vérifier."
+        },
+        {
+            "key": "146",
+            "value": "C'est notre piste la plus crédible pour l'instant. Je ne m'attendais pas à ce que nous retrouvions sa trace si vite."
+        },
+        {
+            "key": "147",
+            "value": "Et si c'est bien le cristal que vous cherchez, y a-t-il quoi que ce soit à craindre de lui ?"
+        },
+        {
+            "key": "148",
+            "value": "Non. Pas s'il sert sa vocation première."
+        },
+        {
+            "key": "149",
+            "value": "Mais il pourrait poser problème s'il tombe entre de mauvaises mains avides."
+        },
+        {
+            "key": "150",
+            "value": "J'ai cru comprendre que ce royaume penche dangereusement vers la guerre avec la puissante Hourne."
+        },
+        {
+            "key": "151",
+            "value": "C'est une situation qui pourrait tenter certains chefs militaires de tout risquer dans l'espoir de triompher."
+        },
+        {
+            "key": "152",
+            "value": "Le cristal renferme assez de magie pour inverser n'importe quel rapport de force."
+        },
+        {
+            "key": "153",
+            "value": "En plus, nous venons de découvrir que les monstres deviennent particulièrement féroces à son contact."
+        },
+        {
+            "key": "154",
+            "value": "Ce qui signifie que sa simple présence par ici est dangereuse en elle-même."
+        },
+        {
+            "key": "155",
+            "value": "Si c'est vrai… Je crains d'avoir une mauvaise nouvelle."
+        },
+        {
+            "key": "156",
+            "value": "Ah ?"
+        },
+        {
+            "key": "157",
+            "value": "J'ai entendu dire que le gouvernement voulait l'étudier en détails."
+        },
+        {
+            "key": "158",
+            "value": "Il va être déplacé jusqu'au laboratoire de recherche ésotérique."
+        },
+        {
+            "key": "159",
+            "value": "Tss. Évidemment."
+        },
+        {
+            "key": "160",
+            "value": "Vous venez de nous expliquer que le cristal fondamental pourrait fournir à Wezett une puissance encore inégalée."
+        },
+        {
+            "key": "161",
+            "value": "Mais elle pourrait aussi être mise au service de desseins plus nobles. Tout l'espoir que le cristal pourrait rendre aux gens…"
+        },
+        {
+            "key": "162",
+            "value": "N'est-ce pas notre rêve ? Même si je doute qu'on nous permette de le réaliser."
+        },
+        {
+            "key": "163",
+            "value": "L'aristocratie a trop à perdre. L'existence du bas peuple n'est tolérée que parce qu'ils peuvent être exploités."
+        },
+        {
+            "key": "164",
+            "value": "…"
+        },
+        {
+            "key": "165",
+            "value": "Lucio, à quoi penses-tu ?"
+        },
+        {
+            "key": "166",
+            "value": "Puis-je vous dire un mot en privé, Maître ?"
+        },
+        {
+            "key": "167",
+            "value": "Excusez-moi, je ne voulais pas le dire devant les autres."
+        },
+        {
+            "key": "168",
+            "value": "Je t'écoute."
+        },
+        {
+            "key": "169",
+            "value": "Si nous laissions le cristal fondamental à ces femmes, elles s'en serviraient pour améliorer le sort de tous dans ce royaume."
+        },
+        {
+            "key": "170",
+            "value": "Ce qui n'arrivera jamais si nous les privons de sa puissance."
+        },
+        {
+            "key": "171",
+            "value": "J'ai la désagréable impression de les dépouiller de leur seule chance de sauver ce pays."
+        },
+        {
+            "key": "172",
+            "value": "Je ne suis plus aussi sûr d'être du bon côté de l'histoire."
+        },
+        {
+            "key": "173",
+            "value": "Tu serais donc prêt, au prétexte d'aider ces étrangers, à renier tes vœux ? Ont-ils si peu de sens à tes yeux ?"
+        },
+        {
+            "key": "174",
+            "value": "Ce n'est pas ce que je voulais dire…"
+        },
+        {
+            "key": "175",
+            "value": "Laisse-moi te donner un conseil. La volonté d'un Guerrier des cristaux ne doit jamais faillir. Ce serait émousser volontairement à la fois ton esprit et ta lame."
+        },
+        {
+            "key": "176",
+            "value": "Le doute naît de la faiblesse de ta détermination. Laisse le mal grandir, et tu perdras tout ton courage."
+        },
+        {
+            "key": "177",
+            "value": "Mais justement, ma détermination…"
+        },
+        {
+            "key": "178",
+            "value": "Si jamais tu sens que tu t'écartes du droit chemin, souviens-toi de ta mission ! Concentre-toi sur ton devoir !"
+        },
+        {
+            "key": "179",
+            "value": "Accepte de souffrir, mais jamais de perdre ta détermination. N'agit qu'avec ta logique, car elle seule t'apportera l'espoir."
+        },
+        {
+            "key": "180",
+            "value": "J'entends ce que vous dites, Maître."
+        },
+        {
+            "key": "181",
+            "value": "Quoi qu'il en soit, c'est à ce royaume de s'occuper de ses propres problèmes."
+        },
+        {
+            "key": "182",
+            "value": "Nous ne sommes que de passage, et nous ne devons pas nous en mêler."
+        },
+        {
+            "key": "183",
+            "value": "Occupe-toi donc de tes affaires avant de mettre ton nez dans celles des autres."
+        },
+        {
+            "key": "184",
+            "value": "O-Oui, pardon, évidemment. Je m'excuse. Je n'en reviens pas d'avoir oublié mon devoir si facilement !"
+        },
+        {
+            "key": "185",
+            "value": "Ramener les cristaux fondamentaux et rétablir l'équilibre de l'univers. Telle est ma mission !"
+        },
+        {
+            "key": "186",
+            "value": "Tout à fait, Lucio. Tu apprends vite."
+        },
+        {
+            "key": "187",
+            "value": "Peut-on connaître la teneur de ces messes basses ?"
+        },
+        {
+            "key": "188",
+            "value": "Veuillez nous pardonner, Madame. Le sujet était privé et sans importance."
+        },
+        {
+            "key": "189",
+            "value": "À présent, Minnwu. Auriez-vous l'amabilité de nous indiquer le chemin du laboratoire de recherche ésotérique ?"
+        },
+        {
+            "key": "190",
+            "value": "Il se trouve derrière la plaine enneigée. Ce n'est pas la porte à côté, mais faisable à pied."
+        },
+        {
+            "key": "191",
+            "value": "Vous avez toute notre gratitude. Si nous ne perdons pas de temps, nous avons une chance de rattraper le cristal avant qu'il n'arrive à destination."
+        },
+        {
+            "key": "192",
+            "value": "Oui ! Merci pour tout ! Vous nous avez été d'un grand secours et… Euh, Maître ? Maître, attendez-moi !"
+        },
+        {
+            "key": "193",
+            "value": "Et les voilà partis."
+        },
+        {
+            "key": "194",
+            "value": "Qui étaient-ils, déjà ?"
+        },
+        {
+            "key": "195",
+            "value": "Je l'ignore. Mais leurs intentions m'ont paru légitimes."
+        },
+        {
+            "key": "196",
+            "value": "Enfin. Je vais y aller aussi."
+        },
+        {
+            "key": "197",
+            "value": "Y aller ? Où ça ?"
+        },
+        {
+            "key": "198",
+            "value": "Ne t'inquiète pas, ma sœur. C'est simplement Khory qui veut me voir."
+        },
+        {
+            "key": "199",
+            "value": "Sois prudente, je t'en prie. Cet homme est une brute au cœur gelé."
+        },
+        {
+            "key": "200",
+            "value": "Oh crois-moi, je ne le sais que trop bien."
+        }
+    ]
+}

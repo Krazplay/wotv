@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "AUTOLAP_TITLE",
+            "value": "Über Auto-Wiederholung"
+        },
+        {
+            "key": "AUTOLAP_DESC",
+            "value": "Diese Funktion wird nach Abschluss des Auftrags freigeschaltet."
+        },
+        {
+            "key": "ARTSELL_TITLE",
+            "value": "Verkaufen nicht möglich"
+        },
+        {
+            "key": "ARTSELL_FAVORITE_DESC",
+            "value": "Derzeit als Favorit festgelegt."
+        },
+        {
+            "key": "ARTSELL_EQUIP_DESC ",
+            "value": "Derzeit von einer Einheit ausgerüstet."
+        },
+        {
+            "key": "ARTSELL_NOT_DESC",
+            "value": "Verkaufen dieses Ausrüstungsgegenstandes nicht möglich."
+        }
+    ]
+}

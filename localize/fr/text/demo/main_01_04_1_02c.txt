@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Que s'est-il passé ?"
+        },
+        {
+            "key": "002",
+            "value": "Nous avons aperçu des soldats de Fennes."
+        },
+        {
+            "key": "003",
+            "value": "C'est impossible..."
+        },
+        {
+            "key": "004",
+            "value": "C'est la vérité. Ils se dirigent vers nous."
+        },
+        {
+            "key": "005",
+            "value": "Nous n'avons pas le temps de nous reposer. Nous devons y aller."
+        },
+        {
+            "key": "006",
+            "value": "Il n'y a rien que nous puissions faire. Partons."
+        },
+        {
+            "key": "007",
+            "value": "..."
+        },
+        {
+            "key": "008",
+            "value": "Prince Mont... Pourquoi n'avez-vous pas dit à votre père que ces soldats étaient au courant à propos de la grotte ?"
+        },
+        {
+            "key": "009",
+            "value": "Je ne voulais pas alerter Minnwu."
+        },
+        {
+            "key": "010",
+            "value": "Vous avez donc des doutes à son sujet ?"
+        },
+        {
+            "key": "011",
+            "value": "Schuzelt m'a parlé de quelque chose de troublant."
+        },
+        {
+            "key": "012",
+            "value": "Il m'a dit qu'il avait l'impression d'avoir déjà croisé Minnwu par le passé."
+        },
+        {
+            "key": "013",
+            "value": "Il pourrait l'avoir rencontrée pendant un de ses voyages, rien d'anormal, non ?"
+        },
+        {
+            "key": "014",
+            "value": "C'est vrai, mais..."
+        },
+        {
+            "key": "015",
+            "value": "Quelque chose ne tourne pas rond..."
+        },
+        {
+            "key": "016",
+            "value": "..."
+        },
+        {
+            "key": "017",
+            "value": "Je comprends. Je vais la surveiller de près..."
+        }
+    ]
+}

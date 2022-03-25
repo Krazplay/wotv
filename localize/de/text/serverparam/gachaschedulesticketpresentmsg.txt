@@ -1,0 +1,1224 @@
+﻿{
+    "infos": [
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_20200506",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_20200520",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200520",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_20200603",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_20200603",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200603",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_20200603",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_20200603",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_20200603",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_20200603",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_20200603",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200610",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200617",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200701",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200701",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200701",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200701",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200701",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200701",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200701",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200701",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_N_TW_10_gl20200701",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200715",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200722",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200805",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200805",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200805",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200805",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200805",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200805",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200805",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200805",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_02_gl20200805",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200812",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200819",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200902",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200902",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200902",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200902",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200902",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200902",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200902",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200909",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_03_gl20200909",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200916",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200923",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200930",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201007",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201007",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201007",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201007",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201007",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201007",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201007",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201007",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201014",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201028",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201104",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201104",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201104",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201104",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201104",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201104",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201104",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201104",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201111",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201216",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201223",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201230",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210106",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210106",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210106",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210106",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210106",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210106",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210106",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210106",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_FF14_01_R_20200701",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210113",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210120",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_BEGINNER_01_gl20210120",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210127",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210203",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210203",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210203",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210203",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210203",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210203",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210203",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210203",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_CNY21_01_gl20210210",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210210",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_01_gl20210303",
+            "value": "[Tag 1] „Countdown zum 1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_02_gl20210303",
+            "value": "[Tag 2] „Countdown zum 1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_03_gl20210303",
+            "value": "[Tag 3] „Countdown zum 1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_04_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_05_gl20210303",
+            "value": "[Tag 5] „Countdown zum 1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_06_gl20210303",
+            "value": "[Tag 6] „Countdown zum 1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_07_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_AF_N_10_gl20210303",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210317",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210324",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210324",
+            "value": "„1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210324",
+            "value": "[2-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210324",
+            "value": "[3-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210324",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210324",
+            "value": "[7-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210324",
+            "value": "[8-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210324",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_10_UR_01_gl20210324",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210331",
+            "value": "„1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210331",
+            "value": "[2-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210331",
+            "value": "[3-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210331",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210331",
+            "value": "[7-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210331",
+            "value": "[8-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210331",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210407",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210407",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210407",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210407",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210407",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210407",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210407",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210407",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210407",
+            "value": "„1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210407",
+            "value": "[2-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210407",
+            "value": "[3-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210407",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210407",
+            "value": "[7-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210407",
+            "value": "[8-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210407",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210414",
+            "value": "„1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210414",
+            "value": "[2-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210414",
+            "value": "[3-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210414",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210414",
+            "value": "[7-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210414",
+            "value": "[8-malig] „1. Jubiläum“-Beschwörungsticket – Bonus"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210414",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210414",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_PI_UR_U_02_GL202104121",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210505",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210505",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210505",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210505",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210505",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210505",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210505",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210505",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210512",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210519",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210526",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210602",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210602",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210602",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210602",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210602",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210602",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210602",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210602",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210609",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210616",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210623",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210630",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210707",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210707",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210707",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210707",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210707",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210707",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210707",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210707",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210714",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210721",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210728",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210804",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210804",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210804",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210804",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210804",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210804",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210804",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210804",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210811",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210818",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210825",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_AF_FTW_gl20210825",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_AF_ARM_gl20210825",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_AF_ROD_gl20210825",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210825",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_99UR_01_20210825",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210901",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210901",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210901",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210901",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210901",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210901",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210901",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210901",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210901",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210908",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_04_gl20210908",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_02_gl20210908",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210915",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_99UR_GL_02_20210929",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210929",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211006",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211006",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211006",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211006",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211006",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211006",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211006",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211006",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211006",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211006",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211013",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211020",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211027",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211103",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211103",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211103",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211103",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211103",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211103",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211103",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211103",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211103",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211103",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211117",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_AF_SUP_01_20210714",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_AF_AW_01_20210714",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_JB_01_20210714",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_JB_02_20210714",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_JB_EM_01_20210714",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_JB_EM_02_20210714",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_SB_EXP_01_20210714",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211124",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211201",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211201",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211201",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211201",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211201",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211201",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211201",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211201",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211201",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211201",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220112",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220126",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_CNY22_01_gl20220202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220202",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220209",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220302",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220302",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220302",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220302",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220302",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220302",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220302",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220302",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220302",
+            "value": ""
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220302",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_FF14_01_R2_gl20220316",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_2ndANV_01_gl20220316",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_FFVI_01_gl20220323",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_99_01_gl20220323",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_99_02_gl20220323",
+            "value": ""
+        }
+    ]
+}

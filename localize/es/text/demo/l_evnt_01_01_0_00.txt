@@ -1,0 +1,252 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "El Etéreo, un enlace interdimensional entre varios mundos."
+        },
+        {
+            "key": "002",
+            "value": "Llum, gracias por responder a mi repentina llamada."
+        },
+        {
+            "key": "003",
+            "value": "La desaparición de los cristales núcleo es un asunto de extrema urgencia. Qué menos que convocarme."
+        },
+        {
+            "key": "004",
+            "value": "Tan perspicaz como siempre, Llum."
+        },
+        {
+            "key": "005",
+            "value": "Es tal y como has dicho."
+        },
+        {
+            "key": "006",
+            "value": "Los cristales núcleo empezaron a desvanecerse hace unos días."
+        },
+        {
+            "key": "007",
+            "value": "O quizá debería decir... que se han perdido en la oscuridad."
+        },
+        {
+            "key": "008",
+            "value": "¿Qué quieres decir?"
+        },
+        {
+            "key": "009",
+            "value": "Alguien procedente de un futuro lejano ha aparecido en el continente de Ardra y su llegada ha afectado también a esta dimensión."
+        },
+        {
+            "key": "010",
+            "value": "Como consecuencia, el poder de los cristales núcleo ha disminuido y han dejado de estar en el lugar que les corresponde."
+        },
+        {
+            "key": "011",
+            "value": "Los cristales núcleo perdidos se han desperdigado por tierras lejanas."
+        },
+        {
+            "key": "012",
+            "value": "Quiero confiarte a ti la misión de recuperarlos."
+        },
+        {
+            "key": "013",
+            "value": "Protege los cristales núcleo. Tal es tu deber como Guerrera de los Cristales."
+        },
+        {
+            "key": "014",
+            "value": "Los cristales núcleo son la base sobre la que descansan la creación y la continua existencia del universo..."
+        },
+        {
+            "key": "015",
+            "value": "No sé por dónde empezar a teorizar sobre lo que podría ocurrir si dejaran de existir."
+        },
+        {
+            "key": "016",
+            "value": "Como Guerrera de los Cristales, juro que cumpliré la misión."
+        },
+        {
+            "key": "017",
+            "value": "Te lo agradezco. Pero no olvides que el deber primordial de todo Guerrero es defender este reino."
+        },
+        {
+            "key": "018",
+            "value": "No tendría sentido que todos abandonaran su puesto. Es por eso que..."
+        },
+        {
+            "key": "019",
+            "value": "¿Sí?"
+        },
+        {
+            "key": "020",
+            "value": "Quiero que seas tú, Llum, la que recupere el primer cristal núcleo."
+        },
+        {
+            "key": "021",
+            "value": "Entendido. Partiré de inmediato."
+        },
+        {
+            "key": "022",
+            "value": "Este chico te acompañará."
+        },
+        {
+            "key": "023",
+            "value": "E-es un honor conocerte."
+        },
+        {
+            "key": "024",
+            "value": "¿Quién es?"
+        },
+        {
+            "key": "025",
+            "value": "Se llama Lucius."
+        },
+        {
+            "key": "026",
+            "value": "Es un joven Guerrero de los Cristales. Piensa en él como una especie de aprendiz."
+        },
+        {
+            "key": "027",
+            "value": "Id al continente de Ardra y recuperad el cristal. Esa es vuestra misión."
+        },
+        {
+            "key": "028",
+            "value": "No parece que vayas a ser de mucha ayuda... Te lo advierto: si veo que no eres más que un estorbo, te dejaré atrás."
+        },
+        {
+            "key": "029",
+            "value": "No hay lugar para debiluchos entre los Guerreros de los Cristales. ¿Está claro?"
+        },
+        {
+            "key": "030",
+            "value": "Ha-haré lo que pueda."
+        },
+        {
+            "key": "031",
+            "value": "Estoy segura de que lo conseguiréis."
+        },
+        {
+            "key": "032",
+            "value": "Y ahora, marchaos. Necesitamos el poder de los cristales para conservar la armonía."
+        },
+        {
+            "key": "033",
+            "value": "Este debe de ser el continente de Ardra... Pero no hay nada."
+        },
+        {
+            "key": "034",
+            "value": "Supongo que hemos ido a parar a una zona desierta."
+        },
+        {
+            "key": "035",
+            "value": "En cualquier caso..., todavía no entiendo por qué la Voluntad de la Luz me ha emparejado contigo."
+        },
+        {
+            "key": "036",
+            "value": "¿Acaso no me cree capaz de cumplir sola esta misión?"
+        },
+        {
+            "key": "037",
+            "value": "La Voluntad de la Luz ha dicho que quería que ganara experiencia."
+        },
+        {
+            "key": "038",
+            "value": "Aún estoy muy verde..., pero eso no quita que sea un Guerrero de los Cristales."
+        },
+        {
+            "key": "039",
+            "value": "Bueno, es cierto que había una vacante en nuestras filas."
+        },
+        {
+            "key": "040",
+            "value": "Y es normal que uno tenga que entrenar para ocuparla."
+        },
+        {
+            "key": "041",
+            "value": "No obstante, lo de que te dejaría atrás si suponías un estorbo iba muy en serio. No lo olvides."
+        },
+        {
+            "key": "042",
+            "value": "No puedo bajar mi nivel de exigencia solo porque seas mi aprendiz. "
+        },
+        {
+            "key": "043",
+            "value": "¡Cla-claro, lo entiendo! ¡Me esforzaré al máximo!"
+        },
+        {
+            "key": "044",
+            "value": "No perdamos tiempo, entonces. Intenta captar la ubicación del cristal núcleo."
+        },
+        {
+            "key": "045",
+            "value": "¿La ubicación del cristal núcleo?"
+        },
+        {
+            "key": "046",
+            "value": "Los Guerreros de los Cristales podemos percibir el paradero aproximado de los cristales núcleo."
+        },
+        {
+            "key": "047",
+            "value": "Así que adelante, inténtalo. Si eres un Guerrero no debería suponerte un problema, ¿no?"
+        },
+        {
+            "key": "048",
+            "value": "Es-está bien. Mmm..."
+        },
+        {
+            "key": "049",
+            "value": "No siento nada..."
+        },
+        {
+            "key": "050",
+            "value": "¿De verdad eres un Guerrero de los Cristales?"
+        },
+        {
+            "key": "051",
+            "value": "Uh..."
+        },
+        {
+            "key": "052",
+            "value": "Ya es suficiente. Déjame a mí."
+        },
+        {
+            "key": "053",
+            "value": "Por allí. Está un poco lejos."
+        },
+        {
+            "key": "054",
+            "value": "Démonos prisa. No podemos permitir que el cristal permanezca mucho tiempo al descubierto en..."
+        },
+        {
+            "key": "055",
+            "value": "¡...!"
+        },
+        {
+            "key": "056",
+            "value": "Qu... ¿Qué pasa?"
+        },
+        {
+            "key": "057",
+            "value": "Prepárate para luchar."
+        },
+        {
+            "key": "058",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "059",
+            "value": "Están a punto de darnos una cálida bienvenida."
+        },
+        {
+            "key": "060",
+            "value": "Estamos cerca de un asentamiento y, pese a todo, no hay ni rastro de presencia humana. Seguramente estamos en una zona infestada de monstruos."
+        },
+        {
+            "key": "061",
+            "value": "Ha-hay muchos. ¿Qué hacemos?"
+        },
+        {
+            "key": "062",
+            "value": "Los Guerreros de los Cristales no huimos; nos limitamos a quitar de en medio lo que estorba. "
+        }
+    ]
+}

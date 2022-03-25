@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "이번에는<br><color=#0000ff>ELEMENT CHAIN</color>에 대해<br>알려드릴게요."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "같은 공격 유형으로 <color=#0000ff>연속 공격</color>하면<br><color=#0000ff>CHAIN</color>이 발생한다고 말씀드렸는데,<br>그것의 <color=#0000ff>속성 버전</color>이라고 생각하세요."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "<color=#0000ff>같은 속성 어빌리티</color>로 <color=#0000ff>연속 공격</color>하면<br>ELEMENT CHAIN이 발생하고,<br>적에게 <color=#0000ff>주는 피해량이 증가</color>해요."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "이번에 출격한 아군은 모두<br><color=#0000ff>땅속성</color>이에요.<br><color=#0000ff>땅속성 어빌리티</color>로 적을 공격해보세요."
+        },
+        {
+            "key": "006",
+            "value": "<color=#0000ff>적의 행동 순서</color>가 되거나,<br><color=#0000ff>다른 속성으로 공격</color>하면<br>ELEMENT CHAIN이 <color=#0000ff>중단</color>돼요."
+        },
+        {
+            "key": "007",
+            "value": "또한, <color=#0000ff>일반 공격</color>은 <color=#0000ff>무속성</color>이라<br>ELEMENT CHAIN이<br><color=#0000ff>발생하지 않아요</color>. 주의하세요."
+        },
+        {
+            "key": "009",
+            "value": "훌륭해요!<br>적을 격파하셨네요."
+        },
+        {
+            "key": "010",
+            "value": "또한, ELEMENT CHAIN과<br>일반 CHAIN은 효과가 <color=#0000ff>중첩</color>됩니다."
+        },
+        {
+            "key": "011",
+            "value": "그러므로 <color=#0000ff>속성과 공격 타입이 같은</color><br>몬트 님과 베일로는<br><color=#0000ff>두 CHAIN</color>이 모두 발생할 거예요."
+        },
+        {
+            "key": "012",
+            "value": "적의 저항력을 잘 보고, 노리기 쉬운<br>CHAIN으로 공격할 수 있다면<br>곧 전투의 전문가가 되실 거예요."
+        }
+    ]
+}

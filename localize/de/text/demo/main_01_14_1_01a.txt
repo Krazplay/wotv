@@ -1,0 +1,184 @@
+﻿{
+    "infos": [
+        {
+            "key": "140043",
+            "value": "Die vereinten Truppen Hournes und Leonis‘ werden hiermit in Fennes einmarschieren."
+        },
+        {
+            "key": "140044",
+            "value": "Eigentlich wünschte ich, nun selbst an der Seite „Solidus‘“ in Wezette einfallen und Schuzelt befreien zu können ..."
+        },
+        {
+            "key": "140045",
+            "value": "Doch selbst jetzt, wo Muraga nicht mehr ist, lässt Fennes nicht von seiner Kriegstreiberei ab."
+        },
+        {
+            "key": "140046",
+            "value": "Deswegen sollten wir zuerst die Gefahr durch Fennes ein für alle Mal bannen, bevor wir die endgültige Konfrontation mit Wezette suchen."
+        },
+        {
+            "key": "140047",
+            "value": "Und natürlich geht es hier nicht nur um Schuzelt – auch Viktora, Luartha und „Rubeus“ brauchen unsere Hilfe."
+        },
+        {
+            "key": "140048",
+            "value": "So können wir den Osten Ardras vereinigen und dem Angriff Rundalls vom Westen gewappnet entgegentreten!"
+        },
+        {
+            "key": "140049",
+            "value": "Aufbruch! Wir rücken aus!"
+        },
+        {
+            "key": "140050",
+            "value": "Jawohl!"
+        },
+        {
+            "key": "140051",
+            "value": "Nun, dann werde ich mich auf den Weg zu Schloss Bordisse im Süden Wezettes machen."
+        },
+        {
+            "key": "140052",
+            "value": "Margery ... Schaffst du das wirklich alleine?"
+        },
+        {
+            "key": "140053",
+            "value": "Es besteht kein Grund zur Sorge – es ist schließlich nicht so, als würde ich einen Anschlag auf feindliches Territorium planen."
+        },
+        {
+            "key": "140054",
+            "value": "Ich werde Schloss Bordisse und die sich dort verschanzende Glaziela aufsuchen, und gemeinsam werden wir uns nach Wezette begeben."
+        },
+        {
+            "key": "140055",
+            "value": "Was daran sollte gefährlich sein?"
+        },
+        {
+            "key": "140056",
+            "value": "Lass mich dir zumindest eine Eskorte mitschicken."
+        },
+        {
+            "key": "140057",
+            "value": "... Gut. Wie wäre es mit Kiton?"
+        },
+        {
+            "key": "140058",
+            "value": "Ja, sie ist wohl am besten dafür geeignet."
+        },
+        {
+            "key": "140059",
+            "value": "Kiton."
+        },
+        {
+            "key": "140060",
+            "value": "... Hier, Majestät."
+        },
+        {
+            "key": "140061",
+            "value": "Bitte begleite Margery für mich nach Schloss Bordisse."
+        },
+        {
+            "key": "140062",
+            "value": "... Du verstehst, nicht wahr?"
+        },
+        {
+            "key": "140063",
+            "value": "Ich verlasse mich auf dich, Kiton."
+        },
+        {
+            "key": "140064",
+            "value": "......"
+        },
+        {
+            "key": "140065",
+            "value": "Eigentlich sollte ich derjenige sein, der zu Glaziela reist und sie auf unsere Seite holt ..."
+        },
+        {
+            "key": "140066",
+            "value": "Nein. Diese Gelegenheit kommt gerade richtig."
+        },
+        {
+            "key": "140067",
+            "value": "Ich will mit eigenen Augen sehen, aus welchem Holz die dir Versprochene geschnitzt ist."
+        },
+        {
+            "key": "140068",
+            "value": "M-Margery ..."
+        },
+        {
+            "key": "140069",
+            "value": "... König Mont, seid Ihr Euch dieser Sache sicher?"
+        },
+        {
+            "key": "140070",
+            "value": "Was meinst du?"
+        },
+        {
+            "key": "140071",
+            "value": "Lhamada begibt sich zusammen mit „Fortem“ nach Ovis. Engelbert und „Solidus“ gehen nach Wezette voraus ..."
+        },
+        {
+            "key": "140072",
+            "value": "Die einzige Streitkraft, die Fennes zum Ziel hat, ist „Nitor“ unter der Führung Adelards ..."
+        },
+        {
+            "key": "140073",
+            "value": "Aber wir haben „Caelum“ ... Dich, Lilith."
+        },
+        {
+            "key": "140074",
+            "value": "„Caelum“ kann man kaum mehr als Einheit bezeichnen. Nur Lhamada und ich sind noch übrig."
+        },
+        {
+            "key": "140075",
+            "value": "Auch „Nitor“ wird seine Hauptkräfte hier in Schloss Hourne lassen."
+        },
+        {
+            "key": "140076",
+            "value": "Was meinst du?"
+        },
+        {
+            "key": "140077",
+            "value": "Wir erhielten Berichte, dass bei den Mönchsoldaten etwas im Gange ist. In diesem Fall können wir Schloss Hourne nicht unverteidigt lassen."
+        },
+        {
+            "key": "140078",
+            "value": "......"
+        },
+        {
+            "key": "140079",
+            "value": "Was bedeutet, dass es sich bei der Hauptkraft, die Fennes angreifen wird, um uns drei hier handelt."
+        },
+        {
+            "key": "140080",
+            "value": "......"
+        },
+        {
+            "key": "140081",
+            "value": "Trotzdem bleibt uns nichts anderes übrig, als zu gehen. Die Bedrohung aus dem Westen rückt näher und näher."
+        },
+        {
+            "key": "140082",
+            "value": "Verstanden."
+        },
+        {
+            "key": "140083",
+            "value": "Ich bin Euer Schwert, König Mont. Komme, was wolle."
+        },
+        {
+            "key": "140084",
+            "value": "Aber um ehrlich zu sein ... kann ich, so wie es aussieht, nicht für die Sicherheit anderer bürgen."
+        },
+        {
+            "key": "140085",
+            "value": "Das mag sein, aber wir müssen trotzdem vorwärtsgehen."
+        },
+        {
+            "key": "140086",
+            "value": "Ja, in der Tat."
+        },
+        {
+            "key": "140087",
+            "value": "Die Soldaten warten bereits. Brechen wir auf."
+        }
+    ]
+}

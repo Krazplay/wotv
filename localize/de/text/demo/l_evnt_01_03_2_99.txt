@@ -1,0 +1,276 @@
+﻿{
+    "infos": [
+        {
+            "key": "385",
+            "value": "Es ist vorbei!"
+        },
+        {
+            "key": "386",
+            "value": "Arrgh!"
+        },
+        {
+            "key": "387",
+            "value": "Ranan! Der Kernkristall!"
+        },
+        {
+            "key": "388",
+            "value": "Keine Sorge. Wir haben ihn gesichert."
+        },
+        {
+            "key": "389",
+            "value": "Puh ... Der Plan ist also aufgegangen."
+        },
+        {
+            "key": "390",
+            "value": "Meinst du mit Plan unseren rücksichtslosen Ansturm? Aber gut. Das Überraschungsmoment hat es uns ermöglicht, ihre Linien zu durchbrechen."
+        },
+        {
+            "key": "391",
+            "value": "Glaziela. Hab Dank."
+        },
+        {
+            "key": "392",
+            "value": "Du brauchst uns nicht zu danken. Wir hätten diese Schlacht auch ohne den Kernkristall in unseren Ländereien irgendwann beendet."
+        },
+        {
+            "key": "393",
+            "value": "Warst du nie in Versuchung, den Kernkristall selbst einzusetzen, um Wezette zu helfen?"
+        },
+        {
+            "key": "394",
+            "value": "Er hätte dir im Kampf gegen Khuri gute Dienste geleistet."
+        },
+        {
+            "key": "395",
+            "value": "Nein. Wenn wir Wezette auf den rechten Pfad führen wollen, müssen wir das aus eigener Kraft tun."
+        },
+        {
+            "key": "396",
+            "value": "Und ich bin nicht so naiv zu glauben, dass der Besitz von etwas so Mächtigem keine Konsequenzen für uns hätte."
+        },
+        {
+            "key": "397",
+            "value": "Selbst wenn wir mit dem Kernkristall den Sieg erringen, würden wir bald Gegner anziehen, die den Kristall an sich reißen wollen."
+        },
+        {
+            "key": "398",
+            "value": "Dieses Land wird niemals Frieden haben, solange der Kernkristall hier ist."
+        },
+        {
+            "key": "399",
+            "value": "Mit dir als Königin, ist der Traum vom Frieden vielleicht mehr als nur ein Traum."
+        },
+        {
+            "key": "400",
+            "value": "Es ist ein Traum, den ich am Leben erhalten will."
+        },
+        {
+            "key": "401",
+            "value": "Nennt es meine Mission - auch wenn sie nicht so groß und bedeutend ist, wie das ganze Universum im Gleichgewicht zu halten."
+        },
+        {
+            "key": "402",
+            "value": "Glaziela. Wir versprechen, auch deine Welt zu beschützen."
+        },
+        {
+            "key": "403",
+            "value": "Aber versprich uns, dass du eine bessere Zukunft für dein Volk aufbauen wirst."
+        },
+        {
+            "key": "404",
+            "value": "Dann würde unser Bemühen sich wahrlich lohnen."
+        },
+        {
+            "key": "405",
+            "value": "Ich verspreche es. Wir werden unser Land und die Welt zum Besseren verändern."
+        },
+        {
+            "key": "406",
+            "value": "Aber noch müssen wir uns zurückhalten und unsere Kräfte sammeln ... Das heißt, hier trennen sich unsere Wege."
+        },
+        {
+            "key": "407",
+            "value": "Auch wenn wir ein paar Krieger wie euch in unserer Rebellion gebrauchen könnten."
+        },
+        {
+            "key": "408",
+            "value": "Es tut mir leid, dass wir nicht mehr Hilfe anbieten können, aber wir müssen zuerst unsere eigene Mission erfüllen."
+        },
+        {
+            "key": "409",
+            "value": "Das ist mir bewusst. Das Schicksal hat uns auf unterschiedliche Pfade geführt. Beten wir für unser aller Erfolg!"
+        },
+        {
+            "key": "410",
+            "value": "Ja!"
+        },
+        {
+            "key": "411",
+            "value": "Komm her, wenn du fertig bist, Lucio."
+        },
+        {
+            "key": "412",
+            "value": "Wir müssen diesen Ort verlassen, bevor Wezette merkt, dass etwas nicht stimmt und weitere Truppen schickt."
+        },
+        {
+            "key": "413",
+            "value": "Glaziela. Soldaten von Spirare. Unsere Welt betet dafür, dass ihr in dem bevorstehenden Kampf siegreich sein werdet."
+        },
+        {
+            "key": "414",
+            "value": "Ich danke euch für eure Hilfe!"
+        },
+        {
+            "key": "415",
+            "value": "Ich werde mein Versprechen halten. Wir werden diesem Reich Wohlstand und Frieden bringen!"
+        },
+        {
+            "key": "416",
+            "value": "Du hast gute Arbeit geleistet, Lucio. Es war eine wahrlich schwierige Mission, aber du hast meine Erwartungen übertroffen."
+        },
+        {
+            "key": "417",
+            "value": "V-Vielen Dank!"
+        },
+        {
+            "key": "418",
+            "value": "Sogar ich habe gelernt, dass es manchmal am besten ist, zu handeln, ohne zu viel nachzudenken."
+        },
+        {
+            "key": "419",
+            "value": "Wie es scheint, haben wir alle noch zu lernen und du kannst mir einiges beibringen."
+        },
+        {
+            "key": "420",
+            "value": "Ach was. Ich werde ja ganz rot."
+        },
+        {
+            "key": "421",
+            "value": "Endlich tauchst du auf."
+        },
+        {
+            "key": "422",
+            "value": "Oh nein! Jume!"
+        },
+        {
+            "key": "423",
+            "value": "Willkommen zurück! Es scheint, als hättet ihr beide ein ziemliches Abenteuer erlebt."
+        },
+        {
+            "key": "424",
+            "value": "Aber war es das auch wert, das Training abzublasen? Wir kannst du es wagen, so respektlos zu sein?"
+        },
+        {
+            "key": "425",
+            "value": "Nein, warte! Ich wollte dir ja Bescheid geben, aber Ranan ..."
+        },
+        {
+            "key": "426",
+            "value": "Beruhige dich, Jume. Ich bin sicher, dass ihm die Beleidigung sehr leid tut."
+        },
+        {
+            "key": "427",
+            "value": "Ranan ... du unterstützt mich?"
+        },
+        {
+            "key": "428",
+            "value": "Also, was das Training angeht. Ich habe da eine Schwachstelle bei ihm entdeckt, die es auszumerzen gilt."
+        },
+        {
+            "key": "429",
+            "value": "Er hat die Angewohnheit, nicht auf seine linke Seite zu achten. Er wird es dir sicher danken, wenn du das behebst."
+        },
+        {
+            "key": "430",
+            "value": "Verstanden."
+        },
+        {
+            "key": "431",
+            "value": "R-Ranan ... Und ich dachte, du wärst auf meiner Seite."
+        },
+        {
+            "key": "432",
+            "value": "Du musst stärker werden, um ein wahrer Kristallkrieger zu werden."
+        },
+        {
+            "key": "433",
+            "value": "Bist du fertig? Das Training wartet."
+        },
+        {
+            "key": "434",
+            "value": "A-Aber ..."
+        },
+        {
+            "key": "435",
+            "value": "...?!"
+        },
+        {
+            "key": "436",
+            "value": "Hoä ...?"
+        },
+        {
+            "key": "437",
+            "value": "D-Dieses Licht!"
+        },
+        {
+            "key": "438",
+            "value": "Was ist das?"
+        },
+        {
+            "key": "439",
+            "value": "... Sieh an, sieh an."
+        },
+        {
+            "key": "440",
+            "value": "Ranan. Weißt du etwas darüber?"
+        },
+        {
+            "key": "441",
+            "value": "Ich habe eine Vermutung. Sollte die sich bewahrheiten ..."
+        },
+        {
+            "key": "442",
+            "value": "Ranan. Was ist das?"
+        },
+        {
+            "key": "443",
+            "value": "Ich gebe mich nicht mit müßigen Spekulationen ab. Meine Gedanken behalte ich erst einmal für mich."
+        },
+        {
+            "key": "444",
+            "value": "Aber ..."
+        },
+        {
+            "key": "445",
+            "value": "Keine Sorge. Du hast bei deinem Abenteuer viel gelernt, nicht wahr?"
+        },
+        {
+            "key": "446",
+            "value": "Ein junger Schüler wie du muss viel Erfahrung sammeln. Ich bin sicher, dass dies nur die Krönung des Ganzen ist!"
+        },
+        {
+            "key": "447",
+            "value": "Der Körper leuchtet also, wenn man stärker wird?"
+        },
+        {
+            "key": "448",
+            "value": "Keine Ahnung!"
+        },
+        {
+            "key": "449",
+            "value": "Aber gerade klang es genau so!"
+        },
+        {
+            "key": "450",
+            "value": "Los, ab zum Training, wenn du mit dem Leuchten fertig bist. Du wirst alles Verpasste doppelt nachholen müssen."
+        },
+        {
+            "key": "451",
+            "value": "Das war aber doch nicht meine Schuld! Warte doch, Jume!"
+        },
+        {
+            "key": "452",
+            "value": "Hmm ... ein neuer Kristallkrieger ..."
+        }
+    ]
+}

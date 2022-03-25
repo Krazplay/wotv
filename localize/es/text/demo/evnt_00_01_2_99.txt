@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bienvenido a casa, lord Mont."
+        },
+        {
+            "key": "002",
+            "value": "¿Qué haces con estas?"
+        },
+        {
+            "key": "003",
+            "value": "Ja, ja. Lord Mont os ha tenido que salvar el pellejo en la cueva, ¿eh?"
+        },
+        {
+            "key": "004",
+            "value": "¡¿Pero qué dices?!"
+        },
+        {
+            "key": "005",
+            "value": "Ver para creer…"
+        },
+        {
+            "key": "006",
+            "value": "No, eso no es verdad."
+        },
+        {
+            "key": "007",
+            "value": "Pues lo cierto es que…"
+        },
+        {
+            "key": "008",
+            "value": "¡¿En serio se han encargado ellas de los soldados de Fennes?!"
+        },
+        {
+            "key": "009",
+            "value": "No me lo puedo creer."
+        },
+        {
+            "key": "010",
+            "value": "¡Pues sí!"
+        },
+        {
+            "key": "011",
+            "value": "Hay que abrir paso a las nuevas generaciones. Je, je, je."
+        },
+        {
+            "key": "012",
+            "value": "¡Eso es!"
+        },
+        {
+            "key": "013",
+            "value": "¿Me estáis llamando vieja o qué?"
+        },
+        {
+            "key": "014",
+            "value": "¿A qué viene tanto alboroto?"
+        },
+        {
+            "key": "015",
+            "value": "¡Pero qué guapo es!"
+        },
+        {
+            "key": "016",
+            "value": "E-este hombre…"
+        },
+        {
+            "key": "017",
+            "value": "¡Lord Steeeeern!"
+        },
+        {
+            "key": "018",
+            "value": "Qu-qué aura desprende. Vaya si es fuerte y apuesto, ¡a ver quién dice lo contrario!"
+        },
+        {
+            "key": "019",
+            "value": "Han venido para alistarse en Fortem."
+        },
+        {
+            "key": "020",
+            "value": "…"
+        },
+        {
+            "key": "021",
+            "value": "¿Y tú qué opinas, hermano?"
+        },
+        {
+            "key": "022",
+            "value": "Estas tres aplastaron a las tropas de Fennes en la frontera sin ayuda de nadie."
+        },
+        {
+            "key": "023",
+            "value": "Ha sido pura suerte."
+        },
+        {
+            "key": "024",
+            "value": "Podría ser el caso, pero…"
+        },
+        {
+            "key": "025",
+            "value": "Creo que tienen muchísimo potencial."
+        },
+        {
+            "key": "026",
+            "value": "De acuerdo. Que se alisten."
+        },
+        {
+            "key": "027",
+            "value": "Pero, lord Stern…"
+        },
+        {
+            "key": "028",
+            "value": "¡Vivaaaa!"
+        },
+        {
+            "key": "029",
+            "value": "¡Lo hemos conseguido!"
+        },
+        {
+            "key": "030",
+            "value": "¡Yuuuuju!"
+        },
+        {
+            "key": "031",
+            "value": "Tampoco creo que vayan a durar mucho…"
+        }
+    ]
+}

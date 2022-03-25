@@ -1,0 +1,208 @@
+﻿{
+    "infos": [
+        {
+            "key": "UNIT_LEVELUP",
+            "value": "<space=-5><size=98>L<cspace=-6><size=82>EV</cspace>EL</size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "UNIT_AWAKE",
+            "value": "<cspace=2><size=96>A<space=-14><size=80>W<space=-20>A<space=-6>KENIN<space=-4>G"
+        },
+        {
+            "key": "UNIT_RANKUP",
+            "value": "<cspace=4><size=96>한<space=-6><size=80>계 </size></cspace><space=20><cspace=-3><size=96>돌</size><size=80>파"
+        },
+        {
+            "key": "TRUST_MASTER",
+            "value": "<cspace=-4>T<size=72>RUST</size><space=16>M<size=72><space=-3>ASTER"
+        },
+        {
+            "key": "JOB_LEVELUP",
+            "value": "<cspace=-8><size=98>J<size=82>ob<cspace=-12><size=98>L<size=82>V<cspace=0><space=20><size=98>UP"
+        },
+        {
+            "key": "MASTER_ABILITY",
+            "value": "새로운 힘을 개방<space=10><size=60>!"
+        },
+        {
+            "key": "MASTER_ABILITY_GRADEUP",
+            "value": "힘이 더욱 강화!<space=10><size=60>!"
+        },
+        {
+            "key": "LIMITBURST_LEVELUP",
+            "value": "<space=-5><size=98>L<cspace=-6><size=82>EV</cspace>EL</size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "ENCHANT",
+            "value": "EX <space=0.1em>J<size=65>OB<space=0.1em></size> <size=76>C</size><size=65>HANGE"
+        },
+        {
+            "key": "PLAYER_RANKUP",
+            "value": "<size=90>R<space=4><cspace=1><size=76>ank</cspace></size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "PLAYER_RANKUP_RANK",
+            "value": "Rank"
+        },
+        {
+            "key": "PLAYER_RANKUP_STAMINA",
+            "value": "최대 체력"
+        },
+        {
+            "key": "PLAYER_RANKUP_FRIEND",
+            "value": "최대 친구 수"
+        },
+        {
+            "key": "PLAYER_RANKUP_OPEN",
+            "value": "개방"
+        },
+        {
+            "key": "ARTI_LEVELUP",
+            "value": "<space=-5><size=98>L<cspace=-6><size=82>EV</cspace>EL</size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "ARTI_STATUSUP",
+            "value": "<space=-5><size=98>S<cspace=-6><size=82>TATUS </cspace></size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "CHALLENGE_CLEAR",
+            "value": "<cspace=0.01em><size=1.4em>M</size>ISSION <space=0.58em><size=1.4em>C</size>LEAR"
+        },
+        {
+            "key": "CHALLENGE_BINGO",
+            "value": "<cspace=0.04em><size=1.4em>B</size>INGO <space=0.08em><size=1.4em>달성!"
+        },
+        {
+            "key": "DEMO_TOBECONTINUED",
+            "value": "To Be <cspace=0.5>Continued..."
+        },
+        {
+            "key": "EXPEDITION_ITEM_GET",
+            "value": "<cspace=-8>아이템 획<space=14>득</cspace><i>!!"
+        },
+        {
+            "key": "RAID_APPEAR_TITLE",
+            "value": "<space=-6><cspace=-5>레이드 보스 출현!"
+        },
+        {
+            "key": "VISION_LEVELUP",
+            "value": "<size=1.16em>L</size>EVEL<space=0.1em> UP"
+        },
+        {
+            "key": "VISION_AWAKE",
+            "value": "<cspace=0.04em><size=1.2em>A<space=-14><size=1em>W<space=-0.25em>A<space=-0.15em>KENIN<space=-0.1em>G"
+        },
+        {
+            "key": "VISION_GROWTH_MAX",
+            "value": "<cspace=-0.04em>최대 육성 보너스"
+        },
+        {
+            "key": "NEW_BONUS",
+            "value": "첫 보너스"
+        },
+        {
+            "key": "GUILD_EFF_ESTABLISHMENT",
+            "value": "길드 설립"
+        },
+        {
+            "key": "GUILD_STATUE_LEVELUP",
+            "value": "<space=-5><size=98>L<cspace=-6><size=82>EV</cspace>EL</size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "GUILD_STATUE_EFF",
+            "value": "<cspace=1.5>개방 효과"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKUP",
+            "value": "League Level UP!!"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKDOWN",
+            "value": "League Level DOWN"
+        },
+        {
+            "key": "GUILD_BATTLE_RESULT",
+            "value": "결과"
+        },
+        {
+            "key": "BATTLE_FEVER",
+            "value": "<cspace=-0.03em>F<size=0.7em>EVER</size>!!"
+        },
+        {
+            "key": "GUERILLA_TITLE",
+            "value": "변<size=0.7em><voffset=0.5em><space=0.2em>덕<voffset=0.58em>쟁<voffset=0.5em><space=0.12em>이</voffset></size><space=0.1em> 상점"
+        },
+        {
+            "key": "GUERILLA_SUBTITLE",
+            "value": "<cspace=0.05em>변덕쟁이 상점"
+        },
+        {
+            "key": "GUERILLA_OPEN",
+            "value": "<cspace=0.05em>OPEN"
+        },
+        {
+            "key": "GUERILLA_BTN_LATER",
+            "value": "나중에"
+        },
+        {
+            "key": "GUERILLA_BTN_TRY",
+            "value": "변덕쟁이 상점으로"
+        },
+        {
+            "key": "RESULT_FIRST_CLEAR",
+            "value": "<cspace=0.02em>첫 완료 보상 획득!"
+        },
+        {
+            "key": "RESULT_CLEAR",
+            "value": "<cspace=0.02em>완료 보상 획득!!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_TITLE",
+            "value": "<cspace=0.04em>획득!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_POINT",
+            "value": "포인트 달성!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_HIGH_SCORE",
+            "value": "최고 점수 달성 보상을 획득했습니다."
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_TOTAL",
+            "value": "포인트 누적 보상을 획득했습니다."
+        },
+        {
+            "key": "MASTERRANK_LEVELUP",
+            "value": "LEVEL UP"
+        },
+        {
+            "key": "MATERIA_FRAME_OPEN",
+            "value": "틀 개방"
+        },
+        {
+            "key": "MATERIA_FEAME_LEVELUP",
+            "value": "LEVEL UP"
+        },
+        {
+            "key": "MATERIA_TRAIN_OPEN",
+            "value": "연성 완료"
+        },
+        {
+            "key": "MATERIA_GET_TITLE",
+            "value": "신명석 획득"
+        },
+        {
+            "key": "MATERIA_ENHANCE_TITLE",
+            "value": "신명석 강화"
+        },
+        {
+            "key": "MATERIA_CAPACITY_TITLE",
+            "value": "능력 강화"
+        },
+        {
+            "key": "MATERIA_INTEGRA_TITLE",
+            "value": "능력 통합"
+        }
+    ]
+}

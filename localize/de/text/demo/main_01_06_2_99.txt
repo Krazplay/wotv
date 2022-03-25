@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "I-Ich bringe Neuigkeiten, Euer Majestät!"
+        },
+        {
+            "key": "002",
+            "value": "Eine Gruppe von Kriegermönchen hält auf unsere Position zu."
+        },
+        {
+            "key": "003",
+            "value": "Sie werden sehr wahrscheinlich von Sadali angeführt."
+        },
+        {
+            "key": "004",
+            "value": "Hm, interessant."
+        },
+        {
+            "key": "005",
+            "value": "Kann es sein, dass er auf unsere Anwesenheit hier aufmerksam geworden ist?"
+        },
+        {
+            "key": "006",
+            "value": "Nein, Herr Kommandant. Nichts deutet darauf hin, dass er uns bemerkt hat."
+        },
+        {
+            "key": "007",
+            "value": "Dann ist es uns vielleicht möglich, sie zu überrumpeln."
+        },
+        {
+            "key": "008",
+            "value": "Was ist mit Muraga?"
+        },
+        {
+            "key": "009",
+            "value": "Keine Spur von Muraga ... oder auch nur von einem einzigen fennischen Soldaten."
+        },
+        {
+            "key": "010",
+            "value": "Vielleicht befindet sich die Armee Fennes‘ noch auf dem Schlachtfeld."
+        },
+        {
+            "key": "011",
+            "value": "Euer Majestät ...!"
+        },
+        {
+            "key": "012",
+            "value": "... Hm."
+        },
+        {
+            "key": "013",
+            "value": "Anscheinend hat Sadali vor, zur Kathedrale von Dynverk zurückzukehren."
+        },
+        {
+            "key": "014",
+            "value": "Dies stellt eine für uns mehr als günstige Gelegenheit dar."
+        },
+        {
+            "key": "015",
+            "value": "Ich, König Robb von Hourne, werde ihnen nur ihre Verbrechen des Betruges und der Hinterlist mit gleicher Münze heimzahlen!"
+        },
+        {
+            "key": "016",
+            "value": "Informiert alle Kräfte. Wir rücken in voller Truppenstärke aus!"
+        },
+        {
+            "key": "017",
+            "value": "Wir werden uns in den Kampf gegen die Kriegermönche der Kristallenen Stätte stürzen!"
+        },
+        {
+            "key": "018",
+            "value": "Zermalmt sie unter euren Füßen! Tränkt die Erde mit dem Blut dieser verdammten Bastarde!"
+        }
+    ]
+}

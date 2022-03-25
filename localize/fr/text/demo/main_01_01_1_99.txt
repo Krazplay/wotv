@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh..."
+        },
+        {
+            "key": "002",
+            "value": "Comment est-ce possible ? Nous étions pourtant plus nombreux !"
+        },
+        {
+            "key": "003",
+            "value": "Ils... ils ne sont pas humains. Fuyons !"
+        },
+        {
+            "key": "004",
+            "value": "Poursuivons-les !"
+        },
+        {
+            "key": "005",
+            "value": "... J'en ai assez."
+        },
+        {
+            "key": "006",
+            "value": "Quoi... ?"
+        },
+        {
+            "key": "007",
+            "value": "Mais pourquoi ? Nous avons enfin l'occasion de nous débarrasser de ces bandits !"
+        },
+        {
+            "key": "008",
+            "value": "Je suis fatiguée... N'ai-je pas été assez claire ?"
+        },
+        {
+            "key": "009",
+            "value": "Avec cette pluie glacée, je suis trempée jusqu'aux os. J'ai les jambes raides comme des baguettes magiques à cause de ces combats sans fin."
+        },
+        {
+            "key": "010",
+            "value": "En êtes-vous sûre ? Si nous les laissons partir ainsi…"
+        },
+        {
+            "key": "011",
+            "value": "Ce n'est pas mon problème. Je suis une princesse de Hourne. Est-ce là l'hospitalité que m'offre Leonis ?"
+        },
+        {
+            "key": "012",
+            "value": "Ha ha ha ! Dans ce cas, quittons cet endroit pour quelque chose de plus chaleureux."
+        },
+        {
+            "key": "013",
+            "value": "Savourez cette victoire tant que vous le pouvez."
+        },
+        {
+            "key": "014",
+            "value": "Ce n'est pas terminé. Bien au contraire, ce n'est que le début."
+        }
+    ]
+}

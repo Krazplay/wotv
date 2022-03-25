@@ -1,0 +1,112 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Malditos...!"
+        },
+        {
+            "key": "002",
+            "value": "Venga, hombre, compórtate."
+        },
+        {
+            "key": "003",
+            "value": "¡Lady Lumeide! ¡¿Quiénes son estos dos?!"
+        },
+        {
+            "key": "004",
+            "value": "No son los maestros del este que buscamos."
+        },
+        {
+            "key": "005",
+            "value": "Exactamente. Con permiso."
+        },
+        {
+            "key": "006",
+            "value": "¡Espera! ¿De verdad piensas subir a bordo de un barco lleno de enemigos?"
+        },
+        {
+            "key": "007",
+            "value": "Te dejo al cargo de todo en mi ausencia."
+        },
+        {
+            "key": "008",
+            "value": "¿Al final tú también vienes?"
+        },
+        {
+            "key": "009",
+            "value": "Owe no era mi único maestro. Seymore también me entrenó."
+        },
+        {
+            "key": "010",
+            "value": "Ya veo."
+        },
+        {
+            "key": "011",
+            "value": "Lumeide..., cuéntame más cosas de Garval."
+        },
+        {
+            "key": "012",
+            "value": "Ya te he dicho que era nuestro líder, ¿no?"
+        },
+        {
+            "key": "013",
+            "value": "No te estoy pidiendo que me cuentes todos sus secretos."
+        },
+        {
+            "key": "014",
+            "value": "He oído que está asesinando sistemáticamente a todos los herreros del continente."
+        },
+        {
+            "key": "015",
+            "value": "¿Por qué querría alguien hacer algo así?"
+        },
+        {
+            "key": "016",
+            "value": "Sin armas en circulación, las fuerzas principales de Ardra se debilitarían sin remedio."
+        },
+        {
+            "key": "017",
+            "value": "Eso me hace suponer que el gremio de mercaderes de armas está intentando convertirse en una nación propia."
+        },
+        {
+            "key": "018",
+            "value": "Ninguno de los dos podría entenderlo. Esto es..."
+        },
+        {
+            "key": "019",
+            "value": "Lo que desea la gente de Yezagh, supongo, ¿verdad?"
+        },
+        {
+            "key": "020",
+            "value": "¿Sabes de dónde vengo?"
+        },
+        {
+            "key": "021",
+            "value": "Me había dado cuenta, sí."
+        },
+        {
+            "key": "022",
+            "value": "Eres... ¿Eres de Yezagh?"
+        },
+        {
+            "key": "023",
+            "value": "Adelante..., puedes despreciarme cuanto quieras."
+        },
+        {
+            "key": "024",
+            "value": "Yo no discrimino a nadie por su cuna o su sangre."
+        },
+        {
+            "key": "025",
+            "value": "..."
+        },
+        {
+            "key": "026",
+            "value": "Veo tierra. Los barcos del gremio son rápidos, de eso no cabe duda."
+        },
+        {
+            "key": "027",
+            "value": "El continente... Me alegro de haber vuelto."
+        }
+    ]
+}

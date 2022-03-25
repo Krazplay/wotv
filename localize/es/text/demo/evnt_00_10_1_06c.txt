@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ufff... Esto ha sido todo."
+        },
+        {
+            "key": "002",
+            "value": "Encontré el libro."
+        },
+        {
+            "key": "003",
+            "value": "Y bien, ¿qué hacemos ahora?"
+        },
+        {
+            "key": "004",
+            "value": "Vayamos a Wezette."
+        },
+        {
+            "key": "005",
+            "value": "¿Esa es otra orden de la reina?"
+        },
+        {
+            "key": "006",
+            "value": "Así es."
+        },
+        {
+            "key": "007",
+            "value": "Bien. Os acompañaré hasta las puertas traseras."
+        }
+    ]
+}

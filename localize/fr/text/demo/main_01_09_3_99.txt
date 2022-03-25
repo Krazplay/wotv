@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "90644",
+            "value": "H-hé, vous !"
+        },
+        {
+            "key": "90645",
+            "value": "Vous n'avez pas le droit d'être là !"
+        },
+        {
+            "key": "90646",
+            "value": "C'est la paix de la cathédrale de Dynverk que vous troublez !"
+        },
+        {
+            "key": "90647",
+            "value": "Je suis Lu'Cia ! Commandante de la troisième division de Rundall, « Calorum »."
+        },
+        {
+            "key": "90648",
+            "value": "Vous avez dit « Rundall » ?"
+        },
+        {
+            "key": "90649",
+            "value": "Malheureusement, sa Sainteté Sadali n'est pas là pour le moment. Il faudra repasser."
+        },
+        {
+            "key": "90650",
+            "value": "Oh, flûte."
+        },
+        {
+            "key": "90651",
+            "value": "Petite... !"
+        },
+        {
+            "key": "90652",
+            "value": "Je vous déconseille de vous moquer de nous."
+        },
+        {
+            "key": "90653",
+            "value": "Qu'en pensez-vous, Sire Jayden ?"
+        },
+        {
+            "key": "90654",
+            "value": "Jayden ?"
+        },
+        {
+            "key": "90655",
+            "value": "Vous voulez dire que le roi de Rundall est là aussi ?"
+        },
+        {
+            "key": "90656",
+            "value": "J'ai entendu dire que Sadali conduisait des opérations illégales d'extraction de cristal sur tout le continent."
+        },
+        {
+            "key": "90657",
+            "value": "Je suis venu ramasser la récolte."
+        },
+        {
+            "key": "90658",
+            "value": "Ha ! Vous plaisantez !"
+        },
+        {
+            "key": "90659",
+            "value": "Vous pensez qu'on va gentiment vous remettre tout le précieux cristal ?"
+        },
+        {
+            "key": "90660",
+            "value": "Hm. J'imagine que non, il me faudra user de la force."
+        },
+        {
+            "key": "90661",
+            "value": "Pour qui vous prenez-vous ?"
+        },
+        {
+            "key": "90662",
+            "value": "C'est vous qui devriez être honorés."
+        },
+        {
+            "key": "90663",
+            "value": "Vous allez maintenant figurer dans le prochain chapitre de ma légende."
+        },
+        {
+            "key": "90664",
+            "value": "À suivre..."
+        }
+    ]
+}

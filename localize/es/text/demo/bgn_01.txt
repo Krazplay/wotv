@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hola, lord Mont. Ha llegado la hora de que os enseñe las tácticas básicas de combate."
+        },
+        {
+            "key": "//変更無し//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Esta vez, vamos a hablar de <color=#0000ff>los tipos de ataque</color>."
+        },
+        {
+            "key": "003",
+            "value": "Los ataques pueden ser de corte, perforación, golpe, mágicos o a distancia. Cualquier ataque que realicéis será de uno de estos <color=#0000ff>cinco tipos</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Además, todas las unidades cuentan con una <color=#0000ff>resistencia a tipo de ataque</color>."
+        },
+        {
+            "key": "008",
+            "value": "Para averiguar el tipo de resistencia de una unidad, tan solo tenéis que tocar el icono de la <color=#0000ff>lupa</color>."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "009",
+            "value": "Lord Mont, podéis realizar <color=#0000ff>ataques de corte</color> con vuestra espada, así que seleccionad a un enemigo con una <color=#0000ff>resistencia al corte baja</color>."
+        },
+        {
+            "key": "010",
+            "value": "Con la capacidad de <color=#0000ff>perforación</color> de mi lanza, yo me encargaré de ir a por los enemigos con una <color=#0000ff>resistencia a la perforación baja</color>."
+        },
+        {
+            "key": "011",
+            "value": "Bueno, ¿lo ponemos en práctica?"
+        },
+        {
+            "key": "012",
+            "value": "¡Espléndido! ¡Hemos conseguido derrotar al enemigo! ¿Habéis visto la diferencia de daño que se inflige según las resistencias?"
+        },
+        {
+            "key": "013",
+            "value": "En cuanto os acostumbréis, iréis aprendiendo a predecir las resistencias del enemigo hasta cierto punto si prestáis atención a su <color=#0000ff>barra de VIT</color>, incluso sin necesidad de tocar en el icono de la lupa."
+        },
+        {
+            "key": "014",
+            "value": "Siempre viene bien tener cuidado con los tipos de ataque y las resistencias."
+        }
+    ]
+}

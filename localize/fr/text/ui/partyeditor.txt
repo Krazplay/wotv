@@ -1,0 +1,324 @@
+﻿{
+    "infos": [
+        {
+            "key": "PARTYEDITOR_TEAM_RENAME",
+            "value": "Changer le nom du groupe"
+        },
+        {
+            "key": "PARTYEDITOR_FIX_PARTY",
+            "value": "Formation non valide"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_SUPPORT",
+            "value": "Recrutez un personnage de soutien !"
+        },
+        {
+            "key": "PARTYEDITOR_ITEM_NOT_USED",
+            "value": "Impossible d'utiliser cet objet"
+        },
+        {
+            "key": "PARTYEDITOR_FRIEND_SKILL_NONE",
+            "value": "Aucune"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_GO",
+            "value": "Départ !"
+        },
+        {
+            "key": "PARTYEDITOR_BATTLE_SKIP",
+            "value": "Passer le combat"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_TITLE",
+            "value": "Paramètres de combat"
+        },
+        {
+            "key": "MAP_EFFECT_TITLE",
+            "value": "Effets de carte"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_TITLE",
+            "value": "Terrain"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_DEFAULT",
+            "value": "Aucun"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_TITLE",
+            "value": "Effets de carte"
+        },
+        {
+            "key": "ITEM_SELECT_TITLE",
+            "value": "Choix des objets"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ALL",
+            "value": "Tout"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_HEAL",
+            "value": "Régénération"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ATTACK",
+            "value": "Attaque"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_TITLE",
+            "value": "Changer le nom du groupe"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_DESCRIPTION",
+            "value": "Choisissez un nouveau nom pour ce groupe"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_CAUTION",
+            "value": "Utilisez 8 objets ou moins"
+        },
+        {
+            "key": "RECOMMEND_TEAM_TITLE",
+            "value": "Formation automatique"
+        },
+        {
+            "key": "RECOMMEND_TEAM_MSG_1",
+            "value": "Sélectionnez la classification et l'élément que vous désirez mettre en valeur."
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ALL_TEXT",
+            "value": "Tout"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_FIRE_TEXT",
+            "value": "Feu"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ICE_TEXT",
+            "value": "Glace"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WIND_TEXT",
+            "value": "Vent"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_EARTH_TEXT",
+            "value": "Terre"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_THUNDER_TEXT",
+            "value": "Foudre"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WATER_TEXT",
+            "value": "Eau"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_SHINE_TEXT",
+            "value": "Lumière"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_DARK_TEXT",
+            "value": "Ombre"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_TOTAL_TEXT",
+            "value": "Aperçu général"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TEXT",
+            "value": "ATT"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_DEFENCE_TEXT",
+            "value": "DEF"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MAGIC_TEXT",
+            "value": "MAGIE"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MIND_TEXT",
+            "value": "PSY"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_HP_TEXT",
+            "value": "PV"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_SPEED_TEXT",
+            "value": "AGI"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SLASH_TEXT",
+            "value": "Tranchante"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_STAB_TEXT",
+            "value": "Perçante"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_BLOW_TEXT",
+            "value": "Contondante"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SHOT_TEXT",
+            "value": "Projectile"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_MAGIC_TEXT",
+            "value": "Magique"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_NONE_TEXT",
+            "value": "Autre"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_ALL_TEXT",
+            "value": "Tous les types d'attaque"
+        },
+        {
+            "key": "PARTYEDITOR_COND_LIMIT",
+            "value": "[Formation limitée]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_LIMIT",
+            "value": "[Formation limitée]<br>Aucune"
+        },
+        {
+            "key": "PARTYEDITOR_COND_FIXED",
+            "value": "[Formation imposée]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_FIXED",
+            "value": "[Formation imposée]<br>Aucune"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PUNCTUATE",
+            "value": "/"
+        },
+        {
+            "key": "PARTYEDITOR_COND_DETAIL",
+            "value": "[Informations]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT",
+            "value": "[Terrain]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER",
+            "value": "[Météo]<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_SEP",
+            "value": ","
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PLV",
+            "value": "Niv. de joueur :"
+        },
+        {
+            "key": "PARTYEDITOR_COND_ULV",
+            "value": "Niv. d'unité :"
+        },
+        {
+            "key": "PARTYEDITOR_COND_ELEM",
+            "value": "Élément :"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOB",
+            "value": "Job :"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNIT",
+            "value": "Unité :"
+        },
+        {
+            "key": "PARTYEDITOR_COND_SEX",
+            "value": "Genre :"
+        },
+        {
+            "key": "PARTYEDITOR_COND_RARITY",
+            "value": "Rareté :"
+        },
+        {
+            "key": "PARTYEDITOR_COND_HEIGHT",
+            "value": "Hauteur :"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEIGHT",
+            "value": "Poids :"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX",
+            "value": "Job n°"
+        },
+        {
+            "key": "PARTYEDITOR_COND_BIRTH",
+            "value": "Pays :"
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX_VALUE",
+            "value": "Job n°{0}"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TEXTFRAME",
+            "value": "[{0}]"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_PARENT",
+            "value": "{0} : {1} {2} maîtrisé"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TITLE",
+            "value": "{0} remplit les conditions suivantes"
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND_OWNED_UNIT",
+            "value": "Il n'existe pas de formation correspondante."
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND",
+            "value": "Il n'existe pas de formation correspondante."
+        },
+        {
+            "key": "DEFAULT_PARTY_NAME",
+            "value": "Groupe {0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
+            "value": "Valider cette formation"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
+            "value": "Vous avez laissé des emplacements vides dans votre groupe qui peuvent vous désavantager pendant les combats de guilde limités. Continuer quand même ?"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
+            "value": "Les conditions de formation ne sont pas remplies."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
+            "value": "Les conditions de formation n'étant pas remplies, votre formation précédente sera effacée."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LEAGUE_GUILD_EMPTY_DESC",
+            "value": "Avoir des emplacements vides dans votre groupe vous désavantagera lors des combats de guilde : Lutte pour le sommet. Continuer malgré tout ?"
+        }
+    ]
+}

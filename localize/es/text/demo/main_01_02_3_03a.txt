@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bueno, hora de marcharnos."
+        },
+        {
+            "key": "002",
+            "value": "Rendíos cuando llegue el momento, ¿de acuerdo? Recordad: preservar nuestro linaje es lo más importante."
+        },
+        {
+            "key": "003",
+            "value": "Lo sé."
+        },
+        {
+            "key": "004",
+            "value": "Madre, ríndete en cuanto sea posible."
+        },
+        {
+            "key": "005",
+            "value": "¿Es que no piensas antes de hablar o qué? Si se rinden al instante, ¿qué será de nosotros?"
+        },
+        {
+            "key": "006",
+            "value": "Arriesgas sus vidas por el bien de las nuestras. Es…"
+        },
+        {
+            "key": "007",
+            "value": "Lo hago por el bien del linaje de Leonis."
+        },
+        {
+            "key": "008",
+            "value": "Mont…"
+        },
+        {
+            "key": "009",
+            "value": "Cuídate."
+        },
+        {
+            "key": "010",
+            "value": "Lo haré."
+        },
+        {
+            "key": "011",
+            "value": "Bueno, es hora de irse."
+        },
+        {
+            "key": "012",
+            "value": "Schuzelt…, ¿te encuentras bien?"
+        },
+        {
+            "key": "013",
+            "value": "Sí, milord."
+        }
+    ]
+}

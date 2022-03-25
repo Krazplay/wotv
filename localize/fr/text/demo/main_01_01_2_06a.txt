@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "L'alliance conclue entre Fennes et Hourne m'inquiète."
+        },
+        {
+            "key": "002",
+            "value": "Nous allons certainement devoir aussi nous battre contre Hourne."
+        },
+        {
+            "key": "003",
+            "value": "Je vois..."
+        },
+        {
+            "key": "004",
+            "value": "Vous vouliez donc que je sois votre otage dans le château des Leonis ?"
+        },
+        {
+            "key": "005",
+            "value": "B-bien sûr que non !"
+        },
+        {
+            "key": "006",
+            "value": "Ce ne serait pas une mauvaise tactique."
+        },
+        {
+            "key": "007",
+            "value": "Pas question père ! <br>Ce serait vraiment sournois... !"
+        },
+        {
+            "key": "008",
+            "value": "Cessez de pleurnicher, Mont !"
+        },
+        {
+            "key": "009",
+            "value": "Schuzelt, dis-leur."
+        },
+        {
+            "key": "010",
+            "value": "Nos décisions pourront grandement changer le cours de cette guerre. Au final, c'est la victoire ou la mort."
+        },
+        {
+            "key": "011",
+            "value": "Exactement. Ce n'est pas sournois, loin de là."
+        },
+        {
+            "key": "012",
+            "value": "Si vous souhaitez me prendre en otage, alors nous devrions retourner en vitesse au château avant de rencontrer l'armée de Fennes."
+        },
+        {
+            "key": "013",
+            "value": "Vous ne craignez pas..."
+        },
+        {
+            "key": "014",
+            "value": "... la mort ?"
+        },
+        {
+            "key": "015",
+            "value": "Vous ne devriez pas avoir peur de mourir."
+        },
+        {
+            "key": "016",
+            "value": "Vous devriez avoir peur que les autres se sacrifient pour vous."
+        },
+        {
+            "key": "017",
+            "value": "..."
+        },
+        {
+            "key": "018",
+            "value": "Votre Majesté ! L'armée de Fennes se prépare pour la bataille."
+        },
+        {
+            "key": "019",
+            "value": "Ils sont donc venus. Laissez les fiers lions de guerre se déchaîner ! Combattez jusqu'au bout !"
+        }
+    ]
+}

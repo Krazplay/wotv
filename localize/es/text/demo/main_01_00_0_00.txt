@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Sucede algo, Schuzelt?"
+        },
+        {
+            "key": "002",
+            "value": "Tranquila. Me voy a encargar de esos rufianes ahora mismo."
+        },
+        {
+            "key": "003",
+            "value": "Echo de menos el castillo."
+        },
+        {
+            "key": "004",
+            "value": "Princesa…"
+        },
+        {
+            "key": "005",
+            "value": "Lo sé: es por el bien del reino."
+        },
+        {
+            "key": "006",
+            "value": "Lo siento mucho, milady."
+        },
+        {
+            "key": "007",
+            "value": "Si fuera un hombre, podría acompañarte y combatir a tu lado."
+        },
+        {
+            "key": "008",
+            "value": "…"
+        },
+        {
+            "key": "009",
+            "value": "Basta de cháchara."
+        },
+        {
+            "key": "010",
+            "value": "Contéstame antes a esto."
+        },
+        {
+            "key": "011",
+            "value": "¿Cómo osáis interponeros en el camino del carruaje de lady Machérie?"
+        },
+        {
+            "key": "012",
+            "value": "No pienso contestar."
+        },
+        {
+            "key": "013",
+            "value": "Ya veo… Entonces, solo hay una explicación…"
+        },
+        {
+            "key": "014",
+            "value": "Sois de Leonis, ¿me equivoco?"
+        },
+        {
+            "key": "015",
+            "value": "Ya basta. ¡Probad las garras de los leoninos!"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+﻿{
+    "infos": [
+        {
+            "key": "EVENT_TITLE",
+            "value": "Events"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "Besondere Gegenstände zu gewinnen!"
+        },
+        {
+            "key": "MULTI_TITLE",
+            "value": "Multi"
+        },
+        {
+            "key": "MULTI_DESC",
+            "value": "Mit Freunden auf Mission!"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "Kraftproben"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "Gemeinsam gegen mächtige Gegner!"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "Porzellanturm"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "Härteproben"
+        },
+        {
+            "key": "SUMMON_TITLE",
+            "value": "Höhle des Ungetüms"
+        },
+        {
+            "key": "SUMMON_DESC",
+            "value": "Sammle Erweckungsmaterialien für deine Esper!"
+        },
+        {
+            "key": "BATTLEROAD_TITLE",
+            "value": "Auswahlaufträge"
+        },
+        {
+            "key": "BATTLEROAD_DESC",
+            "value": "Wage dich in Aufträge, die du nur mit bestimmten Einheiten bestreiten kannst!"
+        },
+        {
+            "key": "QLN_EVENT_1",
+            "value": "Kollaborationsevent jetzt aktiv!"
+        },
+        {
+            "key": "QLN_EVENT_2",
+            "value": "(Test) Ein neues Kapitel ist da!"
+        },
+        {
+            "key": "QLN_MULTI_1",
+            "value": "(Test) Arenamünzen x 2!"
+        },
+        {
+            "key": "QLN_MULTI_2",
+            "value": "(Test) Konfrontation im Gange!"
+        },
+        {
+            "key": "QLN_RAID_1",
+            "value": "Stürze die Todesmaschine!"
+        },
+        {
+            "key": "QLN_RAID_1_2",
+            "value": "Ränge werden berechnet ..."
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "Stürze Geläuterter Widerspruch!"
+        },
+        {
+            "key": "QLN_RAID_2",
+            "value": "Abholzeitraum für Kraftprobenbelohnungen läuft."
+        },
+        {
+            "key": "QLN_RAID_4",
+            "value": "Stürze den Kraftproben-Boss!"
+        },
+        {
+            "key": "QLN_RAID_5",
+            "value": "Stürze Golem!"
+        },
+        {
+            "key": "QLN_RAID_6",
+            "value": "Stürze Diabolos!"
+        },
+        {
+            "key": "QLN_RAID_7",
+            "value": "Stürze Sankt Pudding!"
+        },
+        {
+            "key": "QLN_RAID_8",
+            "value": "Stürze Glacial!"
+        },
+        {
+            "key": "QLN_RAID_9",
+            "value": "Stürze Wolframator!"
+        },
+        {
+            "key": "QLN_RAID_10",
+            "value": "Stürze Karfunkel!"
+        },
+        {
+            "key": "QLN_RAID_11",
+            "value": "Stürze Leviathan!"
+        },
+        {
+            "key": "QLN_RAID_12",
+            "value": "Stürze Omega!"
+        },
+        {
+            "key": "QLN_RAID_13",
+            "value": "Stürze Aigaion!"
+        },
+        {
+            "key": "QLN_RAID_14",
+            "value": "Stürze Elafikeras!"
+        },
+        {
+            "key": "QLN_RAID_15",
+            "value": "Stürze Aquadon!"
+        },
+        {
+            "key": "QLN_RAID_16",
+            "value": "Stürze Schatten-Kamoshida!"
+        },
+        {
+            "key": "QLN_TOWER_1",
+            "value": "Der Porzellanturm ist jetzt betretbar!"
+        },
+        {
+            "key": "QLN_TOWER_6",
+            "value": "Hol dir jetzt den Infernoring!"
+        },
+        {
+            "key": "QLN_TOWER_7",
+            "value": "Turm der Visionen (Der Krieg im Löwental)"
+        },
+        {
+            "key": "QLN_TOWER_8",
+            "value": "Hol dir jetzt den Erdenring!"
+        },
+        {
+            "key": "QLN_SUMMON_1",
+            "value": "Der Eisengigant ist zurück!"
+        },
+        {
+            "key": "TOWER_OPEN_TITLE",
+            "value": "Freischaltbedingungen"
+        },
+        {
+            "key": "TOWER_OPEN_DESC",
+            "value": "Die folgenden Bedingungen müssen erfüllt sein: <br>Erreiche Spielerrang {0}"
+        },
+        {
+            "key": "QUEST_OPEN_DESC",
+            "value": "Event ist beendet"
+        },
+        {
+            "key": "CHALLENGE_OPEN_DESC",
+            "value": "Herausforderung ist beendet"
+        },
+        {
+            "key": "QLN_TOWER_5",
+            "value": "Hol dir jetzt den Leuchtarmreif!"
+        },
+        {
+            "key": "QLN_TOWER_4",
+            "value": "Hol dir jetzt den Tidenring!"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "Hol dir jetzt die Purpurklinge!"
+        }
+    ]
+}

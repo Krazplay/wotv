@@ -1,0 +1,216 @@
+﻿{
+    "infos": [
+        {
+            "key": "252",
+            "value": "Ah... Ah... Debemos... retenerlos aquí…"
+        },
+        {
+            "key": "253",
+            "value": "¡Groooaaar!"
+        },
+        {
+            "key": "254",
+            "value": "¡Oh, no! ¡Uno se ha colado! ¡Mont, cuidado!"
+        },
+        {
+            "key": "255",
+            "value": "Grr..."
+        },
+        {
+            "key": "256",
+            "value": "¡Groooaaar!"
+        },
+        {
+            "key": "257",
+            "value": "¿Qué...?"
+        },
+        {
+            "key": "258",
+            "value": "Por los pelos. Veo que he llegado justo a tiempo."
+        },
+        {
+            "key": "259",
+            "value": "¡Velis! ¿Están los aldeanos a salvo?"
+        },
+        {
+            "key": "260",
+            "value": "No estaría aquí de no ser así. Los hombres de Mont pueden hacerse cargo del resto… Vengo a unirme a la pelea."
+        },
+        {
+            "key": "261",
+            "value": "Te lo agradezco, Velis."
+        },
+        {
+            "key": "262",
+            "value": "¿Un príncipe me da las gracias? Me gustaría detenerme a saborear este momento, pero ¡me temo que no hay tiempo!"
+        },
+        {
+            "key": "263",
+            "value": "¡Groooaaar!"
+        },
+        {
+            "key": "264",
+            "value": "¡Mirad!"
+        },
+        {
+            "key": "265",
+            "value": "Parece que ha decidido obsequiarnos con su presencia, él y su séquito salvaje."
+        },
+        {
+            "key": "266",
+            "value": "¡Justo cuando parecía imposible van y aparecen más!"
+        },
+        {
+            "key": "267",
+            "value": "¿Es ese el monstruo que buscáis? ¿El que se ha tragado el cristal núcleo?"
+        },
+        {
+            "key": "268",
+            "value": "Ngh... No, no puedo... caer ahora… Debo luchar hasta el final…"
+        },
+        {
+            "key": "269",
+            "value": "Nuestro principito ha luchado con valor hasta ahora, pero me parece que ya está en las últimas. Es hora de dar un paso al frente, Lucius."
+        },
+        {
+            "key": "270",
+            "value": "¡Sí! ¡Mont, nosotros nos ocupamos de esto!"
+        },
+        {
+            "key": "271",
+            "value": "¿Vosotros dos solos? No podréis…"
+        },
+        {
+            "key": "272",
+            "value": "Relájate y contempla el espectáculo. ¡Para esto entrenan los Guerreros de los Cristales!"
+        },
+        {
+            "key": "273",
+            "value": "Ahora que tus amiguitos no pueden protegerte ya no eres tan fiero, ¿verdad?"
+        },
+        {
+            "key": "274",
+            "value": "¡GROOOAAAR!"
+        },
+        {
+            "key": "275",
+            "value": "¿Eso es todo lo que hace falta para vencerte? Je, ¡entonces toma un poco más!"
+        },
+        {
+            "key": "276",
+            "value": "¡GROOOAAAR!"
+        },
+        {
+            "key": "277",
+            "value": "¡Velis! ¡Los otros monstruos están saliendo de la aldea!"
+        },
+        {
+            "key": "278",
+            "value": "Intentan ponernos las cosas más difíciles… ¡Pero no escaparán!"
+        },
+        {
+            "key": "279",
+            "value": "¡Estos monstruos estrategas están empezando a ponerme de los nervios!"
+        },
+        {
+            "key": "280",
+            "value": "¡Increíble! Así que este es el poder de un Guerrero de los Cristales…"
+        },
+        {
+            "key": "281",
+            "value": "Pero aún quedan demasiados. ¿Cómo podemos...?"
+        },
+        {
+            "key": "282",
+            "value": "Veo que he llegado a tiempo."
+        },
+        {
+            "key": "283",
+            "value": "Esa voz... ¡Stern!"
+        },
+        {
+            "key": "284",
+            "value": "Siento llegar tarde, hermano."
+        },
+        {
+            "key": "285",
+            "value": "¿Qué estás haciendo aquí? ¿Y Fortem?"
+        },
+        {
+            "key": "286",
+            "value": "El maestro ha compartido algo de su sabiduría conmigo: «una espada que duda no puede cortar nada»…"
+        },
+        {
+            "key": "287",
+            "value": "Como siempre hace."
+        },
+        {
+            "key": "288",
+            "value": "Me ha aconsejado aclarar mis ideas, así que he decido venir aquí y hacer justamente eso."
+        },
+        {
+            "key": "289",
+            "value": "Ja, ja, ja..."
+        },
+        {
+            "key": "290",
+            "value": "Je."
+        },
+        {
+            "key": "291",
+            "value": "Gracias, Stern."
+        },
+        {
+            "key": "292",
+            "value": "¿Y bien? ¿Piensas quedarte arrodillado todo el día?"
+        },
+        {
+            "key": "293",
+            "value": "Me estaba levantando."
+        },
+        {
+            "key": "294",
+            "value": "Lucius y su amigo están luchando contra el líder de la manada."
+        },
+        {
+            "key": "295",
+            "value": "¿Qué me dices si nosotros limpiamos el resto?"
+        },
+        {
+            "key": "296",
+            "value": "Me parece bien. ¿Hace una competición, hermano?"
+        },
+        {
+            "key": "297",
+            "value": "Si crees que puedes seguirme el ritmo... ¡Adelante!"
+        },
+        {
+            "key": "298",
+            "value": "Ese es el hermano de Mont…"
+        },
+        {
+            "key": "299",
+            "value": "Esos dos forman una pareja formidable. Creo que empiezan a cambiar las tornas."
+        },
+        {
+            "key": "300",
+            "value": "Su estilo de combate es algo tosco, pero lo compensan con su sinergia."
+        },
+        {
+            "key": "301",
+            "value": "Mira cómo luchan juntos, hombro con hombro. Parecen un par de campeones veteranos."
+        },
+        {
+            "key": "302",
+            "value": "¡Nosotros tenemos que cumplir con nuestra parte! ¡Acabemos con el bégimo, Velis!"
+        },
+        {
+            "key": "303",
+            "value": "Ve a por él con todas tus fuerzas. Yo iré por detrás y te cubriré las espaldas."
+        },
+        {
+            "key": "304",
+            "value": "¡Sí! ¡Allá voy!"
+        }
+    ]
+}

@@ -1,0 +1,804 @@
+﻿{
+    "infos": [
+        {
+            "key": "CMD_ACTION",
+            "value": "Aktion"
+        },
+        {
+            "key": "CMD_WAIT",
+            "value": "Warten"
+        },
+        {
+            "key": "CMD_ATTACK",
+            "value": "Angriff"
+        },
+        {
+            "key": "CMD_ABILITY",
+            "value": "Fähigkeit"
+        },
+        {
+            "key": "CMD_NBEAST",
+            "value": "Anrufungsmagie"
+        },
+        {
+            "key": "CMD_ITEM",
+            "value": "Gegen-<br>stände"
+        },
+        {
+            "key": "CMD_OK",
+            "value": "Bestätigen"
+        },
+        {
+            "key": "CMD_CANCEL",
+            "value": "Abbrechen"
+        },
+        {
+            "key": "ORDER",
+            "value": "Aktionsreihenfolge"
+        },
+        {
+            "key": "TITLE_CASTSPEED",
+            "value": "Geschw."
+        },
+        {
+            "key": "TITLE_RANGE",
+            "value": "Rchw."
+        },
+        {
+            "key": "TITLE_COUNT_USELIMIT",
+            "value": "Einsätze"
+        },
+        {
+            "key": "COUNT_NOLIMIT",
+            "value": "Unbegrenzt"
+        },
+        {
+            "key": "RESULT_NEXT",
+            "value": "Weiter"
+        },
+        {
+            "key": "MENU_AUTO",
+            "value": "Auto"
+        },
+        {
+            "key": "MENU_LAP",
+            "value": "Wiederholen"
+        },
+        {
+            "key": "MENU_SKIP",
+            "value": "Überspr."
+        },
+        {
+            "key": "MENU_SPEED_DEFAULT",
+            "value": "Normal"
+        },
+        {
+            "key": "MENU_SPEED_NOBODY",
+            "value": "1,5 x"
+        },
+        {
+            "key": "MENU_SPEED_VIP",
+            "value": "2 x"
+        },
+        {
+            "key": "ACTION_LIMIT",
+            "value": "Aktionen übrig"
+        },
+        {
+            "key": "TIME_LIMIT_RAID",
+            "value": "Verbl. Kraftprobendauer:"
+        },
+        {
+            "key": "TIME_LIMIT_EVENT",
+            "value": "Noch:"
+        },
+        {
+            "key": "WATCHING_VALUE",
+            "value": "Zuschaueranzahl"
+        },
+        {
+            "key": "BATTLE_COMMAND_MAP",
+            "value": "<cspace=1>KARTE"
+        },
+        {
+            "key": "BATTLE_COMMAND_MAP_MODE",
+            "value": "KARTENMODUS"
+        },
+        {
+            "key": "BATTLE_ORDER_ACTIVE",
+            "value": "Reihenfolge"
+        },
+        {
+            "key": "BATTLE_ORDER_CHARGE",
+            "value": "<cspace=-0.5>Aufladen</cspace>"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_MAP_EFFECT",
+            "value": "Karteneffekte"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_RESET",
+            "value": "Zurücksetzen"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_DONE",
+            "value": "Bereit"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_PARTY",
+            "value": "GRUPPE"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_DESC",
+            "value": "Die ausgewählten Einheiten mit dem gelben Rahmen kannst du neu positionieren."
+        },
+        {
+            "key": "SKILLTARGETLOCK_TITLE",
+            "value": "Fähigkeit einsatzbereit"
+        },
+        {
+            "key": "SKILLTARGETLOCK_UNIT",
+            "value": "<cspace=-1>Einheit"
+        },
+        {
+            "key": "SKILLTARGETLOCK_PANEL",
+            "value": "Feld"
+        },
+        {
+            "key": "BATTLE_MENU_GET_ITEM_TITLE",
+            "value": "Erhaltene Gegenstände"
+        },
+        {
+            "key": "BATTLE_MENU_MISSON",
+            "value": "Missionen"
+        },
+        {
+            "key": "BATTLE_MENU_OPTION",
+            "value": "Optionen"
+        },
+        {
+            "key": "BATTLE_MENU_GIVEUP",
+            "value": "Rückzug"
+        },
+        {
+            "key": "BATTLE_MENU_WEATHER",
+            "value": "Wetter:"
+        },
+        {
+            "key": "BATTLE_MENU_SKIP",
+            "value": "Überspringen"
+        },
+        {
+            "key": "BATTLE_MENU_SPEEDMODE_TITLE",
+            "value": "Schnelle Wiedergabe"
+        },
+        {
+            "key": "BATTLE_MENU_SPEEDMODE_DESC",
+            "value": "<size=22>Die <color=#F0C040>x1,5</color> Geschwindigkeits-Funktion wird auf dem <color=#F0C040>Royalen Rang 1</color> freigeschaltet, während die <color=#F0C040>x2,0</color> Geschwindigkeits-Funktion auf dem <color=#F0C040>Royalen Rang 8</color> freigeschaltet wird.<br><br>* Royale Punkte erhältst durch das Abschließen von <color=#F0C040>Missionen</color> und den Kauf von Visiore.</size>"
+        },
+        {
+            "key": "BATTLE_GIVEUP_TITLE",
+            "value": "Rückzug"
+        },
+        {
+            "key": "BATTLE_GIVEUP_DESC",
+            "value": "Wirklich den Rückzug antreten?"
+        },
+        {
+            "key": "BATTLE_SKIP_TITLE",
+            "value": "Überspringen"
+        },
+        {
+            "key": "BATTLE_SKIP_DESC",
+            "value": "Wirklich überspringen?"
+        },
+        {
+            "key": "BATTLE_OPTION_TITLE",
+            "value": "Optionen"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_TITLE",
+            "value": "Sound"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_BGM",
+            "value": "Musik"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_SE",
+            "value": "Effekte"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_TITLE",
+            "value": "Flächeneffekte anzeigen"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_ON",
+            "value": "AN"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_OFF",
+            "value": "AUS"
+        },
+        {
+            "key": "BATTLE_OPTION_AUTO_NOT_CHANGE",
+            "value": "Kann während des Kampfes nicht geändert werden"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_ABILITY",
+            "value": "Fähigkeit"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_NBEAST",
+            "value": "Anrufungsmagie"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_ITEM",
+            "value": "Gegen-<br>stände"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_TITLE",
+            "value": "Empfohlen"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_ATTACK_TITLE",
+            "value": "Normale Angriffe empfohlen"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_ATTACK_DESC",
+            "value": "Gehe zurück und tippe auf den Angriffsbutton"
+        },
+        {
+            "key": "BATTLE_MISSION_TITLE",
+            "value": "Missionen"
+        },
+        {
+            "key": "UNITINFO_CHAIN",
+            "value": "Ketten"
+        },
+        {
+            "key": "UNITINFO_HIT",
+            "value": "Treffer"
+        },
+        {
+            "key": "UNITINFO_CRITICAL",
+            "value": "Kritische Treffer"
+        },
+        {
+            "key": "STATUS_TAB_STATUS",
+            "value": "Aktuelle Attribute"
+        },
+        {
+            "key": "STATUS_TAB_RESIST",
+            "value": "Resistenz anzeigen"
+        },
+        {
+            "key": "STATUS_TYPE_TITLE",
+            "value": "Art:"
+        },
+        {
+            "key": "RESULT_MISSION_TITLE",
+            "value": "<cspace=-0.2>Mission</cspace>"
+        },
+        {
+            "key": "RESULT_UNIT_EXP_TITLE",
+            "value": "Einheiten-ERF"
+        },
+        {
+            "key": "RESULT_GET_ITEM_TITLE",
+            "value": "Erhaltene Gegenstände"
+        },
+        {
+            "key": "RESULT_END",
+            "value": "Beenden"
+        },
+        {
+            "key": "RESULT_CLEAR_PARTY_TITLE",
+            "value": "<cspace=-0.4>Resultate<br>veröffentlicht</cspace>"
+        },
+        {
+            "key": "RESULT_EFF_LEVELUP",
+            "value": "<cspace=-0.036em>S<size=0.85em>tufe</size> <cspace=1>gestiegen"
+        },
+        {
+            "key": "RESULT_EFF_ARTIUP",
+            "value": "<cspace=-0.14em>Ausrüstungskenntnisse <cspace=1>gestiegen"
+        },
+        {
+            "key": "RESULT_DEMO_SKIP",
+            "value": "Die Sequenz wird übersprungen. Fortfahren?"
+        },
+        {
+            "key": "RESULT_DIALOG_REMATCH_DESC",
+            "value": "Wenn du „Ja“ auswählst, wird die Sequenz nach dem bestandenen Auftrag übersprungen."
+        },
+        {
+            "key": "RESULT_NETHERBEAST_SYNCHRO",
+            "value": "Esperresonanz-Anstiegsrate"
+        },
+        {
+            "key": "RESULT_UNIT_INTIMACY",
+            "value": "Vertrautheit-Anstiegsrate"
+        },
+        {
+            "key": "RESULT_ERROR_PERIOD_TITLE",
+            "value": "Event findet derzeit nicht statt"
+        },
+        {
+            "key": "RESULT_ERROR_PERIOD_DESC",
+            "value": "Dieser Auftrag steht derzeit nicht zur Verfügung."
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "Zusätzliche ★ erhalten."
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "<color=#F0C040>★ x{0}</color> erhalten, da dieser Spieler<br>keine Defensiv-Gruppe festgelegt hatte."
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TITLE",
+            "value": "Summe der Punkte"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SUB",
+            "value": "Ergebnisse"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WIN",
+            "value": "Gewonnene Kämpfe"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_OVERKILL",
+            "value": "Overkills"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_DAMAGE",
+            "value": "Erlittener Schaden"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SPECIFIC_UNIT_DEFEAT",
+            "value": "Besiegte bestimmte Einheiten"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ACTION_NUM",
+            "value": "Aktionsanzahl"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_USE_ITEM",
+            "value": "Gegenstandeinsätze"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WEEKNESS_RESIST",
+            "value": "Angriffe auf Angriffstypschwäche"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WEEKNESS_ELEMENT",
+            "value": "Angriffe auf Elementarschwäche"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_DEAD_NUM",
+            "value": "Besiegte/Zurückgezogene Einheiten"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ATTACK_CHAIN_MAX",
+            "value": "Längste Kette "
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ELEMENT_CHAIN_MAX",
+            "value": "Längste Elementarkette"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SPECIAL_ATTACK_RATE",
+            "value": "Einheiten-/Visionskartenbonus"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_LAP_NUM",
+            "value": "Wiederholungsanzahl"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_LAP_TOTAL",
+            "value": "Gesamtergebnis"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_CURRENT_SCORE",
+            "value": "Diesmaliges Ergebnis"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_HIGH_SCORE",
+            "value": "Auftrags-Highscore"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TOTAL_HIGH_SCORE",
+            "value": "Gesamt-Highscore"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TOTAL_SCORE",
+            "value": "Gesamtergebnis des Events"
+        },
+        {
+            "key": "INTIMACYUP_BONUS_TITLE",
+            "value": "Vertrautheitsbonus"
+        },
+        {
+            "key": "INTIMACYUP_EFF_TITLE",
+            "value": "<cspace=-2><size=48>Vertrautheit <cspace=1><size=52>gestiegen"
+        },
+        {
+            "key": "BATTLE_CONTINUE_TITLE",
+            "value": "Spiel fortsetzen"
+        },
+        {
+            "key": "BATTLE_CONTINUE_DESC",
+            "value": "<color=#601818>{0}</color> Visiore verbrauchen und das Spiel fortsetzen?"
+        },
+        {
+            "key": "BATTLE_CONTINUE_DESC_CHECK",
+            "value": "Möchtest du das Spiel fortsetzen?"
+        },
+        {
+            "key": "BATTLE_CONTINUE_CAUTION",
+            "value": "Wenn du das Spiel beendest, gehen alle Gegenstände, die du gesammelt hast, verloren."
+        },
+        {
+            "key": "BATTLE_CONTINUE_CAUTION_ADD",
+            "value": "Wenn du das Spiel fortsetzt, werden deine LP, TP, AP und Fähigkeiten-Einsätze vollständig wiederhergestellt."
+        },
+        {
+            "key": "BATTLE_CONTINUE_BTN_GIVEUP",
+            "value": "Aufgeben"
+        },
+        {
+            "key": "BATTLE_CONTINUE_BTN_CONTINUE",
+            "value": "Spiel fortsetzen"
+        },
+        {
+            "key": "BATTLE_CONTINUE_GIVEUP_TITLE",
+            "value": "Aufgeben"
+        },
+        {
+            "key": "BATTLE_CONTINUE_GIVEUP_DESC",
+            "value": "Bist du sicher, dass du aufgeben willst?"
+        },
+        {
+            "key": "BATTLE_MULTI_CTR_NOW",
+            "value": " denkt nach ..."
+        },
+        {
+            "key": "BATTLE_MULTI_CTR_AUTO",
+            "value": "Auto-Kampf aktiv ..."
+        },
+        {
+            "key": "BATTLE_MULTI_CONNECTING",
+            "value": "Übertragung läuft ..."
+        },
+        {
+            "key": "BATTLE_MULTI_CONTINUE",
+            "value": "Überlegt, weiterzuspielen ..."
+        },
+        {
+            "key": "BATTLE_MULTI_LIMIT",
+            "value": "Verbl. Zeit:"
+        },
+        {
+            "key": "BATTLE_MULTI_NEXT_TURN",
+            "value": "<color=#F0C040><size=1.25em> {0}</color></size> bis zu deinem Zug"
+        },
+        {
+            "key": "BATTLE_MULTI_CURRENT_TURN",
+            "value": "<color=#F0C040><size=1.25em>Dein</color></size> Zug"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER",
+            "value": "{0} hat den Raum verlassen."
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER_OWNER",
+            "value": "{0} hat den Raum verlassen.<br><br><color=#FFF080>Du wurdest zum Raumleiter ernannt.</color>"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER_MEMBER",
+            "value": "{0} hat den Raum verlassen.<br><br><color=#FFF080>{1} wurde zum Raumleiter ernannt.</color>"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PVP",
+            "value": "Dein Gegner hat sich zurückgezogen."
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_TITLE",
+            "value": "Spielerrückzug"
+        },
+        {
+            "key": "BATTLE_MULTI_MEETING_TITLE",
+            "value": "Kennenlern-Bonus"
+        },
+        {
+            "key": "BATTLE_MULTI_MEETING_DESC",
+            "value": "Du hast {0} Mitglied(er) kennengelernt <br>und Kennenlern-Belohnungen dafür erhalten! <br>Deine Belohnungen kannst du in den Neuigkeiten überprüfen."
+        },
+        {
+            "key": "BATTLE_MULTI_OFFLINE",
+            "value": "Offline"
+        },
+        {
+            "key": "BATTLE_MULTI_COM_CTRL",
+            "value": "Computer denkt nach ..."
+        },
+        {
+            "key": "BATTLE_MULTI_EXIT_TITLE",
+            "value": "Raum verlassen"
+        },
+        {
+            "key": "BATTLE_MULTI_EXIT_DESC",
+            "value": "Spieler <color=#F0C040>{0}</color> hat den Raum verlassen."
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_TOP",
+            "value": "Freunde"
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_TITLE",
+            "value": "Freundesanfragen"
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_DESC",
+            "value": "Sende Freundesanfragen an markierte Spieler."
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_BTN",
+            "value": "Anfrage"
+        },
+        {
+            "key": "BATTLE_MULTI_BLOCK_TITLE",
+            "value": "Nutzer sperren"
+        },
+        {
+            "key": "BATTLE_MULTI_BLOCK_DESC",
+            "value": "Gesperrte Nutzer können keine Multiaufträge mit dir spielen.<br><br>Auf dem Freunde-Bildschirm kannst du gesperrte Nutzer jederzeit wieder von der Sperrliste entfernen."
+        },
+        {
+            "key": "RAID_SKIP_TITLE",
+            "value": "Wirklich überspringen?"
+        },
+        {
+            "key": "RAID_SKIP_DESC",
+            "value": "Wenn du den Kraftproben-Boss sofort herausforderst, wird die Sequenz nach dem bestandenen Auftrag übersprungen."
+        },
+        {
+            "key": "RAID_HELP",
+            "value": "Kraftproben"
+        },
+        {
+            "key": "RAID_TIMEUP_TITLE",
+            "value": "Zeit abgelaufen"
+        },
+        {
+            "key": "RAID_TIMEUP_DESC",
+            "value": "Das Zeitfenster der Kraftprobe ist abgelaufen. <br>Der Kampf wird automatisch beendet."
+        },
+        {
+            "key": "FEVER_SKIP_TITLE",
+            "value": "Überspringen"
+        },
+        {
+            "key": "FEVER_SKIP_DESC",
+            "value": "Wenn du „Ja“ auswählst, wird die Sequenz nach dem bestandenen Auftrag übersprungen."
+        },
+        {
+            "key": "GUERILLA_SKIP_TITLE",
+            "value": "Überspringen"
+        },
+        {
+            "key": "GUERILLA_SKIP_DESC",
+            "value": "Wenn du „Zum Launischen Laden“ auswählst, wird die Sequenz nach dem bestandenen Auftrag übersprungen."
+        },
+        {
+            "key": "BATTLE_STEAL_SUCCESS",
+            "value": "{0} gestohlen!"
+        },
+        {
+            "key": "BATTLE_STEAL_FAILED",
+            "value": "Konnte nichts stehlen!"
+        },
+        {
+            "key": "BATTLE_STEAL_STEALED",
+            "value": "Es gibt nichts zu stehlen!"
+        },
+        {
+            "key": "BATTLE_STEAL_NOITEM",
+            "value": "Es gibt nichts zu stehlen!"
+        },
+        {
+            "key": "BATTLE_GAIN_JP",
+            "value": "JP + {0}"
+        },
+        {
+            "key": "CHAPTER_TITLE",
+            "value": "KAPITEL {0}"
+        },
+        {
+            "key": "ERROR_BATTLE_MAIN",
+            "value": "Während des Kampfs ist ein Fehler aufgetreten."
+        },
+        {
+            "key": "ERROR_BATTLE_PARSEFAILED",
+            "value": "Datei ist beschädigt."
+        },
+        {
+            "key": "ERROR_REPLAY_TITLE",
+            "value": "Wiedergabefehler"
+        },
+        {
+            "key": "ERROR_REPLAY",
+            "value": "Wiedergabe nicht möglich."
+        },
+        {
+            "key": "ERROR_REPLAY_BREAK",
+            "value": "Wiedergabe wurde unterbrochen. <br>Letzten Spielstand laden?"
+        },
+        {
+            "key": "ERROR_TUTORIAL_TITLE",
+            "value": "Fehler"
+        },
+        {
+            "key": "ERROR_TUTORIAL_NOTFOUND",
+            "value": "Keine Tutorial-Daten gefunden."
+        },
+        {
+            "key": "BATTLE_RESULT_VICTORY_BONUS",
+            "value": "Siegerbonus"
+        },
+        {
+            "key": "BATTLE_REWARD_WINNING_BONUS",
+            "value": "Siegesserienbonus"
+        },
+        {
+            "key": "BATTLE_REWARD_PROMOTION_DESC",
+            "value": "Aufstiegsmatch in"
+        },
+        {
+            "key": "BATTLE_CLASSUP_DESC_FRONT",
+            "value": "Klasse"
+        },
+        {
+            "key": "BATTLE_CLASSRESULT_UP",
+            "value": "– aufgestiegen."
+        },
+        {
+            "key": "BATTLE_CLASSRESULT_DOWN",
+            "value": "– abgestiegen."
+        },
+        {
+            "key": "BATTLE_EFFECT_PROMFAILED",
+            "value": "Aufstieg fehlgeschlagen"
+        },
+        {
+            "key": "BATTLE_EFFECT_PROMBATTLE",
+            "value": "Aufstiegsmatch steht bevor"
+        },
+        {
+            "key": "BATTLE_EFFECT_CONGRATS",
+            "value": "Glückwunsch!"
+        },
+        {
+            "key": "BATTLE_EFFECT_RANKING",
+            "value": "Rang"
+        },
+        {
+            "key": "BATTLE_EFFECT_CLASSUP",
+            "value": "Klasse gestiegen!"
+        },
+        {
+            "key": "BATTLE_EFFECT_CLASSDOWN",
+            "value": "Klasse gesunken"
+        },
+        {
+            "key": "BATTLE_MATCH_RESULTITEM_WINNING",
+            "value": "Siegesserienbonus<br><size=20>({0} Siege in Serie)"
+        },
+        {
+            "key": "BATTLE_WATCH_BATTLE_END_TITLE",
+            "value": "Zusehen beendet"
+        },
+        {
+            "key": "BATTLE_WATCH_HOST_LEAVE_ROOM",
+            "value": "Spieler 1 ist ausgestiegen."
+        },
+        {
+            "key": "BATTLE_WATCH_GUEST_LEAVE_ROOM",
+            "value": "Spieler 2 ist ausgestiegen."
+        },
+        {
+            "key": "BATTLE_WATCH_CONNECT_ERROR",
+            "value": "Während des Zusehens ist ein Fehler aufgetreten.<br>Zusehen wurde beendet. "
+        },
+        {
+            "key": "RETRY_TITLE",
+            "value": "Ohne Begleiter erneut aufbrechen"
+        },
+        {
+            "key": "RETRY_DESC",
+            "value": "Wenn du „Erneut aufbrechen“ auswählst, brichst du ohne einen Begleiter auf. Möchtest du einen Begleiter auswählen, kehre bitte zum Einsatzbildschirm zurück."
+        },
+        {
+            "key": "RETRY_OK",
+            "value": "Erneut aufbrechen"
+        },
+        {
+            "key": "RETRY_NO",
+            "value": "Abbrechen "
+        },
+        {
+            "key": "TOWER_COMPLETE_EFF_TITLE",
+            "value": "Glückwunsch!"
+        },
+        {
+            "key": "TOWER_COMPLETE_EFF_CLEAR",
+            "value": "Geschafft!"
+        },
+        {
+            "key": "TOWER_COMPLETE_RESULT",
+            "value": "Ergebnisse"
+        },
+        {
+            "key": "TOWER_COMPLETE_RANKING",
+            "value": "Erreichter Rang"
+        },
+        {
+            "key": "TOWER_COMPLETE_RANKING_UNIT",
+            "value": "#"
+        },
+        {
+            "key": "TOWER_COMPLETE_SCORE",
+            "value": "Diesmaliges Ergebnis"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_ACTION",
+            "value": "Insgesamt durchgeführte Aktionen"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_DEAD",
+            "value": "Insgesamt kampfunfähige Einheiten"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_GIVEUP",
+            "value": "Anzahl der Rückzüge"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_HEAL",
+            "value": "Vollständige Heilungen"
+        },
+        {
+            "key": "BATTLE_HEIGHT_ABBREV",
+            "value": "H"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_POINT",
+            "value": "Gesamtanzahl der Siege"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_STATUE_EXP",
+            "value": "Erhaltene Gildenstatuen-ERF"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_CHALLENGE",
+            "value": "Versuche heute"
+        },
+        {
+            "key": "GUILD_HUNT_KILLS",
+            "value": "Anzahl der Siege"
+        },
+        {
+            "key": "GL_SELECT_ATTACK_LOCATION",
+            "value": "Wähle das Angriffsziel aus."
+        },
+        {
+            "key": "GUILDRAID_BATTLE_GIVEUP_DESC",
+            "value": "Wenn du dich zurückziehst, gibst du deinen Versuch auf und sowohl der während des Kampfes erteilte Schaden als auch der reflektierte Schaden werden nicht aufgenommen.<br><br><color=#FF0000>Bist du sicher, dass du dich zurückziehen willst?</color>"
+        },
+        {
+            "key": "RESULT_RETRY",
+            "value": "Erneut aufbrechen"
+        }
+    ]
+}

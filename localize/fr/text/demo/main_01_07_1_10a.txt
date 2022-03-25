@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "70151",
+            "value": "Nous arrivons trop tard."
+        },
+        {
+            "key": "70152",
+            "value": "Pas forcément."
+        },
+        {
+            "key": "70153",
+            "value": "Mais ils sont drôlement rapides à bâtir des forteresses, pour des sauvages."
+        },
+        {
+            "key": "70154",
+            "value": "On va avoir du mal à la faire tomber seuls."
+        },
+        {
+            "key": "70155",
+            "value": "Je ne sais pas..."
+        },
+        {
+            "key": "70156",
+            "value": "La forteresse est debout, mais leurs troupes stratégiques ne sont pas encore en place. Si nous attaquons assez tôt..."
+        },
+        {
+            "key": "70157",
+            "value": "Vous avez raison. On pourrait avoir une chance."
+        },
+        {
+            "key": "70158",
+            "value": "Eh ! T'es qui, toi ?"
+        },
+        {
+            "key": "70159",
+            "value": "Pardon ?"
+        },
+        {
+            "key": "70160",
+            "value": "Au secours !"
+        },
+        {
+            "key": "70161",
+            "value": "Cette voix ! C'est Beilo !"
+        },
+        {
+            "key": "70162",
+            "value": "Il s'est fait repérer par un garde !"
+        },
+        {
+            "key": "70163",
+            "value": "Courons à son secours !"
+        }
+    ]
+}

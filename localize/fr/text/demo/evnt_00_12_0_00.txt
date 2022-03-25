@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Si je comprends bien, vous n'avez même pas encore le début d'un indice à propos des six épées ?"
+        },
+        {
+            "key": "002",
+            "value": "Pa-pardon, Seigneur…"
+        },
+        {
+            "key": "003",
+            "value": "Où en est notre guilde des trafiquants d'armes ?"
+        },
+        {
+            "key": "004",
+            "value": "Eh bien, à vrai dire… Garvall semble manquer de zèle."
+        },
+        {
+            "key": "005",
+            "value": "Il ménage les forgerons, j'imagine ?"
+        },
+        {
+            "key": "006",
+            "value": "C'est fort probable."
+        },
+        {
+            "key": "007",
+            "value": "Cela expliquerait pourquoi tous les maîtres de renom se sont déjà terrés hors de vue."
+        },
+        {
+            "key": "008",
+            "value": "Et moi qui pensais que c'est eux qui nous apprendraient où se trouvent les six épées…"
+        },
+        {
+            "key": "009",
+            "value": "Qu'Eldrik fasse pression sur Garvall."
+        },
+        {
+            "key": "010",
+            "value": "Il en sera ainsi, Seigneur."
+        },
+        {
+            "key": "011",
+            "value": "Et l'autre moyen que nous avons pour mettre la main sur les épées ?"
+        },
+        {
+            "key": "012",
+            "value": "Nous avons aussi commencé le travail de ce côté-là, Seigneur."
+        },
+        {
+            "key": "013",
+            "value": "Qui a été envoyé à l'est ?"
+        },
+        {
+            "key": "014",
+            "value": "Lameïga et Lumeïde sont déjà en route, Seigneur."
+        },
+        {
+            "key": "015",
+            "value": "Ils entreront en contact avec les maîtres qui restent là-bas. Si les épées que nous cherchons se trouvent en leur possession, ils s'en empareront . Par la force, si nécessaire."
+        },
+        {
+            "key": "016",
+            "value": "Les six épées…"
+        },
+        {
+            "key": "017",
+            "value": "S'il est bien vrai qu'elles sont capables de terrasser les dieux… Alors face à moi, Gilgamesh ne sera guère plus qu'un enfant sans défense."
+        },
+        {
+            "key": "018",
+            "value": "Si c'est vrai, alors face à moi, même…"
+        },
+        {
+            "key": "019",
+            "value": "À qui pensez-vous, Seigneur ?"
+        },
+        {
+            "key": "020",
+            "value": "Hm ? À personne."
+        },
+        {
+            "key": "021",
+            "value": "Gilgamesh a sans doute déjà compris nos intentions."
+        },
+        {
+            "key": "022",
+            "value": "Ces épées ne doivent tomber entre ses mains sous aucun prétexte. Me suis-je bien fait comprendre ?"
+        },
+        {
+            "key": "023",
+            "value": "Oui, Seigneur."
+        },
+        {
+            "key": "024",
+            "value": "J'ai déplacé toutes mes pièces."
+        },
+        {
+            "key": "025",
+            "value": "À toi, Gilgamesh. Quel sera ton prochain coup ?"
+        },
+        {
+            "key": "026",
+            "value": "C'est quoi, ton plan ?"
+        },
+        {
+            "key": "027",
+            "value": "Le mien."
+        },
+        {
+            "key": "028",
+            "value": "Allez, t'as plutôt l'air d'un chic type. Tu ne me prends quand même pas pour ton ennemi, si ?"
+        },
+        {
+            "key": "029",
+            "value": "…"
+        },
+        {
+            "key": "030",
+            "value": "Ne joue pas les innocents, ta petite aura meurtrière ne m'échappe pas, tu sais ? Ce n'est pas dans ma tête."
+        },
+        {
+            "key": "031",
+            "value": "Allez, dis-moi ! Quel mal ça peut faire ?"
+        },
+        {
+            "key": "032",
+            "value": "C'est l'épée que tu portes."
+        },
+        {
+            "key": "033",
+            "value": "Ah, ce truc ? Je l'appelle mon « Odachi de la Destruction »."
+        },
+        {
+            "key": "034",
+            "value": "Ce n'est pas plutôt la « Tueuse de temps » ?"
+        },
+        {
+            "key": "035",
+            "value": "Ah. Je ne pensais pas avoir affaire à un connaisseur."
+        },
+        {
+            "key": "036",
+            "value": "Bon, j'avoue que si tu cherches à t'emparer de cette lame… Il y a moyen qu'on ne soit pas copains."
+        },
+        {
+            "key": "037",
+            "value": "As-tu l'intention de t'en servir contre moi ?"
+        },
+        {
+            "key": "038",
+            "value": "Non. Tant que je pense que tu fais ce que tu fais pour une bonne raison. Explique-moi et j'aviserai."
+        },
+        {
+            "key": "039",
+            "value": "Sadali est à la recherche des six épées."
+        },
+        {
+            "key": "040",
+            "value": "L'une d'elles est celle que tu portes à la ceinture."
+        },
+        {
+            "key": "041",
+            "value": "Cette vilaine petite gourmande, tu veux dire ? J'imagine qu'il la cherche pour te tuer, j'ai raison ?"
+        },
+        {
+            "key": "042",
+            "value": "C'est une des raisons, oui."
+        },
+        {
+            "key": "043",
+            "value": "Il y en a d'autres ?"
+        },
+        {
+            "key": "044",
+            "value": "Mais je ne vois pas le problème. Ça ne peut pas être bien difficile, pour toi, de le tenir à l'écart de ces épées, si ?"
+        },
+        {
+            "key": "045",
+            "value": "Tu es suffisamment puissant pour anéantir l'Église toute entière, je me trompe ?"
+        },
+        {
+            "key": "046",
+            "value": "…"
+        },
+        {
+            "key": "047",
+            "value": "Tu ne me dis pas tout, hein ?"
+        },
+        {
+            "key": "048",
+            "value": "J'ai besoin de ton aide. Mes blessures ont besoin de temps pour guérir."
+        },
+        {
+            "key": "049",
+            "value": "Pas de problème ! À condition que ce soit un minimum bénéfique pour les gens qui vivent ici."
+        },
+        {
+            "key": "050",
+            "value": "Je prie pour que cela leur soit bénéfique… De tout mon cœur."
+        },
+        {
+            "key": "051",
+            "value": "…"
+        },
+        {
+            "key": "052",
+            "value": "On cherche les six épées, donc."
+        },
+        {
+            "key": "053",
+            "value": "Sais-tu où elles se trouvent ?"
+        },
+        {
+            "key": "054",
+            "value": "Au moins pour une, oui. La « Lame Tonnerre » d'Owe."
+        },
+        {
+            "key": "055",
+            "value": "Figure-toi qu'il l'a surnommée le « Katana de foudre » pour ne pas éveiller l'attention."
+        },
+        {
+            "key": "056",
+            "value": "Mais les quatre autres… Franchement je n'en sais rien."
+        },
+        {
+            "key": "057",
+            "value": "…"
+        },
+        {
+            "key": "058",
+            "value": "Ha ! Si on doit toutes les dénicher, on est pas au bout de nos peines !"
+        }
+    ]
+}

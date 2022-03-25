@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Lasset uns nun über <color=#0000ff>Ketten</color> sprechen."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "In der vorhergehenden Schlacht habt Ihr Seite an Seite mit Prinz Styr gekämpft und eine solche entstehen lassen."
+        },
+        {
+            "key": "003",
+            "value": "Greift Ihr einen Gegner <color=#0000ff>fortgesetzt</color> mit <color=#0000ff>Fertigkeiten</color> des gleichen <color=#0000ff>Elements</color> an, entsteht eine Elementarkette. Dies wiederum resultiert in einer <color=#0000ff>Vergrößerung</color> des beim Gegner verursachten Schadens."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "Dabei gilt: Je länger die Kette, desto höher die Rate, mit der sich der verursachte Schaden vergrößert."
+        },
+        {
+            "key": "005",
+            "value": "Sobald jedoch <color=#0000ff>der angegriffene Gegner eine Aktion ausführt</color>, wird die Kettenlänge auf Null zurückgesetzt."
+        },
+        {
+            "key": "006",
+            "value": "Gegenwärtig haben sich neben Euer Hoheit und Prinz Styr mehrere Personen versammelt, die auf Schlitzangriffe spezialisiert sind."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Ich würde empfehlen, als Erstes den Banditen mit einer <color=#0000ff>gewöhnlichen Angriffskette</color> zu besiegen, und dann dem Oger mit einer Kette zuzusetzen, die normale Angriffe und <color=#0000ff>Schlitzfähigkeiten</color> kombiniert."
+        },
+        {
+            "key": "008",
+            "value": "Nichts anderes hatte ich von Euch erwartet, Euer Hoheit! Herzlichen Glückwunsch!"
+        },
+        {
+            "key": "009",
+            "value": "Ihr habt gesehen, wie sich durch Erzeugen einer Kette der <color=#0000ff>verursachte Schaden vergrößert</color> hat, nicht wahr?"
+        },
+        {
+            "key": "010",
+            "value": "Behaltet stets die Aktionsreihenfolge im Auge, und bildet Ketten, wann immer sich die Gelegenheit dazu bietet."
+        }
+    ]
+}

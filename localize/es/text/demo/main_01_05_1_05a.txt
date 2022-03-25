@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Aj…"
+        },
+        {
+            "key": "002",
+            "value": "¡Rey Elde! ¡Tu estómago!"
+        },
+        {
+            "key": "003",
+            "value": "No hay necesidad de montar ninguna escena."
+        },
+        {
+            "key": "004",
+            "value": "Pero estás sangrando…"
+        },
+        {
+            "key": "005",
+            "value": "Escúchame bien, Lilit. No le puedes mencionar nada de esto a nadie."
+        },
+        {
+            "key": "006",
+            "value": "Pero…"
+        },
+        {
+            "key": "007",
+            "value": "Es… una orden."
+        }
+    ]
+}

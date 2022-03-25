@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿De verdad crees que va a venir el ejército de Fennes?"
+        },
+        {
+            "key": "002",
+            "value": "Según el informe, deberían llegar al anochecer."
+        },
+        {
+            "key": "003",
+            "value": "Si es verdad, deben estar al caer."
+        },
+        {
+            "key": "004",
+            "value": "¿Seguro que no es una trampa?"
+        },
+        {
+            "key": "005",
+            "value": "¿Una trampa, dices?"
+        },
+        {
+            "key": "006",
+            "value": "Bueno, tú mismo dijiste que estaban al tanto de nuestros movimientos."
+        },
+        {
+            "key": "007",
+            "value": "Si ese es el caso, es muy probable que sepan que les hemos preparado una emboscada."
+        },
+        {
+            "key": "008",
+            "value": "¿De verdad cre…?"
+        },
+        {
+            "key": "009",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "010",
+            "value": "Están aquí."
+        },
+        {
+            "key": "011",
+            "value": "Ya veo."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "Preparaos para luchar. Vosotros dos…, brindadme vuestra fuerza."
+        },
+        {
+            "key": "014",
+            "value": "Seré tu espada y tu escudo, Mont."
+        },
+        {
+            "key": "015",
+            "value": "Prometo acatar vuestras órdenes sin rechistar."
+        },
+        {
+            "key": "016",
+            "value": "Gracias. Muchas gracias."
+        },
+        {
+            "key": "017",
+            "value": "¡Ahora!"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Cette fois, je vais vous parler des <color=#0000ff>Cristaux</color> et du <color=#0000ff>butin</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Quand une unité est <color=#0000ff>transportée hors du combat</color>, cela crée un Cristal."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Vous pourrez en trouver de temps à autre sur le terrain au début du combat."
+        },
+        {
+            "key": "004",
+            "value": "Pour les récupérer, il faut attendre qu'une unité termine une action sur la case où se trouve le Cristal. L'unité <color=#0000ff>recouvrera alors ses PV et ses PT</color> et gagnera également en <color=#0000ff>Bravoure</color>."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "005",
+            "value": "Attention ! Les ennemis aussi peuvent récupérer les cristaux !"
+        },
+        {
+            "key": "006",
+            "value": "Vous pouvez aussi <color=#0000ff>obtenir des objets</color> en <color=#0000ff>terrassant des ennemis</color>, c'est ce qu'on appelle le <color=#0000ff>butin</color>."
+        },
+        {
+            "key": "007",
+            "value": "Le nombre d'objets qui constitue votre butin est affiché à côté du <color=#0000ff>coffre</color> en haut de l'écran."
+        },
+        {
+            "key": "008",
+            "value": "Vous pouvez aussi consulter votre butin dans le menu."
+        },
+        {
+            "key": "009",
+            "value": "Ah, Learte semble être aux prises avec l'ennemi. Repoussez-les en vous servant des bonus apportés par les cristaux !"
+        }
+    ]
+}

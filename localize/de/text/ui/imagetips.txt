@@ -1,0 +1,176 @@
+﻿{
+    "infos": [
+        {
+            "key": "TutorialTips_001",
+            "value": "Tutorials"
+        },
+        {
+            "key": "TutorialTips_001_a",
+            "value": "Grundlegende Kampfaktionen"
+        },
+        {
+            "key": "TutorialTips_001_b",
+            "value": "TP- und AP-Fähigkeiten"
+        },
+        {
+            "key": "TutorialTips_002_a",
+            "value": "Fähigkeiten und ihre Besonderheiten"
+        },
+        {
+            "key": "TutorialTips_002_b",
+            "value": "Anrufungsmagie"
+        },
+        {
+            "key": "GuidanceTips_Gacha",
+            "value": "Beschwörungen"
+        },
+        {
+            "key": "GuidanceTips_Quest",
+            "value": "Storyaufträge"
+        },
+        {
+            "key": "GuidanceTips_ChallengeMission",
+            "value": "Hauptbildschirm"
+        },
+        {
+            "key": "GuidanceTips_UnitStrength",
+            "value": "Einheiten verbessern"
+        },
+        {
+            "key": "GuidanceTips_UnitAwake",
+            "value": "Erweckungen und Limitbrüche"
+        },
+        {
+            "key": "GuidanceTips_ArtifactCraft",
+            "value": "Ausrüstung"
+        },
+        {
+            "key": "GuidanceTips_EventQuest",
+            "value": "Eventaufträge"
+        },
+        {
+            "key": "GuidanceTips_VisionCard",
+            "value": "Visionskarten"
+        },
+        {
+            "key": "GuidanceTips_ExplorationChocobo",
+            "value": "Chocobo-Expeditionen & Esper"
+        },
+        {
+            "key": "GuidanceTips_Party",
+            "value": "Aufstellungen"
+        },
+        {
+            "key": "GuidanceTips_MultiQuest",
+            "value": "Multiaufträge"
+        },
+        {
+            "key": "GuidanceTips_Arena",
+            "value": "Arena"
+        },
+        {
+            "key": "GuidanceTips_FreeMatch",
+            "value": "Match-Kämpfe"
+        },
+        {
+            "key": "GuidanceTips_GuildJoin",
+            "value": "Gilden erstellen & Gilden beitreten"
+        },
+        {
+            "key": "GuidanceTips_GuildRookieJoin",
+            "value": "Gilden-Schnupperstunde"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendance",
+            "value": "Gildenlobbys"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendanceRookie",
+            "value": "Gildenlobbys (Anfängereinführung)"
+        },
+        {
+            "key": "GuidanceTips_GuildBarracks",
+            "value": "Die Kaserne"
+        },
+        {
+            "key": "GuidanceTips_GuildStone",
+            "value": "Gildenstatuen"
+        },
+        {
+            "key": "GuidanceTips_GuildBattle",
+            "value": "Gildenkämpfe"
+        },
+        {
+            "key": "GuidanceTips_UnitIntimacy",
+            "value": "Vertrautheit"
+        },
+        {
+            "key": "GuidanceTips_SubQuest",
+            "value": "Unteraufträge"
+        },
+        {
+            "key": "GuidanceTips_CharaQuest",
+            "value": "Charakteraufträge"
+        },
+        {
+            "key": "GuidanceTips_ItemExchange",
+            "value": "Gegenstandstausch"
+        },
+        {
+            "key": "GuidanceTips_SupportUnit",
+            "value": "Begleitereinstellungen"
+        },
+        {
+            "key": "GuidanceTips_Tower",
+            "value": "Porzellanturm"
+        },
+        {
+            "key": "GuidanceTips_Pointquest",
+            "value": "Prüfungen des Urteils"
+        },
+        {
+            "key": "GuidanceTips_LimitedGuildBattle",
+            "value": "Limitierter Gildenkampf"
+        },
+        {
+            "key": "GuidanceTips_GuildHunt",
+            "value": "Gildenaufträge"
+        },
+        {
+            "key": "GuidanceTips_ExJob",
+            "value": "EX-Jobs"
+        },
+        {
+            "key": "GuidanceTips_Mastery",
+            "value": "Kompetenzen"
+        },
+        {
+            "key": "GuidanceTips_BattleRoad",
+            "value": "Auswahlaufträge"
+        },
+        {
+            "key": "GuidanceTips_DraftMatch",
+            "value": "Schnellwahl-Match"
+        },
+        {
+            "key": "GuidanceTips_GuildVCBarracks",
+            "value": "Visionskartenaltar"
+        },
+        {
+            "key": "GuidanceTips_GuildRaid",
+            "value": "Gilden-Kraftproben"
+        },
+        {
+            "key": "GuidanceTips_LeagueGuildBattle",
+            "value": "Gildenherrschaftskämpfe"
+        },
+        {
+            "key": "GuidanceTips_TrustMateria",
+            "value": "Vertrauenssteine"
+        },
+        {
+            "key": "GuidanceTips_Archive",
+            "value": "Abyssum-Bibliothek"
+        }
+    ]
+}

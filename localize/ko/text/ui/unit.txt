@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "PIECE",
+            "value": "훈련"
+        },
+        {
+            "key": "REFRESH",
+            "value": "갱신"
+        },
+        {
+            "key": "ATTACKABLE",
+            "value": "출격 가능 한정"
+        },
+        {
+            "key": "NOT_ENHANCE_WEAPON",
+            "value": "강화할 수 있는 장비가 없습니다."
+        }
+    ]
+}

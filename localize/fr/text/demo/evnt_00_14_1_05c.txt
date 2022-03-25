@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Haan... han... han… C'est tout ?"
+        },
+        {
+            "key": "002",
+            "value": "C'est tout ce que Lykeros peut faire ?"
+        },
+        {
+            "key": "003",
+            "value": "Comme c'est vrai que tu te défends bien…"
+        },
+        {
+            "key": "004",
+            "value": "Tu mérites une mort rapide."
+        },
+        {
+            "key": "005",
+            "value": "Et voilà. Le cas Fennes est réglé."
+        },
+        {
+            "key": "006",
+            "value": "Leurs troupes ont battu en retraite et Pharm n'est plus qu'une ruine."
+        },
+        {
+            "key": "007",
+            "value": "Bien. Nous avons un château à investir, nous."
+        }
+    ]
+}

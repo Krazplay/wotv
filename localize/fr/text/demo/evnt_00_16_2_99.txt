@@ -1,0 +1,364 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Tu vas les laisser repartir sans rien faire ?"
+        },
+        {
+            "key": "002",
+            "value": "Ces va-nu-pieds ne méritent pas notre temps."
+        },
+        {
+            "key": "003",
+            "value": "Je vois…"
+        },
+        {
+            "key": "004",
+            "value": "Bon. Puisque nous avons l'épée, on rentre à la maison ?"
+        },
+        {
+            "key": "005",
+            "value": "Je parie que l'ancien s'inquiète pour nous."
+        },
+        {
+            "key": "006",
+            "value": "Je ne rentrerai pas."
+        },
+        {
+            "key": "007",
+            "value": "Hein ? Pourquoi ?"
+        },
+        {
+            "key": "008",
+            "value": "Je croyais que toute cette histoire sur ta soi-disant exclusion était un mensonge."
+        },
+        {
+            "key": "009",
+            "value": "Je n'ai nulle part où rentrer."
+        },
+        {
+            "key": "010",
+            "value": "Qu'est-ce que tu racontes ?"
+        },
+        {
+            "key": "011",
+            "value": "L'Église doit être à la recherche du maître à l'heure où l'on parle."
+        },
+        {
+            "key": "012",
+            "value": "C'est pourquoi je me devais de vous éloigner, Chel et toi."
+        },
+        {
+            "key": "013",
+            "value": "Ma ruse n'avait pour objectif que d'orienter notre ennemi sur une fausse piste."
+        },
+        {
+            "key": "014",
+            "value": "Et l'ancien ?"
+        },
+        {
+            "key": "015",
+            "value": "Il y a bien longtemps qu'il est parti. J'en suis sûr."
+        },
+        {
+            "key": "016",
+            "value": "Où se cache-t-il… ? Aucune idée."
+        },
+        {
+            "key": "017",
+            "value": "Eh bien, ne devrions-nous pas partir à sa recherche ?"
+        },
+        {
+            "key": "018",
+            "value": "Très bonne idée. Je te laisse t'en charger."
+        },
+        {
+            "key": "019",
+            "value": "Et toi, où vas-tu aller ?"
+        },
+        {
+            "key": "020",
+            "value": "Moi ? J'ai quelques affaires à régler."
+        },
+        {
+            "key": "021",
+            "value": "Les cinq lames restantes ?"
+        },
+        {
+            "key": "022",
+            "value": "Tout juste. C'est ici que je vous fais mes adieux."
+        },
+        {
+            "key": "023",
+            "value": "Hors de question. Je t'accompagne."
+        },
+        {
+            "key": "024",
+            "value": "Moi aussi je veux aller avec toi !"
+        },
+        {
+            "key": "025",
+            "value": "Je ne veux pas vous mettre en danger."
+        },
+        {
+            "key": "026",
+            "value": "Howlet…"
+        },
+        {
+            "key": "027",
+            "value": "Pourquoi, Howlie ? Pourquoi on peut pas venir avec toi ?"
+        },
+        {
+            "key": "028",
+            "value": "Le vent a tourné… Ce qui m'attend ne sera pas de tout repos."
+        },
+        {
+            "key": "029",
+            "value": "Parce que l'Église ne s'arrêtera pas tant qu'elle n'aura pas mis la main sur toutes les lames ?"
+        },
+        {
+            "key": "030",
+            "value": "Exactement."
+        },
+        {
+            "key": "031",
+            "value": "Les types du genre de Khamral ont beau n'être que des valets,"
+        },
+        {
+            "key": "032",
+            "value": "ils ne renonceront pas tant que leurs missions macabres ne sont pas achevées…"
+        },
+        {
+            "key": "033",
+            "value": "Je t'en prie, veille sur eux."
+        },
+        {
+            "key": "034",
+            "value": "Je ne peux pas. Je…"
+        },
+        {
+            "key": "035",
+            "value": "N'étais-tu pas sur le point de sacrifier ta vie ?"
+        },
+        {
+            "key": "036",
+            "value": "Et quoi ? Je te suis redevable maintenant ?"
+        },
+        {
+            "key": "037",
+            "value": "Pas du tout. C'est toi seule qui as décidé que tu voulais vivre."
+        },
+        {
+            "key": "038",
+            "value": "Tu as délaissé la mort pour te battre à mes côtés."
+        },
+        {
+            "key": "039",
+            "value": "J'ai des comptes à régler avec l'Église. Rien de plus."
+        },
+        {
+            "key": "040",
+            "value": "Je sais. Et elle n'hésitera pas à s'en prendre aux miens."
+        },
+        {
+            "key": "041",
+            "value": "Pourquoi moi ?"
+        },
+        {
+            "key": "042",
+            "value": "De ce que j'ai vu, ta force ne fait aucun doute."
+        },
+        {
+            "key": "043",
+            "value": "…"
+        },
+        {
+            "key": "044",
+            "value": "Howlie !"
+        },
+        {
+            "key": "045",
+            "value": "Pardonne-moi, Chel. Je vais devoir m'absenter pendant un moment."
+        },
+        {
+            "key": "046",
+            "value": "Non ! Je veux pas ! Je veux rester avec toi, Howlie !"
+        },
+        {
+            "key": "047",
+            "value": "Pour toujours ! Pour toujours de toujours !"
+        },
+        {
+            "key": "048",
+            "value": "Tout homme se retrouve un jour à devoir accomplir le devoir qui lui incombe."
+        },
+        {
+            "key": "049",
+            "value": "Je ne serai pas long… C'est seulement jusqu'à ce que ma tâche soit terminée."
+        },
+        {
+            "key": "050",
+            "value": "Pas long ? Vraiment pas très longtemps ?"
+        },
+        {
+            "key": "051",
+            "value": "Voilà, Chel. Juste un petit moment."
+        },
+        {
+            "key": "052",
+            "value": "Mais tu dois me promettre que toi aussi tu vas accomplir ton devoir."
+        },
+        {
+            "key": "053",
+            "value": "Comme quoi ?"
+        },
+        {
+            "key": "054",
+            "value": "Faire sourire cette jeune femme, bien sûr."
+        },
+        {
+            "key": "055",
+            "value": "C’est ça, mon devoir ?"
+        },
+        {
+            "key": "056",
+            "value": "Tu as dit vouloir la voir heureuse, non ?"
+        },
+        {
+            "key": "057",
+            "value": "Ah oui, c'est vrai !"
+        },
+        {
+            "key": "058",
+            "value": "D'accord, Howlie ! Regarde-moi bien ! Je vais y arriver !"
+        },
+        {
+            "key": "059",
+            "value": "Et tu dois aussi devenir plus forte."
+        },
+        {
+            "key": "060",
+            "value": "Promis ! Je deviendrai super forte !"
+        },
+        {
+            "key": "061",
+            "value": "Et tu dois devenir encore plus belle…"
+        },
+        {
+            "key": "062",
+            "value": "Quoi ? Mais je suis déjà super belle !"
+        },
+        {
+            "key": "063",
+            "value": "J'ai hâte de voir la belle femme que tu seras devenue."
+        },
+        {
+            "key": "064",
+            "value": "D’accord !"
+        },
+        {
+            "key": "065",
+            "value": "Thytas, je peux compter sur toi pour la protéger des dangers ?"
+        },
+        {
+            "key": "066",
+            "value": "Je ne suis pas un guerrier de ta trempe…"
+        },
+        {
+            "key": "067",
+            "value": "Mais tu restes mon frère. Tu en es tout à fait capable."
+        },
+        {
+            "key": "068",
+            "value": "Nous ne serions pas frères de sang autrement."
+        },
+        {
+            "key": "069",
+            "value": "Je ne pense pas que c'est ainsi que ça fonctionne…　"
+        },
+        {
+            "key": "070",
+            "value": "Pardonne-moi Thytas. Mais quand on est aussi fort que moi, on a tendance à avoir confiance en soi. Je me retiens, pourtant, contrairement à ce que tu sembles penser."
+        },
+        {
+            "key": "071",
+            "value": "Si tu le dis…"
+        },
+        {
+            "key": "072",
+            "value": "Je crois que tout est dit."
+        },
+        {
+            "key": "073",
+            "value": "Laisse-moi te le demander encore une fois. Tu comptes vraiment les laisser aux soins d'une étrangère comme moi ?"
+        },
+        {
+            "key": "074",
+            "value": "Chel est mon trésor, ma fierté et ma joie."
+        },
+        {
+            "key": "075",
+            "value": "Pardonne-moi…"
+        },
+        {
+            "key": "076",
+            "value": "Si seulement j'étais meilleur guerrier, nous n'aurions pas à t'imposer cette lourde tâche…"
+        },
+        {
+            "key": "077",
+            "value": "Non…"
+        },
+        {
+            "key": "078",
+            "value": "Nul besoin de t'excuser. En réalité, c'est plutôt à moi de vous remercier."
+        },
+        {
+            "key": "079",
+            "value": "Comment cela ?"
+        },
+        {
+            "key": "080",
+            "value": "Si je m'étais laissée mourir pour retrouver mon frère comme prévu… Il ne me l'aurait jamais pardonné."
+        },
+        {
+            "key": "081",
+            "value": "Il m'aurait maudit de ne pas avoir protégé ta tendre sœur…"
+        },
+        {
+            "key": "082",
+            "value": "Je veux pouvoir porter la tête haute quand je retrouverai mon frère."
+        },
+        {
+            "key": "083",
+            "value": "Alors s'il-te-plaît, permets-moi de vous aider."
+        },
+        {
+            "key": "084",
+            "value": "…"
+        },
+        {
+            "key": "085",
+            "value": "Je ne pense pas pouvoir vous promettre un sourire."
+        },
+        {
+            "key": "086",
+            "value": "Mes blessures sont profondes et ne guériront certainement jamais…"
+        },
+        {
+            "key": "087",
+            "value": "Mais…"
+        },
+        {
+            "key": "088",
+            "value": "Peut-être qu'en continuant de vivre, je pourrai mettre un sourire sur le visage des autres…"
+        },
+        {
+            "key": "089",
+            "value": "Oui…"
+        },
+        {
+            "key": "090",
+            "value": "S'il y a bien quelqu'un qui en soit capable, c'est toi."
+        }
+    ]
+}

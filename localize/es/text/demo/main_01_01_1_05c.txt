@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡¿De dónde diantres han salido?!"
+        },
+        {
+            "key": "002",
+            "value": "Leonis, un pequeño país rodeado de potencias… Ese anillo ha tenido que ser la clave para preservar su independencia."
+        },
+        {
+            "key": "003",
+            "value": "Sois muy observadora, lady Machérie, no esperaba menos."
+        },
+        {
+            "key": "004",
+            "value": "Me imagino que ese anillo… se trata de una reliquia ancestral, ¿verdad?"
+        },
+        {
+            "key": "005",
+            "value": "Correcto. Algo que solo os mostraría a vos, milady."
+        },
+        {
+            "key": "006",
+            "value": "Esto será la prueba de nuestra confianza mutua."
+        },
+        {
+            "key": "007",
+            "value": "Sí…, la prueba de nuestra confianza."
+        },
+        {
+            "key": "008",
+            "value": "Lady Machérie…"
+        },
+        {
+            "key": "009",
+            "value": "No pasa nada, estoy bien."
+        },
+        {
+            "key": "010",
+            "value": "¿Os encontráis bien?"
+        },
+        {
+            "key": "011",
+            "value": "Sí, de verdad, estoy bien."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "¡Padre! ¡Vienen más refuerzos enemigos!"
+        },
+        {
+            "key": "014",
+            "value": "Panda de salvajes. Retirémonos, contraatacaremos cuando estemos en mejores condiciones."
+        }
+    ]
+}

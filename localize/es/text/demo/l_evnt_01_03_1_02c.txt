@@ -1,0 +1,596 @@
+﻿{
+    "infos": [
+        {
+            "key": "053",
+            "value": "Buf... No esperaba que nos atacaran monstruos nada más llegar."
+        },
+        {
+            "key": "054",
+            "value": "Lo que decían los informes era cierto. La magia de los cristales núcleo provoca que los monstruos se vuelvan más agresivos."
+        },
+        {
+            "key": "055",
+            "value": "Está claro que vamos por buen camino. El cristal núcleo está en alguna parte de esta tierra."
+        },
+        {
+            "key": "056",
+            "value": "¿Ves esa fortaleza de allí? Es el castillo de Wezette."
+        },
+        {
+            "key": "057",
+            "value": "Increíble..."
+        },
+        {
+            "key": "058",
+            "value": "Pero no hemos venido a disfrutar de las vistas."
+        },
+        {
+            "key": "059",
+            "value": "Nuestra misión es recuperar el cristal núcleo."
+        },
+        {
+            "key": "060",
+            "value": "¡Sí, señor!"
+        },
+        {
+            "key": "061",
+            "value": "Por desgracia no está aquí. Siento su presencia levemente, pero no el cristal en sí."
+        },
+        {
+            "key": "062",
+            "value": "¿Crees que alguien se nos ha adelantado?"
+        },
+        {
+            "key": "063",
+            "value": "Es posible. Aunque por todo lo que sabemos, también podría estar en el estómago de un monstruo."
+        },
+        {
+            "key": "064",
+            "value": "¿En el estómago de un monstruo? Eso me trae recuerdos que preferiría olvidar."
+        },
+        {
+            "key": "065",
+            "value": "Sean cuales sean las circunstancias, nuestra misión sigue siendo la misma. No importa quién o qué monstruo nos salga al paso."
+        },
+        {
+            "key": "066",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "067",
+            "value": "Parece que estos también tienen hambre. Míralos, con los colmillos desnudos y babeando…"
+        },
+        {
+            "key": "068",
+            "value": "¿Crees que también están bajo la influencia del cristal núcleo?"
+        },
+        {
+            "key": "069",
+            "value": "Es lo más probable."
+        },
+        {
+            "key": "070",
+            "value": "Pero embrujados o no por el cristal, no cuentan con su protección."
+        },
+        {
+            "key": "071",
+            "value": "Como Guerrero de los Cristales, no puedo dejar que estas bestias corran libres."
+        },
+        {
+            "key": "072",
+            "value": "¡Vamos! Acabemos con ellos con rapidez y decisión."
+        },
+        {
+            "key": "073",
+            "value": "Ju... Mucho ladrar y poco morder."
+        },
+        {
+            "key": "074",
+            "value": "Pese a haber enloquecido se movían con bastante lentitud."
+        },
+        {
+            "key": "075",
+            "value": "Bien visto, aprendiz. Parece que Llum y Cetia han logrado enseñarte algo durante tus viajes."
+        },
+        {
+            "key": "076",
+            "value": "Estas bestias no solo estaban medio muertas de hambre, también estaban casi congeladas."
+        },
+        {
+            "key": "077",
+            "value": "A pesar de la influencia del cristal núcleo no tenían la fuerza suficiente como para suponer un problema."
+        },
+        {
+            "key": "078",
+            "value": "Estaban demasiado debilitadas desde el principio."
+        },
+        {
+            "key": "079",
+            "value": "Ya veo..."
+        },
+        {
+            "key": "080",
+            "value": "Aun así, han atacado en el momento en que han visto una presa potencial. Su resolución es admirable, debo decirlo."
+        },
+        {
+            "key": "081",
+            "value": "Con todo, una manada lo bastante grande podría ser peligrosa. La cantidad es una cualidad por sí sola."
+        },
+        {
+            "key": "082",
+            "value": "Así que, por ahora, démonos prisa en llegar a Wezette para obtener toda la información posible."
+        },
+        {
+            "key": "083",
+            "value": "Espero que encontremos pistas que valgan la pena."
+        },
+        {
+            "key": "084",
+            "value": "Sí... Lo ideal sería que pudiéramos poner fin a esto sin contratiempos."
+        },
+        {
+            "key": "085",
+            "value": "He preguntado por ahí, pero nadie parece saber nada del cristal núcleo."
+        },
+        {
+            "key": "086",
+            "value": "Oye, Thranan... ¿Soy solo yo o hay algo extraño en esta gente? Se los ve a todos..., no sé..., apagados."
+        },
+        {
+            "key": "087",
+            "value": "Sí. Yo también me había dado cuenta y por eso he ahondado un poco en las circunstancias que rodean esta nación."
+        },
+        {
+            "key": "088",
+            "value": "Parece que se cuecen problemas entre Wezette y su poderoso vecino al oeste, Hourne."
+        },
+        {
+            "key": "089",
+            "value": "La situación está muy tensa, y los habitantes de este reino se ahogan en la pobreza, se mueren de hambre y no tienen adónde huir."
+        },
+        {
+            "key": "090",
+            "value": "Pobreza, ¿eh?"
+        },
+        {
+            "key": "091",
+            "value": "Pues me da la sensación de que hay algunos que se alimentan bastante bien."
+        },
+        {
+            "key": "092",
+            "value": "Esos serán los nobles. Hacen lo posible por ganarse el favor del rey para así gozar de su protección y vivir rodeados de lujos."
+        },
+        {
+            "key": "093",
+            "value": "Eso no es justo. ¡¿Cómo puede un rey favorecer a la minoría y dejar que la mayoría de sus súbditos se muera de hambre?!"
+        },
+        {
+            "key": "094",
+            "value": "Un país tan grande debería tener recursos suficientes para salir adelante."
+        },
+        {
+            "key": "095",
+            "value": "Quizá sí o quizá no. En cualquier caso, no nos concierne. Y no estamos en posición de inmiscuirnos."
+        },
+        {
+            "key": "096",
+            "value": "¿No te importa en absoluto?"
+        },
+        {
+            "key": "097",
+            "value": "Lo que me importa es nuestra misión, aprendiz. Hemos venido a recuperar el cristal núcleo. ¿O acaso se te ha olvidado?"
+        },
+        {
+            "key": "098",
+            "value": "Si los habitantes no tienen voluntad para ayudarse a sí mismos, ¿qué ayuda podríamos ofrecerles nosotros?"
+        },
+        {
+            "key": "099",
+            "value": "Es su deber poner remedio a su situación, y en cambio han decidido quedarse esperando a que pase algo, con la boca abierta…"
+        },
+        {
+            "key": "100",
+            "value": "Es lamentable... Este es el precio que han de pagar por negarse a seguir buscando una solución. Aunque probablemente ni siquiera sean conscientes."
+        },
+        {
+            "key": "101",
+            "value": "Siento decir esto, Lucius, pero no puedo compadecer o sentir lástima por aquellos que no hacen nada por salvarse a sí mismos."
+        },
+        {
+            "key": "102",
+            "value": "Para cambiar tu vida debes pensar, y luego actuar con resolución."
+        },
+        {
+            "key": "103",
+            "value": "El tiempo que pasan pensando en aquellos que sucumbieron sin llegar siquiera a levantarse es tiempo perdido."
+        },
+        {
+            "key": "104",
+            "value": "Su-supongo que tienes razón, pero…"
+        },
+        {
+            "key": "105",
+            "value": "No deberías juzgar a esta gente con tanta crueldad."
+        },
+        {
+            "key": "106",
+            "value": "¿Hm? ¿Y tú quién eres?"
+        },
+        {
+            "key": "107",
+            "value": "Me llamo Graciela. Soy la heredera al trono de este reino, al menos por ahora."
+        },
+        {
+            "key": "108",
+            "value": "Y yo soy Cadia, la hermana pequeña de lady Graciela, y su guardiana personal."
+        },
+        {
+            "key": "109",
+            "value": "¿La heredera al trono? Es un honor."
+        },
+        {
+            "key": "110",
+            "value": "Pero decidme: ¿suelen los miembros de la realeza merodear por los alrededores del castillo y acercarse a hablar con extraños?"
+        },
+        {
+            "key": "111",
+            "value": "He venido a la ciudad a aprender más cosas del reino. A ver cómo viven sus habitantes con mis propios ojos."
+        },
+        {
+            "key": "112",
+            "value": "No he podido evitar oír vuestra conversación y me ha picado la curiosidad."
+        },
+        {
+            "key": "113",
+            "value": "No estamos planeando iniciar una revolución, si es eso lo que estás pensando."
+        },
+        {
+            "key": "114",
+            "value": "No... Pero estoy de acuerdo contigo, jovencito, y no con tu amigo, el señor de ahí. Hay que acabar con la pobreza."
+        },
+        {
+            "key": "115",
+            "value": "Nadie se preocupa más por los apuros de esta gente que mi hermana."
+        },
+        {
+            "key": "116",
+            "value": "No es ningún secreto que Wezette es una tierra sembrada de desesperación. La esperanza nos ha abandonado."
+        },
+        {
+            "key": "117",
+            "value": "Y aun así, aquí estáis vosotros, hablando acerca de sus problemas. Es normal que me haya podido la curiosidad."
+        },
+        {
+            "key": "118",
+            "value": "Esto nos pasa por hablar en voz tan alta... Lucius, a partir de ahora, si tienes algo que decir, dilo bajito."
+        },
+        {
+            "key": "119",
+            "value": "Pero si eres tú el que hablaba a grito pelado…"
+        },
+        {
+            "key": "120",
+            "value": "Je, je. Sois una pareja interesante. Y desde luego, no sois de aquí. ¿Venís de tierras lejanas?"
+        },
+        {
+            "key": "121",
+            "value": "Eh, bueno, sí... y no. Es un poco complicado."
+        },
+        {
+            "key": "122",
+            "value": "Bastará con decir que somos dos viajeros en busca de un cristal núcleo."
+        },
+        {
+            "key": "123",
+            "value": "Es un cristal con una forma y color únicos, muy peculiar. ¿Por casualidad no habréis visto nada parecido?"
+        },
+        {
+            "key": "124",
+            "value": "¿Un cristal núcleo?... Lo siento, no estoy segura de poder ayudaros."
+        },
+        {
+            "key": "125",
+            "value": "Pero aclaradme una cosa: es sin duda un tipo de cristal, ¿verdad?"
+        },
+        {
+            "key": "126",
+            "value": "¿Estás pensando lo mismo que yo?…"
+        },
+        {
+            "key": "127",
+            "value": "Sí. Es posible que Minwu sepa algo."
+        },
+        {
+            "key": "128",
+            "value": "¿Quién es Minwu?"
+        },
+        {
+            "key": "129",
+            "value": "Una amiga que sabe un montón de cosas acerca de cristales, magia y demás. Nos está esperando en la base."
+        },
+        {
+            "key": "130",
+            "value": "Puede que conocernos haya sido cosa del destino. ¿Queréis que os la presentemos?"
+        },
+        {
+            "key": "131",
+            "value": "¿Tú qué dices, Thranan?"
+        },
+        {
+            "key": "132",
+            "value": "Digo que sí, por supuesto. Sin ninguna duda."
+        },
+        {
+            "key": "133",
+            "value": "Decidido, pues. Venid, os mostraré el cuartel general de Spirare, mi brigada personal."
+        },
+        {
+            "key": "134",
+            "value": "Ya hemos vuelto. ¿Está Minwu?"
+        },
+        {
+            "key": "135",
+            "value": "Lady Graciela, ¿me llamabais?"
+        },
+        {
+            "key": "136",
+            "value": "Quiero presentarte a unas personas. Están buscando un objeto extraño llamado cristal núcleo."
+        },
+        {
+            "key": "137",
+            "value": "Hola, me llamo Lucius."
+        },
+        {
+            "key": "138",
+            "value": "Thranan, a tu servicio."
+        },
+        {
+            "key": "139",
+            "value": "Encantada de conoceros. Soy Minwu, ayudante de lady Graciela."
+        },
+        {
+            "key": "140",
+            "value": "Nos preguntábamos si habías oído hablar de cierto cristal… Es bastante peculiar, muy diferente al resto."
+        },
+        {
+            "key": "141",
+            "value": "¿Un cristal peculiar? Vaya..., tiene gracia que lo mencionéis…"
+        },
+        {
+            "key": "142",
+            "value": "¿Cómo? ¿Sabes algo de él?"
+        },
+        {
+            "key": "143",
+            "value": "Sí. Lo acabo de oír de labios de un amigo del castillo de Wezette…"
+        },
+        {
+            "key": "144",
+            "value": "Parece ser que hace poco encontraron un cristal nuevo e insólito."
+        },
+        {
+            "key": "145",
+            "value": "No sé si es el que buscáis, pero puede que valga la pena echar un vistazo."
+        },
+        {
+            "key": "146",
+            "value": "Es la pista más importante que hemos conseguido hasta ahora. Y no creí que pudiéramos encontrarla tan pronto."
+        },
+        {
+            "key": "147",
+            "value": "Si ese es el cristal que estáis buscando…, ¿hay algún motivo por el que debamos preocuparnos?"
+        },
+        {
+            "key": "148",
+            "value": "No. No si el cristal se usa para su propósito original."
+        },
+        {
+            "key": "149",
+            "value": "Aunque sería peligroso que cayera en manos de algún idiota egoísta."
+        },
+        {
+            "key": "150",
+            "value": "He oído que este reino está a punto de entrar en guerra contra el poderoso Hourne."
+        },
+        {
+            "key": "151",
+            "value": "En tales circunstancias, los líderes militares estarían más que dispuestos a arriesgarlo todo por asegurarse la victoria."
+        },
+        {
+            "key": "152",
+            "value": "Y el cristal núcleo contiene poder mágico suficiente como para desequilibrar la balanza en una guerra."
+        },
+        {
+            "key": "153",
+            "value": "Oh, y hace poco supimos que los monstruos se vuelven mucho más agresivos cuando se exponen a su poder."
+        },
+        {
+            "key": "154",
+            "value": "Lo que significa que su sola presencia en estas tierras constituye un enorme riesgo."
+        },
+        {
+            "key": "155",
+            "value": "En ese caso..., puede que tengamos un problema."
+        },
+        {
+            "key": "156",
+            "value": "¿A qué te refieres?"
+        },
+        {
+            "key": "157",
+            "value": "Resulta que las autoridades han decidido estudiarlo con más detalle."
+        },
+        {
+            "key": "158",
+            "value": "Van a llevárselo al instituto de investigación mágica."
+        },
+        {
+            "key": "159",
+            "value": "Vaya... Claro."
+        },
+        {
+            "key": "160",
+            "value": "Si lo que decís es cierto, ese tal cristal núcleo podría otorgarle a Wezette un ejército con un poder inimaginable."
+        },
+        {
+            "key": "161",
+            "value": "Pero también podría usarse para fines pacíficos. Imaginad si pudiéramos darle nuevas esperanzas a la gente…"
+        },
+        {
+            "key": "162",
+            "value": "Eso es con lo que todos soñamos, ¿no? Aunque, claro… dudo que eso vaya a suceder."
+        },
+        {
+            "key": "163",
+            "value": "Los nobles tendrían mucho que perder. Los pobres están condenados a existir solo para ser explotados."
+        },
+        {
+            "key": "164",
+            "value": "…"
+        },
+        {
+            "key": "165",
+            "value": "¿En qué estás pensando, Lucius?"
+        },
+        {
+            "key": "166",
+            "value": "¿Podríamos hablar en privado?"
+        },
+        {
+            "key": "167",
+            "value": "Lo siento, pero no quería decir esto delante de ellas."
+        },
+        {
+            "key": "168",
+            "value": "Ya veo."
+        },
+        {
+            "key": "169",
+            "value": "Si esta gente tuviera el cristal núcleo, podrían usarlo para mejorar las vidas de los habitantes de este país."
+        },
+        {
+            "key": "170",
+            "value": "Pero eso nunca sucederá si nos llevamos el cristal lejos de aquí."
+        },
+        {
+            "key": "171",
+            "value": "Es como si les estuviéramos robando la única oportunidad que tienen de recuperarse."
+        },
+        {
+            "key": "172",
+            "value": "Y eso hace que me pregunte si realmente estamos haciendo lo correcto."
+        },
+        {
+            "key": "173",
+            "value": "Entonces, ¿abandonarías tu deber para ayudar a las gentes de esta tierra extraña? ¿Tan poco valor tiene para ti el juramento?"
+        },
+        {
+            "key": "174",
+            "value": "No quería decir eso..."
+        },
+        {
+            "key": "175",
+            "value": "Deja que te dé un consejo: un Guerrero de los Cristales jamás debe vacilar. Si lo haces, estarás debilitando tu mente y tu espada por propia voluntad."
+        },
+        {
+            "key": "176",
+            "value": "La duda nace de la falta de resolución. Si dejas que se apodere de ti, te arrebatará el coraje."
+        },
+        {
+            "key": "177",
+            "value": "Mi resolución..."
+        },
+        {
+            "key": "178",
+            "value": "¡Si alguna vez crees que te estás apartando del camino, recuerda tu misión! ¡Concéntrate en lo que tienes que hacer!"
+        },
+        {
+            "key": "179",
+            "value": "Sufre si así ha de ser, pero nunca abandones tu resolución. No dejes que tu mente se detenga un solo instante, porque ella te guiará hacia la esperanza."
+        },
+        {
+            "key": "180",
+            "value": "Thranan..."
+        },
+        {
+            "key": "181",
+            "value": "En cualquier caso, es el propio reino el que tiene que resolver sus problemas."
+        },
+        {
+            "key": "182",
+            "value": "Nosotros somos intrusos, y no estamos en posición de intervenir."
+        },
+        {
+            "key": "183",
+            "value": "Antes de preocuparte por los asuntos de otros, preocúpate por los tuyos."
+        },
+        {
+            "key": "184",
+            "value": "Ti-tienes razón, por supuesto. Lo siento. ¡No debo olvidar cuál es mi deber!"
+        },
+        {
+            "key": "185",
+            "value": "Devolver los cristales núcleo y restaurar el equilibrio del universo. ¡Esa es mi misión!"
+        },
+        {
+            "key": "186",
+            "value": "Exacto, Lucius. Aprendes rápido."
+        },
+        {
+            "key": "187",
+            "value": "¿Qué estáis susurrando por ahí?"
+        },
+        {
+            "key": "188",
+            "value": "Mis disculpas. Es un asunto personal, no tiene importancia."
+        },
+        {
+            "key": "189",
+            "value": "Y ahora, Minwu, ¿podrías decirnos dónde encontrar ese instituto de investigación mágica?"
+        },
+        {
+            "key": "190",
+            "value": "Está más allá de las Llanuras Nevadas. Hay una distancia considerable, pero se puede llegar a pie."
+        },
+        {
+            "key": "191",
+            "value": "Gracias por la información. Si somos rápidos, puede que logremos interceptar el cristal antes de que llegue a su destino."
+        },
+        {
+            "key": "192",
+            "value": "¡Sí! ¡Muchas gracias! Estamos en deuda con… ¿Eh? ¿Thranan? ¡Espérame!"
+        },
+        {
+            "key": "193",
+            "value": "Ya se han ido."
+        },
+        {
+            "key": "194",
+            "value": "¿Quiénes eran al final?"
+        },
+        {
+            "key": "195",
+            "value": "No lo sé. Pero no parecían tener malas intenciones."
+        },
+        {
+            "key": "196",
+            "value": "Bien, pues. Es hora de que me vaya yo también."
+        },
+        {
+            "key": "197",
+            "value": "¿Hermana?..."
+        },
+        {
+            "key": "198",
+            "value": "No pasa nada, Cadia. Kuri quiere verme, eso es todo."
+        },
+        {
+            "key": "199",
+            "value": "Por favor, ten cuidado. Ese hombre es un bestia sin corazón."
+        },
+        {
+            "key": "200",
+            "value": "Créeme, sé mejor que nadie cómo es."
+        }
+    ]
+}

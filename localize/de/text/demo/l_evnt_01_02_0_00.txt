@@ -1,0 +1,572 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Jume! Die nächste Runde gewinne ich!"
+        },
+        {
+            "key": "002",
+            "value": "Du bist einfach zu langsam. So werden dir deine Feinde irgendwann in den Rücken fallen."
+        },
+        {
+            "key": "003",
+            "value": "Argh ..."
+        },
+        {
+            "key": "004",
+            "value": "Und wirbel deine Waffe nicht so wild herum. Das bringt dir gar nichts."
+        },
+        {
+            "key": "005",
+            "value": "Undisziplinierte Attacken machen dich angreifbar."
+        },
+        {
+            "key": "006",
+            "value": "Mein Schwert!"
+        },
+        {
+            "key": "007",
+            "value": "Du musst es schon richtig fest in der Hand halten. Du hast wieder verloren."
+        },
+        {
+            "key": "008",
+            "value": "Ich hatte von Anfang an keine Chance. Bevor ich dich schlagen kann, sind die Sterne im Universum längst verglüht."
+        },
+        {
+            "key": "009",
+            "value": "Ich will keine Ausreden hören. Schwächlinge können wir bei den Kristallkriegern nicht gebrauchen, klar?"
+        },
+        {
+            "key": "010",
+            "value": "Agh ... Ich weiß doch."
+        },
+        {
+            "key": "011",
+            "value": "Du könntest ruhig etwas netter zu ihm sein."
+        },
+        {
+            "key": "012",
+            "value": "Setia. Was machst du denn hier?"
+        },
+        {
+            "key": "013",
+            "value": "Wenn ich jetzt sage, dass ich mir unseren Frischling mal anschauen wollte, würdest du mir das abkaufen?"
+        },
+        {
+            "key": "014",
+            "value": "Davon hättest du nichts. Er hat bislang nicht mal einen Treffer bei mir landen können."
+        },
+        {
+            "key": "015",
+            "value": "Also ich finde ja, dass er Potential hat. Schließlich hält er sogar dein hartes Training durch."
+        },
+        {
+            "key": "016",
+            "value": "Ich mag Leute, die Durchhaltevermögen besitzen."
+        },
+        {
+            "key": "017",
+            "value": "Ein bisschen weniger Gemecker wäre allerdings schön."
+        },
+        {
+            "key": "018",
+            "value": "Auf dieser Welt ist schließlich nichts unmöglich."
+        },
+        {
+            "key": "019",
+            "value": "Wie immer redest du wie ein Wasserfall? Also, was willst du nun wirklich?"
+        },
+        {
+            "key": "020",
+            "value": "Ich möchte, dass unser Frischling mir dabei hilft, den zweiten Kernkristall aufzuspüren."
+        },
+        {
+            "key": "021",
+            "value": "Allein wärst du besser dran. Lucio benötigt noch viel Training."
+        },
+        {
+            "key": "022",
+            "value": "J-Jume ..."
+        },
+        {
+            "key": "023",
+            "value": "Jume, vergiss nicht, dass ich das zu entscheiden habe."
+        },
+        {
+            "key": "024",
+            "value": "Oder möchtest du ihn möglicherweise ganz für dich allein haben?"
+        },
+        {
+            "key": "025",
+            "value": "Na gut. Du kannst ihn haben, wenn du damit aufhörst, meine Absichten falsch zu interpretieren."
+        },
+        {
+            "key": "026",
+            "value": "Ich wusste, du verstehst."
+        },
+        {
+            "key": "027",
+            "value": "Lucio war dein Name, oder?"
+        },
+        {
+            "key": "028",
+            "value": "J-Jawohl, Lucio. Ich bin allerdings noch in der Ausbildung."
+        },
+        {
+            "key": "029",
+            "value": "Mit deinem Elan kommen wir schon klar. Reden wir also über unsere Mission, Lucio."
+        },
+        {
+            "key": "030",
+            "value": "Wir beide werden den zweiten Kernkristall zurückholen!"
+        },
+        {
+            "key": "031",
+            "value": "Ziehen wir los!"
+        },
+        {
+            "key": "032",
+            "value": "Sofort? K-Könnte ich vielleicht erst eine kleine Pause bekommen?"
+        },
+        {
+            "key": "033",
+            "value": "Ach, die brauchst du nicht. Der Geist ist stärker als der Körper - zwing dich einfach."
+        },
+        {
+            "key": "034",
+            "value": "Auf geht's, Lucio! Auf nach Ardra!"
+        },
+        {
+            "key": "035",
+            "value": "Habe ich hier gar nicht mitzureden? H-Hey!"
+        },
+        {
+            "key": "036",
+            "value": "Nur Wasser in Sicht, aber kein Weg um rüberzukommen."
+        },
+        {
+            "key": "037",
+            "value": "*Seufz* Wie sollen wir Ovis erreichen?"
+        },
+        {
+            "key": "038",
+            "value": "Dabei bin ich, der tapfere Camillo, bereits dabei, zur Rettung zu eilen."
+        },
+        {
+            "key": "039",
+            "value": "Gute Güte. Ihre armen Herzen werden gegen diesen Charme wohl keine Chance haben."
+        },
+        {
+            "key": "040",
+            "value": "Verzeiht, holde Maiden. Ich habe nur Augen für Margery."
+        },
+        {
+            "key": "041",
+            "value": "Du willst auch so schnell wie möglich nach Ovis, oder?"
+        },
+        {
+            "key": "042",
+            "value": "..."
+        },
+        {
+            "key": "043",
+            "value": "Elsirelle?"
+        },
+        {
+            "key": "044",
+            "value": "Chr ... Chr ..."
+        },
+        {
+            "key": "045",
+            "value": "Und wieder am Schlafen. Wie kann man nur so unbesorgt sein."
+        },
+        {
+            "key": "046",
+            "value": "*Gähn* Wenn keine Monster in der Nähe sind, bin ich immer etwas unaufmerksam. Hast du was gesagt?"
+        },
+        {
+            "key": "047",
+            "value": "Ja, dass wir Ovis retten und Margerys Zuneigung auf mich lenken werden."
+        },
+        {
+            "key": "048",
+            "value": "Ach, die alte Leier. Und dafür bin ich jetzt wach geworden."
+        },
+        {
+            "key": "049",
+            "value": "Bist du nach einem Nickerchen immer so mürrisch? Hm?"
+        },
+        {
+            "key": "050",
+            "value": "Was ist los? Bist du etwa auch müde?"
+        },
+        {
+            "key": "051",
+            "value": "Das Problem hast nur du. Da drüben liegt übrigens was Seltsames auf dem Boden."
+        },
+        {
+            "key": "052",
+            "value": "Wow. So einen großen Kristall habe ich noch nie gesehen."
+        },
+        {
+            "key": "053",
+            "value": "Hier ist sicher jemand eingeschlafen und hat ihn verloren."
+        },
+        {
+            "key": "054",
+            "value": "Wie gesagt, das Problem hast nur du."
+        },
+        {
+            "key": "055",
+            "value": "Aber der ist wirklich seltsam. Er ist dichter als gewöhnliche Kristalle ... und wie er glänzt."
+        },
+        {
+            "key": "056",
+            "value": "Dafür würde man sicher einen tollen Preis bekommen. Wir sollten ihn für unsere Reisen nutzen, schließlich haben wir derzeit nichts anderes in Aussicht."
+        },
+        {
+            "key": "057",
+            "value": "Aber vielleicht gehört der jemandem."
+        },
+        {
+            "key": "058",
+            "value": "Da steht zumindest kein Name drauf. Und der Besitzer würde ihn wohl auch kaum wiederfinden."
+        },
+        {
+            "key": "059",
+            "value": "Außerdem müssen wir ein Boot kaufen, wenn wir Ovis erreichen wollen."
+        },
+        {
+            "key": "060",
+            "value": "Dafür benötigen wir nunmal genügend Gil."
+        },
+        {
+            "key": "061",
+            "value": "Also, verkaufen wir den Kristall und versuchen zumindest, ohne Schulden aus der Sache zu kommen."
+        },
+        {
+            "key": "062",
+            "value": "Wenn es um einen Vorteil für dich geht, wirst du immer plötzlich ganz logisch."
+        },
+        {
+            "key": "063",
+            "value": "Du solltest mich schon ein wenig ernster nehmen. Außerdem haben wir nun endlich die Chance den See nach Ovis zu überqueren."
+        },
+        {
+            "key": "064",
+            "value": "Hm. Ich werde ihn lieber bei mir sicher verwahren. Du würdest ihn doch nur fallen lassen, wenn du wieder einpennst."
+        },
+        {
+            "key": "065",
+            "value": "Wie gemein. Das würde mir niemals passieren. Glaube ich ..."
+        },
+        {
+            "key": "066",
+            "value": "Muss gerade die Person sagen, die einen wichtigen Moment in der Geschichte ihres Landes verschlafen hat."
+        },
+        {
+            "key": "067",
+            "value": "Gut, machen wir uns erstmal raus aus dem Wald."
+        },
+        {
+            "key": "068",
+            "value": "Wenn du wieder einschläfst, lass ich dich einfach an Ort und Stelle liegen, kapiert?"
+        },
+        {
+            "key": "069",
+            "value": "Keine Sorge. Ich bin eine meisterhafte Schläferin und kann dir auch schlafend problemlos folgen."
+        },
+        {
+            "key": "070",
+            "value": "Du kannst im Stehen schlafen und laufen?"
+        },
+        {
+            "key": "071",
+            "value": "Ganz schön viele Leute mit Waffen."
+        },
+        {
+            "key": "072",
+            "value": "So wie die aussehen, müssen das Söldner sein. Dieses Gebiet befindet sich sicherlich im Krieg."
+        },
+        {
+            "key": "073",
+            "value": "Krieg?"
+        },
+        {
+            "key": "074",
+            "value": "Krieg habe ich noch nie wirklich verstanden."
+        },
+        {
+            "key": "075",
+            "value": "Die müssten sich einfach nur richtig aussprechen, um eine Lösung zu finden."
+        },
+        {
+            "key": "076",
+            "value": "Hahaha ..."
+        },
+        {
+            "key": "077",
+            "value": "Die ganzen Leute kommen uns aber auch zu Gute. So kommen wir leichter an Informationen."
+        },
+        {
+            "key": "078",
+            "value": "Und wie sollen wir das anstellen?"
+        },
+        {
+            "key": "079",
+            "value": "Also, an diese Informationen zu gelangen."
+        },
+        {
+            "key": "080",
+            "value": "Wir werden die Leute einfach einzeln nacheinander befragen."
+        },
+        {
+            "key": "081",
+            "value": "Abgelehnt!"
+        },
+        {
+            "key": "082",
+            "value": "Was ...?"
+        },
+        {
+            "key": "083",
+            "value": "Warte mal, Frischling."
+        },
+        {
+            "key": "084",
+            "value": "Ich werde dir den effektivsten Weg zeigen, wie man an Infos kommt."
+        },
+        {
+            "key": "500",
+            "value": "*Atmet ein* "
+        },
+        {
+            "key": "085",
+            "value": "Hat hier jemand einen Kernkristall gesehen?"
+        },
+        {
+            "key": "086",
+            "value": "Er ist karmesinrot! Wenn das jemandem was sagt, soll er sich sofort melden!"
+        },
+        {
+            "key": "087",
+            "value": "S-Setia! Wir wollen doch nicht auffallen."
+        },
+        {
+            "key": "088",
+            "value": "So müssen wir aber nicht mit jedem einzeln reden."
+        },
+        {
+            "key": "089",
+            "value": "Das stimmt zwar, aber wenn man nicht weiß, worum es geht, klingst du einfach nur verrückt."
+        },
+        {
+            "key": "090",
+            "value": "Jetzt wird es noch schwieriger, die Leute zum Reden zu bringen."
+        },
+        {
+            "key": "091",
+            "value": "Hallo, schöne Dame. Ich hörte, du suchst nach einem karmesinroten Kristall?"
+        },
+        {
+            "key": "092",
+            "value": "Da kann ich vielleicht helfen. Begleite uns doch bitte ein wenig."
+        },
+        {
+            "key": "093",
+            "value": "Siehst du, Frischling? Das war ein Klacks."
+        },
+        {
+            "key": "094",
+            "value": "I-Ich hatte nicht erwartet, dass sich jemand meldet."
+        },
+        {
+            "key": "095",
+            "value": "Camillo. Ich habe keine Lust auf eine weitere deiner impulsiven Liebschaften."
+        },
+        {
+            "key": "096",
+            "value": "Das verbitte ich mir. Ich gehöre nur Margery. Das hier ist rein geschäftlich."
+        },
+        {
+            "key": "097",
+            "value": "Und jetzt sei still. Ich mache hier schließlich Fortschritte."
+        },
+        {
+            "key": "098",
+            "value": "Aber es geht doch nur darum, den Kristall zurückzugeben. Was gibt es sonst noch zu bereden?"
+        },
+        {
+            "key": "099",
+            "value": "He! Pssst!"
+        },
+        {
+            "key": "100",
+            "value": "Ihr beide habt den Kernkristall?"
+        },
+        {
+            "key": "101",
+            "value": "Ich weiß nicht, ob es wirklich der Kristall ist, den du suchst. Aber wir haben im Wald einen roten Kristall gefunden."
+        },
+        {
+            "key": "102",
+            "value": "Er hat ihn sich in die Tasche gesteckt."
+        },
+        {
+            "key": "103",
+            "value": "E-Elsirelle!"
+        },
+        {
+            "key": "104",
+            "value": "Ihr habt ihn also gefunden. Damit habt ihr uns viel Zeit und Mühe erspart. Wärt ihr also so freundlich und übergebt ihn?"
+        },
+        {
+            "key": "105",
+            "value": "Nicht so schnell. Wie wäre es erst mit einer Erklärung, was es mit dem Teil auf sich hat."
+        },
+        {
+            "key": "106",
+            "value": "Nur so kann ich schließlich wissen, ob er wirklich euch gehört."
+        },
+        {
+            "key": "107",
+            "value": "Kein Problem. Los, Frischling. Erklär du es."
+        },
+        {
+            "key": "108",
+            "value": "Ach, dafür bin ich dann also zuständig."
+        },
+        {
+            "key": "109",
+            "value": "Damit wäre alles gesagt."
+        },
+        {
+            "key": "110",
+            "value": "Die Kernkristalle halten also das Universum im Gleichgewicht."
+        },
+        {
+            "key": "111",
+            "value": "Weshalb wir wirklich froh sind, den Kristall wiedergefunden zu haben."
+        },
+        {
+            "key": "112",
+            "value": "Nur nicht so hastig. Ich kann ihn ja nicht ohne Gegenleistung abgeben."
+        },
+        {
+            "key": "113",
+            "value": "Was?"
+        },
+        {
+            "key": "114",
+            "value": "Camillo. Gib ihn doch einfach zurück."
+        },
+        {
+            "key": "115",
+            "value": "Wir müssen doch Ovis erreichen. Hast du das bereits vergessen?"
+        },
+        {
+            "key": "116",
+            "value": "Und dafür benötigen wir ein Boot. Und um an das Boot zu kommen, müssen wir mit dem Kristall etwas Gil verdienen."
+        },
+        {
+            "key": "117",
+            "value": "Wenn wir den hier verschenken, schaffen wir es nicht nach Ovis."
+        },
+        {
+            "key": "118",
+            "value": "Das stimmt, aber ..."
+        },
+        {
+            "key": "119",
+            "value": "Und darum hätte ich einen Vorschlag."
+        },
+        {
+            "key": "120",
+            "value": "Würdet ihr ihn mir vielleicht abkaufen?"
+        },
+        {
+            "key": "121",
+            "value": "Oder uns vielleicht helfen, an ein paar Gil zu kommen?"
+        },
+        {
+            "key": "122",
+            "value": "Nur so viel, dass wir uns ein Boot kaufen können. Dann gehört der Kristall euch. Ist doch fair, oder?"
+        },
+        {
+            "key": "123",
+            "value": "Was sollen wir tun, Setia?"
+        },
+        {
+            "key": "124",
+            "value": "Wir nehmen an."
+        },
+        {
+            "key": "125",
+            "value": "Einfach so? Solltest du nicht etwas darüber nachdenken?"
+        },
+        {
+            "key": "126",
+            "value": "Der Kristall gehört derzeit ihnen, schließlich haben sie ihn gefunden."
+        },
+        {
+            "key": "127",
+            "value": "Wir haben kein Recht, ihn uns mit Gewalt zurückzuholen."
+        },
+        {
+            "key": "128",
+            "value": "Das ... ist zwar richtig, aber das Universum fällt aus dem Gleichgewicht, wenn wir den Kernkristall nicht wiedererlangen."
+        },
+        {
+            "key": "129",
+            "value": "Das scheint dich nicht sehr zu bewegen."
+        },
+        {
+            "key": "130",
+            "value": "Ohne seine Bewohner hat das Universum keinen Wert. Und ohne Vertrauen gibt es keine Harmonie!"
+        },
+        {
+            "key": "131",
+            "value": "Du bist ja sehr idealistisch."
+        },
+        {
+            "key": "132",
+            "value": "Wir sind übrigens pleite, also müssen wir uns ohnehin Arbeit suchen."
+        },
+        {
+            "key": "133",
+            "value": "Ugh. So ein schönes Lächeln und kein einziger Gil."
+        },
+        {
+            "key": "134",
+            "value": "Wir müssen nur ein paar Gil verdienen und schon gehört der Kernkristall wieder uns."
+        },
+        {
+            "key": "135",
+            "value": "Ist doch schön, eine friedliche Lösung auf dem Präsentierteller zu bekommen."
+        },
+        {
+            "key": "136",
+            "value": "Hm. Da hast du allerdings recht."
+        },
+        {
+            "key": "137",
+            "value": "Dann ist es entschieden. Elsirelle und ich freuen uns über eure Hilfe."
+        },
+        {
+            "key": "138",
+            "value": "Schauen wir uns gemeinsam in dem Dorf in der Nähe nach Arbeit um."
+        },
+        {
+            "key": "139",
+            "value": "In Kriegszeiten gibt es viel zu tun. Wir können es langsam angehen und ein paar einfache Aufträge annehmen."
+        },
+        {
+            "key": "140",
+            "value": "Verstanden. Auf gute Zusammenarbeit."
+        },
+        {
+            "key": "141",
+            "value": "Ha, das wird ein Spaß. Ich freue mich schon drauf."
+        }
+    ]
+}

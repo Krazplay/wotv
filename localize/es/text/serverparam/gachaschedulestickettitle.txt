@@ -1,0 +1,1224 @@
+﻿{
+    "infos": [
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "Tícket de invocación de carta de visión SR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": "Tícket de invocación de unidad MR+ garantizada B"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": "Tícket de invocación de unidad MR+ garantizada C"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": "Tícket de invocación de unidad MR+ garantizada D"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "Tícket de invocación de FFXIV"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200506",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Tícket de invocación de FFT"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200520",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200520",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200603",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_20200603",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200603",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_20200603",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_20200603",
+            "value": "Tícket de invocación (x10) MR+ garantizada"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_20200603",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_20200603",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_20200603",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200610",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200617",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200701",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200701",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200701",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200701",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200701",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200701",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200701",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200701",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_N_TW_10_gl20200701",
+            "value": "[Torre de Porcelana] Tícket de invocación normal (x10)"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200715",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200722",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200805",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200805",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200805",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200805",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200805",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200805",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200805",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200805",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_02_gl20200805",
+            "value": "Tícket de invocación de unidad UR garantizada"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200812",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200819",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200902",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200902",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200902",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200902",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200902",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200902",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200902",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200909",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_03_gl20200909",
+            "value": "Tícket de invocación de unidad UR garantizada"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200916",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200923",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200930",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201007",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201007",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201007",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201007",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201007",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201007",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201007",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201007",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201014",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201028",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201104",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201104",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201104",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201104",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201104",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201104",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201104",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201104",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201111",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201202",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201202",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201202",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201202",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201202",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201202",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201202",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201216",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201223",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201230",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210106",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210106",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210106",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210106",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210106",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210106",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210106",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210106",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_FF14_01_R_20200701",
+            "value": "Tícket de invocación (de vuelta) de FFXIV"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210113",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210120",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_BEGINNER_01_gl20210120",
+            "value": "Tícket de invocación (x10) gratuita de unidad UR garantizada — ¡Solo para nuevos jugadores durante sus 7 primeros días!"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210127",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210203",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210203",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210203",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210203",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210203",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210203",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210203",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210203",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_CNY21_01_gl20210210",
+            "value": "Tícket de invocación de la fortuna"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210210",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_01_gl20210303",
+            "value": "[Día 1] Tícket de invocación de cuenta atrás de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_02_gl20210303",
+            "value": "[Día 2] Tícket de invocación de cuenta atrás de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_03_gl20210303",
+            "value": "[Día 3] Tícket de invocación de cuenta atrás de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_04_gl20210303",
+            "value": "[Día 4] Tícket de invocación de cuenta atrás de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_05_gl20210303",
+            "value": "[Día 5] Tícket de invocación de cuenta atrás de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_06_gl20210303",
+            "value": "[Día 6] Tícket de invocación de cuenta atrás de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_07_gl20210303",
+            "value": "[Día 7] Tícket de invocación de cuenta atrás de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210303",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210303",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210303",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210303",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210303",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210303",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210303",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210303",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_AF_N_10_gl20210303",
+            "value": "Tícket de invocación normal (x10) de materiales de mejora de equipo"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210317",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210324",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210324",
+            "value": "Tícket de invocación de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210324",
+            "value": "Tícket de invocación (x2) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210324",
+            "value": "Tícket de invocación (x3) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210324",
+            "value": "Tícket de invocación (x5) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210324",
+            "value": "Tícket de invocación (x7) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210324",
+            "value": "Tícket de invocación (x8) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210324",
+            "value": "Tícket de invocación (x10) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_10_UR_01_gl20210324",
+            "value": "[Solo para principiantes] Tícket de invocación (x10) UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210331",
+            "value": "Tícket de invocación de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210331",
+            "value": "Tícket de invocación (x2) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210331",
+            "value": "Tícket de invocación (x3) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210331",
+            "value": "Tícket de invocación (x5) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210331",
+            "value": "Tícket de invocación (x7) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210331",
+            "value": "Tícket de invocación (x8) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210331",
+            "value": "Tícket de invocación (x10) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210407",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210407",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210407",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210407",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210407",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210407",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210407",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210407",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210407",
+            "value": "Tícket de invocación de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210407",
+            "value": "Tícket de invocación (x2) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210407",
+            "value": "Tícket de invocación (x3) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210407",
+            "value": "Tícket de invocación (x5) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210407",
+            "value": "Tícket de invocación (x7) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210407",
+            "value": "Tícket de invocación (x8) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210407",
+            "value": "Tícket de invocación (x10) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210414",
+            "value": "Tícket de invocación de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210414",
+            "value": "Tícket de invocación (x2) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210414",
+            "value": "Tícket de invocación (x3) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210414",
+            "value": "Tícket de invocación (x5) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210414",
+            "value": "Tícket de invocación (x7) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210414",
+            "value": "Tícket de invocación (x8) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210414",
+            "value": "Tícket de invocación (x10) de celebración del primer aniversario"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210414",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_PI_UR_U_02_GL202104121",
+            "value": "[Primavera 2021 I] Tícket de invocación de 200 fragmentos de unidad UR recomendada"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210505",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210505",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210505",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210505",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210505",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210505",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210505",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210505",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210512",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210519",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210526",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210602",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210602",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210602",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210602",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210602",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210602",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210602",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210602",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210609",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210616",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210623",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210630",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210707",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210707",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210707",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210707",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210707",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210707",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210707",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210707",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210714",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210721",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210728",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210804",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210804",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210804",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210804",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210804",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210804",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210804",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210804",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210811",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210818",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210825",
+            "value": "Tícket de invocación (x10) de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_AF_FTW_gl20210825",
+            "value": "Tícket de invocación de materiales de elaboración para las sandalias de Hermes +3"
+        },
+        {
+            "key": "IT_US_G_AF_ARM_gl20210825",
+            "value": "Tícket de invocación de materiales de elaboración para la armadura de platino +3"
+        },
+        {
+            "key": "IT_US_G_AF_ROD_gl20210825",
+            "value": "Tícket de invocación de materiales de elaboración para el báculo de sabio +3"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210825",
+            "value": "Tícket de invocación (x10) de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_99UR_01_20210825",
+            "value": "Tícket de invocación de unidad UR nv. 99"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210901",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210901",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210901",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210901",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210901",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210901",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210901",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210901",
+            "value": "Tícket de invocación (x10) de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210901",
+            "value": "Tícket de invocación (x10) de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210908",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_04_gl20210908",
+            "value": "[Encuentro con los fans] Tícket de invocación de unidad UR garantizada"
+        },
+        {
+            "key": "IT_US_G_V_UR_02_gl20210908",
+            "value": "[Encuentro con los fans] Tícket de invocación de carta de visión UR garantizada"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210915",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_99UR_GL_02_20210929",
+            "value": "Tícket de invocación de unidad UR nv. 99"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210929",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211006",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211006",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211006",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211006",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211006",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211006",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211006",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211006",
+            "value": "Tícket de invocación (x10) de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211006",
+            "value": "Tícket de invocación (x10) de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211006",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211013",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211020",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211027",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211103",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211103",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211103",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211103",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211103",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211103",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211103",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211103",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211103",
+            "value": "Tícket de invocación (x10) de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211103",
+            "value": "Tícket de invocación (x10) de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211117",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_AF_SUP_01_20210714",
+            "value": "[Asalto de gremio] Tícket de invocación de 1 sello de equipo"
+        },
+        {
+            "key": "IT_US_G_AF_AW_01_20210714",
+            "value": "[Asalto de gremio] Tícket de invocación de 5 libros secretos de mejora"
+        },
+        {
+            "key": "IT_US_G_JB_01_20210714",
+            "value": "[Asalto de gremio] Tícket de invocación de 2 minerales de arma (nv. profesión 2-9)"
+        },
+        {
+            "key": "IT_US_G_JB_02_20210714",
+            "value": "[Asalto de gremio] Tícket de invocación de 2 minerales de arma (nv. profesión 10-15)"
+        },
+        {
+            "key": "IT_US_G_JB_EM_01_20210714",
+            "value": "[Asalto de gremio] Tícket de invocación de 2 alcrists (verdes/azules/morados)"
+        },
+        {
+            "key": "IT_US_G_JB_EM_02_20210714",
+            "value": "[Asalto de gremio] Tícket de invocación de 2 alcrists (amarillos/rojos)"
+        },
+        {
+            "key": "IT_US_G_SB_EXP_01_20210714",
+            "value": "[Asalto de gremio] Tícket de invocación de 50 magicitas (G)"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211124",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211201",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211201",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211201",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211201",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211201",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211201",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211201",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211201",
+            "value": "Tícket de invocación (x10) de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211201",
+            "value": "Tícket de invocación (x10) de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211201",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220112",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220126",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_CNY22_01_gl20220202",
+            "value": "Tícket de invocación de la fortuna"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220202",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220202",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220202",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220202",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220202",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220202",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220202",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220202",
+            "value": "Tícket de invocación (x10) de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220202",
+            "value": "Tícket de invocación (x10) de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220209",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220302",
+            "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220302",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220302",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220302",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220302",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220302",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220302",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220302",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220302",
+            "value": "Tícket de invocación (x10) de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220302",
+            "value": "Tícket de invocación (x10) de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_FF14_01_R2_gl20220316",
+            "value": "Tícket de invocación de FFXIV de vuelta (B)"
+        },
+        {
+            "key": "IT_US_G_2ndANV_01_gl20220316",
+            "value": "[Cuenta atrás del 2.º aniversario] Tícket de invocación (x10) de objeto"
+        },
+        {
+            "key": "IT_US_G_FFVI_01_gl20220323",
+            "value": "Tícket de invocación de FFVI"
+        },
+        {
+            "key": "IT_US_G_U_SSR_99_01_gl20220323",
+            "value": "[Solo para principiantes] Tícket de invocación de unidad MR recomendada de nv. 99"
+        },
+        {
+            "key": "IT_US_G_U_UR_99_02_gl20220323",
+            "value": "[Solo para principiantes] Tícket de invocación de unidad UR recomendada de nv. 99"
+        }
+    ]
+}

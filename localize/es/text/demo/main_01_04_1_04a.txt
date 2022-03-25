@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Reina Helena."
+        },
+        {
+            "key": "002",
+            "value": "¿Por qué hay reliquias ancestrales escondidas en el Castillo del Yunque?"
+        },
+        {
+            "key": "003",
+            "value": "Está a tiro de piedra de la frontera con Fennes."
+        },
+        {
+            "key": "004",
+            "value": "¿Es que no había un sitio más lejos del enemigo?"
+        },
+        {
+            "key": "005",
+            "value": "No fue decisión nuestra. Según tengo entendido, fue una orden de los propios dioses."
+        },
+        {
+            "key": "006",
+            "value": "¡¿De los dioses?! ¿Entonces, lo de que los dioses les legaron las reliquias a los humanos…?"
+        },
+        {
+            "key": "007",
+            "value": "Es cierto."
+        },
+        {
+            "key": "008",
+            "value": "Pensar que nos las entregaron aquellos que gobiernan por encima de reyes y reinos…"
+        },
+        {
+            "key": "009",
+            "value": "Aun así, solo tenemos permiso para usar el anillo."
+        },
+        {
+            "key": "010",
+            "value": "En cuanto al resto de las reliquias, se nos ordenó sellarlas hasta que llegara el día en que las necesitáramos."
+        },
+        {
+            "key": "011",
+            "value": "¿Y creéis que ahora… es el momento?"
+        },
+        {
+            "key": "012",
+            "value": "Puede que sí. Pero dudo que sea fácil recuperar las reliquias."
+        },
+        {
+            "key": "013",
+            "value": "¿Y eso por qué?"
+        },
+        {
+            "key": "014",
+            "value": "Creo que el antiguo rey liberó una plétora de monstruos cuando abandonó el castillo."
+        },
+        {
+            "key": "015",
+            "value": "Y me refiero a monstruos sanguinarios y violentos."
+        },
+        {
+            "key": "016",
+            "value": "Para asegurarse de que las reliquias no acabaran en manos de Fennes, ¿verdad?"
+        },
+        {
+            "key": "017",
+            "value": "Tiene toda la pinta de que va a ser un viaje divertido, majestad."
+        },
+        {
+            "key": "018",
+            "value": "Con o sin el príncipe Stern, seguimos siendo el orgullo de Leonis, ¡seguimos siendo Fortem!"
+        },
+        {
+            "key": "019",
+            "value": "Bueno, vamos a cazar algunos monstruos ¡y a por las reliquias!"
+        }
+    ]
+}

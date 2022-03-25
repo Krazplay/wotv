@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Dass just jenseits der Schlossmauern derart viele Monster ihr Unwesen treiben ..."
+        },
+        {
+            "key": "002",
+            "value": "Eine hervorragende Gelegenheit, uns vom Ergebnis deiner Ausbildung zu überzeugen."
+        },
+        {
+            "key": "003",
+            "value": "Der uralte Ring ..."
+        },
+        {
+            "key": "004",
+            "value": "Weißt du, wie man ihn einsetzt?"
+        },
+        {
+            "key": "005",
+            "value": "Selbstverständlich, Vater."
+        },
+        {
+            "key": "006",
+            "value": "Er kann „Visionen“ genannte Geister gefallener Helden heraufbeschwören."
+        },
+        {
+            "key": "007",
+            "value": "Murmeln ... Wispern ... Seufzer ... Ekstase ..."
+        }
+    ]
+}

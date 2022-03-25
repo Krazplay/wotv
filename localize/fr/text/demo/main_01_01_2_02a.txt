@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "L'alliance entre Hourne et Fennes risque de se briser si Machalie refuse de se marier."
+        },
+        {
+            "key": "002",
+            "value": "Non, tout ira bien. Cette alliance n'est pas si fragile."
+        },
+        {
+            "key": "003",
+            "value": "Comment peux-tu en être si sûr ?"
+        },
+        {
+            "key": "004",
+            "value": "Il y a environ deux semaines, la fille du roi Muraga de Fennes s'est mariée."
+        },
+        {
+            "key": "005",
+            "value": "C'est impossible... Sa fille ? Au prince Dario ?"
+        },
+        {
+            "key": "006",
+            "value": "C'est pourtant le cas, Votre Grâce."
+        },
+        {
+            "key": "007",
+            "value": "C'est troublant. Je n'ai jamais entendu dire que le roi Muraga avait une fille."
+        },
+        {
+            "key": "008",
+            "value": "Vraiment... ?!"
+        },
+        {
+            "key": "009",
+            "value": "C'est de plus en plus étrange."
+        },
+        {
+            "key": "010",
+            "value": "Dame Machalie, ne croyez pas de telles histoires..."
+        },
+        {
+            "key": "011",
+            "value": "Nous n'avons aucun intérêt à mentir !"
+        },
+        {
+            "key": "012",
+            "value": "Peut-être... mais la fille de Muraga, dame Vinera, se trouve déjà à Hourne."
+        },
+        {
+            "key": "013",
+            "value": "Muraga... Qu'est-ce qu'il prépare... ?"
+        }
+    ]
+}

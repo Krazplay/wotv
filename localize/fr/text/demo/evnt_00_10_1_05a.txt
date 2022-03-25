@@ -1,0 +1,44 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Maudits Fennesiens… Ils tentent d'enfoncer la porte de la salle des archives."
+        },
+        {
+            "key": "002",
+            "value": "On dirait bien, oui… On ne doit pas les laisser s'emparer du manuscrit !"
+        },
+        {
+            "key": "003",
+            "value": "Mettons-les hors d'état de nuire !"
+        },
+        {
+            "key": "004",
+            "value": "Ildyra, je vais m'occuper d'attirer leur attention."
+        },
+        {
+            "key": "005",
+            "value": "Pendant ce temps là, profites-en pour ouvrir la porte et te faufiler dans la salle des archives."
+        },
+        {
+            "key": "006",
+            "value": "Compris."
+        },
+        {
+            "key": "007",
+            "value": "C'est parti ! Suivez-moi !"
+        },
+        {
+            "key": "008",
+            "value": "Il restait encore des vermines de Leonis ?!"
+        },
+        {
+            "key": "009",
+            "value": "Je ne vous laisserai pas passer !"
+        },
+        {
+            "key": "010",
+            "value": "Amenez-vous, serpents de Fennes ! Je vais vous faire regretter de m'avoir réveillée !"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Kiton. Bist du hier?"
+        },
+        {
+            "key": "002",
+            "value": "Zu Diensten, Euer Majestät."
+        },
+        {
+            "key": "003",
+            "value": "Was ist mit unseren Verfolgern?"
+        },
+        {
+            "key": "004",
+            "value": "Lediglich eine Handvoll Späher, die nicht direkt am Kampf beteiligt waren, ist noch übrig."
+        },
+        {
+            "key": "005",
+            "value": "Ich hatte angenommen, sie würden auf Verstärkung warten, bevor sie wieder die Verfolgung aufnehmen, doch ..."
+        },
+        {
+            "key": "006",
+            "value": "Willst du damit sagen, dass sie uns immer noch im Nacken sitzen?"
+        },
+        {
+            "key": "007",
+            "value": "Dies scheint der Fall zu sein, Euer Majestät."
+        },
+        {
+            "key": "008",
+            "value": "In ihrem Zustand die Jagd auf uns fortzusetzen ... Sie nehmen wohl, an, dass wir enorm geschwächt wurden."
+        },
+        {
+            "key": "009",
+            "value": "Wir dürfen nicht unachtsam sein."
+        },
+        {
+            "key": "010",
+            "value": "Das habe ich auch nicht im Geringsten vor."
+        },
+        {
+            "key": "011",
+            "value": "Allerdings werden wir schon bald die Berge überqueren, was uns nah an wezettische Siedlungen und damit in den Machtbereich des Reiches bringt."
+        },
+        {
+            "key": "012",
+            "value": "Der Feind hat sicherlich vor, uns zu vernichten, bevor dies geschieht. Das können wir nicht zulassen."
+        },
+        {
+            "key": "013",
+            "value": "Kopf hoch, Mont! Du wirst schon bald deine teure Glaziela wiedersehen."
+        },
+        {
+            "key": "014",
+            "value": "Euer Hoheit ... Ist diese Glaziela etwa ..."
+        },
+        {
+            "key": "015",
+            "value": "G-Ganz sicher nicht. Sie hat mich wahrscheinlich schon vollkommen vergessen."
+        },
+        {
+            "key": "016",
+            "value": "......"
+        },
+        {
+            "key": "017",
+            "value": "Viel wichtiger ist ..."
+        },
+        {
+            "key": "018",
+            "value": "Was beschäftigt Euch nun schon wieder, Euer Hoheit?"
+        },
+        {
+            "key": "019",
+            "value": "Ich weiß nicht ... Denkst du wirklich, dass Wezette unserer Bitte um Unterstützung nachkommen wird?"
+        },
+        {
+            "key": "020",
+            "value": "Natürlich werden sie das."
+        },
+        {
+            "key": "021",
+            "value": "Schließlich sind sie unsere Verbündeten."
+        },
+        {
+            "key": "022",
+            "value": "Ich hoffe, du hast recht ..."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "90554",
+            "value": "Hmpf !"
+        },
+        {
+            "key": "90555",
+            "value": "Dame Miranda, les forces de Wezett semblent s'être considérablement réduites."
+        },
+        {
+            "key": "90556",
+            "value": "Hm, en effet."
+        },
+        {
+            "key": "90557",
+            "value": "J'imagine que c'est le moment."
+        },
+        {
+            "key": "90558",
+            "value": "Ah, enfin !"
+        },
+        {
+            "key": "90559",
+            "value": "Pour être honnête, je n'arrivais pas à me résoudre à prendre part à la diversion."
+        },
+        {
+            "key": "90560",
+            "value": "Vous, Son Altesse Graziella et le seigneur Vadim mettez tous vos vies en jeu."
+        },
+        {
+            "key": "90561",
+            "value": "Et moi, je me retrouve là..."
+        },
+        {
+            "key": "90562",
+            "value": "J'espérais faire partie de la division qui attaquerait le château."
+        },
+        {
+            "key": "90563",
+            "value": "Et pourtant..."
+        },
+        {
+            "key": "90564",
+            "value": "Tu as changé d'avis ?"
+        },
+        {
+            "key": "90565",
+            "value": "Oui, Madame. Je le vois maintenant, notre heure de gloire vient tout juste de sonner."
+        },
+        {
+            "key": "90566",
+            "value": "Cette stratégie... C'est la clef de notre victoire."
+        },
+        {
+            "key": "90567",
+            "value": "Tout à fait."
+        },
+        {
+            "key": "90568",
+            "value": "Allez ! Rejoignons les forces de Graziella aux portes du château !"
+        }
+    ]
+}

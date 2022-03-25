@@ -1,0 +1,1224 @@
+﻿{
+    "infos": [
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "Ticket d'invocation d'atout-vision SR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": "Ticket d'invocation d'unité MR+ garantie [B]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": "Ticket d'invocation d'unité MR+ garantie [C]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": "Ticket d'invocation d'unité MR+ garantie [D]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "Ticket d'invocation FFXIV"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200506",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Ticket d'invocation FFT"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200520",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200520",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200603",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_20200603",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200603",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_20200603",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_20200603",
+            "value": "Ticket d'invocation x10 MR+ garantie"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_20200603",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_20200603",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_20200603",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200610",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200617",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200701",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200701",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200701",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200701",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200701",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200701",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200701",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200701",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_N_TW_10_gl20200701",
+            "value": "[Tour de porcelaine] Ticket d'invocation x10 normale"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200715",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200722",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200805",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200805",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200805",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200805",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200805",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200805",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200805",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200805",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_02_gl20200805",
+            "value": "Ticket d'invocation d'unité UR garantie"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200812",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200819",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200902",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200902",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200902",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200902",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200902",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200902",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200902",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200909",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_03_gl20200909",
+            "value": "Ticket d'invocation d'unité UR garantie"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200916",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200923",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200930",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201007",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201007",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201007",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201007",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201007",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201007",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201007",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201007",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201014",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201028",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201104",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201104",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201111",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201202",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201202",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201202",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201202",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201202",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201202",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201202",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201216",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201223",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201230",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210106",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210106",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210106",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210106",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210106",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210106",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210106",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210106",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_FF14_01_R_20200701",
+            "value": "Ticket d'invocation de FFXIV (réédition)"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210113",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210120",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_BEGINNER_01_gl20210120",
+            "value": "7 premiers jours du débutant seulement - Ticket d'invocation x10 GRATUITE d'unité UR garantie"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210127",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210203",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210203",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210203",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210203",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210203",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210203",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210203",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210203",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_CNY21_01_gl20210210",
+            "value": "Ticket de la chance"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210210",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_01_gl20210303",
+            "value": "[Jour 1] Ticket d'invocation pour l'Approche du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_02_gl20210303",
+            "value": "[Jour 2] Ticket d'invocation pour l'Approche du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_03_gl20210303",
+            "value": "[Jour 3] Ticket d'invocation pour l'Approche du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_04_gl20210303",
+            "value": "[Jour 4] Ticket d'invocation pour l'Approche du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_05_gl20210303",
+            "value": "[Jour 5] Ticket d'invocation pour l'Approche du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_06_gl20210303",
+            "value": "[Jour 6] Ticket d'invocation pour l'Approche du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_07_gl20210303",
+            "value": "[Jour 7] Ticket d'invocation pour l'Approche du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210303",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210303",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210303",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210303",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210303",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210303",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210303",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210303",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_AF_N_10_gl20210303",
+            "value": "Ticket d'invocation x10 normale de matériaux d'amélioration de l'équipement"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210317",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210324",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210324",
+            "value": "Ticket d'invocation du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210324",
+            "value": "Ticket d'invocation x2 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210324",
+            "value": "Ticket d'invocation x3 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210324",
+            "value": "Ticket d'invocation x5 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210324",
+            "value": "Ticket d'invocation x7 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210324",
+            "value": "Ticket d'invocation x8 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210324",
+            "value": "Ticket d'invocation x10 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_10_UR_01_gl20210324",
+            "value": "[Seulement pour les débutants] Ticket d'invocation x10 UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210331",
+            "value": "Ticket d'invocation du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210331",
+            "value": "Ticket d'invocation x2 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210331",
+            "value": "Ticket d'invocation x3 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210331",
+            "value": "Ticket d'invocation x5 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210331",
+            "value": "Ticket d'invocation x7 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210331",
+            "value": "Ticket d'invocation x8 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210331",
+            "value": "Ticket d'invocation x10 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210407",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210407",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210407",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210407",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210407",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210407",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210407",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210407",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210407",
+            "value": "Ticket d'invocation du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210407",
+            "value": "Ticket d'invocation x2 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210407",
+            "value": "Ticket d'invocation x3 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210407",
+            "value": "Ticket d'invocation x5 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210407",
+            "value": "Ticket d'invocation x7 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210407",
+            "value": "Ticket d'invocation x8 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210407",
+            "value": "Ticket d'invocation x10 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210414",
+            "value": "Ticket d'invocation du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210414",
+            "value": "Ticket d'invocation x2 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210414",
+            "value": "Ticket d'invocation x3 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210414",
+            "value": "Ticket d'invocation x5 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210414",
+            "value": "Ticket d'invocation x7 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210414",
+            "value": "Ticket d'invocation x8 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210414",
+            "value": "Ticket d'invocation x10 du 1er anniversaire"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210414",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_PI_UR_U_02_GL202104121",
+            "value": "[Spécial printemps 2021 - Partie I] Ticket d'invocation de 200 fragments d'unité UR recommandés"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210505",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210505",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210505",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210505",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210505",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210505",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210505",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210505",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210512",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210519",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210526",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210602",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210602",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210602",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210602",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210602",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210602",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210602",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210602",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210609",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210616",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210623",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210630",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210707",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210707",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210707",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210707",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210707",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210707",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210707",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210707",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210714",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210721",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210728",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210804",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210804",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210804",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210804",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210804",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210804",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210804",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210804",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210811",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210818",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210825",
+            "value": "Ticket d'invocation x10 d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_AF_FTW_gl20210825",
+            "value": "Ticket d'invocation de matériaux d'artisanat pour les Sandales d'Hermès +3"
+        },
+        {
+            "key": "IT_US_G_AF_ARM_gl20210825",
+            "value": "Ticket d'invocation de matériaux d'artisanat pour l'Armure de platine +3"
+        },
+        {
+            "key": "IT_US_G_AF_ROD_gl20210825",
+            "value": "Ticket d'invocation de matériaux d'artisanat pour le Bâton de sage +3"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210825",
+            "value": "Ticket d'invocation x10 d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_99UR_01_20210825",
+            "value": "Ticket d'invocation d'unité UR de niv. 99"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210901",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210901",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210901",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210901",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210901",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210901",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210901",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210901",
+            "value": "Ticket d'invocation x10 d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210901",
+            "value": "Ticket d'invocation x10 d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210908",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_04_gl20210908",
+            "value": "[Rencontre avec les fans] Ticket d'invocation d'unité UR garantie"
+        },
+        {
+            "key": "IT_US_G_V_UR_02_gl20210908",
+            "value": "[Rencontre avec les fans] Ticket d'invocation d'atout-vision UR garanti"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210915",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_99UR_GL_02_20210929",
+            "value": "Ticket d'invocation d'unité UR de niv. 99"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210929",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211006",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211006",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211006",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211006",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211006",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211006",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211006",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211006",
+            "value": "Ticket d'invocation x10 d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211006",
+            "value": "Ticket d'invocation x10 d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211006",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211013",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211020",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211027",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211103",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211103",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211103",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211103",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211103",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211103",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211103",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211103",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211103",
+            "value": "Ticket d'invocation x10 d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211103",
+            "value": "Ticket d'invocation x10 d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211117",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_AF_SUP_01_20210714",
+            "value": "[Raid de guilde] Ticket d'invocation d'un sceau d'équipement"
+        },
+        {
+            "key": "IT_US_G_AF_AW_01_20210714",
+            "value": "[Raid de guilde] Ticket d'invocation de 5 livres secrets de l'amélioration"
+        },
+        {
+            "key": "IT_US_G_JB_01_20210714",
+            "value": "[Raid de guilde] Ticket d'invocation de 2 gemmes pour armes (job niv. 2 - 9)"
+        },
+        {
+            "key": "IT_US_G_JB_02_20210714",
+            "value": "[Raid de guilde] Ticket d'invocation de 2 gemmes pour armes (job niv. 10 - 15)"
+        },
+        {
+            "key": "IT_US_G_JB_EM_01_20210714",
+            "value": "[Raid de guilde] Ticket d'invocation de 2 alcrists (Verts/Bleus/Violets)"
+        },
+        {
+            "key": "IT_US_G_JB_EM_02_20210714",
+            "value": "[Raid de guilde] Ticket d'invocation de 2 alcrists (Jaunes/Rouges)"
+        },
+        {
+            "key": "IT_US_G_SB_EXP_01_20210714",
+            "value": "[Raid de guilde] Ticket d'invocation de 50 magilithes (L)"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211124",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211201",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211201",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211201",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211201",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211201",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211201",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211201",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211201",
+            "value": "Ticket d'invocation x10 d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211201",
+            "value": "Ticket d'invocation x10 d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211201",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220112",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220126",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_CNY22_01_gl20220202",
+            "value": "Ticket de la chance"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220202",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220202",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220202",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220202",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220202",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220202",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220202",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220202",
+            "value": "Ticket d'invocation x10 d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220202",
+            "value": "Ticket d'invocation x10 d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220209",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220302",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220302",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220302",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220302",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220302",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220302",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220302",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220302",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220302",
+            "value": "Ticket d'invocation x10 d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220302",
+            "value": "Ticket d'invocation x10 d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_FF14_01_R2_gl20220316",
+            "value": "Ticket d'invocation de FFXIV (réédition) [B]"
+        },
+        {
+            "key": "IT_US_G_2ndANV_01_gl20220316",
+            "value": "Ticket d'invocation x10 d'objets pour le compte à rebours du 2e anniversaire"
+        },
+        {
+            "key": "IT_US_G_FFVI_01_gl20220323",
+            "value": "Ticket d'invocation de FFVI"
+        },
+        {
+            "key": "IT_US_G_U_SSR_99_01_gl20220323",
+            "value": "[Seulement pour les débutants] Ticket d'invocation d'unité MR de niv. 99 recommandée"
+        },
+        {
+            "key": "IT_US_G_U_UR_99_02_gl20220323",
+            "value": "[Seulement pour les débutants] Ticket d'invocation d'unité UR de niv. 99 recommandée"
+        }
+    ]
+}

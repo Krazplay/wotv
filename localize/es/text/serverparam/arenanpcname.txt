@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "ARENA_NPC01",
+            "value": "Jack"
+        },
+        {
+            "key": "ARENA_NPC02",
+            "value": "Silvia"
+        },
+        {
+            "key": "ARENA_NPC03",
+            "value": "Hunter"
+        },
+        {
+            "key": "ARENA_NPC04",
+            "value": "Toro"
+        },
+        {
+            "key": "ARENA_NPC05",
+            "value": "Lucian"
+        },
+        {
+            "key": "ARENA_NPC06",
+            "value": "Misty"
+        },
+        {
+            "key": "ARENA_NPC07",
+            "value": "Blanco"
+        },
+        {
+            "key": "ARENA_NPC08",
+            "value": "Negro"
+        },
+        {
+            "key": "ARENA_NPC09",
+            "value": "Ángel"
+        },
+        {
+            "key": "ARENA_NPC10",
+            "value": "Keal"
+        },
+        {
+            "key": "ARENA_NPC11",
+            "value": "Jin"
+        },
+        {
+            "key": "ARENA_NPC12",
+            "value": "Centry"
+        },
+        {
+            "key": "ARENA_NPC13",
+            "value": "Godfrey"
+        },
+        {
+            "key": "ARENA_NPC14",
+            "value": "Verde"
+        },
+        {
+            "key": "ARENA_NPC15",
+            "value": "Gimly"
+        },
+        {
+            "key": "ARENA_NPC16",
+            "value": "Walker"
+        },
+        {
+            "key": "ARENA_NPC17",
+            "value": "Amarillo"
+        },
+        {
+            "key": "ARENA_NPC18",
+            "value": "Naranja"
+        },
+        {
+            "key": "ARENA_NPC19",
+            "value": "Pétalo"
+        },
+        {
+            "key": "ARENA_NPC20",
+            "value": "Zaza"
+        }
+    ]
+}

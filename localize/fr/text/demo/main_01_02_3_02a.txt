@@ -1,0 +1,228 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Comme vous l'avez ordonné, les portes du château sont ouvertes."
+        },
+        {
+            "key": "002",
+            "value": "C'est parfait."
+        },
+        {
+            "key": "003",
+            "value": "P-pardonnez-moi, Votre Majesté, mais en laissant les portes ouvertes, nous allons permettre à l'ennemi de pénétrer dans le château !"
+        },
+        {
+            "key": "004",
+            "value": "Tu ne comprends donc pas ?"
+        },
+        {
+            "key": "005",
+            "value": "Si nous laissons les portes fermées, l'ennemi utilisera toute sa puissance pour les ouvrir."
+        },
+        {
+            "key": "006",
+            "value": "Cependant, si nous les laissons ouvertes, nous sèmerons le doute dans son esprit et il se mettra à hésiter."
+        },
+        {
+            "key": "007",
+            "value": "Je... Je comprends, Votre Majesté. Pardonnez mon impudence."
+        },
+        {
+            "key": "008",
+            "value": "Ceci dit, cette situation ne peut pas durer éternellement."
+        },
+        {
+            "key": "009",
+            "value": "Helena et Sterne ne doivent pas quitter le château."
+        },
+        {
+            "key": "010",
+            "value": "Père !"
+        },
+        {
+            "key": "011",
+            "value": "Mont et moi devons partir. Je ne tolèrerai aucune objection."
+        },
+        {
+            "key": "012",
+            "value": "Et que faites-vous de Machalie ?"
+        },
+        {
+            "key": "013",
+            "value": "Ce serait une erreur de l'emmener avec nous."
+        },
+        {
+            "key": "014",
+            "value": "Machalie... C'est ici que nos chemins se séparent."
+        },
+        {
+            "key": "015",
+            "value": "Je vous laisse prendre soin de Schuzelt. Il n'est pas encore en état de retourner à Hourne."
+        },
+        {
+            "key": "016",
+            "value": "Je comprends. N'ayez crainte, il est entre de bonnes mains."
+        },
+        {
+            "key": "017",
+            "value": "..."
+        },
+        {
+            "key": "018",
+            "value": "Je reviendrai pour vous. Je vous en fais la promesse."
+        },
+        {
+            "key": "019",
+            "value": "Mais pouvez-vous respecter cette promesse ?"
+        },
+        {
+            "key": "020",
+            "value": "Ayez confiance en moi."
+        },
+        {
+            "key": "021",
+            "value": "Comment... ?"
+        },
+        {
+            "key": "022",
+            "value": "Votre foi en moi me rendra plus fort. Plus fort que je ne l'ai jamais été."
+        },
+        {
+            "key": "023",
+            "value": "Dans ce cas, vous avez toute ma confiance."
+        },
+        {
+            "key": "024",
+            "value": "Devenez le plus puissant d'entre tous les hommes, Mont."
+        },
+        {
+            "key": "025",
+            "value": "Quand ce sera le cas, revenez me voir. Je vous attendrai. Mais faites-le avant que je vous oublie. D'accord ?"
+        },
+        {
+            "key": "026",
+            "value": "Mère et moi devons rester ici pendant que vous vous échappez. C'est donc vraiment ce que vous voulez, père ?"
+        },
+        {
+            "key": "027",
+            "value": "Ça a l'air de te décevoir."
+        },
+        {
+            "key": "028",
+            "value": "Est-ce que votre plan est de nous faire capturer ?"
+        },
+        {
+            "key": "029",
+            "value": "Interprète-le comme tu veux."
+        },
+        {
+            "key": "030",
+            "value": "Pourquoi refusez-vous le combat ? Et si nous devons fuir, pourquoi ne pas le faire tous ensemble comme le ferait une famille ?!"
+        },
+        {
+            "key": "031",
+            "value": "N'oublie jamais."
+        },
+        {
+            "key": "032",
+            "value": "La lignée des Leonis doit perdurer, même s'il nous faut défier les dieux pour la défendre."
+        },
+        {
+            "key": "033",
+            "value": "Père, je n'ai qu'une seule requête. J'accepte de rester ici à une condition. Je vous supplie de l'accepter."
+        },
+        {
+            "key": "034",
+            "value": "Emmenez mère avec vous, je vous en prie."
+        },
+        {
+            "key": "035",
+            "value": "Si quelque chose venait à lui arriver..."
+        },
+        {
+            "key": "036",
+            "value": "Helena reste au château."
+        },
+        {
+            "key": "037",
+            "value": "Peu importe ce qui arrivera ?"
+        },
+        {
+            "key": "038",
+            "value": "Ça suffit !"
+        },
+        {
+            "key": "039",
+            "value": "J'en ai assez !"
+        },
+        {
+            "key": "040",
+            "value": "Ce n'est qu'une excuse pour sauver votre propre peau !"
+        },
+        {
+            "key": "041",
+            "value": "Sterne !"
+        },
+        {
+            "key": "042",
+            "value": "Si je dois y laisser la vie, peu importe le nombre de mes ennemis, je les terrasserai tous."
+        },
+        {
+            "key": "043",
+            "value": "Sterne... ?"
+        },
+        {
+            "key": "044",
+            "value": "La terre se gorgera de mon sang."
+        },
+        {
+            "key": "045",
+            "value": "Tu veux mourir ?"
+        },
+        {
+            "key": "046",
+            "value": "Je ne veux pas mourir, mais..."
+        },
+        {
+            "key": "047",
+            "value": "J'abandonne Leonis. C'est tout."
+        },
+        {
+            "key": "048",
+            "value": "Helena..."
+        },
+        {
+            "key": "049",
+            "value": "Protège la lignée des Leonis, quel qu'en soit le prix."
+        },
+        {
+            "key": "050",
+            "value": "Quel qu'en soit le prix... ?"
+        },
+        {
+            "key": "051",
+            "value": "C'est ce que je désire le plus, oui."
+        },
+        {
+            "key": "052",
+            "value": "Roi Eldo. Je vous demande la permission de partir me battre sur le front."
+        },
+        {
+            "key": "053",
+            "value": "... Permission accordée. Désolé, Owe."
+        },
+        {
+            "key": "054",
+            "value": "Désolé de te mêler à tout ceci..."
+        },
+        {
+            "key": "055",
+            "value": "J'ai bien peur que cela fasse partie des prérogatives d'un chevalier. Impossible pour moi d'y déroger."
+        },
+        {
+            "key": "056",
+            "value": "Mais c'est le destin après tout, n'est-ce pas ? Ha ha ha."
+        }
+    ]
+}

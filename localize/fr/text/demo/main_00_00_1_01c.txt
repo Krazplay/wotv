@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bien joué, Mont."
+        },
+        {
+            "key": "002",
+            "value": "Je n'ai pas fait grand-chose..."
+        },
+        {
+            "key": "003",
+            "value": "Seigneur Mont, votre frère a raison, ne soyez pas modeste."
+        },
+        {
+            "key": "004",
+            "value": "Tout ce qu'il nous reste à faire maintenant, c'est apprendre à mieux nous en servir."
+        },
+        {
+            "key": "005",
+            "value": "Ah, la vision s'est estompée."
+        },
+        {
+            "key": "006",
+            "value": "Tu sembles encore avoir besoin d'entraînement..."
+        },
+        {
+            "key": "007",
+            "value": "Tu as raison."
+        },
+        {
+            "key": "008",
+            "value": "Retournons au château. On trouvera certainement de quoi s'entraîner en chemin."
+        }
+    ]
+}

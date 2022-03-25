@@ -1,0 +1,68 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Venid a por mí."
+        },
+        {
+            "key": "002",
+            "value": "Hmf."
+        },
+        {
+            "key": "003",
+            "value": "¿Hasta cuándo pensáis seguir escondiéndoos?"
+        },
+        {
+            "key": "004",
+            "value": "Je, je. Estoy impresionada."
+        },
+        {
+            "key": "005",
+            "value": "Pero... me parece que no eres quien buscamos."
+        },
+        {
+            "key": "006",
+            "value": "Ahora entiendo cómo se siente Miranda."
+        },
+        {
+            "key": "007",
+            "value": "Ya me había advertido que aquellos que se colaban en las sagradas tierras del este no eran trigo limpio."
+        },
+        {
+            "key": "008",
+            "value": "Y aun así... no parece que andéis buscando la senda del samurái."
+        },
+        {
+            "key": "009",
+            "value": "¿Qué pretendéis? Según vuestra respuesta..."
+        },
+        {
+            "key": "010",
+            "value": "Oh, amenazas no, por favor. A pesar de lo que pueda parecer somos bastante miedicas, ¿sabes?"
+        },
+        {
+            "key": "011",
+            "value": "En cualquier caso, ¿dónde puedo encontrar a aquellos que llaman «maestros del este»?"
+        },
+        {
+            "key": "012",
+            "value": "¿Para qué los buscas?"
+        },
+        {
+            "key": "013",
+            "value": "Eso no le concierne a una subalterna como tú."
+        },
+        {
+            "key": "014",
+            "value": "Venga, dime de una vez dónde están. No me hagas perder el tiempo o..."
+        },
+        {
+            "key": "015",
+            "value": "Es la oportunidad perfecta para poner a prueba el fruto de mi entrenamiento. ¡Venid a por mí!"
+        },
+        {
+            "key": "016",
+            "value": "Nos ha tocado una rival peleona... Ponedla en su sitio."
+        }
+    ]
+}

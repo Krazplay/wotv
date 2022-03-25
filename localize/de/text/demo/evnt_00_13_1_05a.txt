@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Dann gehört dieses Schiff wohl der Gilde ..."
+        },
+        {
+            "key": "002",
+            "value": "Ja, wirklich ein prachtvolles Gefährt. An Barem scheint es ihnen nicht zu mangeln."
+        },
+        {
+            "key": "003",
+            "value": "Wer da?!"
+        },
+        {
+            "key": "004",
+            "value": "...!"
+        }
+    ]
+}

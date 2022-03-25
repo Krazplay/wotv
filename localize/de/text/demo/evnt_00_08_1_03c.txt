@@ -1,0 +1,136 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Es sind so viele ..."
+        },
+        {
+            "key": "002",
+            "value": "Verdammt ... Wie viele Männer haben die uns hinterhergeschickt?"
+        },
+        {
+            "key": "003",
+            "value": "Was ihr getan habt, lässt sich durch keine Strafe mehr ausbüßen."
+        },
+        {
+            "key": "004",
+            "value": "Vor der Mine braucht ihr euch jetzt nicht mehr zu fürchten. Ihr werdet hier sterben!"
+        },
+        {
+            "key": "005",
+            "value": "Grrr ..."
+        },
+        {
+            "key": "006",
+            "value": "Tja, schade, für mehr hat’s wohl nicht gereicht."
+        },
+        {
+            "key": "007",
+            "value": "Wa ...?"
+        },
+        {
+            "key": "008",
+            "value": "Urk..."
+        },
+        {
+            "key": "009",
+            "value": "Neeeeeein!!"
+        },
+        {
+            "key": "010",
+            "value": "Ach, sei doch still."
+        },
+        {
+            "key": "011",
+            "value": "Warum ... hast du sie getötet?"
+        },
+        {
+            "key": "012",
+            "value": "War das nicht genau euer Ziel? Ich habe euch nur die Mühe erspart."
+        },
+        {
+            "key": "013",
+            "value": "J-Ja, aber ... warum?"
+        },
+        {
+            "key": "014",
+            "value": "Weil sie mich dumm dastehen lassen haben. Verstehst du? Mich, den Obmann der Waffenhändlergilde."
+        },
+        {
+            "key": "015",
+            "value": "Mehr Grund brauche ich nicht."
+        },
+        {
+            "key": "016",
+            "value": "A-Also das ..."
+        },
+        {
+            "key": "017",
+            "value": "Wenn du dich beschweren willst, nur zu."
+        },
+        {
+            "key": "018",
+            "value": "Dann kannst du den beiden für alle Ewigkeit Gesellschaft leisten."
+        },
+        {
+            "key": "019",
+            "value": "..."
+        },
+        {
+            "key": "020",
+            "value": "V-Verstanden. Wir vergessen die Sache."
+        },
+        {
+            "key": "021",
+            "value": "Aber unsere Vereinbarung von vorhin gilt immer noch, klar? Die Sache mit der Verschwiegenheit ..."
+        },
+        {
+            "key": "022",
+            "value": "Soll mir recht sein."
+        },
+        {
+            "key": "023",
+            "value": "Kinder, Kinder ..."
+        },
+        {
+            "key": "024",
+            "value": "Hrk ... Au ..."
+        },
+        {
+            "key": "025",
+            "value": "Velne!!"
+        },
+        {
+            "key": "026",
+            "value": "Tut mir relativ leid, aber es musste überzeugend aussehen."
+        },
+        {
+            "key": "027",
+            "value": "Du dreckiger ...!"
+        },
+        {
+            "key": "028",
+            "value": "Uhmmm ..."
+        },
+        {
+            "key": "029",
+            "value": "Velne!"
+        },
+        {
+            "key": "030",
+            "value": "Bruder ..."
+        },
+        {
+            "key": "031",
+            "value": "Los jetzt, zischt ab."
+        },
+        {
+            "key": "032",
+            "value": "Aber merkt euch eins ... Ein Waffenhändler muss respektiert und gefürchtet werden, sonst ist es aus mit ihm."
+        },
+        {
+            "key": "033",
+            "value": "Und wenn ihr mir noch mal unter die Augen kommt, dann ist es aus mit euch."
+        }
+    ]
+}

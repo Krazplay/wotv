@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "REQUEST",
+            "value": "<voffset=0.3em>REQUEST"
+        },
+        {
+            "key": "UNLOCK",
+            "value": "解鎖！"
+        },
+        {
+            "key": "CLEAR",
+            "value": "<cspace=0.11em>完成！"
+        },
+        {
+            "key": "REWARD",
+            "value": "<size=14>報酬！"
+        },
+        {
+            "key": "FRIENDREQUEST_TITLE",
+            "value": "申請好友"
+        },
+        {
+            "key": "RANDOMSHOP_TITLE",
+            "value": "流動商店"
+        },
+        {
+            "key": "FEVER_TITLE",
+            "value": "Fever！"
+        },
+        {
+            "key": "RAIDBOSS_TITLE",
+            "value": "共鬥頭目現身！"
+        },
+        {
+            "key": "UNLOCK_TITLE",
+            "value": "解鎖！"
+        },
+        {
+            "key": "MISSIONCLEAR_TITLE",
+            "value": "挑戰完成！"
+        },
+        {
+            "key": "SUBQUESTCLEAR_TITLE",
+            "value": "支線任務完成！"
+        },
+        {
+            "key": "SUPPORTREWARD_TITLE",
+            "value": "同行者報酬！"
+        },
+        {
+            "key": "QUESTCOSTZERO_TITLE",
+            "value": "體力消耗0"
+        },
+        {
+            "key": "ROYALRANKUP_TITLE",
+            "value": "會員等級上升了！"
+        },
+        {
+            "key": "RAIDBOSSENCOUNTSTOCK_TITLE",
+            "value": "共鬥頭目現身！"
+        },
+        {
+            "key": "STAMPMISSIONCLEAR_TITLE",
+            "value": "獲得印章！！"
+        },
+        {
+            "key": "FRIENDREQUEST_DESC",
+            "value": "共有{0}件新的申請好友。"
+        },
+        {
+            "key": "RANDOMSHOP_DESC",
+            "value": "遇到了流動商店。"
+        },
+        {
+            "key": "FEVER_DESC",
+            "value": "稀有掉落率提升！"
+        },
+        {
+            "key": "RAIDBOSS_DESC",
+            "value": "遇到了{0}級的{1}。"
+        },
+        {
+            "key": "UNLOCK_DESC",
+            "value": "{0}解鎖！"
+        },
+        {
+            "key": "SUBQUESTCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "MISSIONCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "SUPPORTREWARD_DESC",
+            "value": "{0}人同行獲得{1}金幣！"
+        },
+        {
+            "key": "QUESTCOSTZERO_DESC",
+            "value": "到等級{0}之前不消耗體力"
+        },
+        {
+            "key": "ROYALRANKUP_DESC",
+            "value": "會員等級到達{0}。"
+        },
+        {
+            "key": "RAIDBOSSENCOUNTSTOCK_DESC",
+            "value": "遇到了{0}。"
+        },
+        {
+            "key": "STAMPMISSIONCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "GPPREWARDS_DESC",
+            "value": "已收取Google Play Points報酬！"
+        },
+        {
+            "key": "GPPREWARDS_TITLE",
+            "value": "恭喜！"
+        },
+        {
+            "key": "GOOGLEPLAYPOINTREWARDS",
+            "value": "Google<br>報酬！"
+        }
+    ]
+}

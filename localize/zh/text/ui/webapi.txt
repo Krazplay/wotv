@@ -1,0 +1,1760 @@
+﻿{
+    "infos": [
+        {
+            "key": "ERROR_CONNECT",
+            "value": "與伺服器連線失敗。"
+        },
+        {
+            "key": "MAINTENANCE",
+            "value": "系統維護中。<br>詳細資訊請至通知查看。"
+        },
+        {
+            "key": "ACCOUNT_BAN",
+            "value": "帳號封鎖中。"
+        },
+        {
+            "key": "VERSION_UPDATE",
+            "value": "請更新至最新版本。"
+        },
+        {
+            "key": "DLC_UPDATE",
+            "value": "有DLC更新。"
+        },
+        {
+            "key": "SESSION_ERROR",
+            "value": "程序無效。"
+        },
+        {
+            "key": "INVALID_DEVICE",
+            "value": "該帳號不存在。<br>即將進行帳號初始化。"
+        },
+        {
+            "key": "NOTICE",
+            "value": "此功能暫時無法使用。<br>詳細資訊請至通知查看。"
+        },
+        {
+            "key": "TITLE_NOTICE",
+            "value": "通知"
+        },
+        {
+            "key": "OVER_DAY",
+            "value": "日期已改變。"
+        },
+        {
+            "key": "TITLE_OVER_DAY",
+            "value": "變更日期"
+        },
+        {
+            "key": "CONNECT_DEVICE_DOES_NOT_EXIST",
+            "value": "未偵測到遊戲帳號。"
+        },
+        {
+            "key": "HAS_ADD_DEVICE_CONNECT_NOT_FOUND",
+            "value": "未找到<br>資料綁定的資訊。"
+        },
+        {
+            "key": "HAS_IDPW_USER_NOT_FOUND",
+            "value": "未找到<br>資料綁定的用戶。"
+        },
+        {
+            "key": "HAS_IDPW_INVALID_SCHEMA",
+            "value": "資料綁定的密碼形式不正確。"
+        },
+        {
+            "key": "HAS_IDPW_VERIFY_FAILES",
+            "value": "資料綁定認證錯誤。"
+        },
+        {
+            "key": "HAS_BRIDGE_USER_NOT_FOUND",
+            "value": "未登錄至<br>SQUARE ENIX BRIDGE。"
+        },
+        {
+            "key": "HAS_BRIDGE_FAILES_TITLE",
+            "value": "連線中斷"
+        },
+        {
+            "key": "HAS_BRIDGE_FAILES",
+            "value": "操作已中斷。<br>若非人為中斷，<br>可能為系統出現錯誤。<br>如有任何疑問，請ˊ至標題畫面的支援服務進行諮詢。"
+        },
+        {
+            "key": "APP_ERROR_UNKNOWN",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_10",
+            "value": "購買程序發生錯誤。<br>有時需要一段時間才能反映在遊戲中。<br><br>請重新啟動應用程式或裝置，<br>並再次確認。"
+        },
+        {
+            "key": "APP_ERROR_501",
+            "value": "硬幣或獎牌不足。"
+        },
+        {
+            "key": "APP_ERROR_502",
+            "value": "道具不足。"
+        },
+        {
+            "key": "APP_ERROR_503",
+            "value": "無法再獲得金幣了。"
+        },
+        {
+            "key": "APP_ERROR_505",
+            "value": "不明報酬。"
+        },
+        {
+            "key": "APP_ERROR_506",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_507",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_508",
+            "value": "金幣不足"
+        },
+        {
+            "key": "APP_ERROR_511",
+            "value": "資料錯誤：完成資料出現異常。"
+        },
+        {
+            "key": "APP_ERROR_1000",
+            "value": "此用戶帳號不存在。"
+        },
+        {
+            "key": "APP_ERROR_1001",
+            "value": "無法再獲得體力了。"
+        },
+        {
+            "key": "APP_ERROR_1002",
+            "value": "已超過體力恢復上限。（幻導石）"
+        },
+        {
+            "key": "APP_ERROR_1003",
+            "value": "已超過體力恢復上限。（道具）"
+        },
+        {
+            "key": "APP_ERROR_1004",
+            "value": "已超過鬥技場寶珠恢復上限。（幻導石）"
+        },
+        {
+            "key": "APP_ERROR_1005",
+            "value": "已超過鬥技場寶珠恢復上限。（道具）"
+        },
+        {
+            "key": "APP_ERROR_1006",
+            "value": "玩家名稱變更後<br>需要10天的等待時間才能再次進行變更。<br><br>達到會員等級2即可免除<br>等待時間。"
+        },
+        {
+            "key": "APP_ERROR_1007",
+            "value": "輸入的內容中含有不可使用的文字。"
+        },
+        {
+            "key": "APP_ERROR_1008",
+            "value": "輸入的內容中含有不可使用的文字。"
+        },
+        {
+            "key": "APP_ERROR_1009",
+            "value": "未找到稱號。"
+        },
+        {
+            "key": "APP_ERROR_1010",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_1100",
+            "value": "不明兵員。"
+        },
+        {
+            "key": "APP_ERROR_1101",
+            "value": "不明職業。"
+        },
+        {
+            "key": "APP_ERROR_1102",
+            "value": "不明能力。"
+        },
+        {
+            "key": "APP_ERROR_1103",
+            "value": "兵員等級不足。"
+        },
+        {
+            "key": "APP_ERROR_1104",
+            "value": "兵員JP不足。"
+        },
+        {
+            "key": "APP_ERROR_1105",
+            "value": "兵員JobLv.不足。"
+        },
+        {
+            "key": "APP_ERROR_1106",
+            "value": "兵員的熟練度等級不足。"
+        },
+        {
+            "key": "APP_ERROR_1107",
+            "value": "無法煉成選取的兵員。"
+        },
+        {
+            "key": "APP_ERROR_1108",
+            "value": "無法設定職業。"
+        },
+        {
+            "key": "APP_ERROR_1109",
+            "value": "兵員的覺醒已達上限。"
+        },
+        {
+            "key": "APP_ERROR_1110",
+            "value": "兵員的極限突破已達上限。"
+        },
+        {
+            "key": "APP_ERROR_1111",
+            "value": "兵員的JobLv.已達上限。"
+        },
+        {
+            "key": "APP_ERROR_1112",
+            "value": "兵員的覺醒程度不足以進行極限突破。"
+        },
+        {
+            "key": "APP_ERROR_1113",
+            "value": "能力的等級已達上限。"
+        },
+        {
+            "key": "APP_ERROR_1114",
+            "value": "選取的能力並非可設定的輔助能力。"
+        },
+        {
+            "key": "APP_ERROR_1115",
+            "value": "指定的能力並非可設定的反應能力。"
+        },
+        {
+            "key": "APP_ERROR_1116",
+            "value": "指定的能力並非可設定的能力。"
+        },
+        {
+            "key": "APP_ERROR_1117",
+            "value": "指定的能力已裝備在其他空格中。"
+        },
+        {
+            "key": "APP_ERROR_1118",
+            "value": "選取的兵員能力盤已解鎖完畢。"
+        },
+        {
+            "key": "APP_ERROR_1119",
+            "value": "選取的兵員無專精能力。"
+        },
+        {
+            "key": "APP_ERROR_1120",
+            "value": "指定的兵員沒有極限技。"
+        },
+        {
+            "key": "APP_ERROR_1121",
+            "value": "兵員的極限技已達上限。"
+        },
+        {
+            "key": "APP_ERROR_1122",
+            "value": "無法裝備選取的武具。"
+        },
+        {
+            "key": "APP_ERROR_1123",
+            "value": "選取的武具已裝備於其他欄位。"
+        },
+        {
+            "key": "APP_ERROR_1124",
+            "value": "無法裝備選取的武具。"
+        },
+        {
+            "key": "APP_ERROR_1125",
+            "value": "無法裝備選取的武具。"
+        },
+        {
+            "key": "APP_ERROR_1126",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_1127",
+            "value": "未找到兵員。"
+        },
+        {
+            "key": "APP_ERROR_1133",
+            "value": "外觀變更失敗。<br>未滿足可裝備條件。"
+        },
+        {
+            "key": "APP_ERROR_1200",
+            "value": "不明召喚獸。"
+        },
+        {
+            "key": "APP_ERROR_1201",
+            "value": "召喚獸的等級不足。"
+        },
+        {
+            "key": "APP_ERROR_1202",
+            "value": "召喚獸的SP不足。"
+        },
+        {
+            "key": "APP_ERROR_1203",
+            "value": "召喚獸的覺醒已達上限。"
+        },
+        {
+            "key": "APP_ERROR_1204",
+            "value": "無法解鎖選取的兵員能力盤。"
+        },
+        {
+            "key": "APP_ERROR_1205",
+            "value": "選取的兵員能力盤已解鎖完畢。"
+        },
+        {
+            "key": "APP_ERROR_1300",
+            "value": "指定的武具不存在。"
+        },
+        {
+            "key": "APP_ERROR_1301",
+            "value": "武具的覺醒已達上限。  "
+        },
+        {
+            "key": "APP_ERROR_1302",
+            "value": "武具的等級已達上限。  "
+        },
+        {
+            "key": "APP_ERROR_1303",
+            "value": "武具的等級不足。  "
+        },
+        {
+            "key": "APP_ERROR_1304",
+            "value": "武具持有欄已達上限。"
+        },
+        {
+            "key": "APP_ERROR_1305",
+            "value": "未指定武具ID。"
+        },
+        {
+            "key": "APP_ERROR_1306",
+            "value": "武具製作失敗。  "
+        },
+        {
+            "key": "APP_ERROR_1307",
+            "value": "武具分解失敗。  "
+        },
+        {
+            "key": "APP_ERROR_1308",
+            "value": "武具強化失敗。  "
+        },
+        {
+            "key": "APP_ERROR_1309",
+            "value": "武具販售失敗。  "
+        },
+        {
+            "key": "APP_ERROR_1310",
+            "value": "目前暫時停止製作此武具。"
+        },
+        {
+            "key": "APP_ERROR_1311",
+            "value": "含有無法販售的武具。"
+        },
+        {
+            "key": "APP_ERROR_1400",
+            "value": "幻兵卡不存在。"
+        },
+        {
+            "key": "APP_ERROR_1401",
+            "value": "幻兵卡的覺醒已達上限。  "
+        },
+        {
+            "key": "APP_ERROR_1402",
+            "value": "幻兵卡的等級已達上限。  "
+        },
+        {
+            "key": "APP_ERROR_1403",
+            "value": "幻兵卡的等級不足。"
+        },
+        {
+            "key": "APP_ERROR_1404",
+            "value": "幻兵卡持有欄已達上限。"
+        },
+        {
+            "key": "APP_ERROR_1405",
+            "value": "未指定幻兵卡ID。"
+        },
+        {
+            "key": "APP_ERROR_1406",
+            "value": "幻兵卡強化失敗。"
+        },
+        {
+            "key": "APP_ERROR_1407",
+            "value": "幻兵卡販售失敗。"
+        },
+        {
+            "key": "APP_ERROR_1500",
+            "value": "未找到禮物箱。"
+        },
+        {
+            "key": "APP_ERROR_1501",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_1502",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_1503",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_1600",
+            "value": "未找到隊伍。"
+        },
+        {
+            "key": "APP_ERROR_1601",
+            "value": "隊伍編配失敗。"
+        },
+        {
+            "key": "APP_ERROR_1602",
+            "value": "隊伍編配失敗。"
+        },
+        {
+            "key": "APP_ERROR_1603",
+            "value": "輸入的內容中含有不可使用的文字。"
+        },
+        {
+            "key": "APP_ERROR_1700",
+            "value": "沒有好友。"
+        },
+        {
+            "key": "APP_ERROR_1701",
+            "value": "好友人數已達上限，無法申請好友。"
+        },
+        {
+            "key": "APP_ERROR_1702",
+            "value": "好友人數已達上限，無法同意好友申請。  "
+        },
+        {
+            "key": "APP_ERROR_1703",
+            "value": "沒有申請好友。"
+        },
+        {
+            "key": "APP_ERROR_1704",
+            "value": "指定ID不存在。"
+        },
+        {
+            "key": "APP_ERROR_1705",
+            "value": "未找到檢索的玩家。"
+        },
+        {
+            "key": "APP_ERROR_1706",
+            "value": "檢索的玩家就是自己。"
+        },
+        {
+            "key": "APP_ERROR_1707",
+            "value": "無法領取好友贈禮。"
+        },
+        {
+            "key": "APP_ERROR_1708",
+            "value": "好友贈禮中沒有想要的。"
+        },
+        {
+            "key": "APP_ERROR_1709",
+            "value": "申請好友失敗。"
+        },
+        {
+            "key": "APP_ERROR_1710",
+            "value": "黑名單中的玩家。"
+        },
+        {
+            "key": "APP_ERROR_1800",
+            "value": "沒有黑名單。"
+        },
+        {
+            "key": "APP_ERROR_1801",
+            "value": "由於黑名單數已達上限，<br>無法加入黑名單。"
+        },
+        {
+            "key": "APP_ERROR_1802",
+            "value": "指定的玩家就是自己。"
+        },
+        {
+            "key": "APP_ERROR_2000",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2001",
+            "value": "COST已達上限。"
+        },
+        {
+            "key": "APP_ERROR_2002",
+            "value": "非任務舉辦期間內。"
+        },
+        {
+            "key": "APP_ERROR_2003",
+            "value": "任務無法開始。非舉辦期間內。"
+        },
+        {
+            "key": "APP_ERROR_2004",
+            "value": "任務無法開始。未滿足挑戰條件。"
+        },
+        {
+            "key": "APP_ERROR_2005",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2006",
+            "value": "不明兵員编配中。"
+        },
+        {
+            "key": "APP_ERROR_2007",
+            "value": "無法返回中斷戰鬥。"
+        },
+        {
+            "key": "APP_ERROR_2008",
+            "value": "無法接關。"
+        },
+        {
+            "key": "APP_ERROR_2009",
+            "value": "本日挑戰次數已達上限。"
+        },
+        {
+            "key": "APP_ERROR_2010",
+            "value": "違反編配規則。"
+        },
+        {
+            "key": "APP_ERROR_2011",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2012",
+            "value": "未找到選擇的同行者。"
+        },
+        {
+            "key": "APP_ERROR_2100",
+            "value": "未找到房間。"
+        },
+        {
+            "key": "APP_ERROR_2101",
+            "value": "沒有進入房間。"
+        },
+        {
+            "key": "APP_ERROR_2102",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_2103",
+            "value": "房主沒有確定出擊。"
+        },
+        {
+            "key": "APP_ERROR_2104",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2105",
+            "value": "已經出擊。"
+        },
+        {
+            "key": "APP_ERROR_2106",
+            "value": "無法返回戰鬥。戰鬥已結束。"
+        },
+        {
+            "key": "APP_ERROR_2150",
+            "value": "無法使用跳過券。"
+        },
+        {
+            "key": "APP_ERROR_2151",
+            "value": "尚未完成所有挑戰，因此無法使用跳過券。"
+        },
+        {
+            "key": "APP_ERROR_2152",
+            "value": "輸入的內容中含有不可使用的文字。"
+        },
+        {
+            "key": "APP_ERROR_2153",
+            "value": "同行者的資料更新失敗。"
+        },
+        {
+            "key": "APP_ERROR_2161",
+            "value": "任務已關閉。"
+        },
+        {
+            "key": "APP_ERROR_2163",
+            "value": "於進行跳過的過程中發生錯誤。<br>將反映至錯誤發生之前的狀態後<br>回到標題畫面。"
+        },
+        {
+            "key": "APP_ERROR_2200",
+            "value": "未找到共鬥。"
+        },
+        {
+            "key": "APP_ERROR_2201",
+            "value": "非共鬥挑戰期間內。"
+        },
+        {
+            "key": "APP_ERROR_2202",
+            "value": "非共鬥報酬領取期間內。"
+        },
+        {
+            "key": "APP_ERROR_2203",
+            "value": "非共鬥排名期間內。"
+        },
+        {
+            "key": "APP_ERROR_2204",
+            "value": "未找到共鬥頭目。"
+        },
+        {
+            "key": "APP_ERROR_2205",
+            "value": "不明的共鬥頭目。"
+        },
+        {
+            "key": "APP_ERROR_2206",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_2207",
+            "value": "共鬥頭目逃走了。"
+        },
+        {
+            "key": "APP_ERROR_2208",
+            "value": "不明的房間。"
+        },
+        {
+            "key": "APP_ERROR_2209",
+            "value": "沒有遇到共鬥頭目。"
+        },
+        {
+            "key": "APP_ERROR_2210",
+            "value": "已有挑戰中的共鬥頭目。"
+        },
+        {
+            "key": "APP_ERROR_2211",
+            "value": "未找到房間。"
+        },
+        {
+            "key": "APP_ERROR_2212",
+            "value": "已討伐完畢的共鬥頭目。"
+        },
+        {
+            "key": "APP_ERROR_2213",
+            "value": "非代理發現者故無法挑戰。"
+        },
+        {
+            "key": "APP_ERROR_2214",
+            "value": "無法挑戰共鬥頭目。"
+        },
+        {
+            "key": "APP_ERROR_2215",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2216",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2217",
+            "value": "已達可挑戰次數的上限。"
+        },
+        {
+            "key": "APP_ERROR_2218",
+            "value": "成員不在房間中。"
+        },
+        {
+            "key": "APP_ERROR_2219",
+            "value": "未找到共鬥任務。"
+        },
+        {
+            "key": "APP_ERROR_2220",
+            "value": "不明的共鬥任務。"
+        },
+        {
+            "key": "APP_ERROR_2221",
+            "value": "已有挑戰中的共鬥任務，無法開始。 "
+        },
+        {
+            "key": "APP_ERROR_2222",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2223",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2224",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2225",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2226",
+            "value": "已超過共鬥寶珠恢復上限。<br>（幻導石）"
+        },
+        {
+            "key": "APP_ERROR_2227",
+            "value": "共鬥寶珠無法再恢復了。"
+        },
+        {
+            "key": "APP_ERROR_2228",
+            "value": "這個道具無法恢復RP。"
+        },
+        {
+            "key": "APP_ERROR_2229",
+            "value": "已超過共鬥寶珠恢復上限。<br>（道具）"
+        },
+        {
+            "key": "APP_ERROR_2230",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2231",
+            "value": "有既存的遭遇者。"
+        },
+        {
+            "key": "APP_ERROR_2232",
+            "value": "共鬥報酬領取失敗。"
+        },
+        {
+            "key": "APP_ERROR_2233",
+            "value": "未討伐共鬥頭目。"
+        },
+        {
+            "key": "APP_ERROR_2234",
+            "value": "無法呼叫救援。"
+        },
+        {
+            "key": "APP_ERROR_2235",
+            "value": "已經出擊，無法進入房間。"
+        },
+        {
+            "key": "APP_ERROR_2236",
+            "value": "可同時挑戰的共鬥任務已達上限。"
+        },
+        {
+            "key": "APP_ERROR_2237",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_2238",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2239",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2240",
+            "value": "已達到能夠成為代理發現者的上限。"
+        },
+        {
+            "key": "APP_ERROR_2241",
+            "value": "輸入的內容中含有不可使用的文字。"
+        },
+        {
+            "key": "APP_ERROR_2243",
+            "value": "無法返回戰鬥。戰鬥已結束。"
+        },
+        {
+            "key": "APP_ERROR_2300",
+            "value": "未找到商店。非期間內。"
+        },
+        {
+            "key": "APP_ERROR_2301",
+            "value": "未找到流動商店。<br>非期間內。"
+        },
+        {
+            "key": "APP_ERROR_2302",
+            "value": "已超過可購買次數。"
+        },
+        {
+            "key": "APP_ERROR_2303",
+            "value": "嘗試購買不明道具。"
+        },
+        {
+            "key": "APP_ERROR_2304",
+            "value": "已超過可購買次數。"
+        },
+        {
+            "key": "APP_ERROR_2305",
+            "value": "已超過可購買次數。"
+        },
+        {
+            "key": "APP_ERROR_2306",
+            "value": "非商品販售期間內。"
+        },
+        {
+            "key": "APP_ERROR_2307",
+            "value": "商店已更新。"
+        },
+        {
+            "key": "APP_ERROR_2308",
+            "value": "未找到商店。"
+        },
+        {
+            "key": "APP_ERROR_2309",
+            "value": "商店錯誤。（獲取抽選資訊失敗）"
+        },
+        {
+            "key": "APP_ERROR_2310",
+            "value": "選取了無效的支付類型。"
+        },
+        {
+            "key": "APP_ERROR_2311",
+            "value": "商店錯誤。（獲取抽選資訊失敗）"
+        },
+        {
+            "key": "APP_ERROR_2312",
+            "value": "商店錯誤。（獲取抽選資訊失敗）"
+        },
+        {
+            "key": "APP_ERROR_2313",
+            "value": "商店錯誤。（獲取抽選資訊失敗）"
+        },
+        {
+            "key": "APP_ERROR_2314",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2324",
+            "value": "無法購買（交換）。 "
+        },
+        {
+            "key": "APP_ERROR_2327",
+            "value": "無法購買超出單次可購買（交換）次數以上的數量。"
+        },
+        {
+            "key": "APP_ERROR_2328",
+            "value": "商店的商品已更新。"
+        },
+        {
+            "key": "APP_ERROR_2400",
+            "value": "無法召喚。"
+        },
+        {
+            "key": "APP_ERROR_2401",
+            "value": "無法召喚。"
+        },
+        {
+            "key": "APP_ERROR_2402",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2403",
+            "value": ""
+        },
+        {
+            "key": "APP_ERROR_2404",
+            "value": "已達到召喚的上限次數。"
+        },
+        {
+            "key": "APP_ERROR_2405",
+            "value": "已達到召喚的上限次數。"
+        },
+        {
+            "key": "APP_ERROR_2406",
+            "value": "幻導石或召喚券不足，無法召喚。"
+        },
+        {
+            "key": "APP_ERROR_2407",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2408",
+            "value": "非召喚期間內。"
+        },
+        {
+            "key": "APP_ERROR_2409",
+            "value": "召喚錯誤。（已抽取）"
+        },
+        {
+            "key": "APP_ERROR_2410",
+            "value": "召喚錯誤。（重新召喚途中）"
+        },
+        {
+            "key": "APP_ERROR_2411",
+            "value": "已達到重新召喚的上限。"
+        },
+        {
+            "key": "APP_ERROR_2412",
+            "value": "不明召喚。"
+        },
+        {
+            "key": "APP_ERROR_2413",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2414",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2415",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2416",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2417",
+            "value": "無法召喚。"
+        },
+        {
+            "key": "APP_ERROR_2418",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2419",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2420",
+            "value": "召喚錯誤。（獲取抽選資訊失敗）"
+        },
+        {
+            "key": "APP_ERROR_2421",
+            "value": "召喚錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2422",
+            "value": "召喚錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2423",
+            "value": "召喚錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2424",
+            "value": "召喚錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2427",
+            "value": "已超過回歸期間，無法進行召喚。"
+        },
+        {
+            "key": "APP_ERROR_2501",
+            "value": "非考驗任務期間內。"
+        },
+        {
+            "key": "APP_ERROR_2531",
+            "value": "非挑戰期間內。"
+        },
+        {
+            "key": "APP_ERROR_2560",
+            "value": "未滿足解鎖條件。"
+        },
+        {
+            "key": "APP_ERROR_2600",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2601",
+            "value": "幻導石不足。  "
+        },
+        {
+            "key": "APP_ERROR_2602",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2603",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2604",
+            "value": "正在前往不明區域。"
+        },
+        {
+            "key": "APP_ERROR_2605",
+            "value": "此道具無法進行高速探險。"
+        },
+        {
+            "key": "APP_ERROR_2606",
+            "value": "本日高速探險已達上限。"
+        },
+        {
+            "key": "APP_ERROR_2607",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2608",
+            "value": "沒有可收取的道具。"
+        },
+        {
+            "key": "APP_ERROR_2609",
+            "value": "不明兵員。"
+        },
+        {
+            "key": "APP_ERROR_2700",
+            "value": "請稍後再輸入。  "
+        },
+        {
+            "key": "APP_ERROR_2701",
+            "value": "未找到頻道。"
+        },
+        {
+            "key": "APP_ERROR_2702",
+            "value": "不明貼圖。"
+        },
+        {
+            "key": "APP_ERROR_2703",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_2704",
+            "value": "由於違反規約條款，目前使用的帳號無法使用聊天功能。"
+        },
+        {
+            "key": "APP_ERROR_2800",
+            "value": "不存在的日期。"
+        },
+        {
+            "key": "APP_ERROR_2900",
+            "value": "舉辦期間不同。  "
+        },
+        {
+            "key": "APP_ERROR_2901",
+            "value": "未設置好隊伍。"
+        },
+        {
+            "key": "APP_ERROR_2902",
+            "value": "不正確的隊伍。"
+        },
+        {
+            "key": "APP_ERROR_2903",
+            "value": "不正確的戰鬥結果。"
+        },
+        {
+            "key": "APP_ERROR_3000",
+            "value": "已有所屬公會了。"
+        },
+        {
+            "key": "APP_ERROR_3001",
+            "value": "未找到公會。"
+        },
+        {
+            "key": "APP_ERROR_3002",
+            "value": "沒有所屬公會。"
+        },
+        {
+            "key": "APP_ERROR_3003",
+            "value": "輸入的內容中含有不可使用的文字。"
+        },
+        {
+            "key": "APP_ERROR_3004",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3005",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3006",
+            "value": "不明徽章。"
+        },
+        {
+            "key": "APP_ERROR_3007",
+            "value": "退出公會後<br>需要等待一段時間才可以再次加入。<br><br>退出後經過24小時<br>可以再次加入公會。"
+        },
+        {
+            "key": "APP_ERROR_3008",
+            "value": "公會成員數量已達上限。"
+        },
+        {
+            "key": "APP_ERROR_3009",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3010",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3011",
+            "value": "公會會長無法退出公會。請於轉讓會長職位後再退出。  "
+        },
+        {
+            "key": "APP_ERROR_3012",
+            "value": "已出席。"
+        },
+        {
+            "key": "APP_ERROR_3013",
+            "value": "出席功能未解鎖。"
+        },
+        {
+            "key": "APP_ERROR_3014",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3015",
+            "value": "公會副會長的人數已達上限。"
+        },
+        {
+            "key": "APP_ERROR_3016",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3017",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3018",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3019",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3020",
+            "value": "申請加入中的公會。"
+        },
+        {
+            "key": "APP_ERROR_3021",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3022",
+            "value": "未找到公會入會申請。"
+        },
+        {
+            "key": "APP_ERROR_3023",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3025",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3026",
+            "value": "已收取。"
+        },
+        {
+            "key": "APP_ERROR_3027",
+            "value": "已收取。"
+        },
+        {
+            "key": "APP_ERROR_3028",
+            "value": "贈禮已過有效期限。"
+        },
+        {
+            "key": "APP_ERROR_3029",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3030",
+            "value": "尚未解鎖。"
+        },
+        {
+            "key": "APP_ERROR_3031",
+            "value": "等級已達上限，無法強化。"
+        },
+        {
+            "key": "APP_ERROR_3032",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3033",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3034",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3035",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3036",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3037",
+            "value": "輸入的內容中含有不可使用的文字。"
+        },
+        {
+            "key": "APP_ERROR_3038",
+            "value": "輸入的內容中含有不可使用的文字。"
+        },
+        {
+            "key": "APP_ERROR_3039",
+            "value": "未滿足加入條件。"
+        },
+        {
+            "key": "APP_ERROR_3040",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3041",
+            "value": "沒有權限。"
+        },
+        {
+            "key": "APP_ERROR_3042",
+            "value": "公會名過長。"
+        },
+        {
+            "key": "APP_ERROR_3043",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3044",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3045",
+            "value": "未滿足公會解鎖條件。"
+        },
+        {
+            "key": "APP_ERROR_3046",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3047",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3048",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3049",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3050",
+            "value": "已更新為相同徽章。 "
+        },
+        {
+            "key": "APP_ERROR_3051",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3059",
+            "value": "非獲得期間內。"
+        },
+        {
+            "key": "APP_ERROR_3060",
+            "value": "無法體驗加入。 "
+        },
+        {
+            "key": "APP_ERROR_3061",
+            "value": "無法體驗加入。 "
+        },
+        {
+            "key": "APP_ERROR_3062",
+            "value": "無法體驗加入。 "
+        },
+        {
+            "key": "APP_ERROR_3063",
+            "value": "無法體驗加入。 "
+        },
+        {
+            "key": "APP_ERROR_3064",
+            "value": "並非新人，無法晉升為成員。"
+        },
+        {
+            "key": "APP_ERROR_3065",
+            "value": "已達到使用個數限制。"
+        },
+        {
+            "key": "APP_ERROR_3100",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3101",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3102",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3103",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3104",
+            "value": "對戰對手的資訊已更新，無法開始戰鬥。"
+        },
+        {
+            "key": "APP_ERROR_3105",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3106",
+            "value": "公會戰鬥中<br>無法解散公會。"
+        },
+        {
+            "key": "APP_ERROR_3107",
+            "value": "已更新公會成員的資訊，為重新取得資訊將返回主畫面。  "
+        },
+        {
+            "key": "APP_ERROR_3108",
+            "value": "戰鬥時間已過。"
+        },
+        {
+            "key": "APP_ERROR_3109",
+            "value": "期間限定公會戰鬥已開始。"
+        },
+        {
+            "key": "APP_ERROR_3200",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3201",
+            "value": "無法購買。"
+        },
+        {
+            "key": "APP_ERROR_3202",
+            "value": "無法購買。"
+        },
+        {
+            "key": "APP_ERROR_3203",
+            "value": "已購買。"
+        },
+        {
+            "key": "APP_ERROR_3204",
+            "value": "幻導石不足。  "
+        },
+        {
+            "key": "APP_ERROR_3205",
+            "value": "無法購買。"
+        },
+        {
+            "key": "APP_ERROR_3300",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3301",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3302",
+            "value": "非舉辦期間內。"
+        },
+        {
+            "key": "APP_ERROR_3303",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3304",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3305",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3306",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3307",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3308",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3309",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3310",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3311",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3312",
+            "value": "戰鬥舉辦期間已過。"
+        },
+        {
+            "key": "APP_ERROR_3400",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3401",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3402",
+            "value": "非舉辦期間內。"
+        },
+        {
+            "key": "APP_ERROR_3403",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3404",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3405",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3406",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3407",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3408",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3409",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3410",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3411",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3412",
+            "value": "戰鬥舉辦期間已過。"
+        },
+        {
+            "key": "APP_ERROR_3500",
+            "value": "無法開始決鬥。 "
+        },
+        {
+            "key": "APP_ERROR_3501",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3502",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3503",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3504",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3600",
+            "value": "未找到導覽。"
+        },
+        {
+            "key": "APP_ERROR_3601",
+            "value": "無法開始導覽。"
+        },
+        {
+            "key": "APP_ERROR_3602",
+            "value": "導覽已結束。"
+        },
+        {
+            "key": "APP_ERROR_3700",
+            "value": "不明錯誤。"
+        },
+        {
+            "key": "APP_ERROR_3701",
+            "value": "已鎖定。"
+        },
+        {
+            "key": "APP_ERROR_3800",
+            "value": "目前的玩家等級無法發行邀請碼。"
+        },
+        {
+            "key": "APP_ERROR_3801",
+            "value": "目前的玩家等級無法登錄邀請碼。"
+        },
+        {
+            "key": "APP_ERROR_3802",
+            "value": "已達到可以邀請人數的上限。"
+        },
+        {
+            "key": "APP_ERROR_3803",
+            "value": "輸入的邀請碼有誤。"
+        },
+        {
+            "key": "APP_ERROR_3804",
+            "value": "已登錄其他邀請碼。"
+        },
+        {
+            "key": "APP_ERROR_4027",
+            "value": "設置於鎖定裝備的信銘石不可作為強化素材。"
+        },
+        {
+            "key": "APP_ERROR_4028",
+            "value": "裝備的信銘石不可作為強化素材。"
+        },
+        {
+            "key": "APP_ERROR_4102",
+            "value": "非期間內的交換率。"
+        },
+        {
+            "key": "APP_ERROR_4106",
+            "value": "非活動期間內。"
+        },
+        {
+            "key": "APP_ERROR_5101",
+            "value": "無法開始戰鬥。"
+        },
+        {
+            "key": "APP_ERROR_5102",
+            "value": "無法開始戰鬥。"
+        },
+        {
+            "key": "APP_ERROR_5103",
+            "value": "編配COST已達上限。"
+        },
+        {
+            "key": "APP_ERROR_5104",
+            "value": "編配兵員數已達上限。"
+        },
+        {
+            "key": "APP_ERROR_5105",
+            "value": "無法進行挑戰。"
+        },
+        {
+            "key": "APP_ERROR_5106",
+            "value": "編配中有無法戰鬥兵員。"
+        },
+        {
+            "key": "APP_ERROR_5107",
+            "value": "無法繼續戰鬥。"
+        },
+        {
+            "key": "APP_ERROR_5108",
+            "value": "無法恢復。"
+        },
+        {
+            "key": "APP_ERROR_5109",
+            "value": "無法從頭進行挑戰。"
+        },
+        {
+            "key": "APP_ERROR_5110",
+            "value": "無法接關。"
+        },
+        {
+            "key": "APP_ERROR_5111",
+            "value": "非舉辦期間內。"
+        },
+        {
+            "key": "APP_ERROR_5112",
+            "value": "違反編配規則。"
+        },
+        {
+            "key": "APP_ERROR_5201",
+            "value": "不存在的號碼。"
+        },
+        {
+            "key": "APP_ERROR_5202",
+            "value": "非活動期間內。"
+        },
+        {
+            "key": "APP_ERROR_5203",
+            "value": "超過活動可收取的次數上限。"
+        },
+        {
+            "key": "APP_ERROR_5204",
+            "value": "已使用過的序號。"
+        },
+        {
+            "key": "APP_ERROR_5205",
+            "value": "非有效平台。"
+        },
+        {
+            "key": "APP_ERROR_5300",
+            "value": "對方的隊伍不正確。"
+        },
+        {
+            "key": "APP_ERROR_5301",
+            "value": "行動次數不足。"
+        },
+        {
+            "key": "APP_ERROR_5302",
+            "value": "隊伍變更。<br>請於更新後再試一次。"
+        },
+        {
+            "key": "APP_ERROR_5303",
+            "value": "戰鬥時間已過。"
+        },
+        {
+            "key": "APP_ERROR_5304",
+            "value": "期間限定公會戰鬥已結束。"
+        },
+        {
+            "key": "APP_ERROR_5305",
+            "value": "所選隊伍已被揭露。"
+        },
+        {
+            "key": "APP_ERROR_5306",
+            "value": "所選隊伍行動次數已達上限。"
+        },
+        {
+            "key": "APP_ERROR_5307",
+            "value": "所選隊伍能力使用次數已達上限。"
+        },
+        {
+            "key": "ALREADY_CONNECTED",
+            "value": "此社群平台的指定帳號已經綁定至另一個玩家帳號。"
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "社群帳號已達上限"
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "社群帳號連線數已達上限"
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "社群已達上限"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_TITLE",
+            "value": "暫時停權"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_TITLE",
+            "value": "永久停權"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_MESSAGE",
+            "value": "您的帳號已被封鎖至{0} 世界時間(PST)。<br><br>欲知詳情，請由標題畫面的「支援服務」＞「諮詢」與客服聯繫。"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE",
+            "value": "您的帳號已被封鎖。<br><br>欲知詳情，請由標題畫面的「支援服務」＞「諮詢」與客服聯繫。"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TITLE",
+            "value": "帳號封鎖"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_MSG_SUPPORT",
+            "value": "欲知詳情，請由標題畫面的<br>「支援服務」＞「諮詢」與客服聯繫。"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_DEFAULT",
+            "value": "您的帳號已被封鎖。"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERIOD",
+            "value": "剩餘{0}天（至{1} 世界時間(PST)）"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE_2",
+            "value": "期間：永久"
+        },
+        {
+            "key": "APP_ERROR_5308",
+            "value": "已超過可聲援次數。"
+        },
+        {
+            "key": "APP_ERROR_5309",
+            "value": "此聲援無法重複套用於<br>相同隊伍。"
+        },
+        {
+            "key": "APP_ERROR_5310",
+            "value": "不在期間限定公會戰鬥的編配期間內。"
+        },
+        {
+            "key": "APP_ERROR_5600",
+            "value": "非舉辦期間內錯誤"
+        },
+        {
+            "key": "APP_ERROR_5601",
+            "value": "現在時刻公會共鬥非舉辦期間內錯誤"
+        },
+        {
+            "key": "APP_ERROR_5602",
+            "value": "非戰鬥期間內錯誤"
+        },
+        {
+            "key": "APP_ERROR_5603",
+            "value": "非體驗戰鬥期間內錯誤"
+        },
+        {
+            "key": "APP_ERROR_5604",
+            "value": "進行了超過行動次數的戰鬥"
+        },
+        {
+            "key": "APP_ERROR_5605",
+            "value": "共鬥頭目已被討伐"
+        },
+        {
+            "key": "APP_ERROR_5606",
+            "value": "無法正常中斷返回（留有除了公會共鬥外的中斷返回資料）"
+        },
+        {
+            "key": "APP_ERROR_5607",
+            "value": "頭目戰鬥尚未開始"
+        },
+        {
+            "key": "APP_ERROR_5608",
+            "value": "中斷返回資料不完全"
+        },
+        {
+            "key": "APP_ERROR_5609",
+            "value": "無法扣除BP（BP不足）"
+        },
+        {
+            "key": "APP_ERROR_5700",
+            "value": "輸入的內容中含有不可使用的文字。"
+        },
+        {
+            "key": "APP_ERROR_5703",
+            "value": "已經發出了勸誘。"
+        },
+        {
+            "key": "APP_ERROR_5704",
+            "value": "由於已到達公會人數上限<br>無法進行勸誘。"
+        },
+        {
+            "key": "APP_ERROR_5705",
+            "value": "由於已所屬於其他公會<br>無法進行勸誘。"
+        },
+        {
+            "key": "APP_ERROR_5800",
+            "value": "對方的隊伍不正確。"
+        },
+        {
+            "key": "APP_ERROR_5801",
+            "value": "行動次數不足。"
+        },
+        {
+            "key": "APP_ERROR_5802",
+            "value": "隊伍變更。<br>請於更新後再試一次。"
+        },
+        {
+            "key": "APP_ERROR_5803",
+            "value": "戰鬥時間已過。"
+        },
+        {
+            "key": "APP_ERROR_5804",
+            "value": "公會戰鬥頂尖對決已結束。"
+        },
+        {
+            "key": "APP_ERROR_5805",
+            "value": "所選隊伍已被揭露。"
+        },
+        {
+            "key": "APP_ERROR_5806",
+            "value": "所選隊伍行動次數已達上限。"
+        },
+        {
+            "key": "APP_ERROR_5807",
+            "value": "所選隊伍能力使用次數已達上限。"
+        },
+        {
+            "key": "APP_ERROR_5808",
+            "value": "已超過可聲援次數。"
+        },
+        {
+            "key": "APP_ERROR_5809",
+            "value": "此聲援無法重複套用於<br>相同隊伍。"
+        },
+        {
+            "key": "APP_ERROR_5810",
+            "value": "不在公會戰鬥頂尖對決的編配期間內。"
+        },
+        {
+            "key": "APP_ERROR_6002",
+            "value": "因舉辦期間已過或其他原因，導致無法進行召喚。"
+        }
+    ]
+}

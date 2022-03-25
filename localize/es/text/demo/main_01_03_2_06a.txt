@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bip, bip, bip…"
+        },
+        {
+            "key": "002",
+            "value": "¿Otro informe de vuestros aliados?"
+        },
+        {
+            "key": "003",
+            "value": "No querrás decirme que hemos perdido a todas las tropas que estaban persiguiéndolos, ¿verdad?"
+        },
+        {
+            "key": "004",
+            "value": "Vuestros soldados están demostrando ser una panda de incompetentes."
+        },
+        {
+            "key": "005",
+            "value": "Elde sigue rumbo al norte, ¿verdad?"
+        },
+        {
+            "key": "006",
+            "value": "En ese caso, espera hasta que llegue yo, ¿entendido?"
+        },
+        {
+            "key": "007",
+            "value": "Mmm. Una estrategia del montón, para variar."
+        },
+        {
+            "key": "008",
+            "value": "¿Qué has dicho?"
+        },
+        {
+            "key": "009",
+            "value": "Tardáis demasiado tiempo en reaccionar. ¿Es que vais a esperar a que Elde y Wezette unan fuerzas para actuar?"
+        },
+        {
+            "key": "010",
+            "value": "¡Nadie te ha pedido tu opinión, sabandija!"
+        },
+        {
+            "key": "011",
+            "value": "Sadali os ha dado una orden: tenéis que ayudarme en lo que sea para acabar con Elde."
+        },
+        {
+            "key": "012",
+            "value": "Espero que no se os haya olvidado tan pronto…"
+        },
+        {
+            "key": "013",
+            "value": "Decidle a vuestros hombres que no cesen la persecución."
+        },
+        {
+            "key": "014",
+            "value": "…"
+        },
+        {
+            "key": "015",
+            "value": "Escuchadme bien: continuad con la persecución."
+        },
+        {
+            "key": "016",
+            "value": "Bien. Ahora, sigamos."
+        },
+        {
+            "key": "017",
+            "value": "Je, je, je. Y pensar que vería el día en que el poderoso Muraga obedecería las órdenes de un chavalín."
+        },
+        {
+            "key": "018",
+            "value": "Cierra el pico, Lairyu."
+        },
+        {
+            "key": "019",
+            "value": "Tú zanja el tema de Elde, que ya me encargaré yo del joven Stern por ti. ¿Qué te parece?"
+        },
+        {
+            "key": "020",
+            "value": "Y a esta invita la casa."
+        }
+    ]
+}

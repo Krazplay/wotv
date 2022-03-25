@@ -1,0 +1,300 @@
+﻿{
+    "infos": [
+        {
+            "key": "063",
+            "value": "The weak always flock together. Barely a test of my skills."
+        },
+        {
+            "key": "064",
+            "value": "...Even so, it seems you had quite a hard time."
+        },
+        {
+            "key": "065",
+            "value": "M-my apologies. That was my first proper battle..."
+        },
+        {
+            "key": "066",
+            "value": "No excuses. We will not have a weakling amongst the Warriors of the Crystals."
+        },
+        {
+            "key": "067",
+            "value": "First, you needn't move so much. Assess your opponent's movements before taking action yourself."
+        },
+        {
+            "key": "068",
+            "value": "You allowed the monsters to toy with you. It should be you who controls the battle."
+        },
+        {
+            "key": "069",
+            "value": "Keep this up and there will be no use for you. You must become stronger. Is that clear?"
+        },
+        {
+            "key": "070",
+            "value": "...I-I appreciate your honesty, as brutal as it may be."
+        },
+        {
+            "key": "071",
+            "value": "There's no time to wallow in self-pity. We must reach the Crystal before sundown."
+        },
+        {
+            "key": "072",
+            "value": "When night falls, the monsters become all the more vicious."
+        },
+        {
+            "key": "073",
+            "value": "Ah! P-please wait, Lady Jeume!"
+        },
+        {
+            "key": "074",
+            "value": "A village...? What a peaceful place."
+        },
+        {
+            "key": "075",
+            "value": "I feel the Core Crystal must be near here. Let's see what information we can gather."
+        },
+        {
+            "key": "076",
+            "value": "Have you seen a Core Crystal?"
+        },
+        {
+            "key": "077",
+            "value": "Core Crystal? What's that?"
+        },
+        {
+            "key": "078",
+            "value": "It should be around here somewhere. Tell me where it is."
+        },
+        {
+            "key": "079",
+            "value": "Sorry, miss. I don't think I can help you."
+        },
+        {
+            "key": "080",
+            "value": "What a waste of time."
+        },
+        {
+            "key": "081",
+            "value": "Wh-what's your problem!? Is that how you ask someone for help!?"
+        },
+        {
+            "key": "082",
+            "value": "...Did I do something wrong? Oh well, on to the next."
+        },
+        {
+            "key": "083",
+            "value": "Have you seen a Core Crystal?"
+        },
+        {
+            "key": "084",
+            "value": "Huh? A-a Core Crystal?"
+        },
+        {
+            "key": "085",
+            "value": "Correct. It should be around here somewhere. Tell me where it is."
+        },
+        {
+            "key": "086",
+            "value": "U-um... I haven't seen it myself, if that's of any help..."
+        },
+        {
+            "key": "087",
+            "value": "...It seems you're just as useless as the last."
+        },
+        {
+            "key": "088",
+            "value": "Wh-what did you—!? Lady Jeume!"
+        },
+        {
+            "key": "089",
+            "value": "What is it? Do not impede me."
+        },
+        {
+            "key": "090",
+            "value": "You won't learn anything asking like that! You'll only make them uncomfortable!"
+        },
+        {
+            "key": "091",
+            "value": "Why would speaking the truth make them uncomfortable?"
+        },
+        {
+            "key": "092",
+            "value": "L-let me handle this one."
+        },
+        {
+            "key": "093",
+            "value": "Excuse me. Have you noticed anything different near the village lately?"
+        },
+        {
+            "key": "094",
+            "value": "Anything different? Now that you mention it..."
+        },
+        {
+            "key": "095",
+            "value": "The monsters dwelling in the mines on the outskirts of this village seem to have become quite ferocious as of late."
+        },
+        {
+            "key": "096",
+            "value": "Some are saying it's an omen of a natural disaster to come, but the cause is still a mystery..."
+        },
+        {
+            "key": "097",
+            "value": "I see... By the way, was there some kind of sparkling object in that area?"
+        },
+        {
+            "key": "098",
+            "value": "I've never gone near the mines... They're quite dangerous, you see."
+        },
+        {
+            "key": "099",
+            "value": "I'm sorry I couldn't be of more help."
+        },
+        {
+            "key": "100",
+            "value": "N-not at all!"
+        },
+        {
+            "key": "101",
+            "value": "I'm the one who should be apologizing for how my partner spoke to you!"
+        },
+        {
+            "key": "102",
+            "value": "Thank you so much for sharing such useful information!"
+        },
+        {
+            "key": "103",
+            "value": "Phew...has no one ever told you that you aren't very adept at reading the room, so to speak?"
+        },
+        {
+            "key": "104",
+            "value": "Not from the other Warriors. I find that the other party often falls silent when I try to converse."
+        },
+        {
+            "key": "105",
+            "value": "Just as I suspected...this is a regular problem for you."
+        },
+        {
+            "key": "106",
+            "value": "I am simply conveying facts. So I cannot fathom why the other person fails to continue the conversation."
+        },
+        {
+            "key": "107",
+            "value": "Just conveying truth and facts bluntly isn't always a good thing."
+        },
+        {
+            "key": "108",
+            "value": "Anyone would stop being so keen to talk once their feelings have been hurt."
+        },
+        {
+            "key": "109",
+            "value": "Meaning they are weak of heart?"
+        },
+        {
+            "key": "110",
+            "value": "It isn't about being weak or strong..."
+        },
+        {
+            "key": "111",
+            "value": "A-anyway, to return to the matter at hand, she said that there's something odd about the mines on the outskirts of the village. How do we proceed?"
+        },
+        {
+            "key": "112",
+            "value": "By taking a look ourselves, of course."
+        },
+        {
+            "key": "113",
+            "value": "The monsters' enhanced aggression might be an effect of the Core Crystal."
+        },
+        {
+            "key": "114",
+            "value": "I hope we can recover the Core Crystal soon, for the sake of the villagers as well..."
+        },
+        {
+            "key": "115",
+            "value": "...Ah, again!? Lady Jeume, wait for me!"
+        },
+        {
+            "key": "116",
+            "value": "These must be the mines the villager spoke of before, inhabited by monsters... It's quite hard to see in this darkness."
+        },
+        {
+            "key": "117",
+            "value": "We could be attacked at any moment. Don't let your guard down."
+        },
+        {
+            "key": "118",
+            "value": "R-right."
+        },
+        {
+            "key": "119",
+            "value": "...How timely."
+        },
+        {
+            "key": "120",
+            "value": "Lady Jeume! Someone is being attacked by the monsters!"
+        },
+        {
+            "key": "121",
+            "value": "Ngh!"
+        },
+        {
+            "key": "122",
+            "value": "He seems to be overpowered. We must aid him, quickly!"
+        },
+        {
+            "key": "123",
+            "value": "It would be in our best interest to let him keep attracting the monsters."
+        },
+        {
+            "key": "124",
+            "value": "Let's use this chance to look for the Core Crystal."
+        },
+        {
+            "key": "125",
+            "value": "Y-you mean we should leave him!?"
+        },
+        {
+            "key": "126",
+            "value": "The weak are overtaken by the strong. Such is the way of the world. We're not obligated to help."
+        },
+        {
+            "key": "127",
+            "value": "No... I refuse to abandon him!"
+        },
+        {
+            "key": "128",
+            "value": "The very reason the Warriors of the Crystals exist is to help people!"
+        },
+        {
+            "key": "129",
+            "value": "Not so. Our purpose is to safeguard the Core Crystals."
+        },
+        {
+            "key": "130",
+            "value": "...But that boy might know where to find the Core Crystal."
+        },
+        {
+            "key": "131",
+            "value": "Huh?"
+        },
+        {
+            "key": "132",
+            "value": "For the sake of gaining more information, let's lend him a hand."
+        },
+        {
+            "key": "133",
+            "value": "Please, Lady Jeume. Lend your blade so that we may save him."
+        },
+        {
+            "key": "134",
+            "value": "...I suppose I can't refuse if it means we could learn something."
+        },
+        {
+            "key": "135",
+            "value": "I'll have this wrapped up shortly. Just don't get in the way, got it?"
+        },
+        {
+            "key": "136",
+            "value": "As you say!"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Es ist Zeit aufzubrechen."
+        },
+        {
+            "key": "002",
+            "value": "Warte den richtigen Moment ab, um zu kapitulieren. Vergiss nicht – das Überleben der Linie von Leonis ist alles, was zählt."
+        },
+        {
+            "key": "003",
+            "value": "Ich bin mir dessen bewusst."
+        },
+        {
+            "key": "004",
+            "value": "Mutter ... Bitte nutze die erstbeste Gelegenheit, um dich dem Feind zu ergeben."
+        },
+        {
+            "key": "005",
+            "value": "Dummkopf. Eine übereilte Kapitulation würde verhindern, dass wir uns einen Vorsprung vor dem Feind herausarbeiten können."
+        },
+        {
+            "key": "006",
+            "value": "Du setzt Mutters und Styrs Leben aufs Spiel, damit wir uns in Sicherheit bringen können. Das ist ..."
+        },
+        {
+            "key": "007",
+            "value": "Es geht um den Fortbestand unseres Hauses."
+        },
+        {
+            "key": "008",
+            "value": "Mont ..."
+        },
+        {
+            "key": "009",
+            "value": "Pass auf dich auf."
+        },
+        {
+            "key": "010",
+            "value": "Ich werde es versuchen."
+        },
+        {
+            "key": "011",
+            "value": "Genug geredet. Wir brechen auf."
+        },
+        {
+            "key": "012",
+            "value": "Schuzelt ... Alles in Ordnung?"
+        },
+        {
+            "key": "013",
+            "value": "... Ja, Euer Hoheit."
+        }
+    ]
+}

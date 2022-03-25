@@ -1,0 +1,124 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh…"
+        },
+        {
+            "key": "002",
+            "value": "Vous feriez mieux d'abandonner avant de…"
+        },
+        {
+            "key": "003",
+            "value": "Restons-en là pour aujourd'hui. Mais…"
+        },
+        {
+            "key": "004",
+            "value": "Nous reviendrons, tâchez de vous en souvenir."
+        },
+        {
+            "key": "005",
+            "value": "Pfiou !"
+        },
+        {
+            "key": "006",
+            "value": "Eh bien, c'était quelque chose."
+        },
+        {
+            "key": "007",
+            "value": "Leur calme ne me dit rien qui vaille…"
+        },
+        {
+            "key": "008",
+            "value": "Explique-toi."
+        },
+        {
+            "key": "009",
+            "value": "Par rapport à quoi ?"
+        },
+        {
+            "key": "010",
+            "value": "Tu savais qu'ils n'allaient pas nous laisser mettre pied à terre sans rien faire, n'est-ce pas ?"
+        },
+        {
+            "key": "011",
+            "value": "En effet."
+        },
+        {
+            "key": "012",
+            "value": "Un seul faux pas et l'épée d'Owe aurait pu terminer entre de mauvaises mains. Tu en es conscient ?"
+        },
+        {
+            "key": "013",
+            "value": "Sous-entends-tu que je pourrais perdre face à eux ?"
+        },
+        {
+            "key": "014",
+            "value": "C'est effectivement une possibilité…"
+        },
+        {
+            "key": "015",
+            "value": "Aucune chance."
+        },
+        {
+            "key": "016",
+            "value": "…"
+        },
+        {
+            "key": "017",
+            "value": "Ils ont l'air persuadés que nous possédons l'épée."
+        },
+        {
+            "key": "018",
+            "value": "Ah…"
+        },
+        {
+            "key": "019",
+            "value": "Tu veux dire que tu les as attirés jusqu'ici pour les empêcher de profaner la tombe d'Owe ?"
+        },
+        {
+            "key": "020",
+            "value": "Oui."
+        },
+        {
+            "key": "021",
+            "value": "…"
+        },
+        {
+            "key": "022",
+            "value": "Mais l'épée du maître…"
+        },
+        {
+            "key": "023",
+            "value": "N'est pas ici, ni sa sépulture."
+        },
+        {
+            "key": "024",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "025",
+            "value": "Cette tombe est un leurre pour tous ceux qui ne sont pas familiers avec les rituels de l'est."
+        },
+        {
+            "key": "026",
+            "value": "La tradition veut que trois pierres soient empilées les unes sur les autres à l'entrée de la tombe afin de garantir au défunt le repos éternel."
+        },
+        {
+            "key": "027",
+            "value": "Et il n'y a aucune de ces pierres ici."
+        },
+        {
+            "key": "028",
+            "value": "N'est-ce pas ?"
+        },
+        {
+            "key": "029",
+            "value": "Mais dans l'hypothèse où les personnes qui l'ont enterré ne seraient pas familiers avec ce rituel ?"
+        },
+        {
+            "key": "030",
+            "value": "Dans ce cas, autant leur demander directement."
+        }
+    ]
+}

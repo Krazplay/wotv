@@ -1,0 +1,228 @@
+﻿{
+    "infos": [
+        {
+            "key": "10001",
+            "value": "Ayudadme… Guerreros portadores de luz…"
+        },
+        {
+            "key": "10002",
+            "value": "Este mundo está a punto de sucumbir… Daos prisa, antes de que sea tarde…"
+        },
+        {
+            "key": "10003",
+            "value": "¿Qué es este sitio? Me ha parecido oír una voz que me llamaba…"
+        },
+        {
+            "key": "10004",
+            "value": "¡Rain!"
+        },
+        {
+            "key": "10005",
+            "value": "¡Fina! Así que tú también estás aquí."
+        },
+        {
+            "key": "10006",
+            "value": "Sí, pero no entiendo qué está pasando. ¿Dónde estamos?"
+        },
+        {
+            "key": "10007",
+            "value": "Ni idea. Pero nunca había visto tanto miasma acumulado…"
+        },
+        {
+            "key": "10008",
+            "value": "Tengo un mal presentimiento."
+        },
+        {
+            "key": "10009",
+            "value": "¿Dónde… estoy? Iba a responder a una llamada de auxilio y, de repente…"
+        },
+        {
+            "key": "10010",
+            "value": "Veo que compartimos el mismo destino, Mont. Yo también he oído esa voz."
+        },
+        {
+            "key": "10011",
+            "value": "¡Machérie! ¿Tú también aquí?"
+        },
+        {
+            "key": "10012",
+            "value": "Es alentador tenerte cerca…, sobre todo en un lugar tan siniestro como este."
+        },
+        {
+            "key": "10013",
+            "value": "¿Quiénes sois vosotros? ¿De dónde venís?"
+        },
+        {
+            "key": "10014",
+            "value": "¡Hay más personas!..."
+        },
+        {
+            "key": "10015",
+            "value": "Hemos aparecido aquí de repente."
+        },
+        {
+            "key": "10016",
+            "value": "Ya veo… Me llamo Mont, soy de Leonis. Y esta es Machérie, de Hourne.      "
+        },
+        {
+            "key": "10017",
+            "value": "¿Leonis? ¿Hourne?"
+        },
+        {
+            "key": "10018",
+            "value": "Nunca había oído los nombres de esos países."
+        },
+        {
+            "key": "10019",
+            "value": "¿No conoces nuestros reinos? Entonces, ¿de dónde sois vosotros?"
+        },
+        {
+            "key": "10020",
+            "value": "Claro, aún no nos hemos presentado. Yo soy Rain, caballero de Grandshelt."
+        },
+        {
+            "key": "10021",
+            "value": "Y yo Fina. Encantada de conoceros."
+        },
+        {
+            "key": "10022",
+            "value": "Grandshelt… No conozco ese sitio."
+        },
+        {
+            "key": "10023",
+            "value": "Ya veo. Entonces puede que hayamos sido invocados aquí desde mundos distintos…"
+        },
+        {
+            "key": "10024",
+            "value": "O incluso épocas distintas.      "
+        },
+        {
+            "key": "10025",
+            "value": "¿Vosotros también habéis oído una voz pidiendo ayuda? "
+        },
+        {
+            "key": "10026",
+            "value": "Sí, pero no sabemos de quién podría ser…"
+        },
+        {
+            "key": "10027",
+            "value": "Era la mía."
+        },
+        {
+            "key": "10028",
+            "value": "Tú eres… ¡la Voluntad de la Luz!"
+        },
+        {
+            "key": "10029",
+            "value": "Correcto. Precisaba de vuestra ayuda y os he invocado en este mundo como visiones."
+        },
+        {
+            "key": "10030",
+            "value": "¡¿Visiones?! ¿Quieres decir que Machérie y yo no somos más que meras visiones ahora mismo?"
+        },
+        {
+            "key": "10031",
+            "value": "Eso es. Vuestra forma actual es la personificación de vuestro deseo de responder a mi llamada."
+        },
+        {
+            "key": "10032",
+            "value": "Ya veo… Aunque es algo diferente a mi concepto de las visiones."
+        },
+        {
+            "key": "10033",
+            "value": "Quién me iba a decir que podría convertirme en una yo mismo. Qué sensación tan curiosa…"
+        },
+        {
+            "key": "10034",
+            "value": "Fina te ha llamado «Voluntad de la Luz»… ¿Qué clase de ser eres tú?"
+        },
+        {
+            "key": "10035",
+            "value": "Soy uno de los entes que mantiene el equilibrio del mundo."
+        },
+        {
+            "key": "10036",
+            "value": "Luz y oscuridad, amor y odio, creación y destrucción. El universo está lleno de complementos opuestos, y yo existo para garantizar su armonía."
+        },
+        {
+            "key": "10037",
+            "value": "Sin embargo…, algo amenaza con consumir este mundo y destruir su equilibrio."
+        },
+        {
+            "key": "10038",
+            "value": "A este paso, lo sumirá en la ruina más espantosa."
+        },
+        {
+            "key": "10039",
+            "value": "Por eso nos has pedido ayuda."
+        },
+        {
+            "key": "10040",
+            "value": "¿De qué amenaza se trata?..."
+        },
+        {
+            "key": "10041",
+            "value": "De dos molbols enfurecidos."
+        },
+        {
+            "key": "10042",
+            "value": "Si no hacemos nada por detenerlos, puede que este mundo no sea el único afectado."
+        },
+        {
+            "key": "10043",
+            "value": "Otros podrían sufrir la misma suerte y ceder al caos."
+        },
+        {
+            "key": "10044",
+            "value": "Oh, no… ¿Tan peligrosos son?"
+        },
+        {
+            "key": "10045",
+            "value": "En tal caso tenemos que deshacernos de ellos cuanto antes."
+        },
+        {
+            "key": "10046",
+            "value": "Tienes razón. Sobre todo si este no es el único mundo al que podrían perjudicar."
+        },
+        {
+            "key": "10047",
+            "value": "Os lo agradezco. Por favor…, salvad este mundo. "
+        },
+        {
+            "key": "10048",
+            "value": "Dos molbols son la causa de esto… Dividámonos en dos grupos. Yo iré con Mont y Rain con Fina."
+        },
+        {
+            "key": "10049",
+            "value": "Está bien. ¡Si estáis en peligro, avisadnos!"
+        },
+        {
+            "key": "10050",
+            "value": "¿En peligro, dices?... Hmf. Mont tiene más agallas de lo que puede parecer a simple vista."
+        },
+        {
+            "key": "10051",
+            "value": "M-machérie..."
+        },
+        {
+            "key": "10052",
+            "value": "Además, soy yo quien lo acompaña. No os preocupéis por nosotros. Os sugiero que penséis en vuestra propia seguridad."
+        },
+        {
+            "key": "10053",
+            "value": "Je, je. Se nota que confías en Mont. Formáis muy buen equipo."
+        },
+        {
+            "key": "10054",
+            "value": "¡Nosotros no seremos menos, ¿verdad, Rain?!"
+        },
+        {
+            "key": "10055",
+            "value": "Tú lo has dicho. ¡Vamos a por nuestro molbol!"
+        },
+        {
+            "key": "10056",
+            "value": "Rezo por vuestra seguridad y victoria. En marcha."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "TITLE_START",
+            "value": "點擊開始"
+        },
+        {
+            "key": "TITLE_DATA",
+            "value": "資料"
+        },
+        {
+            "key": "TITLE_SUPPORT",
+            "value": "支援服務"
+        },
+        {
+            "key": "TITLE_VERSION",
+            "value": "ver."
+        },
+        {
+            "key": "TITLE_ID",
+            "value": "玩家ID"
+        },
+        {
+            "key": "TITLE_COPYRIGHT",
+            "value": "<line-height=15>©2019 SQUARE ENIX CO., LTD. All Rights Reserved. Co-Developed by gumi Inc.<br>LOGO ILLUSTRATION: © 2018 YOSHITAKA AMANO<br>IMAGE ILLUSTRATION:  ISAMU KAMIKOKURYO"
+        },
+        {
+            "key": "TITLE_SUPPORT_TITLE",
+            "value": "支援服務"
+        },
+        {
+            "key": "TITLE_SUPPORT_NEWS",
+            "value": "通知"
+        },
+        {
+            "key": "TITLE_SUPPORT_HELP",
+            "value": "幫助"
+        },
+        {
+            "key": "TITLE_SUPPORT_CONTACT",
+            "value": "諮詢"
+        },
+        {
+            "key": "TITLE_DATA_TITLE",
+            "value": "資料"
+        },
+        {
+            "key": "TITLE_DATA_CONNECT",
+            "value": "繼承紀錄"
+        },
+        {
+            "key": "TITLE_DATA_DELETE",
+            "value": "刪除下載資料"
+        },
+        {
+            "key": "TITLE_ACOUNT_DELETE",
+            "value": "用戶帳號刪除"
+        },
+        {
+            "key": "WW_TITLE_COPYRIGHT",
+            "value": "<line-height=15>© 2019-2022 SQUARE ENIX CO., LTD. All Rights Reserved. Co-Developed by gumi Inc.<br>LOGO ILLUSTRATION: © 2018 YOSHITAKA AMANO<br>IMAGE ILLUSTRATION: ISAMU KAMIKOKURYO"
+        }
+    ]
+}

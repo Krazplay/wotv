@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Bon !"
+        },
+        {
+            "key": "002",
+            "value": "Je vais attirer leur attention."
+        },
+        {
+            "key": "003",
+            "value": "C'est insensé."
+        },
+        {
+            "key": "004",
+            "value": "Et vous, vous ferez ce que tout bon lâche sait faire."
+        },
+        {
+            "key": "005",
+            "value": "Abattez-les en commençant par leur commandant, Rhaldor !"
+        },
+        {
+            "key": "006",
+            "value": "Sans personne à leur tête, les éliminer sera un jeu d'enfant."
+        },
+        {
+            "key": "007",
+            "value": "Vous avez entendu ?"
+        },
+        {
+            "key": "008",
+            "value": "Nous devrions battre en retraite."
+        },
+        {
+            "key": "009",
+            "value": "Tu es bien trop tendre."
+        },
+        {
+            "key": "010",
+            "value": "Ta seule faiblesse réside dans ta perpétuelle inquiétude envers tes camarades."
+        },
+        {
+            "key": "011",
+            "value": "Il serait temps que tu comprennes qu'en agissant ainsi, tu ne fais que les mettre en danger."
+        },
+        {
+            "key": "012",
+            "value": "Mais..."
+        },
+        {
+            "key": "013",
+            "value": "Où est passée la cruauté dont tu as fait preuve un peu plus tôt avec ce moine ?"
+        },
+        {
+            "key": "014",
+            "value": "En avant !"
+        },
+        {
+            "key": "015",
+            "value": "Je ne peux pas me résoudre à vous utiliser comme bouclier..."
+        },
+        {
+            "key": "016",
+            "value": "Pour quoi te bats-tu à la fin ?"
+        },
+        {
+            "key": "017",
+            "value": "Comment ?"
+        },
+        {
+            "key": "018",
+            "value": "Elzandra m'a tout raconté."
+        },
+        {
+            "key": "019",
+            "value": "Tu as dit être prête à tout pour le bien être de sire Jayden."
+        },
+        {
+            "key": "020",
+            "value": "En effet."
+        },
+        {
+            "key": "021",
+            "value": "Si nous les laissons mettre la main sur ces cristaux, la menace de l'Église du Cristal ne fera que croître davantage."
+        },
+        {
+            "key": "022",
+            "value": "Tu vois où je veux en venir ? Sire Jayden risquerait d'être blessé ou pire."
+        },
+        {
+            "key": "023",
+            "value": "Commandant..."
+        },
+        {
+            "key": "024",
+            "value": "Allons-y ! Il est temps que je leur fasse goûter à la fierté de « Crucium » !"
+        },
+        {
+            "key": "025",
+            "value": "À vos ordres !"
+        }
+    ]
+}

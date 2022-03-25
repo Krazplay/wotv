@@ -1,0 +1,296 @@
+﻿{
+    "infos": [
+        {
+            "key": "312",
+            "value": "Le blizzard s'est enfin calmé."
+        },
+        {
+            "key": "313",
+            "value": "Graziella ! Je vois des gens devant."
+        },
+        {
+            "key": "314",
+            "value": "On dirait les hommes que nous avons croisés en ville."
+        },
+        {
+            "key": "315",
+            "value": "Lucio et Ranan. Je les croyais partis en quête de leur cristal."
+        },
+        {
+            "key": "316",
+            "value": "Nous devrions leur venir en aide."
+        },
+        {
+            "key": "317",
+            "value": "Quelle surprise. L'héritière du trône de Wezett en personne. Je ne m'attendais pas à vous voir ici, Altesse."
+        },
+        {
+            "key": "318",
+            "value": "Laissons tomber les titres, pour l'instant. Vous pouvez m'appeler Graziella."
+        },
+        {
+            "key": "319",
+            "value": "Excusez-le… Mais c'est vrai, que faites-vous là ?"
+        },
+        {
+            "key": "320",
+            "value": "Je pourrais vous retourner la question. Quand nous nous sommes séparés, vous preniez la direction du laboratoire de recherche ésotérique."
+        },
+        {
+            "key": "321",
+            "value": "C'est ce qu'on a fait, mais la tempête a commencé et…"
+        },
+        {
+            "key": "322",
+            "value": "Ce n'est pas très sage de s'aventurer en terre inconnue au milieu d'un blizzard."
+        },
+        {
+            "key": "323",
+            "value": "Serait-ce trop que de vous demander de nous pointer la bonne direction ?"
+        },
+        {
+            "key": "324",
+            "value": "Vous savez que notre mission est urgente, nous ne pouvons nous permettre de nous perdre une seconde fois."
+        },
+        {
+            "key": "325",
+            "value": "Rappelez-moi ce que vous projetez de faire de ce cristal, si jamais vous arrivez à le retrouver ?"
+        },
+        {
+            "key": "326",
+            "value": "Il est juste que vous sachiez la vérité en échange de votre aide."
+        },
+        {
+            "key": "327",
+            "value": "… Et voilà, en somme."
+        },
+        {
+            "key": "328",
+            "value": "Vous êtes donc des Guerriers des cristaux chargés de restaurer l'équilibre du monde… ?"
+        },
+        {
+            "key": "329",
+            "value": "En d'autres termes, votre but est de priver Wezett de la puissance de ce cristal."
+        },
+        {
+            "key": "330",
+            "value": "Oui. Nous devons lui faire retrouver sa place pour remplir notre mission."
+        },
+        {
+            "key": "331",
+            "value": "Je suis désolé. Nos intérêts ont l'air d'être en opposition avec ceux de Wezett, mais…"
+        },
+        {
+            "key": "332",
+            "value": "Détrompe-toi, apprenti. Je doute fort que ces dames aient l'intention de garder le cristal fondamental dans leur royaume."
+        },
+        {
+            "key": "333",
+            "value": "Et pourquoi cela ?"
+        },
+        {
+            "key": "334",
+            "value": "Je m'en suis rendu compte en ville, dès l'instant où vous nous avez révélé l'emplacement du cristal."
+        },
+        {
+            "key": "335",
+            "value": "Et je le vois encore maintenant, Dame Graziella, à la rage qui brûle dans vos yeux."
+        },
+        {
+            "key": "336",
+            "value": "… !"
+        },
+        {
+            "key": "337",
+            "value": "Vous pensez à eux, n'est-ce pas ? Aux gouverneurs de Wezett. Vous ne voulez pas qu'ils mettent la main sur la puissance du cristal."
+        },
+        {
+            "key": "338",
+            "value": "Au contraire, vous désiriez vous assurer que notre intention était de l'éloigner autant que possible d'ici, car cela sert précisément votre cause."
+        },
+        {
+            "key": "339",
+            "value": "Malheureusement, la tâche se révèle difficile pour nous deux."
+        },
+        {
+            "key": "340",
+            "value": "Or si nous échouions, et que le pouvoir militaire prenait le contrôle du cristal, le risque que cela entraîne des conséquences irréversibles est grand."
+        },
+        {
+            "key": "341",
+            "value": "Ce ne sont que des hypothèses, bien sûr."
+        },
+        {
+            "key": "342",
+            "value": "…"
+        },
+        {
+            "key": "343",
+            "value": "Graziella ?"
+        },
+        {
+            "key": "344",
+            "value": "Si le cristal fondamental atteint le laboratoire de recherche ésotérique, ses hypothèses risquent de s'avérer exactes."
+        },
+        {
+            "key": "345",
+            "value": "Qu'en sais-tu, précisément ?"
+        },
+        {
+            "key": "346",
+            "value": "J'y ai travaillé moi-même. Je ne connais que trop bien les risques qu'ils sont prêts à prendre."
+        },
+        {
+            "key": "347",
+            "value": "S'ils voient une chance d'accéder au pouvoir du cristal…"
+        },
+        {
+            "key": "348",
+            "value": "Et qu'ils y parviennent, Wezett pourrait se doter d'une redoutable arme secrète."
+        },
+        {
+            "key": "349",
+            "value": "Nous devons l'intercepter avant qu'il arrive au laboratoire, c'est notre dernière chance."
+        },
+        {
+            "key": "350",
+            "value": "Le choix s'impose donc de lui-même. Mais cela, vous le saviez depuis le début, n'est-ce pas ?"
+        },
+        {
+            "key": "351",
+            "value": "Pardonnez ma question, Graziella, mais… Qu'est-ce qui vous met tant en colère ?"
+        },
+        {
+            "key": "352",
+            "value": "Vous voulez le savoir ? Eh bien nous sommes en train de former une armée rebelle, voyez-vous. Nous allons renverser Khory."
+        },
+        {
+            "key": "353",
+            "value": "Vous voulez détrôner le roi de Wezett ?!"
+        },
+        {
+            "key": "354",
+            "value": "Notre royaume est condamné tant que ce tyran est sur le trône."
+        },
+        {
+            "key": "355",
+            "value": "V-Vraiment ?"
+        },
+        {
+            "key": "356",
+            "value": "Ça suffit, Lucio. Ces affaires ne nous regardent pas, et nous n'allons pas nous en mêler."
+        },
+        {
+            "key": "357",
+            "value": "Pour résumer, non, en effet, nous n'avons pas intérêt à ce que l'armée de Wezett gagne en puissance."
+        },
+        {
+            "key": "358",
+            "value": "Vous pouvez donc compter sur l'aide de « Spirare ». L'acceptez-vous ?"
+        },
+        {
+            "key": "359",
+            "value": "Qu'en dites-vous, Maître ?"
+        },
+        {
+            "key": "360",
+            "value": "Bien sûr que nous l'acceptons. C'est ce que nous voulions depuis le début."
+        },
+        {
+            "key": "361",
+            "value": "Bien que votre manque de détermination nous ait fait perdre beaucoup de temps, je respecte vos motivations."
+        },
+        {
+            "key": "362",
+            "value": "Nous acceptons bien volontiers votre aide pour ramener le cristal fondamental à sa place en toute sécurité."
+        },
+        {
+            "key": "363",
+            "value": "Je vous en prie."
+        },
+        {
+            "key": "364",
+            "value": "Je le vois ! Un convoi, là-bas."
+        },
+        {
+            "key": "365",
+            "value": "Le cristal fondamental doit se trouver dans ce chariot."
+        },
+        {
+            "key": "366",
+            "value": "Le laboratoire de recherche ésotérique n'est qu'à quelques centaines de mètres, nous devons agir vite."
+        },
+        {
+            "key": "367",
+            "value": "… Ou bien attendre une meilleure occasion ? Leur défense a l'air solide."
+        },
+        {
+            "key": "368",
+            "value": "À mon avis, on devrait attaquer maintenant."
+        },
+        {
+            "key": "369",
+            "value": "Oh ?"
+        },
+        {
+            "key": "370",
+            "value": "Nous devons récupérer le cristal fondamental avant qu'il arrive au laboratoire, non ?"
+        },
+        {
+            "key": "371",
+            "value": "Je dois faire quelque chose.<br>Je ne peux pas rester planté là trop longtemps."
+        },
+        {
+            "key": "372",
+            "value": "Sans compter qu'il risque d'y avoir encore plus de soldats à l'arrivée."
+        },
+        {
+            "key": "373",
+            "value": "Nous devrions frapper avant d'être trop dépassés."
+        },
+        {
+            "key": "374",
+            "value": "Une proposition complètement irrationnelle."
+        },
+        {
+            "key": "375",
+            "value": "…"
+        },
+        {
+            "key": "376",
+            "value": "Mais dans les circonstances actuelles, l'issue a une chance de se révéler favorable."
+        },
+        {
+            "key": "377",
+            "value": "Ah ?"
+        },
+        {
+            "key": "378",
+            "value": "Tu as raison, Lucio. Parfois, il faut agir d'abord et réfléchir ensuite."
+        },
+        {
+            "key": "379",
+            "value": "Mais tiens-toi prêt. Ce combat ne va pas être facile."
+        },
+        {
+            "key": "380",
+            "value": "Oui ! Merci, Maître !"
+        },
+        {
+            "key": "381",
+            "value": "Très bien. Nous attaquons donc. Tout le monde à son poste."
+        },
+        {
+            "key": "382",
+            "value": "Il est temps de récupérer ce fameux cristal."
+        },
+        {
+            "key": "383",
+            "value": "Et de donner à l'armée de Wezett un avant-goût de la puissance de « Spirare » !"
+        },
+        {
+            "key": "384",
+            "value": "À toutes les unités, en avant !"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Prince Sterne..."
+        },
+        {
+            "key": "002",
+            "value": "Je sais."
+        },
+        {
+            "key": "003",
+            "value": "Ce fourbe de Muraga... J'avais eu vent de sa barbarie, mais de là à penser qu'il serait capable d'un complot aussi sournois..."
+        },
+        {
+            "key": "004",
+            "value": "Est-ce vraiment surprenant de la part d'un homme qui prend tout ce qu'il veut de force ? Ha ha ha !"
+        },
+        {
+            "key": "005",
+            "value": "Quoi qu'il en soit, nos ennemis n'ont pas l'air d'être aussi nombreux que je le pensais."
+        },
+        {
+            "key": "006",
+            "value": "Allez, Maître. Partons leur donner une bonne leçon. Cela nous rappellera le bon vieux temps."
+        },
+        {
+            "key": "007",
+            "value": "Allons-y."
+        },
+        {
+            "key": "008",
+            "value": "Il est temps d'imprimer la peur de « Fortem » dans le cœur de ceux qui obéissent à Muraga."
+        }
+    ]
+}

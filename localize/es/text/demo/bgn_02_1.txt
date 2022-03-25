@@ -1,0 +1,84 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "En esta ocasión, vamos a tratar dos temas diferentes en vez de uno solo: <color=#0000ff>cómo cambiar la cámara</color> en combate y el <color=#0000ff>tiempo de lanzamiento</color> de la magia y otras habilidades."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Hablemos primero de la cámara. Si tocáis los iconos amarillos que hay <color=#0000ff>en la parte inferior de la pantalla</color>, podréis ver el mapa <color=#0000ff>desde ángulos diferentes</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Usad esta función cuando algún enemigo se encuentre escondido detrás de algún árbol o cualquier obstáculo."
+        },
+        {
+            "key": "004",
+            "value": "Si pulsáis los dos iconos que hay <color=#0000ff>en la esquina inferior izquierda de la pantalla</color>, podréis <color=#0000ff>examinar</color> el mapa entero u obtener una <color=#0000ff>vista de águila</color> del campo de batalla."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "004_2",
+            "value": "También podéis <color=#0000ff>rotar</color> el mapa mientras mantenéis pulsada la pantalla con dos dedos. Esto deberíais probarlo más tarde."
+        },
+        {
+            "key": "//【文章追加】//",
+            "value": ""
+        },
+        {
+            "key": "005",
+            "value": "Bueno, va siendo hora de hablar del tiempo de lanzamiento. La magia y ciertas habilidades están supeditadas a un <color=#0000ff>tiempo de lanzamiento</color>."
+        },
+        {
+            "key": "006",
+            "value": "Es decir, tras ejecutar la orden, estas acciones no se producirán de inmediato, sino que se realizarán <color=#0000ff>tras un periodo determinado de tiempo</color>."
+        },
+        {
+            "key": "007",
+            "value": "Para saber cuándo se activará la acción seleccionada, podéis examinar la <color=#0000ff>barra de acción</color> en la parte izquierda de la pantalla."
+        },
+        {
+            "key": "008",
+            "value": "Por otra parte, en lo que respecta a estas habilidades, tendréis que elegir a una <color=#0000ff>unidad</color> o una <color=#0000ff>casilla</color> tras seleccionar la acción."
+        },
+        {
+            "key": "009",
+            "value": "Si elegís la opción de la <color=#0000ff>unidad</color>, el <color=#0000ff>enemigo</color> seleccionado será atacado, mientras que, si elegís la <color=#0000ff>casilla</color>, el ataque se realizará sobre la <color=#0000ff>zona</color> seleccionada."
+        },
+        {
+            "key": "010",
+            "value": "En general, lo más recomendable es elegir la opción de la <color=#0000ff>unidad</color>, pues el enemigo recibirá el golpe, aunque se haya movido durante el tiempo de lanzamiento."
+        },
+        {
+            "key": "011",
+            "value": "La opción de la <color=#0000ff>casilla</color> es más efectiva cuando creáis que podéis predecir la ruta de los enemigos o la zona donde estos podrían congregarse."
+        },
+        {
+            "key": "012",
+            "value": "En esta ocasión, todas las unidades son <color=#0000ff>magos</color>. Primero, usemos la <color=#0000ff>cámara</color> que más nos convenga y, luego, aplastémoslos con <color=#0000ff>magia</color>."
+        },
+        {
+            "key": "013",
+            "value": "Os recomiendo que fijéis el objetivo mediante la opción de la <color=#0000ff>unidad</color>. De esta manera, si el enemigo se mueve, el ataque seguirá golpeándolo."
+        },
+        {
+            "key": "014",
+            "value": "¡Espléndido! ¡Habéis acabado con todos!"
+        },
+        {
+            "key": "015",
+            "value": "Aunque el tiempo de lanzamiento sea difícil de gestionar, la magia y las habilidades que requieren de este tiempo de espera son bastante <color=#0000ff>potentes</color>. Si conseguís dominar esta función, os convertiréis en toda una amenaza a tener en cuenta en el campo de batalla."
+        }
+    ]
+}

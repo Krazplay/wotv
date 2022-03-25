@@ -1,0 +1,212 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Zeit für unsere Trainingseinheit. Diesmal lande ich meinen ersten sauberen Treffer, das schwöre ich."
+        },
+        {
+            "key": "002",
+            "value": "Da bist du ja, Lucio."
+        },
+        {
+            "key": "003",
+            "value": "Oh, hallo ... Ranan, oder?"
+        },
+        {
+            "key": "004",
+            "value": "Genau. Setia hat mir viel von dir erzählt."
+        },
+        {
+            "key": "005",
+            "value": "Sie meint, Jume hätte dich so richtig in die Mangel genommen."
+        },
+        {
+            "key": "006",
+            "value": "Das hat sie. Aber das tut sie schließlich nur, um mich zu einem wahren Kristallkrieger zu machen!"
+        },
+        {
+            "key": "007",
+            "value": "Deine Einstellung gefällt mir. Hast du vielleicht etwas Zeit?"
+        },
+        {
+            "key": "008",
+            "value": "Es tut mir leid, aber mein Training mit Jume steht an."
+        },
+        {
+            "key": "009",
+            "value": "Das sollte kein Problem darstellen."
+        },
+        {
+            "key": "010",
+            "value": "A-Aber ich habe ihr mein Wort gegeben ..."
+        },
+        {
+            "key": "011",
+            "value": "Wir kennen jetzt endlich den Standort des dritten Kernkristalls."
+        },
+        {
+            "key": "012",
+            "value": "Du musst mich nach Ardra begleiten, um ihn zu finden und hierher zurückzubringen."
+        },
+        {
+            "key": "013",
+            "value": "Aber vorher muss ich noch etwas erklären."
+        },
+        {
+            "key": "014",
+            "value": "Du weißt ja, dass der Zeitfluss hier anders ist als in den restlichen Welten."
+        },
+        {
+            "key": "015",
+            "value": "Ja. Darum können wir in jede Zeit und an jeden Ort gehen."
+        },
+        {
+            "key": "016",
+            "value": "Exakt. Und wir reisen nun an einen Punkt in der Zeit ein wenig bevor du das letzte Mal mit Setia unterwegs warst."
+        },
+        {
+            "key": "017",
+            "value": "Es ist also Ardra, aber etwas in der Vergangenheit."
+        },
+        {
+            "key": "018",
+            "value": "Ja. Du musst daher vorsichtig sein, was du den Einwohnern dort sagst."
+        },
+        {
+            "key": "019",
+            "value": "Wenn du zu viel über zukünftige Ereignisse preisgibst, könnte das unerwartete und ungewollte Konsequenzen haben."
+        },
+        {
+            "key": "020",
+            "value": "Ach, ich habe sowieso keine Ahnung von Geschichte, ich könnte also ohnehin niemand etwas sagen."
+        },
+        {
+            "key": "021",
+            "value": "Diese Ignoranz sorgt also für Sicherheit."
+        },
+        {
+            "key": "022",
+            "value": "Aber okay, das passt uns gut. Na los, wir werden sofort nach Ardra aufbrechen."
+        },
+        {
+            "key": "023",
+            "value": "Aber ich habe doch das Training mit Jume."
+        },
+        {
+            "key": "024",
+            "value": "Der Wille des Lichts ist wichtiger als alles andere. Das sollte dir als Kristallkrieger bewusst sein."
+        },
+        {
+            "key": "025",
+            "value": "Da hast du wohl recht ... Das Finden der Kernkristalle hat auch oberste Priorität."
+        },
+        {
+            "key": "026",
+            "value": "Schön, dass du das auch so siehst. Unser Zielort ist das Königreich Wezette."
+        },
+        {
+            "key": "027",
+            "value": "Dürfte ich eine Frage stellen? Weiß Jume, dass du mich mitnimmst?"
+        },
+        {
+            "key": "028",
+            "value": "Es geht um jede Sekunde ... Also habe ich ihr nichts gesagt."
+        },
+        {
+            "key": "029",
+            "value": "T-Tut mir leid! Ich sollte ihr wirklich Bescheid sagen, bevor wir losziehen."
+        },
+        {
+            "key": "030",
+            "value": "Wir brechen jetzt sofort auf. Du kannst ihr einen vollständigen Bericht mit all den tollen Details geben, wenn wir zurückkehren."
+        },
+        {
+            "key": "031",
+            "value": "Das ist nicht das Problem ..."
+        },
+        {
+            "key": "032",
+            "value": "Komm, mein Schüler!"
+        },
+        {
+            "key": "033",
+            "value": "W-Warteeeee! Wenn ich nicht zum Training erscheine, wird Jume ..."
+        },
+        {
+            "key": "034",
+            "value": "Wo ist dieser Lucio? Weiß der nicht, dass wir heute Training haben?"
+        },
+        {
+            "key": "035",
+            "value": "Suchst du nach Lucio? Ranan hat ihn mitgenommen. Offenbar haben sie den dritten Kernkristall entdeckt."
+        },
+        {
+            "key": "036",
+            "value": "Ranan? Der Arme. Er hat keine Ahnung, worauf er sich da eingelassen hat."
+        },
+        {
+            "key": "037",
+            "value": "Hahaha, stimmt! Wir können hart sein, aber gegen diesen Tyrann sind wir brave Lämmer!"
+        },
+        {
+            "key": "038",
+            "value": "Endlich! Endlich ist es soweit! Heute werde ich die Gunst von König Khuri erlangen!"
+        },
+        {
+            "key": "039",
+            "value": "Wie lange habe ich auf diesen Moment hin gearbeitet!"
+        },
+        {
+            "key": "040",
+            "value": "Ich peitschte die Leibeigenen zu noch größeren Leistungen und wrang das Land aus, bis auf den letzten Tropfen Blut!"
+        },
+        {
+            "key": "041",
+            "value": "Aber jetzt werde ich endlich für all das belohnt!"
+        },
+        {
+            "key": "042",
+            "value": "Ich habe vom Erfolg meiner Kollegen gelernt und eine großzüge Spende für Ihre Hoheit vorbereitet."
+        },
+        {
+            "key": "043",
+            "value": "Der König wird außer sich sein vor Freude, wenn ich über das Erz berichte, das man hier abbauen kann."
+        },
+        {
+            "key": "044",
+            "value": "Und dann kann ich im Lichte seiner Gunst baden! HAHAHAHA!"
+        },
+        {
+            "key": "045",
+            "value": "Der führt hier laute Eigengespräche und alle können ihn hören. Weiß dieser Narr nicht, dass er damit nur seinem Ruf schadet?"
+        },
+        {
+            "key": "046",
+            "value": "Dem Adel seiner Welt ist es sicher egal, was die Leute denken."
+        },
+        {
+            "key": "047",
+            "value": "Der König und die Armee des Landes stehen hinter ihnen. So müssen sie keine Rebellion befürchten, egal wie mies sie die Bürger behandeln."
+        },
+        {
+            "key": "048",
+            "value": "Die Armen können nichts dagegen tun und es gibt keinen Ort, an den sie flüchten könnten."
+        },
+        {
+            "key": "049",
+            "value": "Im Westen ist Hourne, feindlich gesinnt. Zu gefährlich, dorthin zu fliehen. Mit Leonis sind wir verbündet, aber es ist instabil und steht kurz vor einem Krieg mit Fennes."
+        },
+        {
+            "key": "050",
+            "value": "In Wezette ist es vorerst am sichersten, so sehr der Terror und die Armut die Leute auch leiden lässt."
+        },
+        {
+            "key": "051",
+            "value": "Doch es darf nicht so weitergehen. Wir ... Wir müssen die Dinge verbessern, Cadia!"
+        },
+        {
+            "key": "052",
+            "value": "Du hast recht! Das werden wir."
+        }
+    ]
+}

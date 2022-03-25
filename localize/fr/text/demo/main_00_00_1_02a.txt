@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Argh ! Qui aurait pu croire que nous tomberions sur des monstres ici-même ?"
+        },
+        {
+            "key": "002",
+            "value": "Protégez son Altesse Machalie !"
+        },
+        {
+            "key": "003",
+            "value": "C'est quoi ce vacarme ?"
+        },
+        {
+            "key": "004",
+            "value": "Des monstres sont apparus. Mais ne vous en faites pas, nous devrions être en mesure de les éliminer."
+        },
+        {
+            "key": "005",
+            "value": "Exactement ce dont j'avais besoin. Je me cherchais justement une excuse pour pouvoir aller prendre l'air."
+        },
+        {
+            "key": "006",
+            "value": "Laissez-moi faire, je m'en charge."
+        }
+    ]
+}

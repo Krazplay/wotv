@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Aaah… Ya no veo a nuestro contingente principal…"
+        },
+        {
+            "key": "002",
+            "value": "Me pregunto cuándo podremos marcharnos…"
+        },
+        {
+            "key": "003",
+            "value": "Si no nos damos prisa, las tropas enemigas van a alcanzarnos."
+        },
+        {
+            "key": "004",
+            "value": "Cabeza de alcornoque, ¡nuestra misión es contener al enemigo!"
+        },
+        {
+            "key": "005",
+            "value": "¿Eh? ¿En serio?… Claro, es cierto…"
+        },
+        {
+            "key": "006",
+            "value": "Y, además de contenerlos…"
+        },
+        {
+            "key": "007",
+            "value": "Cuando el contingente principal esté lejos, será el momento de retirarnos y empezar desde cero."
+        },
+        {
+            "key": "008",
+            "value": "¿Cómo? Todo el camino de vuelta al castillo vamos a tener que…"
+        },
+        {
+            "key": "009",
+            "value": "Así es. Nadie va a venir a salvarnos, por mucho que se nos complique la cosa."
+        },
+        {
+            "key": "010",
+            "value": "Si el miedo puede contigo, lo mejor es que eches ya a correr."
+        },
+        {
+            "key": "011",
+            "value": "¿Echar a correr? ¿Para qué? ¿Para unirme al contingente principal?"
+        },
+        {
+            "key": "012",
+            "value": "Sí. Nadie os juzgaría."
+        },
+        {
+            "key": "013",
+            "value": "Unirse al contingente principal es la mejor garantía de regresar sano y salvo al castillo."
+        },
+        {
+            "key": "014",
+            "value": "¿Qué sucede?"
+        },
+        {
+            "key": "015",
+            "value": "Vaya… Parece que nadie acepta la propuesta."
+        },
+        {
+            "key": "016",
+            "value": "¡A-ahí vienen!"
+        },
+        {
+            "key": "017",
+            "value": "¡Pues a luchar se ha dicho!"
+        },
+        {
+            "key": "018",
+            "value": "Estrellas, brindadnos vuestra protección divina…"
+        },
+        {
+            "key": "019",
+            "value": "Somos Caelum. ¡La victoria es nuestra!"
+        }
+    ]
+}

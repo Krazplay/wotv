@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡...!"
+        },
+        {
+            "key": "002",
+            "value": "¿Hermano...?"
+        },
+        {
+            "key": "003",
+            "value": "No hagas ruido... Alguien se acerca."
+        },
+        {
+            "key": "004",
+            "value": "Yo no escucho nada..."
+        },
+        {
+            "key": "005",
+            "value": "Si quien sea no tuviese malas intenciones, no tendría cuidado con sus pisadas."
+        },
+        {
+            "key": "006",
+            "value": "Puede tratarse de alguien de Fennes, de Galzak, o quizás..."
+        },
+        {
+            "key": "007",
+            "value": "En cualquier caso, sin piedad. ¿Lo entiendes?"
+        },
+        {
+            "key": "008",
+            "value": "Entendido..."
+        }
+    ]
+}

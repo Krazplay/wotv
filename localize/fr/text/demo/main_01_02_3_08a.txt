@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Schuzelt... Est-ce que je peux vous poser une question ?"
+        },
+        {
+            "key": "002",
+            "value": "Qu'y a-t-il ?"
+        },
+        {
+            "key": "003",
+            "value": "Pourquoi Hourne s'est-il allié à Fennes ?"
+        },
+        {
+            "key": "004",
+            "value": "C'est une question pertinente. La réponse m'intéresse aussi."
+        },
+        {
+            "key": "005",
+            "value": "La puissance militaire de Fennes est bien sûr impressionnante, mais une telle alliance apporte aussi son lot conséquent de problèmes."
+        },
+        {
+            "key": "006",
+            "value": "Nous l'avons fait à cause de Rundall, le pays qui se situe à l'ouest."
+        },
+        {
+            "key": "007",
+            "value": "Rundall ?"
+        },
+        {
+            "key": "008",
+            "value": "Les « cerfs mange-dragons » ? Tu parles bien de cette maison ?"
+        },
+        {
+            "key": "009",
+            "value": "Oui. Rundall commençait à montrer des signes d'hostilité à notre frontière. Une guerre semblait imminente et inévitable."
+        },
+        {
+            "key": "010",
+            "value": "Je vois. C'était donc une décision difficile à prendre mais nécessaire pour arrêter Rundall."
+        },
+        {
+            "key": "011",
+            "value": "C'est à ce moment-là que Sadali est apparu pour jouer le médiateur."
+        },
+        {
+            "key": "012",
+            "value": "Sadali ? Vous parlez du fondateur de l'Église du Cristal ?"
+        },
+        {
+            "key": "013",
+            "value": "C'était donc ça son plan."
+        },
+        {
+            "key": "014",
+            "value": "Et pour ce faire, le roi Rob a accepté de marier sa fille bien-aimée à ce sauvage de Muraga."
+        },
+        {
+            "key": "015",
+            "value": "Muraga avait la réputation de n'être qu'un féroce barbare ne jurant que par la guerre. Il semble avoir changé."
+        },
+        {
+            "key": "016",
+            "value": "L'homme que j'ai rencontré parlait couramment notre langue."
+        },
+        {
+            "key": "017",
+            "value": "Au point que j'ai eu l'impression... qu'il s'agissait de quelqu'un d'autre."
+        },
+        {
+            "key": "018",
+            "value": "Je vois ce que vous voulez dire. C'est aussi l'impression que j'ai eue."
+        },
+        {
+            "key": "019",
+            "value": "Sans compter que son aptitude à l'épée s'est grandement améliorée depuis notre dernier combat."
+        },
+        {
+            "key": "020",
+            "value": "Cela me coûte de l'admettre, mais même avec Schuzelt à mes côtés, nous n'avons pas réussi à l'éliminer."
+        },
+        {
+            "key": "021",
+            "value": "Peut-être que ce sauvage a trouvé un moyen de gagner en puissance..."
+        },
+        {
+            "key": "022",
+            "value": "De gagner en puissance... ?! Comment serait-ce possible ? Seule une relique séculaire le permettrait."
+        }
+    ]
+}

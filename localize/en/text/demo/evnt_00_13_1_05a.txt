@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "So this ship belongs to the Guild..."
+        },
+        {
+            "key": "002",
+            "value": "Ah, a handsome vessel indeed. They must be turning big profits."
+        },
+        {
+            "key": "003",
+            "value": "Who dares!?"
+        },
+        {
+            "key": "004",
+            "value": "......!"
+        }
+    ]
+}

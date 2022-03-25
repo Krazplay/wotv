@@ -1,0 +1,208 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "*Keuch, keuch, keuch* ..."
+        },
+        {
+            "key": "002",
+            "value": "Sie sind mir immer noch auf den Fersen ..."
+        },
+        {
+            "key": "003",
+            "value": "Und mehr sind es auch noch geworden!"
+        },
+        {
+            "key": "004",
+            "value": "Uwah, was soll ich nur tun, was soll ich nur tun?"
+        },
+        {
+            "key": "005",
+            "value": "... Hm?!"
+        },
+        {
+            "key": "006",
+            "value": "*Schnupper, schnupper* ... Dieser Duft ... Wirklich sehr angenehm."
+        },
+        {
+            "key": "007",
+            "value": "Ah!"
+        },
+        {
+            "key": "008",
+            "value": "H-Hey, du da drüben!"
+        },
+        {
+            "key": "009",
+            "value": "*Schnupper, schnupper* ..."
+        },
+        {
+            "key": "010",
+            "value": "W-Was soll das?"
+        },
+        {
+            "key": "011",
+            "value": "Ahhh, das duftet so gut. Ist das Parfüm?"
+        },
+        {
+            "key": "012",
+            "value": "Gut erkannt. Auch auf Reisen darf frau die Körperpflege nicht vernachlässigen."
+        },
+        {
+            "key": "013",
+            "value": "Moment mal. Bist du etwa nur hierübergekommen, um mich das zu fragen?"
+        },
+        {
+            "key": "014",
+            "value": "Nein, nein, nein!"
+        },
+        {
+            "key": "015",
+            "value": "Sieh dort!"
+        },
+        {
+            "key": "016",
+            "value": "Meine Güte, das sind ganz schön viele ..."
+        },
+        {
+            "key": "017",
+            "value": "Jetzt verstehe ich. Du brauchst Hilfe."
+        },
+        {
+            "key": "018",
+            "value": "... Ja."
+        },
+        {
+            "key": "019",
+            "value": "Keine Sorge."
+        },
+        {
+            "key": "020",
+            "value": "So ein paar Bomber erledige ich im Handumdrehen."
+        },
+        {
+            "key": "021",
+            "value": "Wow, was für ein Selbstvertrauen!"
+        },
+        {
+            "key": "022",
+            "value": "Ähm ... Ich heiße Etre."
+        },
+        {
+            "key": "023",
+            "value": "Yerma."
+        },
+        {
+            "key": "024",
+            "value": "Yerma ... Ich wünschte, ich hätte dein Selbstbewusstsein."
+        },
+        {
+            "key": "025",
+            "value": "Ich will auch so stark werden ..."
+        },
+        {
+            "key": "026",
+            "value": "Ja? Lass dir aber gesagt sein, dass es auch so was wie „zu stark“ gibt."
+        },
+        {
+            "key": "027",
+            "value": "W-Wirklich?"
+        },
+        {
+            "key": "028",
+            "value": "Nimm mich, zum Beispiel – ich bin auf der Suche nach einem Mann, der stärker ist als ich."
+        },
+        {
+            "key": "029",
+            "value": "Um zu versuchen, ihn zu besiegen?"
+        },
+        {
+            "key": "030",
+            "value": "Haha, nicht ganz."
+        },
+        {
+            "key": "031",
+            "value": "Ich könnte mich nur in einen Mann verlieben, der imstande ist, mich im Kampf zu bezwingen."
+        },
+        {
+            "key": "032",
+            "value": "Ahhh, ich verstehe, was du meinst."
+        },
+        {
+            "key": "033",
+            "value": "Doch leider ... bin ich bisher noch keinem Kerl begegnet, der mir das Wasser reichen kann."
+        },
+        {
+            "key": "034",
+            "value": "Aber was ist mit dir, Etre? Warum willst du stärker werden?"
+        },
+        {
+            "key": "035",
+            "value": "Damit ich mich in den Dienst des Königreichs Leonis stellen kann."
+        },
+        {
+            "key": "036",
+            "value": "Das Königreich Leonis ...?"
+        },
+        {
+            "key": "037",
+            "value": "Ja. Dort gibt es eine Division namens „Fortem“. Ihr Kommandant – Prinz Styr – ist unglaublich stark und dazu auch noch ein echter Hingucker."
+        },
+        {
+            "key": "038",
+            "value": "Ein Hingucker, hm?"
+        },
+        {
+            "key": "039",
+            "value": "Es geht dir also darum, näher an den Prinzen heranzukommen, stimmt’s?"
+        },
+        {
+            "key": "040",
+            "value": "... Ja."
+        },
+        {
+            "key": "041",
+            "value": "Stark und gutaussehend! Den würde ich auch gerne kennenlernen ..."
+        },
+        {
+            "key": "042",
+            "value": "Oh, ähm, Verzeihung. Ich habe nicht vor, dir bei deinen romantischen Ambitionen in die Quere zu kommen."
+        },
+        {
+            "key": "043",
+            "value": "Nein, das ist schon in Ordnung. Um ehrlich zu sein ... sollten wir gemeinsam nach Leonis ziehen."
+        },
+        {
+            "key": "044",
+            "value": "A-Aber ..."
+        },
+        {
+            "key": "045",
+            "value": "Eine Rivalin zu haben, wird mich motivieren, noch härter an mir zu arbeiten. Darum ..."
+        },
+        {
+            "key": "046",
+            "value": "... Bist du dir sicher?"
+        },
+        {
+            "key": "047",
+            "value": "Ja! Im Gegenzug kannst du mir unterwegs mit meinem Training helfen!"
+        },
+        {
+            "key": "048",
+            "value": "Einverstanden. Diese Bitte kann ich dir leicht erfüllen."
+        },
+        {
+            "key": "049",
+            "value": "Aber zuerst ..."
+        },
+        {
+            "key": "050",
+            "value": "Müssen wir uns um diese Bomber kümmern!"
+        },
+        {
+            "key": "051",
+            "value": "... Ja. Und ich werde mein Bestes geben!"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Sieht aus, als wären das die Letzten gewesen."
+        },
+        {
+            "key": "002",
+            "value": "Leider nicht. Da sind noch mehr von denen."
+        },
+        {
+            "key": "003",
+            "value": "Was ...?!"
+        },
+        {
+            "key": "004",
+            "value": "Es sieht so aus, als hätten sie uns umstellt."
+        },
+        {
+            "key": "005",
+            "value": "Es war also doch eine Falle."
+        },
+        {
+            "key": "006",
+            "value": "Mist ..."
+        },
+        {
+            "key": "007",
+            "value": "Das ist Fennes’ Hauptstreitkraft."
+        },
+        {
+            "key": "008",
+            "value": "Hahaha! Haben wir euch also endlich erwischt!"
+        },
+        {
+            "key": "009",
+            "value": "Muraga! Du wirst von mir keine Gnade erfahren!"
+        },
+        {
+            "key": "010",
+            "value": "Schuzelt, nein!"
+        },
+        {
+            "key": "011",
+            "value": "Verdammt. Alle Kräfte – zum Angriff!"
+        },
+        {
+            "key": "012",
+            "value": "Unterstützt Schuzelt!"
+        }
+    ]
+}

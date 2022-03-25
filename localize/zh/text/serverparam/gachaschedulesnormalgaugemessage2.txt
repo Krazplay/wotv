@@ -1,0 +1,352 @@
+﻿{
+    "infos": [
+        {
+            "key": "Campaign_gacha_gl20200909_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20200916_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20201021_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20201104_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20201111_10",
+            "value": "下次的10連召喚確保1張UR幻兵卡！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20201125_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20201209_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20210120_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20210127_10",
+            "value": "下次的10連召喚確保1張UR幻兵卡！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20210203_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20210303_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20210519_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20210526_10",
+            "value": "下次的10連召喚確保1張UR幻兵卡！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20210616_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20210623_10",
+            "value": "下次的10連召喚確保1張UR幻兵卡！！"
+        },
+        {
+            "key": "new-gacha_QILF_01_gl20210804_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_gl20210804_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_ELSR_01_gl20210818_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_gl20210818_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_CLOUD_gl20210825_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_TIFA_gl20210825_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_AERT_gl20210901_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_BART_gl20210901_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_gl20210908_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_LSWL_gl20210915_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_TOMBR_gl20210922_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_WINTER1_gl20210922_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_WINTER2_gl20210922_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_unit_gl20210929_10",
+            "value": "下次的10連召喚確保1名UR『星煌艾琳娜』！！"
+        },
+        {
+            "key": "new-gacha_JEDN_gl20211013_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_gl20211020_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_HALLOW2_gl20211027_10",
+            "value": "下次的10連召喚確保1名UR『弗蕾德麗卡（萬聖節）』！！"
+        },
+        {
+            "key": "new-gacha_gl20211103_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_gl20211117_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_NCTS_gl20211124_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_PRMP_gl20211124_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_gl20211201_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_unit_gl20211215_10",
+            "value": "下次的10連召喚確保1名UR『璐亞瑟（冬日）』！！"
+        },
+        {
+            "key": "new-gacha_unit_gl20211222_10",
+            "value": "下次的10連召喚確保1名UR『茨木童女』！！"
+        },
+        {
+            "key": "new-gacha_gl20220105_10",
+            "value": "下次的10連召喚確保1名UR『傑姆』！！"
+        },
+        {
+            "key": "new-gacha_gl20220119_01",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_gl20220119_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "new-gacha_gl20220119_P",
+            "value": ""
+        },
+        {
+            "key": "gacha_CECL_gl20220119_01",
+            "value": ""
+        },
+        {
+            "key": "gacha_CECL_gl20220119_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_CECL_gl20220119_P",
+            "value": ""
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_01",
+            "value": ""
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_KAIN_gl20220119_P",
+            "value": ""
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_01",
+            "value": ""
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_ROSA_gl20220119_P",
+            "value": ""
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_a_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_b_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_c_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_d_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_e_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_f_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "daily-gacha_100costUR_gl20220126_g_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "new-gacha_gl20220202_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "new-gacha_gl20220209_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_a_10",
+            "value": "下次的10連召喚確保1名指定UR兵員！！"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_b_10",
+            "value": "下次的10連召喚確保1名指定UR兵員！！"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_c_10",
+            "value": "下次的10連召喚確保1名指定UR兵員！！"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220216_d_10",
+            "value": "下次的10連召喚確保1名指定UR兵員！！"
+        },
+        {
+            "key": "gacha_KTON_01_gl20220223_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_LILS_01_gl20220223_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_QILF_01_gl20220223_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_ELSR_01_gl20220223_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_FDRC_01_gl20220302_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_RYER_01_gl20220302_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_RIRY_01_gl20220302_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "new-gacha_gl20220309_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_a_10",
+            "value": "下次的10連召喚確保1名指定UR兵員！！"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220309_b_10",
+            "value": "下次的10連召喚確保1名指定UR兵員！！"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_a_10",
+            "value": "下次的10連召喚確保1名指定UR兵員！！"
+        },
+        {
+            "key": "gacha_ELEMENTAL_gl20220316_b_10",
+            "value": "下次的10連召喚確保1名指定UR兵員！！"
+        },
+        {
+            "key": "new-gacha_TERA_gl20220323_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "new-gacha_CLES_gl20220323_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_a_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_b_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_c_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_d_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "daily-gacha_unit_gl20220323_e_10",
+            "value": "下次的10連召喚確保1名UR精選兵員！！"
+        },
+        {
+            "key": "gacha_FF_unit_gl20220323_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "gacha_FF_vc_gl20220323_10",
+            "value": "下次的10連召喚確保1張UR幻兵卡！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20201118_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        }
+    ]
+}

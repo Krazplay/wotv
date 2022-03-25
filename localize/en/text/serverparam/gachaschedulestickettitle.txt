@@ -1,0 +1,1224 @@
+﻿{
+    "infos": [
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "SR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": "MR+ Guaranteed Unit Summon Ticket B"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": "MR+ Guaranteed Unit Summon Ticket C"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": "MR+ Guaranteed Unit Summon Ticket D"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "FFXIV Summon Ticket"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200506",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FFT Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200520",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200520",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200603",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_20200603",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200603",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_20200603",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_20200603",
+            "value": "MR+ Guaranteed 10x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_20200603",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_20200603",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_20200603",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200610",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200617",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200701",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200701",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200701",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200701",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200701",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200701",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200701",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200701",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_N_TW_10_gl20200701",
+            "value": "[Porcelain Tower] Normal 10x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200715",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200722",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200805",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200805",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200805",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200805",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200805",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200805",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200805",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200805",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_02_gl20200805",
+            "value": "UR Guaranteed Unit Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200812",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200819",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200902",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200902",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200902",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200902",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200902",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200902",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200902",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200909",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_03_gl20200909",
+            "value": "UR Guaranteed Unit Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200916",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200923",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200930",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201007",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201007",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201007",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201007",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201007",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201007",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201007",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201007",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201014",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201028",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201104",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201104",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201104",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201104",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201104",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201104",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201104",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201104",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201111",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201202",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201202",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201202",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201202",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201202",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201202",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201202",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201216",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201223",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201230",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210106",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210106",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210106",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210106",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210106",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210106",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210106",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210106",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_FF14_01_R_20200701",
+            "value": "FFXIV Reissue Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210113",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210120",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_BEGINNER_01_gl20210120",
+            "value": "New Players' First 7 Days Only — UR Unit Guaranteed FREE 10x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210127",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210203",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210203",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210203",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210203",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210203",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210203",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210203",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210203",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_CNY21_01_gl20210210",
+            "value": "Fortune Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210210",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_01_gl20210303",
+            "value": "[Day 1] First Anniversary Celebration Countdown Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_02_gl20210303",
+            "value": "[Day 2] First Anniversary Celebration Countdown Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_03_gl20210303",
+            "value": "[Day 3] First Anniversary Celebration Countdown Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_04_gl20210303",
+            "value": "[Day 4] First Anniversary Celebration Countdown Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_05_gl20210303",
+            "value": "[Day 5] First Anniversary Celebration Countdown Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_06_gl20210303",
+            "value": "[Day 6] First Anniversary Celebration Countdown Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_PR_1stANV_07_gl20210303",
+            "value": "[Day 7] First Anniversary Celebration Countdown Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210303",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210303",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210303",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210303",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210303",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210303",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210303",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210303",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_AF_N_10_gl20210303",
+            "value": "Equipment-Enhancing Material Normal 10x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210317",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210324",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210324",
+            "value": "First Anniversary Celebration Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210324",
+            "value": "First Anniversary Celebration 2x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210324",
+            "value": "First Anniversary Celebration 3x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210324",
+            "value": "First Anniversary Celebration 5x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210324",
+            "value": "First Anniversary Celebration 7x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210324",
+            "value": "First Anniversary Celebration 8x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210324",
+            "value": "First Anniversary Celebration 10x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_10_UR_01_gl20210324",
+            "value": "[Beginners Only] UR Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210331",
+            "value": "First Anniversary Celebration Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210331",
+            "value": "First Anniversary Celebration 2x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210331",
+            "value": "First Anniversary Celebration 3x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210331",
+            "value": "First Anniversary Celebration 5x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210331",
+            "value": "First Anniversary Celebration 7x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210331",
+            "value": "First Anniversary Celebration 8x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210331",
+            "value": "First Anniversary Celebration 10x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210407",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210407",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210407",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210407",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210407",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210407",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210407",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210407",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210407",
+            "value": "First Anniversary Celebration Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210407",
+            "value": "First Anniversary Celebration 2x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210407",
+            "value": "First Anniversary Celebration 3x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210407",
+            "value": "First Anniversary Celebration 5x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210407",
+            "value": "First Anniversary Celebration 7x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210407",
+            "value": "First Anniversary Celebration 8x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210407",
+            "value": "First Anniversary Celebration 10x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_01_gl20210414",
+            "value": "First Anniversary Celebration Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_02_gl20210414",
+            "value": "First Anniversary Celebration 2x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_03_gl20210414",
+            "value": "First Anniversary Celebration 3x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_04_gl20210414",
+            "value": "First Anniversary Celebration 5x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_05_gl20210414",
+            "value": "First Anniversary Celebration 7x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_06_gl20210414",
+            "value": "First Anniversary Celebration 8x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_1stANV_07_gl20210414",
+            "value": "First Anniversary Celebration 10x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210414",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_PI_UR_U_02_GL202104121",
+            "value": "[Spring 2021 Part I] Recommended UR Unit Shard x200 Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210505",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210505",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210505",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210505",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210505",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210505",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210505",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210505",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210512",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210519",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210526",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210602",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210602",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210602",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210602",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210602",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210602",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210602",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210602",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210609",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210616",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210623",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210630",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210707",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210707",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210707",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210707",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210707",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210707",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210707",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210707",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210714",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210721",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210728",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210804",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210804",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210804",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210804",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210804",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210804",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210804",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210804",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210811",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210818",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210825",
+            "value": "UR Unit Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_AF_FTW_gl20210825",
+            "value": "Hermes Sandals +3 Crafting Materials Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_AF_ARM_gl20210825",
+            "value": "Platinum Armor +3 Crafting Materials Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_AF_ROD_gl20210825",
+            "value": "Sage's Staff +3 Crafting Materials Summon Ticket"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210825",
+            "value": "UR Vision Card Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_99UR_01_20210825",
+            "value": "Lv. 99 UR Unit Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20210901",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20210901",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20210901",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20210901",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20210901",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20210901",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20210901",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20210901",
+            "value": "UR Unit Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20210901",
+            "value": "UR Vision Card Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210908",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_04_gl20210908",
+            "value": "[Fan Meeting] UR Unit Guaranteed Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_V_UR_02_gl20210908",
+            "value": "[Fan Meeting] UR Vision Card Guaranteed Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210915",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_99UR_GL_02_20210929",
+            "value": "Lv. 99 UR Unit Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20210929",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211006",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211006",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211006",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211006",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211006",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211006",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211006",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211006",
+            "value": "UR Unit Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211006",
+            "value": "UR Vision Card Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211006",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211013",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211020",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211027",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211103",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211103",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211103",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211103",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211103",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211103",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211103",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211103",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211103",
+            "value": "UR Unit Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211103",
+            "value": "UR Vision Card Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211117",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_AF_SUP_01_20210714",
+            "value": "[Guild Raid] Equipment Seal x1 Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_AF_AW_01_20210714",
+            "value": "[Guild Raid] Secret Book of Refinement x5 Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_JB_01_20210714",
+            "value": "[Guild Raid] Weapon Gem (Job Lv. 2-9) x2 Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_JB_02_20210714",
+            "value": "[Guild Raid] Weapon Gem (Job Lv. 10-15) x2 Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_JB_EM_01_20210714",
+            "value": "[Guild Raid] Alcryst (Green/Blue/Purple) x2 Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_JB_EM_02_20210714",
+            "value": "[Guild Raid] Alcryst (Yellow/Red) x2 Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_SB_EXP_01_20210714",
+            "value": "[Guild Raid] Magicite (L) x50 Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211124",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20211201",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20211201",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20211201",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20211201",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20211201",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20211201",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20211201",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20211201",
+            "value": "UR Unit Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20211201",
+            "value": "UR Vision Card Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20211201",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220112",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220126",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_CNY22_01_gl20220202",
+            "value": "Fortune Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220202",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220202",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220202",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220202",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220202",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220202",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220202",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220202",
+            "value": "UR Unit Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220202",
+            "value": "UR Vision Card Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220209",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220302",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20220302",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20220302",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20220302",
+            "value": "MR+ Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20220302",
+            "value": "MR+ Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20220302",
+            "value": "MR+ Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20220302",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20220302",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_U_UR_01_gl20220302",
+            "value": "UR Unit Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_10_V_UR_01_gl20220302",
+            "value": "UR Vision Card Guaranteed 10x Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_FF14_01_R2_gl20220316",
+            "value": "FFXIV Reissue Summon Ticket B"
+        },
+        {
+            "key": "IT_US_G_2ndANV_01_gl20220316",
+            "value": "Second Anniversary Countdown Item 10x Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_FFVI_01_gl20220323",
+            "value": "FFVI Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_U_SSR_99_01_gl20220323",
+            "value": "[Beginners Only] Recommended Lv. 99 MR Unit Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_U_UR_99_02_gl20220323",
+            "value": "[Beginners Only] Recommended Lv. 99 UR Unit Summon Ticket"
+        }
+    ]
+}

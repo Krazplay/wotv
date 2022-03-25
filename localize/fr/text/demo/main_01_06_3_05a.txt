@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Et... dans le mille !"
+        },
+        {
+            "key": "002",
+            "value": "Un de moins !"
+        },
+        {
+            "key": "003",
+            "value": "Pff... ils ne répliquent même pas, je vais finir par m'ennuyer !"
+        },
+        {
+            "key": "004",
+            "value": "Frederika ! Reste concentrée !"
+        },
+        {
+            "key": "005",
+            "value": "Maaaais !"
+        },
+        {
+            "key": "006",
+            "value": "C'est vrai, je te dis ça, mais..."
+        },
+        {
+            "key": "007",
+            "value": "Ces moines ne valent rien face à la puissance de « Solidus »."
+        },
+        {
+            "key": "008",
+            "value": "Pas vrai ?"
+        },
+        {
+            "key": "009",
+            "value": "En revanche... j'ai entendu dire que Sadali lui-même était redoutable."
+        },
+        {
+            "key": "010",
+            "value": "Pah ! Aucun souci !"
+        },
+        {
+            "key": "011",
+            "value": "Même Sadali ne peut rien contre nous quand on se bat ensemble, mon ange !"
+        },
+        {
+            "key": "012",
+            "value": "Je t'ai dit d'arrêter ça !"
+        }
+    ]
+}

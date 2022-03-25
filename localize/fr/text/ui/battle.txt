@@ -1,0 +1,804 @@
+﻿{
+    "infos": [
+        {
+            "key": "CMD_ACTION",
+            "value": "Action"
+        },
+        {
+            "key": "CMD_WAIT",
+            "value": "Attente"
+        },
+        {
+            "key": "CMD_ATTACK",
+            "value": "Attaque"
+        },
+        {
+            "key": "CMD_ABILITY",
+            "value": "Aptitude"
+        },
+        {
+            "key": "CMD_NBEAST",
+            "value": "Magie d'invocation"
+        },
+        {
+            "key": "CMD_ITEM",
+            "value": "Objets"
+        },
+        {
+            "key": "CMD_OK",
+            "value": "Confirmer"
+        },
+        {
+            "key": "CMD_CANCEL",
+            "value": "Annuler"
+        },
+        {
+            "key": "ORDER",
+            "value": "Ordre des tours"
+        },
+        {
+            "key": "TITLE_CASTSPEED",
+            "value": "Délai activ. sort"
+        },
+        {
+            "key": "TITLE_RANGE",
+            "value": "Portée"
+        },
+        {
+            "key": "TITLE_COUNT_USELIMIT",
+            "value": "Utilisations"
+        },
+        {
+            "key": "COUNT_NOLIMIT",
+            "value": "Illimité"
+        },
+        {
+            "key": "RESULT_NEXT",
+            "value": "Suivant"
+        },
+        {
+            "key": "MENU_AUTO",
+            "value": "Auto"
+        },
+        {
+            "key": "MENU_LAP",
+            "value": "En boucle"
+        },
+        {
+            "key": "MENU_SKIP",
+            "value": "Passer"
+        },
+        {
+            "key": "MENU_SPEED_DEFAULT",
+            "value": "Normal"
+        },
+        {
+            "key": "MENU_SPEED_NOBODY",
+            "value": "x1,5"
+        },
+        {
+            "key": "MENU_SPEED_VIP",
+            "value": "x2"
+        },
+        {
+            "key": "ACTION_LIMIT",
+            "value": "Act. restantes"
+        },
+        {
+            "key": "TIME_LIMIT_RAID",
+            "value": "Durée restante du défi :"
+        },
+        {
+            "key": "TIME_LIMIT_EVENT",
+            "value": "Il vous en reste :"
+        },
+        {
+            "key": "WATCHING_VALUE",
+            "value": "Nombre de spectateurs"
+        },
+        {
+            "key": "BATTLE_COMMAND_MAP",
+            "value": "<cspace=1>CARTE"
+        },
+        {
+            "key": "BATTLE_COMMAND_MAP_MODE",
+            "value": "MODE CARTE"
+        },
+        {
+            "key": "BATTLE_ORDER_ACTIVE",
+            "value": "Tours"
+        },
+        {
+            "key": "BATTLE_ORDER_CHARGE",
+            "value": "<cspace=-0.5>Charge</cspace>"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_MAP_EFFECT",
+            "value": "Effets de carte"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_RESET",
+            "value": "Réinitialiser"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_DONE",
+            "value": "Prêt"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_PARTY",
+            "value": "GROUPE"
+        },
+        {
+            "key": "BATTLE_ARRANGEMENT_DESC",
+            "value": "Vous pouvez repositionner les unités sélectionnées dans la zone jaune."
+        },
+        {
+            "key": "SKILLTARGETLOCK_TITLE",
+            "value": "Cibles de l'aptitude"
+        },
+        {
+            "key": "SKILLTARGETLOCK_UNIT",
+            "value": "<cspace=-1>Unité"
+        },
+        {
+            "key": "SKILLTARGETLOCK_PANEL",
+            "value": "Case"
+        },
+        {
+            "key": "BATTLE_MENU_GET_ITEM_TITLE",
+            "value": "Objets obtenus"
+        },
+        {
+            "key": "BATTLE_MENU_MISSON",
+            "value": "Missions"
+        },
+        {
+            "key": "BATTLE_MENU_OPTION",
+            "value": "Options"
+        },
+        {
+            "key": "BATTLE_MENU_GIVEUP",
+            "value": "Abandon"
+        },
+        {
+            "key": "BATTLE_MENU_WEATHER",
+            "value": "Météo :"
+        },
+        {
+            "key": "BATTLE_MENU_SKIP",
+            "value": "Passer"
+        },
+        {
+            "key": "BATTLE_MENU_SPEEDMODE_TITLE",
+            "value": "Accélérer"
+        },
+        {
+            "key": "BATTLE_MENU_SPEEDMODE_DESC",
+            "value": "<size=22>La fonction accélérée <color=#F0C040>x1.5</color> est disponible à partir du <color=#F0C040>rang royal 1</color>, tandis que la fonction accélérée <color=#F0C040>x2.0</color> est disponible à partir du <color=#F0C040>rang royal 8</color>. <br><br>*L'EXP de rang royal s'obtient en <color=#F0C040>terminant des missions</color> et en achetant des visiores.</size>"
+        },
+        {
+            "key": "BATTLE_GIVEUP_TITLE",
+            "value": "Abandon"
+        },
+        {
+            "key": "BATTLE_GIVEUP_DESC",
+            "value": "Êtes-vous sûr de vouloir battre en retraite ?"
+        },
+        {
+            "key": "BATTLE_SKIP_TITLE",
+            "value": "Passer"
+        },
+        {
+            "key": "BATTLE_SKIP_DESC",
+            "value": "Êtes-vous sûr de vouloir passer ce combat ?"
+        },
+        {
+            "key": "BATTLE_OPTION_TITLE",
+            "value": "Options"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_TITLE",
+            "value": "Son"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_BGM",
+            "value": "Musique"
+        },
+        {
+            "key": "BATTLE_OPTION_SOUND_SE",
+            "value": "Effets sonores"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_TITLE",
+            "value": "Affichage des effets de zone"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_ON",
+            "value": "ON"
+        },
+        {
+            "key": "BATTLE_OPTION_EFF_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "BATTLE_OPTION_AUTO_NOT_CHANGE",
+            "value": "Ne peut pas être changé lors d'un combat en cours"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_ABILITY",
+            "value": "Aptitude"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_NBEAST",
+            "value": "Magie d'invocation"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_TITLE_ITEM",
+            "value": "Objets"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_TITLE",
+            "value": "Recommandé"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_ATTACK_TITLE",
+            "value": "Attaques normales recommandées"
+        },
+        {
+            "key": "BATTLE_SKILLLIST_ADVICE_ATTACK_DESC",
+            "value": "Revenez en arrière et appuyez sur le bouton « Attaque »"
+        },
+        {
+            "key": "BATTLE_MISSION_TITLE",
+            "value": "Missions"
+        },
+        {
+            "key": "UNITINFO_CHAIN",
+            "value": "Combo"
+        },
+        {
+            "key": "UNITINFO_HIT",
+            "value": "Coup "
+        },
+        {
+            "key": "UNITINFO_CRITICAL",
+            "value": "Coups critiques"
+        },
+        {
+            "key": "STATUS_TAB_STATUS",
+            "value": "Caractéristiques actuelles"
+        },
+        {
+            "key": "STATUS_TAB_RESIST",
+            "value": "Affichage des résistances"
+        },
+        {
+            "key": "STATUS_TYPE_TITLE",
+            "value": "Type :"
+        },
+        {
+            "key": "RESULT_MISSION_TITLE",
+            "value": "<cspace=-0.2>Mission</cspace>"
+        },
+        {
+            "key": "RESULT_UNIT_EXP_TITLE",
+            "value": "EXP de l'unité"
+        },
+        {
+            "key": "RESULT_GET_ITEM_TITLE",
+            "value": "Objets obtenus"
+        },
+        {
+            "key": "RESULT_END",
+            "value": "Quête terminée"
+        },
+        {
+            "key": "RESULT_CLEAR_PARTY_TITLE",
+            "value": "<cspace=-0.4>Information<br>Disponible</cspace>"
+        },
+        {
+            "key": "RESULT_EFF_LEVELUP",
+            "value": "<cspace=-0.036em>N<size=0.85em>IVEAU</size> <cspace=1>SUPÉRIEUR"
+        },
+        {
+            "key": "RESULT_EFF_ARTIUP",
+            "value": "<cspace=-0.14em>Maîtrise de l'équipement <cspace=1>AUGMENTÉE"
+        },
+        {
+            "key": "RESULT_DEMO_SKIP",
+            "value": "La démo sera interrompue. Continuer ?"
+        },
+        {
+            "key": "RESULT_DIALOG_REMATCH_DESC",
+            "value": "Appuyer sur « Continuer » passera la cinématique qui se lance quand vous terminez la quête."
+        },
+        {
+            "key": "RESULT_NETHERBEAST_SYNCHRO",
+            "value": "Taux d'acquisition de résonance chimérique"
+        },
+        {
+            "key": "RESULT_UNIT_INTIMACY",
+            "value": "Augmentation du taux d'affinité de l'unité"
+        },
+        {
+            "key": "RESULT_ERROR_PERIOD_TITLE",
+            "value": "Hors période"
+        },
+        {
+            "key": "RESULT_ERROR_PERIOD_DESC",
+            "value": "Cette quête n'est pas active."
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "★ supplémentaires obtenues"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "Les défenseurs absents dans le groupe adverse<br>vous ont rapporté <color=#F0C040>{0} ★</color>."
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TITLE",
+            "value": "Points totaux"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SUB",
+            "value": "Résultats"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WIN",
+            "value": "Victoire(s)"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_OVERKILL",
+            "value": "Pulvérisations"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_DAMAGE",
+            "value": "Dégâts subis"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SPECIFIC_UNIT_DEFEAT",
+            "value": "Unités spécifiques vaincues"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ACTION_NUM",
+            "value": "Nombre d'actions"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_USE_ITEM",
+            "value": "Objets utilisés"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WEEKNESS_RESIST",
+            "value": "Attaques efficaces/Attaques résistées"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_WEEKNESS_ELEMENT",
+            "value": "Attaques élémentaires efficaces"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_DEAD_NUM",
+            "value": "Unités K.O./retirées"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ATTACK_CHAIN_MAX",
+            "value": "Combo le plus long "
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_ELEMENT_CHAIN_MAX",
+            "value": "Combo élémentaire le plus long"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_SPECIAL_ATTACK_RATE",
+            "value": "Bonus d'unité ou d'atout-vision"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_LAP_NUM",
+            "value": "Nombre de répétitions"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_LAP_TOTAL",
+            "value": "Total des boucles"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_CURRENT_SCORE",
+            "value": "Score"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_HIGH_SCORE",
+            "value": "Meilleur score de la quête"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TOTAL_HIGH_SCORE",
+            "value": "Total du meilleur score"
+        },
+        {
+            "key": "RESULT_POINT_AGGREGATE_TOTAL_SCORE",
+            "value": "Total des résultats de l'événement"
+        },
+        {
+            "key": "INTIMACYUP_BONUS_TITLE",
+            "value": "Bonus d'affinité"
+        },
+        {
+            "key": "INTIMACYUP_EFF_TITLE",
+            "value": "<cspace=-2><size=48>Affinité <size=52>A<size=40>UGMENTÉE"
+        },
+        {
+            "key": "BATTLE_CONTINUE_TITLE",
+            "value": "Continuer"
+        },
+        {
+            "key": "BATTLE_CONTINUE_DESC",
+            "value": "Utiliser <color=#601818>{0}</color> visiores et continuer ?"
+        },
+        {
+            "key": "BATTLE_CONTINUE_DESC_CHECK",
+            "value": "Êtes-vous sûr de vouloir continuer ?"
+        },
+        {
+            "key": "BATTLE_CONTINUE_CAUTION",
+            "value": "Si vous décidez de ne pas continuer, tous les objets que vous avez obtenus seront perdus."
+        },
+        {
+            "key": "BATTLE_CONTINUE_CAUTION_ADD",
+            "value": "Continuer sur votre lancée vous permettra de restaurer entièrement vos PV, PT, PA et l'utilisation d'aptitudes."
+        },
+        {
+            "key": "BATTLE_CONTINUE_BTN_GIVEUP",
+            "value": "Abandonner"
+        },
+        {
+            "key": "BATTLE_CONTINUE_BTN_CONTINUE",
+            "value": "Continuer"
+        },
+        {
+            "key": "BATTLE_CONTINUE_GIVEUP_TITLE",
+            "value": "Abandonner"
+        },
+        {
+            "key": "BATTLE_CONTINUE_GIVEUP_DESC",
+            "value": "Êtes-vous sûr de vouloir abandonner ?"
+        },
+        {
+            "key": "BATTLE_MULTI_CTR_NOW",
+            "value": " Réflexion en cours..."
+        },
+        {
+            "key": "BATTLE_MULTI_CTR_AUTO",
+            "value": "Auto activé..."
+        },
+        {
+            "key": "BATTLE_MULTI_CONNECTING",
+            "value": "Transmission..."
+        },
+        {
+            "key": "BATTLE_MULTI_CONTINUE",
+            "value": "Continuer ou ne pas continuer..."
+        },
+        {
+            "key": "BATTLE_MULTI_LIMIT",
+            "value": "Temps restant :"
+        },
+        {
+            "key": "BATTLE_MULTI_NEXT_TURN",
+            "value": "Plus que <color=#F0C040><size=1.25em> {0} avant que votre tour ne vienne."
+        },
+        {
+            "key": "BATTLE_MULTI_CURRENT_TURN",
+            "value": "C'est <color=#F0C040><size=1.25em>à vous</color></size> !"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER",
+            "value": "{0} a quitté le groupe."
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER_OWNER",
+            "value": "{0} a quitté le groupe.<br><br><color=#FFF080>Vous prenez la tête du salon.</color>"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PLAYER_MEMBER",
+            "value": "{0} a quitté le groupe. <br><br><color=#FFF080>{1} est maintenant chef du salon.</color>"
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_PVP",
+            "value": "Votre ennemi a quitté le combat."
+        },
+        {
+            "key": "BATTLE_MULTI_LEFT_TITLE",
+            "value": "Repli"
+        },
+        {
+            "key": "BATTLE_MULTI_MEETING_TITLE",
+            "value": "Bonus de première rencontre"
+        },
+        {
+            "key": "BATTLE_MULTI_MEETING_DESC",
+            "value": "Vous avez rencontré {0} membre(s) pour la première fois ! <br>Vous avez reçu vos récompenses de première rencontre. <br>Vous pouvez les vérifier en jetant un coup d'œil aux annonces."
+        },
+        {
+            "key": "BATTLE_MULTI_OFFLINE",
+            "value": "Déconnecté"
+        },
+        {
+            "key": "BATTLE_MULTI_COM_CTRL",
+            "value": "Réflexion en cours..."
+        },
+        {
+            "key": "BATTLE_MULTI_EXIT_TITLE",
+            "value": "Quitter le salon"
+        },
+        {
+            "key": "BATTLE_MULTI_EXIT_DESC",
+            "value": "<color=#F0C040>{0}</color> a quitté le salon."
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_TOP",
+            "value": "Amis"
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_TITLE",
+            "value": "Demandes d'ami"
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_DESC",
+            "value": "Envoyez des demandes d'ami aux joueurs que vous avez sélectionnés."
+        },
+        {
+            "key": "BATTLE_MULTI_REQUEST_BTN",
+            "value": "Demande"
+        },
+        {
+            "key": "BATTLE_MULTI_BLOCK_TITLE",
+            "value": "À propos des joueurs bloqués"
+        },
+        {
+            "key": "BATTLE_MULTI_BLOCK_DESC",
+            "value": "Les joueurs bloqués ne peuvent pas participer aux quêtes multi avec vous.<br><br>Les joueurs bloqués peuvent être retirés à n'importe moment de la liste des joueurs bloqués affichée dans la rubrique Amis."
+        },
+        {
+            "key": "RAID_SKIP_TITLE",
+            "value": "Passer"
+        },
+        {
+            "key": "RAID_SKIP_DESC",
+            "value": "Appuyer sur « Continuer » pour le boss de raid passera la cinématique qui se lance à la fin du combat en cours."
+        },
+        {
+            "key": "RAID_HELP",
+            "value": "À propos des raids"
+        },
+        {
+            "key": "RAID_TIMEUP_TITLE",
+            "value": "Temps épuisé"
+        },
+        {
+            "key": "RAID_TIMEUP_DESC",
+            "value": "Votre temps est écoulé. <br>Le combat prendra fin automatiquement."
+        },
+        {
+            "key": "FEVER_SKIP_TITLE",
+            "value": "Passer"
+        },
+        {
+            "key": "FEVER_SKIP_DESC",
+            "value": "Appuyer sur « Continuer » passera la cinématique qui se lance quand vous terminez la quête."
+        },
+        {
+            "key": "GUERILLA_SKIP_TITLE",
+            "value": "Passer"
+        },
+        {
+            "key": "GUERILLA_SKIP_DESC",
+            "value": "Appuyer sur « Boutique surprise » passera la cinématique qui se lance quand vous terminez la quête."
+        },
+        {
+            "key": "BATTLE_STEAL_SUCCESS",
+            "value": "Objet volé : {0} !"
+        },
+        {
+            "key": "BATTLE_STEAL_FAILED",
+            "value": "Vol échoué !"
+        },
+        {
+            "key": "BATTLE_STEAL_STEALED",
+            "value": "Rien à voler !"
+        },
+        {
+            "key": "BATTLE_STEAL_NOITEM",
+            "value": "Rien à voler !"
+        },
+        {
+            "key": "BATTLE_GAIN_JP",
+            "value": "PJ +{0}"
+        },
+        {
+            "key": "CHAPTER_TITLE",
+            "value": "CHAPITRE {0}"
+        },
+        {
+            "key": "ERROR_BATTLE_MAIN",
+            "value": "Une erreur s'est produite durant le combat."
+        },
+        {
+            "key": "ERROR_BATTLE_PARSEFAILED",
+            "value": "Le fichier est corrompu."
+        },
+        {
+            "key": "ERROR_REPLAY_TITLE",
+            "value": "Erreur du replay"
+        },
+        {
+            "key": "ERROR_REPLAY",
+            "value": "Ne peut pas être de nouveau lancé."
+        },
+        {
+            "key": "ERROR_REPLAY_BREAK",
+            "value": "Le replay a été interrompu. <br>Reprendre là où vous vous étiez arrêté ?"
+        },
+        {
+            "key": "ERROR_TUTORIAL_TITLE",
+            "value": "Erreur"
+        },
+        {
+            "key": "ERROR_TUTORIAL_NOTFOUND",
+            "value": "Données du tutoriel inexistantes."
+        },
+        {
+            "key": "BATTLE_RESULT_VICTORY_BONUS",
+            "value": "Bonus de victoire"
+        },
+        {
+            "key": "BATTLE_REWARD_WINNING_BONUS",
+            "value": "Bonus de victoires consécutives"
+        },
+        {
+            "key": "BATTLE_REWARD_PROMOTION_DESC",
+            "value": "Match de classement dans"
+        },
+        {
+            "key": "BATTLE_CLASSUP_DESC_FRONT",
+            "value": "Classe"
+        },
+        {
+            "key": "BATTLE_CLASSRESULT_UP",
+            "value": "Promotion obtenue."
+        },
+        {
+            "key": "BATTLE_CLASSRESULT_DOWN",
+            "value": "Échec de la promotion."
+        },
+        {
+            "key": "BATTLE_EFFECT_PROMFAILED",
+            "value": "Échec de la promotion"
+        },
+        {
+            "key": "BATTLE_EFFECT_PROMBATTLE",
+            "value": "Match de promotion disponible"
+        },
+        {
+            "key": "BATTLE_EFFECT_CONGRATS",
+            "value": "Félicitations !"
+        },
+        {
+            "key": "BATTLE_EFFECT_RANKING",
+            "value": "Classement"
+        },
+        {
+            "key": "BATTLE_EFFECT_CLASSUP",
+            "value": "Promotion !"
+        },
+        {
+            "key": "BATTLE_EFFECT_CLASSDOWN",
+            "value": "Destitution !"
+        },
+        {
+            "key": "BATTLE_MATCH_RESULTITEM_WINNING",
+            "value": "Bonus de victoires consécutives<br><size=20>({0} victoires consécutives)"
+        },
+        {
+            "key": "BATTLE_WATCH_BATTLE_END_TITLE",
+            "value": "Mode spectateur terminé"
+        },
+        {
+            "key": "BATTLE_WATCH_HOST_LEAVE_ROOM",
+            "value": "Départ du joueur 1."
+        },
+        {
+            "key": "BATTLE_WATCH_GUEST_LEAVE_ROOM",
+            "value": "Départ du joueur 2."
+        },
+        {
+            "key": "BATTLE_WATCH_CONNECT_ERROR",
+            "value": "Une erreur est survenue alors que vous assistiez au match. <br>Fin du mode spectateur."
+        },
+        {
+            "key": "RETRY_TITLE",
+            "value": "Rejouer sans personnage de soutien"
+        },
+        {
+            "key": "RETRY_DESC",
+            "value": "Attention, choisir « Rejouer » vous fait refaire la quête sans personnage de soutien. Pour en sélectionner un nouveau, revenez à l'écran de préparation."
+        },
+        {
+            "key": "RETRY_OK",
+            "value": "Rejouer"
+        },
+        {
+            "key": "RETRY_NO",
+            "value": "Annuler "
+        },
+        {
+            "key": "TOWER_COMPLETE_EFF_TITLE",
+            "value": "Félicitations !"
+        },
+        {
+            "key": "TOWER_COMPLETE_EFF_CLEAR",
+            "value": "Terminé !"
+        },
+        {
+            "key": "TOWER_COMPLETE_RESULT",
+            "value": "Résultats"
+        },
+        {
+            "key": "TOWER_COMPLETE_RANKING",
+            "value": "Rang atteint"
+        },
+        {
+            "key": "TOWER_COMPLETE_RANKING_UNIT",
+            "value": "#"
+        },
+        {
+            "key": "TOWER_COMPLETE_SCORE",
+            "value": "Score"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_ACTION",
+            "value": "Nombre total d'actions effectuées"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_DEAD",
+            "value": "Nombre total d'unités K.O."
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_GIVEUP",
+            "value": "Nombre d'abandons"
+        },
+        {
+            "key": "TOWER_COMPLETE_TYPE_HEAL",
+            "value": "Nombre de restaurations complètes"
+        },
+        {
+            "key": "BATTLE_HEIGHT_ABBREV",
+            "value": "h"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_POINT",
+            "value": "Total du nombre de victoires"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_STATUE_EXP",
+            "value": "EXP de statues de guilde obtenue"
+        },
+        {
+            "key": "GUILD_HUNT_RESULT_CHALLENGE",
+            "value": "Tentatives du jour"
+        },
+        {
+            "key": "GUILD_HUNT_KILLS",
+            "value": "Nbr de victoires"
+        },
+        {
+            "key": "GL_SELECT_ATTACK_LOCATION",
+            "value": "Sélectionnez la cible à attaquer."
+        },
+        {
+            "key": "GUILDRAID_BATTLE_GIVEUP_DESC",
+            "value": "Si vous battez en retraite, votre tentative sera perdue. Les dégâts infligés pendant le combat, au même titre que les dégâts totaux comptabilisés, ne seront pas enregistrés.<br><br><color=#FF0000>Voulez-vous battre en retraite malgré tout ?</color>"
+        },
+        {
+            "key": "RESULT_RETRY",
+            "value": "Rejouer"
+        }
+    ]
+}

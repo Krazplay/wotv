@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ah ! C'est… Non !"
+        },
+        {
+            "key": "002",
+            "value": "Un vieux manuscrit… Il provient des archives de Leonis j'imagine."
+        },
+        {
+            "key": "003",
+            "value": "…"
+        },
+        {
+            "key": "004",
+            "value": "Qu'aviez-vous l'intention d'en faire ? L'apporter à Eldo ?"
+        },
+        {
+            "key": "005",
+            "value": "…"
+        },
+        {
+            "key": "006",
+            "value": "Réponds !"
+        },
+        {
+            "key": "007",
+            "value": "C'est… un ordre de Son Altesse Helena."
+        },
+        {
+            "key": "008",
+            "value": "Un ordre de Mère ?"
+        },
+        {
+            "key": "009",
+            "value": "Je vois… Vous envisagiez d'empêcher la trahison de Khory en apportant ce livre à Eldo…"
+        },
+        {
+            "key": "010",
+            "value": "Wezett a-t-il vraiment l'intention de rompre son alliance avec Leonis ?"
+        },
+        {
+            "key": "011",
+            "value": "Il n'y a vraiment que les aveugles de Leonis pour ne pas s'apercevoir de la situation…"
+        },
+        {
+            "key": "012",
+            "value": "Wezett est d'ores et déjà entré en contact avec l'Église…"
+        },
+        {
+            "key": "013",
+            "value": "Non…"
+        },
+        {
+            "key": "014",
+            "value": "Que… Vous… nous laissez le manuscrit ?"
+        },
+        {
+            "key": "015",
+            "value": "Vous pouvez garder votre bouquin, mais je vous défends de vous rapprocher davantage de Wezett."
+        },
+        {
+            "key": "016",
+            "value": "Hein… ?"
+        },
+        {
+            "key": "017",
+            "value": "Si jamais je vous recroise en direction du nord, je ne ferai pas preuve de la même clémence qu'aujourd'hui."
+        },
+        {
+            "key": "018",
+            "value": "Retournez au château de Leonis et protégez Mère."
+        },
+        {
+            "key": "019",
+            "value": "Et vous, Messire Sterne… Que comptez-vous faire ?"
+        },
+        {
+            "key": "020",
+            "value": "Je vais tuer Eldo."
+        },
+        {
+            "key": "021",
+            "value": "Il y a encore beaucoup de soldats de Fennes dans les parages. Je vous conseille de ne pas trop vous attarder ici."
+        }
+    ]
+}

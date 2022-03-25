@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ah... E... Eso..."
+        },
+        {
+            "key": "002",
+            "value": "Un libro antiguo... Pertenece a Leonis, ¿verdad?"
+        },
+        {
+            "key": "003",
+            "value": "..."
+        },
+        {
+            "key": "004",
+            "value": "¿Qué pretendéis hacer con él? ¿Entregárselo a Elde?"
+        },
+        {
+            "key": "005",
+            "value": "..."
+        },
+        {
+            "key": "006",
+            "value": "¡Contesta!"
+        },
+        {
+            "key": "007",
+            "value": "Es una orden de la reina Helena."
+        },
+        {
+            "key": "008",
+            "value": "De madre..."
+        },
+        {
+            "key": "009",
+            "value": "Entiendo... Esperáis evitar la traición de Kuri entregándole este libro a Elde..."
+        },
+        {
+            "key": "010",
+            "value": "¿De verdad Wezette intenta abandonar su alianza con Leonis?"
+        },
+        {
+            "key": "011",
+            "value": "Los de Leonis son los únicos que no se han dado cuenta."
+        },
+        {
+            "key": "012",
+            "value": "Wezette ya se ha puesto en contacto con Santocristal."
+        },
+        {
+            "key": "013",
+            "value": "No..."
+        },
+        {
+            "key": "014",
+            "value": "Nos... ¿Nos devolvéis el libro?"
+        },
+        {
+            "key": "015",
+            "value": "Podéis quedároslo, pero no os acerquéis a Wezette."
+        },
+        {
+            "key": "016",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "017",
+            "value": "Si os atrevéis a aventuraros al norte, os cortaré en pedazos sin piedad..."
+        },
+        {
+            "key": "018",
+            "value": "Volved ahora mismo al castillo de Leonis y proteged a madre."
+        },
+        {
+            "key": "019",
+            "value": "¿Qué haréis vos, lord Stern?"
+        },
+        {
+            "key": "020",
+            "value": "Acabaré con Elde con mis propias manos."
+        },
+        {
+            "key": "021",
+            "value": "Todavía hay soldados de Fennes por la aldea. Os sugiero que os larguéis de aquí cuanto antes."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "70509",
+            "value": "Ça y est... ils battent en retraite."
+        },
+        {
+            "key": "70510",
+            "value": "Félicitations, Sire. On dirait qu'ils ont mordu à l'hameçon."
+        },
+        {
+            "key": "70511",
+            "value": "Parfait. Maintenant, nous avons le temps de rassembler nos troupes."
+        },
+        {
+            "key": "70512",
+            "value": "Que fait-on ? On se met à l'abri ou on les attaque ?"
+        },
+        {
+            "key": "70513",
+            "value": "« Rubeus » ne devrait plus tarder."
+        },
+        {
+            "key": "70514",
+            "value": "On est... sûrs de ça ?"
+        },
+        {
+            "key": "70515",
+            "value": "Margritte compte sur notre soutien à Graziella quand cette menace sera repoussée."
+        },
+        {
+            "key": "70516",
+            "value": "Ils ont autant besoin de nous que nous d'eux."
+        },
+        {
+            "key": "70517",
+            "value": "Ça se tient."
+        },
+        {
+            "key": "70518",
+            "value": "Et de toute façon, l'ennemi est en fuite. Il nous faut profiter de cet avantage tant que nous l'avons."
+        },
+        {
+            "key": "70519",
+            "value": "Compris !"
+        }
+    ]
+}

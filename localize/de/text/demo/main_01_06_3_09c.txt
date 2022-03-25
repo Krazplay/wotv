@@ -1,0 +1,88 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Häh!? Prinzessin Margery?!"
+        },
+        {
+            "key": "002",
+            "value": "Ich glaube es nicht ... Sie ist eure Gefangene? Was geht hier vor?"
+        },
+        {
+            "key": "003",
+            "value": "Ihr seid doch auch aus Hourne, oder nicht?"
+        },
+        {
+            "key": "004",
+            "value": "Man nennt es Hochverrat."
+        },
+        {
+            "key": "005",
+            "value": "Aha! Wusste ich es doch!"
+        },
+        {
+            "key": "006",
+            "value": "Dürfte ich deinen Namen erfahren?"
+        },
+        {
+            "key": "007",
+            "value": "Nein! Ihr würdet ihn eh nur falsch aussprechen!"
+        },
+        {
+            "key": "008",
+            "value": "Oh, ähm ... Dann lass mich dir eine andere Frage stellen."
+        },
+        {
+            "key": "009",
+            "value": "Wie ist die Kriegslage?"
+        },
+        {
+            "key": "010",
+            "value": "Na ja ... Man könnte sagen, wir hängen ordentlich in den Seilen."
+        },
+        {
+            "key": "011",
+            "value": "Dann müsst ihr euch jetzt sofort zurückziehen."
+        },
+        {
+            "key": "012",
+            "value": "Wie, was? Ihr wollt nicht, dass wir Euch helfen?"
+        },
+        {
+            "key": "013",
+            "value": "Ich könnte euch nicht guten Gewissens in diese Sache verstricken."
+        },
+        {
+            "key": "014",
+            "value": "Aber die da sind ..."
+        },
+        {
+            "key": "015",
+            "value": "Unterschätzt sie nicht. Sie sind gefährlich."
+        },
+        {
+            "key": "016",
+            "value": "Stattdessen möchte ich, dass ihr Mont eine Nachricht von mir überbringt."
+        },
+        {
+            "key": "017",
+            "value": "Unserem Prinzen Mont ...?"
+        },
+        {
+            "key": "018",
+            "value": "Richtet ihm aus, dass ich warte."
+        },
+        {
+            "key": "019",
+            "value": "Das ... Das ist alles? Das ist die ganze Nachricht?"
+        },
+        {
+            "key": "020",
+            "value": "So ist es. Und jetzt geht."
+        },
+        {
+            "key": "021",
+            "value": "Verstanden. Also dann – Rückzug!"
+        }
+    ]
+}

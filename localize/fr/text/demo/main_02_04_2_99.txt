@@ -1,0 +1,40 @@
+﻿{
+    "infos": [
+        {
+            "key": "446",
+            "value": "Quoi, mais ?!"
+        },
+        {
+            "key": "447",
+            "value": "Ramada ?!"
+        },
+        {
+            "key": "448",
+            "value": "Pourquoi es-tu de retour ? Je te croyais à Ovis, en renfort contre Rundall…"
+        },
+        {
+            "key": "449",
+            "value": "Ramada ? Qui est cet homme ?"
+        },
+        {
+            "key": "450",
+            "value": "Voici le roi Jayden de Rundall."
+        },
+        {
+            "key": "451",
+            "value": "Je le savais !"
+        },
+        {
+            "key": "452",
+            "value": "Ramada ? Dis-moi que je rêve !"
+        },
+        {
+            "key": "453",
+            "value": "Alors c'est toi, le petit Mont ?"
+        },
+        {
+            "key": "454",
+            "value": "Tu devrais être content, tu viens d'entrer dans le chapitre de ma légende !"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ufff... Ha sido un combate duro."
+        },
+        {
+            "key": "002",
+            "value": "Por cierto..."
+        },
+        {
+            "key": "003",
+            "value": "¿Para qué has venido hasta aquí?"
+        },
+        {
+            "key": "004",
+            "value": "Para lo mismo que todos los demás."
+        },
+        {
+            "key": "005",
+            "value": "Hmmm. ¿Así que tú también quieres ser una samurái del este?..."
+        },
+        {
+            "key": "006",
+            "value": "Quizás se piense que estas tierras son un refugio para almas perdidas."
+        },
+        {
+            "key": "007",
+            "value": "Los pobres desgraciados del continente creen que pueden venir a nuestra tierra y empezar de nuevo..."
+        },
+        {
+            "key": "008",
+            "value": "¡Basta de chanzas! No soy como el resto. Yo..."
+        },
+        {
+            "key": "009",
+            "value": "¿Entonces por qué no te haces llamar samurái y ya está?"
+        },
+        {
+            "key": "010",
+            "value": "¿Qué...?"
+        },
+        {
+            "key": "011",
+            "value": "Hay innumerables samuráis en el continente que no provienen del este, ¿verdad?"
+        },
+        {
+            "key": "012",
+            "value": "¿Quieres decir que son unos farsantes?"
+        },
+        {
+            "key": "013",
+            "value": "No he dicho eso. Pero..."
+        },
+        {
+            "key": "014",
+            "value": "Me temo que no encontrarás a un maestro que te guíe aquí."
+        },
+        {
+            "key": "015",
+            "value": "…"
+        },
+        {
+            "key": "016",
+            "value": "¿Qué deberíamos hacer entonces? ¿Mandarla de vuelta?"
+        },
+        {
+            "key": "017",
+            "value": "Me niego a irme. Pase lo que pase, no volveré."
+        },
+        {
+            "key": "018",
+            "value": "Jo, jo. Parece que lo tiene claro."
+        },
+        {
+            "key": "019",
+            "value": "Muy bien..."
+        },
+        {
+            "key": "020",
+            "value": "Sir Owe, no estaréis diciendo que..."
+        },
+        {
+            "key": "021",
+            "value": "Yo seré su maestro. ¡Ja, ja, ja!"
+        },
+        {
+            "key": "022",
+            "value": "Pero sir Owe, debéis regresar pronto al continente..."
+        },
+        {
+            "key": "023",
+            "value": "No te preocupes. No creo que esto me lleve mucho tiempo."
+        },
+        {
+            "key": "024",
+            "value": "¿Eh...? ¿Entonces partís hacia la montaña ya?"
+        },
+        {
+            "key": "025",
+            "value": "¿Qué montaña?"
+        },
+        {
+            "key": "026",
+            "value": "La montaña de pruebas. Un lugar que todo aspirante a samurái debe visitar."
+        },
+        {
+            "key": "027",
+            "value": "¿Alguna objeción?"
+        },
+        {
+            "key": "028",
+            "value": "No..."
+        },
+        {
+            "key": "029",
+            "value": "¡No digáis tonterías, sir Owe! Si la lleváis allí ahora, seguramente..."
+        },
+        {
+            "key": "030",
+            "value": "Jo, jo. ¿Ahora te importa?"
+        },
+        {
+            "key": "031",
+            "value": "N-no. Es solo que..."
+        },
+        {
+            "key": "032",
+            "value": "Si no la llevo, me temo que nunca se dará por vencida. ¡Ja, ja, ja!"
+        },
+        {
+            "key": "033",
+            "value": "¿Esa es la única razón por la que has decidido llevarme?"
+        },
+        {
+            "key": "034",
+            "value": "Lamento tener que decepcionarte. Nunca abandonaré mi causa."
+        },
+        {
+            "key": "035",
+            "value": "Cuánto ímpetu."
+        },
+        {
+            "key": "036",
+            "value": "Partamos pues."
+        },
+        {
+            "key": "037",
+            "value": "... Maestro."
+        },
+        {
+            "key": "038",
+            "value": "Bien. Os acompañaremos entonces."
+        },
+        {
+            "key": "039",
+            "value": "¿Pero por qué?..."
+        },
+        {
+            "key": "040",
+            "value": "¿Por qué no? Parece divertido. Es una razón estupenda, ¿no crees?"
+        },
+        {
+            "key": "041",
+            "value": "Los samuráis del este tienen mucho tiempo libre por lo que parece..."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Ahora dejadme que os explique cómo funciona la <color=#0000ff>magia de invocación</color>."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Si os equipáis con espers, tendréis acceso a la poderosa magia de invocación. Sin embargo, para ello, tendréis que rellenar la <color=#0000ff>barra de invocación</color>."
+        },
+        {
+            "key": "003",
+            "value": "La barra de invocación se va llenando a medida que los miembros del grupo <color=#0000ff>van atacando al enemigo</color>."
+        },
+        {
+            "key": "//色指定変更//",
+            "value": ""
+        },
+        {
+            "key": "004",
+            "value": "La barra aumenta con cualquier tipo de ataque, incluidos los normales. Además, golpear al enemigo por los <color=#0000ff>flancos</color> o la <color=#0000ff>retaguardia</color>, en vez de por delante, ayuda a cargar la barra con mayor rapidez."
+        },
+        {
+            "key": "005",
+            "value": "La barra se llenará aún más rápido si infligís un <color=#0000ff>golpe crítico</color> o <color=#0000ff>dejáis KO</color> a un enemigo."
+        },
+        {
+            "key": "006",
+            "value": "Lord Mont, veo que tenéis a Ifrit equipado."
+        },
+        {
+            "key": "007",
+            "value": "Fuego infernal, su magia de invocación, no solo daña a los enemigos con su amplia zona objetivo…,"
+        },
+        {
+            "key": "008",
+            "value": "… sino que también aumentará de forma temporal la <color=#0000ff>potencia de ataque de vuestro grupo</color>. Además, también cuenta con el poderoso efecto de <color=#0000ff>reducir la resistencia al fuego de todos los enemigos</color>."
+        },
+        {
+            "key": "//文章変更//",
+            "value": ""
+        },
+        {
+            "key": "009",
+            "value": "Aunque Fuego infernal solo se puede usar una vez por combate, si lo aprovecháis bien, las unidades de elemento fuego, como el rey Elde y Lilit, podrán desempeñar un papel aún más importante durante la batalla."
+        },
+        {
+            "key": "010",
+            "value": "¡Fantástico, lord Mont!"
+        },
+        {
+            "key": "011",
+            "value": "He oído que, aparte de Ifrit, hay <color=#0000ff>muchísimos más espers</color> en este mundo."
+        },
+        {
+            "key": "012",
+            "value": "No sabéis, lord Mont, las ganas que tengo de ver como os hacéis con más y los domináis…"
+        }
+    ]
+}

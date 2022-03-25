@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "這次將針對兵員的<color=#0000ff>屬性</color>來<br>進行說明。"
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "所有的兵員都受到<br><color=#0000ff>火</color>、<color=#0000ff>冰</color>、<color=#0000ff>風</color>、<color=#0000ff>土</color>、<color=#0000ff>雷</color>、<color=#0000ff>水</color>、<color=#0000ff>光</color>、<color=#0000ff>暗</color><br>中其中一種屬性的加護。"
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "而屬性之間又互相克制，也就是說<br>每種屬性都存在著<color=#0000ff>優勢</color>與<color=#0000ff>劣勢</color>的屬性。"
+        },
+        {
+            "key": "006",
+            "value": "我方兵員在攻擊<color=#0000ff>優勢屬性</color>的敵人時<br>所造成的傷害將會<color=#0000ff>增加</color>。"
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "與之相對，在攻擊<color=#0000ff>劣勢屬性</color>的敵人時<br>所造成的傷害將會<color=#0000ff>減少</color>。"
+        },
+        {
+            "key": "008",
+            "value": "蒙特殿下的屬性為<color=#0000ff>土</color>，因此在面對<color=#0000ff>雷屬性的敵人</color>時會處於優勢。"
+        },
+        {
+            "key": "009",
+            "value": "莉莉絲的屬性為<color=#0000ff>火</color>，因此在面對<color=#0000ff>冰屬性的敵人時</color>會處於優勢。"
+        },
+        {
+            "key": "010",
+            "value": "而我的屬性則是<color=#0000ff>水</color>，因此在面對<color=#0000ff>火屬性的敵人時</color>會處於優勢。<br>各自在戰鬥時優先選擇<color=#0000ff>優勢屬性</color>的敵人<br>來進行攻擊吧。"
+        },
+        {
+            "key": "011",
+            "value": "【刪除】"
+        },
+        {
+            "key": "012",
+            "value": "很順利地擊敗了敵人呢。"
+        },
+        {
+            "key": "013",
+            "value": "不知您有沒有注意到，<br>在對敵人進行攻擊前<br>能夠看到<color=#0000ff>屬性相剋表</color>。"
+        },
+        {
+            "key": "014",
+            "value": "在尚未熟悉之前就<br>多多確認這個屬性相剋表吧。"
+        }
+    ]
+}

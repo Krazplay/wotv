@@ -1,0 +1,196 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Has hecho bien volviendo sin un solo rasguño. Buen trabajo."
+        },
+        {
+            "key": "002",
+            "value": "No merezco tantos elogios, majestad."
+        },
+        {
+            "key": "003",
+            "value": "Basta de halagos entonces. Vayamos al grano, Lu'Cía."
+        },
+        {
+            "key": "004",
+            "value": "No se trata de una recompensa en sí..., pero quiero encomendarte a la nueva división."
+        },
+        {
+            "key": "005",
+            "value": "¿A mí?..."
+        },
+        {
+            "key": "006",
+            "value": "Lo cierto es que alguien te ha recomendado para el puesto."
+        },
+        {
+            "key": "007",
+            "value": "¿Se trata de... la subcomandante Elshura?"
+        },
+        {
+            "key": "008",
+            "value": "No solo Elshura. Rhaldor también."
+        },
+        {
+            "key": "009",
+            "value": "No me lo puedo creer... El comandante nunca..."
+        },
+        {
+            "key": "010",
+            "value": "Esto es lo que dijo Rhaldor:"
+        },
+        {
+            "key": "011",
+            "value": "«Hemos entrado en la era de las armas de fuego»."
+        },
+        {
+            "key": "012",
+            "value": "«Lu'Cía posee un espíritu férreo e inamovible y un disparo certero incomparable»."
+        },
+        {
+            "key": "013",
+            "value": "«Si queréis formar una nueva división, no hay nadie más cualificada que ella para liderarla»."
+        },
+        {
+            "key": "014",
+            "value": "No puede ser... ¿El comandante me ha dado el visto bueno?..."
+        },
+        {
+            "key": "015",
+            "value": "Puede que Rhaldor sea muy cabezón y hable mucho, pero de tonto no tiene un pelo."
+        },
+        {
+            "key": "016",
+            "value": "Siempre está pensando en qué es lo mejor para Rundal."
+        },
+        {
+            "key": "017",
+            "value": "Sí, creo que es cierto. En esta última misión me di cuenta de ello."
+        },
+        {
+            "key": "018",
+            "value": "Bien, entonces no lo decepciones."
+        },
+        {
+            "key": "019",
+            "value": "De acuerdo."
+        },
+        {
+            "key": "020",
+            "value": "Aunque su intención es animar a sus subordinados, le iría mejor como comandante si eligiese mejor sus palabras."
+        },
+        {
+            "key": "021",
+            "value": "Bueno, puede que solo se sienta intimidado."
+        },
+        {
+            "key": "022",
+            "value": "Las armas de fuego dominarán el campo de batalla de ahora en adelante. Yo también lo pienso así."
+        },
+        {
+            "key": "023",
+            "value": "... Solo tengo un favor que pediros."
+        },
+        {
+            "key": "024",
+            "value": "Suéltalo."
+        },
+        {
+            "key": "025",
+            "value": "Poned a Creys en la nueva división también."
+        },
+        {
+            "key": "026",
+            "value": "Sin problema. Estoy seguro de que a Rhaldor no le importará."
+        },
+        {
+            "key": "027",
+            "value": "Os lo agradezco."
+        },
+        {
+            "key": "028",
+            "value": "... ¿Se te ocurre algo como nombre de la nueva división?"
+        },
+        {
+            "key": "029",
+            "value": "El nombre de la división..."
+        },
+        {
+            "key": "030",
+            "value": "Si no, puedo elegirlo yo por ti."
+        },
+        {
+            "key": "031",
+            "value": "¿Qué tal... Calorum?"
+        },
+        {
+            "key": "032",
+            "value": "Conque Calorum, ¿eh? ¿Algo tan efímero como el calor no es un poco... de mal agüero?"
+        },
+        {
+            "key": "033",
+            "value": "Al contrario. Lo que quiero expresar es algo en continuo movimiento. De ahí que el nombre no represente una forma."
+        },
+        {
+            "key": "034",
+            "value": "Entiendo. Qué interesante."
+        },
+        {
+            "key": "035",
+            "value": "Muy bien, Lu'Cía. Por la presente, te nombro comandante de Calorum, la tercera división de Rundal."
+        },
+        {
+            "key": "036",
+            "value": "Espero mucho de ti."
+        },
+        {
+            "key": "037",
+            "value": "Sí, señor. No defraudaré vuestras expectativas como comandante de mi división."
+        },
+        {
+            "key": "038",
+            "value": "En ese caso, comencemos con esto..."
+        },
+        {
+            "key": "039",
+            "value": "¿Qué tal si pasáis un buen rato juntos?"
+        },
+        {
+            "key": "040",
+            "value": "¿Un buen rato, decís?"
+        },
+        {
+            "key": "041",
+            "value": "Así es."
+        },
+        {
+            "key": "042",
+            "value": "Emplea los medios que sean necesarios."
+        },
+        {
+            "key": "043",
+            "value": "Averigua la identidad del traidor que está informando en secreto a Sadali."
+        },
+        {
+            "key": "044",
+            "value": "Una vez se lo sonsaques, ejecútalo públicamente a modo de ejemplo para los demás."
+        },
+        {
+            "key": "045",
+            "value": "No, no solo al traidor. Acaba con todos los que tengan algún resentimiento contra Rundal."
+        },
+        {
+            "key": "046",
+            "value": "Dejádmelo a mí. No me contendré lo más mínimo."
+        },
+        {
+            "key": "047",
+            "value": "Vamos a pasar un momento inolvidable."
+        },
+        {
+            "key": "048",
+            "value": "Ja, ja, ja, ja. Sabía que podía contar contigo. Espero mucho de ti de ahora en adelante."
+        }
+    ]
+}

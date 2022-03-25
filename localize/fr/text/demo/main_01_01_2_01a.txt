@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Le territoire de Fennes s'étend au nord d'ici."
+        },
+        {
+            "key": "002",
+            "value": "Oserais-tu insinuer que Leonis ne vous a pas assez bien accueillis ?"
+        },
+        {
+            "key": "003",
+            "value": "Roi Eldo, vous avez toute notre gratitude. Hélas..."
+        },
+        {
+            "key": "004",
+            "value": "C'est bon, ce n'est pas la peine."
+        },
+        {
+            "key": "005",
+            "value": "Les relations entre Fennes et Leonis restent tendues."
+        },
+        {
+            "key": "006",
+            "value": "Si dame Machalie venait à se marier à Fennes, cela condamnerait très certainement nos relations. "
+        },
+        {
+            "key": "007",
+            "value": "..."
+        },
+        {
+            "key": "008",
+            "value": "Dans ce cas..."
+        },
+        {
+            "key": "009",
+            "value": "Qu'est-ce que vous faites ? Rangez vos épées."
+        },
+        {
+            "key": "010",
+            "value": "Dame Machalie... la journée fût rude pour vous."
+        },
+        {
+            "key": "011",
+            "value": "Qu'est-ce que tu insinues ?"
+        },
+        {
+            "key": "012",
+            "value": "N'avez-vous pas remarqué quelque chose d'étrange ?"
+        },
+        {
+            "key": "013",
+            "value": "Des monstres !"
+        },
+        {
+            "key": "014",
+            "value": "Ah... !"
+        }
+    ]
+}

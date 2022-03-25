@@ -1,0 +1,28 @@
+﻿{
+    "infos": [
+        {
+            "key": "622",
+            "value": "¿Qué es lo que habéis hecho con Alaia?"
+        },
+        {
+            "key": "623",
+            "value": "Ya te lo he dicho. No sabemos nada."
+        },
+        {
+            "key": "624",
+            "value": "Serás..."
+        },
+        {
+            "key": "625",
+            "value": "¡Ugggh...!"
+        },
+        {
+            "key": "626",
+            "value": "Maldición, se ha suicidado."
+        },
+        {
+            "key": "627",
+            "value": "Supongo que no nos queda otra que volver al castillo."
+        }
+    ]
+}

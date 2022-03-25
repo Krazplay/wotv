@@ -1,0 +1,236 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "... Ihr teilt mir also mit, dass wir noch nicht einmal den Hauch einer Spur der sechs Klingen haben?"
+        },
+        {
+            "key": "002",
+            "value": "W-Wir sind untröstlich, Euer Heiligkeit ..."
+        },
+        {
+            "key": "003",
+            "value": "Wie verhält sich die Waffenhändlergilde?"
+        },
+        {
+            "key": "004",
+            "value": "Nun ... Garval zeigt keinerlei Initiative."
+        },
+        {
+            "key": "005",
+            "value": "Aus Rücksicht den Schwertschmieden gegenüber, nehme ich an ..."
+        },
+        {
+            "key": "006",
+            "value": "Höchstwahrscheinlich, jawohl."
+        },
+        {
+            "key": "007",
+            "value": "Das würde auch erklären, weswegen die namhaften Schwertschmiede bereits alle untergetaucht sind."
+        },
+        {
+            "key": "008",
+            "value": "Dabei hatte ich doch gehofft, von den Schmiedemeistern Hinweise zum Verbleib der sechs Klingen zu bekommen."
+        },
+        {
+            "key": "009",
+            "value": "Benutzt Eldrich, um Garval unter Druck zu setzen."
+        },
+        {
+            "key": "010",
+            "value": "Jawohl."
+        },
+        {
+            "key": "011",
+            "value": "Wie sieht es mit dem anderen Weg aus, der uns zu den Klingen führen soll ...?"
+        },
+        {
+            "key": "012",
+            "value": "Auch daran arbeiten wir bereits."
+        },
+        {
+            "key": "013",
+            "value": "Es ist also schon jemand gen Osten unterwegs ...?"
+        },
+        {
+            "key": "014",
+            "value": "Wir haben Lameiga und Lumeide entsandt.."
+        },
+        {
+            "key": "015",
+            "value": "Sie werden dort mit den verbleibenden Schmieden in Kontakt treten und sich der Schwerter bemächtigen, sollten sie sich in deren Besitz befinden – notfalls mit Gewalt."
+        },
+        {
+            "key": "016",
+            "value": "Die sechs Klingen ..."
+        },
+        {
+            "key": "017",
+            "value": "Sollte es wirklich wahr sein, dass sie gar den Leib der Götter selbst zu zerteilen vermögen ... wäre Gilgamesch mir ausgeliefert wie ein hilfloses Kind."
+        },
+        {
+            "key": "018",
+            "value": "Und dann vielleicht sogar ..."
+        },
+        {
+            "key": "019",
+            "value": "Wie meinen ...?"
+        },
+        {
+            "key": "020",
+            "value": "Es ist nichts weiter."
+        },
+        {
+            "key": "021",
+            "value": "Unsere Unternehmungen sind gewiss auch an Gilgamesch nicht vorbeigegangen."
+        },
+        {
+            "key": "022",
+            "value": "Die Klingen dürfen ihm auf keinen Fall in die Hände fallen. Das ist euch sicherlich klar."
+        },
+        {
+            "key": "023",
+            "value": "Jawohl."
+        },
+        {
+            "key": "024",
+            "value": "Alles ist in Bewegung geraten."
+        },
+        {
+            "key": "025",
+            "value": "... Nun, Gilgamesch – wie wirst du also darauf reagieren?"
+        },
+        {
+            "key": "026",
+            "value": "... Was machst du da?"
+        },
+        {
+            "key": "027",
+            "value": "Wovon redest du?"
+        },
+        {
+            "key": "028",
+            "value": "Du wirkst auf mich nicht wie ein schlechter Kerl, aber ... betrachtest du denn selbst mich als deinen Feind?"
+        },
+        {
+            "key": "029",
+            "value": "..."
+        },
+        {
+            "key": "030",
+            "value": "Und Dummstellen gilt nicht. Dieser Hauch mörderischer Anspannung, der in der Luft liegt ... Das bilde ich mir nicht ein."
+        },
+        {
+            "key": "031",
+            "value": "... Du verrätst mir doch sicher, was Sache ist."
+        },
+        {
+            "key": "032",
+            "value": "Dieses Schwert, das du trägst."
+        },
+        {
+            "key": "033",
+            "value": "Ah, das hier? Das nennt sich „Odachi der Zerstörung“ ..."
+        },
+        {
+            "key": "034",
+            "value": "Es ist der „Zeitenspalter“ ... oder?"
+        },
+        {
+            "key": "035",
+            "value": "... Hoh. Hätte nicht gedacht, dass du seinen wahren Namen kennst ..."
+        },
+        {
+            "key": "036",
+            "value": "Ich verstehe. Wenn du es auf dieses Schwert abgesehen hast ... dann bin ich wohl oder übel tatsächlich dein Feind."
+        },
+        {
+            "key": "037",
+            "value": "Richtest du es gegen mich?"
+        },
+        {
+            "key": "038",
+            "value": "Nein. Da steckt doch was dahinter, oder? Das werde ich mir zuerst anhören."
+        },
+        {
+            "key": "039",
+            "value": "Sadali sucht die sechs Klingen."
+        },
+        {
+            "key": "040",
+            "value": "Und eine davon ist das Schwert, das du mit dir führst."
+        },
+        {
+            "key": "041",
+            "value": "Dieser habgierige Lump schon wieder ... Und er will sie, um dich zu töten ... richtig?"
+        },
+        {
+            "key": "042",
+            "value": "Das ist einer der Gründe."
+        },
+        {
+            "key": "043",
+            "value": "... Gibt es denn noch andere?"
+        },
+        {
+            "key": "044",
+            "value": "Aber was ich nicht verstehe – ihn von den Klingen fernzuhalten, sollte für dich doch ein Kinderspiel sein."
+        },
+        {
+            "key": "045",
+            "value": "Deine Macht reicht aus, um die gesamte Kirche mit einem Schlag wegzufegen ... Oder etwa nicht?"
+        },
+        {
+            "key": "046",
+            "value": "..."
+        },
+        {
+            "key": "047",
+            "value": "... Ganz so einfach ist es also doch nicht, was?"
+        },
+        {
+            "key": "048",
+            "value": "Ich erbitte deinen Beistand. Meine Wunden werden noch länger nicht heilen."
+        },
+        {
+            "key": "049",
+            "value": "An mir soll‘s nicht scheitern! Aber ... nur unter der Bedingung, dass es den Menschen in diesem Land Gutes bringt."
+        },
+        {
+            "key": "050",
+            "value": "Ich hoffe, dass es ihnen Gutes bringen wird ... Wahrhaftig."
+        },
+        {
+            "key": "051",
+            "value": "..."
+        },
+        {
+            "key": "052",
+            "value": "Diese sechs Klingen ..."
+        },
+        {
+            "key": "053",
+            "value": "Hast du etwa eine Vermutung?"
+        },
+        {
+            "key": "054",
+            "value": "Für eine –  Ornhs „Donnerrufer“ ..."
+        },
+        {
+            "key": "055",
+            "value": "Er selbst nennt es „Blitzschlag-Katana“, um keine unerwünschte Aufmerksamkeit darauf zu lenken."
+        },
+        {
+            "key": "056",
+            "value": "Aber was die anderen vier betrifft ... habe ich nicht den blassesten Schimmer, wo sie sein könnten."
+        },
+        {
+            "key": "057",
+            "value": "..."
+        },
+        {
+            "key": "058",
+            "value": "Die alle zu finden ... Junge, das wird ‘ne Heidenarbeit."
+        }
+    ]
+}

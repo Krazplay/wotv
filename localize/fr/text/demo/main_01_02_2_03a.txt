@@ -1,0 +1,80 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Des nouvelles du front, Votre Majesté !"
+        },
+        {
+            "key": "002",
+            "value": "La première division de Fennes, partie à la poursuite de l'ennemi, a été complètement anéantie."
+        },
+        {
+            "key": "003",
+            "value": "Il semble que nos ennemis se battent sérieusement."
+        },
+        {
+            "key": "004",
+            "value": "Il n'y a pas d'quoi s'inquiéter. La bataille vient seulement d'commencer."
+        },
+        {
+            "key": "005",
+            "value": "Ce n'est pas tout, Votre Majesté. Les forces principales de l'ennemi ont déjà commencé à battre en retraite."
+        },
+        {
+            "key": "006",
+            "value": "Alors ils vont sûrement commencer les préparatifs pour se terrer dans le château."
+        },
+        {
+            "key": "007",
+            "value": "Et dans ce cas, le prince Sterne commandera très certainement leur arrière-garde."
+        },
+        {
+            "key": "008",
+            "value": "On dit que seul le roi Eldo peut rivaliser avec son talent à l'épée, et pourtant, le prince n'est pas apparu une seule fois sur un champ de bataille."
+        },
+        {
+            "key": "009",
+            "value": "Il doit avoir trop peur de m'affronter."
+        },
+        {
+            "key": "010",
+            "value": "Ce serait trop beau, mais..."
+        },
+        {
+            "key": "011",
+            "value": "Le roi Eldo doit très certainement avoir un plan."
+        },
+        {
+            "key": "012",
+            "value": "Votre Majesté, ce n'est pas Sterne qui commande l'arrière-garde, mais le chef de « Caelum », un certain Mont."
+        },
+        {
+            "key": "013",
+            "value": "Le prince Mont ?! Le lionceau sans griffes des jumeaux Leonis ?"
+        },
+        {
+            "key": "014",
+            "value": "Oui, Votre Majesté."
+        },
+        {
+            "key": "015",
+            "value": "Ce bougre d'Eldo garde donc Sterne en réserve."
+        },
+        {
+            "key": "016",
+            "value": "Si c'est vrai, alors notre victoire est assurée."
+        },
+        {
+            "key": "017",
+            "value": "« Solidus », en avant ! Frappez les rangs ennemis et soyez sans pitié !"
+        },
+        {
+            "key": "018",
+            "value": "La seconde division ennemie est en train d'avancer !"
+        },
+        {
+            "key": "019",
+            "value": "Ne flanchez pas ! À l'attaque !"
+        }
+    ]
+}

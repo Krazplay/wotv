@@ -1,0 +1,48 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Roi Eldo... pouvons-nous réellement vous faire confiance ?"
+        },
+        {
+            "key": "002",
+            "value": "Schuzelt... Est-ce ainsi que tu remercies le roi qui a sauvé vos vies ?"
+        },
+        {
+            "key": "003",
+            "value": "Mon devoir est d'escorter saine et sauve dame Machalie à Fennes."
+        },
+        {
+            "key": "004",
+            "value": "Je souffrirais volontiers vos accusations d'insolence pour protéger ma dame."
+        },
+        {
+            "key": "005",
+            "value": "Assez, Schuzelt."
+        },
+        {
+            "key": "006",
+            "value": "Pour être honnête, je n'ai pas l'intention de mettre les pieds à Fennes."
+        },
+        {
+            "key": "007",
+            "value": "Mais dame Machalie ! Que deviennent vos fiançailles avec le roi Muraga ?"
+        },
+        {
+            "key": "008",
+            "value": "Tu as sûrement remarqué que quelque chose cloche. Ces dernières attaques sont... suspectes."
+        },
+        {
+            "key": "009",
+            "value": "Vous avez raison..."
+        },
+        {
+            "key": "010",
+            "value": "Roi Eldo, je voudrais voir le château de Leonis. Votre proposition d'hospitalité tient toujours ?"
+        },
+        {
+            "key": "011",
+            "value": "Bien sûr ! Venez admirer la beauté du plus célèbre château du royaume de Leonis, le château des Lions."
+        }
+    ]
+}

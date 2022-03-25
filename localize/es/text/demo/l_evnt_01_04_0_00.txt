@@ -1,0 +1,396 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "..."
+        },
+        {
+            "key": "002",
+            "value": "¿Qué me pasó? ¿Qué era esa extraña luz que despedía mi cuerpo?"
+        },
+        {
+            "key": "003",
+            "value": "Thranan parecía saber algo..., pero dejó claro que no quería especular."
+        },
+        {
+            "key": "004",
+            "value": "¿Fue una señal de que voy en camino de convertirme en un Guerrero de los Cristales? Hmm…"
+        },
+        {
+            "key": "005",
+            "value": "No puedo limitarme a ignorar lo que pasó... ¿Qué hago?"
+        },
+        {
+            "key": "006",
+            "value": "Saludos, guerrero en prácticas. ¿Eres consciente de que estás hablando solo?"
+        },
+        {
+            "key": "007",
+            "value": "¡Oh, Velis! Bueno, de hecho... hay algo que me preocupa y quizá tú podrías…"
+        },
+        {
+            "key": "008",
+            "value": "¡Eh, alto, alto! Ni una palabra más."
+        },
+        {
+            "key": "009",
+            "value": "Pero..."
+        },
+        {
+            "key": "010",
+            "value": "Si estás buscando consejos mundanos, ve a hablar con Cetia o Thranan."
+        },
+        {
+            "key": "011",
+            "value": "Yo paso de meterme en nada que me pueda fastidiar mínimamente. Las preocupaciones de mis camaradas más jóvenes me traen sin cuidado."
+        },
+        {
+            "key": "012",
+            "value": "Así que no gastes saliva, ¿vale? Ojos que no ven, corazón que no siente. ¿Queda claro?"
+        },
+        {
+            "key": "013",
+            "value": "Como el agua... Hablaré con otro Guerrero cuando tenga la ocasión…"
+        },
+        {
+            "key": "014",
+            "value": "Así me gusta. Estás ahorrándonos tiempo a los dos, te lo aseguro."
+        },
+        {
+            "key": "015",
+            "value": "Por cierto, hay algo de lo que quiero hablar contigo."
+        },
+        {
+            "key": "016",
+            "value": "Déjame adivinar... ¿Es sobre recuperar otro cristal núcleo?"
+        },
+        {
+            "key": "017",
+            "value": "Excelente, las cazas al vuelo. Con razón los demás esperan tanto de ti."
+        },
+        {
+            "key": "018",
+            "value": "N-no creo que sea para tanto, la verdad..."
+        },
+        {
+            "key": "019",
+            "value": "Te aconsejo que disfrutes de los elogios ahora que puedes. Los irás oyendo con menos frecuencia cuanto más mayor te hagas."
+        },
+        {
+            "key": "020",
+            "value": "Pero no nos desviemos. Para esta misión volverás a retroceder en el tiempo, incluso más atrás que cuando te aventuraste con Thranan."
+        },
+        {
+            "key": "021",
+            "value": "Recuerdas las reglas, ¿verdad? Nada de interferir ni de hablar de cosas que aún no han pasado."
+        },
+        {
+            "key": "022",
+            "value": "Encontrar el cristal núcleo y traerlo de vuelta. ¿De acuerdo?"
+        },
+        {
+            "key": "023",
+            "value": "¡No te defraudaré! ¡Juro que volveremos con el cristal núcleo!"
+        },
+        {
+            "key": "024",
+            "value": "Ese es el espíritu. Veo que lo que decían esos tres es cierto."
+        },
+        {
+            "key": "025",
+            "value": "¡Está bien! ¡Dejo el resto en tus manos! ¡Muéstrame de lo que eres capaz, novato!"
+        },
+        {
+            "key": "026",
+            "value": "¿Eh? ¡E-espera un momento! ¿Y tú?"
+        },
+        {
+            "key": "027",
+            "value": "¿Yo qué? Te he explicado lo que tienes que hacer, así que mi trabajo aquí ha concluido."
+        },
+        {
+            "key": "028",
+            "value": "¿Quieres decir que voy a ir yo solo?"
+        },
+        {
+            "key": "029",
+            "value": "Bueno, se supone que tengo que ir contigo, pero este tipo de misiones de «busca algo y recupéralo» son un rollo."
+        },
+        {
+            "key": "030",
+            "value": "Un Guerrero de los Cristales no debería hablar así..."
+        },
+        {
+            "key": "031",
+            "value": "Ya has encontrado tres cristales núcleo. Eres prácticamente un experto. Confía en mí, estarás bien."
+        },
+        {
+            "key": "032",
+            "value": "Estaré contigo en espíritu. ¡Ve con la cabeza alta a por ese cristal!"
+        },
+        {
+            "key": "033",
+            "value": "No estoy muy seguro..."
+        },
+        {
+            "key": "034",
+            "value": "Oye, soy el guerrero más veterano y eso me convierte en una especie de líder por aquí. ¿Me sigues, novato?"
+        },
+        {
+            "key": "035",
+            "value": "No quieres mover un dedo, ¿verdad?"
+        },
+        {
+            "key": "036",
+            "value": "¿Qué hacéis aquí de parloteo? Ya deberíais haber partido."
+        },
+        {
+            "key": "037",
+            "value": "¡Agh! Thranan..."
+        },
+        {
+            "key": "038",
+            "value": "¿Cómo que «agh», Velis? Espero que no estés intentando endosarle la misión a nuestro joven recluta."
+        },
+        {
+            "key": "039",
+            "value": "¡N-ni se me había pasado por la cabeza! ¡Solo le estaba gastando una broma! ¿Verdad, Lucius?"
+        },
+        {
+            "key": "040",
+            "value": "Sí, claro..."
+        },
+        {
+            "key": "041",
+            "value": "Aaah... Nunca cambiarás, Velis. En marcha, pues. Estáis gastando un tiempo precioso."
+        },
+        {
+            "key": "042",
+            "value": "Está bien, está bien."
+        },
+        {
+            "key": "043",
+            "value": "Oh, y Lucius, quiero que seas especialmente cauteloso en esta misión."
+        },
+        {
+            "key": "044",
+            "value": "¿Y eso por qué, señor?"
+        },
+        {
+            "key": "045",
+            "value": "Puede que nos esté llevando demasiado tiempo recuperar los cristales núcleo."
+        },
+        {
+            "key": "046",
+            "value": "Llámalo mal presentimiento si quieres. En todo caso, no bajes la guardia."
+        },
+        {
+            "key": "047",
+            "value": "Eso suena un poco ambiguo..."
+        },
+        {
+            "key": "048",
+            "value": "Venga, novato. Vámonos antes de que cierta persona nos quite las ganas de vivir a base de sermoncitos."
+        },
+        {
+            "key": "049",
+            "value": "¡N-n-no, espera! Todavía hay algo que quiero preguntarle a Thranan…"
+        },
+        {
+            "key": "050",
+            "value": "Y aquí estamos. En el reino de Leonis, para ser precisos."
+        },
+        {
+            "key": "051",
+            "value": "Ahora ya no podré hablar con Thranan hasta la vuelta…"
+        },
+        {
+            "key": "052",
+            "value": "Ja, ja, perdona. Pero no quería que nos metiera otro rollo interminable y aburrido."
+        },
+        {
+            "key": "053",
+            "value": "¿Sabes?... Empiezo a pensar que no estoy en las mejores manos contigo."
+        },
+        {
+            "key": "054",
+            "value": "Me ofendería, si no fuera porque entiendo que te sientas así."
+        },
+        {
+            "key": "055",
+            "value": "Pero la cabeza alta, ¿eh? Tienes al guerrero más veterano a tu lado."
+        },
+        {
+            "key": "056",
+            "value": "Pues... casi me convences de que la cosa puede ir bien y todo."
+        },
+        {
+            "key": "057",
+            "value": "Confía en mí, no vale la pena obsesionarse con el pasado… Hm, ¿qué es esto?"
+        },
+        {
+            "key": "058",
+            "value": "¿Qué es qué?"
+        },
+        {
+            "key": "059",
+            "value": "Acabo de notar el cristal núcleo. Pero hay algo… Hmmm… No, esto no me gusta."
+        },
+        {
+            "key": "060",
+            "value": "¿Ah, no?"
+        },
+        {
+            "key": "061",
+            "value": "Siento que el cristal núcleo está cerca, pero algo se le aproxima a una velocidad endiablada."
+        },
+        {
+            "key": "062",
+            "value": "En... Entonces tenemos que darnos prisa, ¿no?"
+        },
+        {
+            "key": "063",
+            "value": "Sí. Aunque pensándolo bien, vamos a tener que sudar para llegar a tiempo, así que creo que lo mejor será que nos rindamos."
+        },
+        {
+            "key": "064",
+            "value": "¡No podemos hacer eso!"
+        },
+        {
+            "key": "065",
+            "value": "Es broma, es broma... No vale la pena poner a prueba la ira de Thranan por algo así."
+        },
+        {
+            "key": "066",
+            "value": "Démonos prisa, hacia el cristal núcleo, y recemos por que no sea ya demasiado tarde."
+        },
+        {
+            "key": "067",
+            "value": "Ah, ah... ¿D-dónde está?"
+        },
+        {
+            "key": "068",
+            "value": "Ahí. Tirado en el suelo."
+        },
+        {
+            "key": "069",
+            "value": "¡Entonces recuperémoslo!"
+        },
+        {
+            "key": "070",
+            "value": "Nada me gustaría más, pero creo que llegamos tarde."
+        },
+        {
+            "key": "071",
+            "value": "¿Eh?..."
+        },
+        {
+            "key": "072",
+            "value": "¡Un monstruo! ¡Y es enorme!"
+        },
+        {
+            "key": "073",
+            "value": "¡Un momento, no...! ¡Aaah!"
+        },
+        {
+            "key": "074",
+            "value": "¿Qué hacemos?... ¡El monstruo se ha tragado el cristal núcleo entero!"
+        },
+        {
+            "key": "075",
+            "value": "Arg... Esto es lo peor que podía pasar... Vamos a tener que obligarlo a escupir el cristal."
+        },
+        {
+            "key": "076",
+            "value": "Será un buen calentamiento. ¡Espero que estés lista para probar un poco de acero, bestia insaciable!"
+        },
+        {
+            "key": "077",
+            "value": "Esto debería bastar..."
+        },
+        {
+            "key": "078",
+            "value": "¡N-no tenía ni idea de que fueras tan fuerte!"
+        },
+        {
+            "key": "079",
+            "value": "¡Deja de actuar como si nunca hubieras visto caer a un bégimo y acaba con él!"
+        },
+        {
+            "key": "080",
+            "value": "¡Sí!"
+        },
+        {
+            "key": "081",
+            "value": "¡¿Qu-qué está pasando?!"
+        },
+        {
+            "key": "082",
+            "value": "¡Ha llamado a más monstruos!"
+        },
+        {
+            "key": "083",
+            "value": "Más que eso. El bégimo les está obligando a protegerlo con sus rugidos, como haría el líder de una manada."
+        },
+        {
+            "key": "084",
+            "value": "Hay demasiados. ¡No podemos acercarnos!"
+        },
+        {
+            "key": "085",
+            "value": "Ha huido... ¡Debemos ir tras él!"
+        },
+        {
+            "key": "086",
+            "value": "Espera. Hay algo que se llama «pasarse de la raya», y estaremos arriesgándonos demasiado contra tantos."
+        },
+        {
+            "key": "087",
+            "value": "Lo primero es lo primero. ¿Estás bien? Thranan se me almorzará y se me cenará también si dejo que te hagan daño."
+        },
+        {
+            "key": "088",
+            "value": "Estoy bien. Unos cuantos arañazos. ¿Pero no te parece raro que el monstruo nos haya dado la espalda?"
+        },
+        {
+            "key": "089",
+            "value": "He visto monstruos volverse locos por culpa del cristal núcleo, pero nunca he visto a ninguno reaccionar de esta forma."
+        },
+        {
+            "key": "090",
+            "value": "Partiendo de la base de que todos tus informes hasta ahora fueran correctos, cierto, esto es nuevo."
+        },
+        {
+            "key": "091",
+            "value": "Es muy raro que un bégimo se retire al verse arrinconado. No es típico de un monstruo."
+        },
+        {
+            "key": "092",
+            "value": "¡A lo mejor algo se ha colado en su mente y está obligando al bégimo a comportarse así!"
+        },
+        {
+            "key": "093",
+            "value": "Thranan ha dicho que tenía un mal presentimiento, ¿recuerdas? ¿Podría tratarse de esto?"
+        },
+        {
+            "key": "094",
+            "value": "Pensaba que era una broma... Pero bueno, supongo que no podemos descartar la posibilidad…"
+        },
+        {
+            "key": "095",
+            "value": "Con todo, no siento ningún otro poder en esta zona. Quizás nos hemos topado con el único bégimo inteligente de Leonis."
+        },
+        {
+            "key": "096",
+            "value": "En cualquier caso, tenemos que seguir al monstruo. Por suerte nos ha dejado unas huellas magníficas de regalo…"
+        },
+        {
+            "key": "097",
+            "value": "Y no vayas directo a por el grandote. Acaba con tantos monstruitos como puedas mientras lo perseguimos y así lo tendremos más fácil al final."
+        },
+        {
+            "key": "098",
+            "value": "Divide y vencerás, ¿no?"
+        }
+    ]
+}

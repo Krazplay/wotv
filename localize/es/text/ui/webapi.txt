@@ -1,0 +1,1760 @@
+﻿{
+    "infos": [
+        {
+            "key": "ERROR_CONNECT",
+            "value": "No se ha podido conectar con el servidor."
+        },
+        {
+            "key": "MAINTENANCE",
+            "value": "Estamos realizando labores de mantenimiento. <br>Puedes ver los detalles en Avisos."
+        },
+        {
+            "key": "ACCOUNT_BAN",
+            "value": "Cuenta suspendida."
+        },
+        {
+            "key": "VERSION_UPDATE",
+            "value": "Actualiza a la versión más reciente."
+        },
+        {
+            "key": "DLC_UPDATE",
+            "value": "Hay actualizaciones de contenido descargable disponibles."
+        },
+        {
+            "key": "SESSION_ERROR",
+            "value": "Sesión no válida."
+        },
+        {
+            "key": "INVALID_DEVICE",
+            "value": "No se ha detectado ninguna cuenta de juego. <br>La cuenta se restablecerá."
+        },
+        {
+            "key": "NOTICE",
+            "value": "Esta función se encuentra deshabilitada temporalmente. <br>Comprueba los Avisos para obtener más detalles."
+        },
+        {
+            "key": "TITLE_NOTICE",
+            "value": "Avisos"
+        },
+        {
+            "key": "OVER_DAY",
+            "value": "Ha comenzado un nuevo día."
+        },
+        {
+            "key": "TITLE_OVER_DAY",
+            "value": "Cambiar fecha"
+        },
+        {
+            "key": "CONNECT_DEVICE_DOES_NOT_EXIST",
+            "value": "No se ha detectado ninguna cuenta de juego."
+        },
+        {
+            "key": "HAS_ADD_DEVICE_CONNECT_NOT_FOUND",
+            "value": "No se han encontrado datos para la transferencia."
+        },
+        {
+            "key": "HAS_IDPW_USER_NOT_FOUND",
+            "value": "No se ha encontrado a ningún usuario para la transferencia de datos."
+        },
+        {
+            "key": "HAS_IDPW_INVALID_SCHEMA",
+            "value": "La contraseña de transferencia de datos es incorrecta."
+        },
+        {
+            "key": "HAS_IDPW_VERIFY_FAILES",
+            "value": "Error de confirmación de transferencia de datos."
+        },
+        {
+            "key": "HAS_BRIDGE_USER_NOT_FOUND",
+            "value": "No estás registrado en SQUARE ENIX BRIDGE."
+        },
+        {
+            "key": "HAS_BRIDGE_FAILES_TITLE",
+            "value": "Proceso interrumpido"
+        },
+        {
+            "key": "HAS_BRIDGE_FAILES",
+            "value": "Se ha interrumpido el proceso antes de completarse.<br>Si no es intencionado, probablemente haya sido por un error.<br>Para más información, puedes ponerte en contacto con nosotros a través de Ayuda en la pantalla de título."
+        },
+        {
+            "key": "APP_ERROR_UNKNOWN",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_10",
+            "value": "Ha ocurrido un error al realizar la compra.<br>Puede tardar algún tiempo en aparecer reflejada en el juego.<br><br>Reinicia la aplicación o el dispositivo<br>y compruébalo de nuevo."
+        },
+        {
+            "key": "APP_ERROR_501",
+            "value": "Monedas/medallas insuficientes."
+        },
+        {
+            "key": "APP_ERROR_502",
+            "value": "Objetos insuficientes."
+        },
+        {
+            "key": "APP_ERROR_503",
+            "value": "No puedes tener más guiles."
+        },
+        {
+            "key": "APP_ERROR_505",
+            "value": "Recompensa desconocida."
+        },
+        {
+            "key": "APP_ERROR_506",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_507",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_508",
+            "value": "Guiles insuficientes."
+        },
+        {
+            "key": "APP_ERROR_511",
+            "value": "Error de datos: problema(s) detectado(s) en datos."
+        },
+        {
+            "key": "APP_ERROR_1000",
+            "value": "La cuenta no existe."
+        },
+        {
+            "key": "APP_ERROR_1001",
+            "value": "No puedes recibir más energía."
+        },
+        {
+            "key": "APP_ERROR_1002",
+            "value": "No puedes restaurar más energía con visiores."
+        },
+        {
+            "key": "APP_ERROR_1003",
+            "value": "No puedes restaurar más energía con objetos."
+        },
+        {
+            "key": "APP_ERROR_1004",
+            "value": "No puedes restaurar más orbes de la Arena con visiores."
+        },
+        {
+            "key": "APP_ERROR_1005",
+            "value": "No puedes restaurar más orbes de la Arena con objetos."
+        },
+        {
+            "key": "APP_ERROR_1006",
+            "value": "Tendrás que esperar 10 días para volver a cambiar tu nombre de jugador. Esta regla no se aplica a los jugadores de rango vip 2 o superior."
+        },
+        {
+            "key": "APP_ERROR_1007",
+            "value": "Algunos de los detalles introducidos no pueden usarse."
+        },
+        {
+            "key": "APP_ERROR_1008",
+            "value": "Algunos de los detalles introducidos no pueden usarse."
+        },
+        {
+            "key": "APP_ERROR_1009",
+            "value": "Nombre no encontrado."
+        },
+        {
+            "key": "APP_ERROR_1010",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_1100",
+            "value": "Unidad desconocida."
+        },
+        {
+            "key": "APP_ERROR_1101",
+            "value": "Profesión desconocida."
+        },
+        {
+            "key": "APP_ERROR_1102",
+            "value": "Habilidad desconocida."
+        },
+        {
+            "key": "APP_ERROR_1103",
+            "value": "El nivel de la unidad es demasiado bajo."
+        },
+        {
+            "key": "APP_ERROR_1104",
+            "value": "La unidad no tiene suficientes PdP."
+        },
+        {
+            "key": "APP_ERROR_1105",
+            "value": "El nivel de profesión de la unidad es demasiado bajo."
+        },
+        {
+            "key": "APP_ERROR_1106",
+            "value": "El nivel de maestría de la unidad es demasiado bajo."
+        },
+        {
+            "key": "APP_ERROR_1107",
+            "value": "La unidad seleccionada no se puede entrenar."
+        },
+        {
+            "key": "APP_ERROR_1108",
+            "value": "La profesión no se puede seleccionar."
+        },
+        {
+            "key": "APP_ERROR_1109",
+            "value": "La unidad está despertada por completo."
+        },
+        {
+            "key": "APP_ERROR_1110",
+            "value": "La unidad ha alcanzado el máximo de rupturas de límite."
+        },
+        {
+            "key": "APP_ERROR_1111",
+            "value": "El nivel de profesión de la unidad está al máximo."
+        },
+        {
+            "key": "APP_ERROR_1112",
+            "value": "El nivel de despertar de la unidad no es suficiente para romper el límite."
+        },
+        {
+            "key": "APP_ERROR_1113",
+            "value": "La habilidad ha alcanzado su nivel máximo."
+        },
+        {
+            "key": "APP_ERROR_1114",
+            "value": "La habilidad seleccionada no puede usarse como habilidad de apoyo."
+        },
+        {
+            "key": "APP_ERROR_1115",
+            "value": "La habilidad seleccionada no puede usarse como habilidad de reacción."
+        },
+        {
+            "key": "APP_ERROR_1116",
+            "value": "La habilidad seleccionada no puede usarse."
+        },
+        {
+            "key": "APP_ERROR_1117",
+            "value": "La habilidad seleccionada está equipada en otro espacio."
+        },
+        {
+            "key": "APP_ERROR_1118",
+            "value": "La tabla de habilidades seleccionada ya está desbloqueada."
+        },
+        {
+            "key": "APP_ERROR_1119",
+            "value": "La unidad seleccionada no posee ninguna habilidad maestra."
+        },
+        {
+            "key": "APP_ERROR_1120",
+            "value": "La unidad seleccionada no posee ningún estallido límite."
+        },
+        {
+            "key": "APP_ERROR_1121",
+            "value": "El estallido límite de la unidad está al máximo."
+        },
+        {
+            "key": "APP_ERROR_1122",
+            "value": "La pieza de equipo seleccionada no se puede equipar."
+        },
+        {
+            "key": "APP_ERROR_1123",
+            "value": "La pieza de equipo seleccionada está equipada en otro espacio."
+        },
+        {
+            "key": "APP_ERROR_1124",
+            "value": "La pieza de equipo seleccionada no se puede equipar."
+        },
+        {
+            "key": "APP_ERROR_1125",
+            "value": "La pieza de equipo seleccionada no se puede equipar."
+        },
+        {
+            "key": "APP_ERROR_1126",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_1127",
+            "value": "Unidad no encontrada."
+        },
+        {
+            "key": "APP_ERROR_1133",
+            "value": "Fallo al cambiar la apariencia.<br>No se cumplen los requisitos para poder equipar."
+        },
+        {
+            "key": "APP_ERROR_1200",
+            "value": "Esper desconocido."
+        },
+        {
+            "key": "APP_ERROR_1201",
+            "value": "El nivel del esper es demasiado bajo."
+        },
+        {
+            "key": "APP_ERROR_1202",
+            "value": "El esper no tiene suficientes PH."
+        },
+        {
+            "key": "APP_ERROR_1203",
+            "value": "El esper está despertado por completo."
+        },
+        {
+            "key": "APP_ERROR_1204",
+            "value": "La tabla de habilidades seleccionada no puede desbloquearse."
+        },
+        {
+            "key": "APP_ERROR_1205",
+            "value": "La tabla de habilidades seleccionada ya está desbloqueada."
+        },
+        {
+            "key": "APP_ERROR_1300",
+            "value": "La pieza de equipo seleccionada no existe."
+        },
+        {
+            "key": "APP_ERROR_1301",
+            "value": "El equipo está despertado por completo."
+        },
+        {
+            "key": "APP_ERROR_1302",
+            "value": "El equipo ha alcanzado su nivel máximo."
+        },
+        {
+            "key": "APP_ERROR_1303",
+            "value": "El nivel del equipo es demasiado bajo."
+        },
+        {
+            "key": "APP_ERROR_1304",
+            "value": "Los espacios de equipo están al completo."
+        },
+        {
+            "key": "APP_ERROR_1305",
+            "value": "No se ha especificado el ID del equipo."
+        },
+        {
+            "key": "APP_ERROR_1306",
+            "value": "No se ha podido elaborar el equipo."
+        },
+        {
+            "key": "APP_ERROR_1307",
+            "value": "No se ha podido desmontar el equipo."
+        },
+        {
+            "key": "APP_ERROR_1308",
+            "value": "No se ha podido mejorar el equipo."
+        },
+        {
+            "key": "APP_ERROR_1309",
+            "value": "No se ha podido vender el equipo."
+        },
+        {
+            "key": "APP_ERROR_1310",
+            "value": "Se ha suspendido temporalmente la elaboración de este objeto."
+        },
+        {
+            "key": "APP_ERROR_1311",
+            "value": "Algunos de los objetos seleccionados no se pueden vender."
+        },
+        {
+            "key": "APP_ERROR_1400",
+            "value": "La carta de visión no existe."
+        },
+        {
+            "key": "APP_ERROR_1401",
+            "value": "La carta de visión está despertada por completo."
+        },
+        {
+            "key": "APP_ERROR_1402",
+            "value": "La carta de visión ha alcanzado su nivel máximo."
+        },
+        {
+            "key": "APP_ERROR_1403",
+            "value": "El nivel de la carta de visión es demasiado bajo."
+        },
+        {
+            "key": "APP_ERROR_1404",
+            "value": "Los espacios de carta de visión están al completo."
+        },
+        {
+            "key": "APP_ERROR_1405",
+            "value": "No se ha especificado el ID de la carta de visión."
+        },
+        {
+            "key": "APP_ERROR_1406",
+            "value": "No se ha podido mejorar la carta de visión."
+        },
+        {
+            "key": "APP_ERROR_1407",
+            "value": "No se ha podido vender la carta de visión."
+        },
+        {
+            "key": "APP_ERROR_1500",
+            "value": "Regalo no encontrado."
+        },
+        {
+            "key": "APP_ERROR_1501",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_1502",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_1503",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_1600",
+            "value": "Grupo no encontrado."
+        },
+        {
+            "key": "APP_ERROR_1601",
+            "value": "No se ha podido formar el grupo."
+        },
+        {
+            "key": "APP_ERROR_1602",
+            "value": "No se ha podido formar el grupo."
+        },
+        {
+            "key": "APP_ERROR_1603",
+            "value": "Algunos de los detalles introducidos no pueden usarse."
+        },
+        {
+            "key": "APP_ERROR_1700",
+            "value": "El amigo no existe."
+        },
+        {
+            "key": "APP_ERROR_1701",
+            "value": "Has superado el número máximo de amigos. No puedes enviar más solicitudes de amistad."
+        },
+        {
+            "key": "APP_ERROR_1702",
+            "value": "Has superado el número máximo de amigos. No puedes aceptar más solicitudes de amistad."
+        },
+        {
+            "key": "APP_ERROR_1703",
+            "value": "La solicitud de amistad no existe."
+        },
+        {
+            "key": "APP_ERROR_1704",
+            "value": "ID no especificado."
+        },
+        {
+            "key": "APP_ERROR_1705",
+            "value": "No se ha encontrado el jugador que has buscado."
+        },
+        {
+            "key": "APP_ERROR_1706",
+            "value": "El jugador que has buscado está asociado a esta cuenta."
+        },
+        {
+            "key": "APP_ERROR_1707",
+            "value": "Fallo al recibir el regalo de amigo."
+        },
+        {
+            "key": "APP_ERROR_1708",
+            "value": "El regalo de amigo deseado no existe."
+        },
+        {
+            "key": "APP_ERROR_1709",
+            "value": "No se ha podido enviar la solicitud de amistad."
+        },
+        {
+            "key": "APP_ERROR_1710",
+            "value": "Tienes bloqueado a este jugador."
+        },
+        {
+            "key": "APP_ERROR_1800",
+            "value": "La lista de jugadores bloqueados no existe."
+        },
+        {
+            "key": "APP_ERROR_1801",
+            "value": "Has alcanzado el número máximo de jugadores bloqueados. <br>No se pueden añadir más jugadores a la lista."
+        },
+        {
+            "key": "APP_ERROR_1802",
+            "value": "El jugador que has seleccionado está asociado a esta cuenta."
+        },
+        {
+            "key": "APP_ERROR_2000",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2001",
+            "value": "Has excedido el límite de coste."
+        },
+        {
+            "key": "APP_ERROR_2002",
+            "value": "La misión no está disponible."
+        },
+        {
+            "key": "APP_ERROR_2003",
+            "value": "No se ha podido empezar la misión. No está disponible."
+        },
+        {
+            "key": "APP_ERROR_2004",
+            "value": "No se ha podido empezar la misión. No reúnes los requisitos necesarios para llevarla a cabo."
+        },
+        {
+            "key": "APP_ERROR_2005",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2006",
+            "value": "Una unidad desconocida forma parte del grupo."
+        },
+        {
+            "key": "APP_ERROR_2007",
+            "value": "No se ha podido restaurar la partida al punto donde lo dejaste."
+        },
+        {
+            "key": "APP_ERROR_2008",
+            "value": "No se puede continuar."
+        },
+        {
+            "key": "APP_ERROR_2009",
+            "value": "Has alcanzado el límite de intentos por hoy."
+        },
+        {
+            "key": "APP_ERROR_2010",
+            "value": "No se cumplen los requisitos para formar grupo."
+        },
+        {
+            "key": "APP_ERROR_2011",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2012",
+            "value": "No se ha encontrado al compañero seleccionado."
+        },
+        {
+            "key": "APP_ERROR_2100",
+            "value": "Sala no encontrada."
+        },
+        {
+            "key": "APP_ERROR_2101",
+            "value": "No has entrado en la sala."
+        },
+        {
+            "key": "APP_ERROR_2102",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_2103",
+            "value": "El huésped no está listo aún."
+        },
+        {
+            "key": "APP_ERROR_2104",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2105",
+            "value": "Los miembros ya están listos."
+        },
+        {
+            "key": "APP_ERROR_2106",
+            "value": "No se puede volver a entrar. La batalla ya ha terminado."
+        },
+        {
+            "key": "APP_ERROR_2150",
+            "value": "No puede usarse un tícket de avance."
+        },
+        {
+            "key": "APP_ERROR_2151",
+            "value": "No puedes usar un tícket de avance porque no has completado todos los objetivos de misión."
+        },
+        {
+            "key": "APP_ERROR_2152",
+            "value": "Algunos de los detalles introducidos no pueden usarse."
+        },
+        {
+            "key": "APP_ERROR_2153",
+            "value": "Fallo al actualizar el compañero."
+        },
+        {
+            "key": "APP_ERROR_2161",
+            "value": "Se ha cerrado la misión."
+        },
+        {
+            "key": "APP_ERROR_2163",
+            "value": "Ha ocurrido un error durante el proceso de omisión.<br>Se mostrará el resultado inmediatamente anterior a que ocurriese el error.<br>Volviendo a la pantalla de título."
+        },
+        {
+            "key": "APP_ERROR_2200",
+            "value": "Asalto no encontrado."
+        },
+        {
+            "key": "APP_ERROR_2201",
+            "value": "El periodo de asalto ha finalizado."
+        },
+        {
+            "key": "APP_ERROR_2202",
+            "value": "El periodo para recibir la recompensa de asalto ha finalizado."
+        },
+        {
+            "key": "APP_ERROR_2203",
+            "value": "El periodo de clasificación de asalto ha finalizado."
+        },
+        {
+            "key": "APP_ERROR_2204",
+            "value": "Jefe de asalto no encontrado."
+        },
+        {
+            "key": "APP_ERROR_2205",
+            "value": "Jefe de asalto desconocido."
+        },
+        {
+            "key": "APP_ERROR_2206",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_2207",
+            "value": "El jefe de asalto ha escapado."
+        },
+        {
+            "key": "APP_ERROR_2208",
+            "value": "Sala desconocida."
+        },
+        {
+            "key": "APP_ERROR_2209",
+            "value": "No se ha encontrado al jefe de asalto."
+        },
+        {
+            "key": "APP_ERROR_2210",
+            "value": "Ya hay un jefe de asalto en combate."
+        },
+        {
+            "key": "APP_ERROR_2211",
+            "value": "Sala no encontrada."
+        },
+        {
+            "key": "APP_ERROR_2212",
+            "value": "El jefe de asalto ya ha sido derrotado."
+        },
+        {
+            "key": "APP_ERROR_2213",
+            "value": "No puedes desafiar al jefe porque no eres el líder de asalto."
+        },
+        {
+            "key": "APP_ERROR_2214",
+            "value": "No se ha podido desafiar al jefe de asalto."
+        },
+        {
+            "key": "APP_ERROR_2215",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2216",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2217",
+            "value": "Has alcanzado el límite de veces que puedes desafiar al jefe."
+        },
+        {
+            "key": "APP_ERROR_2218",
+            "value": "No hay miembros en la sala."
+        },
+        {
+            "key": "APP_ERROR_2219",
+            "value": "Misión de asalto no encontrada."
+        },
+        {
+            "key": "APP_ERROR_2220",
+            "value": "Misión de asalto desconocida."
+        },
+        {
+            "key": "APP_ERROR_2221",
+            "value": "No se puede empezar porque ya hay una misión de asalto en curso."
+        },
+        {
+            "key": "APP_ERROR_2222",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2223",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2224",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2225",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2226",
+            "value": "No puedes restaurar más orbes de asalto con visiores."
+        },
+        {
+            "key": "APP_ERROR_2227",
+            "value": "No puedes restaurar más orbes de asalto."
+        },
+        {
+            "key": "APP_ERROR_2228",
+            "value": "No puedes restaurar orbes de asalto con este objeto."
+        },
+        {
+            "key": "APP_ERROR_2229",
+            "value": "No puedes restaurar más orbes de asalto con objetos."
+        },
+        {
+            "key": "APP_ERROR_2230",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2231",
+            "value": "Ya hay un contendiente para este encuentro."
+        },
+        {
+            "key": "APP_ERROR_2232",
+            "value": "No se han podido recibir las recompensas de asalto."
+        },
+        {
+            "key": "APP_ERROR_2233",
+            "value": "El jefe de asalto no ha sido derrotado."
+        },
+        {
+            "key": "APP_ERROR_2234",
+            "value": "No se ha podido pedir refuerzos."
+        },
+        {
+            "key": "APP_ERROR_2235",
+            "value": "No puedes entrar en la sala porque sus miembros ya han salido a la batalla."
+        },
+        {
+            "key": "APP_ERROR_2236",
+            "value": "Se ha alcanzado el límite de misiones de asalto que pueden realizarse a la vez."
+        },
+        {
+            "key": "APP_ERROR_2237",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_2238",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2239",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2240",
+            "value": "Has alcanzado el límite de veces que puedes ser líder de asalto."
+        },
+        {
+            "key": "APP_ERROR_2241",
+            "value": "Algunos de los detalles introducidos no pueden usarse."
+        },
+        {
+            "key": "APP_ERROR_2243",
+            "value": "No se puede volver a entrar. La batalla ya ha terminado."
+        },
+        {
+            "key": "APP_ERROR_2300",
+            "value": "Tienda no encontrada. No está abierta en estos momentos."
+        },
+        {
+            "key": "APP_ERROR_2301",
+            "value": "Tienda fugaz no encontrada.<br>No está abierta en estos momentos."
+        },
+        {
+            "key": "APP_ERROR_2302",
+            "value": "Se ha excedido el número total de compras posibles."
+        },
+        {
+            "key": "APP_ERROR_2303",
+            "value": "Has intentado comprar un objeto desconocido."
+        },
+        {
+            "key": "APP_ERROR_2304",
+            "value": "Se ha excedido el número total de compras posibles."
+        },
+        {
+            "key": "APP_ERROR_2305",
+            "value": "Se ha excedido el número total de compras posibles."
+        },
+        {
+            "key": "APP_ERROR_2306",
+            "value": "El producto no está a la venta."
+        },
+        {
+            "key": "APP_ERROR_2307",
+            "value": "Se ha actualizado la tienda."
+        },
+        {
+            "key": "APP_ERROR_2308",
+            "value": "Tienda no encontrada."
+        },
+        {
+            "key": "APP_ERROR_2309",
+            "value": "Error de tienda. (No se ha podido recuperar la información del sorteo.)"
+        },
+        {
+            "key": "APP_ERROR_2310",
+            "value": "Se ha seleccionado un tipo de pago no válido."
+        },
+        {
+            "key": "APP_ERROR_2311",
+            "value": "Error de tienda. (No se ha podido recuperar la información del sorteo.)"
+        },
+        {
+            "key": "APP_ERROR_2312",
+            "value": "Error de tienda. (No se ha podido recuperar la información del sorteo.)"
+        },
+        {
+            "key": "APP_ERROR_2313",
+            "value": "Error de tienda. (No se ha podido recuperar la información del sorteo.)"
+        },
+        {
+            "key": "APP_ERROR_2314",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2324",
+            "value": "No se ha podido comprar (intercambiar)."
+        },
+        {
+            "key": "APP_ERROR_2327",
+            "value": "No se puede comprar la cantidad porque excede el límite adquirible (intercambiable) en una transacción."
+        },
+        {
+            "key": "APP_ERROR_2328",
+            "value": "Se ha actualizado la lista de la tienda."
+        },
+        {
+            "key": "APP_ERROR_2400",
+            "value": "No se ha podido recuperar la invocación."
+        },
+        {
+            "key": "APP_ERROR_2401",
+            "value": "No se ha podido recuperar la invocación."
+        },
+        {
+            "key": "APP_ERROR_2402",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2403",
+            "value": ""
+        },
+        {
+            "key": "APP_ERROR_2404",
+            "value": "Has alcanzado el límite de invocaciones."
+        },
+        {
+            "key": "APP_ERROR_2405",
+            "value": "Has alcanzado el límite de invocaciones."
+        },
+        {
+            "key": "APP_ERROR_2406",
+            "value": "No se puede realizar la invocación. No tienes visiores o tíckets suficientes."
+        },
+        {
+            "key": "APP_ERROR_2407",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2408",
+            "value": "El periodo de invocación ha finalizado."
+        },
+        {
+            "key": "APP_ERROR_2409",
+            "value": "Error de invocación. (Ya se ha invocado.)"
+        },
+        {
+            "key": "APP_ERROR_2410",
+            "value": "Error de invocación. (Intentando invocar de nuevo.)"
+        },
+        {
+            "key": "APP_ERROR_2411",
+            "value": "Has alcanzado el límite de reintentos de invocación."
+        },
+        {
+            "key": "APP_ERROR_2412",
+            "value": "Invocación desconocida."
+        },
+        {
+            "key": "APP_ERROR_2413",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2414",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2415",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2416",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2417",
+            "value": "No se ha podido recuperar la invocación."
+        },
+        {
+            "key": "APP_ERROR_2418",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2419",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2420",
+            "value": "Error de invocación. (No se ha podido recuperar la información del sorteo.)"
+        },
+        {
+            "key": "APP_ERROR_2421",
+            "value": "Error de invocación."
+        },
+        {
+            "key": "APP_ERROR_2422",
+            "value": "Error de invocación."
+        },
+        {
+            "key": "APP_ERROR_2423",
+            "value": "Error de invocación."
+        },
+        {
+            "key": "APP_ERROR_2424",
+            "value": "Error de invocación."
+        },
+        {
+            "key": "APP_ERROR_2427",
+            "value": "No se puede reclamar porque ha expirado el periodo de vuelta."
+        },
+        {
+            "key": "APP_ERROR_2501",
+            "value": "Desafío no disponible en este momento."
+        },
+        {
+            "key": "APP_ERROR_2531",
+            "value": "Tarea no disponible en este momento."
+        },
+        {
+            "key": "APP_ERROR_2560",
+            "value": "No se reúnen los requisitos para desbloquear."
+        },
+        {
+            "key": "APP_ERROR_2600",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2601",
+            "value": "Visiores insuficientes."
+        },
+        {
+            "key": "APP_ERROR_2602",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2603",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2604",
+            "value": "Has intentado partir hacia una zona desconocida."
+        },
+        {
+            "key": "APP_ERROR_2605",
+            "value": "No se pueden realizar expediciones instantáneas con este objeto."
+        },
+        {
+            "key": "APP_ERROR_2606",
+            "value": "Se ha alcanzado el límite de expediciones instantáneas por hoy."
+        },
+        {
+            "key": "APP_ERROR_2607",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2608",
+            "value": "No se puede recuperar el objeto."
+        },
+        {
+            "key": "APP_ERROR_2609",
+            "value": "Unidad desconocida."
+        },
+        {
+            "key": "APP_ERROR_2700",
+            "value": "Espera un poco antes de escribir."
+        },
+        {
+            "key": "APP_ERROR_2701",
+            "value": "Canal no encontrado."
+        },
+        {
+            "key": "APP_ERROR_2702",
+            "value": "Sello desconocido."
+        },
+        {
+            "key": "APP_ERROR_2703",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_2704",
+            "value": "Esta cuenta ha violado los Términos de uso y su función de mensajes ha sido deshabilitada."
+        },
+        {
+            "key": "APP_ERROR_2800",
+            "value": "Fecha desconocida."
+        },
+        {
+            "key": "APP_ERROR_2900",
+            "value": "El periodo de celebración es diferente."
+        },
+        {
+            "key": "APP_ERROR_2901",
+            "value": "Grupo no establecido."
+        },
+        {
+            "key": "APP_ERROR_2902",
+            "value": "Grupo no autorizado."
+        },
+        {
+            "key": "APP_ERROR_2903",
+            "value": "Resultados de batalla incorrectos."
+        },
+        {
+            "key": "APP_ERROR_3000",
+            "value": "El jugador pertenece ya a un gremio."
+        },
+        {
+            "key": "APP_ERROR_3001",
+            "value": "Gremio no encontrado."
+        },
+        {
+            "key": "APP_ERROR_3002",
+            "value": "No perteneces a un gremio."
+        },
+        {
+            "key": "APP_ERROR_3003",
+            "value": "Algunos de los detalles introducidos no pueden usarse."
+        },
+        {
+            "key": "APP_ERROR_3004",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3005",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3006",
+            "value": "Emblema desconocido."
+        },
+        {
+            "key": "APP_ERROR_3007",
+            "value": "Una vez abandones el gremio, deberás esperar un tiempo<br>para poder unirte de nuevo.<br><br>El tiempo de espera para poder<br>unirte otra vez es de 24 horas."
+        },
+        {
+            "key": "APP_ERROR_3008",
+            "value": "Se ha alcanzado el límite de miembros del gremio."
+        },
+        {
+            "key": "APP_ERROR_3009",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3010",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3011",
+            "value": "El líder del gremio no puede abandonarlo. Debes designar a otro jugador como líder antes de dejar el gremio."
+        },
+        {
+            "key": "APP_ERROR_3012",
+            "value": "Ya has asistido."
+        },
+        {
+            "key": "APP_ERROR_3013",
+            "value": "La función de asistencia no se ha desbloqueado aún."
+        },
+        {
+            "key": "APP_ERROR_3014",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3015",
+            "value": "Se ha alcanzado el número máximo de sublíderes de gremio."
+        },
+        {
+            "key": "APP_ERROR_3016",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3017",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3018",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3019",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3020",
+            "value": "Solicitud de entrada enviada a este gremio."
+        },
+        {
+            "key": "APP_ERROR_3021",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3022",
+            "value": "Solicitud de entrada al gremio no encontrada."
+        },
+        {
+            "key": "APP_ERROR_3023",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3025",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3026",
+            "value": "Recibido."
+        },
+        {
+            "key": "APP_ERROR_3027",
+            "value": "Recibido."
+        },
+        {
+            "key": "APP_ERROR_3028",
+            "value": "El regalo ha expirado."
+        },
+        {
+            "key": "APP_ERROR_3029",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3030",
+            "value": "No se ha desbloqueado aún."
+        },
+        {
+            "key": "APP_ERROR_3031",
+            "value": "No puede mejorarse más porque ya se ha alcanzado el nivel máximo."
+        },
+        {
+            "key": "APP_ERROR_3032",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3033",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3034",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3035",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3036",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3037",
+            "value": "Algunos de los detalles introducidos no pueden usarse."
+        },
+        {
+            "key": "APP_ERROR_3038",
+            "value": "Algunos de los detalles introducidos no pueden usarse."
+        },
+        {
+            "key": "APP_ERROR_3039",
+            "value": "No se reúnen los requisitos de entrada."
+        },
+        {
+            "key": "APP_ERROR_3040",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3041",
+            "value": "No tienes autorización."
+        },
+        {
+            "key": "APP_ERROR_3042",
+            "value": "El nombre del gremio es demasiado largo."
+        },
+        {
+            "key": "APP_ERROR_3043",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3044",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3045",
+            "value": "No se reúnen los requisitos para desbloquear el gremio."
+        },
+        {
+            "key": "APP_ERROR_3046",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3047",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3048",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3049",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3050",
+            "value": "Ya te has actualizado a este emblema."
+        },
+        {
+            "key": "APP_ERROR_3051",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3059",
+            "value": "Fuera del periodo de adquisición."
+        },
+        {
+            "key": "APP_ERROR_3060",
+            "value": "No se ha podido iniciar la prueba de gremio."
+        },
+        {
+            "key": "APP_ERROR_3061",
+            "value": "No se ha podido iniciar la prueba de gremio."
+        },
+        {
+            "key": "APP_ERROR_3062",
+            "value": "No se ha podido iniciar la prueba de gremio."
+        },
+        {
+            "key": "APP_ERROR_3063",
+            "value": "No se ha podido iniciar la prueba de gremio."
+        },
+        {
+            "key": "APP_ERROR_3064",
+            "value": "El jugador no es un principiante y no se le puede ascender a miembro."
+        },
+        {
+            "key": "APP_ERROR_3065",
+            "value": "Se ha alcanzado el límite de uso."
+        },
+        {
+            "key": "APP_ERROR_3100",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3101",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3102",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3103",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3104",
+            "value": "La información del oponente se ha actualizado. No se ha podido empezar el combate."
+        },
+        {
+            "key": "APP_ERROR_3105",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3106",
+            "value": "No puedes abandonar un gremio<br>durante un combate de gremio."
+        },
+        {
+            "key": "APP_ERROR_3107",
+            "value": "La información de los miembros del gremio se ha actualizado. Regresando a la pantalla de título para recuperar los datos."
+        },
+        {
+            "key": "APP_ERROR_3108",
+            "value": "Tiempo de batalla excedido."
+        },
+        {
+            "key": "APP_ERROR_3109",
+            "value": "Combates de gremio limitados en curso."
+        },
+        {
+            "key": "APP_ERROR_3200",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3201",
+            "value": "No se puede comprar."
+        },
+        {
+            "key": "APP_ERROR_3202",
+            "value": "No se puede comprar."
+        },
+        {
+            "key": "APP_ERROR_3203",
+            "value": "Adquirido."
+        },
+        {
+            "key": "APP_ERROR_3204",
+            "value": "Visiores insuficientes."
+        },
+        {
+            "key": "APP_ERROR_3205",
+            "value": "No se puede comprar."
+        },
+        {
+            "key": "APP_ERROR_3300",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3301",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3302",
+            "value": "El periodo de evento no está activo."
+        },
+        {
+            "key": "APP_ERROR_3303",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3304",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3305",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3306",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3307",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3308",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3309",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3310",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3311",
+            "value": "Error desconocido."
+        },
+        {
+            "key": "APP_ERROR_3312",
+            "value": "Periodo de batalla excedido."
+        },
+        {
+            "key": "APP_ERROR_3400",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3401",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3402",
+            "value": "El periodo de evento no está activo."
+        },
+        {
+            "key": "APP_ERROR_3403",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3404",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3405",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3406",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3407",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3408",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3409",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3410",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3411",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3412",
+            "value": "Periodo de batalla excedido."
+        },
+        {
+            "key": "APP_ERROR_3500",
+            "value": "No se ha podido comenzar el duelo."
+        },
+        {
+            "key": "APP_ERROR_3501",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3502",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3503",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3504",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3600",
+            "value": "Tutorial no encontrado."
+        },
+        {
+            "key": "APP_ERROR_3601",
+            "value": "No se ha podido empezar el tutorial."
+        },
+        {
+            "key": "APP_ERROR_3602",
+            "value": "El tutorial ya ha terminado."
+        },
+        {
+            "key": "APP_ERROR_3700",
+            "value": "Error no identificado."
+        },
+        {
+            "key": "APP_ERROR_3701",
+            "value": "Bloqueado."
+        },
+        {
+            "key": "APP_ERROR_3800",
+            "value": "No tienes el rango suficiente para enviar códigos de invitación."
+        },
+        {
+            "key": "APP_ERROR_3801",
+            "value": "No tienes el rango suficiente para registrar códigos de invitación."
+        },
+        {
+            "key": "APP_ERROR_3802",
+            "value": "El jugador ha alcanzado el número máximo de invitaciones que puede enviar."
+        },
+        {
+            "key": "APP_ERROR_3803",
+            "value": "El código de invitación introducido es incorrecto."
+        },
+        {
+            "key": "APP_ERROR_3804",
+            "value": "Ya se ha registrado otro código de invitación."
+        },
+        {
+            "key": "APP_ERROR_4027",
+            "value": "Las fidelicitas que estén equipadas en favoritos no se pueden usar como materiales de mejora."
+        },
+        {
+            "key": "APP_ERROR_4028",
+            "value": "Las fidelicitas que estén equipadas no se pueden usar como materiales de mejora."
+        },
+        {
+            "key": "APP_ERROR_4102",
+            "value": "Tasa de intercambio no disponible en este momento."
+        },
+        {
+            "key": "APP_ERROR_4106",
+            "value": "Fuera del periodo de campaña."
+        },
+        {
+            "key": "APP_ERROR_5101",
+            "value": "No se puede iniciar el combate."
+        },
+        {
+            "key": "APP_ERROR_5102",
+            "value": "No se puede iniciar el combate."
+        },
+        {
+            "key": "APP_ERROR_5103",
+            "value": "Has excedido el límite de coste de la formación de grupo."
+        },
+        {
+            "key": "APP_ERROR_5104",
+            "value": "Has excedido el límite de miembros de la formación de grupo."
+        },
+        {
+            "key": "APP_ERROR_5105",
+            "value": "No puede retarse."
+        },
+        {
+            "key": "APP_ERROR_5106",
+            "value": "Hay unidades KO en tu grupo."
+        },
+        {
+            "key": "APP_ERROR_5107",
+            "value": "No se puede reiniciar el combate."
+        },
+        {
+            "key": "APP_ERROR_5108",
+            "value": "No se puede restaurar."
+        },
+        {
+            "key": "APP_ERROR_5109",
+            "value": "No se puede reintentar desde el principio."
+        },
+        {
+            "key": "APP_ERROR_5110",
+            "value": "No se puede continuar."
+        },
+        {
+            "key": "APP_ERROR_5111",
+            "value": "El periodo de evento no está activo."
+        },
+        {
+            "key": "APP_ERROR_5112",
+            "value": "No se cumplen los requisitos para formar grupo."
+        },
+        {
+            "key": "APP_ERROR_5201",
+            "value": "El código no existe."
+        },
+        {
+            "key": "APP_ERROR_5202",
+            "value": "Fuera del periodo de campaña."
+        },
+        {
+            "key": "APP_ERROR_5203",
+            "value": "Se ha sobrepasado el límite permitido de la campaña."
+        },
+        {
+            "key": "APP_ERROR_5204",
+            "value": "Código de serie ya usado."
+        },
+        {
+            "key": "APP_ERROR_5205",
+            "value": "Plataforma no válida."
+        },
+        {
+            "key": "APP_ERROR_5300",
+            "value": "Grupo objetivo no autorizado."
+        },
+        {
+            "key": "APP_ERROR_5301",
+            "value": "Turnos insuficientes."
+        },
+        {
+            "key": "APP_ERROR_5302",
+            "value": "El grupo ha cambiado.<br>Actualiza e inténtalo otra vez."
+        },
+        {
+            "key": "APP_ERROR_5303",
+            "value": "Tiempo de batalla excedido."
+        },
+        {
+            "key": "APP_ERROR_5304",
+            "value": "Los combates de gremio limitados han finalizado."
+        },
+        {
+            "key": "APP_ERROR_5305",
+            "value": "Grupo objetivo ya establecido."
+        },
+        {
+            "key": "APP_ERROR_5306",
+            "value": "El n.º de acciones del grupo objetivo está al máximo."
+        },
+        {
+            "key": "APP_ERROR_5307",
+            "value": "El n.º de usos de habilidades del grupo objetivo está al máximo."
+        },
+        {
+            "key": "ALREADY_CONNECTED",
+            "value": "La cuenta en esta plataforma social ya está vinculada a la cuenta de otro jugador."
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "Has alcanzado el límite de cuentas SNS"
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "Has alcanzado el límite de cuentas SNS a las que puedes conectarte"
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "Has alcanzado el límite de cuentas SNS"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_TITLE",
+            "value": "Expulsión temporal"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_TITLE",
+            "value": "Expulsión permanente"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_MESSAGE",
+            "value": "Se ha suspendido tu cuenta hasta el {0} (PST).<br><br>Para más información, ponte en contacto con atención al cliente a través de [Ayuda] > [Consultas] en la pantalla de título."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE",
+            "value": "Se ha suspendido tu cuenta.<br><br>Para más información, ponte en contacto con atención al cliente a través de [Ayuda] > [Consultas] en la pantalla de título."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TITLE",
+            "value": "Cuenta suspendida"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_MSG_SUPPORT",
+            "value": "Para más información, ponte en contacto con atención al cliente a través de [Ayuda] > [Consultas] en la pantalla de título."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_DEFAULT",
+            "value": "Se ha suspendido tu cuenta."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERIOD",
+            "value": "Queda(n) {0} día(s) (Hasta el: {1}, hora mundial (PST))"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE_2",
+            "value": "Duración: Permanente"
+        },
+        {
+            "key": "APP_ERROR_5308",
+            "value": "Has excedido el máximo de apoyos aplicables."
+        },
+        {
+            "key": "APP_ERROR_5309",
+            "value": "No se puede volver a aplicar esta ayuda al mismo grupo."
+        },
+        {
+            "key": "APP_ERROR_5310",
+            "value": "Fuera del periodo de formación de combate de gremio limitado."
+        },
+        {
+            "key": "APP_ERROR_5600",
+            "value": "Error: fuera del periodo de evento"
+        },
+        {
+            "key": "APP_ERROR_5601",
+            "value": "Error: fuera del periodo de asalto de gremio"
+        },
+        {
+            "key": "APP_ERROR_5602",
+            "value": "Error: fuera del periodo de combate"
+        },
+        {
+            "key": "APP_ERROR_5603",
+            "value": "Error: fuera del periodo de combate de prueba"
+        },
+        {
+            "key": "APP_ERROR_5604",
+            "value": "Se ha librado una batalla que excedió el número de acciones"
+        },
+        {
+            "key": "APP_ERROR_5605",
+            "value": "El jefe ya ha sido derrotado"
+        },
+        {
+            "key": "APP_ERROR_5606",
+            "value": "No se puede continuar con normalidad con la misión interrumpida (se conservan los datos de misión interrumpida excepto los del asalto de gremio)"
+        },
+        {
+            "key": "APP_ERROR_5607",
+            "value": "No se ha desbloqueado la batalla de jefe"
+        },
+        {
+            "key": "APP_ERROR_5608",
+            "value": "Datos de misión interrumpida defectuosos "
+        },
+        {
+            "key": "APP_ERROR_5609",
+            "value": "No se pueden usar más orbes (orbes insuficientes)"
+        },
+        {
+            "key": "APP_ERROR_5700",
+            "value": "No se pueden usar algunos de los detalles introducidos."
+        },
+        {
+            "key": "APP_ERROR_5703",
+            "value": "Ya se ha enviado una solicitud de reclutamiento."
+        },
+        {
+            "key": "APP_ERROR_5704",
+            "value": "Se ha alcanzado el máximo de miembros del gremio. No se puede reclutar."
+        },
+        {
+            "key": "APP_ERROR_5705",
+            "value": "Ya pertenece a un gremio. No se puede reclutar."
+        },
+        {
+            "key": "APP_ERROR_5800",
+            "value": "Grupo objetivo no autorizado."
+        },
+        {
+            "key": "APP_ERROR_5801",
+            "value": "N.º de acciones insuficiente."
+        },
+        {
+            "key": "APP_ERROR_5802",
+            "value": "El grupo ha cambiado.<br>Actualiza e inténtalo de nuevo."
+        },
+        {
+            "key": "APP_ERROR_5803",
+            "value": "Tiempo de batalla excedido."
+        },
+        {
+            "key": "APP_ERROR_5804",
+            "value": "La supremacía de combates de gremio ha finalizado."
+        },
+        {
+            "key": "APP_ERROR_5805",
+            "value": "Grupo objetivo ya se ha desvelado."
+        },
+        {
+            "key": "APP_ERROR_5806",
+            "value": "El n.º de acciones del grupo objetivo está al máximo."
+        },
+        {
+            "key": "APP_ERROR_5807",
+            "value": "El n.º de usos de habilidades del grupo objetivo está al máximo."
+        },
+        {
+            "key": "APP_ERROR_5808",
+            "value": "Has excedido el máximo de ayudas aplicables."
+        },
+        {
+            "key": "APP_ERROR_5809",
+            "value": "No se puede volver a aplicar esta ayuda al mismo grupo."
+        },
+        {
+            "key": "APP_ERROR_5810",
+            "value": "Fuera del periodo de formación de supremacía de combates de gremio."
+        },
+        {
+            "key": "APP_ERROR_6002",
+            "value": "No se puede realizar la invocación debido a que su periodo ha finalizado, o debido a otras razones."
+        }
+    ]
+}

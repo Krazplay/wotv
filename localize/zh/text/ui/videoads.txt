@@ -1,0 +1,160 @@
+﻿{
+    "infos": [
+        {
+            "key": "VIDEOADS",
+            "value": "廣告影片"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_DESC",
+            "value": "觀看1則廣告影片來恢復{0}體力"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_CONFIRM_TITLE",
+            "value": "確定"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_CONFIRM_DESC",
+            "value": "將播放廣告影片"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_RESULT_TITLE",
+            "value": "結果"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_RESULT_DESC",
+            "value": "成功！<br>體力已恢復"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_ERROR_TITLE",
+            "value": "錯誤"
+        },
+        {
+            "key": "AP_HEAL_VIDEO_ERROR_DESC",
+            "value": "恢復體力失敗"
+        },
+        {
+            "key": "GACHA_WATCH_VIDEO",
+            "value": "觀看影片"
+        },
+        {
+            "key": "GACHA_FREE_AMOUNT_TITLE",
+            "value": "免費機會："
+        },
+        {
+            "key": "OFFERWALL",
+            "value": "選擇型廣告"
+        },
+        {
+            "key": "GACHA_WATCH_VIDEO_TITLE",
+            "value": "召喚"
+        },
+        {
+            "key": "GLOBAL_MAIN_VIDEOADS",
+            "value": "召喚幻導石"
+        },
+        {
+            "key": "GLOBAL_MAIN_VIDEOADS_APPEAL",
+            "value": "免費"
+        },
+        {
+            "key": "IT_LP_WW_01",
+            "value": "幻導石"
+        },
+        {
+            "key": "IT_GIL_WW_01",
+            "value": "金幣"
+        },
+        {
+            "key": "GACHA_NO_VIDEO_AVAILABLE_TITLE",
+            "value": "影片尚未準備好"
+        },
+        {
+            "key": "GACHA_NO_VIDEO_AVAILABLE_DESC",
+            "value": "影片尚未準備好，請再試一次。"
+        },
+        {
+            "key": "GACHA_CHECK_TICKET_TITLE",
+            "value": "觀看影片進行召喚"
+        },
+        {
+            "key": "GACHA_CHECK_VIDEOADS_DESC",
+            "value": "要花費廣告影片次數進行召喚嗎？"
+        },
+        {
+            "key": "GACHA_VIDEOADS_DISCLAIMER",
+            "value": "報酬將於24小時內寄送至您的禮物箱中。"
+        },
+        {
+            "key": "BUY_LAPIS_OFFERWALL_REALMONEY",
+            "value": "免費"
+        },
+        {
+            "key": "BUY_LAPIS_OFFERWALL_DESC",
+            "value": "幻導石"
+        },
+        {
+            "key": "BATTLE_RESULT_TITLE",
+            "value": "廣告影片恢復體力"
+        },
+        {
+            "key": "BATTLE_RESULT_DESC",
+            "value": "<color=#792E2E>體力</color>低"
+        },
+        {
+            "key": "GACHA_VIDEO_RESETS_IN",
+            "value": "重置倒數<size=1.2em><color=#F0C040>{0}:{1}:{2}</color></size>"
+        },
+        {
+            "key": "VideoGacha_Normal",
+            "value": "影片召喚"
+        },
+        {
+            "key": "VideoGacha_Normal_20210421",
+            "value": "影片召喚"
+        },
+        {
+            "key": "VideoGacha_Normal_20210922",
+            "value": "影片召喚"
+        },
+        {
+            "key": "VideoGacha_Normal_20211020",
+            "value": "影片召喚"
+        },
+        {
+            "key": "VideoGacha_Normal_20220323",
+            "value": "影片召喚"
+        },
+        {
+            "key": "CONTINUE",
+            "value": "繼續"
+        },
+        {
+            "key": "CANCEL",
+            "value": "取消"
+        },
+        {
+            "key": "GACHA_VIDEO_REACHED_LIMIT_TITLE",
+            "value": "已達到影片廣告可觀看次數上限"
+        },
+        {
+            "key": "GACHA_VIDEO_REACHED_LIMIT_DESC",
+            "value": "您已達到影片廣告可觀看次數上限。請稍後再試。"
+        },
+        {
+            "key": "GACHA_ON_CANCEL_TITLE",
+            "value": "錯誤"
+        },
+        {
+            "key": "GACHA_ON_CANCEL_DESC",
+            "value": "您已取消影片召喚。"
+        },
+        {
+            "key": "OFFERWALL_BONUS_MULTIPLIER_DESC",
+            "value": "獎勵"
+        },
+        {
+            "key": "OFFERWALL_BONUS_MULTIPLIER",
+            "value": "{0}x"
+        }
+    ]
+}

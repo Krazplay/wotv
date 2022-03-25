@@ -1,0 +1,104 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Y aquí estamos, en el interior del castillo de Lykeros."
+        },
+        {
+            "key": "002",
+            "value": "Nunca hubiese imaginado que fuese tan fácil colarse..."
+        },
+        {
+            "key": "003",
+            "value": "De verdad que eres increíble."
+        },
+        {
+            "key": "004",
+            "value": "¡Howletito es el mejor!"
+        },
+        {
+            "key": "005",
+            "value": "Ja, ja, ja, ja. No puedes esperar menos de un caballero como yo."
+        },
+        {
+            "key": "006",
+            "value": "Desde luego confianza en ti mismo no te falta..."
+        },
+        {
+            "key": "007",
+            "value": "Oye, Tai. Tú no querías venir, ¿no?"
+        },
+        {
+            "key": "008",
+            "value": "¿Cómo es que has acabado viniendo?"
+        },
+        {
+            "key": "009",
+            "value": "Cá-cállate. ¡He venido porque me preocupo por vosotros!"
+        },
+        {
+            "key": "010",
+            "value": "¡¿Estáis tan ciegos que no lo veis?!"
+        },
+        {
+            "key": "011",
+            "value": "¡Ugh...! ¡Qué malo!"
+        },
+        {
+            "key": "012",
+            "value": "¡B-baja la voz! ¡Van a darse cuenta de que estamos aquí!"
+        },
+        {
+            "key": "013",
+            "value": "Buaaa..."
+        },
+        {
+            "key": "014",
+            "value": "Lo siento... Me he pasado, Chel..."
+        },
+        {
+            "key": "015",
+            "value": "¡Perdonado!"
+        },
+        {
+            "key": "016",
+            "value": "Bien, ahora que habéis hasta hecho las paces... ¿Podemos seguir?"
+        },
+        {
+            "key": "017",
+            "value": "¡Sí, vamos!"
+        },
+        {
+            "key": "018",
+            "value": "Pero, hermano... no tenemos ni idea de dónde tienen retenida a Luarta, ¿me equivoco?"
+        },
+        {
+            "key": "019",
+            "value": "No lo sabes, ¿no?"
+        },
+        {
+            "key": "020",
+            "value": "Eh..., ¿tú lo sabes?"
+        },
+        {
+            "key": "021",
+            "value": "Es por aquí."
+        },
+        {
+            "key": "022",
+            "value": "¿Cómo lo sabes?..."
+        },
+        {
+            "key": "023",
+            "value": "Es un castillo, y todo castillo tiene una mazmorra."
+        },
+        {
+            "key": "024",
+            "value": "Y si tienen a una princesa secuestrada, tiene que ser ahí."
+        },
+        {
+            "key": "025",
+            "value": "Tiene que estar de broma..."
+        }
+    ]
+}

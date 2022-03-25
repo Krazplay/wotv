@@ -1,0 +1,216 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Al-alteza, durante la batalla contra Fennes, el ejército de Hourne…"
+        },
+        {
+            "key": "002",
+            "value": "Creo que la idea de padre es acabar con Muraga antes de que lleguen los refuerzos de Hourne."
+        },
+        {
+            "key": "003",
+            "value": "Pero si seguimos a este ritmo, la batalla contra sus fuerzas aliadas será inevitable…"
+        },
+        {
+            "key": "004",
+            "value": "Un momento, Stern. Si resolviéramos todo este malentendido con Hourne, quizá podríamos evitar el enfrentamiento."
+        },
+        {
+            "key": "005",
+            "value": "La princesa de Hourne sobrevivió a su encuentro con los bandidos gracias a la ayuda de Leonis. Están en deuda con nosotros."
+        },
+        {
+            "key": "006",
+            "value": "Además, nuestra relación con Hourne nunca ha sido hostil."
+        },
+        {
+            "key": "007",
+            "value": "Puede que, si se enteran de la verdad, retiren sus tropas. Al menos, de momento…"
+        },
+        {
+            "key": "008",
+            "value": "¿De momento?"
+        },
+        {
+            "key": "009",
+            "value": "Sí. Esa podría ser la solución al problema, pero solo de forma temporal."
+        },
+        {
+            "key": "010",
+            "value": "¡Ja, ja, ja! ¡Qué muchacho más avispado!"
+        },
+        {
+            "key": "011",
+            "value": "Owe, ¿qué piensas?"
+        },
+        {
+            "key": "012",
+            "value": "El rey Rob tiene pinta de ser un general con cabeza y con gran respeto por la justicia."
+        },
+        {
+            "key": "013",
+            "value": "Deberían de frenar su ofensiva, aunque fuera por el momento. Pero si Fennes atacase a Leonis de nuevo…"
+        },
+        {
+            "key": "014",
+            "value": "Hourne marcharía rumbo a nuestro castillo con todas sus fuerzas…"
+        },
+        {
+            "key": "015",
+            "value": "Muchas gracias por tus consejos. Me da a mí que poco podemos hacer entonces para frenar la amenaza de Hourne."
+        },
+        {
+            "key": "016",
+            "value": "Majestad, eso no es del todo cierto. Tenemos una… alternativa."
+        },
+        {
+            "key": "017",
+            "value": "Soy todo oídos."
+        },
+        {
+            "key": "018",
+            "value": "Acabar con la vida de Muraga."
+        },
+        {
+            "key": "019",
+            "value": "¿Maestro, nos prestarías tu ayuda para este cometido?"
+        },
+        {
+            "key": "020",
+            "value": "Mmm…"
+        },
+        {
+            "key": "021",
+            "value": "He oído que ni siquiera Lilit fue rival para él, pero con tu ayuda…"
+        },
+        {
+            "key": "022",
+            "value": "Te lo pedimos por favor: ayúdanos."
+        },
+        {
+            "key": "023",
+            "value": "Ya estamos otra vez… Y yo que estaba pensando en jubilarme…"
+        },
+        {
+            "key": "024",
+            "value": "Pero maestro…"
+        },
+        {
+            "key": "025",
+            "value": "¿Acaso puedo negarme?"
+        },
+        {
+            "key": "026",
+            "value": "Habrá que ver qué tal se porta mi vieja espada, ¿no?"
+        },
+        {
+            "key": "027",
+            "value": "Te lo agradezco de todo corazón. No sabes cuánto me reconforta poder luchar a tu lado."
+        },
+        {
+            "key": "028",
+            "value": "Bueno, más te vale reforzar aún más ese arrojo tuyo."
+        },
+        {
+            "key": "029",
+            "value": "Si no estamos dispuestos a morir por derrotarlo, no conseguiremos nada. Ja, ja, ja."
+        },
+        {
+            "key": "030",
+            "value": "Eso no ocurrirá. El rey Elde dijo claramente que…"
+        },
+        {
+            "key": "031",
+            "value": "No te metas en esto, Kiton."
+        },
+        {
+            "key": "032",
+            "value": "Pe-pero…"
+        },
+        {
+            "key": "033",
+            "value": "Kiton, intenta entenderlo. Las espadas ya están desenvainadas y lord Stern no se va a echar a atrás."
+        },
+        {
+            "key": "034",
+            "value": "…"
+        },
+        {
+            "key": "035",
+            "value": "Di-disculpad…, pero su majestad ya lo ha preparado todo para la retirada."
+        },
+        {
+            "key": "036",
+            "value": "Ver para creer…"
+        },
+        {
+            "key": "037",
+            "value": "Padre preferiría que permaneciéramos refugiados en el castillo, pero, lamentablemente, no estamos listos para eso."
+        },
+        {
+            "key": "038",
+            "value": "Aunque comenzáramos a prepararlo todo ahora mismo, no acabaríamos a tiempo. Ja, ja, ja."
+        },
+        {
+            "key": "039",
+            "value": "Parece que, al final, no nos queda otra opción…"
+        },
+        {
+            "key": "040",
+            "value": "Bien, iré con vosotros."
+        },
+        {
+            "key": "041",
+            "value": "¡¿Ma-madre?! ¡¿Lo dices en serio?!"
+        },
+        {
+            "key": "042",
+            "value": "¿Para qué sobrevivir si solo quedo yo en este mundo? Si hay que morir, moriremos todos juntos."
+        },
+        {
+            "key": "043",
+            "value": "Pe-pero…"
+        },
+        {
+            "key": "044",
+            "value": "Siempre dices que eres un guerrero extraordinario, ¿es que no eres capaz de proteger a tu propia madre?"
+        },
+        {
+            "key": "045",
+            "value": "No te preocupes, madre. Estarás segura conmigo."
+        },
+        {
+            "key": "046",
+            "value": "Gracias, Stern."
+        },
+        {
+            "key": "047",
+            "value": "¡Fortem, en marcha!"
+        },
+        {
+            "key": "048",
+            "value": "Perdona que te pida esto, pero, ¿podrías informar al rey Elde de todo?"
+        },
+        {
+            "key": "049",
+            "value": "Sí, claro…"
+        },
+        {
+            "key": "050",
+            "value": "Venga, mujer. ¡No pongas esa cara! Intenta decirlo sonriendo."
+        },
+        {
+            "key": "051",
+            "value": "Al fin y al cabo, vas a poder estar cerca de lord Mont… Eso es toda una alegría para ti, ¿no? Ja, ja, ja."
+        },
+        {
+            "key": "052",
+            "value": "Silencio."
+        },
+        {
+            "key": "053",
+            "value": "Voy a proteger a lord Stern con mi vida, espero que tú hagas lo mismo por… lord Mont."
+        }
+    ]
+}

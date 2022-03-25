@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "100001",
+            "value": "W-Was ist hier los?!"
+        },
+        {
+            "key": "100002",
+            "value": "... Rundall."
+        },
+        {
+            "key": "100003",
+            "value": "Verflucht! Sie nutzen die Abwesenheit Seiner Heiligkeit, um uns anzugreifen?"
+        },
+        {
+            "key": "100004",
+            "value": "Ihr dreckigen Bastarde!"
+        },
+        {
+            "key": "100005",
+            "value": "Sie haben es zweifellos ... auf die Kristalle abgesehen."
+        },
+        {
+            "key": "100006",
+            "value": "Als ob wir sie ihnen einfach so geben würden! Sichert die Schatzkammer!"
+        },
+        {
+            "key": "100007",
+            "value": "Jawohl! Wir werden ihnen zeigen, warum die Mönchsgarde Dynverk so gefürchtet ist!"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Vous ne venez ni de Gouga ni de Saiga..."
+        },
+        {
+            "key": "002",
+            "value": "Vous n'êtes que des soldats de Fennes qui prétendent être des shinobis..."
+        },
+        {
+            "key": "003",
+            "value": "S-silence !"
+        },
+        {
+            "key": "004",
+            "value": "Ça ne rentre toujours pas dans votre tête."
+        },
+        {
+            "key": "005",
+            "value": "Je ne peux pas être vaincue par des shinobis de pacotille, peu importe votre nombre."
+        },
+        {
+            "key": "006",
+            "value": "Et si nous y parvenons ?"
+        },
+        {
+            "key": "007",
+            "value": "Alors je reconnaîtrai Fennes comme étant le troisième clan shinobi."
+        },
+        {
+            "key": "008",
+            "value": "... Tu as intérêt à respecter ta parole."
+        },
+        {
+            "key": "009",
+            "value": "Venez vous battre !"
+        },
+        {
+            "key": "010",
+            "value": "..."
+        },
+        {
+            "key": "011",
+            "value": "Que se passe-t-il ? Vous hésitez ?"
+        },
+        {
+            "key": "012",
+            "value": "Dans ce cas, c'est moi qui vais faire le premier pas !"
+        }
+    ]
+}

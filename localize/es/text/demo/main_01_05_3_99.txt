@@ -1,0 +1,60 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Mont, ¡no se puede escapar del destino!"
+        },
+        {
+            "key": "002",
+            "value": "No, pero se puede cambiar. ¡Eso lo tengo claro!"
+        },
+        {
+            "key": "003",
+            "value": "Menuda escena. Je, je."
+        },
+        {
+            "key": "004",
+            "value": "¡Por fin acabaremos con Leonis!"
+        },
+        {
+            "key": "005",
+            "value": "Eso no pienso permitirlo."
+        },
+        {
+            "key": "006",
+            "value": "¿Eh?"
+        },
+        {
+            "key": "007",
+            "value": "¡Es Gilgamesh!"
+        },
+        {
+            "key": "008",
+            "value": "Ha aparecido… "
+        },
+        {
+            "key": "009",
+            "value": "El resultado tan decisivo por el que se está luchando aquí pondría en ridículo mis planes…"
+        },
+        {
+            "key": "010",
+            "value": "Eso a mí no me importa."
+        },
+        {
+            "key": "011",
+            "value": "¿Es que ya se te ha olvidado? Solo yo decido aquí quién muere y quién vive."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "Cesaréis en vuestro intento hasta que llegue el momento adecuado."
+        },
+        {
+            "key": "014",
+            "value": "Si lo hacéis así, no volveré a intervenir. Tendréis toda la libertad de mataros entre vosotros."
+        }
+    ]
+}

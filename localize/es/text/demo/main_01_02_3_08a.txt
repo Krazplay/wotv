@@ -1,0 +1,92 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Schuzelt, ¿te puedo preguntar algo?"
+        },
+        {
+            "key": "002",
+            "value": "¿Qué pasa?"
+        },
+        {
+            "key": "003",
+            "value": "¿Hay algún motivo por el que Hourne decidiera aliarse con Fennes?"
+        },
+        {
+            "key": "004",
+            "value": "Buena pregunta. A mí también me gustaría saber la respuesta."
+        },
+        {
+            "key": "005",
+            "value": "Puede que el poder militar de Fennes sea impresionante, pero aliarse con un país así genera más problemas que otra cosa."
+        },
+        {
+            "key": "006",
+            "value": "Todo se debe a Rundal, el país del oeste."
+        },
+        {
+            "key": "007",
+            "value": "¡¿A Rundal?!"
+        },
+        {
+            "key": "008",
+            "value": "¿La casa Rundal? ¿Los venados comedragones?"
+        },
+        {
+            "key": "009",
+            "value": "Las invasiones orientales de Rundal se estaban convirtiendo en una amenaza cada vez mayor. Por eso…"
+        },
+        {
+            "key": "010",
+            "value": "Ya lo entiendo, buscasteis medidas desesperadas para acabar con las incursiones de Rundal."
+        },
+        {
+            "key": "011",
+            "value": "En ese momento fue cuando Sadali intervino como mediador."
+        },
+        {
+            "key": "012",
+            "value": "¡¿Sadali?! ¿El fundador de la Iglesia del Cristal?"
+        },
+        {
+            "key": "013",
+            "value": "Conque ha sido todo obra suya."
+        },
+        {
+            "key": "014",
+            "value": "En cualquier caso, desposar a tu hija con ese salvaje…"
+        },
+        {
+            "key": "015",
+            "value": "Creíamos que Muraga no era más que un bárbaro sanguinario, pero eso fue antes de conocerlo en persona."
+        },
+        {
+            "key": "016",
+            "value": "Para nuestra sorpresa, hablaba nuestro idioma con fluidez."
+        },
+        {
+            "key": "017",
+            "value": "Tanto fue así que… parecía una persona completamente diferente."
+        },
+        {
+            "key": "018",
+            "value": "Sé a qué te refieres. Yo también tuve esa sensación."
+        },
+        {
+            "key": "019",
+            "value": "Además, se ha vuelto muchísimo más fuerte desde la última vez que luché contra él."
+        },
+        {
+            "key": "020",
+            "value": "Por mucho que me duela admitirlo, ni Schuzelt ni yo juntos pudimos con él."
+        },
+        {
+            "key": "021",
+            "value": "Quizá ese cerdo despiadado haya encontrado la forma de adquirir más poder."
+        },
+        {
+            "key": "022",
+            "value": "¿Adquirir más poder? ¿Creéis que podría tener alguna reliquia ancestral?"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+﻿{
+    "infos": [
+        {
+            "key": "QE_ST_NO_gimictest",
+            "value": "테스트<br>여기에 퀘스트 힌트 등을 기술한다."
+        }
+    ]
+}

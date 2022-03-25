@@ -1,0 +1,228 @@
+﻿{
+    "infos": [
+        {
+            "key": "10001",
+            "value": "Aidez-moi… Guerriers de la Lumière…"
+        },
+        {
+            "key": "10002",
+            "value": "Ce monde ne sera bientôt plus que poussière… Hâtez-vous avant que tout ne disparaisse…"
+        },
+        {
+            "key": "10003",
+            "value": "Où suis-je ? J'aurais juré avoir entendu une voix m'appeler…"
+        },
+        {
+            "key": "10004",
+            "value": "Rain !"
+        },
+        {
+            "key": "10005",
+            "value": "Fina ! Tu es donc là, toi aussi."
+        },
+        {
+            "key": "10006",
+            "value": "Oui, mais je n'ai aucune idée du pourquoi du comment. Quel est cet endroit ?"
+        },
+        {
+            "key": "10007",
+            "value": "Je ne sais pas. Mais je n'avais encore jamais vu autant de miasme concentré dans un même endroit…"
+        },
+        {
+            "key": "10008",
+            "value": "J'ai un mauvais pressentiment."
+        },
+        {
+            "key": "10009",
+            "value": "O-où suis-je ? Je m'apprêtais à répondre à un appel à l'aide quand…"
+        },
+        {
+            "key": "10010",
+            "value": "Tu n'es pas le seul à avoir entendu cette voix."
+        },
+        {
+            "key": "10011",
+            "value": "Machalie ! Toi, ici ?!"
+        },
+        {
+            "key": "10012",
+            "value": "Je suis rassurée de te trouver ici… surtout en terre inconnue."
+        },
+        {
+            "key": "10013",
+            "value": "Qui êtes-vous ? D'où venez-vous ?"
+        },
+        {
+            "key": "10014",
+            "value": "Oh ! Nous ne sommes pas seuls !"
+        },
+        {
+            "key": "10015",
+            "value": "Tout comme vous, nous venons d'atterrir ici."
+        },
+        {
+            "key": "10016",
+            "value": "Je vois… Je m'appelle Mont, du royaume de Leonis, et voici Machalie, de Hourne."
+        },
+        {
+            "key": "10017",
+            "value": "Leonis ? Hourne ?"
+        },
+        {
+            "key": "10018",
+            "value": "Ces noms ne m'évoquent rien du tout."
+        },
+        {
+            "key": "10019",
+            "value": "Vraiment ? Dans ce cas, d'où venez-vous ?"
+        },
+        {
+            "key": "10020",
+            "value": "Où sont passées mes manières. Je m'appelle Rain, je suis un chevalier de Grandshelt."
+        },
+        {
+            "key": "10021",
+            "value": "Et moi, c'est Fina. Ravie de faire votre connaissance."
+        },
+        {
+            "key": "10022",
+            "value": "Grandshelt… Ce nom ne me dit rien non plus…"
+        },
+        {
+            "key": "10023",
+            "value": "Nous avons dû être appelés sur ces terres depuis nos mondes respectifs."
+        },
+        {
+            "key": "10024",
+            "value": "Ou peut-être même… de nos époques respectives…"
+        },
+        {
+            "key": "10025",
+            "value": "Alors, vous aussi vous avez entendu cette voix criant à l'aide ? "
+        },
+        {
+            "key": "10026",
+            "value": "Oui. Mais nous n'avons pas la moindre idée de qui il peut s'agir…"
+        },
+        {
+            "key": "10027",
+            "value": "De moi."
+        },
+        {
+            "key": "10028",
+            "value": "Tu es… la Volonté de la Lumière !"
+        },
+        {
+            "key": "10029",
+            "value": "Exact. C'est moi qui vous ai fait venir dans ce monde sous forme de visions."
+        },
+        {
+            "key": "10030",
+            "value": "Des visions ? Vous voulez dire que Machalie et moi sommes… de simples visions ?"
+        },
+        {
+            "key": "10031",
+            "value": "En effet. C'est votre désir sincère de me venir en aide qui est à l'origine de la matérialisation de vos enveloppes corporelles actuelles."
+        },
+        {
+            "key": "10032",
+            "value": "Ce phénomène est quelque peu différent des visions que je connais…"
+        },
+        {
+            "key": "10033",
+            "value": "Je n'aurais jamais pensé en devenir une moi-même… C'est si… étrange."
+        },
+        {
+            "key": "10034",
+            "value": "Fina vous a surnommé la « Volonté de la Lumière »… Qu'est-ce que ça veut dire ?"
+        },
+        {
+            "key": "10035",
+            "value": "Je participe au maintien de l'harmonie dans ce monde."
+        },
+        {
+            "key": "10036",
+            "value": "Lumière et ténèbres, amour et haine, création et destruction… Chaque chose possède son contraire, et je suis là pour veiller sur cet équilibre."
+        },
+        {
+            "key": "10037",
+            "value": "Malheureusement… cette égalité parfaite est actuellement menacée."
+        },
+        {
+            "key": "10038",
+            "value": "Ce monde est voué à la ruine si nous n'agissons pas."
+        },
+        {
+            "key": "10039",
+            "value": "C'est pourquoi vous nous avez appelés à l'aide."
+        },
+        {
+            "key": "10040",
+            "value": "Et quelle pourrait être cette menace ?"
+        },
+        {
+            "key": "10041",
+            "value": "Un duo de morbols dévastateurs."
+        },
+        {
+            "key": "10042",
+            "value": "Il faut mettre un terme à leur carnage, sans quoi d'autres mondes pourraient être en danger."
+        },
+        {
+            "key": "10043",
+            "value": "La menace s'étendrait par-delà les frontières, plongeant les autres univers dans le néant."
+        },
+        {
+            "key": "10044",
+            "value": "Sont-ils si terribles que ça ?"
+        },
+        {
+            "key": "10045",
+            "value": "Terribles ou pas, on ferait mieux d'agir, et vite."
+        },
+        {
+            "key": "10046",
+            "value": "Je suis d'accord. Nous devons empêcher ces monstres avides de destruction de s'en prendre aux autres mondes."
+        },
+        {
+            "key": "10047",
+            "value": "Je vous en supplie… Sauvez ces terres."
+        },
+        {
+            "key": "10048",
+            "value": "Deux morbols seraient donc à l'origine de ce mal... Formons deux groupes de deux : Mont et moi, Rain et Fina."
+        },
+        {
+            "key": "10049",
+            "value": "Parfait ! Surtout, appelez-nous si vous vous retrouvez en difficulté !"
+        },
+        {
+            "key": "10050",
+            "value": "Nous ? En difficulté ? Mont n'en a peut-être pas l'air comme ça, mais il ne manque pas de force."
+        },
+        {
+            "key": "10051",
+            "value": "M-Machalie…"
+        },
+        {
+            "key": "10052",
+            "value": "Et puis, je suis à ses côtés, vous n'avez donc absolument pas à vous en faire pour nous. Je vous conseille plutôt de veiller à votre propre sécurité."
+        },
+        {
+            "key": "10053",
+            "value": "Ta foi en Mont semble infaillible ! Vous formez une belle équipe."
+        },
+        {
+            "key": "10054",
+            "value": "Mais nous sortirons également vainqueurs, pas vrai Rain ?"
+        },
+        {
+            "key": "10055",
+            "value": "Oui. Allons chasser le morbol !"
+        },
+        {
+            "key": "10056",
+            "value": "Je vous souhaite une prompte victoire. À très vite !"
+        }
+    ]
+}

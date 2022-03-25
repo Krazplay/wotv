@@ -1,0 +1,252 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "The Farplane, an interdimensional link between various worlds."
+        },
+        {
+            "key": "002",
+            "value": "Jeume. Thank you for responding to my call despite its abruptness."
+        },
+        {
+            "key": "003",
+            "value": "The Core Crystals vanishing without a trace is a matter of urgency. There is naught but to convene."
+        },
+        {
+            "key": "004",
+            "value": "Perceptive as always, Jeume."
+        },
+        {
+            "key": "005",
+            "value": "It is just as you said."
+        },
+        {
+            "key": "006",
+            "value": "The Core Crystals suddenly vanished from this realm a few days prior."
+        },
+        {
+            "key": "007",
+            "value": "...Or rather, they have been lost to obscurity."
+        },
+        {
+            "key": "008",
+            "value": "...What do you mean?"
+        },
+        {
+            "key": "009",
+            "value": "Someone from the distant future has appeared in the continent of Ardra. That action has affected this dimension as well."
+        },
+        {
+            "key": "010",
+            "value": "The aftermath of this has diminished the power of the Core Crystals, causing them to disappear from their rightful places."
+        },
+        {
+            "key": "011",
+            "value": "The missing Core Crystals are now scattered far across the lands."
+        },
+        {
+            "key": "012",
+            "value": "I wish to entrust you with their retrieval."
+        },
+        {
+            "key": "013",
+            "value": "Secure the Core Crystals, as is your duty as a Warrior of the Crystals."
+        },
+        {
+            "key": "014",
+            "value": "The Core Crystals are the very basis upon which the universe came and continues to exist..."
+        },
+        {
+            "key": "015",
+            "value": "I cannot begin to theorize what would happen should they cease to be."
+        },
+        {
+            "key": "016",
+            "value": "As a Warrior of the Crystals, I swear to see this task done."
+        },
+        {
+            "key": "017",
+            "value": "I thank you. But we must not forget that the primary duty of a Warrior is to safeguard this realm."
+        },
+        {
+            "key": "018",
+            "value": "It would not make sense to have everyone leave their posts. Therefore, Jeume..."
+        },
+        {
+            "key": "019",
+            "value": "Yes?"
+        },
+        {
+            "key": "020",
+            "value": "I ask that you retrieve the first Core Crystal."
+        },
+        {
+            "key": "021",
+            "value": "Understood. I'll set out at once."
+        },
+        {
+            "key": "022",
+            "value": "This one shall be accompanying you."
+        },
+        {
+            "key": "023",
+            "value": "I-it is an honor to meet you."
+        },
+        {
+            "key": "024",
+            "value": "...Him?"
+        },
+        {
+            "key": "025",
+            "value": "His name is Lucio."
+        },
+        {
+            "key": "026",
+            "value": "A young Warrior of the Crystals. Please think of him as an apprentice of sorts."
+        },
+        {
+            "key": "027",
+            "value": "Together, proceed to the continent of Ardra and retrieve the Crystal. That is your task."
+        },
+        {
+            "key": "028",
+            "value": "By the look of you, I doubt you'll be of much help... Be warned, if you become a hindrance, I won't hesitate to leave you behind."
+        },
+        {
+            "key": "029",
+            "value": "There's no place for weaklings within the Warriors of the Crystals. If you're in agreement..."
+        },
+        {
+            "key": "030",
+            "value": "I-I will do all I can."
+        },
+        {
+            "key": "031",
+            "value": "I have no doubt that you will see this through."
+        },
+        {
+            "key": "032",
+            "value": "Now, set forth. All is for the sake of harmony through the power of the Crystals."
+        },
+        {
+            "key": "033",
+            "value": "This should be the continent of Ardra...but there's nothing here."
+        },
+        {
+            "key": "034",
+            "value": "I guess our journey doesn't begin with civilization..."
+        },
+        {
+            "key": "035",
+            "value": "...At any rate, I still don't understand why the Will of Light would pair me with you."
+        },
+        {
+            "key": "036",
+            "value": "Could it be that I alone am not considered adequate for this task?"
+        },
+        {
+            "key": "037",
+            "value": "The Will of Light said that it was in hopes of me gaining experience."
+        },
+        {
+            "key": "038",
+            "value": "I am a Warrior of the Crystals, after all...albeit a green one."
+        },
+        {
+            "key": "039",
+            "value": "I suppose there is an opening within our ranks."
+        },
+        {
+            "key": "040",
+            "value": "And it's reasonable to expect that someone will need to be trained to fill it."
+        },
+        {
+            "key": "041",
+            "value": "But I was serious when I said I would go on without you if you become a hindrance. I hope you'll take that to heart."
+        },
+        {
+            "key": "042",
+            "value": "I cannot relax my standards simply because you're an apprentice. "
+        },
+        {
+            "key": "043",
+            "value": "I-I understand! I will give it my all!"
+        },
+        {
+            "key": "044",
+            "value": "Then let us waste no time—try to discern the Core Crystal's location."
+        },
+        {
+            "key": "045",
+            "value": "The Core Crystal's location?"
+        },
+        {
+            "key": "046",
+            "value": "We Warriors of the Crystals can sense the approximate whereabouts of the Core Crystals."
+        },
+        {
+            "key": "047",
+            "value": "So give it a try. As a fellow Warrior, it should be no problem, right?"
+        },
+        {
+            "key": "048",
+            "value": "R-right. Mph..."
+        },
+        {
+            "key": "049",
+            "value": "...I don't feel anything."
+        },
+        {
+            "key": "050",
+            "value": "Are you really a Warrior of the Crystals?"
+        },
+        {
+            "key": "051",
+            "value": "Uhhh..."
+        },
+        {
+            "key": "052",
+            "value": "That's enough. I'll do it."
+        },
+        {
+            "key": "053",
+            "value": "...It's that way. Though it is a bit far."
+        },
+        {
+            "key": "054",
+            "value": "We should hurry. We cannot allow the Crystal to remain in the open for—"
+        },
+        {
+            "key": "055",
+            "value": "......!"
+        },
+        {
+            "key": "056",
+            "value": "Wh-what is it?"
+        },
+        {
+            "key": "057",
+            "value": "Ready yourself for battle."
+        },
+        {
+            "key": "058",
+            "value": "Huh!?"
+        },
+        {
+            "key": "059",
+            "value": "We are about to be given a very warm welcome."
+        },
+        {
+            "key": "060",
+            "value": "We are not far from a settlement, yet there are no signs of any people. Could this place be a hotbed for monsters?"
+        },
+        {
+            "key": "061",
+            "value": "Th-there are so many of them. What should we do?"
+        },
+        {
+            "key": "062",
+            "value": "Warriors of the Crystals do not flee. We merely eliminate any obstacle in our path. "
+        }
+    ]
+}

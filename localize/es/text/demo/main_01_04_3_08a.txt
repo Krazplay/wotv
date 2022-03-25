@@ -1,0 +1,100 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡Padre!"
+        },
+        {
+            "key": "002",
+            "value": "No, seré yo el que vaya a Wezette."
+        },
+        {
+            "key": "003",
+            "value": "¿Pa-padre?"
+        },
+        {
+            "key": "004",
+            "value": "Llevaré a Solidus conmigo, partiré de inmediato."
+        },
+        {
+            "key": "005",
+            "value": "Si Muraga o Sadali hacen algo sospechoso, los aplastaré sin pensármelo dos veces."
+        },
+        {
+            "key": "006",
+            "value": "…"
+        },
+        {
+            "key": "007",
+            "value": "Machérie, tengo que pedirte una cosa."
+        },
+        {
+            "key": "008",
+            "value": "Me preocupa Darío."
+        },
+        {
+            "key": "009",
+            "value": "¿Qué pasa con mi hermano?"
+        },
+        {
+            "key": "010",
+            "value": "No me cabe duda de que Muraga está al tanto de que nuestro castillo apenas cuenta con soldados."
+        },
+        {
+            "key": "011",
+            "value": "Si lo que cuentas es verdad y Vinera no es la hija de Muraga…"
+        },
+        {
+            "key": "012",
+            "value": "Está claro que aprovechará la mínima oportunidad para actuar. Tienes que impedir que haga lo que sea que esté tramando."
+        },
+        {
+            "key": "013",
+            "value": "Entendido. Iré a verlo de inmediato."
+        },
+        {
+            "key": "014",
+            "value": "Juzgar a la gente siempre se te ha dado mejor que a mí."
+        },
+        {
+            "key": "015",
+            "value": "Padre…"
+        },
+        {
+            "key": "016",
+            "value": "Ojalá algún día pueda brindar junto al tal Mont…"
+        },
+        {
+            "key": "017",
+            "value": "Bueno, es hora de marcharse."
+        },
+        {
+            "key": "018",
+            "value": "¡De acuerdo!"
+        },
+        {
+            "key": "019",
+            "value": "¡Deteneos!"
+        },
+        {
+            "key": "020",
+            "value": "¿Adónde creéis que vais?"
+        },
+        {
+            "key": "021",
+            "value": "Eso no es asunto vuestro. A un lado."
+        },
+        {
+            "key": "022",
+            "value": "Obedeced o…"
+        },
+        {
+            "key": "023",
+            "value": "Pensáis volver al castillo de Hourne, ¿verdad?"
+        },
+        {
+            "key": "024",
+            "value": "¡No os lo permitiremos!"
+        }
+    ]
+}

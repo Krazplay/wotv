@@ -1,0 +1,248 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...!"
+        },
+        {
+            "key": "002",
+            "value": "Kiton."
+        },
+        {
+            "key": "003",
+            "value": "Ich bin aus Wezette zurückgekehrt."
+        },
+        {
+            "key": "004",
+            "value": "Und Glaziela?"
+        },
+        {
+            "key": "005",
+            "value": "Sie und ihre Gefährten tun ihr Möglichstes, um Wezette wieder aufzubauen."
+        },
+        {
+            "key": "006",
+            "value": "Verstehe. Hauptsache, sie ist wohlauf."
+        },
+        {
+            "key": "007",
+            "value": "Mont, vielleicht sollte ich dich doch begleiten ..."
+        },
+        {
+            "key": "008",
+            "value": "Nein, du musst hierbleiben."
+        },
+        {
+            "key": "009",
+            "value": "Du hast doch sicher auch gehört, dass die Kristallene Stätte ihre Kriegsvorbereitungen beschleunigt hat."
+        },
+        {
+            "key": "010",
+            "value": "Und wir wissen nicht, ob Sadali es auf Rundall oder auf Hourne abgesehen hat."
+        },
+        {
+            "key": "011",
+            "value": "Und selbst mit Schuzelt als stellvertretendem Kommandanten von „Solidus“ ist dieses Land bei Weitem nicht unangreifbar."
+        },
+        {
+            "key": "012",
+            "value": "Dessen bin ich mir wohl bewusst."
+        },
+        {
+            "key": "013",
+            "value": "Aber hast du vergessen, dass dir die vereinten Streitkräfte von Rundall und Heindler gegenüberstehen?"
+        },
+        {
+            "key": "014",
+            "value": "Selbst mit der geballten Macht von Hourne und Leonis zusammen wäre uns der Sieg nicht gewiss."
+        },
+        {
+            "key": "015",
+            "value": "Adelard. Du zweifelst also auch?"
+        },
+        {
+            "key": "016",
+            "value": "Verzeiht, Majestät, aber so sehe ich die Lage."
+        },
+        {
+            "key": "017",
+            "value": "Ich habe einiges über die Taktiken von Rundall gelernt, als wir gemeinsam in Wezette gekämpft haben."
+        },
+        {
+            "key": "018",
+            "value": "Ich werde mir keine Blöße geben. Aber wer zu vorsichtig ist, der steht sich nur selbst im Wege."
+        },
+        {
+            "key": "019",
+            "value": "Mont ..."
+        },
+        {
+            "key": "020",
+            "value": "Bitte versteh mich, Margery."
+        },
+        {
+            "key": "021",
+            "value": "Wenn Ovis an Rundall fällt, wird es zum perfekten Ausgangspunkt für eine weitere Invasion Richtung Osten."
+        },
+        {
+            "key": "022",
+            "value": "Nach Ovis ist als Nächstes vermutlich Hourne an der Reihe ..."
+        },
+        {
+            "key": "023",
+            "value": "Bevor es so weit kommt, muss Rundall aufgehalten werden. Koste es, was es wolle."
+        },
+        {
+            "key": "024",
+            "value": "... Das stimmt wohl."
+        },
+        {
+            "key": "025",
+            "value": "Auch mein Vater war sich der Bedrohung durch Rundall wohl bewusst."
+        },
+        {
+            "key": "026",
+            "value": "Das war der einzige Grund, weshalb er sich auf diese demütigende Allianz mit Fennes einließ."
+        },
+        {
+            "key": "027",
+            "value": "Ich werde auf Schloss Hourne bleiben, aber wenn du willst, stelle ich dir Salire, Grahl und Reyshesse zur Seite."
+        },
+        {
+            "key": "028",
+            "value": "Sie alle sind fähige Soldaten ... auch wenn ihr Betragen etwas zu wünschen übrig lässt."
+        },
+        {
+            "key": "029",
+            "value": "Bist du dir sicher? Obwohl deine Schwester dabei ist?"
+        },
+        {
+            "key": "030",
+            "value": "Selbstverständlich."
+        },
+        {
+            "key": "031",
+            "value": "Es gibt aber etwas, was du wissen solltest. Und zwar, was Reyshesse anbelangt ..."
+        },
+        {
+            "key": "032",
+            "value": "Menno."
+        },
+        {
+            "key": "033",
+            "value": "Und ich hatte mich schon so drauf gefreut, mit meinem Bruder auf einen Feldzug zu gehen."
+        },
+        {
+            "key": "034",
+            "value": "Es tut mir wirklich leid für dich."
+        },
+        {
+            "key": "035",
+            "value": "Warum? Das ist ja wohl nicht deine Schuld."
+        },
+        {
+            "key": "036",
+            "value": "Nein, ich meine etwas anderes."
+        },
+        {
+            "key": "037",
+            "value": "... Und zwar was?"
+        },
+        {
+            "key": "038",
+            "value": "So wie es aussieht, wird Reyshesse auch am Feldzug teilnehmen."
+        },
+        {
+            "key": "039",
+            "value": "Das weiß ich."
+        },
+        {
+            "key": "040",
+            "value": "Aber so ist es mir immer noch lieber, weißt du?"
+        },
+        {
+            "key": "041",
+            "value": "Wenn sie sich hier im Schloss an meinen Bruder ranmachen würde, während ich weg bin, könnte ich für nichts garantieren."
+        },
+        {
+            "key": "042",
+            "value": "Nun, in Wirklichkeit ist es so ..."
+        },
+        {
+            "key": "043",
+            "value": "Ihre Teilnahme an diesem Feldzug dient auch dazu, ihre Loyalität auf die Probe zu stellen."
+        },
+        {
+            "key": "044",
+            "value": "Ich weiß, mein Bruder hat mich eingeweiht."
+        },
+        {
+            "key": "045",
+            "value": "Ach, tatsächlich?"
+        },
+        {
+            "key": "046",
+            "value": "Ursprünglich wollte das Stück sich ja Rundalls Armee anschließen."
+        },
+        {
+            "key": "047",
+            "value": "Zu uns ist sie nur gekommen, weil sie sich Hals über Kopf in meinen Bruder verknallt hat ..."
+        },
+        {
+            "key": "048",
+            "value": "Das ist doch einfach nur peinlich. Auch, wenn ich sie natürlich verstehen kann."
+        },
+        {
+            "key": "049",
+            "value": "Sobald Reyshesse sich irgendwie verdächtig benimmt ..."
+        },
+        {
+            "key": "050",
+            "value": "Ah, das kann ich übernehmen. Ich werde ihr die dickste, brutalste „Flamme“ aller Zeiten um die Ohren hauen, und zwar mit Anlauf."
+        },
+        {
+            "key": "051",
+            "value": "Ach, spannend. Ihr zwei seid auch dabei?"
+        },
+        {
+            "key": "052",
+            "value": "Lasst euch von mir nicht stören."
+        },
+        {
+            "key": "053",
+            "value": "Stören? Wobei?"
+        },
+        {
+            "key": "054",
+            "value": "Ihr beiden gebt so ein schönes Paar ab. Genau wie ich und Adelard."
+        },
+        {
+            "key": "055",
+            "value": "......"
+        },
+        {
+            "key": "056",
+            "value": "W-Was ist los mit dir? Du bist doch sonst nicht auf den Mund gefallen?"
+        },
+        {
+            "key": "057",
+            "value": "Ovis-Expeditionskorps, angetreten!"
+        },
+        {
+            "key": "058",
+            "value": "Unsere vereinten Armeen treten jetzt den Marsch nach Ovis an."
+        },
+        {
+            "key": "059",
+            "value": "Und das tun wir mit genau einem Ziel: Ovis zu befreien."
+        },
+        {
+            "key": "060",
+            "value": "Wir werden Rundalls und Heindlers brutale Willkür nicht länger hinnehmen."
+        },
+        {
+            "key": "061",
+            "value": "Brechen wir auf, Kameraden. Das Volk von Ovis wartet auf unsere Hilfe."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Así que este barco pertenece al gremio..."
+        },
+        {
+            "key": "002",
+            "value": "Sí, un navío formidable, desde luego. Debe de aportarles grandes beneficios."
+        },
+        {
+            "key": "003",
+            "value": "¡¿Quién va?!"
+        },
+        {
+            "key": "004",
+            "value": "¡...!"
+        }
+    ]
+}

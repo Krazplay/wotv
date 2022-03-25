@@ -1,0 +1,228 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Tal y como habéis ordenado, las puertas del castillo permanecen abiertas."
+        },
+        {
+            "key": "002",
+            "value": "Con eso debería bastar."
+        },
+        {
+            "key": "003",
+            "value": "Di-disculpad, majestad, pero ¿no le estamos poniendo al enemigo en bandeja la entrada al castillo?"
+        },
+        {
+            "key": "004",
+            "value": "¿No te das cuenta?"
+        },
+        {
+            "key": "005",
+            "value": "Si cerramos las puertas, el enemigo nos golpeará con todas sus fuerzas."
+        },
+        {
+            "key": "006",
+            "value": "Sin embargo, si las dejamos abiertas, se pensarán que es una trampa y no tendrán claro qué hacer."
+        },
+        {
+            "key": "007",
+            "value": "En-entiendo, majestad. Perdonad mi insolencia."
+        },
+        {
+            "key": "008",
+            "value": "Aunque esta distracción no va a durar mucho."
+        },
+        {
+            "key": "009",
+            "value": "Helena y Stern permanecerán en el castillo."
+        },
+        {
+            "key": "010",
+            "value": "¡Pa-padre!"
+        },
+        {
+            "key": "011",
+            "value": "Mont y yo nos marcharemos de aquí. No hay más que hablar."
+        },
+        {
+            "key": "012",
+            "value": "¿Y qué pasa con Machérie?"
+        },
+        {
+            "key": "013",
+            "value": "Sería una imprudencia llevarla con nosotros."
+        },
+        {
+            "key": "014",
+            "value": "Machérie…, creo que ha llegado el momento de despedirnos."
+        },
+        {
+            "key": "015",
+            "value": "Voy a dejar a Schuzelt a tu cargo. Aún no está en condiciones de volver a Hourne."
+        },
+        {
+            "key": "016",
+            "value": "No hay problema, y no te preocupes, lo dejas en buenas manos."
+        },
+        {
+            "key": "017",
+            "value": "…"
+        },
+        {
+            "key": "018",
+            "value": "Volveré a por ti. Te doy mi palabra."
+        },
+        {
+            "key": "019",
+            "value": "¿Y tu palabra es de fiar?"
+        },
+        {
+            "key": "020",
+            "value": "Si confías en mí, sí."
+        },
+        {
+            "key": "021",
+            "value": "¿Cómo?"
+        },
+        {
+            "key": "022",
+            "value": "Tu confianza me hará más fuerte, más fuerte de lo que nunca he sido."
+        },
+        {
+            "key": "023",
+            "value": "Entonces, es toda tuya."
+        },
+        {
+            "key": "024",
+            "value": "Hazte más fuerte que el resto, Mont."
+        },
+        {
+            "key": "025",
+            "value": "Y, luego, ven a por mí antes de que me olvide de tu rostro, ¿de acuerdo?"
+        },
+        {
+            "key": "026",
+            "value": "Madre y yo nos quedaremos aquí mientras escapáis. Ese es el plan, ¿no, padre?"
+        },
+        {
+            "key": "027",
+            "value": "¿Te sientes defraudado?"
+        },
+        {
+            "key": "028",
+            "value": "Tu plan es que nos tomen como rehenes a todos nosotros…"
+        },
+        {
+            "key": "029",
+            "value": "Piensa lo que quieras."
+        },
+        {
+            "key": "030",
+            "value": "¿Por qué te niegas a luchar? Y, si hubiera que escapar, ¿por qué no escapar todos juntos como familia que somos?"
+        },
+        {
+            "key": "031",
+            "value": "Parece que ya se te ha olvidado."
+        },
+        {
+            "key": "032",
+            "value": "El linaje de los Leonis debe perdurar, aunque perdamos el favor de los dioses defendiéndolo."
+        },
+        {
+            "key": "033",
+            "value": "Padre, solo quiero pedirte una cosa más. Yo obedeceré tus órdenes y me quedaré aquí, pero te pido por favor que…"
+        },
+        {
+            "key": "034",
+            "value": "… te lleves a madre contigo."
+        },
+        {
+            "key": "035",
+            "value": "Si le pasara algo, no podría…"
+        },
+        {
+            "key": "036",
+            "value": "Helena se queda en el castillo."
+        },
+        {
+            "key": "037",
+            "value": "¿Por qué?"
+        },
+        {
+            "key": "038",
+            "value": "Basta ya."
+        },
+        {
+            "key": "039",
+            "value": "¡No puedo permitirlo!"
+        },
+        {
+            "key": "040",
+            "value": "¡Todo esto no es más que una excusa lamentable para salvarte!"
+        },
+        {
+            "key": "041",
+            "value": "¡Stern!"
+        },
+        {
+            "key": "042",
+            "value": "Pues, si esa es mi sentencia, me da igual cuántos enemigos vengan, los mataré a todos."
+        },
+        {
+            "key": "043",
+            "value": "Stern…"
+        },
+        {
+            "key": "044",
+            "value": "Teñiré el suelo de rojo con mi propia sangre."
+        },
+        {
+            "key": "045",
+            "value": "¿Cómo? ¿Vas a sacrificarte?"
+        },
+        {
+            "key": "046",
+            "value": "La posibilidad de morir ni siquiera se me ha pasado por la cabeza, pero…"
+        },
+        {
+            "key": "047",
+            "value": "Reniego de Leonis, eso es todo."
+        },
+        {
+            "key": "048",
+            "value": "Helena…"
+        },
+        {
+            "key": "049",
+            "value": "Protege el linaje de Leonis a toda costa."
+        },
+        {
+            "key": "050",
+            "value": "A toda costa."
+        },
+        {
+            "key": "051",
+            "value": "Sí, esa es mi voluntad."
+        },
+        {
+            "key": "052",
+            "value": "Rey Elde, quería pediros permiso para partir hacia el frente."
+        },
+        {
+            "key": "053",
+            "value": "Permiso concedido. Y discúlpame, Owe."
+        },
+        {
+            "key": "054",
+            "value": "No era mi intención que mis invitados de honor se vieran involucrados en todo esto…"
+        },
+        {
+            "key": "055",
+            "value": "Me temo que los caballeros estamos más que acostumbrados a este tipo de situaciones, por incómodas que sean."
+        },
+        {
+            "key": "056",
+            "value": "Pero, bueno, son gajes del oficio, ¿no? Ja, ja, ja."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Nun möchte ich mit Euch auf die <color=#0000ff>Elementzugehörigkeit</color> von Einheiten eingehen."
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "Jede Einheit lässt sich einem der folgenden Elemente zuordnen: <color=#0000ff>Feuer</color>, <color=#0000ff>Eis</color>, <color=#0000ff>Wind</color>, <color=#0000ff>Erde</color>, <color=#0000ff>Blitz</color>, <color=#0000ff>Wasser</color>, <color=#0000ff>Licht</color> oder <color=#0000ff>Dunkel</color>. Wir alle erhalten den Segen eines dieser Elemente."
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "Des Weiteren kommt es zwischen den Elementen zu Wechselwirkungen; mit anderen Worten, sie sind <color=#0000ff>effektiv</color> gegen einige und <color=#0000ff>schwach</color> gegen andere."
+        },
+        {
+            "key": "006",
+            "value": "Der Angriff mit Elementen, welche gegen den entsprechenden Gegner <color=#0000ff>effektiv</color> sind, verursacht bei diesem um einiges <color=#0000ff>größeren</color> Schaden."
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "Und auch umgekehrt wird der Angriff einer Einheit, deren <color=#0000ff>Element schwach gegen</color> das des Feindes ist, <color=#0000ff>weit weniger</color> Schaden anrichten als gewöhnlich."
+        },
+        {
+            "key": "008",
+            "value": "Euer Hoheit <color=#0000ff>Element ist Erde</color>. Ihr solltet also dem <color=#0000ff>Element „Blitz“ zugehörige Gegner</color> angreifen."
+        },
+        {
+            "key": "009",
+            "value": "Kommandantin Liliths <color=#0000ff>Element ist Feuer</color>. Sie sollte also dem <color=#0000ff>Element „Eis“ zugehörige Gegner</color> attackieren."
+        },
+        {
+            "key": "010",
+            "value": "Und mein <color=#0000ff>Element ist Wasser</color>, weswegen ich mich an dem <color=#0000ff>Element „Feuer“ zugehörige Gegner</color> halten sollte. Lasst uns nun gemäß dieser Vorgaben die Feind attackieren, denen wir <color=#0000ff>effektiven Elementarschaden</color> zufügen können."
+        },
+        {
+            "key": "011",
+            "value": "[gelöscht]"
+        },
+        {
+            "key": "012",
+            "value": "Ihr habt den Gegner vernichtend geschlagen, Euer Hoheit!"
+        },
+        {
+            "key": "013",
+            "value": "Ist Euch übrigens aufgefallen, dass unmittelbar vor dem Auswählen eines Angriffs ein <color=#0000ff>Elementeffektivitätsdiagramm</color> eingeblendet wird?"
+        },
+        {
+            "key": "014",
+            "value": "Solange Ihr Euch auf dem Schlachtfelde noch unsicher seid, solltet Ihr im Kampf dieses Diagramm zurate ziehen."
+        }
+    ]
+}

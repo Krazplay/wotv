@@ -1,0 +1,5884 @@
+﻿{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "Equipment: Broadsword"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "Equipment: Greatsword"
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "Equipment: Ashura"
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "Equipment: Bronze Knuckles"
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "Equipment: Javelin"
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "Equipment: Bronze Knife"
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "Equipment: Ninja Blade"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "Equipment: Short Bow"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "Equipment: Altair"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "Equipment: Staff"
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "Equipment: Bronze Mace"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "Equipment: Leather Plate"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "Equipment: Leather Hat"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "Equipment: Leather Clothing"
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "Equipment: Bronze Helm"
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "Equipment: Rhinestone Ring"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "Equipment: Battle Axe"
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "Quest Recovery Item Set"
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "Alcryst (Green) All Elements Pack"
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "Jadeite Pack I"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "Jadeite Pack II"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "R-Rarity Equipment Recipe Pack I "
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "R-Rarity Equipment Recipe Pack II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "Fire Awakening Pack II"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "Water Awakening Pack II"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "Wind Awakening Pack II"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "Lightning Awakening Pack II"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "Earth Awakening Pack II"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "Ice Awakening Pack II"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "Light Awakening Pack II"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "Dark Awakening Pack II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "Fire Awakening Pack I"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "Water Awakening Pack I"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "Wind Awakening Pack I"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "Lightning Awakening Pack I"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "Earth Awakening Pack I"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "Ice Awakening Pack I"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "Light Awakening Pack I"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "Dark Awakening Pack I"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "Fire Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "Water Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "Wind Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "Lightning Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "Earth Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "Ice Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "Light Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "Dark Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "Select Job Memory (Yellow) x4 Summon Ticket"
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "Select Job Memory (Purple) x3 Summon Ticket"
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "[Beginners Only] Job Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "[Beginners Only] Unit Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "Daily Free NRG Restore"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "[Release Commemoration] Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "Story Support Pack A"
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "Story Support Pack B"
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "Daily Free NRG Restore"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "Daily Free EXP Cube (M)"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "EXP Cube Daily Pack"
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "\"3 Million Downloads\" Daily Pack"
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "Faint Memory Daily Pack"
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "EXP Cube Daily Pack B"
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "\"3 Million Downloads\" Lightning Pack"
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "\"3 Million Downloads\" Light Pack"
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "\"3 Million Downloads\" Earth Pack"
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "\"3 Million Downloads\" Dark Pack"
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "\"3 Million Downloads\" Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "Ramza Training Pack "
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "Ramza Unit Pack"
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "\"3 Million Downloads\" Fire Pack"
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "\"3 Million Downloads\" Ice Pack"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "Daily Free Skip Tickets"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "\"4 Million Downloads\" Lightning Pack"
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "\"4 Million Downloads\" Light Pack"
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "\"4 Million Downloads\" Earth Pack"
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "\"4 Million Downloads\" Dark Pack"
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "\"4 Million Downloads\" Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "Limit Burst Enhancement Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "Equipment Ability Pack"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "\"5 Million Downloads\" Water Pack"
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "\"5 Million Downloads\" Light Pack"
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "\"5 Million Downloads\" Earth Pack"
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "Vision Card Training Pack A"
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "Vision Card Training Pack B"
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "\"5 Million Downloads\" Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "\"5 Million Downloads\" Dark Pack"
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "\"5 Million Downloads\" Ice Pack"
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "Daily Free Growth Egg (R)"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "UR Unit Pack"
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "\"5 Million Downloads\" UR Vision Card Pack"
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "Wind Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "Fire Awakening Pack"
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "Daily Free Multi Raid Restore"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "Raid Support Pack"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "Fire Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "Wind Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "Earth Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "Ice Awakening Pack"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "Equipment HP Enhancement Pack"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "Equipment ATK Enhancement Pack"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "Equipment ACC Enhancement Pack"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": "Vision Card Training Pack C"
+        },
+        {
+            "key": "IT_SET_AWK_GL01",
+            "value": "Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "10 Daily Free Skip Tickets"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "Lightning Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "Dark Awakening Pack"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": "Equipment EVADE Enhancement Pack"
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": "Equipment MAG Enhancement Pack"
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": "Equipment CRIT Enhancement Pack"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "MOBIUS FINAL FANTASY Collaboration Pack"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "\"Mobius of Despair and Truth\" Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "\"Mobius of Hope and Illusion\" Training Pack"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "Vision Card Training Pack II"
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "Light Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "Water Awakening Pack"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "Fryevia Training Pack"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "Fire Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "Water Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "Wind Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "Lightning Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "Earth Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "Ice Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "Light Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "Dark Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "Porcelain Tower Launch Celebration EXP Cube Pack"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "Equipment Ability Pack"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "Daily Free NRG Restore (L)"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "Porcelain Tower Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "Porcelain Tower Fire Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "Porcelain Tower Water Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "Porcelain Tower Ice Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "Porcelain Tower Wind Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "Porcelain Tower Lightning Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "Porcelain Tower Earth Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "Porcelain Tower Light Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "Porcelain Tower Dark Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "Guild Statue Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "Dark Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "[Beginners Only] Rainbow Vision Sphere"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "[Beginners Only] Azure Vision Sphere"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "[Beginners Only] Rainbow Fragment of Thought"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "[Beginners Only] Job Pack"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "[Beginners Only] Jadeite Pack I"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "[Beginners Only] Jadeite Pack II"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "[Beginners Only] Azurite Pack I"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "[Beginners Only] Azurite Pack II"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "[Beginners Only] UR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "R-Rarity Equipment Recipe Pack II"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "UR Vision Card Pack"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "Light Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "Equipment DEF Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "Equipment SPR Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "Warrior of Light Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "Light Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "\"Death Machine\" Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "Earth Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "UR Unit Pack"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Vision Card Training Pack B"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "Dark Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "Vision Card Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "Rainbow Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "Wind Job Enhancing Pack (Red)"
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "Wind Job Enhancing Pack (Yellow)"
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "Wind Job Enhancing Pack (Purple)"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "EXP Cube Pack+"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "Expedition Ticket Pack+"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "Wind Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "Oldoa Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "Agrias Training Pack"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "UR Unit Limit Breaking Pack"
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "Ice Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "Fire Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "Job Enhancement Support Pack"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "EXP Cube Pack"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "Growth Egg Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "Adamantite Pack"
+        },
+        {
+            "key": "IT_SET_GROW_ORND",
+            "value": "Orlandeau Training Pack"
+        },
+        {
+            "key": "IT_SET_SWO_GL01",
+            "value": "Nagnarok +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_HAT_GL01",
+            "value": "Sage's Hat +3 (Dodge) Pack"
+        },
+        {
+            "key": "IT_SET_RNG_GL01",
+            "value": "Jeweled Ring +3 (Aim) Pack"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_CM_03",
+            "value": "Lightning Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_04",
+            "value": "Light Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL01",
+            "value": "Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_GL03",
+            "value": "UR Unit Pack"
+        },
+        {
+            "key": "IT_SET_AW_WATER_CM_GL04",
+            "value": "Water Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_JB_WATER_03",
+            "value": "Water Job Enhancing Pack (Red)"
+        },
+        {
+            "key": "IT_SET_JB_WATER_02",
+            "value": "Water Job Enhancing Pack (Yellow)"
+        },
+        {
+            "key": "IT_SET_JB_WATER_01",
+            "value": "Water Job Enhancing Pack (Purple)"
+        },
+        {
+            "key": "IT_SET_SWO_GL02",
+            "value": "Sword Awakening Pack"
+        },
+        {
+            "key": "IT_SET_MACE_GL02",
+            "value": "Mace Awakening Pack"
+        },
+        {
+            "key": "IT_SET_ACCE_GL02",
+            "value": "Accessory Awakening Pack"
+        },
+        {
+            "key": "IT_SET_LW_ENBT",
+            "value": "Engelbert Unit Pack"
+        },
+        {
+            "key": "IT_SET_GROW_ENBT",
+            "value": "Engelbert Training Pack"
+        },
+        {
+            "key": "IT_SET_VC_GROW_06",
+            "value": "Vision Card Training Pack B"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL02",
+            "value": "Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_VC_EXP_04",
+            "value": "Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_HLM_GL01",
+            "value": "Platinum Helm +3 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_MAC_GL01",
+            "value": "Platinum Mace +3 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_CLT_GL01",
+            "value": "Smart Coat +3 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_ARM_GL01",
+            "value": "Golden Armor +3 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_HA_SE_UNIT",
+            "value": "[Black Friday Celebration] Select Unit Pack"
+        },
+        {
+            "key": "IT_SET_HA_SE_VCARD",
+            "value": "[Black Friday Celebration] Select Vision Card Pack"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_GL04",
+            "value": "Dark Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_HA",
+            "value": "[Six-Month Anniversary] Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_L",
+            "value": "[Winter Festivities Part II] Job Training Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_M",
+            "value": "[Winter Festivities Part II] Job Training Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_S",
+            "value": "[Winter Festivities Part II] Job Training Pack I"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_L",
+            "value": "[Black Friday Celebration] EXP Cube Pack II"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_S",
+            "value": "[Black Friday Celebration] EXP Cube Pack I"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_L",
+            "value": "[Black Friday Celebration] Growth Egg Pack II"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_S",
+            "value": "[Black Friday Celebration] Growth Egg Pack I"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA",
+            "value": "[Black Friday Celebration] Adamantite Pack"
+        },
+        {
+            "key": "IT_SET_ECUNITUR_GL_FREE_00",
+            "value": "Two Daily Free UR Unit Pieces"
+        },
+        {
+            "key": "IT_SET_ICE_SB_EXP_GL_01",
+            "value": "Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_LB_EXP_HA",
+            "value": "[Cyber Monday Celebration] Limit Burst Pack"
+        },
+        {
+            "key": "IT_SET_WA_EXP_HA",
+            "value": "[Cyber Monday Celebration] Equipment Ability Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA_02",
+            "value": "[Black Friday Celebration] Equipment Awakening Pack"
+        },
+        {
+            "key": "IT_SET_SE_JB_HA",
+            "value": "[Six-Month Anniversary] Job Training Pack"
+        },
+        {
+            "key": "IT_SET_BSW_GL01",
+            "value": "Rune Blade +3 (Aim) Pack"
+        },
+        {
+            "key": "IT_SET_SWO_GL03",
+            "value": "Coral Sword +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_GROW_LSWL",
+            "value": "Lasswell Training Pack"
+        },
+        {
+            "key": "IT_SET_HA_UE_EXP",
+            "value": "[Six-Month Anniversary] Unit Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP",
+            "value": "[Six-Month Anniversary] Vision Card Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SPE_GL01",
+            "value": "Ice Lance +3 (Critical) Pack"
+        },
+        {
+            "key": "IT_SET_SPEAR_01",
+            "value": "Spear Awakening Pack"
+        },
+        {
+            "key": "IT_SET_BOW_01",
+            "value": "Bow Awakening Pack"
+        },
+        {
+            "key": "IT_SET_TITN_EXP",
+            "value": "\"Raging Earth, Titan\" Training Pack"
+        },
+        {
+            "key": "IT_SET_ECUNITUR_GL_GROW",
+            "value": "UR Unit Piece Special Pack"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP_01",
+            "value": "[Six-Month Anniversary] Vision Card Awakening Pack"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_HA_01",
+            "value": "[Six-Month Anniversary] Raid Support Pack"
+        },
+        {
+            "key": "IT_SET_JSWORD_01",
+            "value": "Katana Awakening Pack"
+        },
+        {
+            "key": "IT_SET_KAT_GL01",
+            "value": "Purple Lightning +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_ACC_GL01",
+            "value": "Ribbon +3 (Dodge) Pack"
+        },
+        {
+            "key": "IT_SET_HA_SM_EXP",
+            "value": "[Cyber Monday Celebration] Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_WA_EXP_02",
+            "value": "Five Daily Free Mini Armor Pots"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL03",
+            "value": "Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_04",
+            "value": "Earth Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_PI_COM_1100DL",
+            "value": "[Winter Festivities Part I] Fragment of Thought Pack"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_1100DL_L",
+            "value": "[Winter Festivities Part I] EXP Cube Pack II"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL",
+            "value": "[Winter Festivities Part I] Equipment Ability Pack"
+        },
+        {
+            "key": "IT_SET_STA_01",
+            "value": "Staff Awakening Pack"
+        },
+        {
+            "key": "IT_SET_SWO_01",
+            "value": "Sword Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AXE_01",
+            "value": "Axe Awakening Pack"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_1100DL_S",
+            "value": "[Winter Festivities Part I] EXP Cube Pack I"
+        },
+        {
+            "key": "IT_SET_1100DL_SE_UPI",
+            "value": "[Halloween Campaign] Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_05",
+            "value": "[Halloween Campaign] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_1100DL_UE_EXP",
+            "value": "[Halloween Campaign] Unit Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_1100DL_UR_ AWK_01",
+            "value": "[Halloween Campaign] UR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_1100DL_SSR_ AWK_01",
+            "value": "[Halloween Campaign] MR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_04",
+            "value": "[Halloween Campaign] Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_1100DL_VE_EXP",
+            "value": "[Winter Festivities Part I] Vision Card Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_1100DL_SM_EXP",
+            "value": "[Winter Festivities Part I] Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_03",
+            "value": "[Halloween Campaign] Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_02",
+            "value": "[Halloween Campaign] Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_01",
+            "value": "[Halloween Campaign] Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_2020SM_EXP_01",
+            "value": "[Autumn 2020 Campaign Part II] Party Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL04",
+            "value": "Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_GROW_2020SM_01",
+            "value": "[Winter Festivities Part II] Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL_H",
+            "value": "[Autumn 2020 Campaign Part II] Equipment Ability Pack"
+        },
+        {
+            "key": "IT_SET_2020SM_AF_EXP_01",
+            "value": "[Autumn 2020 Campaign Part II] Equipment Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_2020SM_VE_EXP",
+            "value": "[Autumn 2020 Campaign Part II] Vision Card Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_MR_UR_VC_GL01",
+            "value": "Vision Card Summoning Pack"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP_02",
+            "value": "[Chapter 10 Release] Vision Card Awakening Pack"
+        },
+        {
+            "key": "IT_SET_RD_SM_EXP",
+            "value": "[Chapter 10 Release] Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_RD_VE_EXP",
+            "value": "[Chapter 10 Release] Vision Card Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GROW_RD_01",
+            "value": "[Chapter 10 Release] Rainbow Training Pack+"
+        },
+        {
+            "key": "IT_SET_RD_EM_2",
+            "value": "[Chapter 10 Release] Elemental Alcryst Pack II"
+        },
+        {
+            "key": "IT_SET_RD_ANGEL_DRAGON_1",
+            "value": "[Chapter 10 Release] Praying Angel/Prowling Wyvern Statue Pack I"
+        },
+        {
+            "key": "IT_SET_RD_MM_ALL_1",
+            "value": "[Chapter 10 Release] Faint Memory Pack I"
+        },
+        {
+            "key": "IT_SET_RD_EM_1",
+            "value": "[Chapter 10 Release] Elemental Alcryst Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_CECL",
+            "value": "Cecil Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_KAIN",
+            "value": "Kain Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_ROSA",
+            "value": "Rosa Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_FF04_DMNW",
+            "value": "Demon Wall Training Pack"
+        },
+        {
+            "key": "IT_SET_BOW_GL01",
+            "value": "Elven Bow (Critical) Pack"
+        },
+        {
+            "key": "IT_SET_SPE_GL03",
+            "value": "Wind Spear (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_DAG_GL01",
+            "value": "Mage Masher +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_BSW_GL02",
+            "value": "Golden Blade +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_KAT_GL02",
+            "value": "Osafune +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_ROD_GL01",
+            "value": "Platinum Rod +3 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_BOW_GL02",
+            "value": "Rune Bow +3 (Aim) Pack"
+        },
+        {
+            "key": "IT_SET_AXE_GL01",
+            "value": "Golden Axe +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_SPE_GL02",
+            "value": "Ice Lance +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_GUN_GL01",
+            "value": "Ras Algethi +3 (Critical) Pack"
+        },
+        {
+            "key": "IT_SET_FIS_GL01",
+            "value": "Cat Claws +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_NKN_GL01",
+            "value": "Sasuke's Katana +3 (Critical) Pack"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL05",
+            "value": "Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_HA_SE_UNIT_01",
+            "value": "[Cyber Monday Celebration] Select Unit Pack"
+        },
+        {
+            "key": "IT_SET_HA_SE_VCARD_01",
+            "value": "[Cyber Monday Celebration] Select Vision Card Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_L_01",
+            "value": "[Winter Festivities Part II] Job Training Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_M_01",
+            "value": "[Winter Festivities Part II] Job Training Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_S_01",
+            "value": "[Cyber Monday Celebration] Job Training Pack I"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_L_01",
+            "value": "[Cyber Monday Celebration] EXP Cube Pack II"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_S_01",
+            "value": "[Cyber Monday Celebration] EXP Cube Pack I"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_L_01",
+            "value": "[Cyber Monday Celebration] Growth Egg Pack II"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_S_01",
+            "value": "[Cyber Monday Celebration] Growth Egg Pack I"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA_01",
+            "value": "[Cyber Monday Celebration] Adamantite Pack"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_03",
+            "value": "UR Unit Limit Breaking Pack"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL06",
+            "value": "Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_LSWORD_01",
+            "value": "Greatsword Awakening Pack"
+        },
+        {
+            "key": "IT_SET_TICKET_STORY_02",
+            "value": "Story Skip Ticket Pack"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP_03",
+            "value": "[Winter Festivities Part II] Vision Card Awakening Pack"
+        },
+        {
+            "key": "IT_SET_SMVC2_UNIT_RD_01",
+            "value": "[Winter Festivities Part II] Raid Support Pack+"
+        },
+        {
+            "key": "IT_SET_SMVC_AWK_01",
+            "value": "[Winter Festivities Part II] Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_SMVC2_02",
+            "value": "[Winter Festivities Part II] Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_SMVC_UE_EXP",
+            "value": "[Winter Festivities Part II] Unit Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP_02",
+            "value": "[Winter Festivities Part II] Vision Card Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SMVC_AF_EXP_01",
+            "value": "[Winter Festivities Part II] Equipment Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GROW_DEAN",
+            "value": "Duane Training Pack"
+        },
+        {
+            "key": "IT_SET_VC_GROW_DEAN",
+            "value": "\"Irresistible Darkness\" Training Pack"
+        },
+        {
+            "key": "IT_SET_WH_SE_UNIT",
+            "value": "[Winter Festivities Part III] Select Unit Pack"
+        },
+        {
+            "key": "IT_SET_WH_SE_VCARD",
+            "value": "[Winter Festivities Part III] Select Vision Card Pack"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_WH_L",
+            "value": "[Winter Festivities Part III] EXP Cube Pack II"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_WH_S",
+            "value": "[Winter Festivities Part III] EXP Cube Pack I"
+        },
+        {
+            "key": "IT_SET_VC_EXP_WH_L",
+            "value": "[Winter Festivities Part III] Growth Egg Pack II"
+        },
+        {
+            "key": "IT_SET_VC_EXP_WH_S",
+            "value": "[Winter Festivities Part III] Growth Egg Pack I"
+        },
+        {
+            "key": "IT_SET_AF_EXP_WH",
+            "value": "[Winter Festivities Part III] Adamantite Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_WH_02",
+            "value": "Equipment Awakening Pack"
+        },
+        {
+            "key": "IT_SET_KG_EXP_01",
+            "value": "[Daily] King Burst Pot/Armor Pot Pack"
+        },
+        {
+            "key": "IT_SET_AWK_NO_01",
+            "value": "Unit Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05",
+            "value": "Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_NO_UE_EXP",
+            "value": "Unit Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_NO_VE_EXP",
+            "value": "Vision Card Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_NO",
+            "value": "Select Element Magicite Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_NO_S",
+            "value": "Unit Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL_1000VER",
+            "value": "Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_VC_EXP_1000VER",
+            "value": "Growth Egg Pack"
+        },
+        {
+            "key": "IT_SET_LB_EXP_NO",
+            "value": "King Burst Pot Pack"
+        },
+        {
+            "key": "IT_SET_JP_UP_NO_01",
+            "value": "Ovalite Pack"
+        },
+        {
+            "key": "IT_SET_WA_EXP_NO",
+            "value": "King Armor Pot Pack"
+        },
+        {
+            "key": "IT_SET_PI_COM_NO_01",
+            "value": "Fragment of Thought Pack"
+        },
+        {
+            "key": "IT_SET_GROW_RD_02",
+            "value": "Rainbow Training Pack+"
+        },
+        {
+            "key": "IT_SET_AF_EXP_GU_02",
+            "value": "Equipment Awakening Pack"
+        },
+        {
+            "key": "IT_SET_GROW_NO_01",
+            "value": "Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_NO_03",
+            "value": "Lightning Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_BOW_01_300",
+            "value": "Bow Awakening Pack"
+        },
+        {
+            "key": "IT_SET_NO2_UE_EXP",
+            "value": "Unit Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_AF_EXP_01",
+            "value": "Equipment Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_VC_GROW_LVAT",
+            "value": "Leviathan Training Pack"
+        },
+        {
+            "key": "IT_SET_KEY_01",
+            "value": "Key Quest Unlocking Pack (Challenge)"
+        },
+        {
+            "key": "IT_SET_NY3_G_U_UR_UPI",
+            "value": "UR Guaranteed Unit Summon Pack"
+        },
+        {
+            "key": "IT_SET_NY3_G_VC_UR_UPI",
+            "value": "UR Guaranteed Vision Card Summon Pack"
+        },
+        {
+            "key": "IT_SET_NY3_SE_UNIT",
+            "value": "[New Year's Celebration Part III] Select Unit Pack"
+        },
+        {
+            "key": "IT_SET_NY3_SE_VCARD",
+            "value": "[New Year's Celebration Part III] Select Vision Card Pack"
+        },
+        {
+            "key": "IT_SET_NO_VE_EXP_MAX",
+            "value": "Vision Card Full Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_WA_NO",
+            "value": "Light Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_LB_EXP_SP_01",
+            "value": "Limit Burst Enhancement Pack+ "
+        },
+        {
+            "key": "IT_SET_WA_EXP_SP_01",
+            "value": "Equipment Ability Pack+"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_RD_01",
+            "value": "Raid Support Pack+"
+        },
+        {
+            "key": "IT_SET_BOW_GL03",
+            "value": "Killer Bow +3 (Critical) Pack"
+        },
+        {
+            "key": "IT_SET_RNG_GL02",
+            "value": "Jeweled Ring +3 (Aim) Pack"
+        },
+        {
+            "key": "IT_SET_SMVC_AWK_01_NO",
+            "value": "Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_NO_02",
+            "value": "Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_JP_UP_NO_GL01",
+            "value": "Ovalite Pack"
+        },
+        {
+            "key": "IT_SET_GROW_SAKR",
+            "value": "Sakura Training Pack"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL07",
+            "value": "Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_WC_UR_AWK_01",
+            "value": "UR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_WC_JB_MM_NO_05",
+            "value": "Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_WC_JB_MM_NO_04",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_WC_JB_MM_NO_03",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_ROD_GL02",
+            "value": "Prunus Lamina +3 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_WC_JB_MM_NO_02",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_WC_JB_MM_NO_01",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_WC_UE_EXP",
+            "value": "Unit Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_STA_02",
+            "value": "Staff Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_00",
+            "value": "Fire Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_WATER_00",
+            "value": "Water Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_WIND_00",
+            "value": "Wind Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_00",
+            "value": "Lightning Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_00",
+            "value": "Earth Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_ICE_00",
+            "value": "Ice Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_00",
+            "value": "Light Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_DARK_00",
+            "value": "Dark Awakening Pack"
+        },
+        {
+            "key": "IT_SET_GROW_HLNA",
+            "value": "Black Rose of the Battlefield Training Pack"
+        },
+        {
+            "key": "IT_SET_MR_UR_VC_GL02",
+            "value": "[Daily] Vision Card Summon Ticket Pack"
+        },
+        {
+            "key": "IT_SET_VS_SMSP_2020AT2",
+            "value": "Vision Card Summoning Pack+"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_ICE_NO_1ST",
+            "value": "Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_WC2_JB_MM_NO_05",
+            "value": "Job Training Support Pack II"
+        },
+        {
+            "key": "IT_SET_WC2_JB_MM_NO_04",
+            "value": "Job Training Support Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_RARD",
+            "value": "Rhaldor Training Pack"
+        },
+        {
+            "key": "IT_SET_US_SM_11S",
+            "value": "[Daily] Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_US_SMSP_11S",
+            "value": "Unit Summoning Pack+"
+        },
+        {
+            "key": "IT_SET_WC3_G_U_UR_UPI",
+            "value": "UR Guaranteed Unit Summon Pack"
+        },
+        {
+            "key": "IT_SET_WC3_G_VC_UR_UPI",
+            "value": "UR Guaranteed Vision Card Summon Pack"
+        },
+        {
+            "key": "IT_SET_WC3_SE_UNIT",
+            "value": "Select MR Unit Shard x50 Summon Pack"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_GL03",
+            "value": "Fire Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_PIECE_SSR_NO",
+            "value": "MR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_PIECE_SR_NO",
+            "value": "SR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_FIS_GL02",
+            "value": "Kaiser Knuckles +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_CLT_GL02",
+            "value": "Fides Lacerna +3 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_FIS_GL03",
+            "value": "Fists Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AF_FIST_01",
+            "value": "Secret Book of Refinement Pack [Fists]"
+        },
+        {
+            "key": "IT_SET_AW_PIECE_R_NO",
+            "value": "R Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_PIECE_N_NO",
+            "value": "N Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_02",
+            "value": "Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_TYPN_EXP",
+            "value": "\"Tempestuous Disaster, Typhon\" Training Pack"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_01",
+            "value": "Handy Gift Bag"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_02",
+            "value": "Select Unit Gift Bag"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_03",
+            "value": "Select Vision Card Gift Bag"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_05",
+            "value": "UR Unit Limit Breaking Gift Bag"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_06",
+            "value": "UR Vision Card Awakening Gift Bag"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_04",
+            "value": "MR Unit Limit Breaking Gift Bag"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_FUKUBUKURO",
+            "value": "Raid Support Gift Bag"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_UR_AWK_01",
+            "value": "UR Unit Training Gift Bag"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_07",
+            "value": "Esper Gift Bag"
+        },
+        {
+            "key": "IT_SET_JP_UP_FUKUBUKURO_01",
+            "value": "Ovalite Gift Bag"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_09",
+            "value": "Equipment Training Gift Bag"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_10",
+            "value": "EXP Cube Gift Bag II"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_11",
+            "value": "Growth Egg Gift Bag"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_12",
+            "value": "EXP Cube Gift Bag I"
+        },
+        {
+            "key": "IT_SET_FUKUBUKURO_13",
+            "value": "Adamantite Gift Bag"
+        },
+        {
+            "key": "IT_SET_AW_WATER_CM_GL05",
+            "value": "Water Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_GL05",
+            "value": "Earth Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_KEY_JP_NO",
+            "value": "JP Acquisition Pack"
+        },
+        {
+            "key": "IT_SET_AW_SSR_NO_GL02",
+            "value": "MR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_WE2021_GL05",
+            "value": "Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_WE2021_GL04",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_WE2021_GL03",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_BOW_012_GL00",
+            "value": "Platinum Bow +3 (Critical) Pack"
+        },
+        {
+            "key": "IT_SET_FIS_004_GL00",
+            "value": "Kaiser Knuckles +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_HAT_004_GL00",
+            "value": "Sage's Hat +3 (Dodge) Pack"
+        },
+        {
+            "key": "IT_SET_BOW_ALL_GL00",
+            "value": "Bow Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AF_BOW_01",
+            "value": "Secret Book of Refinement Pack [Bow]"
+        },
+        {
+            "key": "IT_SET_VKTR_01_EXP",
+            "value": "Viktora (Winter) Training Pack"
+        },
+        {
+            "key": "IT_SET_VNLA_01_EXP",
+            "value": "Vinera (Winter) Training Pack"
+        },
+        {
+            "key": "IT_SET_RYER_01_EXP",
+            "value": "Little Leela (Halloween) Training Pack"
+        },
+        {
+            "key": "IT_SET_RIRY_01_EXP",
+            "value": "Rairyuu (Halloween) Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_GL05",
+            "value": "Wind Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL05",
+            "value": "Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_MAC_003_GL00",
+            "value": "Platinum Mace +5 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_CLT_004_GL00",
+            "value": "Smart Coat +5 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_SWO_023_GL00",
+            "value": "Lohengrin +5 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_CLT_006_GL00",
+            "value": "Fides Lacerna +5 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_MACE_GL03",
+            "value": "Mace Awakening Pack"
+        },
+        {
+            "key": "IT_SET_SWO_02",
+            "value": "Sword Awakening Pack"
+        },
+        {
+            "key": "IT_SET_SEC_MAC_GL01",
+            "value": "Secret Book of Refinement Pack [Mace]"
+        },
+        {
+            "key": "IT_SET_SEC_SWO_GL01",
+            "value": "Secret Book of Refinement Pack [Sword]"
+        },
+        {
+            "key": "IT_SET_NO_UE_EXP_02",
+            "value": "Unit Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_MAT_LESS_02",
+            "value": "Void Megacryst Pack"
+        },
+        {
+            "key": "IT_SET_MAT_ICE_02",
+            "value": "Ice Megacryst Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SOIL_02",
+            "value": "Earth Megacryst Pack"
+        },
+        {
+            "key": "IT_SET_MAT_WATER_02",
+            "value": "Water Megacryst Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAP_03",
+            "value": "Unidentifiable Sap Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAP_04",
+            "value": "Sacred Tree Sap Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAND_03",
+            "value": "Black Spiritsand Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAND_04",
+            "value": "White Spiritsand Pack"
+        },
+        {
+            "key": "IT_SET_MAT_HEART_03",
+            "value": "Blissful Heart Pack"
+        },
+        {
+            "key": "IT_SET_MAT_HEART_04",
+            "value": "Joyful Heart Pack"
+        },
+        {
+            "key": "IT_SET_MAT_LIQUID_03",
+            "value": "Velvety Fluid Pack"
+        },
+        {
+            "key": "IT_SET_MAT_LIQUID_04",
+            "value": "Slimy Fluid Pack"
+        },
+        {
+            "key": "IT_SET_GABL_EXP",
+            "value": "Garvall Training Pack"
+        },
+        {
+            "key": "IT_SET_ELSR_EXP",
+            "value": "Elsirelle Training Pack"
+        },
+        {
+            "key": "IT_SET_US_SM_AC2",
+            "value": "[Daily] Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_US_SMSP_AC2",
+            "value": "Unit Summoning Pack+"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_04",
+            "value": "UR Unit Limit Breaking Pack"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_04",
+            "value": "Dark Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_AC2_05_05",
+            "value": "Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_GLO_GL01",
+            "value": "Dark Gloves +5 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_ARM_GL02",
+            "value": "Golden Armor +5 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_BSW_GL03",
+            "value": "Golden Blade +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_HLM_GL02",
+            "value": "Golden Helm +5 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_GLO_01",
+            "value": "Gloves Awakening Pack"
+        },
+        {
+            "key": "IT_SET_LSWORD_02",
+            "value": "Greatsword Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_AC2_04",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_AC2_03",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_AF_GLOVE_01",
+            "value": "Secret Book of Refinement Pack [Gloves]"
+        },
+        {
+            "key": "IT_SET_AF_LSWORD_01",
+            "value": "Secret Book of Refinement Pack [Greatsword]"
+        },
+        {
+            "key": "IT_SET_JB_MM_AC2_02",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_AC2_01",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_DEAN_UP_GL01",
+            "value": "Duane Training Pack"
+        },
+        {
+            "key": "IT_SET_FRVA_UP_GL01",
+            "value": "Fryevia Training Pack"
+        },
+        {
+            "key": "IT_SET_SAKR_UP_GL01",
+            "value": "Sakura Training Pack"
+        },
+        {
+            "key": "IT_SET_RAIN_UP_GL01",
+            "value": "Rain Training Pack"
+        },
+        {
+            "key": "IT_SET_LSWL_UP_GL01",
+            "value": "Lasswell Training Pack"
+        },
+        {
+            "key": "IT_SET_AYKA_UP_GL01",
+            "value": "Ayaka Training Pack"
+        },
+        {
+            "key": "IT_SET_AILN_UP_GL01",
+            "value": "Aileen Training Pack"
+        },
+        {
+            "key": "IT_SET_MDNA_UP_GL01",
+            "value": "Mediena Training Pack"
+        },
+        {
+            "key": "IT_SET_FAINT_GL01",
+            "value": "Faint Memory Daily Pack"
+        },
+        {
+            "key": "IT_SET_U_UR_GL01",
+            "value": "UR Guaranteed Unit Summon Pack"
+        },
+        {
+            "key": "IT_SET_VC_UR_GL01",
+            "value": "UR Guaranteed Vision Card Summon Pack"
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_04",
+            "value": "Ice Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_04",
+            "value": "Wind Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AF_KAT_01",
+            "value": "Purple Lightning +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_STAFF_01",
+            "value": "Prunus Lamina +5 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_JSWORD_02",
+            "value": "Katana Awakening Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_RD_02",
+            "value": "Raid Support Pack+"
+        },
+        {
+            "key": "IT_SET_STA_03",
+            "value": "Staff Awakening Pack"
+        },
+        {
+            "key": "IT_SET_GROW_RAMD",
+            "value": "\"Clairvoyant Astrologer\" Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_700DL",
+            "value": "7 Million Downloads Pack"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL02",
+            "value": "[Daily] Growth Egg Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_1STCD4_GL01",
+            "value": "First Anniversary Countdown Part IV Pack"
+        },
+        {
+            "key": "IT_SET_GROW_NO_VI_GL01",
+            "value": "UR Vision Card Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_SSR_NO_GL03",
+            "value": "MR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_1STCD4_VC_EXP_MAX",
+            "value": "First Anniversary Countdown Part IV Vision Card Full Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GROW_NO_VI_01",
+            "value": "UR Vision Card Awakening Pack"
+        },
+        {
+            "key": "IT_SET_GROW_NO_VI_02",
+            "value": "MR Vision Card Awakening Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_NO_SP",
+            "value": "Esper Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_FFX_SE_UPI",
+            "value": "FFX Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_TIDU",
+            "value": "Tidus Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_YUNA",
+            "value": "Yuna Training Pack"
+        },
+        {
+            "key": "IT_SET_1ST_SE_GL_UPI",
+            "value": "Daily Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_1ST_SOIL_GL_02",
+            "value": "Daily Earth Pack II"
+        },
+        {
+            "key": "IT_SET_1ST_SOIL_GL_01",
+            "value": "Daily Earth Pack I"
+        },
+        {
+            "key": "IT_SET_1ST_SE_GL_VPI",
+            "value": "Daily Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_1ST_SHINE_GL_02",
+            "value": "Daily Light Pack II"
+        },
+        {
+            "key": "IT_SET_1ST_DARK_GL_02",
+            "value": "Daily Dark Pack II"
+        },
+        {
+            "key": "IT_SET_1ST_SHINE_GL_01",
+            "value": "Daily Light Pack I"
+        },
+        {
+            "key": "IT_SET_1ST_DARK_GL_01",
+            "value": "Daily Dark Pack I"
+        },
+        {
+            "key": "IT_SET_1ST_WIND_GL_02",
+            "value": "Daily Wind Pack II"
+        },
+        {
+            "key": "IT_SET_1ST_THUNDER_GL_02",
+            "value": "Daily Lightning Pack II"
+        },
+        {
+            "key": "IT_SET_1ST_WIND_GL_01",
+            "value": "Daily Wind Pack I"
+        },
+        {
+            "key": "IT_SET_1ST_THUNDER_GL_01",
+            "value": "Daily Lightning Pack I"
+        },
+        {
+            "key": "IT_SET_1ST_FIRE_GL_02",
+            "value": "Daily Fire Pack II"
+        },
+        {
+            "key": "IT_SET_1ST_WATER_GL_02",
+            "value": "Daily Water Pack II"
+        },
+        {
+            "key": "IT_SET_1ST_FIRE_GL_01",
+            "value": "Daily Fire Pack I"
+        },
+        {
+            "key": "IT_SET_1ST_WATER_GL_01",
+            "value": "Daily Water Pack I"
+        },
+        {
+            "key": "IT_SET_1ST_ICE_GL_02",
+            "value": "Daily Ice Pack II"
+        },
+        {
+            "key": "IT_SET_1ST_ICE_GL_01",
+            "value": "Daily Ice Pack I"
+        },
+        {
+            "key": "IT_SET_LB_EXP_1ST",
+            "value": "Daily Limit Burst Enhancement Pack II"
+        },
+        {
+            "key": "IT_SET_LB_EXP_1ST_S",
+            "value": "Daily Limit Burst Enhancement Pack I"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1ST",
+            "value": "Daily Equipment Ability Pack II"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1ST_S",
+            "value": "Daily Equipment Ability Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_1ST",
+            "value": "Daily Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_UE_EXP_1ST",
+            "value": "Daily Unit Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_1ST_GL_01",
+            "value": "First Anniversary Celebration Pack"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL_GL_1STVER",
+            "value": "Rainbow Training Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_COMMON_GL_03",
+            "value": "Nameless Hero's Memory Pack"
+        },
+        {
+            "key": "IT_SET_NO_AWK_GL_03",
+            "value": "Unit Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_NO_VI_GL_SP",
+            "value": "Vision Card Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_SMVC_GU_GL_FOOD",
+            "value": "Guild Barracks Provision Pack"
+        },
+        {
+            "key": "IT_SET_US_EXP_GL_04",
+            "value": "Daily Free EXP Cube (XL) x10"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL_GL_0215",
+            "value": "[Beginners Only] Rainbow Fragment of Thought x3"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR_GL_0215",
+            "value": "[Beginners Only] Rainbow Vision Sphere x5"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR_GL_0215",
+            "value": "[Beginners Only] Azure Vision Sphere x5"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SR_GL_0215",
+            "value": "[Beginners Only] Gold Vision Sphere x5"
+        },
+        {
+            "key": "IT_SET_BG_UE_EXP_GL_02",
+            "value": "[Beginners Only] Unit Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_BG_AWK_GL_01",
+            "value": "[Beginners Only] Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_BG_05_GL_0215",
+            "value": "[Beginners Only] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_BG_04_GL_0215",
+            "value": "[Beginners Only] Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_BG_03_GL_0215",
+            "value": "[Beginners Only] Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_BG_02_GL_0215",
+            "value": "[Beginners Only] Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_BG_01_GL_0215",
+            "value": "[Beginners Only] Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_1ST_SE_UNIT_GL",
+            "value": "Select Unit Pack"
+        },
+        {
+            "key": "IT_SET_AW_WATER_NO_03",
+            "value": "Water Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_AW_NO",
+            "value": "Esper Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AF_STAFF_GL_02",
+            "value": "Magistral Rod +3 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_AF_SSWORD_GL_01",
+            "value": "Mage Masher +5 (Assault) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_SWORD_GL_01",
+            "value": "Coral Sword +5 (Assault) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_SPEAR_GL_01",
+            "value": "Ice Lance +5 (Assault) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_GUN_GL_01",
+            "value": "Ras Algethi +5 (Critical) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_ARMOR_GL_01",
+            "value": "Fides Lacerna +5 (Barrier) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_ARMOR_GL_02",
+            "value": "Smart Coat +5 (Barrier) Pack+"
+        },
+        {
+            "key": "IT_SET_VC_EXP_MAX_GL_01",
+            "value": "First Anniversary Celebration Vision Card Full Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_03",
+            "value": "Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_03",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_03",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_03",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_03",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_ARON",
+            "value": "Auron Training Pack"
+        },
+        {
+            "key": "IT_SET_KEY_JP_GL_NO",
+            "value": "[Daily] JP Key Pack"
+        },
+        {
+            "key": "IT_SET_1ST_SE_VISION",
+            "value": "Select Vision Card Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_UR",
+            "value": "UR Unit EX Job Unlock Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_NO",
+            "value": "EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_BSW_GL04",
+            "value": "Shimmering Blade +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LSWORD_GL_01",
+            "value": "Golden Blade +5 (Assault) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_STAFF_GL_01",
+            "value": "Platinum Rod +5 (Magic) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_BOW_GL_01",
+            "value": "Platinum Bow +5 (Assault) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_GLOVE_GL_01",
+            "value": "Dark Gloves +5 (Magic) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_ARMOR_GL_03",
+            "value": "Sage's Hat +5 (Dodge) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_ARMOR_GL_04",
+            "value": "Golden Helm +5 (Shield) Pack+"
+        },
+        {
+            "key": "IT_SET_VC_EXP_MAX_GL_02",
+            "value": "First Anniversary Celebration Part II Vision Card Full Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL_04",
+            "value": "Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_04",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_04",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_04",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_04",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_FI_NO_1ST",
+            "value": "Red Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAP_03_1ST",
+            "value": "Unidentifiable Sap Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_WA_NO_1ST",
+            "value": "Light Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAP_04_1ST",
+            "value": "Sacred Tree Sap Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_WI_NO_1ST",
+            "value": "Green Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAND_03_1ST",
+            "value": "Black Spiritsand Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_TH_NO_1ST",
+            "value": "Yellow Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAND_04_1ST",
+            "value": "White Spiritsand Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_SO_NO_1ST",
+            "value": "Orange Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_HEART_03_1ST",
+            "value": "Blissful Heart Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_SH_NO_1ST",
+            "value": "White Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_DA_NO_1ST",
+            "value": "Purple Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_LIQUID_03_1ST",
+            "value": "Velvety Fluid Pack"
+        },
+        {
+            "key": "IT_SET_MAT_LIQUID_04_1ST",
+            "value": "Slimy Fluid Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_ICE_NO_GL_1ST",
+            "value": "Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_HEART_04_1ST",
+            "value": "Joyful Heart Pack"
+        },
+        {
+            "key": "IT_SET_WC_UR_AWK_GL01",
+            "value": "First Anniversary Celebration Part II Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_TICKET_STORY_GL_01",
+            "value": "Story Skip Ticket Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_UR_1ST_GL_01",
+            "value": "[1st Ann.] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_NO_GL_01",
+            "value": "EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GROW_NO_2021",
+            "value": "Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_SSR",
+            "value": "MR Unit EX Job Unlock Pack"
+        },
+        {
+            "key": "IT_SET_AF_AXE_GL_01",
+            "value": "Golden Axe +5 (Assault) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_FIS_GL_01",
+            "value": "Kaiser Knuckles +5 (Assault) Pack+"
+        },
+        {
+            "key": "IT_SET_AF_NKN_GL_01",
+            "value": "Sasuke's Katana +5 (Critical) Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL06",
+            "value": "First Anniversary Celebration Part III Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JBEX_JSWORD_GL_01",
+            "value": "Branded Tablet Pack [Katana]"
+        },
+        {
+            "key": "IT_SET_JBEX_SWORD_GL_01",
+            "value": "Branded Tablet Pack [Sword]"
+        },
+        {
+            "key": "IT_SET_JBEX_STAFF_GL_01",
+            "value": "Branded Tablet Pack [Staff]"
+        },
+        {
+            "key": "IT_SET_RD_EM_2_NO",
+            "value": "Elemental Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_UR_AWK_GL_01",
+            "value": "First Anniversary Celebration Part III Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_NO_UE_EXP_04_GL_01",
+            "value": "Unit Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_SWORD_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Sword]"
+        },
+        {
+            "key": "IT_SET_JB_LSWORD_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Greatsword]"
+        },
+        {
+            "key": "IT_SET_JBEX_FIRE_GL_01",
+            "value": "Daily Fire EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JB_JSWORD_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Katana]"
+        },
+        {
+            "key": "IT_SET_JB_FIST_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Fists]"
+        },
+        {
+            "key": "IT_SET_JBEX_WATER_GL_01",
+            "value": "Daily Water EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JB_SPEAR_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Spear]"
+        },
+        {
+            "key": "IT_SET_JB_SSWORD_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Dagger]"
+        },
+        {
+            "key": "IT_SET_JBEX_THUNDER_GL_01",
+            "value": "Daily Lightning EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_UE_EXP_04_GL_02",
+            "value": "Daily EXP Cube Pack"
+        },
+        {
+            "key": "IT_SET_JB_KUNAI_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Ninja Blade]"
+        },
+        {
+            "key": "IT_SET_JB_BOW_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Bow]"
+        },
+        {
+            "key": "IT_SET_JBEX_WIND_GL_01",
+            "value": "Daily Wind EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_VE_EXP_04_GL_01",
+            "value": "Daily Growth Egg Pack"
+        },
+        {
+            "key": "IT_SET_JB_GUN_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Gun]"
+        },
+        {
+            "key": "IT_SET_JB_STAFF_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Staff]"
+        },
+        {
+            "key": "IT_SET_JBEX_ICE_GL_01",
+            "value": "Daily Ice EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_JP_UP_03_GL_01",
+            "value": "Daily Ovalite Pack"
+        },
+        {
+            "key": "IT_SET_JB_MACE_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Mace]"
+        },
+        {
+            "key": "IT_SET_JB_AXE_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Axe]"
+        },
+        {
+            "key": "IT_SET_JBEX_SOIL_GL_01",
+            "value": "Daily Earth EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_CG_03_GL_01",
+            "value": "Daily Gil Snapper Pack"
+        },
+        {
+            "key": "IT_SET_JB_GLOVE_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Gloves]"
+        },
+        {
+            "key": "IT_SET_JBEX_DARK_GL_01",
+            "value": "Daily Dark EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JBEX_LIGHT_GL_01",
+            "value": "Daily Light EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL_GL_01",
+            "value": "Daily Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_SE_JB_EM_05_GL_01",
+            "value": "Daily Elemental Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_03_GL_01",
+            "value": "Daily Adamantite Pack"
+        },
+        {
+            "key": "IT_SET_LB_EXP_SP_GL01",
+            "value": "Daily Limit Burst Enhancement Pack I"
+        },
+        {
+            "key": "IT_SET_VE_EXP_GL01",
+            "value": "[Daily] Growth Egg Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_COMMON_GL_04",
+            "value": "[Daily] Nameless Hero's Memory Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_NO_GL_02",
+            "value": "EX Job Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_RD_GL01",
+            "value": "Raid Support Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_DA_NO",
+            "value": "Purple Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_SO_NO",
+            "value": "Orange Magicite Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL07",
+            "value": "First Anniversary Celebration Part IV Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_VC_EXP_MAX_GL_03",
+            "value": "First Anniversary Celebration Part IV Vision Card Full Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_KEY",
+            "value": "Magicite Acquisition Pack"
+        },
+        {
+            "key": "IT_SET_NieR_SE_UPI",
+            "value": "NieR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_N2TB",
+            "value": "2B Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_N9TS",
+            "value": "9S Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_2021SP1_GL_01",
+            "value": "Spring 2021 Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_AW_NO_UR",
+            "value": "UR Esper Awakening Pack"
+        },
+        {
+            "key": "IT_SET_KAT_GL03",
+            "value": "Virtuous Contract +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_SPE_GL04",
+            "value": "Cruel Arrogance +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_JSWORD_01_2B",
+            "value": "Katana Awakening Pack"
+        },
+        {
+            "key": "IT_SET_SPEAR_01_9S",
+            "value": "Spear Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL08",
+            "value": "[Spring 2021 Part I] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_SE_JB_MM_02_NA",
+            "value": "Job Memory Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_05",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_05",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_RD_MM_ALL_2_NO",
+            "value": "Faint Memory Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_05",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_05",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_SE_JB_MM_01_NA",
+            "value": "Job Memory Pack I"
+        },
+        {
+            "key": "IT_SET_RD_MM_ALL_1_NO",
+            "value": "Faint Memory Pack I"
+        },
+        {
+            "key": "IT_SET_AW_WIND_NO_03",
+            "value": "Wind Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_FFVIIR_01",
+            "value": "Global Release 400th Day Celebration Pack"
+        },
+        {
+            "key": "IT_SET_PI_JBEX_UR_FFVIIR",
+            "value": "UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL_FFVIIR",
+            "value": "Rainbow Training Pack+"
+        },
+        {
+            "key": "IT_SET_US_SB_AW_NO_UR_GL1",
+            "value": "UR Esper Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_U_UR_GL02",
+            "value": "UR Guaranteed Unit Summon Pack"
+        },
+        {
+            "key": "IT_SET_VC_UR_GL02",
+            "value": "UR Guaranteed Vision Card Summon Pack"
+        },
+        {
+            "key": "IT_SET_AW_SSR_NO_GL04",
+            "value": "MR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL09",
+            "value": "[Spring 2021 Part II] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_NKN_GL02",
+            "value": "Sasuke's Katana +5 (Critical) Pack"
+        },
+        {
+            "key": "IT_SET_SPE_GL05",
+            "value": "Ice Lance +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_06",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_06",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_06",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_06",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_MONT_01",
+            "value": "Mont (King of Leonis) Training Pack"
+        },
+        {
+            "key": "IT_SET_EXP_GL_07",
+            "value": "Daily EXP Cube Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_UR_1ST_GL_02",
+            "value": "[Spring 2021 Part III] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL10",
+            "value": "[Spring 2021 Part III] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_SWO_GL05",
+            "value": "Flametongue +5 (Assault) Pack+"
+        },
+        {
+            "key": "IT_SET_SWO_GL06",
+            "value": "Sword Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_07",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_07",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_07",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_07",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_800DL",
+            "value": "8 Million Downloads Pack"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL_GL_800DL",
+            "value": "Rainbow Training Pack+"
+        },
+        {
+            "key": "IT_SET_800DL_SE_UNIT_GL",
+            "value": "Select Unit Pack"
+        },
+        {
+            "key": "IT_SET_800DL_SE_VISION",
+            "value": "Select Vision Card Pack"
+        },
+        {
+            "key": "IT_SET_800DL_EX_UR",
+            "value": "8 Million Downloads EX Pack"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_05",
+            "value": "UR Unit Limit Breaking Pack"
+        },
+        {
+            "key": "IT_SET_GROW_NO_VI_GL02",
+            "value": "UR Vision Card Awakening Pack"
+        },
+        {
+            "key": "IT_SET_NO_AWK_02_NEW",
+            "value": "UR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_800DL_SM_EXP",
+            "value": "Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_GW_GL1",
+            "value": "Equipment Pack"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L_GL1",
+            "value": "EXP Cube Pack"
+        },
+        {
+            "key": "IT_SET_VE_EXP_GL02",
+            "value": "Growth Egg Pack"
+        },
+        {
+            "key": "IT_SET_SB_EXP_FIRE_GL1",
+            "value": "Red Magicite Pack"
+        },
+        {
+            "key": "IT_SET_GROW_NO_VI_03",
+            "value": "Vision Card Awakening Pack"
+        },
+        {
+            "key": "IT_SET_UNIT_800DL_GL1",
+            "value": "8 Million Downloads Part II Pack"
+        },
+        {
+            "key": "IT_SET_ARM_028_GL1",
+            "value": "Brigandine +3 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_CLT_015_GL1",
+            "value": "Galmia Coat +3 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_MAT_GL1",
+            "value": "Megacryst Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAP_GL1",
+            "value": "Sap Pack"
+        },
+        {
+            "key": "IT_SET_NO_AWK_02",
+            "value": "UR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_ARMOR_GL1",
+            "value": "Armor Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AF_PT_NO",
+            "value": "Dwarven Hammer Pack"
+        },
+        {
+            "key": "IT_SET_GROW_PNIX",
+            "value": "\"Fiery Wings of Legend, Phoenix\" Training Pack"
+        },
+        {
+            "key": "IT_SET_TICKET_STORY_GL_02",
+            "value": "Daily Skip Ticket Pack"
+        },
+        {
+            "key": "IT_SET_GROW_RAIN",
+            "value": "Rain Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_RYEL",
+            "value": "Job Training Pack [Louelle]"
+        },
+        {
+            "key": "IT_SET_GROW_RYEL",
+            "value": "Louelle Training Pack"
+        },
+        {
+            "key": "IT_SET_UNIT_800DL_GL2",
+            "value": "8 Million Downloads Part III Pack"
+        },
+        {
+            "key": "IT_SET_US_SE_AF_SUP_GL1",
+            "value": "Equipment Seal Pack"
+        },
+        {
+            "key": "IT_SET_AW_PIECE_SSR_NO_GL1",
+            "value": "MR Unit Training Support Pack"
+        },
+        {
+            "key": "IT_SET_US_SM_800DL",
+            "value": "[Daily] Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_US_SMSP_800DL",
+            "value": "Unit Summoning Pack+"
+        },
+        {
+            "key": "IT_SET_U_UR_GL03",
+            "value": "UR Guaranteed Unit Summon Pack        "
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_GL06",
+            "value": "Earth Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_800DL_EX_UR_GL1",
+            "value": "8 Million Downloads Part III EX Pack"
+        },
+        {
+            "key": "IT_SET_BOK_GL01",
+            "value": "Lunar Tome +5 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_AF_BOOK_01",
+            "value": "Secret Book of Refinement Pack [Book]"
+        },
+        {
+            "key": "IT_SET_JBEX_BOOK_01",
+            "value": "Branded Tablet Pack [Book]"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL11",
+            "value": "[8 Million Downloads Part III] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_08",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_08",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_08",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_08",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_CMLO",
+            "value": "Dreams of Heroism Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_FDRC",
+            "value": "Frederika Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_AYKA",
+            "value": "Ayaka Training Pack"
+        },
+        {
+            "key": "IT_SET_VS_SM_800DL",
+            "value": "[Daily] Vision Card Summon Pack"
+        },
+        {
+            "key": "IT_SET_VS_SMSP_800DL",
+            "value": "Vision Card Summoning Pack+"
+        },
+        {
+            "key": "IT_SET_VC_UR_GL03",
+            "value": "UR Guaranteed Vision Card Summon Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_TH_NO",
+            "value": "Yellow Magicite Pack"
+        },
+        {
+            "key": "IT_SET_GROW_NO_VI_GL03",
+            "value": "Vision Card Awakening Pack"
+        },
+        {
+            "key": "IT_SET_800DL_JB_MM_NO_05",
+            "value": "Job Training Support Pack II"
+        },
+        {
+            "key": "IT_SET_800DL_JB_MM_NO_04",
+            "value": "Job Training Support Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_HLNA_01",
+            "value": "Helena (Black-Robed Witch) Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_HLNA_01",
+            "value": "Job Training Pack [Helena (Black-Robed Witch)]"
+        },
+        {
+            "key": "IT_SET_GROW_ROSEFES",
+            "value": "Maidens of the Rose Training Pack"
+        },
+        {
+            "key": "IT_SET_US_EXP_GL_05",
+            "value": "Daily Free EXP Cube (XL) x10"
+        },
+        {
+            "key": "IT_SET_KEY_JP_GL_NO_SP",
+            "value": "[Daily] JP Key Pack+"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_ROSE",
+            "value": "Rose Festival Pack"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_05",
+            "value": "Dark Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_UR_1ST_GL_03",
+            "value": "[Rose Festival] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_NO_GL_03",
+            "value": "EX Job Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL12",
+            "value": "[Rose Festival] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_GROW_NO_ROSE",
+            "value": "Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_09",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_09",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_NO_AWK_GL_04",
+            "value": "UR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_GL_01",
+            "value": "Cypress Pile +5 (Magic) Pack+"
+        },
+        {
+            "key": "IT_SET_STA_04",
+            "value": "Staff Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AF_STAFF_GL_04",
+            "value": "Secret Book of Refinement Pack [Staff]"
+        },
+        {
+            "key": "IT_SET_LB_EXP_SP_GL02",
+            "value": "Limit Burst Enhancement Pack+"
+        },
+        {
+            "key": "IT_SET_WA_EXP_SP_GL01",
+            "value": "Equipment Ability Pack+"
+        },
+        {
+            "key": "IT_SET_NO_UE_EXP_GL01",
+            "value": "Unit Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_09",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_09",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_NO_S_GL01",
+            "value": "Unit Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_NO_AF_EXP_GL01",
+            "value": "Equipment Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GROW_VNLA",
+            "value": "Vinera Fennes Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_MACR",
+            "value": "Machérie Hourne Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_CBCL",
+            "value": "\"Ruby Guardian, Carbuncle\" Training Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_SH_NO",
+            "value": "White Magicite Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_ACC_GL_01",
+            "value": "Chocolate Flan Earrings +3 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_JBEX_MACE_GL_01",
+            "value": "Branded Tablet Pack [Mace]"
+        },
+        {
+            "key": "IT_SET_AW_SSR_NO_GL05",
+            "value": "N–MR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_ACCE_03",
+            "value": "Accessory Awakening Pack"
+        },
+        {
+            "key": "IT_SET_GROW_THLA_01",
+            "value": "Salire (Sweetheart) Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_THLA_01",
+            "value": "Job Training Pack [Salire (Sweetheart)]"
+        },
+        {
+            "key": "IT_SET_US_SM_VU",
+            "value": "[Daily] Unit Summoning Pack"
+        },
+        {
+            "key": "IT_SET_US_SMSP_VU",
+            "value": "Unit Summoning Pack+"
+        },
+        {
+            "key": "IT_SET_U_UR_GL04",
+            "value": "UR Guaranteed Unit Summon Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_UR_1ST_GL_04",
+            "value": "[Version Upgrade Celebration] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_NO_GL_04",
+            "value": "EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_SWO_GL07",
+            "value": "Sword of Light +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_GL03",
+            "value": "Armor of Light +3 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_NO_03",
+            "value": "Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL13",
+            "value": "[Version Upgrade Celebration] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_10",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_10",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_10",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_10",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_WROL_DMAC",
+            "value": "FFI Reissue Unit/Vision Card Shard Pack"
+        },
+        {
+            "key": "IT_SET_GROW_WROL_R",
+            "value": "Warrior of Light Training Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_WA_NO_GL01",
+            "value": "Light Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_SH_NO_GL01",
+            "value": "White Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_FI_NO",
+            "value": "Red Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_ICE_NO_GL01",
+            "value": "Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_WI_NO_GL01",
+            "value": "Green Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_TH_NO_GL01",
+            "value": "Yellow Magicite Pack"
+        },
+        {
+            "key": "IT_SET_GROW_ICDG",
+            "value": "\"Wyrm of Blizzard Winds, Freizess\" Training Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_SO_NO_GL01",
+            "value": "Orange Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_DA_NO_GL01",
+            "value": "Purple Magicite Pack"
+        },
+        {
+            "key": "IT_SET_VS_SM_Inter2",
+            "value": "[Daily] Vision Card Summon Pack"
+        },
+        {
+            "key": "IT_SET_VS_SMSP_Inter2",
+            "value": "Vision Card Summoning Pack+"
+        },
+        {
+            "key": "IT_SET_VC_UR_GL04",
+            "value": "UR Guaranteed Vision Card Summon Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_NO_S_GL01",
+            "value": "[Selection Quest Release Celebration] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_AW_SSR_NO_GL06",
+            "value": "N–MR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_AW_NO_SSR",
+            "value": "MR Esper Awakening Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_SSR_Inter2",
+            "value": "MR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_GROW_ZZAN_01",
+            "value": "Zazan the Unkillable Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_MONT",
+            "value": "\"The Solitary Lion\" Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_ZZAN_01",
+            "value": "Job Training Pack [Zazan the Unkillable]"
+        },
+        {
+            "key": "IT_SET_GROW_DEAN_GL01",
+            "value": "Duane Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA_GL01",
+            "value": "Fryevia Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_KTON",
+            "value": "Kitone Training Pack"
+        },
+        {
+            "key": "IT_SET_KEY_JP_NO_SP_GL01",
+            "value": "[Daily] JP Key Pack+"
+        },
+        {
+            "key": "IT_SET_CG_DAY_GL01",
+            "value": "[Daily] Gil Snapper Pack"
+        },
+        {
+            "key": "IT_SET_GF_SE_UPI",
+            "value": "Global Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_NO_03",
+            "value": "Earth Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AW_DARK_NO_03",
+            "value": "Dark Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AW_ICE_NO_03",
+            "value": "Ice Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_EXJOB_UR_1ST_GL_05",
+            "value": "[Global Festival] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL14",
+            "value": "[Global Festival] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_11",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_11",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_GL03",
+            "value": "Sasuke's Katana +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_GL05",
+            "value": "Golden Blade +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_SWO_GL08",
+            "value": "Icebrand +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_GF_UE_EXP",
+            "value": "[Global Festival] Unit Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_11",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_11",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_MORE",
+            "value": "Moore Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_CWEL",
+            "value": "Corwell Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_MORE",
+            "value": "Job Training Pack [Moore]"
+        },
+        {
+            "key": "IT_SET_JB_CWEL",
+            "value": "Job Training Pack [Corwell]"
+        },
+        {
+            "key": "IT_SET_EXP_GL_08",
+            "value": "[Daily] EXP Cube Pack"
+        },
+        {
+            "key": "IT_SET_TICKET_STORY_GL_03",
+            "value": "[Daily] Skip Ticket Pack+"
+        },
+        {
+            "key": "IT_SET_AW_WATER_NO_GL03",
+            "value": "Water Awakening Pack II"
+        },
+        {
+            "key": "IT_SET_AW_WIND_NO_GL03",
+            "value": "Wind Awakening Pack II"
+        },
+        {
+            "key": "IT_SET_SE_UE_EXP",
+            "value": "[Story Event Release] Unit Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL15",
+            "value": "[Story Event Release] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_12",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_12",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_AF_LW_SWO_GL09",
+            "value": "Spine Blade +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_MACE_GL04",
+            "value": "Healing Mace +5 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_GL04",
+            "value": "Platinum Bow +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_SWO_ALL_GL01",
+            "value": "Sword Awakening Pack"
+        },
+        {
+            "key": "IT_SET_MACE_ALL_GL01",
+            "value": "Mace Awakening Pack"
+        },
+        {
+            "key": "IT_SET_BOW_ALL_GL01",
+            "value": "Bow Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_12",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_12",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_VC_GROW_MORE",
+            "value": "\"Guidance from the Stars\" Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_WHIS",
+            "value": "\"Whisper\" Training Pack"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL03",
+            "value": "[Daily] Growth Egg Pack"
+        },
+        {
+            "key": "IT_SET_AW_VC_UR_GL01",
+            "value": "[Daily] Orb of Envisionment Pack"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP_GL01",
+            "value": "[Version Upgrade Celebration] Vision Card Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_GL_01",
+            "value": "White Marshmallow Miniature +3 (Aim) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_GL03",
+            "value": "Alexandrite Ring +3 (Aim) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLK_GL01",
+            "value": "Elf's Cloak +3 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_AW_NO_GL02",
+            "value": "Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_AW_SSR_NO_GL07",
+            "value": "N–MR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_SU2021_SE_UPI",
+            "value": "Summer Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_LILS_01",
+            "value": "Lilyth (Summer) Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_KTON_01",
+            "value": "Kitone (Summer) Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_LILS_01",
+            "value": "Job Training Pack [Lilyth (Summer)]"
+        },
+        {
+            "key": "IT_SET_JB_KTON_01",
+            "value": "Job Training Pack [Kitone (Summer)]"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_SU2021",
+            "value": "Summer 2021 Part I Pack"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_NO_03",
+            "value": "Fire Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_SU2021_UE_EXP",
+            "value": "[Summer 2021 Part I] Unit Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL16",
+            "value": "[Summer 2021 Part I] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_13",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_13",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_GL05",
+            "value": "Killer Bow +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_MACE_GL05",
+            "value": "Platinum Mace +5 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_13",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_13",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_9MDL_GROW_NO",
+            "value": "Rainbow Training Pack+"
+        },
+        {
+            "key": "IT_SET_9MDL_NO_AWK_GL_SP",
+            "value": "Unit Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_9MDL_GROW_NO_VI_GL_SP",
+            "value": "Vision Card Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AF_LW_9MDL_RNG_GL01",
+            "value": "Three Stars +3 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_9MDL_AW_THUNDER_CM",
+            "value": "Lightning Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_9MDL_SE_UNIT",
+            "value": "[9 Million Downloads] Select MR Unit Shard x50 Summon Ticket Pack"
+        },
+        {
+            "key": "IT_SET_9MDL_AW_SSR_NO",
+            "value": "N–MR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_9MDL_US_SB_AW_NO",
+            "value": "Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_9MDL_KEY_JP_NO",
+            "value": "JP Acquisition Pack"
+        },
+        {
+            "key": "IT_SET_9MDL_NO_AWK_02",
+            "value": "UR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_9MDL_SE_JB_MM_02",
+            "value": "Job Memory Pack II"
+        },
+        {
+            "key": "IT_SET_9MDL_JB_MM_02",
+            "value": "Job Training Support Pack II"
+        },
+        {
+            "key": "IT_SET_9MDL_JB_MM_01",
+            "value": "Job Training Support Pack I"
+        },
+        {
+            "key": "IT_SET_9MDL_NO_UE_EXP_GL",
+            "value": "Unit Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_9MDL_NO_VE_EXP_GL",
+            "value": "Vision Card Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GROW_IRDL",
+            "value": "Ildyra Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_CRLT",
+            "value": "Charlotte Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_CRLT",
+            "value": "Job Training Pack [Charlotte]"
+        },
+        {
+            "key": "IT_SET_PU_GL02",
+            "value": "[Kilphe (Summer)] Featured Summon Ticket Pack+"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_05",
+            "value": "Light Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_GL01",
+            "value": "Golden Axe +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_WC2_JB_MM_NO_07",
+            "value": "Job Training Support Pack II"
+        },
+        {
+            "key": "IT_SET_WC2_JB_MM_NO_06",
+            "value": "Job Training Support Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_VLRC",
+            "value": "Velric Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_VLRC",
+            "value": "Job Training Pack [Velric]"
+        },
+        {
+            "key": "IT_SET_GROW_QILF_01",
+            "value": "Kilphe (Summer) Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_QILF_01",
+            "value": "Job Training Pack [Kilphe (Summer)]"
+        },
+        {
+            "key": "IT_SET_PU_GL03",
+            "value": "[Starlit Tryst] Featured Summon Ticket Pack+"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_GL01",
+            "value": "Knight Armor +3 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARW_GL01",
+            "value": "Defense Bracer +3 (Aim) Pack"
+        },
+        {
+            "key": "IT_SET_VC_GROW_STFES",
+            "value": "\"Starlit Tryst\" Training Pack"
+        },
+        {
+            "key": "IT_SET_PU_GL04",
+            "value": "Star Festival 2021 Pack+"
+        },
+        {
+            "key": "IT_SET_PU_GL05",
+            "value": "[Elsirelle (Summer)] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_PU_GL06",
+            "value": "[Lemuré] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_AF_STAFF_GL_05",
+            "value": "Platinum Rod +5 (Magic) Pack+"
+        },
+        {
+            "key": "IT_SET_CLT_018_GL01",
+            "value": "Mage's Habit +5 (Barrier) Pack+"
+        },
+        {
+            "key": "IT_SET_SU2021_03_SSR_AWK_GL01",
+            "value": "[Summer 2021 Part III] MR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_EXP_GL02",
+            "value": "Job Enhancement Support Pack II"
+        },
+        {
+            "key": "IT_SET_JB_EXP_GL01",
+            "value": "Job Enhancement Support Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_ELSR_01",
+            "value": "Elsirelle (Summer) Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_ELSR_01",
+            "value": "Job Training Pack [Elsirelle (Summer)]"
+        },
+        {
+            "key": "IT_SET_GROW_LMRE",
+            "value": "Lemuré Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_LMRE",
+            "value": "Job Training Pack [Lemuré]"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_SU2021_03_GL",
+            "value": "Summer 2021 Part III Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL17",
+            "value": "[Summer 2021 Part III] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_SWO_029_3_BG_GL01",
+            "value": "Equipment Pack [Spine Blade]"
+        },
+        {
+            "key": "IT_SET_AF_LW_SWO_023_3_BG_GL01",
+            "value": "Equipment Pack [Lohengrin]"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_004_3_BG_GL01",
+            "value": "Equipment Pack [Golden Blade]"
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_003_3_BG_GL01",
+            "value": "Equipment Pack [Osafune]"
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_004_3_BG_GL01",
+            "value": "Equipment Pack [Kaiser Knuckles]"
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_004_3_BG_GL01",
+            "value": "Equipment Pack [Ice Lance]"
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_006_3_BG_GL01",
+            "value": "Equipment Pack [Mage Masher]"
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_003_3_BG_GL01",
+            "value": "Equipment Pack [Sasuke's Katana]"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_004_3_BG_GL01",
+            "value": "Equipment Pack [Killer Bow]"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_003_3_BG_GL01",
+            "value": "Equipment Pack [Ras Algethi]"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_005_3_BG_GL01",
+            "value": "Equipment Pack [Platinum Rod]"
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_003_3_BG_GL01",
+            "value": "Equipment Pack [Platinum Mace]"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_003_3_BG_GL01",
+            "value": "Equipment Pack [Golden Axe]"
+        },
+        {
+            "key": "IT_SET_AF_LW_GLO_003_3_BG_GL01",
+            "value": "Equipment Pack [Dark Gloves]"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOK_003_3_BG_GL01",
+            "value": "Equipment Pack [Lunar Tome]"
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_004_3_BG_GL01",
+            "value": "Equipment Pack [Golden Helm]"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_004_3_BG_GL01",
+            "value": "Equipment Pack [Golden Armor]"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_004_3_BG_GL01",
+            "value": "Equipment Pack [Smart Coat]"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_004_3_BG_GL01",
+            "value": "Equipment Pack [Sage's Hat]"
+        },
+        {
+            "key": "IT_SET_FFVIIR_SE_UPI_GL01",
+            "value": "FFVIIR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_PU_GL07",
+            "value": "[Cloud] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_PU_GL08",
+            "value": "[Tifa] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_CLUD",
+            "value": "Cloud Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_TIFA",
+            "value": "Tifa Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03_GL01",
+            "value": "Lightning Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_AW_WIND_03_GL01",
+            "value": "Wind Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_CM_GL01",
+            "value": "Lightning Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_GL06",
+            "value": "Wind Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_KEY_JP_LB_EXP_CM21_GL01",
+            "value": "[1.5 Year Anniversary Countdown Part I] Ability Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_15A1_GL01",
+            "value": "1.5 Year Anniversary Countdown Part I Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_AW_NO_UR_GL02",
+            "value": "UR Esper Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL18",
+            "value": "[1.5 Year Anniversary Countdown Part I] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_14",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_14",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_GL01",
+            "value": "Buster Sword +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_GL01",
+            "value": "Kaiser Knuckles +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_GL03",
+            "value": "Sage's Hat +5 (Dodge) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_GL01",
+            "value": "Fides Lacerna +5 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_NO_SP_GL01",
+            "value": "Esper Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_WC_UR_AWK_GL02",
+            "value": "UR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_SE_JB_MM_02_NA_GL01",
+            "value": "Job Memory Pack"
+        },
+        {
+            "key": "IT_SET_15A1_03_SSR_AWK_GL01",
+            "value": "[1.5 Year Anniversary Countdown Part I] MR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_14",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_14",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_FFVIIR_01_GL01",
+            "value": "FFVIIR Collaboration Pack"
+        },
+        {
+            "key": "IT_SET_FFVIIR_SE_UPI_GL02",
+            "value": "FFVIIR Unit Training Pack II"
+        },
+        {
+            "key": "IT_SET_PU_GL09",
+            "value": "[Barret] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_PU_GL10",
+            "value": "[Aerith] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_BART",
+            "value": "Barret Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_AERT",
+            "value": "Aerith Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_ICE_03_GL01",
+            "value": "Ice Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_AW_WATER_03_GL01",
+            "value": "Water Awakening Soul (2–4★) Pack"
+        },
+        {
+            "key": "IT_SET_KEY_GL01",
+            "value": "[Daily] Key Pack"
+        },
+        {
+            "key": "IT_SET_AW_WATER_NO_GL04",
+            "value": "Water Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_GL01",
+            "value": "Guard Stick +3 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_GL01",
+            "value": "Ras Algethi +5 (Critical) Pack"
+        },
+        {
+            "key": "IT_SET_GROW_GRSR_01",
+            "value": "Glaciela (Regalia) Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_GRSR_01",
+            "value": "Job Training Pack [Glaciela (Regalia)]"
+        },
+        {
+            "key": "IT_SET_PU_GRSR_01_GL01",
+            "value": "[Glaciela (Regalia)] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_ACTP_03_DAY_GL01",
+            "value": "[Daily] NRG Restore Pack"
+        },
+        {
+            "key": "IT_SET_U_UR_GL05",
+            "value": "[1.5 Year Anniversary Countdown Part III] Soul Star Pack"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_GL04",
+            "value": "Fire Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL_19",
+            "value": "[1.5 Year Anniversary Countdown Part III] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_15",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_15",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_AF_LW_ACC_GL02",
+            "value": "Shinra Bangle +3 (Aim) Pack"
+        },
+        {
+            "key": "IT_SET_15A3_AWK_01",
+            "value": "[1.5 Year Anniversary Countdown Part III] MR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_15",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_15",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_VC_GROW_LSWL",
+            "value": "\"Frost Flower Flash, Mystical Ice Lasswell\" Training Pack"
+        },
+        {
+            "key": "IT_SET_PU_V_LSWL_10_GL01",
+            "value": "[Frost Flower Flash, Mystical Ice Lasswell] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_15A4_VC_EXCH_GL01",
+            "value": "[1.5 Year Anniversary Countdown Part IV] Vision Star Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_GL02",
+            "value": "Platinum Robe +3 (Vital) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_GL01",
+            "value": "Platinum Helm +3 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_ACC_GL03",
+            "value": "Soul of Thamasa +3 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL_15A4_GL01",
+            "value": "Rainbow Training Pack+"
+        },
+        {
+            "key": "IT_SET_ARMOR_GL02",
+            "value": "Armor Awakening Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_15A_SP_GL01",
+            "value": "1.5 Year Anniversary Pack+"
+        },
+        {
+            "key": "IT_SET_EXJOB_UR_1ST_GL_06",
+            "value": "UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_NO_15A_GL01",
+            "value": "Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_US_SB_AW_NO_GL03",
+            "value": "Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_15A_SE_UPI_GL01",
+            "value": "Daily Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_15A_SOIL_GL02",
+            "value": "Daily Earth Pack II"
+        },
+        {
+            "key": "IT_SET_15A_SOIL_GL01",
+            "value": "Daily Earth Pack I"
+        },
+        {
+            "key": "IT_SET_15A_SE_VPI_GL01",
+            "value": "Daily Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_15A_SHINE_GL02",
+            "value": "Daily Light Pack II"
+        },
+        {
+            "key": "IT_SET_15A_DARK_GL02",
+            "value": "Daily Dark Pack II"
+        },
+        {
+            "key": "IT_SET_15A_SHINE_GL01",
+            "value": "Daily Light Pack I"
+        },
+        {
+            "key": "IT_SET_15A_DARK_GL01",
+            "value": "Daily Dark Pack I"
+        },
+        {
+            "key": "IT_SET_15A_ICE_GL02",
+            "value": "Daily Ice Pack II"
+        },
+        {
+            "key": "IT_SET_15A_ICE_GL01",
+            "value": "Daily Ice Pack I"
+        },
+        {
+            "key": "IT_SET_15A_FIRE_GL02",
+            "value": "Daily Fire Pack II"
+        },
+        {
+            "key": "IT_SET_15A_FIRE_GL01",
+            "value": "Daily Fire Pack I"
+        },
+        {
+            "key": "IT_SET_15A_WATER_GL02",
+            "value": "Daily Water Pack II"
+        },
+        {
+            "key": "IT_SET_15A_WATER_GL01",
+            "value": "Daily Water Pack I"
+        },
+        {
+            "key": "IT_SET_15A_WIND_GL02",
+            "value": "Daily Wind Pack II"
+        },
+        {
+            "key": "IT_SET_15A_WIND_GL01",
+            "value": "Daily Wind Pack I"
+        },
+        {
+            "key": "IT_SET_15A_THUNDER_GL02",
+            "value": "Daily Lightning Pack II"
+        },
+        {
+            "key": "IT_SET_15A_THUNDER_GL01",
+            "value": "Daily Lightning Pack I"
+        },
+        {
+            "key": "IT_SET_15A_AW_FULL_GL01",
+            "value": "[1.5 Year Anniversary] Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_15A_SE_UNIT",
+            "value": "Select Unit Pack"
+        },
+        {
+            "key": "IT_SET_15A_SE_VISION",
+            "value": "Select Vision Card Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_TOMB_GL01",
+            "value": "Lara's Dual Pistols +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_15A1_GL02",
+            "value": "1.5 Year Anniversary Pack"
+        },
+        {
+            "key": "IT_SET_PU_U_TOMB_LARA_GL01",
+            "value": "[Tomb Raider] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_TOMB_LARA",
+            "value": "Lara Croft Training Pack"
+        },
+        {
+            "key": "IT_SET_15A2_EX_AWK_05",
+            "value": "[1.5 Year Anniversary Part II] EX Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_PU_U_SLEN_GL01",
+            "value": "[Starlight Elena] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_PU_V_SLEN_GL01",
+            "value": "[Smite the Dark] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_15A2_VC_EXP_MAX",
+            "value": "[1.5 Year Anniversary Part II] Vision Card Full Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_15A2_GL01",
+            "value": "[1.5 Year Anniversary Part II] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_15A2_GL01",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_15A2_GL01",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_NO_AWK_02_NEW_GL01",
+            "value": "UR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_15A2_03_SSR_AWK_GL01",
+            "value": "[1.5 Year Anniversary Part II] MR Unit Awakening Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_15A2_GL01",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_15A2_GL01",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_FI_NO_GL02",
+            "value": "Red Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAP_03_GL01",
+            "value": "Unidentifiable Sap Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_WA_NO_GL02",
+            "value": "Light Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAP_04_GL01",
+            "value": "Sacred Tree Sap Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_WI_NO_GL02",
+            "value": "Green Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAND_03_GL02",
+            "value": "Black Spiritsand Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_TH_NO_GL02",
+            "value": "Yellow Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_SAND_04_GL01",
+            "value": "White Spiritsand Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_SO_NO_GL02",
+            "value": "Orange Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_HEART_03_GL01",
+            "value": "Blissful Heart Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_SH_NO_GL02",
+            "value": "White Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_DA_NO_GL02",
+            "value": "Purple Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_LIQUID_03_GL01",
+            "value": "Velvety Fluid Pack"
+        },
+        {
+            "key": "IT_SET_MAT_LIQUID_04_GL01",
+            "value": "Slimy Fluid Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_ICE_NO_GL02",
+            "value": "Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_MAT_HEART_04_GL01",
+            "value": "Joyful Heart Pack"
+        },
+        {
+            "key": "IT_SET_GROW_SLEN",
+            "value": "Starlight Elena Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_SLEN",
+            "value": "Job Training Pack [Starlight Elena]"
+        },
+        {
+            "key": "IT_SET_VC_GROW_LUCA2",
+            "value": "\"Tune-Up Time\" Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_JB15A3_GL01",
+            "value": "[Part III] 1.5 Year Anniversary Pack"
+        },
+        {
+            "key": "IT_SET_PU_V_LUCA2",
+            "value": "[Tune-Up Time] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_15A3_SE_PI_GL01",
+            "value": "[1.5 Year Anniversary Part III] Select Unit Shard Pack"
+        },
+        {
+            "key": "IT_SET_15A3_SE_VPI_GL01",
+            "value": "[1.5 Year Anniversary Part III] Select Vision Card Shard Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_15A3_GL01",
+            "value": "[1.5 Year Anniversary Part III] Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_15A3_VC_EXP_MAX_GL01",
+            "value": "[1.5 Year Anniversary Part III] Vision Card Full Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_NO_15A3_GL01",
+            "value": "Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_SWORD_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Sword]"
+        },
+        {
+            "key": "IT_SET_JB_LSWORD_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Greatsword]"
+        },
+        {
+            "key": "IT_SET_JBEX_FIRE_GL_02",
+            "value": "Daily Fire EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_LB_EXP_15A3_GL01",
+            "value": "Daily Limit Burst Enhancement Pack II"
+        },
+        {
+            "key": "IT_SET_LB_EXP_15A3_S_GL01",
+            "value": "Daily Limit Burst Enhancement Pack I"
+        },
+        {
+            "key": "IT_SET_JB_JSWORD_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Katana]"
+        },
+        {
+            "key": "IT_SET_JB_FIST_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Fists]"
+        },
+        {
+            "key": "IT_SET_JBEX_WATER_GL_02",
+            "value": "Daily Water EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_WA_EXP_15A3_GL01",
+            "value": "Daily Equipment Ability Pack II"
+        },
+        {
+            "key": "IT_SET_WA_EXP_15A3_S_GL01",
+            "value": "Daily Equipment Ability Pack I"
+        },
+        {
+            "key": "IT_SET_JB_SPEAR_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Spear]"
+        },
+        {
+            "key": "IT_SET_JB_SSWORD_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Dagger]"
+        },
+        {
+            "key": "IT_SET_JBEX_THUNDER_GL_02",
+            "value": "Daily Lightning EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_UE_EXP_04_GL_03",
+            "value": "Daily EXP Cube Pack"
+        },
+        {
+            "key": "IT_SET_JB_KUNAI_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Ninja Blade]"
+        },
+        {
+            "key": "IT_SET_JB_BOW_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Bow]"
+        },
+        {
+            "key": "IT_SET_JBEX_WIND_GL_02",
+            "value": "Daily Wind EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_VE_EXP_04_GL_02",
+            "value": "Daily Growth Egg Pack"
+        },
+        {
+            "key": "IT_SET_JB_GUN_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Gun]"
+        },
+        {
+            "key": "IT_SET_JB_STAFF_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Staff]"
+        },
+        {
+            "key": "IT_SET_JBEX_ICE_GL_02",
+            "value": "Daily Ice EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_JP_UP_03_GL_02",
+            "value": "Daily Ovalite Pack"
+        },
+        {
+            "key": "IT_SET_JB_MACE_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Mace]"
+        },
+        {
+            "key": "IT_SET_JB_AXE_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Axe]"
+        },
+        {
+            "key": "IT_SET_JBEX_SOIL_GL_02",
+            "value": "Daily Earth EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_CG_03_GL_02",
+            "value": "Daily Gil Snapper Pack"
+        },
+        {
+            "key": "IT_SET_JB_GLOVE_05_GL_02",
+            "value": "Daily Weapon Gem Pack [Gloves]"
+        },
+        {
+            "key": "IT_SET_JB_BOOK_05_GL_01",
+            "value": "Daily Weapon Gem Pack [Book]"
+        },
+        {
+            "key": "IT_SET_JBEX_DARK_GL_02",
+            "value": "Daily Dark EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JBEX_LIGHT_GL_02",
+            "value": "Daily Light EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL_GL_02",
+            "value": "Daily Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_SE_JB_EM_05_GL_02",
+            "value": "Daily Elemental Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_03_GL_02",
+            "value": "Daily Adamantite Pack"
+        },
+        {
+            "key": "IT_SET_GROW_JEDN",
+            "value": "Jayden Rundall Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_JEDN",
+            "value": "Job Training Pack [Jayden Rundall]"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_PU_U_JEDN_10_GL01",
+            "value": "[Jayden Rundall] Featured Summon Starter Pack"
+        },
+        {
+            "key": "IT_SET_PU_U_JEDN_10_GL01",
+            "value": "[Jayden Rundall] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_PU_V_JEDN_10_GL01",
+            "value": "[The Great Stag] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_GL03",
+            "value": "Diamond Coat +3 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_15A4_AW_FULL_GL01",
+            "value": "[1.5 Year Anniversary Part IV] Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_GL02",
+            "value": "[1.5 Year Anniversary Part IV] Quasar +5 (Magic) Pack+"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL19",
+            "value": "[1.5 Year Anniversary Part IV] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_16",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_16",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_EXJOB_UR_15A4_GL01",
+            "value": "[1.5 Year Anniversary Part IV] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_SSR_15A4_GL01",
+            "value": "[1.5 Year Anniversary Part IV] MR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_16",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_16",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_VLUC",
+            "value": "Varush Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_VLUC",
+            "value": "Job Training Pack [Varush]"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_PU_U_VLUC_10_GL01",
+            "value": "[Varush] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_NO_VUP21_GL01",
+            "value": "[Version Upgrade Celebration] Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_NOSP_VUP21_GL01",
+            "value": "[Version Upgrade Celebration] EX Job Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_011_GL01",
+            "value": "Seiten +5 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_NO_AWK_02_NEW_GL02",
+            "value": "UR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_VUP21_JB_05_GL01",
+            "value": "Job Training Support Pack II"
+        },
+        {
+            "key": "IT_SET_VUP21_JB_04_GL01",
+            "value": "Job Training Support Pack I"
+        },
+        {
+            "key": "IT_SET_JB_FDRC_01",
+            "value": "Job Training Pack [Frederika (Halloween)]"
+        },
+        {
+            "key": "IT_SET_EXJOB_UR_HALL21_GL_01",
+            "value": "[Halloween Festival 2021] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_CLT_004_GL01",
+            "value": "Smart Coat +5 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_SWO_023_GL01",
+            "value": "Lohengrin +5 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_CLT_006_GL01",
+            "value": "Fides Lacerna +5 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL20",
+            "value": "[Halloween Festival 2021] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_17",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_17",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_17",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_17",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_NO_PU_HALL_10_GL01",
+            "value": "[Halloween Festival 2021] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_HALL21_SE_UPI",
+            "value": "Halloween Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_FDRC_01",
+            "value": "Frederika (Halloween) Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_RYER_01",
+            "value": "Little Leela (Halloween) Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_RIRY_01",
+            "value": "Rairyuu (Halloween) Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_EXJOB_HALL21_GL01",
+            "value": "Halloween Unit EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_NO_HALL21_GL02",
+            "value": "[Halloween Festival 2021] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JB_OBRN",
+            "value": "Job Training Pack [Oberon Heindler]"
+        },
+        {
+            "key": "IT_SET_SPE_003_GL01",
+            "value": "Elemental Spear +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_JPA21_JB_05_GL01",
+            "value": "Job Training Support Pack II"
+        },
+        {
+            "key": "IT_SET_JPA21_JB_04_GL01",
+            "value": "Job Training Support Pack I"
+        },
+        {
+            "key": "IT_SET_NO_PU_OBRN_10_GL01",
+            "value": "[Oberon Heindler] Featured Summon Starter Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_OBRN_10_GL02",
+            "value": "[Oberon Heindler] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_OBRN",
+            "value": "Oberon Heindler Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_EXJOB_OBRN_GL01",
+            "value": "[Oberon Heindler] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_VC_GL01",
+            "value": "Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_AWK_02_NEW_GL03",
+            "value": "UR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_NO_2ND_GL01",
+            "value": "Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_EXJOB_NOSP_2NDYR_GL01",
+            "value": "[JP 2nd Anniversary] EX Job Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_ARM_031_GL01",
+            "value": "Azure Dragon Armor +3 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_EFKS_10_GL01",
+            "value": "[Rampaging Orebeast, Elafikeras] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_NO_EFKS_GL01",
+            "value": "[Rampaging Orebeast, Elafikeras] Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_FALM",
+            "value": "Job Training Pack [Pharm]"
+        },
+        {
+            "key": "IT_SET_EXJOB_UR_GUILD",
+            "value": "[Limited] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_GROW_GUILD",
+            "value": "[Limited] Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_HA_UE_EXP_GUILD",
+            "value": "[Limited] Unit Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP_GUILD",
+            "value": "[Limited] Vision Card Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GUILD_SM_EXP",
+            "value": "[Limited] Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_FALM_10_GL01",
+            "value": "[Pharm] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_FALM",
+            "value": "Pharm Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_EXJOB_FALM_GL01",
+            "value": "[Pharm] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_FFXV_GL01",
+            "value": "[FFXV] Featured Summon Starter Pack"
+        },
+        {
+            "key": "IT_SET_GROW_NCTS_GL01",
+            "value": "Noctis Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_PRMP_GL01",
+            "value": "Prompto Training Pack"
+        },
+        {
+            "key": "IT_SET_FFXV_SOIL_GL01",
+            "value": "[FFXV] Featured Summon Pack (Earth)"
+        },
+        {
+            "key": "IT_SET_FFXV_DARK_GL01",
+            "value": "[FFXV] Featured Summon Pack (Dark)"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_FFXV_SP_GL01",
+            "value": "FFXV Collaboration Pack"
+        },
+        {
+            "key": "IT_SET_NO_AW_GL01",
+            "value": "[Daily] Rainbow Pack"
+        },
+        {
+            "key": "IT_SET_NO_BF_U_SUMMON_GL01",
+            "value": "[Black Friday] UR Summoning Pack"
+        },
+        {
+            "key": "IT_SET_NO_BF_STAR_GL01",
+            "value": "[Black Friday] Star Pack"
+        },
+        {
+            "key": "IT_SET_AW_BF_FULL_GL01",
+            "value": "[Black Friday] Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_BF_NODX_GL01",
+            "value": "[Black Friday] EX Job Enhancing Deluxe Pack"
+        },
+        {
+            "key": "IT_SET_BF_EXP_DX_GL01",
+            "value": "[Black Friday] Party Enhancing Deluxe Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_SSR_BF_GL01",
+            "value": "[Black Friday] MR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_NO_AWK_02_BF_GL01",
+            "value": "[Black Friday] UR Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_05_GL21",
+            "value": "[Black Friday] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_04_GL_18",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_03_GL_18",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_FF15_SWO_000_GL01",
+            "value": "Engine Blade +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_FF15_GUN_000_GL01",
+            "value": "Valiant +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_BF_SWO_029_GL01",
+            "value": "[Black Friday] Spine Blade +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_BSW_004_GL01",
+            "value": "[Black Friday] Golden Blade +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_KAT_003_GL01",
+            "value": "[Black Friday] Osafune +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_FIS_004_GL01",
+            "value": "[Black Friday] Kaiser Knuckles +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_SPE_004_GL01",
+            "value": "[Black Friday] Ice Lance +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_DAG_006_GL01",
+            "value": "[Black Friday] Mage Masher +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_NKN_003_GL01",
+            "value": "[Black Friday] Sasuke's Katana +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_BOW_004_GL01",
+            "value": "[Black Friday] Killer Bow +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_GUN_003_GL01",
+            "value": "[Black Friday] Ras Algethi +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_ROD_005_GL01",
+            "value": "[Black Friday] Platinum Rod +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_MAC_003_GL01",
+            "value": "[Black Friday] Platinum Mace +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_AXE_003_GL01",
+            "value": "[Black Friday] Golden Axe +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_GLO_003_GL01",
+            "value": "[Black Friday] Dark Gloves +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_BOK_003_GL01",
+            "value": "[Black Friday] Lunar Tome +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_HLM_004_GL01",
+            "value": "[Black Friday] Golden Helm +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_ARM_004_GL01",
+            "value": "[Black Friday] Golden Armor +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_CLT_004_GL01",
+            "value": "[Black Friday] Smart Coat +5 Pack"
+        },
+        {
+            "key": "IT_SET_BF_HAT_004_GL01",
+            "value": "[Black Friday] Sage's Hat +5 Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_02_GL_18",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_MM_NO_01_GL_18",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_LB_EXP_EWIN21_GL01",
+            "value": "[Daily] King Burst Pot Pack"
+        },
+        {
+            "key": "IT_SET_WA_EXP_EWIN21_GL01",
+            "value": "[Daily] King Armor Pot Pack"
+        },
+        {
+            "key": "IT_SET_AW_UR_NO_EWIN21_GL01",
+            "value": "[Early Winter 2021] Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_NO_GL01",
+            "value": "Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_EXJOB_NO_GL_05",
+            "value": "[Early Winter 2021] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SBK_J_GL01",
+            "value": "Trials of Reckoning Prep Pack"
+        },
+        {
+            "key": "IT_SET_FF15_SPE_000_GL01",
+            "value": "Stoss Spear +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_EWIN21_JB_05_GL01",
+            "value": "Job Training Support Pack II"
+        },
+        {
+            "key": "IT_SET_EWIN21_JB_04_GL01",
+            "value": "Job Training Support Pack I"
+        },
+        {
+            "key": "IT_SET_GROW_ARNA_GL01",
+            "value": "Aranea Training Pack"
+        },
+        {
+            "key": "IT_SET_FFXV_ICE_GL01",
+            "value": "[FFXV] Featured Summon Pack (Ice)"
+        },
+        {
+            "key": "IT_SET_HLM_GL03",
+            "value": "Golden Helm +5 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_US_TRIAL_GL01",
+            "value": "Trials of Reckoning Launch Celebration Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_NO_SP_GL02",
+            "value": "Select Element Magicite Pack+"
+        },
+        {
+            "key": "IT_SET_ACCE_04",
+            "value": "Accessory Awakening Pack"
+        },
+        {
+            "key": "IT_SET_FF15_ACCE_001_GL01",
+            "value": "Prompto's Wristband +3 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_WINTR_10_GL01",
+            "value": "[Winter Festival 2021] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_NO_SE_WINTR_GL01",
+            "value": "Winter Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_LATH_01_GL01",
+            "value": "Luartha (Winter) Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_VKTR_01_GL01",
+            "value": "Viktora (Winter) Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_VNLA_01_GL01",
+            "value": "Vinera (Winter) Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_MACR_01_GL01",
+            "value": "Machérie (Winter) Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_RAMD_01_GL01",
+            "value": "Ramada (Winter) Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_WNTR_SP_GL01",
+            "value": "Winter Unit EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_WINTR_JB_GL01",
+            "value": "[Winter Festival 2021] EX Job Enhancing Pack "
+        },
+        {
+            "key": "IT_SET_JB_WIN21_GL01",
+            "value": "[Winter Festival 2021] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_WIN21_GL02",
+            "value": "[Winter Festival 2021] Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_WIN21_GL03",
+            "value": "[Winter Festival 2021] Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_WIN21_GL04",
+            "value": "[Winter Festival 2021] Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_WIN21_GL05",
+            "value": "[Winter Festival 2021] Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_CLT_016_GL01",
+            "value": "Winter Coat +3 (Dodge) Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_GLFEST_10_GL01",
+            "value": "[Global Festival] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_NO_U_IBRA_GL01",
+            "value": "Ibara Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_GLFEST_JB_GL01",
+            "value": "[Global Unit] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GF21E_JB_05_GL01",
+            "value": "Job Training Support Pack II"
+        },
+        {
+            "key": "IT_SET_GF21E_JB_04_GL01",
+            "value": "Job Training Support Pack I"
+        },
+        {
+            "key": "IT_SET_NY2022_EX_UR_GL01",
+            "value": "[New Year's Greetings 2022] MR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_DAG_006_GL01",
+            "value": "Mage Masher +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_NY2022_EX_SSR_GL01",
+            "value": "[New Year's Greetings 2022] MR Unit Training Support Pack"
+        },
+        {
+            "key": "IT_SET_NO_NY2022_GL01",
+            "value": "New Year's Greetings 2022 Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_MRND_10_GL01",
+            "value": "[A Vow to Meet Again] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_NO_V_MRND_GL01",
+            "value": "[A Vow to Meet Again] Training Pack"
+        },
+        {
+            "key": "IT_SET_NY2022_U_GL01",
+            "value": "[New Year's 2022] Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_NY2022_V_GL01",
+            "value": "[New Year's 2022] Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_CRYSTAL_GL01",
+            "value": "[Crystal Festival] Rainbow Training Pack+"
+        },
+        {
+            "key": "IT_SET_BSW_016_GL01",
+            "value": "Sable Storm +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_EXP_CRYSTAL_GL01",
+            "value": "[Crystal Festival] Ability Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JB_CRYSTAL_GL01",
+            "value": "[Crystal Festival] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_CRYSTAL_GL02",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_CRYSTAL_GL03",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_AF_EXP_CRYSTAL_GL01",
+            "value": "Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_JB_CRYSTAL_GL04",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_CRYSTAL_GL05",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_NO_PU_JUME_10_GL01",
+            "value": "[Jeume] Featured Summon Starter Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_JUME_10_GL02",
+            "value": "[Jeume] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_NO_U_JUME_GL01",
+            "value": "Jeume Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_EX_JUME_GL01",
+            "value": "[Jeume] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JB_JUME",
+            "value": "Job Training Pack [Jeume]"
+        },
+        {
+            "key": "IT_SET_UR_EXJOB_GL01",
+            "value": "[Winter 2022] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_SSR_EXJOB_GL01",
+            "value": "[Winter 2022] MR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_AF_GUN_003_GL02",
+            "value": "Ras Algethi +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_SWO_023_GL02",
+            "value": "Lohengrin +5 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_2022_GL01",
+            "value": "Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AF_CLT_021_GL01",
+            "value": "Black Garb +3 (Dodge) Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_ARMN_10_GL01",
+            "value": "[Evil Eye, Golden Ahriman] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_NO_U_ARMN_03_GL01",
+            "value": "[Evil Eye, Golden Ahriman] Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_RD_03",
+            "value": "Raid Support Pack+"
+        },
+        {
+            "key": "IT_SET_NO_PU_FF4_10_GL01",
+            "value": "[FFIV Collaboration Reissue Festival] Featured Summon Starter Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_GROW_FF4_GL01",
+            "value": "FFIV Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_GLBZ_GL01",
+            "value": "Golbez Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_CECL_GL01",
+            "value": "Cecil Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_KAIN_GL01",
+            "value": "Kain Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_ROSA_GL01",
+            "value": "Rosa Training Pack"
+        },
+        {
+            "key": "IT_SET_ELE_FF4_10_GL01",
+            "value": "[FFIV Collaboration Reissue Festival] Featured Summon Pack+ (Dark)"
+        },
+        {
+            "key": "IT_SET_ELE_FF4_10_GL02",
+            "value": "[FFIV Collaboration Reissue Festival] Featured Summon Pack+ (Light)"
+        },
+        {
+            "key": "IT_SET_ELE_FF4_10_GL03",
+            "value": "[FFIV Collaboration Reissue Festival] Featured Summon Pack+ (Ice)"
+        },
+        {
+            "key": "IT_SET_NO_EX_FF4_10_GL01",
+            "value": "FFIV Unit EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SP_FF4_GL01",
+            "value": "FFIV Collaboration Pack"
+        },
+        {
+            "key": "IT_SET_ACTP_GL01",
+            "value": "NRG Restore Pack"
+        },
+        {
+            "key": "IT_SET_KEY_JP_LB_EXP_WNTR_GL01",
+            "value": "[Winter 2022 Part II] Ability Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_AF_ROD_000_GL01",
+            "value": "Shadow Dragon Staff +3 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_AF_ARM_001_GL01",
+            "value": "Holy Knight's Shoulder Plate +3 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_JB_WIN22_GL01",
+            "value": "[Winter 2022 Part II] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_WIN22_GL02",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_WIN22_GL03",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_WIN22_GL05",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_JB_WIN22_GL04",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_AF_EXP_NO_WIN22_GL01",
+            "value": "Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_NO_SP_WIN22_GL01",
+            "value": "[Winter 2022 Part II] Special Item Pack"
+        },
+        {
+            "key": "IT_SET_NO_EX_JB_WIN22_GL01",
+            "value": "[Winter 2022 Part II] EX Job Enhancing Deluxe Pack"
+        },
+        {
+            "key": "IT_SET_SP_10MDL_GL02",
+            "value": "10 Million Downloads Pack"
+        },
+        {
+            "key": "IT_SET_FULL_10MDL_GL01",
+            "value": "[10 Million Downloads] Full Awakening Pack"
+        },
+        {
+            "key": "IT_SET_VC_10MDL_GL02",
+            "value": "[10 Million Downloads] Vision Card Full Training Pack"
+        },
+        {
+            "key": "IT_SET_ESP_10MDL_GL01",
+            "value": "[10 Million Downloads] Esper Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_EX_10MDL_GL01",
+            "value": "[10 Million Downloads] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GABL_PU_GL01",
+            "value": "[A Loyal Companion] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_GABL_GROW_GL01",
+            "value": "[A Loyal Companion] Training Pack"
+        },
+        {
+            "key": "IT_SET_UNIT_10MDL_GL01",
+            "value": "[10 Million Downloads] Unit Special Gil Pack"
+        },
+        {
+            "key": "IT_SET_VC_10MDL_GL01",
+            "value": "[10 Million Downloads] Vision Card Special Gil Pack"
+        },
+        {
+            "key": "IT_SET_SP_10MDL_GL01",
+            "value": "[10 Million Downloads] Special Item Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_FF4_SWO_GL01",
+            "value": "Mythgraven Blade +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_FF4_SPE_GL01",
+            "value": "Wind Spear +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_FF4_BOW_GL01",
+            "value": "Elven Bow +3 (Aim) Pack"
+        },
+        {
+            "key": "IT_SET_SSR_GROW_GL01",
+            "value": "[10 Million Downloads] MR Unit Training Support Pack"
+        },
+        {
+            "key": "IT_SET_SSR_EX_GL01",
+            "value": "[10 Million Downloads] MR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_SR_EX_GL01",
+            "value": "[10 Million Downloads] SR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_JB_MORE_01",
+            "value": "Job Training Pack [Moore the Merrier]"
+        },
+        {
+            "key": "IT_SET_GIFT_GL01",
+            "value": "Handy Gift Bag"
+        },
+        {
+            "key": "IT_SET_U_GIFT_GL01",
+            "value": "Select Unit Gift Bag"
+        },
+        {
+            "key": "IT_SET_U_EX_GIFT_GL01",
+            "value": "Unit Awakening/EX Job Enhancing Gift Bag"
+        },
+        {
+            "key": "IT_SET_V_GIFT_GL01",
+            "value": "Select Vision Card Gift Bag"
+        },
+        {
+            "key": "IT_SET_PU_GIFT_GL01",
+            "value": "[Lunar New Year 2022] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_MORE01_GROW_GL01",
+            "value": "Moore the Merrier Training Pack"
+        },
+        {
+            "key": "IT_SET_EX_MORE01_GL01",
+            "value": "[Moore the Merrier] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_RAINBOW_GL01",
+            "value": "[Free Once Only] Rainbow Gift Bag"
+        },
+        {
+            "key": "IT_SET_FORTUNE_GL01",
+            "value": "Lunar New Year 2022 Fortune Gift Bag"
+        },
+        {
+            "key": "IT_SET_LNY_GIFT_GL01",
+            "value": "Lunar New Year 2022 Gift Bag"
+        },
+        {
+            "key": "IT_SET_WEP_EXP_GL01",
+            "value": "Equipment Training Gift Bag"
+        },
+        {
+            "key": "IT_SET_U_EXP_GL01",
+            "value": "EXP Cube Gift Bag+"
+        },
+        {
+            "key": "IT_SET_V_EXP_GL01",
+            "value": "Growth Egg Gift Bag"
+        },
+        {
+            "key": "IT_SET_MAG_GL01",
+            "value": "Magicite Gift Bag"
+        },
+        {
+            "key": "IT_SET_KEY_GIFT_GL01",
+            "value": "Key Gift Bag"
+        },
+        {
+            "key": "IT_SET_SEAL_GL01",
+            "value": "Equipment Seal Gift Bag"
+        },
+        {
+            "key": "IT_SET_U_EXP_GL02",
+            "value": "EXP Cube Gift Bag"
+        },
+        {
+            "key": "IT_SET_AF_EXP_GL01",
+            "value": "Adamantite Gift Bag"
+        },
+        {
+            "key": "IT_SET_JB_STIA",
+            "value": "Job Training Pack [Cetia]"
+        },
+        {
+            "key": "IT_SET_AW_10MDL_GL00",
+            "value": "[10 Million Downloads] Awakening Pack"
+        },
+        {
+            "key": "IT_SET_STIA_START_GL01",
+            "value": "[Cetia] Featured Summon Starter Pack"
+        },
+        {
+            "key": "IT_SET_JBEX_GL01",
+            "value": "[Daily] Blossom of Paradise Pack"
+        },
+        {
+            "key": "IT_SET_STIA_PU_GL01",
+            "value": "[Cetia] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_CRYSTAL_GROW_GL01",
+            "value": "Warrior of the Crystals Training Pack"
+        },
+        {
+            "key": "IT_SET_CRYSTAL_EX_GL01",
+            "value": "Warrior of the Crystals EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_BOW_014_GL01",
+            "value": "Bow of the Divine Flame: Dilla +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_NO_UE_EXP_UNIT8",
+            "value": "[8-Element Enhancement] Unit Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_FI_UNIT8",
+            "value": "[8-Element Enhancement] Red Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_WA_UNIT8",
+            "value": "[8-Element Enhancement] Light Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_WI_UNIT8",
+            "value": "[8-Element Enhancement] Green Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_TH_UNIT8",
+            "value": "[8-Element Enhancement] Yellow Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_SO_UNIT8",
+            "value": "[8-Element Enhancement] Orange Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_DA_UNIT8",
+            "value": "[8-Element Enhancement] Purple Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_SH_UNIT8",
+            "value": "[8-Element Enhancement] White Magicite Pack"
+        },
+        {
+            "key": "IT_SET_US_SB_EXP_ICE_UNIT8",
+            "value": "[8-Element Enhancement] Blue Magicite Pack"
+        },
+        {
+            "key": "IT_SET_TWR_U_DARK_GL01",
+            "value": "[Porcelain Tower] Unit Awakening Support Pack (Dark)"
+        },
+        {
+            "key": "IT_SET_TWR_U_SHINE_GL01",
+            "value": "[Porcelain Tower] Unit Awakening Support Pack (Light)"
+        },
+        {
+            "key": "IT_SET_TWR_U_FIRE_GL01",
+            "value": "[Porcelain Tower] Unit Awakening Support Pack (Fire)"
+        },
+        {
+            "key": "IT_SET_TWR_U_ICE_GL01",
+            "value": "[Porcelain Tower] Unit Awakening Support Pack (Ice)"
+        },
+        {
+            "key": "IT_SET_TWR_U_WIND_GL01",
+            "value": "[Porcelain Tower] Unit Awakening Support Pack (Wind)"
+        },
+        {
+            "key": "IT_SET_TWR_U_SOIL_GL01",
+            "value": "[Porcelain Tower] Unit Awakening Support Pack (Earth)"
+        },
+        {
+            "key": "IT_SET_TWR_U_THUNDER_GL01",
+            "value": "[Porcelain Tower] Unit Awakening Support Pack (Lightning)"
+        },
+        {
+            "key": "IT_SET_TWR_U_WATER_GL01",
+            "value": "[Porcelain Tower] Unit Awakening Support Pack (Water)"
+        },
+        {
+            "key": "IT_SET_TWR_UR_EX_GL01",
+            "value": "[Porcelain Tower] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_TWR_SSR_EX_GL01",
+            "value": "[Porcelain Tower] MR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_TWR_SR_EX_GL01",
+            "value": "[Porcelain Tower] SR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_TWR_GL01",
+            "value": "Porcelain Tower Support Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_BCRD_GL01",
+            "value": "[Great Reptile of Antiquity, Brachiosaur] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_BCRD_GL01",
+            "value": "[Great Reptile of Antiquity, Brachiosaur] Training Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_004_GL01",
+            "value": "Gigantaxe +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_006_GL01",
+            "value": "Fides Lacerna +5 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_JB_2ANNI_GL01",
+            "value": "[Second Anniversary Countdown Part I] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_2ANNI_GL02",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_2ANNI_GL03",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_JB_2ANNI_GL04",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_2ANNI_GL05",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_AF_AW_2ANNI_SP_GL01",
+            "value": "Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_FOOD_GL01",
+            "value": "[Daily] Shardilis Pack"
+        },
+        {
+            "key": "IT_SET_SUP_GL01",
+            "value": "[Daily] Equipment Seal Pack I"
+        },
+        {
+            "key": "IT_SET_NO_U_GROW_2ANNI_GL01",
+            "value": "[Second Anniversary Countdown Part I] Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_EX_2ANNI_GL01",
+            "value": "[Second Anniversary Countdown Part I] EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_SU2022_GL01",
+            "value": "[Summer Reissue] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_SU2022_SE_UPI",
+            "value": "Summer Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_EX_SU2022_GL01",
+            "value": "Summer Unit EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SUP_GL02",
+            "value": "[Daily] Equipment Seal Pack II"
+        },
+        {
+            "key": "IT_SET_2ANNI_UR_GL01",
+            "value": "[Second Anniversary Countdown Part II] Rainbow Pack"
+        },
+        {
+            "key": "IT_SET_2ANNI_TICKET_GL01",
+            "value": "[Second Anniversary Countdown Part II] Skip Ticket Pack+"
+        },
+        {
+            "key": "IT_SET_NO_PU_HALL2022_GL01",
+            "value": "[Halloween Reissue] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_HALL2022_SE_UPI",
+            "value": "Halloween Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_EX_HALL2022_GL01",
+            "value": "Halloween Unit EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_SWO_GL10",
+            "value": "Tyrfing +5 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_JB_05_GL01",
+            "value": "Job Training Support Pack II"
+        },
+        {
+            "key": "IT_SET_JB_04_GL01",
+            "value": "Job Training Support Pack I"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL04",
+            "value": "Vision Card Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_ROD_029_GL01",
+            "value": "Staff of the Storm Lord: Valgyies +3 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_ACC_037_GL01",
+            "value": "White Cape +5 (Barrier) Pack"
+        },
+        {
+            "key": "IT_SET_AF_CRYSTAL_GL01",
+            "value": "[Crystal Festival] Equipment Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_LNAN_START_GL01",
+            "value": "[Ranan] Featured Summon Starter Pack"
+        },
+        {
+            "key": "IT_SET_CRYSTAL_GROW_GL02",
+            "value": "Warrior of the Crystals Training Pack"
+        },
+        {
+            "key": "IT_SET_CRYSTAL_EX_GL02",
+            "value": "Warrior of the Crystals EX Job Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_LNAN_PU_GL01",
+            "value": "[Ranan] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_JB_LNAN",
+            "value": "Job Training Pack [Ranan]"
+        },
+        {
+            "key": "IT_SET_2ANNI_CD_4_GL01",
+            "value": "[Second Anniversary Countdown Part IV] UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_2ANNI_CD_4_GL02",
+            "value": "[Second Anniversary Countdown Part IV] MR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_EXJOB_2ANNI_CD_4_GL01",
+            "value": "[Second Anniversary Countdown Part IV] EX Job Enhancing Pack+"
+        },
+        {
+            "key": "IT_SET_KEY_2ANNI_CD_4_GL01",
+            "value": "[Second Anniversary Countdown Part IV] Special Training Support Pack"
+        },
+        {
+            "key": "IT_SET_NO_PU_EUROPA_GL01",
+            "value": "[Voltaic Mechaguard, Europa] Featured Summon Pack+"
+        },
+        {
+            "key": "IT_SET_NO_UNIT_RD_GL01",
+            "value": "Raid Support Pack+"
+        },
+        {
+            "key": "IT_SET_GROW_EUROPA_GL01",
+            "value": "[Voltaic Mechaguard, Europa] Training Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_006_GL02",
+            "value": "Survival Vest +3 (Shield) Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_2ANNI_CD_4_GL01",
+            "value": "Equipment Awakening Pack+"
+        },
+        {
+            "key": "IT_SET_AF_LW_SWO_029_3_AW_MAT_GL01",
+            "value": "Mont Equipment Pack"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_004_3_AW_MAT_GL01",
+            "value": "Mont Armor Pack"
+        },
+        {
+            "key": "IT_SET_BNG_GROW_GL01",
+            "value": "[Beginners Only] Unit Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_BNG_JB_MM_EM_GL01",
+            "value": "[Beginners Only] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_BNG_JB_MM_EM_GL02",
+            "value": "[Beginners Only] Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_BNG_JB_MM_EM_GL03",
+            "value": "[Beginners Only] Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_BNG_JB_MM_EM_GL04",
+            "value": "[Beginners Only] Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_BNG_JB_MM_EM_GL05",
+            "value": "[Beginners Only] Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_EX_MAT_2ANNI_GL01",
+            "value": "[Second Anniversary] EX Material Pack"
+        },
+        {
+            "key": "IT_SET_VBALL_2ANNI_GL01",
+            "value": "[Second Anniversary] Rainbow Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_2ANNI_GL01",
+            "value": "[Second Anniversary] Special Item Pack"
+        },
+        {
+            "key": "IT_SET_AF_EXP_GL02",
+            "value": "Truststone Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_JB_2ANNI_GL06",
+            "value": "[Second Anniversary] Job Enhancing Pack V"
+        },
+        {
+            "key": "IT_SET_JB_2ANNI_GL07",
+            "value": "Job Enhancing Pack IV"
+        },
+        {
+            "key": "IT_SET_JB_2ANNI_GL08",
+            "value": "Job Enhancing Pack III"
+        },
+        {
+            "key": "IT_SET_NO_UE_EXP_GL02",
+            "value": "Unit Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_2ANNI_GL09",
+            "value": "Job Enhancing Pack II"
+        },
+        {
+            "key": "IT_SET_JB_2ANNI_GL10",
+            "value": "Job Enhancing Pack I"
+        },
+        {
+            "key": "IT_SET_2ANNI_EXP_DX_GL01",
+            "value": "[Second Anniversary] Party Enhancing Deluxe Pack"
+        },
+        {
+            "key": "IT_SET_2ANNI_EX_DX_GL01",
+            "value": "[Second Anniversary] EX Job Enhancing Deluxe Pack"
+        },
+        {
+            "key": "IT_SET_2ANNI_AW_DX_GL01",
+            "value": "[Second Anniversary] Awakening Deluxe Pack"
+        },
+        {
+            "key": "IT_SET_2ANNI_VC_AW_DX_GL01",
+            "value": "[Second Anniversary] Vision Card Awakening Deluxe Pack"
+        },
+        {
+            "key": "IT_SET_2ANNI_GL01",
+            "value": "Second Anniversary Pack+"
+        },
+        {
+            "key": "IT_SET_2ANNI_U_EXCH_GL01",
+            "value": "Soul Star Pack"
+        },
+        {
+            "key": "IT_SET_2ANNI_VC_EXCH_GL01",
+            "value": "Vision Star Pack"
+        },
+        {
+            "key": "IT_SET_ACTP_GL02",
+            "value": "NRG Restore Pack"
+        },
+        {
+            "key": "IT_SET_JB_MM_COMMON_GL_05",
+            "value": "Nameless Hero's Memory Pack"
+        },
+        {
+            "key": "IT_SET_GROW_GL01",
+            "value": "Unit Training Pack+"
+        },
+        {
+            "key": "IT_SET_EX_UR_GL01",
+            "value": "UR Unit EX Job Pack"
+        },
+        {
+            "key": "IT_SET_FF6_SE_UPI",
+            "value": "FFVI Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_CLES_GL01",
+            "value": "Celes Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_TERA_GL01",
+            "value": "Terra Training Pack"
+        },
+        {
+            "key": "IT_SET_NO_U_LOCK_GL01",
+            "value": "Locke Training Pack"
+        },
+        {
+            "key": "IT_SET_WATER_FF6_10_GL01",
+            "value": "[FFVI] Featured Summon Pack (Water)"
+        },
+        {
+            "key": "IT_SET_FIRE_FF6_10_GL01",
+            "value": "[FFVI] Featured Summon Pack (Fire)"
+        },
+        {
+            "key": "IT_SET_AF_FF06_SWO_001_GL01",
+            "value": "Celes's Sword +3 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_AF_FF06_SWO_000_GL01",
+            "value": "Terra's Sword +3 (Magic) Pack"
+        },
+        {
+            "key": "IT_SET_AF_FF06_DAG_000_GL01",
+            "value": "Locke's Dagger +3 (Assault) Pack"
+        },
+        {
+            "key": "IT_SET_2ANNI_SE_UPI_GL01",
+            "value": "Daily Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_2ANNI_SOIL_GL02",
+            "value": "Daily Earth Pack II"
+        },
+        {
+            "key": "IT_SET_2ANNI_SOIL_GL01",
+            "value": "Daily Earth Pack I"
+        },
+        {
+            "key": "IT_SET_2ANNI_SE_VPI_GL01",
+            "value": "Daily Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_2ANNI_SHINE_GL02",
+            "value": "Daily Light Pack II"
+        },
+        {
+            "key": "IT_SET_2ANNI_DARK_GL02",
+            "value": "Daily Dark Pack II"
+        },
+        {
+            "key": "IT_SET_2ANNI_SHINE_GL01",
+            "value": "Daily Light Pack I"
+        },
+        {
+            "key": "IT_SET_2ANNI_DARK_GL01",
+            "value": "Daily Dark Pack I"
+        },
+        {
+            "key": "IT_SET_2ANNI_ICE_GL02",
+            "value": "Daily Ice Pack II"
+        },
+        {
+            "key": "IT_SET_2ANNI_ICE_GL01",
+            "value": "Daily Ice Pack I"
+        },
+        {
+            "key": "IT_SET_2ANNI_FIRE_GL02",
+            "value": "Daily Fire Pack II"
+        },
+        {
+            "key": "IT_SET_2ANNI_FIRE_GL01",
+            "value": "Daily Fire Pack I"
+        },
+        {
+            "key": "IT_SET_2ANNI_WATER_GL02",
+            "value": "Daily Water Pack II"
+        },
+        {
+            "key": "IT_SET_2ANNI_WATER_GL01",
+            "value": "Daily Water Pack I"
+        },
+        {
+            "key": "IT_SET_2ANNI_WIND_GL02",
+            "value": "Daily Wind Pack II"
+        },
+        {
+            "key": "IT_SET_2ANNI_WIND_GL01",
+            "value": "Daily Wind Pack I"
+        },
+        {
+            "key": "IT_SET_2ANNI_THUNDER_GL02",
+            "value": "Daily Lightning Pack II"
+        },
+        {
+            "key": "IT_SET_2ANNI_THUNDER_GL01",
+            "value": "Daily Lightning Pack I"
+        },
+        {
+            "key": "IT_SET_FF_EX_GL01",
+            "value": "FF Series Unit EX Job Enhancing Pack"
+        },
+        {
+            "key": "UN_LW_P_IBRA_PACK",
+            "value": "Ibara"
+        },
+        {
+            "key": "UN_LW_P_SLEN_PACK",
+            "value": "Starlight Elena"
+        },
+        {
+            "key": "UN_LW_P_ZZAN_01_PACK",
+            "value": "Zazan the Unkillable"
+        },
+        {
+            "key": "UN_LW_P_DEAN_PACK",
+            "value": "Duane"
+        },
+        {
+            "key": "UN_LW_P_FRVA_PACK",
+            "value": "Fryevia"
+        }
+    ]
+}

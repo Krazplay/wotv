@@ -1,0 +1,100 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "002",
+            "value": "¡Ya veo el castillo!"
+        },
+        {
+            "key": "003",
+            "value": "¡Por fin! ¡Me muero por descansar un poco!"
+        },
+        {
+            "key": "004",
+            "value": "Cuidado, aún es pronto para bajar la guardia."
+        },
+        {
+            "key": "005",
+            "value": "Lord Mont, creo que estamos lo bastante lejos como para sentirnos seguros. Los refuerzos no tardarán en llegar."
+        },
+        {
+            "key": "006",
+            "value": "¿Eso crees?"
+        },
+        {
+            "key": "007",
+            "value": "¿Me estoy perdiendo algo?"
+        },
+        {
+            "key": "008",
+            "value": "Si el rey hubiera planeado algo así, Fortem estaría a punto, pero…"
+        },
+        {
+            "key": "009",
+            "value": "No se ve movimiento en el castillo ni tampoco se oye nada de nada."
+        },
+        {
+            "key": "010",
+            "value": "Se-seguro que el rey está ocupado preparando el castillo para el asedio…"
+        },
+        {
+            "key": "011",
+            "value": "Mi padre me dijo que no tenía intención alguna de resistir en el castillo durante un asedio."
+        },
+        {
+            "key": "012",
+            "value": "…"
+        },
+        {
+            "key": "013",
+            "value": "El enemigo habrá rodeado el castillo en menos de lo que canta un gallo."
+        },
+        {
+            "key": "014",
+            "value": "Sin las medidas necesarias, las provisiones del castillo no durarán mucho."
+        },
+        {
+            "key": "015",
+            "value": "Pues solo tenemos dos opciones: luchar con honor hasta que nos derroten o rendirnos sin oponer resistencia."
+        },
+        {
+            "key": "016",
+            "value": "¡Esperad un momento!"
+        },
+        {
+            "key": "017",
+            "value": "Hemos conseguido regresar al castillo después de luchar a la desesperada."
+        },
+        {
+            "key": "018",
+            "value": "Y, aun así, solo nos aguardan cosas peores… ¿De qué va todo esto?"
+        },
+        {
+            "key": "019",
+            "value": "¿Estará mi padre planeando usar a Machérie como rehén para llegar a un acuerdo con Hourne?"
+        },
+        {
+            "key": "020",
+            "value": "Mmm… Es factible."
+        },
+        {
+            "key": "021",
+            "value": "¡Eso no puede ser! ¡Me niego!"
+        },
+        {
+            "key": "022",
+            "value": "Pues parece que no queda otra…"
+        },
+        {
+            "key": "023",
+            "value": "¡¡¡…!!!"
+        },
+        {
+            "key": "024",
+            "value": "¡Se acercan más soldados de Fennes!"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "C'est l'heure de l'entraînement ! Cette fois, c'est sûr, je vais réussir à la toucher !"
+        },
+        {
+            "key": "002",
+            "value": "Ah, Lucio. Te voilà."
+        },
+        {
+            "key": "003",
+            "value": "Oh, euh… Bonjour, Sieur Ranan, n'est-ce pas ?"
+        },
+        {
+            "key": "004",
+            "value": "C'est cela. Cétia m'a dit beaucoup de bien de toi."
+        },
+        {
+            "key": "005",
+            "value": "Il paraît que Jeaum te mène la vie dure."
+        },
+        {
+            "key": "006",
+            "value": "Un peu, c'est vrai, mais c'est pour mon bien. Pour m'aider à devenir un véritable Guerrier des cristaux !"
+        },
+        {
+            "key": "007",
+            "value": "C'est ce que je voulais entendre. As-tu un peu de temps à m'accorder ?"
+        },
+        {
+            "key": "008",
+            "value": "Eh bien, c'est que euh… j'ai justement un entraînement avec Dame Jeaum, et…"
+        },
+        {
+            "key": "009",
+            "value": "Oh, ça ne posera pas de problème."
+        },
+        {
+            "key": "010",
+            "value": "Mais j'ai promis…"
+        },
+        {
+            "key": "011",
+            "value": "Nous avons réussi à localiser le troisième cristal fondamental perdu."
+        },
+        {
+            "key": "012",
+            "value": "Tu vas m'accompagner en Ardra, et ensemble, nous le ramènerons."
+        },
+        {
+            "key": "013",
+            "value": "Mais avant de partir, je dois t'expliquer quelque chose."
+        },
+        {
+            "key": "014",
+            "value": "Tu sais, n'est-ce pas, que le temps ne s'écoule pas ici de la même façon que dans les autres mondes ?"
+        },
+        {
+            "key": "015",
+            "value": "Oui, bien sûr. C'est ce qui nous permet de nous rendre où nous voulons, quand nous le voulons…"
+        },
+        {
+            "key": "016",
+            "value": "Exactement. Eh bien sache que pour cette fois, nous allons voyager légèrement avant les événements dont toi et Cétia avez été témoins."
+        },
+        {
+            "key": "017",
+            "value": "Je vois. Nous allons toujours en Ardra, mais un peu avant."
+        },
+        {
+            "key": "018",
+            "value": "C'est cela. Aussi, fais preuve de prudence dans tes conversations avec les locaux."
+        },
+        {
+            "key": "019",
+            "value": "Si tu devais malencontreusement leur en révéler trop sur leur futur, cela pourrait provoquer des conséquences malvenues."
+        },
+        {
+            "key": "020",
+            "value": "Oh ne vous en faites pas, je suis nul en histoire ! Je ne peux rien leur apprendre…"
+        },
+        {
+            "key": "021",
+            "value": "Heureux sont les simples d'esprit, j'imagine."
+        },
+        {
+            "key": "022",
+            "value": "Enfin, ça nous arrange. Allez, en route. Ardra nous attend."
+        },
+        {
+            "key": "023",
+            "value": "Mais, et mon entraînement avec Dame Jeaum ?"
+        },
+        {
+            "key": "024",
+            "value": "La Volonté de la Lumière domine toutes les autres. C'est la moindre des choses à savoir pour un Guerrier des cristaux !"
+        },
+        {
+            "key": "025",
+            "value": "Ah oui, euh… Vous avez raison. Retrouver les cristaux fondamentaux est notre priorité absolue, après tout."
+        },
+        {
+            "key": "026",
+            "value": "Bien, ravi de te voir revenu à la raison. Nous partons donc pour le royaume de Wezett."
+        },
+        {
+            "key": "027",
+            "value": "Je suis désolé d'insister mais… Dame Jeaum est-elle au courant que je vous accompagne ?"
+        },
+        {
+            "key": "028",
+            "value": "Il a fallu faire vite, alors… Non, évidemment, elle ne sait pas."
+        },
+        {
+            "key": "029",
+            "value": "Oh ! Je… Je suis navré mais je crois vraiment qu'il vaut mieux que je la prévienne parce que…"
+        },
+        {
+            "key": "030",
+            "value": "Nous n'avons pas le temps. Tu pourras lui remettre un rapport plein de détails passionnants à ton retour, si tu veux."
+        },
+        {
+            "key": "031",
+            "value": "Mais c'est que…"
+        },
+        {
+            "key": "032",
+            "value": "Allez, apprenti !"
+        },
+        {
+            "key": "033",
+            "value": "Mais attendeeeeez ! Si je ne me présente pas à l'entraînement, Dame Jeaum va me massa... réprimander !"
+        },
+        {
+            "key": "034",
+            "value": "Où est-il encore passé ?! Nous avions entraînement aujourd'hui."
+        },
+        {
+            "key": "035",
+            "value": "Oh, c'est Lucio que tu cherches ? Il est parti avec Ranan. Il paraît qu'on a retrouvé le troisième cristal fondamental."
+        },
+        {
+            "key": "036",
+            "value": "Avec Ranan ? Pauvre petit, il ne sait pas ce qui l'attend."
+        },
+        {
+            "key": "037",
+            "value": "Ha ha ha ! C'est vrai qu'on n'est pas commodes, nous, mais ce n'est rien par rapport à lui !"
+        },
+        {
+            "key": "038",
+            "value": "Enfin, enfin ! Le jour de gagner les faveurs du roi Khory est venu !"
+        },
+        {
+            "key": "039",
+            "value": "J'ai tant travaillé pour obtenir cette chance."
+        },
+        {
+            "key": "040",
+            "value": "J'ai fouetté mes serfs sans pitié pour les rendre plus productifs et essoré la terre jusqu'à la dernière goutte de profit !"
+        },
+        {
+            "key": "041",
+            "value": "La récompense est enfin à portée de main !"
+        },
+        {
+            "key": "042",
+            "value": "J'ai appris de la réussite de mes pairs et préparé une offrande plus que généreuse pour sa Majesté."
+        },
+        {
+            "key": "043",
+            "value": "Je vois d'ici les yeux du roi s'illuminer à l'évocation de tout le minerai que l'on peut tirer de mes terres."
+        },
+        {
+            "key": "044",
+            "value": "Alors, ce sera à mon tour de me vautrer dans le luxe de ses faveurs, mouahahaha !"
+        },
+        {
+            "key": "045",
+            "value": "Je rêve ou cet idiot parle tout seul pour que tout le monde l'entende ? Il ne craint donc pas de nuire à sa propre réputation ?"
+        },
+        {
+            "key": "046",
+            "value": "Je crains que personne dans ce royaume ne se soucie de l'opinion des autres."
+        },
+        {
+            "key": "047",
+            "value": "Ils ont beau traiter le peuple comme du bétail, les aristocrates sont si bien soutenus par le roi et son armée qu'ils ne craignent pas la révolte des masses."
+        },
+        {
+            "key": "048",
+            "value": "Les pauvres n'ont nulle part où fuir, aucune échappatoire."
+        },
+        {
+            "key": "049",
+            "value": "À l'ouest, ils se heurteraient à l'ennemi Hourne. C'est trop dangereux. Leonis est notre allié mais sa situation est instable avec la guerre contre Fennes qui menace."
+        },
+        {
+            "key": "050",
+            "value": "C'est à Wezett qu'ils sont le plus en sécurité pour l'instant. Malgré la tyrannie et la misère."
+        },
+        {
+            "key": "051",
+            "value": "Mais ça ne peut plus durer… Nous devons faire quelque chose, Cadia !"
+        },
+        {
+            "key": "052",
+            "value": "Oui ! Et nous allons le faire !"
+        }
+    ]
+}

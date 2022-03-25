@@ -1,0 +1,64 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¡No tenéis por dónde escapar!"
+        },
+        {
+            "key": "002",
+            "value": "¿Escapar? No me hagas reír, anda."
+        },
+        {
+            "key": "003",
+            "value": "A partir de este mismo momento, ¡yo soy el dueño y señor de Leonis!"
+        },
+        {
+            "key": "004",
+            "value": "Príncipe Stern…, Muraga no es un cualquiera."
+        },
+        {
+            "key": "005",
+            "value": "Lo sé. Si me mata…, cuida bien de mi madre."
+        },
+        {
+            "key": "006",
+            "value": "Esperad un momento."
+        },
+        {
+            "key": "007",
+            "value": "¡¿Eh?!"
+        },
+        {
+            "key": "008",
+            "value": "¡Lord Sadali…!"
+        },
+        {
+            "key": "009",
+            "value": "¡¿Sadali?!"
+        },
+        {
+            "key": "010",
+            "value": "El fundador de la Iglesia del Cristal."
+        },
+        {
+            "key": "011",
+            "value": "Dejad que resuelva este conflicto."
+        },
+        {
+            "key": "012",
+            "value": "Pe-pero…"
+        },
+        {
+            "key": "013",
+            "value": "¿Qué pasa, Muraga? ¿Es que no me vais a obedecer?"
+        },
+        {
+            "key": "014",
+            "value": "…"
+        },
+        {
+            "key": "015",
+            "value": "No hay que malgastar vidas. ¿Entendido?"
+        }
+    ]
+}

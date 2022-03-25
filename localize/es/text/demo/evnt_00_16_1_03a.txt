@@ -1,0 +1,200 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Oye, Tai."
+        },
+        {
+            "key": "002",
+            "value": "¿Cuándo volverá Howletito?"
+        },
+        {
+            "key": "003",
+            "value": "No sé, la verdad."
+        },
+        {
+            "key": "004",
+            "value": "¿Estás cansada, Chel?"
+        },
+        {
+            "key": "005",
+            "value": "¡Para nada! ¡Estoy bien!"
+        },
+        {
+            "key": "006",
+            "value": "Excelente. Estoy orgulloso de ti, Chel."
+        },
+        {
+            "key": "007",
+            "value": "Maldición. ¿Pero dónde narices se habrá metido?"
+        },
+        {
+            "key": "008",
+            "value": "Dijo que esperásemos un poco. ¿Cuánto tiempo ha pasado desde que estamos aquí?"
+        },
+        {
+            "key": "009",
+            "value": "¿Le habrá pasado algo?"
+        },
+        {
+            "key": "010",
+            "value": "Estará detrás de alguna chica, como de costumbre."
+        },
+        {
+            "key": "011",
+            "value": "Mmm…"
+        },
+        {
+            "key": "012",
+            "value": "¿Y qué sabrás tú de eso? Que no te comes ni una rosca."
+        },
+        {
+            "key": "013",
+            "value": "Discúlpame, mi querida Chel... Y tú, Taitas."
+        },
+        {
+            "key": "014",
+            "value": "¿He-hermano? ¿Qué llevas puesto?"
+        },
+        {
+            "key": "015",
+            "value": "¿Qué te parece, Chel? ¿Te parezco incluso más atractivo?"
+        },
+        {
+            "key": "016",
+            "value": "¡Estás increíble, Howletito!"
+        },
+        {
+            "key": "017",
+            "value": "Has venido hasta aquí para hacerte con la espada, ¿no?"
+        },
+        {
+            "key": "018",
+            "value": "¿Era realmente necesario que hasta cambiases de atuendo?"
+        },
+        {
+            "key": "019",
+            "value": "Simplemente escuché a mi vocecita interna y me di cuenta de que podía alcanzar todo mi potencial."
+        },
+        {
+            "key": "020",
+            "value": "Ni siquiera sé de lo que estás hablando…"
+        },
+        {
+            "key": "021",
+            "value": "¿Entonces qué pasa con la espada?"
+        },
+        {
+            "key": "022",
+            "value": "Ah, sí... La espada que el maestro me ordenó encontrar. Ya está hecho."
+        },
+        {
+            "key": "023",
+            "value": "¿El viejo te pidió que la buscases?"
+        },
+        {
+            "key": "024",
+            "value": "Pensaba que te repudió como estudiante…"
+        },
+        {
+            "key": "025",
+            "value": "¿Repudiarme? Aquello fue solo una broma."
+        },
+        {
+            "key": "026",
+            "value": "¿Nos engañaste? ¿Pero para qué?"
+        },
+        {
+            "key": "027",
+            "value": "¡Howletito! ¡Nos has engañado!"
+        },
+        {
+            "key": "028",
+            "value": "Escúchame bien, Chel. No todas las mentiras son malas."
+        },
+        {
+            "key": "029",
+            "value": "¿En serio?"
+        },
+        {
+            "key": "030",
+            "value": "Imagina que nos hubiésemos prometido vernos aquí."
+        },
+        {
+            "key": "031",
+            "value": "Como no puedo esperar ver a mi querida hermana, llego antes de tiempo."
+        },
+        {
+            "key": "032",
+            "value": "¡Oh, Howletito! ¡Eso me haría tan feliz!"
+        },
+        {
+            "key": "033",
+            "value": "Así que finalmente, llegas al punto de encuentro, y me preguntas…"
+        },
+        {
+            "key": "034",
+            "value": "«¡Howletito! ¿Te he hecho esperar mucho?»"
+        },
+        {
+            "key": "035",
+            "value": "¡Sí! ¡Es lo que te preguntaría!"
+        },
+        {
+            "key": "036",
+            "value": "Entonces imagina que contesto: «Así es, Chel. ¡Llevo esperando un buen rato!». ¿Cómo te sentirías entonces?"
+        },
+        {
+            "key": "037",
+            "value": "¡Estaría superfeliz! ¡Eso significaría que mi querido hermano ha estado esperando tanto solo por verme!"
+        },
+        {
+            "key": "038",
+            "value": "Eh... Bueno, sí..."
+        },
+        {
+            "key": "039",
+            "value": "Pero ahora imagina que digo: «¡En absoluto, querida hermana! ¡Acabo de llegar!»"
+        },
+        {
+            "key": "040",
+            "value": "¡Entonces estarías mintiendo! ¡Ya sabes que no está bien mentir, Howletito!"
+        },
+        {
+            "key": "041",
+            "value": "Bueno... Sí, tienes razón."
+        },
+        {
+            "key": "042",
+            "value": "Parece que Chel te ha dejado sin palabras, hermano."
+        },
+        {
+            "key": "043",
+            "value": "¿Puedes ahora contarnos algo sobre la espada?"
+        },
+        {
+            "key": "044",
+            "value": "Sí, pero no aquí. Os contaré más por el camino."
+        },
+        {
+            "key": "045",
+            "value": "¿Hay algo que no se deba saber?"
+        },
+        {
+            "key": "046",
+            "value": "No es eso, pero con tantas miradas lascivas sobre mí será mejor mantener la discreción."
+        },
+        {
+            "key": "047",
+            "value": "Aunque no es que tú sepas de lo que estoy hablando…"
+        },
+        {
+            "key": "048",
+            "value": "Casi envidio lo poco relevante que puedes llegar a ser para las chicas."
+        },
+        {
+            "key": "049",
+            "value": "Sí, sí... Lo que tú digas..."
+        }
+    ]
+}

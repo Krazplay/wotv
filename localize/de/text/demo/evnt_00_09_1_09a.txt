@@ -1,0 +1,164 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Was ist los? Bist du schon am Ende deiner Kräfte?"
+        },
+        {
+            "key": "002",
+            "value": "... Urgh."
+        },
+        {
+            "key": "003",
+            "value": "Ich dachte, deine Zeit wäre knapp."
+        },
+        {
+            "key": "004",
+            "value": "Also beeile dich. Hyahyahya!"
+        },
+        {
+            "key": "005",
+            "value": "... Schau. Welch günstiger Zufall."
+        },
+        {
+            "key": "006",
+            "value": "W-Was ist das?!"
+        },
+        {
+            "key": "007",
+            "value": "Hyahyahya! Ist das keine nette Überraschung?"
+        },
+        {
+            "key": "008",
+            "value": "Was soll das sein ...?"
+        },
+        {
+            "key": "009",
+            "value": "Nichts mehr als der Schatten seines vergangenen Selbst."
+        },
+        {
+            "key": "010",
+            "value": "Es war also einst menschlich ... "
+        },
+        {
+            "key": "011",
+            "value": "Haargenau. Solch ein Schicksal erwartet jene, die vom Weg des Samurai abkommen."
+        },
+        {
+            "key": "012",
+            "value": "Was meinst du damit?"
+        },
+        {
+            "key": "013",
+            "value": "Ich vermute, dass auch du ihn spüren kannst. Der Wahnsinn, der diesem Berg innewohnt."
+        },
+        {
+            "key": "014",
+            "value": "Ja ..."
+        },
+        {
+            "key": "015",
+            "value": "Dieser Wahnsinn weidet sich an unheilvollen Gedanken von Menschen. Ohne zu zögern, ergreift er Besitz von ihnen."
+        },
+        {
+            "key": "016",
+            "value": "Viele streben allein nach reiner Stärke. Deren Notwendigkeit möchte ich auch nicht herunterspielen, aber ..."
+        },
+        {
+            "key": "017",
+            "value": "Das ist nicht, was einen Samurai des Ostens ausmacht?"
+        },
+        {
+            "key": "018",
+            "value": "Nicht rohe Kraft selber, sondern ihre Beherrschung erlaubt es uns, den Weg der Rechtschaffenheit zu gehen."
+        },
+        {
+            "key": "019",
+            "value": "Rechtschaffenheit ...?"
+        },
+        {
+            "key": "020",
+            "value": "Ganz recht. Das bedeutet: hier im Osten werden Menschen in Not niemals im Stich gelassen."
+        },
+        {
+            "key": "021",
+            "value": "..."
+        },
+        {
+            "key": "022",
+            "value": "Du musst stark sein, um das Richtige zu tun. Vielleicht ist es diese Denkweise, die uns von den Samurai des Festlandes unterscheidet."
+        },
+        {
+            "key": "023",
+            "value": "Es fehlte ihnen an Rechtschaffenheit ..."
+        },
+        {
+            "key": "024",
+            "value": "Diejenigen mit unheilvollen Gedanken wurden also vom Wahnsinn ergriffen ...?"
+        },
+        {
+            "key": "025",
+            "value": "Korrekt. Geist, Technik und Körperkraft ... Nur diese Dreifaltigkeit eines Samurai des Ostens kann dem Wahnsinn trotzen."
+        },
+        {
+            "key": "026",
+            "value": "Also muss ich dich fragen ... lebst du nach dem Prinzip der Rechtschaffenheit?"
+        },
+        {
+            "key": "027",
+            "value": "Selbstverständlich!"
+        },
+        {
+            "key": "028",
+            "value": "Ein abtrünniges Herz, das nur nach Stärke giert, wird auf diesem Berg vom Wahnsinn verschlungen werden."
+        },
+        {
+            "key": "029",
+            "value": "In diesem Sinne ... Bist du bereit, dich der Prüfung zu unterziehen?"
+        },
+        {
+            "key": "030",
+            "value": "Ich werde mich von solchen Drohungen nicht entmutigen lassen. Jetzt, wo ich ihn endlich gefunden habe ..."
+        },
+        {
+            "key": "031",
+            "value": "Gefunden? ... Wen?"
+        },
+        {
+            "key": "032",
+            "value": "Seine Schwertkunst ... Es besteht kein Zweifel."
+        },
+        {
+            "key": "033",
+            "value": "Ich lag also richtig."
+        },
+        {
+            "key": "034",
+            "value": "Es geht um Blutrache ... Du hast den weiten Weg bis hierher für ihn gemacht."
+        },
+        {
+            "key": "035",
+            "value": "Er hat mir alles genommen."
+        },
+        {
+            "key": "036",
+            "value": "Das werde ich ihm nie verzeihen!"
+        },
+        {
+            "key": "037",
+            "value": "Hmmm ..."
+        },
+        {
+            "key": "038",
+            "value": "So soll es sein. Aber vergiss nicht, Ravesse ..."
+        },
+        {
+            "key": "039",
+            "value": "Du musst deinen Blutrausch überwinden. Wenn du das nicht schaffst, wirst du genau so wie er dem Wahnsinn verfallen. "
+        },
+        {
+            "key": "040",
+            "value": "... Ja-Jawohl."
+        }
+    ]
+}

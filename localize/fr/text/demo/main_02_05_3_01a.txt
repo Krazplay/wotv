@@ -1,0 +1,244 @@
+﻿{
+    "infos": [
+        {
+            "key": "711",
+            "value": "Quelque chose vous inquiète, Ganzback."
+        },
+        {
+            "key": "712",
+            "value": "Ce conflit était censé diviser nos troupes, et pourtant on dirait qu'à présent l'assaut contre Ovis a redoublé d'ardeur."
+        },
+        {
+            "key": "713",
+            "value": "Quand Sa Majesté Obéron a empoigné sa lance pour faire face à Élane, j'ai vraiment cru que c'était la fin."
+        },
+        {
+            "key": "714",
+            "value": "Moi aussi, mais le roi n'avait aucune velléité belliqueuse."
+        },
+        {
+            "key": "715",
+            "value": "On aurait presque dit une façon un peu grandiloquente de prouver sa loyauté envers Jayden."
+        },
+        {
+            "key": "716",
+            "value": "N'est-ce pas…"
+        },
+        {
+            "key": "717",
+            "value": "Si Dame Alaya est maintenant hors de danger, c'est le sort de Dame Lucielle qui me préoccupe à présent."
+        },
+        {
+            "key": "718",
+            "value": "Espérons qu'on puisse compter sur Garvall."
+        },
+        {
+            "key": "719",
+            "value": "En effet. Je n'ai toujours pas reçu de rapport indiquant qu'il a quitté le château."
+        },
+        {
+            "key": "720",
+            "value": "Et si Garvall échouait à convaincre la princesse ?"
+        },
+        {
+            "key": "721",
+            "value": "Alors nous trouverions un moyen de nous y rendre pour la convaincre nous-mêmes."
+        },
+        {
+            "key": "722",
+            "value": "Nous n'aurions pas d'autre choix."
+        },
+        {
+            "key": "723",
+            "value": "..."
+        },
+        {
+            "key": "724",
+            "value": "… ?"
+        },
+        {
+            "key": "725",
+            "value": "C'était Jayden."
+        },
+        {
+            "key": "726",
+            "value": "Au fait… Cela fait un moment qu'on ne le voyait plus sur le champ de bataille, si ?"
+        },
+        {
+            "key": "727",
+            "value": "J'imagine qu'il se reposait pendant nous nous occupions du front."
+        },
+        {
+            "key": "728",
+            "value": "Mais à présent il a décidé d'agir, va savoir pourquoi."
+        },
+        {
+            "key": "729",
+            "value": "La rumeur de querelles internes est-elle parvenue jusqu'à lui ? Ou bien est-ce autre chose ?"
+        },
+        {
+            "key": "730",
+            "value": "Pfiou ! Je te rattrape enfin !"
+        },
+        {
+            "key": "731",
+            "value": "Sire."
+        },
+        {
+            "key": "732",
+            "value": "Oh, ça suffit, hein ! Avec ce « Sire » permanent."
+        },
+        {
+            "key": "733",
+            "value": "Enfin bon, désolé pour tout à l'heure."
+        },
+        {
+            "key": "734",
+            "value": "De quoi parlez-vous ?"
+        },
+        {
+            "key": "735",
+            "value": "Rhaldor m'a dit qu'Élane avait fait des siennes."
+        },
+        {
+            "key": "736",
+            "value": "Si nous éveillons tant de soupçons, c'est que nous avons forcément fait quelque chose de mal."
+        },
+        {
+            "key": "737",
+            "value": "…"
+        },
+        {
+            "key": "738",
+            "value": "Tu vas m'écouter maintenant, Obéron."
+        },
+        {
+            "key": "739",
+            "value": "Je t'ai toujours respecté, et j'ai toujours respecté Heindler."
+        },
+        {
+            "key": "740",
+            "value": "Toujours."
+        },
+        {
+            "key": "741",
+            "value": "…"
+        },
+        {
+            "key": "742",
+            "value": "Nos royaumes sont peut-être divisés pour l'instant, mais j'espère qu'un jour ils formeront une seule et même nation."
+        },
+        {
+            "key": "743",
+            "value": "Je sais que certains nous raillent en racontant que « le grand cerf dévorera le dragon »."
+        },
+        {
+            "key": "744",
+            "value": "Mais ce ne sont que des sottises de mauvaises langues."
+        },
+        {
+            "key": "745",
+            "value": "Pour que s'ouvre le chapitre de notre grandeur, on doit d'abord unifier le continent."
+        },
+        {
+            "key": "746",
+            "value": "Gilgamesh tire ses petites ficelles, et d'autres au-delà des Chutes fomentent leurs propres projets…"
+        },
+        {
+            "key": "747",
+            "value": "Mais je ne les laisserai pas s'amuser bien longtemps, je te le promets."
+        },
+        {
+            "key": "748",
+            "value": "Bon… Je voulais faire ce beau discours devant tous nos hommes réunis, mais hein…"
+        },
+        {
+            "key": "749",
+            "value": "J'ai l'impression que tes soldats se montent pas mal le bourrichon, j'imagine qu'ils se méfient encore."
+        },
+        {
+            "key": "750",
+            "value": "Vous n'avez pas besoin de vous justifier, votre idéal est évident… Pour moi, en tout cas."
+        },
+        {
+            "key": "751",
+            "value": "Je sais."
+        },
+        {
+            "key": "752",
+            "value": "Oui… ?"
+        },
+        {
+            "key": "753",
+            "value": "Au rapport, Sire. Les forces de Leonis ont atteint le château d'Ovis."
+        },
+        {
+            "key": "754",
+            "value": "Eh ben, eh ben, eh ben. Il ne perd pas de temps, le petit Mont !"
+        },
+        {
+            "key": "755",
+            "value": "Vous connaissez le roi des Lions ?"
+        },
+        {
+            "key": "756",
+            "value": "Oh oui. J'ai rejoint son camp il n'y a pas longtemps, figure-toi."
+        },
+        {
+            "key": "757",
+            "value": "Comment cela, dans son camp ? Comment est-ce possible ?"
+        },
+        {
+            "key": "758",
+            "value": "Oui, on a prêté main forte à Leonis et Hourne pour écraser Wezett."
+        },
+        {
+            "key": "759",
+            "value": "Je croyais que c'était à Rundall que vous étiez ces derniers jours…"
+        },
+        {
+            "key": "760",
+            "value": "C'est d'abord ce que j'ai fait ! Mais faut voir comme je me suis fait recevoir par Alaya."
+        },
+        {
+            "key": "761",
+            "value": "Du coup j'ai amené mes hommes se dégourdir les jambes à Wezett."
+        },
+        {
+            "key": "762",
+            "value": "…"
+        },
+        {
+            "key": "763",
+            "value": "Vous avez combattu aux côtés de l'ennemi…"
+        },
+        {
+            "key": "764",
+            "value": "Ce roi de Leonis, c'est un sacré type, tu sais ?"
+        },
+        {
+            "key": "765",
+            "value": "Courageux, attentif aux besoins de ses troupes, et redoutable aussi, grâce à sa maîtrise de l'anneau séculaire."
+        },
+        {
+            "key": "766",
+            "value": "Vous avez donc tant d'admiration pour ce garçon… ?"
+        },
+        {
+            "key": "767",
+            "value": "Elle est méritée."
+        },
+        {
+            "key": "768",
+            "value": "C'est un adversaire à ma taille. J'ai hâte de l'affronter en combat."
+        },
+        {
+            "key": "769",
+            "value": "Sire…"
+        },
+        {
+            "key": "770",
+            "value": "Bon, on s'y remet, nous ? On a le château d'Ovis à prendre."
+        }
+    ]
+}

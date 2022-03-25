@@ -1,0 +1,76 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Esta es la habitación de Elsirel."
+        },
+        {
+            "key": "002",
+            "value": "..."
+        },
+        {
+            "key": "003",
+            "value": "No contesta nadie..."
+        },
+        {
+            "key": "004",
+            "value": "El castillo de Leonis se ha convertido en un campo de batalla. Seguramente no se encuentre dentro..."
+        },
+        {
+            "key": "005",
+            "value": "Pero he oído que Elsirel puede dormir en cualquier momento sin importar lo que esté pasando..."
+        },
+        {
+            "key": "006",
+            "value": "Entremos..."
+        },
+        {
+            "key": "007",
+            "value": "Pues sí que estaba durmiendo..."
+        },
+        {
+            "key": "008",
+            "value": "In... Increíble..."
+        },
+        {
+            "key": "009",
+            "value": "Elsirel, ¡despierta!"
+        },
+        {
+            "key": "010",
+            "value": "ZzZzZzZ…"
+        },
+        {
+            "key": "011",
+            "value": "Imposible. No parece que vaya a despertarse jamás…"
+        },
+        {
+            "key": "012",
+            "value": "¡...!"
+        },
+        {
+            "key": "013",
+            "value": "Oh, no..."
+        },
+        {
+            "key": "014",
+            "value": "Ya me parecía raro que la puerta estuviese abierta..."
+        },
+        {
+            "key": "015",
+            "value": "Y por lo visto hay unas cuantas ratas sueltas."
+        },
+        {
+            "key": "016",
+            "value": "No hay otra. Luchemos sin la ayuda de Elsirel."
+        },
+        {
+            "key": "017",
+            "value": "Como no se despierte rápido..., estamos acabados."
+        },
+        {
+            "key": "018",
+            "value": "Pensaba que eran los caballeros los que ejercen la labor de proteger..."
+        }
+    ]
+}

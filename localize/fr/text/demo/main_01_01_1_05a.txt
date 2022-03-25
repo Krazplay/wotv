@@ -1,0 +1,36 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Encore des renforts..."
+        },
+        {
+            "key": "002",
+            "value": "On dirait qu'ils en veulent vraiment à ma vie."
+        },
+        {
+            "key": "003",
+            "value": "C'est bien la première fois que je suis aussi ardemment désirée."
+        },
+        {
+            "key": "004",
+            "value": "Pourquoi vous recherchent-ils ?"
+        },
+        {
+            "key": "005",
+            "value": "Roi Eldo, nous ne tiendrons pas longtemps à ce rythme..."
+        },
+        {
+            "key": "006",
+            "value": "L'ennemi ne faiblit pas. Nous n'avons pas le choix, il faut l'utiliser."
+        },
+        {
+            "key": "007",
+            "value": "Vous parlez de l'anneau, n'est-ce pas ?"
+        },
+        {
+            "key": "008",
+            "value": "... L'anneau ?"
+        }
+    ]
+}

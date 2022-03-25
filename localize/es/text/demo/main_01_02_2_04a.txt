@@ -1,0 +1,128 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Dónde está el contingente principal?"
+        },
+        {
+            "key": "002",
+            "value": "Ya no se ve a simple vista."
+        },
+        {
+            "key": "003",
+            "value": "Bueno, eso significa que nos hemos distanciado lo suficiente."
+        },
+        {
+            "key": "004",
+            "value": "Preparaos para la retirada. ¡No bajéis la guardia!"
+        },
+        {
+            "key": "005",
+            "value": "Lilit, cuento contigo."
+        },
+        {
+            "key": "006",
+            "value": "Por supuesto."
+        },
+        {
+            "key": "007",
+            "value": "Somos la retaguardia. Mantendremos la posición incluso de espaldas al enemigo."
+        },
+        {
+            "key": "008",
+            "value": "Ha llegado el momento, uf…"
+        },
+        {
+            "key": "009",
+            "value": "Parece que estamos a punto de enfrentarnos al contingente principal de Hourne."
+        },
+        {
+            "key": "010",
+            "value": "¿El contingente principal de Hourne? ¿Te refieres a Solidus?"
+        },
+        {
+            "key": "011",
+            "value": "Eso parece. Por mucho que lo intentemos, no tenemos ninguna posibilidad contra ellos."
+        },
+        {
+            "key": "012",
+            "value": "Pero lucharemos mientras nos retiramos, de espaldas al enemigo."
+        },
+        {
+            "key": "013",
+            "value": "¿Una retirada ofensiva? ¿De verdad creéis que es buena idea?"
+        },
+        {
+            "key": "014",
+            "value": "Puede o, más bien…, no tenemos alternativa."
+        },
+        {
+            "key": "015",
+            "value": "…"
+        },
+        {
+            "key": "016",
+            "value": "Bueno, pues en marcha. ¡Concentraos!"
+        },
+        {
+            "key": "017",
+            "value": "Eres una ninja de Hourne, ¿verdad? ¿No estabas con Machérie?"
+        },
+        {
+            "key": "018",
+            "value": "Me voy de vuelta con el rey Rob."
+        },
+        {
+            "key": "019",
+            "value": "Entiendo. Bueno, pues ten cuidado."
+        },
+        {
+            "key": "020",
+            "value": "…"
+        },
+        {
+            "key": "021",
+            "value": "¿Qué pasa?"
+        },
+        {
+            "key": "022",
+            "value": "Si mueres como un perro, así es como te recordaremos."
+        },
+        {
+            "key": "023",
+            "value": "¿Eso ha sido un… mensaje de Machérie?"
+        },
+        {
+            "key": "024",
+            "value": "No, lady Machérie estaba hablando sola."
+        },
+        {
+            "key": "025",
+            "value": "¿Ah, sí? Bueno…, gracias."
+        },
+        {
+            "key": "026",
+            "value": "Intentad conservar el pellejo. A lady Machérie se le rompería el corazón si os pasara algo malo."
+        },
+        {
+            "key": "027",
+            "value": "Lo mismo te digo a ti."
+        },
+        {
+            "key": "028",
+            "value": "¿De verdad creéis que alguien derramaría una lágrima por mí?"
+        },
+        {
+            "key": "029",
+            "value": "Pues claro."
+        },
+        {
+            "key": "030",
+            "value": "Lord Mont, date prisa."
+        },
+        {
+            "key": "031",
+            "value": "Sí, sí, lo sé. Venga, vamos."
+        }
+    ]
+}

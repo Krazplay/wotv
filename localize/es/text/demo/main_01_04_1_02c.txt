@@ -1,0 +1,72 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "¿Qué ha pasado?"
+        },
+        {
+            "key": "002",
+            "value": "¡Hemos visto a unos soldados de Fennes!"
+        },
+        {
+            "key": "003",
+            "value": "No puede ser…"
+        },
+        {
+            "key": "004",
+            "value": "Es cierto. Están muy cerca."
+        },
+        {
+            "key": "005",
+            "value": "No hay tiempo para descansar. Tenemos que marcharnos ahora mismo."
+        },
+        {
+            "key": "006",
+            "value": "Poco más podemos hacer. Vamos."
+        },
+        {
+            "key": "007",
+            "value": "…"
+        },
+        {
+            "key": "008",
+            "value": "Príncipe Mont, ¿por qué no le has dicho a tu padre que los soldados sabían de la existencia de la cueva?"
+        },
+        {
+            "key": "009",
+            "value": "Porque Minwu estaba presente."
+        },
+        {
+            "key": "010",
+            "value": "Tú también crees que no es de fiar, ¿verdad?"
+        },
+        {
+            "key": "011",
+            "value": "Sí, es por algo que dijo antes Schuzelt."
+        },
+        {
+            "key": "012",
+            "value": "Lo de que la reconocía de otro lugar."
+        },
+        {
+            "key": "013",
+            "value": "Pero toparse con otra gente viajando es algo normal, ¿no?"
+        },
+        {
+            "key": "014",
+            "value": "Sí, pero…"
+        },
+        {
+            "key": "015",
+            "value": "Tengo un mal presentimiento."
+        },
+        {
+            "key": "016",
+            "value": "…"
+        },
+        {
+            "key": "017",
+            "value": "Entendido. No lo quitaré el ojo de encima."
+        }
+    ]
+}

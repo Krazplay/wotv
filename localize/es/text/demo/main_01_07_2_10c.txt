@@ -1,0 +1,264 @@
+﻿{
+    "infos": [
+        {
+            "key": "70355",
+            "value": "¿Qué es lo que va-vais a hacer?  "
+        },
+        {
+            "key": "70356",
+            "value": "Dejadme marchar, os lo ruego. Por favor, os lo suplico."
+        },
+        {
+            "key": "70357",
+            "value": "¿Qué hacemos, lord Mont?"
+        },
+        {
+            "key": "70358",
+            "value": "Bip, bip, bip…"
+        },
+        {
+            "key": "70359",
+            "value": "¡¿Eh?!"
+        },
+        {
+            "key": "70360",
+            "value": "¿Lord Mont?"
+        },
+        {
+            "key": "70361",
+            "value": "Este dispositivo tan raro está emitiendo sonido."
+        },
+        {
+            "key": "70362",
+            "value": "Dejadme que lo vea."
+        },
+        {
+            "key": "70363",
+            "value": "¡Oye!"
+        },
+        {
+            "key": "70364",
+            "value": "Majestaaaaad, soy yo, ¡Oldoa!"
+        },
+        {
+            "key": "70365",
+            "value": "¡Ayudaaaaa!"
+        },
+        {
+            "key": "70366",
+            "value": "¿Pero qué…? ¡¿Qué demonios estás haciendo?!"
+        },
+        {
+            "key": "70367",
+            "value": "¡Chsssss! ¡Cállate!"
+        },
+        {
+            "key": "70368",
+            "value": "¡¿…?!"
+        },
+        {
+            "key": "70369",
+            "value": "Oldoa, ¿ha caído la fortaleza en manos del enemigo?"
+        },
+        {
+            "key": "70370",
+            "value": "Si es así, te ordeno que la recuperes."
+        },
+        {
+            "key": "70371",
+            "value": "Escuchadme todos, dejad lo que estéis haciendo y marchad hacia la fortaleza."
+        },
+        {
+            "key": "70372",
+            "value": "¿Co-cómo es posible? La voz de Muraga se oye a través de este dispositivo…"
+        },
+        {
+            "key": "70373",
+            "value": "El poder del ejército de Fennes reside en este dispositivo de comunicación. ¿Lo entendéis?"
+        },
+        {
+            "key": "70374",
+            "value": "Conque Muraga puede comunicarse con sus soldados de manera directa sin importar la distancia que los separe…"
+        },
+        {
+            "key": "70375",
+            "value": "Tengo una propuesta para vosotros: dejadme vivir y, a cambio, os ofrezco mi colaboración absoluta. ¿Qué me decís?"
+        },
+        {
+            "key": "70376",
+            "value": "Tú mandas, lord Mont."
+        },
+        {
+            "key": "70377",
+            "value": "¿A qué te refieres con «colaboración absoluta»?"
+        },
+        {
+            "key": "70378",
+            "value": "Este dispositivo no solo sirve para que el rey Muraga se comunique con sus subordinados."
+        },
+        {
+            "key": "70379",
+            "value": "Su fiereza también puede escuchar lo que decimos, nuestros informes."
+        },
+        {
+            "key": "70380",
+            "value": "¿Qué tipo de informes?"
+        },
+        {
+            "key": "70381",
+            "value": "Dejadme que os lo demuestre, pero no hagáis ningún ruido, ¿vale?"
+        },
+        {
+            "key": "70382",
+            "value": "Rey Muraga. Su fiereza, ¿me oye?"
+        },
+        {
+            "key": "70383",
+            "value": "¿Oldoa? ¿Te encuentras bien?"
+        },
+        {
+            "key": "70384",
+            "value": "La verdad es que no, me han capturado."
+        },
+        {
+            "key": "70385",
+            "value": "No te preocupes. Pronto estaré allí."
+        },
+        {
+            "key": "70386",
+            "value": "¿Y qué hay del enemigo?"
+        },
+        {
+            "key": "70387",
+            "value": "En la fortaleza solo hay tropas de Leonis."
+        },
+        {
+            "key": "70388",
+            "value": "Además, ya han bajado la guardia y la mayoría están medio borrachos de tanto celebrar la victoria."
+        },
+        {
+            "key": "70389",
+            "value": "Ya veo. Eso nos será de gran ayuda."
+        },
+        {
+            "key": "70390",
+            "value": "El bosque al este de la fortaleza es muy denso, lo que complica bastante cualquier viaje."
+        },
+        {
+            "key": "70391",
+            "value": "Lo aprovecharemos para tenderles una emboscada."
+        },
+        {
+            "key": "70392",
+            "value": "Aguanta un poco más. Pronto estaremos allí."
+        },
+        {
+            "key": "70393",
+            "value": "…"
+        },
+        {
+            "key": "70394",
+            "value": "¿Qué os ha parecido? A eso me refería con «colaboración absoluta»."
+        },
+        {
+            "key": "70395",
+            "value": "Sí, ha estado bien."
+        },
+        {
+            "key": "70396",
+            "value": "¿Y?…"
+        },
+        {
+            "key": "70397",
+            "value": "Un trato es un trato."
+        },
+        {
+            "key": "70398",
+            "value": "Te dejaremos vivir, pero…"
+        },
+        {
+            "key": "70399",
+            "value": "No te vamos a liberar hasta que Muraga esté muerto."
+        },
+        {
+            "key": "70400",
+            "value": "¿Te parece bien?"
+        },
+        {
+            "key": "70401",
+            "value": "Sí, no seré yo quien se oponga."
+        },
+        {
+            "key": "70402",
+            "value": "Si ese es el plan, tenemos que prepararnos de inmediato."
+        },
+        {
+            "key": "70403",
+            "value": "Sí, tenemos cuentas que saldar con ese salvaje."
+        },
+        {
+            "key": "70404",
+            "value": "Lilit."
+        },
+        {
+            "key": "70405",
+            "value": "¿Sí, milord?"
+        },
+        {
+            "key": "70406",
+            "value": "(Bajad todos la voz)."
+        },
+        {
+            "key": "70407",
+            "value": "(Tengo una idea para acabar con Muraga)."
+        },
+        {
+            "key": "70408",
+            "value": "(Si ya sabemos que el enemigo vendrá a través del bosque, no hace falta que lo esperemos aquí)."
+        },
+        {
+            "key": "70409",
+            "value": "(¿Vamos a tenderle una emboscada?)"
+        },
+        {
+            "key": "70410",
+            "value": "(Así es. Es la única forma de conseguir una ventaja aún mayor)."
+        },
+        {
+            "key": "70411",
+            "value": "(¿Y qué hacemos con Oldoa?)"
+        },
+        {
+            "key": "70412",
+            "value": "(Encerradla dentro de la fortaleza y encargadle a varios soldados que la vigilen)."
+        },
+        {
+            "key": "70413",
+            "value": "(Me gusta tu plan)."
+        },
+        {
+            "key": "70414",
+            "value": "Je, je. Tengo un buen presentimiento."
+        },
+        {
+            "key": "70415",
+            "value": "Beilo, te voy a confiar el dispositivo de comunicación. Ten mucho cuidado con él, ¿entendido?"
+        },
+        {
+            "key": "70416",
+            "value": "¡A sus órdenes!"
+        },
+        {
+            "key": "70417",
+            "value": "Conque un ataque sorpresa…"
+        },
+        {
+            "key": "70418",
+            "value": "Pero…"
+        },
+        {
+            "key": "70419",
+            "value": "¿Por qué estaban hablando tan bajito antes? Deberían hablar más alto para que todos puedan oír el plan…"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Hay muchísimos monstruos en las afueras del castillo."
+        },
+        {
+            "key": "002",
+            "value": "Es la oportunidad perfecta para que me demuestres todo lo que has aprendido."
+        },
+        {
+            "key": "003",
+            "value": "El anillo ancestral…"
+        },
+        {
+            "key": "004",
+            "value": "¿Sabes usarlo?"
+        },
+        {
+            "key": "005",
+            "value": "Por supuesto, padre."
+        },
+        {
+            "key": "006",
+            "value": "Puedo hacer que genere visiones, espíritus de héroes…"
+        },
+        {
+            "key": "007",
+            "value": "Murmullo, Susurro…, Hálito y Trance."
+        }
+    ]
+}
