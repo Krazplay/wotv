@@ -1,0 +1,324 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+	
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.css"/>
+		<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="wotv_tables.css"/>
+		
+		<script type="text/javascript" src="kraz-wotv-v2.js"></script>
+		<script type="text/javascript" src="kraz-wotv-parser-v2.js"></script>
+		<script type="text/javascript" src="kraz-wotv-tables-v2.js"></script>
+		
+		<title>WotV Espers Table</title>
+		
+		<script>
+			array_hidecol = get_columns_to_hide(); // From either the url or localstorage
+			language = get_language();
+			version = get_version();
+			let promiseList = [];
+			// Download json from github repository
+			const GIT_SHAL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+			const GIT_KRAZ = 'https://raw.githubusercontent.com/Krazplay/wotv/main/localize';
+			const GIT_BISM = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
+			// Data required for this table
+			let files_required = [	GIT_KRAZ+'/'+language+'/text/masterparam/unitname.txt',
+									GIT_KRAZ+'/'+language+'/text/masterparam/itemname.txt',
+									GIT_BISM+'/data/Unit.json',
+									GIT_BISM+'/data/NetherBeastAbilityBoard.json',
+									GIT_BISM+'/data/Buff.json'
+								]
+			files_required.forEach(file => {
+				promiseList.push($.getJSON(file, function(data){
+					console.log("Loaded: " + file);
+				}));
+			});
+
+			// All promises are completed
+			Promise.all(promiseList).then(values => {
+				console.log("All promises finished");
+				// values have the same order the promises were pushed in the list
+				unitName = parse_AnyName(values[0]);
+				itemName = parse_AnyName(values[1]);
+				unit = parse_AnyData(values[2],"iname");
+				netherBeastAbilityBoard = parse_AnyData(values[3],"iname");
+				buff = parse_AnyData(values[4],"iname");
+				// data for the datatable
+				data_table = get_datatable_Esper();
+				// The data is ready, show the datatable
+				create_datatable();
+				
+				// Setup - clone the thead of the table, will be used for individual filter input
+				// Must do it here or else there's a width issue and scrolling appear
+				$('#myTable thead tr').clone(true).appendTo( '#myTable thead' );
+				$('#myTable thead tr:eq(1) th').each( function (i) {
+					$(this).css("background-image", "none");
+					$(this).css("writing-mode", "horizontal-tb");
+					$(this).off();
+					$(this).html( '<input type="text" placeholder="Filter..." />' );
+					// Need to use $(this).parent().index() and not i, columns can be reordered
+					$( 'input', this ).on( 'keyup change', delay(function () {
+						// Change search setting depending on regex checbox
+						let is_regex = $('input[name=regex_search]').is(':checked');
+						table.column( $(this).parent().index()+':visible' )
+								.search( this.value, is_regex, !is_regex ).draw(); // value, regex?, smart search?
+						refresh_url_span();
+					}, 700));
+				});
+				
+				prefill_filters_via_url(); // write down url filter params in filter input fields
+				attach_functions_on_events();
+				set_default_val_dropdown();
+			});
+			
+			// Create the datatable, must be called after getting the data
+			function create_datatable() {
+				console.log("DataTable Go !");
+				table = $('#myTable').DataTable( {
+					"data": data_table,
+					"order": [], // no sorting at init
+					paging: false,
+					dom: 'B<"clear">lPfritp',
+					buttons: [ 'copy', 'csv',
+						{
+							extend: 'colvis',
+							columnText: function ( dt, idx, title ) {
+								return (idx+1)+': '+title;
+							}
+						},
+						{
+							extend: 'columnVisibility',
+							text: 'Show all',
+							visibility: true
+						},
+						{
+							extend: 'columnVisibility',
+							text: 'Hide all',
+							visibility: false
+						},
+						{
+							text: localStorage.getItem("esper_filter_maxawk") == "true" ? 'Unfilter max awakening' : 'Filter max awakening',
+							action: function ( e, dt, node, config ) {
+								if (localStorage.getItem("esper_filter_maxawk") == "true") {
+									this.text('Filter max awakening');
+									localStorage.setItem("esper_filter_maxawk", "false");
+								} else  {
+									this.text('Unfilter max awakening');
+									localStorage.setItem("esper_filter_maxawk", "true");
+								}
+								dt.draw();
+							}
+						},
+						{
+							text: localStorage.getItem("esper_filter_owned") == "true" ? 'Unfilter owned' : 'Filter owned',
+							action: function ( e, dt, node, config ) {
+								if (localStorage.getItem("esper_filter_owned") == "true") {
+									this.text('Filter owned');
+									localStorage.setItem("esper_filter_owned", "false");
+								} else  {
+									this.text('Unfilter owned');
+									localStorage.setItem("esper_filter_owned", "true");
+								}
+								dt.draw();
+							}
+						}],
+					orderCellsTop: true,
+					fixedHeader: {
+						header: true,
+						footer: false
+					},
+					colReorder: true,
+					rowReorder: true,
+					rowReorder: { dataSrc: 'line_id' },
+					autoWidth: false,
+					columnDefs: [
+						{ visible: false, targets: [0,1] },
+						{ visible: false, targets: array_hidecol },
+						{ targets: '_all', className: "centertext", defaultContent: "" }
+					],
+					select: {
+						style:    'os',
+						selector: 'td:first-child'
+					},
+					"columns": [
+						{ "data": "line_id" },
+						{ "data": "bestv" },
+						{ "data": "iname" },
+						{ "data": "name", className: "centertext quickfix2" },
+						{ "data": "elem" },
+						{ "data": "owned" },
+						{ "data": "memo", className: "thmemo" },
+						{ "data": "awk" },
+						{ "data": "hp" },
+						{ "data": "mp" },
+						{ "data": "ap" },
+						{ "data": "atk" },
+						{ "data": "mag" },
+						{ "data": "dex" },
+						{ "data": "spd" },
+						{ "data": "luk" },
+						{ "data": "def", "className": "green_column" },{ "data": "mnd", "className": "green_column" },
+						{ "data": "hp%", "className": "blue_column" },{ "data": "mp%", "className": "blue_column" },{ "data": "ap%", "className": "blue_column" },
+						{ "data": "atk%", "className": "blue_column" },{ "data": "mag%", "className": "blue_column" },
+						{ "data": "luk%", "className": "blue_column" },
+						{ "data": "atk_asl", "className": "red_column" },{ "data": "atk_api", "className": "red_column" },
+						{ "data": "atk_abl", "className": "red_column" },{ "data": "atk_ash", "className": "red_column" },{ "data": "atk_ama", "className": "red_column" },
+						{ "data": "hit" },{ "data": "avd" },
+						{ "data": "crt" },{ "data": "crta" },{ "data": "crtd" },{ "data": "evoc" },
+						{ "data": "iniap" },{ "data": "activ_time" },
+						
+						{ "data": "type_atk_buffs_text", className: "centertext quickfix1" },
+						{ "data": "atk_buffs", className: "centertext quickfix1" },
+						{ "data": "res_buffs", className: "centertext quickfix1" },
+						{ "data": "stat_type_elmt_text", className: "centertext quickfix1" },
+						
+						{ "data": "asl" },{ "data": "api" },{ "data": "abl" },{ "data": "ash" },{ "data": "ama" },
+						{ "data": "efi" },{ "data": "eic" },{ "data": "ewi" },
+						{ "data": "eea" },{ "data": "eth" },{ "data": "ewa" },
+						{ "data": "esh" },{ "data": "eda" },
+						{ "data": "cpo" },{ "data": "cbl" },{ "data": "csl" },{ "data": "cmu" },
+						{ "data": "cpa" },{ "data": "ccf" },{ "data": "cpe" },{ "data": "cfr" },
+						{ "data": "cch" },{ "data": "csw" },{ "data": "cst" },{ "data": "cdm" },
+						{ "data": "cda" },{ "data": "cbe" },{ "data": "cdo" }
+					],
+					// Annoying, filter doesn't apply at initialization, need to redraw table after 1 ms
+					initComplete: function () {
+						const dt = this.api();
+						window.setTimeout(function () {
+							dt.draw();
+						}, 1);
+					}
+				});
+				
+				/* Custom filtering function for owned checkboxes */
+				$.fn.dataTable.ext.search.push(
+					function( settings, data, dataIndex ) {
+						var bestv = data[1]; // max awk filter use the bestv column, 1=best version currently obtainable
+						var iname = data[2]; // owned filter use a localstorage variable with the iname
+						if ((localStorage.getItem("esper_filter_owned") == "true") && (localStorage.getItem(iname) != "true")) return false;
+						else if ((localStorage.getItem("esper_filter_maxawk") == "true") && (bestv == "0")) return false;
+						else return true;
+					}
+				);
+				
+				// Manage the saving and loading of the checkboxes states in localStorage
+				load_checkboxes_state();
+				add_event_save_checkbox();
+				
+				// If valid number in localStorage, resize the memo column
+				var local_memo_size = localStorage.getItem("memo_size_esper");
+				if (!isNaN(parseInt(local_memo_size))) {
+					$( ".thmemo" ).css({"min-width": local_memo_size+"px"});
+					$( ".thmemo" ).css({"max-width": local_memo_size+"px"});
+				};
+			}
+		</script>
+	</head>
+	<style>
+		table.dataTable {
+			white-space: normal;
+		}
+		.quickfix1 {
+			min-width: 230px;
+		}
+		.quickfix2 {
+			min-width: 100px;
+		}
+	</style>
+	<body>
+		<span>Espers table - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
+		<span>
+			Language:
+			<select name="language" id="language" onchange="languageChange(this.value)">
+			  <option value="de">de</option>
+			  <option value="en">en</option>
+			  <option value="es">es</option>
+			  <option value="fr">fr</option>
+			  <option value="ko">ko</option>
+			  <option value="zh">zh</option>
+			</select>
+			Version:
+			<select name="version" id="version" onchange="versionChange(this.value)">
+			  <option value="gl">Global</option>
+			  <option value="jp">Japan</option>
+			</select>
+		</span>
+		<br/><br/>
+		<table id="myTable" class="display">
+			<input type="checkbox" name="regex_search" id="regex_search"></input>
+			<label for="regex_search">Use regex in column filters instead of smart search (allow things like "Ifrit|Shiva")</label>
+			<span> / Custom memo size: <input type="text" id="memo_size_esper" size="1" onkeyup="memoSizeChange(event)"></input>
+			<thead>
+				<tr>
+					<th>-</th>
+					<th>best</th>
+					<th>iname</th>
+					<th>Name</th>
+					<th>Element</th>
+					<th>o</th>
+					<th>memo</th>
+					<th>awk</th>
+					<th>HP</th>
+					<th>TP</th>
+					<th>AP</th>
+					<th>Atk</th>
+					<th>Mag</th>
+					<th>Dex</th>
+					<th>Agi</th>
+					<th>Luk</th>
+					<th>DEF</th><th>SPR</th>
+					<th>HP%</th><th>TP%</th><th>AP%</th><th>Atk%</th><th>Mag%</th><th>Luk%</th>
+					<th><img src="i/slash_atk.png" title="Slash Attack" width="29" height="29"></th>
+					<th><img src="i/pierce_atk.png" title="Pierce Attack" width="29" height="29"></th>
+					<th><img src="i/strike_atk.png" title="Strike Attack" width="29" height="29"></th>
+					<th><img src="i/missile_atk.png" title="Missile Attack" width="29" height="29"></th>
+					<th><img src="i/magic_atk.png" title="Magic Attack" width="29" height="29"></th>
+					
+					<th>Acc</th><th>Eva</th><th>Crit</th><th>Crit<br/>Eva</th><th>Crit<br/>Dmg</th><th>Evoc<br/>ation</th>
+					<th>Ini<br/>AP</th><th>Atk<br/>CT</th>
+					
+					<th>Panels: Type atk</th>
+					<th>Panels: Elmt atk</th>
+					<th>Panels: Others buffs</th>
+					<th>Stat: Elmt/Cond Res</th>
+					
+					<th><img src="i/slash.png" title="Slash Resistance" width="29" height="29"></th>
+					<th><img src="i/pierce.png" title="Pierce Resistance" width="29" height="29"></th>
+					<th><img src="i/strike.png" title="Strike Resistance" width="29" height="29"></th>
+					<th><img src="i/missile.png" title="Missile Resistance" width="29" height="29"></th>
+					<th><img src="i/magic.png" title="Magic Resistance" width="29" height="29"></th>
+
+					<th><img src="i/Element_Icon_Fire.png" title="Fire Resistance" width="29" height="29"></th>
+					<th><img src="i/Element_Icon_Ice.png" title="Ice Resistance" width="29" height="29"></th>
+					<th><img src="i/Element_Icon_Wind.png" title="Wind Resistance" width="29" height="29"></th>
+					<th><img src="i/Element_Icon_Earth.png" title="Earth Resistance" width="29" height="29"></th>
+					<th><img src="i/Element_Icon_Thunder.png" title="Thunder Resistance" width="29" height="29"></th>
+					<th><img src="i/Element_Icon_Water.png" title="Water Resistance" width="29" height="29"></th>
+					<th><img src="i/Element_Icon_Shine.png" title="Light Resistance" width="29" height="29"></th>
+					<th><img src="i/Element_Icon_Dark.png" title="Dark Resistance" width="29" height="29"></th>
+
+					<th><img src="i/StatusConditionIcon_Poison.png" title="Poison Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Blinded.png" title="Blind Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Sleep.png" title="Sleep Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Mute.png" title="Silence Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Paralysis.png" title="Paralysis Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Confusion.png" title="Confusion Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Petrification.png" title="Petrification Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Frog.png" title="Toad Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Charm.png" title="Charm Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Slow.png" title="Slow Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Stop.png" title="Stop Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_DontMove.png" title="Immobilize Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_DontAction.png" title="Disable Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Berserk.png" title="Berserk Resistance" width="29" height="29"></th>
+					<th><img src="i/StatusConditionIcon_Doom.png" title="Doom Resistance" width="29" height="29"></th>
+				</tr>
+			</thead>
+			<tbody>
+			</tbody>
+			<tfoot>
+			</tfoot>
+		</table>
+	</body>
+	
+</html>
