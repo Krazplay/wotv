@@ -37,10 +37,7 @@ function parse_BirthTitle(data) {
 	arrayName[30] = "Gouga"
 	arrayName[31] = "Nier collab"
 	arrayName[33] = "Tomb Raider"
-<<<<<<< HEAD
 	arrayName[34] = "Far Plane"
-=======
->>>>>>> 98b825ccf4203f7f97333c1ce9444b69fa48bd5d
 	arrayName[54] = "Unaffiliated"
 	return arrayName;
 }
