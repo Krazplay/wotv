@@ -1057,6 +1057,10 @@
             "value": "Visionskarte „Odin, der Mythische Marodeur“ befindet sich mindestens auf St. 1"
         },
         {
+            "key": "COND_VC_LW_OD_01",
+            "value": "Visionskarte „Phantasmatischer Scharfrichter, Dunkel-Odin“ befindet sich mindestens auf St. 1"
+        },
+        {
             "key": "COND_VC_LW_TSLP",
             "value": "Visionskarte „Tetrasylphid, die Himmlischen Vier der Winde“ befindet sich mindestens auf St. 1"
         },
@@ -1503,6 +1507,22 @@
         {
             "key": "COND_CH_CLES",
             "value": "Einheit „Celes“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_MDNA2",
+            "value": "Einheit „Mediena“ befindet sich mindestens auf St. 80"
+        },
+        {
+            "key": "COND_CH_LW_OOOO2",
+            "value": "Einheit „Ornh“ befindet sich mindestens auf St. 80"
+        },
+        {
+            "key": "COND_CH_LW_ZZAN2",
+            "value": "Einheit „Zazan“ befindet sich mindestens auf St. 80"
+        },
+        {
+            "key": "COND_CH_LW_BYLO2",
+            "value": "Einheit „Baelo“ befindet sich mindestens auf St. 80"
         }
     ]
 }

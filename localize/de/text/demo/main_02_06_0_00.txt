@@ -1,0 +1,296 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Was habt ihr angerichtet?"
+        },
+        {
+            "key": "002",
+            "value": "Wa-Was meinst du?"
+        },
+        {
+            "key": "003",
+            "value": "Stell dich nicht dumm!"
+        },
+        {
+            "key": "004",
+            "value": "Du weißt sehr wohl, wovon ich spreche. Es wurden bereits drei tote Soldaten mit aufgeschlitzten Kehlen gefunden."
+        },
+        {
+            "key": "005",
+            "value": "Und zwar seitdem wir im Schloss angekommen sind."
+        },
+        {
+            "key": "006",
+            "value": "Du denkst also, dass wir das waren?"
+        },
+        {
+            "key": "007",
+            "value": "Wer sonst kommt denn in Frage?"
+        },
+        {
+            "key": "008",
+            "value": "Dann wirf uns in den Kerker."
+        },
+        {
+            "key": "009",
+            "value": "... Was?"
+        },
+        {
+            "key": "010",
+            "value": "Ja, genau. So kann jeder sehen, dass wir unschuldig sind."
+        },
+        {
+            "key": "011",
+            "value": "..."
+        },
+        {
+            "key": "012",
+            "value": "Was führt ihr im Schilde?"
+        },
+        {
+            "key": "013",
+            "value": "Ich dachte, ihr seid diejenigen, die etwas im Schilde führen."
+        },
+        {
+            "key": "014",
+            "value": "Wir helfen euch einfach nur dabei."
+        },
+        {
+            "key": "015",
+            "value": "Wa...?"
+        },
+        {
+            "key": "016",
+            "value": "Komm schon, hast du etwa kalte Füße bekommen?"
+        },
+        {
+            "key": "017",
+            "value": "..."
+        },
+        {
+            "key": "018",
+            "value": "Also gut, dann lasst mal hören. Wie stellt ihr euch die Sache vor?"
+        },
+        {
+            "key": "019",
+            "value": "Wie schon gesagt, wir werden es uns für eine Weile im Kerker gemütlich machen."
+        },
+        {
+            "key": "020",
+            "value": "Das war also dein Ernst."
+        },
+        {
+            "key": "021",
+            "value": "Selbst Shinobi wie wir können aus den Kerkern von Rundall nicht entwischen."
+        },
+        {
+            "key": "022",
+            "value": "Die Morde aber werden weitergehen, das versichere ich dir ..."
+        },
+        {
+            "key": "023",
+            "value": "Und damit wird unsere Unschuld bewiesen sein."
+        },
+        {
+            "key": "024",
+            "value": "Warte ... Soll das heißen, dass sich eure Leute bereits hier im Schloss befinden?"
+        },
+        {
+            "key": "025",
+            "value": "Genau. Es sind schon eine gute Handvoll Shinobi aus Gouga hier im Schloss."
+        },
+        {
+            "key": "026",
+            "value": "Die ihr eingeschleust habt."
+        },
+        {
+            "key": "027",
+            "value": "Es war wirklich ein Kinderspiel."
+        },
+        {
+            "key": "028",
+            "value": "Einige unserer Shinobi haben sogar den Platz von heindlerischen Soldaten eingenommen."
+        },
+        {
+            "key": "029",
+            "value": "..."
+        },
+        {
+            "key": "030",
+            "value": "Und ihr glaubt, dass sich Schloss Rundall wirklich so leicht einnehmen lässt?"
+        },
+        {
+            "key": "031",
+            "value": "Elshura und Creysse wurden von der Front zurückbeordert, um für meine Sicherheit zu sorgen."
+        },
+        {
+            "key": "032",
+            "value": "Elshura ist die Vizekommandantin von „Crucium“. Sie ist überaus scharfsinnig und genießt das volle Vertrauen ihrer Truppen."
+        },
+        {
+            "key": "033",
+            "value": "Und genau da kommst du ins Spiel."
+        },
+        {
+            "key": "034",
+            "value": "Was soll das heißen?"
+        },
+        {
+            "key": "035",
+            "value": "Trotz all unserer Fähigkeiten hat Gouga keine Chance, eine direkte Auseinandersetzung mit Rundall zu gewinnen."
+        },
+        {
+            "key": "036",
+            "value": "Doch wie der Zufall so will, befindet sich jemand hier im Schloss, der um jeden Preis beschützt werden muss."
+        },
+        {
+            "key": "037",
+            "value": "Du meinst Prinzessin Alaya."
+        },
+        {
+            "key": "038",
+            "value": "Genau. Für dich wäre es doch sicher ein Klacks, diese Elshura aus dem Weg zu räumen."
+        },
+        {
+            "key": "039",
+            "value": "Stimmt doch, oder?"
+        },
+        {
+            "key": "040",
+            "value": "..."
+        },
+        {
+            "key": "041",
+            "value": "Dann wird es jedoch nicht lange dauern, bis Jayden davon erfährt, dass hier im Schloss etwas im Argen ist."
+        },
+        {
+            "key": "042",
+            "value": "Dagegen haben wir bereits Vorkehrungen getroffen."
+        },
+        {
+            "key": "043",
+            "value": "Die Anführerin von Gouga, Lady Marial, hat mit zahlreichen ihrer besten Shinobi bereits alle strategischen Punkte um das Schloss herum besetzt."
+        },
+        {
+            "key": "044",
+            "value": "Natürlich so, dass sie Rundalls Spähern verborgen bleiben."
+        },
+        {
+            "key": "045",
+            "value": "Sie werden dafür sorgen, dass König Jayden nicht auch nur eine einzige Nachricht erreicht. Hehehe."
+        },
+        {
+            "key": "046",
+            "value": "..."
+        },
+        {
+            "key": "047",
+            "value": "Prinzessin Alaya. Ich bin es, Elshura. Ich muss mit Euch sprechen."
+        },
+        {
+            "key": "048",
+            "value": "... Tritt ein."
+        },
+        {
+            "key": "049",
+            "value": "..."
+        },
+        {
+            "key": "050",
+            "value": "Lady Elshura, Ihr kommt genau zur rechten Zeit."
+        },
+        {
+            "key": "051",
+            "value": "Zur rechten Zeit ...?"
+        },
+        {
+            "key": "052",
+            "value": "Wir wollten Euch gerade aufsuchen, auf Geheiß von Prinzessin Alaya."
+        },
+        {
+            "key": "053",
+            "value": "In welcher Sache?"
+        },
+        {
+            "key": "054",
+            "value": "Offenbar haben feindliche Kräfte das Schloss infiltriert und bereits einige Soldaten getötet."
+        },
+        {
+            "key": "055",
+            "value": "Prinzessin Alaya befürchtet, dass der Verdacht sofort auf uns fallen wird."
+        },
+        {
+            "key": "056",
+            "value": "Und deshalb, Lady Elshura ... müssen wir Euch bitten, uns einzusperren."
+        },
+        {
+            "key": "057",
+            "value": "Wir würden alles tun, um unsere Unschuld zu beweisen."
+        },
+        {
+            "key": "058",
+            "value": "Tu bitte, was die beiden sagen."
+        },
+        {
+            "key": "059",
+            "value": "Seid ihr Euch sicher, Prinzessin ...?"
+        },
+        {
+            "key": "060",
+            "value": "Das bin ich."
+        },
+        {
+            "key": "061",
+            "value": "Ich werde der Prinzessin persönlich als Leibwächterin dienen, bis die Unschuld dieser beiden bewiesen ist."
+        },
+        {
+            "key": "062",
+            "value": "Sehr wohl, ich habe verstanden."
+        },
+        {
+            "key": "063",
+            "value": "Bringt sie in den Kerker."
+        },
+        {
+            "key": "064",
+            "value": "Zu Befehl."
+        },
+        {
+            "key": "065",
+            "value": "Kommt mit uns."
+        },
+        {
+            "key": "066",
+            "value": "Was ist es nun, worüber du mit mir sprechen willst?"
+        },
+        {
+            "key": "067",
+            "value": "Es ging genau um jene beiden, offen gesagt."
+        },
+        {
+            "key": "068",
+            "value": "Ich verstehe. Ich hoffe, dass sie bald von diesem unbilligen Verdacht befreit werden."
+        },
+        {
+            "key": "069",
+            "value": "Apropos ..."
+        },
+        {
+            "key": "070",
+            "value": "König Jayden muss so schnell wie möglich von dieser Angelegenheit in Kenntnis gesetzt werden."
+        },
+        {
+            "key": "071",
+            "value": "Ich habe bereits einen Boten zum Heerlager gesandt."
+        },
+        {
+            "key": "072",
+            "value": "Vielen Dank, Elshura. Auf dich ist immer Verlass."
+        },
+        {
+            "key": "073",
+            "value": "Zu gütig, meine Prinzessin ..."
+        }
+    ]
+}

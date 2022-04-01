@@ -403,6 +403,10 @@
         {
             "key": "101",
             "value": "Collaboration FINAL FANTASY VI<br>Invoquez maintenant !"
+        },
+        {
+            "key": "102",
+            "value": "Collaboration FINAL FANTASY VI<br>Invoquez « Présage » maintenant !"
         }
     ]
 }

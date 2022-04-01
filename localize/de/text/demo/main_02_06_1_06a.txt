@@ -1,0 +1,232 @@
+﻿{
+    "infos": [
+        {
+            "key": "247",
+            "value": "Du bist also Jayden."
+        },
+        {
+            "key": "248",
+            "value": "Und du bist …?"
+        },
+        {
+            "key": "249",
+            "value": "Raychesse von Hournes zweiter Einheit, „Nitor“."
+        },
+        {
+            "key": "250",
+            "value": "Dein Name kommt mir bekannt vor."
+        },
+        {
+            "key": "251",
+            "value": "Das sollte er auch. Ich hatte einmal die Absicht, mich Rundall anzuschließen."
+        },
+        {
+            "key": "252",
+            "value": "Ja, jetzt fällt es mir wieder ein."
+        },
+        {
+            "key": "253",
+            "value": "Das war, als ich im Osten nach den fähigsten Kämpfern für „Crucium“ gesucht habe."
+        },
+        {
+            "key": "254",
+            "value": "Jetzt hast du dich also Hourne angeschlossen …"
+        },
+        {
+            "key": "255",
+            "value": "Ich muss dich leider umbringen ... Bitte nimm es nicht persönlich."
+        },
+        {
+            "key": "256",
+            "value": "Also gut, du hast einen Versuch. Ich mag Leute, die wissen, was sie wollen."
+        },
+        {
+            "key": "257",
+            "value": "Nein, überlasst sie mir, Majestät."
+        },
+        {
+            "key": "258",
+            "value": "Wer bist du denn?"
+        },
+        {
+            "key": "259",
+            "value": "Rhaldor, Kommandant von Rundalls zweiter Einheit, „Crucium“."
+        },
+        {
+            "key": "260",
+            "value": "Der Kommandant, unter dem ich gedient hätte …"
+        },
+        {
+            "key": "261",
+            "value": "Ich werde dir zeigen, dass du König Jayden noch lange nicht das Wasser reichen kannst."
+        },
+        {
+            "key": "262",
+            "value": "Ich bin eigentlich wegen Jayden hier ..."
+        },
+        {
+            "key": "263",
+            "value": "Aber gut, so werde ich wenigstens richtig warm."
+        },
+        {
+            "key": "264",
+            "value": "Na schön, Rhaldor. Tu, was du nicht lassen kannst."
+        },
+        {
+            "key": "265",
+            "value": "Wie Ihr wünscht."
+        },
+        {
+            "key": "266",
+            "value": "...!"
+        },
+        {
+            "key": "267",
+            "value": "Lady Salire!"
+        },
+        {
+            "key": "268",
+            "value": "Ich weiß!"
+        },
+        {
+            "key": "269",
+            "value": "Was für ein Kugelhagel ..."
+        },
+        {
+            "key": "270",
+            "value": "Oh, jetzt weiß ich, was hier gespielt wird."
+        },
+        {
+            "key": "271",
+            "value": "Wovon sprecht Ihr?"
+        },
+        {
+            "key": "272",
+            "value": "Von unserem Feind. Es gibt nur eine, die solche Taktiken benutzt."
+        },
+        {
+            "key": "273",
+            "value": "L-Lady Salire!"
+        },
+        {
+            "key": "274",
+            "value": "Lu’Cia ... Du bist das, oder?"
+        },
+        {
+            "key": "275",
+            "value": "Zeig dich gefälligst!"
+        },
+        {
+            "key": "276",
+            "value": "Du hast Mumm, hierherzukommen, das muss ich dir lassen."
+        },
+        {
+            "key": "277",
+            "value": "Wo ist dein Bruder?"
+        },
+        {
+            "key": "278",
+            "value": "Den brauche ich nicht, um mit dir fertig zu werden."
+        },
+        {
+            "key": "279",
+            "value": "Du meinst wohl, er ist zu feige, um sich aus dem Schloss zu wagen."
+        },
+        {
+            "key": "280",
+            "value": "Red weiter so über meinen Bruder und ich muss diesmal extra grob werden."
+        },
+        {
+            "key": "281",
+            "value": "Versuch es ruhig. Und wenn du dich ausgetobt hast, werde ich dich von deinem Leid erlösen."
+        },
+        {
+            "key": "282",
+            "value": "Das wollen wir doch mal sehen!"
+        },
+        {
+            "key": "283",
+            "value": "Ich mache ein Brikett aus dir!"
+        },
+        {
+            "key": "284",
+            "value": "Da kommen sie."
+        },
+        {
+            "key": "285",
+            "value": "Ich wusste, dass wir uns eines Tages auf dem Schlachtfeld wiedersehen würden."
+        },
+        {
+            "key": "286",
+            "value": "Du ..."
+        },
+        {
+            "key": "287",
+            "value": "Ich bin Barahl von Rundalls zweiter Einheit, „Crucium“."
+        },
+        {
+            "key": "288",
+            "value": "Ihr seid also nach Leonis zurückgekehrt ..."
+        },
+        {
+            "key": "289",
+            "value": "Ja. Beim zweiten Mal ist alles schöner, nicht wahr?"
+        },
+        {
+            "key": "290",
+            "value": "Da war noch eine weitere, Lady Mhua. Sie dient jetzt in Heindler als eine der Sechs Fangzähne."
+        },
+        {
+            "key": "291",
+            "value": "Meine Schwester und ich haben uns nichts mehr zu sagen."
+        },
+        {
+            "key": "292",
+            "value": "Und euer König, Mont ... Sicherlich ist er auch hier auf dem Schlachtfeld?"
+        },
+        {
+            "key": "293",
+            "value": "Selbstverständlich."
+        },
+        {
+            "key": "294",
+            "value": "Dann kann ich ihn vielleicht endlich einmal treffen."
+        },
+        {
+            "key": "295",
+            "value": "Ich fürchte, da muss ich dich enttäuschen."
+        },
+        {
+            "key": "296",
+            "value": "Denn weiter als bis hier wirst du nicht kommen."
+        },
+        {
+            "key": "297",
+            "value": "Rundall kann von nichts und niemandem aufgehalten werden."
+        },
+        {
+            "key": "298",
+            "value": "Jayden ...!"
+        },
+        {
+            "key": "299",
+            "value": "So sieht man sich wieder."
+        },
+        {
+            "key": "300",
+            "value": "Wir schulden dir noch was für deine Hilfe in Wezette."
+        },
+        {
+            "key": "301",
+            "value": "Ach, vergiss es. Das hat sich nun mal so ergeben."
+        },
+        {
+            "key": "302",
+            "value": "So, dann wollen wir das mal hinter uns bringen. Aber nur, dass eins klar ist ... dieser Kampf geht bis zum Tod."
+        },
+        {
+            "key": "303",
+            "value": "Einverstanden."
+        }
+    ]
+}

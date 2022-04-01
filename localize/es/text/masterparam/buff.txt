@@ -630,7 +630,7 @@
         },
         {
             "key": "BUFF_OtherAttackCastTime",
-            "value": "Tiempo de activación de habilidades ofensivas reducido"
+            "value": "Tiempo de activación de habilidades ofensivas"
         },
         {
             "key": "BUFF_OtherApGain",

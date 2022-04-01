@@ -1,0 +1,404 @@
+﻿{
+    "infos": [
+        {
+            "key": "344",
+            "value": "Ça fait longtemps qu'on ne t'avait pas vu, Camillo."
+        },
+        {
+            "key": "345",
+            "value": "G-Ganzback… !"
+        },
+        {
+            "key": "346",
+            "value": "Traître."
+        },
+        {
+            "key": "347",
+            "value": "Tu as déserté ta mission et refusé de pourchasser la messagère d'Ovis en quête de renforts à Hourne."
+        },
+        {
+            "key": "348",
+            "value": "Comment oses-tu te présenter devant nous après cela ?"
+        },
+        {
+            "key": "349",
+            "value": "Oh, lâchez-moi."
+        },
+        {
+            "key": "350",
+            "value": "Vous pouvez parler en plus."
+        },
+        {
+            "key": "351",
+            "value": "Pardon ?"
+        },
+        {
+            "key": "352",
+            "value": "C'est ça, jouez les innocents."
+        },
+        {
+            "key": "353",
+            "value": "Vous nous rabâchez les oreilles avec l'honneur du dragon de Heindler, mais tout ce qu'on voit c'est votre queue remuer aux ordres de vos maîtres de Rundall !"
+        },
+        {
+            "key": "354",
+            "value": "Franchement, je vous admire pour réussir à maintenir votre air supérieur sans rougir."
+        },
+        {
+            "key": "355",
+            "value": "Je vais te faire payer tes paroles !"
+        },
+        {
+            "key": "356",
+            "value": "Tu n'aurais peut-être pas dû les provoquer."
+        },
+        {
+            "key": "357",
+            "value": "Quoi ? Pourquoi ?"
+        },
+        {
+            "key": "358",
+            "value": "Tu vas avoir du mal à te faire pardonner ces insultes."
+        },
+        {
+            "key": "359",
+            "value": "Et comme tu vas sûrement perdre le combat, pense aux conséquences."
+        },
+        {
+            "key": "360",
+            "value": "Toujours aussi encourageante, à ce que je vois."
+        },
+        {
+            "key": "361",
+            "value": "Tu m'as dit de faire comme si on ne se connaissait pas, non ?"
+        },
+        {
+            "key": "362",
+            "value": "J'ai dit ça UNE fois !"
+        },
+        {
+            "key": "363",
+            "value": "Qu'est-ce qu'il y a ? Vous n'êtes pas d'accord sur la façon de fuir la queue entre les jambes ?"
+        },
+        {
+            "key": "364",
+            "value": "Non, j'ai changé. Je ne suis plus l'homme que vous avez connu."
+        },
+        {
+            "key": "365",
+            "value": "Parfait."
+        },
+        {
+            "key": "366",
+            "value": "On va redresser ton esprit tordu d'un bout coup de nos Six Crocs."
+        },
+        {
+            "key": "367",
+            "value": "Et toi ? Quel est ton intérêt là-dedans ?"
+        },
+        {
+            "key": "368",
+            "value": "Ce combat ne concerne pas Elsirelle."
+        },
+        {
+            "key": "369",
+            "value": "Si vous voulez avoir mal, je serai amplement suffisant pour vous servir."
+        },
+        {
+            "key": "370",
+            "value": "Sauf que je déteste presque autant ceux qui s'en prennent aux faibles que les mantes religieuses."
+        },
+        {
+            "key": "371",
+            "value": "C'est moi que tu traites de faible, là ?!"
+        },
+        {
+            "key": "372",
+            "value": "Attends, quoi ? Tu n'aimes pas les mantes religieuses ?"
+        },
+        {
+            "key": "373",
+            "value": "C'est leur ventre tout lisse et mou, là, ha ! Rien que d'y penser ça me dégoûte."
+        },
+        {
+            "key": "374",
+            "value": "Je ne vous laisserai pas toucher à un seul de ses cheveux !"
+        },
+        {
+            "key": "375",
+            "value": "Alors commençons, venez me chercher !"
+        },
+        {
+            "key": "376",
+            "value": "Argh…"
+        },
+        {
+            "key": "377",
+            "value": "Qu'est-ce qu'il y a ? Tu es blessée ?"
+        },
+        {
+            "key": "378",
+            "value": "Pourquoi tu continues ?"
+        },
+        {
+            "key": "379",
+            "value": "À faire quoi ?"
+        },
+        {
+            "key": "380",
+            "value": "On va perdre cette bataille, je crois que c'est assez clair, mais toi tu as prouvé ta valeur à Rundall, c'est bon."
+        },
+        {
+            "key": "381",
+            "value": "…"
+        },
+        {
+            "key": "382",
+            "value": "Ah d'accord, je comprends mieux."
+        },
+        {
+            "key": "383",
+            "value": "C'était donc ça vos cachoteries avec Grahl."
+        },
+        {
+            "key": "384",
+            "value": "Oui, c'est vrai, je suis venue de l'Est pour rejoindre Rundall."
+        },
+        {
+            "key": "385",
+            "value": "Mais j'ai changé d'avis en cours de route."
+        },
+        {
+            "key": "386",
+            "value": "Parce que tu es tombée amoureuse de mon frère."
+        },
+        {
+            "key": "387",
+            "value": "En effet."
+        },
+        {
+            "key": "388",
+            "value": "Et tu seras invitée, que ça te plaise ou non, à notre mariage."
+        },
+        {
+            "key": "389",
+            "value": "Ça sera pour le ruiner !"
+        },
+        {
+            "key": "390",
+            "value": "Parfait. Mais pour ça, tu dois survivre."
+        },
+        {
+            "key": "391",
+            "value": "Survis, et après tu pourras essayer de m'empêcher d'épouser ton frère."
+        },
+        {
+            "key": "392",
+            "value": "Compte sur moi."
+        },
+        {
+            "key": "393",
+            "value": "Alors en route."
+        },
+        {
+            "key": "394",
+            "value": "Ha… ! Enfers !"
+        },
+        {
+            "key": "395",
+            "value": "C'est la fin."
+        },
+        {
+            "key": "396",
+            "value": "Je vois que tu n'as pas perdu l'habitude de te donner en spectacle dès qu'il y a une femme pour regarder…"
+        },
+        {
+            "key": "397",
+            "value": "D'ailleurs, tu n'as absolument pas changé, finalement."
+        },
+        {
+            "key": "398",
+            "value": "Tu t'es contenté de fuir l'entraînement à la dure de chez Heindler pour téter le sein inoffensif de Hourne et Leonis, rien de plus."
+        },
+        {
+            "key": "399",
+            "value": "Tu ne mérites rien sinon la mort."
+        },
+        {
+            "key": "400",
+            "value": "Attendez, vous trouvez Leonis inoffensif ?"
+        },
+        {
+            "key": "401",
+            "value": "C'est la vérité, non ?"
+        },
+        {
+            "key": "402",
+            "value": "Pourtant vous avez devant vous quelqu'un qui a tenu tête au Prince Sterne, second héritier de Leonis, lui dont la force impose le respect jusqu'aux plus grands royaumes."
+        },
+        {
+            "key": "403",
+            "value": "Tu as fait cela, toi ? Alors tu seras une adversaire intéressante."
+        },
+        {
+            "key": "404",
+            "value": "Non, je parle de l'homme qui se tient derrière moi."
+        },
+        {
+            "key": "405",
+            "value": "Quoi, Camillo ?"
+        },
+        {
+            "key": "406",
+            "value": "Ha ! C'est une blague. Il ne faut pas croire tout ce qu'il raconte."
+        },
+        {
+            "key": "407",
+            "value": "Il s'attribue toute sorte de hauts faits imaginaires pour séduire les femmes naïves."
+        },
+        {
+            "key": "408",
+            "value": "Pourtant j'ai vu cet affrontement de mes propres yeux."
+        },
+        {
+            "key": "409",
+            "value": "..."
+        },
+        {
+            "key": "410",
+            "value": "Vous avez dit, orgueilleux, incapable de se taire cinq minutes et toujours prompt à se présenter sous son meilleur jour ?"
+        },
+        {
+            "key": "411",
+            "value": "C'est de cette étoffe dont sont faits les rois, non ?"
+        },
+        {
+            "key": "412",
+            "value": "Pardon ? Tu vois Camillo en roi ?!"
+        },
+        {
+            "key": "413",
+            "value": "Allez, ça devient absurde. Son royaume ne tiendrait pas deux jours."
+        },
+        {
+            "key": "414",
+            "value": "On voit que tu n'as jamais connu l'amour, toi."
+        },
+        {
+            "key": "415",
+            "value": "Pa-pardon ?!"
+        },
+        {
+            "key": "416",
+            "value": "Elsirelle…"
+        },
+        {
+            "key": "417",
+            "value": "..."
+        },
+        {
+            "key": "418",
+            "value": "Tu pouvais continuer à dormir, tu sais."
+        },
+        {
+            "key": "419",
+            "value": "Pas après ton petit discours."
+        },
+        {
+            "key": "420",
+            "value": "..."
+        },
+        {
+            "key": "421",
+            "value": "Je suis désolé de t'avoir entraînée là-dedans."
+        },
+        {
+            "key": "422",
+            "value": "Ne sois pas désolé, tu me revaudras ça quand ça sera terminé, avec les intérêts."
+        },
+        {
+            "key": "423",
+            "value": "Quand ça sera terminé, hein ?"
+        },
+        {
+            "key": "424",
+            "value": "D'accord. Tu pourras même choisir ta compensation."
+        },
+        {
+            "key": "425",
+            "value": "Lilyth ?"
+        },
+        {
+            "key": "426",
+            "value": "Je n'en peux plus…"
+        },
+        {
+            "key": "427",
+            "value": "On ne peut pas continuer à suivre aveuglément les seules directives de Mont."
+        },
+        {
+            "key": "428",
+            "value": "Tu comptes désobéir à ses ordres ?"
+        },
+        {
+            "key": "429",
+            "value": "Et comment suis-je censée les suivre ?"
+        },
+        {
+            "key": "430",
+            "value": "Il se bat comme s'il comptait sacrifier sa vie."
+        },
+        {
+            "key": "431",
+            "value": "Oui, j'ai bien vu."
+        },
+        {
+            "key": "432",
+            "value": "Et ça ne te fait rien ?"
+        },
+        {
+            "key": "433",
+            "value": "Depuis quand es-tu si insensible ?"
+        },
+        {
+            "key": "434",
+            "value": "Les étoiles n'ont pas encore perdu leur éclat."
+        },
+        {
+            "key": "435",
+            "value": "Alors il y a encore de l'espoir, c'est ça ? Malgré l'état pitoyable de cette bataille ?"
+        },
+        {
+            "key": "436",
+            "value": "Regarde qui arrive…"
+        },
+        {
+            "key": "437",
+            "value": "Ah !"
+        },
+        {
+            "key": "438",
+            "value": "Qu'est-ce que vous faites là, vous ?!"
+        },
+        {
+            "key": "439",
+            "value": "C'est la princesse Lucielle qui nous emploie."
+        },
+        {
+            "key": "440",
+            "value": "Que…"
+        },
+        {
+            "key": "441",
+            "value": "Nous vous laisserons la vie sauve le temps du contrat."
+        },
+        {
+            "key": "442",
+            "value": "Viens, Ranel."
+        },
+        {
+            "key": "443",
+            "value": "Oui, Madame."
+        }
+    ]
+}

@@ -23329,6 +23329,318 @@
             "value": "Invocation gratuite d'unité sélectionnable garantie"
         },
         {
+            "key": "5step-gacha_MV1_gl20220330_10_step5",
+            "value": "Invocation x10 à 5 paliers de l'atout-vision « Présage » garanti [Palier 5]"
+        },
+        {
+            "key": "5step-gacha_MV1_gl20220330_10_step4",
+            "value": "Invocation x10 à 5 paliers de l'atout-vision « Présage » garanti [Palier 4]"
+        },
+        {
+            "key": "5step-gacha_MV1_gl20220330_10_step3",
+            "value": "Invocation x10 à 5 paliers de l'atout-vision « Présage » garanti [Palier 3]"
+        },
+        {
+            "key": "5step-gacha_MV1_gl20220330_10_step2",
+            "value": "Invocation x10 à 5 paliers de l'atout-vision « Présage » garanti [Palier 2]"
+        },
+        {
+            "key": "5step-gacha_MV1_gl20220330_10_step1",
+            "value": "Invocation x10 à 5 paliers de l'atout-vision « Présage » garanti [Palier 1]"
+        },
+        {
+            "key": "5step-gacha_MV1_gl20220330_10",
+            "value": ""
+        },
+        {
+            "key": "1only-gacha_MV1_gl20220330_10",
+            "value": "Invocation x10 de l'atout-vision « Présage » garanti"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_1_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_1_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_1_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_1",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_2_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_2_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_2_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_2",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_3_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_3_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_3_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_3",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_4_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_4_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_4_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_4",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_5_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_5_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_5_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_5",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_6_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_6_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_6_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_6",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_7_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_7_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_7_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Présage ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_a_7",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_vc_gl20220330_10_step5",
+            "value": "Invocation x10 à 5 paliers : « Odin obscur, la Lame spectrale » à l'honneur [Palier 5]"
+        },
+        {
+            "key": "5step-gacha_vc_gl20220330_10_step4",
+            "value": "Invocation x10 à 5 paliers : « Odin obscur, la Lame spectrale » à l'honneur [Palier 4]"
+        },
+        {
+            "key": "5step-gacha_vc_gl20220330_10_step3",
+            "value": "Invocation x10 à 5 paliers : « Odin obscur, la Lame spectrale » à l'honneur [Palier 3]"
+        },
+        {
+            "key": "5step-gacha_vc_gl20220330_10_step2",
+            "value": "Invocation x10 à 5 paliers : « Odin obscur, la Lame spectrale » à l'honneur [Palier 2]"
+        },
+        {
+            "key": "5step-gacha_vc_gl20220330_10_step1",
+            "value": "Invocation x10 à 5 paliers : « Odin obscur, la Lame spectrale » à l'honneur [Palier 1]"
+        },
+        {
+            "key": "5step-gacha_vc_gl20220330_10",
+            "value": ""
+        },
+        {
+            "key": "1only-gacha_5unitvc_gl20220330_10",
+            "value": "Invocation x10 des 10 UR garanties"
+        },
+        {
+            "key": "1only-gacha_unit_gl20220330_10",
+            "value": "Invocation x10 des 10 unités UR garanties"
+        },
+        {
+            "key": "1only-gacha_vc_gl20220330_10",
+            "value": "Invocation x10 des 10 atouts-visions UR garantis"
+        },
+        {
+            "key": "1only_100units-gacha_gl20220330_10",
+            "value": "Invocation x10 de 100 fragments d'unité UR garantis"
+        },
+        {
+            "key": "1only_50vc-gacha_gl20220330_10",
+            "value": "Invocation x10 de 50 fragments d'atout-vision UR garantis"
+        },
+        {
+            "key": "1only_5units-gacha_gl20220330_10",
+            "value": "Invocation x10 des 5 unités UR garanties"
+        },
+        {
+            "key": "1only_5vc-gacha_gl20220330_10",
+            "value": "Invocation x10 des 5 atouts-visions UR garantis"
+        },
+        {
+            "key": "1only_50units-gacha_gl20220330_10",
+            "value": "Invocation x10 de 50 fragments d'unité UR garantis"
+        },
+        {
+            "key": "1only_25vc-gacha_gl20220330_10",
+            "value": "Invocation x10 de 25 fragments d'atout-vision UR garantis"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_1_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_1_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_1_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_1",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_2_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_2_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_2_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_2",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_3_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_3_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_3_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_3",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_4_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_4_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_4_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_4",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_5_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_5_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_5_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_5",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_6_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_6_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_6_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_6",
+            "value": ""
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_7_step3",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 3e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_7_step2",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 2e invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_7_step1",
+            "value": "Invocation x10 à gils de 3 fragments d'atout-vision garantis (« Odin obscur, la Lame spectrale ») 1re invocation"
+        },
+        {
+            "key": "NdayNstep_gil_gacha_gl20220330_10_b_7",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Invocation du moment de célébration du lancement du jeu"
         },

@@ -2837,6 +2837,46 @@
             "value": "Chapitre 5, Partie 3"
         },
         {
+            "key": "QE_ST_02060101",
+            "value": "Chapitre 6, Partie 1"
+        },
+        {
+            "key": "QE_ST_02060102",
+            "value": "Chapitre 6, Partie 1"
+        },
+        {
+            "key": "QE_ST_02060103",
+            "value": "Chapitre 6, Partie 1"
+        },
+        {
+            "key": "QE_ST_02060104",
+            "value": "Chapitre 6, Partie 1"
+        },
+        {
+            "key": "QE_ST_02060105",
+            "value": "Chapitre 6, Partie 1"
+        },
+        {
+            "key": "QE_ST_02060106",
+            "value": "Chapitre 6, Partie 1"
+        },
+        {
+            "key": "QE_ST_02060107",
+            "value": "Chapitre 6, Partie 1"
+        },
+        {
+            "key": "QE_ST_02060108",
+            "value": "Chapitre 6, Partie 1"
+        },
+        {
+            "key": "QE_ST_02060109",
+            "value": "Chapitre 6, Partie 1"
+        },
+        {
+            "key": "QE_ST_02060110",
+            "value": "Chapitre 6, Partie 1"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Quête difficile"
         },
@@ -3221,6 +3261,10 @@
             "value": "Quête de personnage"
         },
         {
+            "key": "QE_CH_LW_ZZAN2",
+            "value": "Quête de personnage"
+        },
+        {
             "key": "QE_CH_LW_RART",
             "value": "Quête de personnage"
         },
@@ -3238,6 +3282,10 @@
         },
         {
             "key": "QE_CH_LW_BYLO",
+            "value": "Quête de personnage"
+        },
+        {
+            "key": "QE_CH_LW_BYLO2",
             "value": "Quête de personnage"
         },
         {
@@ -3302,6 +3350,10 @@
         },
         {
             "key": "QE_CH_LW_OOOO",
+            "value": "Quête de personnage"
+        },
+        {
+            "key": "QE_CH_LW_OOOO2",
             "value": "Quête de personnage"
         },
         {
@@ -3406,6 +3458,10 @@
         },
         {
             "key": "QE_CH_LW_MDNA",
+            "value": "Quête de personnage"
+        },
+        {
+            "key": "QE_CH_LW_MDNA2",
             "value": "Quête de personnage"
         },
         {
@@ -5113,6 +5169,30 @@
             "value": "Niveaux conseillés : unité niv. 80, job niv. 12"
         },
         {
+            "key": "QE_MU_AEX_113_1",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_MU_AEX_113_2",
+            "value": "Niveaux conseillés : unité niv. 80, job niv. 12"
+        },
+        {
+            "key": "QE_MU_AEX_112_1",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_MU_AEX_112_2",
+            "value": "Niveaux conseillés : unité niv. 80, job niv. 12"
+        },
+        {
+            "key": "QE_MU_AEX_111_1",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_MU_AEX_111_2",
+            "value": "Niveaux conseillés : unité niv. 80, job niv. 12"
+        },
+        {
             "key": "QE_MU_EV_10_EX",
             "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
         },
@@ -5150,30 +5230,6 @@
         },
         {
             "key": "QE_MU_EV_ET_EX4",
-            "value": "Niveaux conseillés : unité niv. 80, job niv. 12"
-        },
-        {
-            "key": "QE_MU_AEX_113_1",
-            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
-        },
-        {
-            "key": "QE_MU_AEX_113_2",
-            "value": "Niveaux conseillés : unité niv. 80, job niv. 12"
-        },
-        {
-            "key": "QE_MU_AEX_112_1",
-            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
-        },
-        {
-            "key": "QE_MU_AEX_112_2",
-            "value": "Niveaux conseillés : unité niv. 80, job niv. 12"
-        },
-        {
-            "key": "QE_MU_AEX_111_1",
-            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
-        },
-        {
-            "key": "QE_MU_AEX_111_2",
             "value": "Niveaux conseillés : unité niv. 80, job niv. 12"
         },
         {
@@ -7329,6 +7385,18 @@
             "value": "Niveaux conseillés : unité niv. 90, job niv. 15"
         },
         {
+            "key": "QE_BR_SOIL_11",
+            "value": "Niveaux conseillés : unité niv. 107, job niv. 20"
+        },
+        {
+            "key": "QE_BR_SOIL_12",
+            "value": "Niveaux conseillés : unité niv. 115, job niv. 22"
+        },
+        {
+            "key": "QE_BR_SOIL_13",
+            "value": "Niveaux conseillés : unité niv. 120, job niv. 25"
+        },
+        {
             "key": "QE_BR_WIND_01",
             "value": "Niveaux conseillés : unité niv. 1, job niv. 1"
         },
@@ -7750,6 +7818,14 @@
         },
         {
             "key": "QE_SB_EURP_02",
+            "value": "Niveaux conseillés : unité niv. 90, job niv. 12"
+        },
+        {
+            "key": "QE_SB_ODIN_01_01",
+            "value": "Niveaux conseillés : unité niv. 70, job niv. 10"
+        },
+        {
+            "key": "QE_SB_ODIN_01_02",
             "value": "Niveaux conseillés : unité niv. 90, job niv. 12"
         },
         {
@@ -9622,6 +9698,10 @@
         },
         {
             "key": "QE_VC_LW_ODIN",
+            "value": "Quête difficile d'atout-vision"
+        },
+        {
+            "key": "QE_VC_LW_ODIN_01",
             "value": "Quête difficile d'atout-vision"
         },
         {

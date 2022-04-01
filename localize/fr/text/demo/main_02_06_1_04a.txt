@@ -1,0 +1,244 @@
+﻿{
+    "infos": [
+        {
+            "key": "187",
+            "value": "Les portes du château ne vont pas tarder à se refermer."
+        },
+        {
+            "key": "188",
+            "value": "Et alors, nous ne pourrons plus rentrer si facilement."
+        },
+        {
+            "key": "189",
+            "value": "Bah, je n'ai peur de rien !"
+        },
+        {
+            "key": "190",
+            "value": "Ramada et moi vous protégerons, Sire, quoi qu'il arrive."
+        },
+        {
+            "key": "191",
+            "value": "Oui. Nous nous battrons à vos côtés envers et contre tout."
+        },
+        {
+            "key": "192",
+            "value": "Camillo, il est encore temps de faire demi-tour."
+        },
+        {
+            "key": "193",
+            "value": "Et pourquoi je ferais ça ?"
+        },
+        {
+            "key": "194",
+            "value": "Tu t'es autrefois battu dans les rangs de Heindler, non ?"
+        },
+        {
+            "key": "195",
+            "value": "Tu vas forcément finir par les affronter sur le champ de bataille."
+        },
+        {
+            "key": "196",
+            "value": "Et alors ? Tu me soupçonnes de changer de camp si ça se gâte ?"
+        },
+        {
+            "key": "197",
+            "value": "Non… Ce n'est pas ce que j'étais en train de dire."
+        },
+        {
+            "key": "198",
+            "value": "Ils savent comment je me bats, mais je les connais bien aussi."
+        },
+        {
+            "key": "199",
+            "value": "Ne t'inquiète pas, va, je sais comment les renvoyer la queue entre les jambes."
+        },
+        {
+            "key": "200",
+            "value": "..."
+        },
+        {
+            "key": "201",
+            "value": "Eh ! Vous n'alliez pas partir sans nous ?"
+        },
+        {
+            "key": "202",
+            "value": "Saliah ? Hourne n'est tenu à rien dans cette bataille."
+        },
+        {
+            "key": "203",
+            "value": "Ce n'est pas ça qui va nous empêcher de vous aider."
+        },
+        {
+            "key": "204",
+            "value": "Nous nous battrons avec vous."
+        },
+        {
+            "key": "205",
+            "value": "Nous avons tous le même objectif."
+        },
+        {
+            "key": "206",
+            "value": "Mais..."
+        },
+        {
+            "key": "207",
+            "value": "Et puis, Dame Machalie nous massacrera s'il vous arrive quelque chose, Mont."
+        },
+        {
+            "key": "208",
+            "value": "Adresse-toi au roi avec plus de respect !"
+        },
+        {
+            "key": "209",
+            "value": "Allez, c'est bon, on peut se détendre un peu, non ?"
+        },
+        {
+            "key": "210",
+            "value": "Veuillez excuser ses manières de gueuse."
+        },
+        {
+            "key": "211",
+            "value": "Je vais te réduire en cendres, toi !"
+        },
+        {
+            "key": "212",
+            "value": "Pas si je te découpe en petits cubes avant."
+        },
+        {
+            "key": "213",
+            "value": "Ah ouais ?"
+        },
+        {
+            "key": "214",
+            "value": "Ouais !"
+        },
+        {
+            "key": "215",
+            "value": "Ça suffit maintenant. Nous partons en guerre, l'auriez-vous oublié ?"
+        },
+        {
+            "key": "216",
+            "value": "Je me demande si c'est une bonne idée…"
+        },
+        {
+            "key": "217",
+            "value": "Nous refermons les portes."
+        },
+        {
+            "key": "218",
+            "value": "…"
+        },
+        {
+            "key": "219",
+            "value": "Allons-y."
+        },
+        {
+            "key": "220",
+            "value": "Retrouvons les forces d'Ovis sur le champ de bataille et apportons-leur notre soutien."
+        },
+        {
+            "key": "221",
+            "value": "Stop !"
+        },
+        {
+            "key": "222",
+            "value": "Mont… Tu te montres enfin…"
+        },
+        {
+            "key": "223",
+            "value": "Écoutez-moi ! Notre ennemi manie un anneau séculaire, comme moi."
+        },
+        {
+            "key": "224",
+            "value": "Tenez-vous prêts, ça va devenir difficile."
+        },
+        {
+            "key": "225",
+            "value": "Jayden est en première ligne de front."
+        },
+        {
+            "key": "226",
+            "value": "Voyons maintenant comment Reychess réagit à sa présence."
+        },
+        {
+            "key": "227",
+            "value": "Mais on sait déjà exactement comment elle va réagir !"
+        },
+        {
+            "key": "228",
+            "value": "En trahissant Hourne à la première occasion !"
+        },
+        {
+            "key": "229",
+            "value": "Après tout, elle a fait tout ce chemin depuis l'Est pour se rallier à Rundall, non ?"
+        },
+        {
+            "key": "230",
+            "value": "Il semblerait."
+        },
+        {
+            "key": "231",
+            "value": "Elle va trahir Hourne, gagner les faveurs de Jayden et se faufiler dans le camp de Rundall."
+        },
+        {
+            "key": "232",
+            "value": "C'est exactement comme ça que ça va se passer, c'est évident !"
+        },
+        {
+            "key": "233",
+            "value": "De quoi vous parlez ?"
+        },
+        {
+            "key": "234",
+            "value": "De Reychess. Je suis sûre qu'elle est prête à tout pour…"
+        },
+        {
+            "key": "235",
+            "value": "Oups."
+        },
+        {
+            "key": "236",
+            "value": "Pour quoi ?"
+        },
+        {
+            "key": "237",
+            "value": "Ce… ce n'est rien."
+        },
+        {
+            "key": "238",
+            "value": "Vous avez conscience de paraître extrêmement louches ?"
+        },
+        {
+            "key": "239",
+            "value": "..."
+        },
+        {
+            "key": "240",
+            "value": "Bah ! Comme vous voudrez."
+        },
+        {
+            "key": "241",
+            "value": "Mais si vous tentez quoi que ce soit…"
+        },
+        {
+            "key": "242",
+            "value": "Je vous transforme en carpaccio."
+        },
+        {
+            "key": "243",
+            "value": "Eh ! Qu'est-ce que vous faites, par ici ?"
+        },
+        {
+            "key": "244",
+            "value": "Le combat va commencer. Taisez-vous et concentrez-vous."
+        },
+        {
+            "key": "245",
+            "value": "Oui, bon, ça va."
+        },
+        {
+            "key": "246",
+            "value": "Allez, on s'est assez fait attendre."
+        }
+    ]
+}

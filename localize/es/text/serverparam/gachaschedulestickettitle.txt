@@ -1219,6 +1219,10 @@
         {
             "key": "IT_US_G_U_UR_99_02_gl20220323",
             "value": "[Solo para principiantes] Tícket de invocación de unidad UR recomendada de nv. 99"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220330",
+            "value": "Tícket de invocación UR garantizada A"
         }
     ]
 }

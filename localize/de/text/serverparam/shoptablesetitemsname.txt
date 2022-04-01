@@ -5879,6 +5879,34 @@
         {
             "key": "UN_LW_P_FRVA_PACK",
             "value": "Fryevia"
+        },
+        {
+            "key": "IT_SET_2ANNI_EXP_TICKET_GL01",
+            "value": "[2. Jubiläum] Besonderes Jobtraining-Unterstützungspaket"
+        },
+        {
+            "key": "IT_SET_2ANNI_MTPI_AF_GL01",
+            "value": "[2. Jubiläum] „Vertrauensstein-Fragment (UR/MR)“-Paket"
+        },
+        {
+            "key": "IT_SET_GROW_ODIN_GL01",
+            "value": "„Phantasmatischer Scharfrichter, Dunkel-Odin“-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_ESP_2ANNI_GL01",
+            "value": "[2. Jubiläum] Esperstärkungspaket"
+        },
+        {
+            "key": "IT_SET_2ANNI_PI_AW_SP_GL01",
+            "value": "[2. Jubiläum] Einheitenerweckungspaket+"
+        },
+        {
+            "key": "IT_SET_2ANNI_SSR_GROW_GL01",
+            "value": "[2. Jubiläum] [MR]-Einheitenunterstützungspaket"
+        },
+        {
+            "key": "IT_SET_2ANNI_SR_JBEX_GL01",
+            "value": "[2. Jubiläum] EX-Job-Paket für [SR]-Einheiten"
         }
     ]
 }

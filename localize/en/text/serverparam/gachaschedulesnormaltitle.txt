@@ -861,6 +861,18 @@
             "value": "Rare Summon"
         },
         {
+            "key": "Raregacha_A_gl20220330_01",
+            "value": "Rare Summon"
+        },
+        {
+            "key": "Raregacha_A_gl20220330_10",
+            "value": "Rare 10x Summon"
+        },
+        {
+            "key": "Raregacha_A_gl20220330_P",
+            "value": "Rare Summon"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Release Commemoration — Limited Normal Summon"
         },
@@ -2911,6 +2923,26 @@
         {
             "key": "gacha_FF_vc_gl20220323_P",
             "value": "FF Series Vision Card Summon"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_01",
+            "value": "Second Anniversary Part II — Limited Normal Summon"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_10",
+            "value": "Second Anniversary Part II — Limited Normal 10x Summon"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_01",
+            "value": "FINAL FANTASY VI Collaborative Summon — \"Omen\""
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_10",
+            "value": "FINAL FANTASY VI Collaborative 10x Summon — \"Omen\""
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_P",
+            "value": "FINAL FANTASY VI Collaborative Summon — \"Omen\""
         }
     ]
 }

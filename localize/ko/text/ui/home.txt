@@ -11686,7 +11686,7 @@
         },
         {
             "key": "MATERIA_INTEGRA_BTN_CAUTION",
-            "value": "재료가 부족합니다."
+            "value": "길 또는 재료가 부족합니다"
         },
         {
             "key": "MATERIA_INTEGRA_EFF_DESC",

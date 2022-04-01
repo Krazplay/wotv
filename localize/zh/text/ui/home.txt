@@ -11686,7 +11686,7 @@
         },
         {
             "key": "MATERIA_INTEGRA_BTN_CAUTION",
-            "value": "素材不足"
+            "value": "金幣或素材不足。"
         },
         {
             "key": "MATERIA_INTEGRA_EFF_DESC",

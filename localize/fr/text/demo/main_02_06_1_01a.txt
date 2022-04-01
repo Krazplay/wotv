@@ -1,0 +1,164 @@
+﻿{
+    "infos": [
+        {
+            "key": "074",
+            "value": "« Calorum », tenez vos postes !"
+        },
+        {
+            "key": "075",
+            "value": "Un seul soldat ? C'est une insulte."
+        },
+        {
+            "key": "076",
+            "value": "Ne le laissez pas s'échapper ! Transformez-le en passoire !"
+        },
+        {
+            "key": "077",
+            "value": "Aucun signe de l'ennemi !"
+        },
+        {
+            "key": "078",
+            "value": "Ce devait être une vision…"
+        },
+        {
+            "key": "079",
+            "value": "Grr !"
+        },
+        {
+            "key": "080",
+            "value": "Eh ben alors, on galère ?"
+        },
+        {
+            "key": "081",
+            "value": "Sire !"
+        },
+        {
+            "key": "082",
+            "value": "S'il y a une vision sur le terrain, c'est que Lucielle est toujours dans le château…"
+        },
+        {
+            "key": "083",
+            "value": "Ce qui ne peut que vouloir dire qu'elle a rusé pour éloigner Heindler et nous isoler."
+        },
+        {
+            "key": "084",
+            "value": "J'ai honte de vous avoir offert un tel spectacle."
+        },
+        {
+            "key": "085",
+            "value": "Oh, ne t'inquiète pas. Ça m'arrache la langue de le dire, mais cette peste sait se battre."
+        },
+        {
+            "key": "086",
+            "value": "À ce point-là ?"
+        },
+        {
+            "key": "087",
+            "value": "Oh oui. Et un des secrets de la guerre, c'est de savoir faire tourner l'ennemi en bourrique."
+        },
+        {
+            "key": "088",
+            "value": "Mais on est deux à jouer à ce petit jeu."
+        },
+        {
+            "key": "089",
+            "value": "Rhaldor !"
+        },
+        {
+            "key": "090",
+            "value": "« Crucium » attend vos ordres, Sire !"
+        },
+        {
+            "key": "091",
+            "value": "Rendons-lui un peu la monnaie de sa pièce."
+        },
+        {
+            "key": "092",
+            "value": "Cette saleté de princesse se paie notre tête."
+        },
+        {
+            "key": "093",
+            "value": "Vous croyez, Sire ?"
+        },
+        {
+            "key": "094",
+            "value": "Yep. Elle gagne du temps…"
+        },
+        {
+            "key": "095",
+            "value": "Elle prépare quelque chose et en attendant, elle s'amuse avec nous."
+        },
+        {
+            "key": "096",
+            "value": "Rhaldor, je n'ai pas besoin de te dire ce que tu dois faire."
+        },
+        {
+            "key": "097",
+            "value": "Oui, Sire."
+        },
+        {
+            "key": "098",
+            "value": "Ne vous laissez pas distraire par leurs ruses."
+        },
+        {
+            "key": "099",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "100",
+            "value": "C'est simple. Ignorez les visions que vous croisez."
+        },
+        {
+            "key": "101",
+            "value": "Mais l'ennemi les invoque en rafale, elles nous attaquent sans relâche !"
+        },
+        {
+            "key": "102",
+            "value": "Tout à fait, et si nous perdons notre temps à les combattre, nous n'allons qu'épuiser nos forces et nos munitions."
+        },
+        {
+            "key": "103",
+            "value": "Alors quoi ? On les ignore en fonçant vers le château ?"
+        },
+        {
+            "key": "104",
+            "value": "Exactement."
+        },
+        {
+            "key": "105",
+            "value": "À mon avis, Lucielle invoque ses visions depuis les hauteurs du palais, d'un endroit où elle peut embrasser tout le terrain du regard."
+        },
+        {
+            "key": "106",
+            "value": "Vous vous doutez bien que ça ne nous arrange pas."
+        },
+        {
+            "key": "107",
+            "value": "Mais si nous enfonçons les portes pour envahir le château, elle nous perdra de vue…"
+        },
+        {
+            "key": "108",
+            "value": "Encore exact. Même elle ne peut affronter un ennemi qu'elle ne voit pas."
+        },
+        {
+            "key": "109",
+            "value": "Une fois à l'intérieur, nous nous taillerons un chemin à coups de feu."
+        },
+        {
+            "key": "110",
+            "value": "À vos ordres, Commandante."
+        },
+        {
+            "key": "111",
+            "value": "On compte sur toi."
+        },
+        {
+            "key": "112",
+            "value": "Bon, allez ! Cette porte ne va pas s'enfoncer toute seule !"
+        },
+        {
+            "key": "113",
+            "value": "Nous sommes prêts, Sire."
+        }
+    ]
+}

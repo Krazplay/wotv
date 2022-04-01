@@ -1057,6 +1057,10 @@
             "value": "[«Odín, el Caballero Implacable»] de nv. 1 o superior"
         },
         {
+            "key": "COND_VC_LW_OD_01",
+            "value": "[«Odín oscuro, la Espada Fantasmal»] de nv. 1 o superior"
+        },
+        {
             "key": "COND_VC_LW_TSLP",
             "value": "[«Tetra Sílfide, las Cuatro Progenitoras de Vendavales»] de nv. 1 o superior"
         },
@@ -1503,6 +1507,22 @@
         {
             "key": "COND_CH_CLES",
             "value": "[Celes] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MDNA2",
+            "value": "[Mediena] de nv. 80 o superior"
+        },
+        {
+            "key": "COND_CH_LW_OOOO2",
+            "value": "[Owe] de nv. 80 o superior"
+        },
+        {
+            "key": "COND_CH_LW_ZZAN2",
+            "value": "[Zazán] de nv. 80 o superior"
+        },
+        {
+            "key": "COND_CH_LW_BYLO2",
+            "value": "[Beilo] de nv. 80 o superior"
         }
     ]
 }

@@ -2621,6 +2621,10 @@
             "value": "Odin"
         },
         {
+            "key": "UN_LW_E_ODIN_01",
+            "value": "Odin obscur"
+        },
+        {
             "key": "UN_LW_E_TSLP",
             "value": "Tétra-Sylphides"
         },
@@ -4137,6 +4141,18 @@
             "value": "Europa"
         },
         {
+            "key": "UN_LW_S_ODIN_01",
+            "value": "Odin obscur"
+        },
+        {
+            "key": "UN_LW_S_ODIN_01_AW1",
+            "value": "Odin obscur"
+        },
+        {
+            "key": "UN_LW_S_ODIN_01_AW2",
+            "value": "Odin obscur"
+        },
+        {
             "key": "UN_LW_S_OMEG_AW1",
             "value": "Oméga"
         },
@@ -4427,6 +4443,10 @@
         {
             "key": "UN_LW_E_MINU",
             "value": "Minnwu"
+        },
+        {
+            "key": "UN_LW_P_SDLE",
+            "value": "Sadali Crysthea"
         }
     ]
 }

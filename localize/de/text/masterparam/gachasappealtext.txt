@@ -403,6 +403,10 @@
         {
             "key": "101",
             "value": "FINAL FANTASY VI-Kollabo<br>Jetzt beschwören!"
+        },
+        {
+            "key": "102",
+            "value": "FINAL FANTASY VI-Kollabo<br>Jetzt „Omen“ beschwören!"
         }
     ]
 }

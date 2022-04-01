@@ -1219,6 +1219,10 @@
         {
             "key": "IT_US_G_U_UR_99_02_gl20220323",
             "value": "[Beginners Only] Recommended Lv. 99 UR Unit Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20220330",
+            "value": "UR Guaranteed Summon Ticket A"
         }
     ]
 }

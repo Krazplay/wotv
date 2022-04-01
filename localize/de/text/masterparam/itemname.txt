@@ -4445,6 +4445,14 @@
             "value": "Europas Erweckungsstein (3★)"
         },
         {
+            "key": "IT_SB_AW_ODIN_01_R2",
+            "value": "Dunkel-Odins Erweckungsstein (2★)"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_01_R3",
+            "value": "Dunkel-Odins Erweckungsstein (3★)"
+        },
+        {
             "key": "IT_SB_SKP_RESET",
             "value": "Tau des Vergessens"
         },
@@ -4527,6 +4535,10 @@
         {
             "key": "IT_AF_AW_ARMOR",
             "value": "Almanach der Veredelung (Rüstung)"
+        },
+        {
+            "key": "IT_AF_AW_MURG",
+            "value": "Almanach der Veredelung (Helm des Barbarenkönigs)"
         },
         {
             "key": "IT_AF_AW_ACCE",
@@ -5929,6 +5941,10 @@
             "value": "März-Beschwörungsmedaille A"
         },
         {
+            "key": "IT_EC_SUMMON_03VC_03_A",
+            "value": "März-Visionskarten-Beschwörungsmedaille A"
+        },
+        {
             "key": "IT_EC_SUMMON_1st_GL1",
             "value": "„1. Jubiläum“-Medaille"
         },
@@ -6543,6 +6559,10 @@
         {
             "key": "IT_US_SE_MTPI_SSR_01",
             "value": "„Auswählbares Vertrauensstein-Fragment [MR] x5“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_MTPI_SSR_02",
+            "value": "„Auswählbares Vertrauensstein-Fragment [MR] x20“-Beschwörungsticket"
         },
         {
             "key": "IT_US_SE_MTPI_I_GL01",
@@ -7681,6 +7701,10 @@
             "value": "„Auswählbares Erweckungsprisma x25“-Beschwörungsticket"
         },
         {
+            "key": "IT_US_SE_AW-ITEM_14",
+            "value": "„Auswählbares Erweckungsprisma x222“-Beschwörungsticket"
+        },
+        {
             "key": "IT_VPI_LW_GLEM",
             "value": "„Golem, der Felstitan“-Visionskartenfragment"
         },
@@ -8309,6 +8333,14 @@
             "value": "„Festbankett zum 2. Jubiläum — Teil II“-Visionskartenfragment"
         },
         {
+            "key": "IT_VPI_LW_ODIN_01",
+            "value": "„Phantasmatischer Scharfrichter, Dunkel-Odin“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_FF6_MV1",
+            "value": "„Omen“-Visionskartenfragment"
+        },
+        {
             "key": "IT_VPI_FF15_MV1",
             "value": "„Schwur der Erlösung“-Visionskartenfragment"
         },
@@ -8829,6 +8861,34 @@
             "value": "[2. Jubiläum] „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket"
         },
         {
+            "key": "IT_US_SE_PI_GL_52",
+            "value": "[2. Jubiläum] „Auswählbares [MR]-Einheitenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_53",
+            "value": "[Nur für Einsteiger] „Auswählbares Einheitenfragment x100“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_54",
+            "value": "[Nur für Einsteiger] „Auswählbares Visionskartenfragment x100“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_55",
+            "value": "[Nur für Einsteiger] „Empfohlene [MR]-Einheit mit der St. 99“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_56",
+            "value": "[Nur für Einsteiger] „Auswählbares Einheitenfragment x400“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_57",
+            "value": "[Nur für Einsteiger] „Auswählbares Visionskartenfragment x175“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_58",
+            "value": "[Nur für Einsteiger] „Empfohlene [UR]-Einheit mit der St. 99“-Beschwörungsticket"
+        },
+        {
             "key": "IT_US_SE_VPI_GL_16",
             "value": "[Feier zum 1. Jubiläum] „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
         },
@@ -9173,6 +9233,10 @@
             "value": "[Countdown zum 2. Jubiläum Teil IV] „Auswählbarer Almanach der Veredelung x100“-Beschwörungsticket"
         },
         {
+            "key": "IT_US_GL_SE_AF_AW_18",
+            "value": "„Auswählbarer Almanach der Veredelung x300“-Beschwörungsticket"
+        },
+        {
             "key": "IT_US_SE_AF_SUP_01",
             "value": "„Auswählbares Ausrüstungssiegel x20“-Beschwörungsticket"
         },
@@ -9307,6 +9371,10 @@
         {
             "key": "IT_STAMP_2111",
             "value": "April-Abzeichen"
+        },
+        {
+            "key": "IT_STAMP_2112",
+            "value": "Mai-Abzeichen"
         },
         {
             "key": "IT_KEY_JP",
@@ -9877,6 +9945,10 @@
             "value": "„Auswählbares Elementgedankenfragment x25“-Beschwörungsticket"
         },
         {
+            "key": "IT_US_SE_PI_COM_11",
+            "value": "„Auswählbares Elementgedankenfragment x222“-Beschwörungsticket"
+        },
+        {
             "key": "IT_US_SE_AF_SUP_04",
             "value": "„Auswählbares Ausrüstungssiegel x30“-Beschwörungsticket"
         },
@@ -9967,6 +10039,10 @@
         {
             "key": "IT_EC_FF6_5_B",
             "value": "FFVI-Einheit-Beschwörungsmedaille B"
+        },
+        {
+            "key": "IT_EC_FF6_6",
+            "value": "FFVI-Visionskarten-Beschwörungsmedaille"
         },
         {
             "key": "IT_EC_FFS_1",

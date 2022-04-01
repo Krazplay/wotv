@@ -285,6 +285,14 @@
             "value": "Die Geschichte von Ardra feiert ein zweites erfolgreiches Jahr. Unzählige Helden sind durch Zeit und Raum gereist, um an den Feierlichkeiten teilzunehmen. Obwohl unter den Gästen auch Erzfeinde anzutreffen sind, die einander unter normalen Umständen bekriegen würden, so erheben sie heute nicht die Klingen gegen einander, sondern die Gläser und genießen ein gemeinsames Mahl und angeregte Unterhaltungen.<br>Auch die sonst so kühnen Gesichtszüge der Krieger lockern sich durch die herzliche Atmosphäre. Sogar der stattliche Zazan scheint zufrieden zu sein mit dem Festschmaus, der ihn erwartet."
         },
         {
+            "key": "VC_LW_ODIN_01",
+            "value": "　Eine rätselhafte Esper, die eine andere Welt tyrannisierte. Zwar ähnelt ihre Erscheinung der Odins, doch es heißt, dass in ihr eine andere Art der Macht fließt.<br>Ein einst als Dämonenfürst gefürchteter Beschwörer soll der Esper seine furchterregenden Kräfte verliehen haben, jedoch bleibt dieses Gerücht bislang unbewiesen.<br>Sicher sind nur seine unermessliche Bosheit und die Abscheu, die er gegenüber der Menschheit hegt."
+        },
+        {
+            "key": "VC_FF6_MV1",
+            "value": "Der alte Magi-Krieg.<br>Als die Flammen endlich erloschen, war die Welt nicht mehr als ein verkohlter Körper. Selbst die Magie war verloren gegangen.<br>In den folgenden tausend Jahren wurde sie durch Eisen, Schießpulver und Dampfmaschinen ersetzt, und das Leben kehrte langsam in das karge Land zurück.<br>Doch nun gibt es jemanden, der die Magie vergangener Zeiten wiedererwecken und mit ihrer Macht die Welt erobern will.<br>Könnte wirklich jemand so närrisch sein, diesen Fehler zu wiederholen?"
+        },
+        {
             "key": "VC_FF15_MV1",
             "value": "　Überlieferungen besagen, der „erwählte König“ würde die Welt retten, sollte Eos sich jemals in Gefahr befinden. Im Alter von nur fünf Jahren wurde Noctis, der Prinz von Lucis, vom Kristall zu dieser Rolle erwählt.<br>Desweiteren heißt es, eine Kannagi würde dem erwählten König zur Seite stehen, die Welt läutern und ihr Beständigkeit bescheren. Lunafreya, eine junge Frau aus Tenebrae, wurde als Kannagi geboren und dazu auserwählt, Noctis zu heiraten.<br>Obwohl sich die beiden zuletzt im Kindesalter sahen, vergaßen sie niemals ihren Schwur, ihre Bestimmung zu erfüllen.  "
         },

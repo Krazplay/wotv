@@ -5879,6 +5879,34 @@
         {
             "key": "UN_LW_P_FRVA_PACK",
             "value": "À échanger contre l'unité UR, Fryevia ! * Si vous possédez déjà l'unité Fryevia et que vous procédez à cet échange, la copie que vous obtiendrez sera convertie en 80 fragments d'unité pour Fryevia. * Les fragments d'unité de Fryevia, inclus dans un contenu séparé de la boutique d'échange des médailles, nécessitent moins de médailles en échange de chaque fragment si vous possédez déjà l'unité Fryevia. Nous vous conseillons donc de procéder d'abord à cet échange-ci."
+        },
+        {
+            "key": "IT_SET_2ANNI_EXP_TICKET_GL01",
+            "value": "Un lot spécial contenant des œufs de croissance (MR) avec en bonus des restaurations d'endurance (L), des tickets d'expédition (5h), ainsi que des tickets évit'quête (Histoire) et (Événement) ! De quoi améliorer vos atouts-visions !"
+        },
+        {
+            "key": "IT_SET_2ANNI_MTPI_AF_GL01",
+            "value": "Un lot spécial contenant de l'adamantine (XL), essentielle pour améliorer vos pièces d'équipement, avec en bonus un ticket sélectionneur de 20 fragments de tablette sacrée (UR), des tickets sélectionneurs de 20 fragments de tablette sacrée (MR), un ticket sélectionneur de 300 livres secrets de l'amélioration, des tickets sélectionneurs de 10 marteaux nains, des marteaux de reforge et de l'adamantine (S/M/L) ! "
+        },
+        {
+            "key": "IT_SET_GROW_ODIN_GL01",
+            "value": "Un lot rempli de fragments pour l'atout-vision UR « Odin obscur, la Lame spectrale », d'orbes de vision arc-en-ciel, d'œufs de croissance (SR) et de gilkhélones (L) !"
+        },
+        {
+            "key": "IT_SET_ESP_2ANNI_GL01",
+            "value": "Un lot spécial qui renferme des tickets sélectionneurs de 200 magilithes élémentaires (XL) et des clés d'affinité/de résonance ! L'essentiel pour améliorer vos chimères !"
+        },
+        {
+            "key": "IT_SET_2ANNI_PI_AW_SP_GL01",
+            "value": "Un lot spécial contenant un ticket sélectionneur de 222 fragments de pensée élémentaires et un ticket sélectionneur de 222 prismes d'éveil !"
+        },
+        {
+            "key": "IT_SET_2ANNI_SSR_GROW_GL01",
+            "value": "Un lot spécial qui contient un éclat de pensée azur, des orbes de vision azur, des clés de PJ, de l'ovalithe (XL) et des cubes d'EXP (XL) !"
+        },
+        {
+            "key": "IT_SET_2ANNI_SR_JBEX_GL01",
+            "value": "Un lot spécial contenant un ticket sélectionneur de 50 fragments de pensée élémentaires, avec en bonus un joyau doré et un ticket sélectionneur de 50 prismes d'éveil ! De quoi entraîner vos unités !"
         }
     ]
 }

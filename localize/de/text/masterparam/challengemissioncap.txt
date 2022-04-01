@@ -635,6 +635,14 @@
         {
             "key": "CM_PRO_GL_V_LW_USER2_1",
             "value": "Trainings-Herausforderungsmissionen zur Feier des Neuzugangs „Alles Gute zum 2., globale Version!“"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_1",
+            "value": "Trainings-Herausforderungsmissionen für „Omen“"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_1",
+            "value": "Trainings-Herausforderungsmissionen zur Feier des Neuzugangs „Phantasmatischer Scharfrichter, Dunkel-Odin“"
         }
     ]
 }

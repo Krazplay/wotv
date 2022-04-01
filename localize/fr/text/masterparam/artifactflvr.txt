@@ -3621,6 +3621,10 @@
             "value": "Un casque en platine fin et léger qui procure à son porteur une excellente protection, au point d'attirer la convoitise de bien des soldats. La visière est rétractable."
         },
         {
+            "key": "AF_LW_HLM_009",
+            "value": "Quand Muraga avait treize ans, son petit village natal fut attaqué par une horde de brigands connus pour ses exactions dans Fennes à l'époque. Il défia le puissant guerrier qui leur servait de chef dans l'espoir de protéger son foyer. Quand il émergea vainqueur du violent affrontement, il s'empara du casque de celui qu'il venait de mettre à mort en guise de premier trophée de chasse. Malgré son diamètre bien trop large pour sa tête d'enfant, il le portait à chaque bataille. Le temps passa, Muraga devint un homme gigantesque et jamais, jusqu'au jour où il s'assit sur le trône de Fennes et au-delà, le grand casque d'or ne perdit de son éclat."
+        },
+        {
             "key": "AF_LW_SWO_023",
             "value": "Une épée qui porte le nom d'un chevalier dont la légende a traversé les âges. Celui qu'on surnomme parfois le « Chevalier au cygne » constitue le sujet de bien des chansons et de bien des épopées théâtrales. C'est peut-être cette renommée qui fait de son épée la convoitise de générations de grands chevaliers. C'est une arme antique qui ne cesse d'émerveiller les guerriers d'aujourd'hui."
         },

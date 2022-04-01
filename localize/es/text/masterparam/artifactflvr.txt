@@ -2974,7 +2974,7 @@
         },
         {
             "key": "AF_ACC_LW_MONT_01_1",
-            "value": "Una capa grande que lleva Mont. Algunas partes de la capa están hechas del mismo material que la de su padre, Elde, mientras que el resto son materiales de la capa de su hermano Stern, a quien recientemente derrotó en batalla. Las esperanzas de su padre, los deseos de su madre, y los pecados de su hermano. Mont está decidido a cargar él solo con el peso de todo ello mientras combate en un mundo arrasado por la guerra."
+            "value": "Una capa grande que lleva Mont, el nuevo rey de Leonis. Algunas partes de la capa están hechas del mismo material que la de su padre, Elde, mientras que el resto son materiales de la capa de su hermano Stern, a quien recientemente derrotó en batalla. Las esperanzas de su padre, los deseos de su madre y los pecados de su hermano. Mont está decidido a cargar él solo con el peso de todo ello mientras combate en un mundo arrasado por la guerra."
         },
         {
             "key": "AF_HAT_LW_RYEL_1",
@@ -3619,6 +3619,10 @@
         {
             "key": "AF_LW_HLM_005_5",
             "value": "Un ligero y elegante casco plateado que otorga una excelente protección a su portador. Es una pieza de equipo con la que todo soldado sueña con hacerse un día. La parte que cubre los ojos puede deslizarse hacia arriba como una visera."
+        },
+        {
+            "key": "AF_LW_HLM_009",
+            "value": "Cuando Muraga tenía trece años, la pequeña aldea en la que vivía fue atacada por un grupo de forajidos infames de la época en Fennes. Muraga luchó contra su líder, un poderoso guerrero, para proteger su hogar. Muraga salió victorioso tras el combate a muerte y tomó el yelmo que llevaba el forajido, quien se había convertido en su primera muerte. Le quedaba demasiado grande para su cabeza, pero siguió llevándolo en infinidad de sangrientas batallas. Con el paso del tiempo, Muraga creció hasta obtener su gigantesca apariencia, pero incluso el día en que asumió el liderazgo de Fennes, el yelmo conservaba el mismo brillo dorado que cuando se hizo con él."
         },
         {
             "key": "AF_LW_SWO_023",

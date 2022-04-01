@@ -630,7 +630,7 @@
         },
         {
             "key": "BUFF_OtherAttackCastTime",
-            "value": "Aktivierungszeit-Verkürzung für Angriffsfähigkeiten"
+            "value": "Aktivierungszeit für Angriffsfähigkeiten"
         },
         {
             "key": "BUFF_OtherApGain",

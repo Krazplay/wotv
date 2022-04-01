@@ -2621,6 +2621,10 @@
             "value": "Enemigo"
         },
         {
+            "key": "UN_LW_E_ODIN_01",
+            "value": "Enemigo"
+        },
+        {
             "key": "UN_LW_E_TSLP",
             "value": "Enemigo"
         },
@@ -4137,6 +4141,18 @@
             "value": ""
         },
         {
+            "key": "UN_LW_S_ODIN_01",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_ODIN_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ODIN_01_AW2",
+            "value": ""
+        },
+        {
             "key": "UN_LW_S_OMEG_AW1",
             "value": ""
         },
@@ -4427,6 +4443,10 @@
         {
             "key": "UN_LW_E_MINU",
             "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_P_SDLE",
+            "value": "El Dios Autoproclamado"
         }
     ]
 }

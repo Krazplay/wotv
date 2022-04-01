@@ -2837,6 +2837,46 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 94, job niv. 14"
         },
         {
+            "key": "QE_ST_02060101",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 82, job niv. 13"
+        },
+        {
+            "key": "QE_ST_02060102",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 83, job niv. 13"
+        },
+        {
+            "key": "QE_ST_02060103",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 83, job niv. 13"
+        },
+        {
+            "key": "QE_ST_02060104",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 84, job niv. 13"
+        },
+        {
+            "key": "QE_ST_02060105",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 85, job niv. 13"
+        },
+        {
+            "key": "QE_ST_02060106",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 85, job niv. 13"
+        },
+        {
+            "key": "QE_ST_02060107",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 86, job niv. 13"
+        },
+        {
+            "key": "QE_ST_02060108",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 87, job niv. 13"
+        },
+        {
+            "key": "QE_ST_02060109",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 87, job niv. 13"
+        },
+        {
+            "key": "QE_ST_02060110",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 92, job niv. 14"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 17, job niv. 3<br>Condition d'accès : posséder l'unité « Zazan »"
         },
@@ -3221,6 +3261,10 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Zazan » au niv. 40 au moins."
         },
         {
+            "key": "QE_CH_LW_ZZAN2",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 80, job niv. 12<br>Conditions d'accès : posséder l'unité « Zazan » au niv. 80 au moins.<br>Terminer la quête de personnage de Zazan."
+        },
+        {
             "key": "QE_CH_LW_RART",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Learte » au niv. 40 au moins."
         },
@@ -3239,6 +3283,10 @@
         {
             "key": "QE_CH_LW_BYLO",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Beilo » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_BYLO2",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 80, job niv. 12<br>Conditions d'accès : posséder l'unité « Beilo » au niv. 80 au moins.<br>Terminer la quête de personnage de Beilo."
         },
         {
             "key": "QE_CH_LW_RYER",
@@ -3303,6 +3351,10 @@
         {
             "key": "QE_CH_LW_OOOO",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Owe » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_OOOO2",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 80, job niv. 12<br>Conditions d'accès : posséder l'unité « Owe » au niv. 80 au moins.<br>Terminer la quête de personnage de Owe."
         },
         {
             "key": "QE_CH_LW_LRNZ",
@@ -3407,6 +3459,10 @@
         {
             "key": "QE_CH_LW_MDNA",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Mediena » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_MDNA2",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 80, job niv. 12<br>Conditions d'accès : posséder l'unité « Mediena » au niv. 80 au moins.<br>Terminer la quête de personnage de Mediena."
         },
         {
             "key": "QE_CH_LW_AYKA",
@@ -5113,6 +5169,30 @@
             "value": "Informations sur la quête<br>Aucune"
         },
         {
+            "key": "QE_MU_AEX_113_1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_AEX_113_2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_AEX_112_1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_AEX_112_2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_AEX_111_1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_AEX_111_2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
             "key": "QE_MU_EV_10_EX",
             "value": "Informations sur la quête<br>Aucune"
         },
@@ -5150,30 +5230,6 @@
         },
         {
             "key": "QE_MU_EV_ET_EX4",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_AEX_113_1",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_AEX_113_2",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_AEX_112_1",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_AEX_112_2",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_AEX_111_1",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_AEX_111_2",
             "value": "Informations sur la quête<br>Aucune"
         },
         {
@@ -7329,6 +7385,18 @@
             "value": "Informations sur la quête<br>Aucune"
         },
         {
+            "key": "QE_BR_SOIL_11",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_BR_SOIL_12",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_BR_SOIL_13",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
             "key": "QE_BR_WIND_01",
             "value": "Informations sur la quête<br>Aucune"
         },
@@ -7751,6 +7819,14 @@
         {
             "key": "QE_SB_EURP_02",
             "value": "Information sur la quête<br>Astuce : essayez d'utiliser Lenteur à votre avantage."
+        },
+        {
+            "key": "QE_SB_ODIN_01_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_SB_ODIN_01_02",
+            "value": "Informations sur la quête<br>Aucune"
         },
         {
             "key": "QE_SB_MABR_01",
@@ -9623,6 +9699,10 @@
         {
             "key": "QE_VC_LW_ODIN",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 67, job niv. 11<br>Condition d'accès : posséder l'atout-vision « Odin, le Saccageur »"
+        },
+        {
+            "key": "QE_VC_LW_ODIN_01",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 69, job niv. 11<br>Condition d'accès : posséder l'atout-vision « Odin obscur, la Lame spectrale »"
         },
         {
             "key": "QE_VC_LW_TSLP",

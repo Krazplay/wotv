@@ -861,6 +861,18 @@
             "value": "Invocation rare"
         },
         {
+            "key": "Raregacha_A_gl20220330_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220330_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20220330_P",
+            "value": "Invocation rare"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Célébration pour la sortie du jeu - Invocation normale limitée"
         },
@@ -2911,6 +2923,26 @@
         {
             "key": "gacha_FF_vc_gl20220323_P",
             "value": "Invocation des atouts-visions de la série FF"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_01",
+            "value": "2e anniversaire [Partie II] - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_10",
+            "value": "2e anniversaire [Partie II] - Invocation x10 normale limitée"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_01",
+            "value": "FINAL FANTASY VI - Invocation de la collaboration : « Présage »"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_10",
+            "value": "FINAL FANTASY VI - Invocation x10 de la collaboration : « Présage »"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_P",
+            "value": "FINAL FANTASY VI - Invocation de la collaboration : « Présage »"
         }
     ]
 }

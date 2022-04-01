@@ -613,6 +613,18 @@
             "value": ""
         },
         {
+            "key": "Normal-20220119_A",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_B",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_C",
+            "value": ""
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Whimsy Shop (Player Rank 29 and Under)"
         },
@@ -1177,6 +1189,18 @@
             "value": ""
         },
         {
+            "key": "Guerrilla-20220119A",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119B",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119C",
+            "value": ""
+        },
+        {
             "key": "Limited-20200422_A",
             "value": "FFT Part II Collaboration Shop: Special lineup on sale now!"
         },
@@ -1195,6 +1219,22 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "Enhance your acquired units and vision cards!"
+        },
+        {
+            "key": "Limited-gl20220330_B",
+            "value": "FINAL FANTASY VI Collaboration Part II Shop: Special commemorative lineup on sale now!"
+        },
+        {
+            "key": "Limited-gl20220330",
+            "value": "Second Anniversary Part II Deluxe Shop: Special commemorative lineup on sale now!"
+        },
+        {
+            "key": "Limited-gl20220330_A",
+            "value": "Second Anniversary Part II Shop: Special commemorative lineup on sale now!"
+        },
+        {
+            "key": "Limited-gl20220330_C",
+            "value": "Featured New Vision Card Shop: Special commemorative lineup on sale now!"
         },
         {
             "key": "Limited-gl20220323_D",
@@ -2855,6 +2895,14 @@
         {
             "key": "Event-Summon_GL20210728_9MDL",
             "value": "This is the 9 Million Downloads Medal Exchange Shop, kupo!"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FFVI_VISION",
+            "value": "This is the FFVI Vision Card Summon Medal Exchange Shop, kupo!"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FF_MARCH",
+            "value": "This is the March Vision Card Summon Medal (A) Exchange Shop, kupo!"
         },
         {
             "key": "Event-Quest_gl20220323_FF6Login",
@@ -4831,6 +4879,10 @@
         {
             "key": "Event-Piece_GL20220323",
             "value": "This is the Soul Star Exchange Shop, kupo!"
+        },
+        {
+            "key": "Event-VisioncardPiece_GL20220330",
+            "value": "This is the Vision Star Exchange Shop, kupo!"
         },
         {
             "key": "Event-VisioncardPiece_GL20220323",
@@ -8770,6 +8822,38 @@
         },
         {
             "key": "Limited-FIRE_2022_03_D",
+            "value": "Ember Works featuring daily specials"
+        },
+        {
+            "key": "Limited-WATER_2022_03_E",
+            "value": "Flood Works featuring daily specials"
+        },
+        {
+            "key": "Limited-WIND_2022_03_E",
+            "value": "Gale Works featuring daily specials"
+        },
+        {
+            "key": "Limited-THUNDER_2022_03_E",
+            "value": "Spark Works featuring daily specials"
+        },
+        {
+            "key": "Limited-SOIL_2022_03_E",
+            "value": "Stone Works featuring daily specials"
+        },
+        {
+            "key": "Limited-SHINE_2022_03_E",
+            "value": "Dawn Works featuring daily specials"
+        },
+        {
+            "key": "Limited-DARK_2022_03_E",
+            "value": "Dusk Works featuring daily specials"
+        },
+        {
+            "key": "Limited-ICE_2022_03_E",
+            "value": "Chill Works featuring daily specials"
+        },
+        {
+            "key": "Limited-FIRE_2022_03_E",
             "value": "Ember Works featuring daily specials"
         }
     ]

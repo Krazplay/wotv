@@ -5879,6 +5879,34 @@
         {
             "key": "UN_LW_P_FRVA_PACK",
             "value": "Fryevia"
+        },
+        {
+            "key": "IT_SET_2ANNI_EXP_TICKET_GL01",
+            "value": "[2e anniversaire] Lot spécial de soutien à l'entraînement"
+        },
+        {
+            "key": "IT_SET_2ANNI_MTPI_AF_GL01",
+            "value": "[2e anniversaire] Lot de fragments de tablette sacrée (UR/MR)"
+        },
+        {
+            "key": "IT_SET_GROW_ODIN_GL01",
+            "value": "[Odin obscur, la Lame spectrale] Lot d'entraînement"
+        },
+        {
+            "key": "IT_SET_ESP_2ANNI_GL01",
+            "value": "[2e anniversaire] Lot d'amélioration de chimère"
+        },
+        {
+            "key": "IT_SET_2ANNI_PI_AW_SP_GL01",
+            "value": "[2e anniversaire] Lot d'éveil d'unité+"
+        },
+        {
+            "key": "IT_SET_2ANNI_SSR_GROW_GL01",
+            "value": "[2e anniversaire] Lot de soutien à l'entraînement des unités MR"
+        },
+        {
+            "key": "IT_SET_2ANNI_SR_JBEX_GL01",
+            "value": "[2e anniversaire] Lot de job EX d'unité SR"
         }
     ]
 }

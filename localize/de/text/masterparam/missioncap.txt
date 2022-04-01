@@ -2965,6 +2965,34 @@
             "value": "[Monatsmission] Gildenstatuen"
         },
         {
+            "key": "MG_MONTHLY_113_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_113_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_113_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_113_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_113_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_113_6",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_113_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "Visiore einsetzen: Limitierter Bonus"
         },
@@ -3706,6 +3734,54 @@
         },
         {
             "key": "MG_ST_2111_12",
+            "value": "Gildenstatuen"
+        },
+        {
+            "key": "MG_ST_2112_01",
+            "value": "Tagesmissionen"
+        },
+        {
+            "key": "MG_ST_2112_02",
+            "value": "Ausrüstung"
+        },
+        {
+            "key": "MG_ST_2112_03",
+            "value": "Erhalte Gegenstand (Almanach der Veredelung)"
+        },
+        {
+            "key": "MG_ST_2112_04",
+            "value": "Erhalte Gegenstand (Gilkröte)"
+        },
+        {
+            "key": "MG_ST_2112_05",
+            "value": "Ausrüstung"
+        },
+        {
+            "key": "MG_ST_2112_06",
+            "value": "Storyaufträge"
+        },
+        {
+            "key": "MG_ST_2112_07",
+            "value": "Schwierige Aufträge"
+        },
+        {
+            "key": "MG_ST_2112_08",
+            "value": "Multiaufträge"
+        },
+        {
+            "key": "MG_ST_2112_09",
+            "value": "ERF-Kammer"
+        },
+        {
+            "key": "MG_ST_2112_10",
+            "value": "Arena"
+        },
+        {
+            "key": "MG_ST_2112_11",
+            "value": "Chocobo-Expeditionen"
+        },
+        {
+            "key": "MG_ST_2112_12",
             "value": "Gildenstatuen"
         },
         {

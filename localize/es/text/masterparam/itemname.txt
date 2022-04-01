@@ -4445,6 +4445,14 @@
             "value": "Piedra del despertar de Europa (3★)"
         },
         {
+            "key": "IT_SB_AW_ODIN_01_R2",
+            "value": "Piedra del despertar de Odín oscuro (2★)"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_01_R3",
+            "value": "Piedra del despertar de Odín oscuro (3★)"
+        },
+        {
             "key": "IT_SB_SKP_RESET",
             "value": "Rocío de hierba amnésica"
         },
@@ -4527,6 +4535,10 @@
         {
             "key": "IT_AF_AW_ARMOR",
             "value": "Libro secreto de mejora (armadura)"
+        },
+        {
+            "key": "IT_AF_AW_MURG",
+            "value": "Libro secreto de mejora (yelmo del Rey de los Salvajes)"
         },
         {
             "key": "IT_AF_AW_ACCE",
@@ -5929,6 +5941,10 @@
             "value": "Medalla de invocación A (marzo)"
         },
         {
+            "key": "IT_EC_SUMMON_03VC_03_A",
+            "value": "Medalla de invocación de carta de visión de marzo (A)"
+        },
+        {
             "key": "IT_EC_SUMMON_1st_GL1",
             "value": "Medalla del primer aniversario"
         },
@@ -6543,6 +6559,10 @@
         {
             "key": "IT_US_SE_MTPI_SSR_01",
             "value": "Tícket seleccionador de 5 fragmentos de fidelicita (MR)"
+        },
+        {
+            "key": "IT_US_SE_MTPI_SSR_02",
+            "value": "Tícket seleccionador de 20 fragmentos de fidelicita (MR)"
         },
         {
             "key": "IT_US_SE_MTPI_I_GL01",
@@ -7681,6 +7701,10 @@
             "value": "Tícket seleccionador de 25 prismas del despertar"
         },
         {
+            "key": "IT_US_SE_AW-ITEM_14",
+            "value": "Tícket seleccionador de 222 prismas del despertar"
+        },
+        {
             "key": "IT_VPI_LW_GLEM",
             "value": "Fragmento de la carta de visión «Gólem, el de la Tierra Inconmensurable»"
         },
@@ -8309,6 +8333,14 @@
             "value": "Fragmento de la carta de visión «Banquete del segundo aniversario, parte II»"
         },
         {
+            "key": "IT_VPI_LW_ODIN_01",
+            "value": "Fragmento de la carta de visión «Odín oscuro, la Espada Fantasmal»"
+        },
+        {
+            "key": "IT_VPI_FF6_MV1",
+            "value": "Fragmento de la carta de visión «Presagio»"
+        },
+        {
             "key": "IT_VPI_FF15_MV1",
             "value": "Fragmento de la carta de visión «Juramento de salvación»"
         },
@@ -8829,6 +8861,34 @@
             "value": "[2.º aniversario] Tícket seleccionador de 40 fragmentos de unidad UR"
         },
         {
+            "key": "IT_US_SE_PI_GL_52",
+            "value": "[2.º aniversario] Tícket seleccionador de 50 fragmentos de unidad MR"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_53",
+            "value": "[Solo para principiantes] Tícket seleccionador de 100 fragmentos de unidad"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_54",
+            "value": "[Solo para principiantes] Tícket seleccionador de 100 fragmentos de carta de visión"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_55",
+            "value": "[Solo para principiantes] Tícket de invocación de unidad MR recomendada de nv. 99"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_56",
+            "value": "[Solo para principiantes] Tícket seleccionador de 400 fragmentos de unidad"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_57",
+            "value": "[Solo para principiantes] Tícket seleccionador de 175 fragmentos de carta de visión"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_58",
+            "value": "[Solo para principiantes] Tícket de invocación de unidad UR recomendada de nv. 99"
+        },
+        {
             "key": "IT_US_SE_VPI_GL_16",
             "value": "[Celebración 1.er aniversario] Tícket seleccionador de 50 fragmentos de carta de visión UR"
         },
@@ -9173,6 +9233,10 @@
             "value": "[Cuenta atrás del 2.º aniversario IV] Tícket seleccionador de 100 libros secretos de mejora"
         },
         {
+            "key": "IT_US_GL_SE_AF_AW_18",
+            "value": "Tícket seleccionador de 300 libros secretos de mejora"
+        },
+        {
             "key": "IT_US_SE_AF_SUP_01",
             "value": "Tícket seleccionador de 20 sellos de equipo"
         },
@@ -9307,6 +9371,10 @@
         {
             "key": "IT_STAMP_2111",
             "value": "Emblema de abril"
+        },
+        {
+            "key": "IT_STAMP_2112",
+            "value": "Emblema de mayo"
         },
         {
             "key": "IT_KEY_JP",
@@ -9877,6 +9945,10 @@
             "value": "Tícket seleccionador de 25 fragmentos de la memoria elementales"
         },
         {
+            "key": "IT_US_SE_PI_COM_11",
+            "value": "Tícket seleccionador de 222 fragmentos de la memoria elementales"
+        },
+        {
             "key": "IT_US_SE_AF_SUP_04",
             "value": "Tícket seleccionador de 30 sellos de equipo"
         },
@@ -9967,6 +10039,10 @@
         {
             "key": "IT_EC_FF6_5_B",
             "value": "Medalla de invocación de unidad de FFVI (B)"
+        },
+        {
+            "key": "IT_EC_FF6_6",
+            "value": "Medalla de invocación de carta de visión de FFVI"
         },
         {
             "key": "IT_EC_FFS_1",

@@ -2621,6 +2621,10 @@
             "value": "奧汀"
         },
         {
+            "key": "UN_LW_E_ODIN_01",
+            "value": "暗黑奧汀"
+        },
+        {
             "key": "UN_LW_E_TSLP",
             "value": "四方風精靈"
         },
@@ -4137,6 +4141,18 @@
             "value": "歐羅巴"
         },
         {
+            "key": "UN_LW_S_ODIN_01",
+            "value": "暗黑奧汀"
+        },
+        {
+            "key": "UN_LW_S_ODIN_01_AW1",
+            "value": "暗黑奧汀"
+        },
+        {
+            "key": "UN_LW_S_ODIN_01_AW2",
+            "value": "暗黑奧汀"
+        },
+        {
             "key": "UN_LW_S_OMEG_AW1",
             "value": "歐米茄"
         },
@@ -4427,6 +4443,10 @@
         {
             "key": "UN_LW_E_MINU",
             "value": "敏舞"
+        },
+        {
+            "key": "UN_LW_P_SDLE",
+            "value": "薩達利·克爾斯提亞"
         }
     ]
 }

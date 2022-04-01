@@ -635,6 +635,14 @@
         {
             "key": "CM_PRO_GL_V_LW_USER2_1",
             "value": "Missions du défi d'entraînement de « La version globale souffle sa 2e bougie ! »"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_1",
+            "value": "Missions du défi d'entraînement de « Présage »"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_1",
+            "value": "Missions du défi d'entraînement de « Odin obscur, la Lame spectrale »"
         }
     ]
 }

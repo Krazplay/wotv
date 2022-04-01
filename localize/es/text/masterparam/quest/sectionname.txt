@@ -245,6 +245,10 @@
             "value": "Parte 2, capítulo 5: escena 3"
         },
         {
+            "key": "SE_ST_020601",
+            "value": "Parte 2, capítulo 6: escena 1"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Gran Bosque del León"
         },
@@ -409,6 +413,30 @@
             "value": "Historias del Etéreo: capítulo 1, escena 1"
         },
         {
+            "key": "SE_EV_AEX_010301",
+            "value": "Misión EX de Historias del Etéreo: capítulo 1, escena 3"
+        },
+        {
+            "key": "SE_MU_AEX_010301",
+            "value": "[Multijugador] Misión EX de Historias del Etéreo: capítulo 1, escena 3"
+        },
+        {
+            "key": "SE_EV_AEX_010201",
+            "value": "Misión EX de Historias del Etéreo: capítulo 1, escena 2"
+        },
+        {
+            "key": "SE_MU_AEX_010201",
+            "value": "[Multijugador] Misión EX de Historias del Etéreo: capítulo 1, escena 2"
+        },
+        {
+            "key": "SE_EV_AEX_010101",
+            "value": "Misión EX de Historias del Etéreo: capítulo 1, escena 1"
+        },
+        {
+            "key": "SE_MU_AEX_010101",
+            "value": "[Multijugador] Misión EX de Historias del Etéreo: capítulo 1, escena 1"
+        },
+        {
             "key": "SE_EV_VC_IBKI_01",
             "value": "Misión de mejora de «Spirare, las Flores del Invierno»"
         },
@@ -447,30 +475,6 @@
         {
             "key": "SE_MU_EV_ETRE_EX",
             "value": "[Multijugador] [Difícil] Misión EX de entrenamiento de Etra"
-        },
-        {
-            "key": "SE_EV_AEX_010301",
-            "value": "Misión EX de Historias del Etéreo: capítulo 1, escena 3"
-        },
-        {
-            "key": "SE_MU_AEX_010301",
-            "value": "[Multijugador] Misión EX de Historias del Etéreo: capítulo 1, escena 3"
-        },
-        {
-            "key": "SE_EV_AEX_010201",
-            "value": "Misión EX de Historias del Etéreo: capítulo 1, escena 2"
-        },
-        {
-            "key": "SE_MU_AEX_010201",
-            "value": "[Multijugador] Misión EX de Historias del Etéreo: capítulo 1, escena 2"
-        },
-        {
-            "key": "SE_EV_AEX_010101",
-            "value": "Misión EX de Historias del Etéreo: capítulo 1, escena 1"
-        },
-        {
-            "key": "SE_MU_AEX_010101",
-            "value": "[Multijugador] Misión EX de Historias del Etéreo: capítulo 1, escena 1"
         },
         {
             "key": "SE_EV_GL_ART_CRF_01",

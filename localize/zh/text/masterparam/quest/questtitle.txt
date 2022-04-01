@@ -2837,6 +2837,46 @@
             "value": "共同的敵人……"
         },
         {
+            "key": "QE_ST_02060101",
+            "value": "讓對手反感的策略1"
+        },
+        {
+            "key": "QE_ST_02060102",
+            "value": "讓對手反感的策略2"
+        },
+        {
+            "key": "QE_ST_02060103",
+            "value": "棄子"
+        },
+        {
+            "key": "QE_ST_02060104",
+            "value": "緊閉的城門1"
+        },
+        {
+            "key": "QE_ST_02060105",
+            "value": "緊閉的城門2"
+        },
+        {
+            "key": "QE_ST_02060106",
+            "value": "各自的矜持"
+        },
+        {
+            "key": "QE_ST_02060107",
+            "value": "來自薩達利的指令"
+        },
+        {
+            "key": "QE_ST_02060108",
+            "value": "奧伯隆返回1"
+        },
+        {
+            "key": "QE_ST_02060109",
+            "value": "奧伯隆返回2"
+        },
+        {
+            "key": "QE_ST_02060110",
+            "value": "活下去"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "獲得碎片 扎贊"
         },
@@ -3221,6 +3261,10 @@
             "value": "扎贊"
         },
         {
+            "key": "QE_CH_LW_ZZAN2",
+            "value": "扎贊（２）"
+        },
+        {
             "key": "QE_CH_LW_RART",
             "value": "莉雅特"
         },
@@ -3239,6 +3283,10 @@
         {
             "key": "QE_CH_LW_BYLO",
             "value": "巴埃羅"
+        },
+        {
+            "key": "QE_CH_LW_BYLO2",
+            "value": "巴埃羅（２）"
         },
         {
             "key": "QE_CH_LW_RYER",
@@ -3303,6 +3351,10 @@
         {
             "key": "QE_CH_LW_OOOO",
             "value": "歐"
+        },
+        {
+            "key": "QE_CH_LW_OOOO2",
+            "value": "歐（２）"
         },
         {
             "key": "QE_CH_LW_LRNZ",
@@ -3407,6 +3459,10 @@
         {
             "key": "QE_CH_LW_MDNA",
             "value": "美迪愛娜"
+        },
+        {
+            "key": "QE_CH_LW_MDNA2",
+            "value": "美迪愛娜（２）"
         },
         {
             "key": "QE_CH_LW_AYKA",
@@ -5113,6 +5169,30 @@
             "value": "超高難度　FINAL FANTASY XIV【EX】"
         },
         {
+            "key": "QE_MU_AEX_113_1",
+            "value": "外傳故事第1章第3節【EX】"
+        },
+        {
+            "key": "QE_MU_AEX_113_2",
+            "value": "超高難度　外傳故事第1章第3節【EX】"
+        },
+        {
+            "key": "QE_MU_AEX_112_1",
+            "value": "外傳故事第1章第2節【EX】"
+        },
+        {
+            "key": "QE_MU_AEX_112_2",
+            "value": "超高難度　外傳故事第1章第2節【EX】"
+        },
+        {
+            "key": "QE_MU_AEX_111_1",
+            "value": "外傳故事第1章第1節【EX】"
+        },
+        {
+            "key": "QE_MU_AEX_111_2",
+            "value": "超高難度　外傳故事第1章第1節【EX】"
+        },
+        {
             "key": "QE_MU_EV_10_EX",
             "value": "雷歐尼斯古文書【EX】"
         },
@@ -5151,30 +5231,6 @@
         {
             "key": "QE_MU_EV_ET_EX4",
             "value": "超高難度　埃特蕾育成　EX任務2"
-        },
-        {
-            "key": "QE_MU_AEX_113_1",
-            "value": "外傳故事第1章第3節【EX】"
-        },
-        {
-            "key": "QE_MU_AEX_113_2",
-            "value": "超高難度　外傳故事第1章第3節【EX】"
-        },
-        {
-            "key": "QE_MU_AEX_112_1",
-            "value": "外傳故事第1章第2節【EX】"
-        },
-        {
-            "key": "QE_MU_AEX_112_2",
-            "value": "超高難度　外傳故事第1章第2節【EX】"
-        },
-        {
-            "key": "QE_MU_AEX_111_1",
-            "value": "外傳故事第1章第1節【EX】"
-        },
-        {
-            "key": "QE_MU_AEX_111_2",
-            "value": "超高難度　外傳故事第1章第1節【EX】"
         },
         {
             "key": "QE_EV_14_01",
@@ -7329,6 +7385,18 @@
             "value": "特選任務（土）#10"
         },
         {
+            "key": "QE_BR_SOIL_11",
+            "value": "特選任務（土）#11"
+        },
+        {
+            "key": "QE_BR_SOIL_12",
+            "value": "特選任務（土）#12"
+        },
+        {
+            "key": "QE_BR_SOIL_13",
+            "value": "特選任務（土）#13"
+        },
+        {
             "key": "QE_BR_WIND_01",
             "value": "特選任務（風）#1"
         },
@@ -7751,6 +7819,14 @@
         {
             "key": "QE_SB_EURP_02",
             "value": "歐羅巴戰（２）"
+        },
+        {
+            "key": "QE_SB_ODIN_01_01",
+            "value": "暗黑奧汀戰"
+        },
+        {
+            "key": "QE_SB_ODIN_01_02",
+            "value": "暗黑奧汀戰（２）"
         },
         {
             "key": "QE_SB_MABR_01",
@@ -9623,6 +9699,10 @@
         {
             "key": "QE_VC_LW_ODIN",
             "value": "碎片獲得 斬斷次元　奧汀"
+        },
+        {
+            "key": "QE_VC_LW_ODIN_01",
+            "value": "碎片獲得 幻魔斬劍　暗黑奧汀"
         },
         {
             "key": "QE_VC_LW_TSLP",

@@ -1,0 +1,296 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "...Explain yourselves."
+        },
+        {
+            "key": "002",
+            "value": "Wh-what are you talking about?"
+        },
+        {
+            "key": "003",
+            "value": "Do not play the fool!"
+        },
+        {
+            "key": "004",
+            "value": "You would claim to know nothing? Three soldiers have already turned up dead with throats slit from ear to ear."
+        },
+        {
+            "key": "005",
+            "value": "All since we came to the castle, no less."
+        },
+        {
+            "key": "006",
+            "value": "And you think we are the ones behind it?"
+        },
+        {
+            "key": "007",
+            "value": "Who else could it be?"
+        },
+        {
+            "key": "008",
+            "value": "Then toss us in the dungeons."
+        },
+        {
+            "key": "009",
+            "value": "...What?"
+        },
+        {
+            "key": "010",
+            "value": "If it will prove our innocence, I for one am all for it."
+        },
+        {
+            "key": "011",
+            "value": "......"
+        },
+        {
+            "key": "012",
+            "value": "What is it that you plot?"
+        },
+        {
+            "key": "013",
+            "value": "I think you're the ones doing the plotting around here."
+        },
+        {
+            "key": "014",
+            "value": "We're just helping you with whatever it is you're up to."
+        },
+        {
+            "key": "015",
+            "value": "Wha...?"
+        },
+        {
+            "key": "016",
+            "value": "Come now, don't tell me you are having second thoughts."
+        },
+        {
+            "key": "017",
+            "value": "......"
+        },
+        {
+            "key": "018",
+            "value": "Well then, enlighten me. What do you intend to do?"
+        },
+        {
+            "key": "019",
+            "value": "As I said, we'll make ourselves comfortable in the dungeons for a while."
+        },
+        {
+            "key": "020",
+            "value": "...You are being serious."
+        },
+        {
+            "key": "021",
+            "value": "Even for shinobi such as ourselves, there's no escaping the dungeons of Rundall."
+        },
+        {
+            "key": "022",
+            "value": "And yet I can assure you, the killings will <br>continue..."
+        },
+        {
+            "key": "023",
+            "value": "And that's what will prove our innocence."
+        },
+        {
+            "key": "024",
+            "value": "Wait... Does this mean your people are already within the castle?"
+        },
+        {
+            "key": "025",
+            "value": "It does. There's already more shinobi from Gouga here than you can count on one hand."
+        },
+        {
+            "key": "026",
+            "value": "You led them in here."
+        },
+        {
+            "key": "027",
+            "value": "It was quite easy too, if you must know."
+        },
+        {
+            "key": "028",
+            "value": "A number of our shinobi have even taken the places of a few Heindler soldiers."
+        },
+        {
+            "key": "029",
+            "value": "......"
+        },
+        {
+            "key": "030",
+            "value": "And you thought that is all it would take to bring down Rundall castle?"
+        },
+        {
+            "key": "031",
+            "value": "Ellshra and Creysse have been called back from the front line to serve as my security."
+        },
+        {
+            "key": "032",
+            "value": "Ellshra, in particular, happens to be the deputy commander of «Crucium». She is as sharp of mind as she is trusted by her troops."
+        },
+        {
+            "key": "033",
+            "value": "Which is why we will need you to play your part."
+        },
+        {
+            "key": "034",
+            "value": "What do you mean?"
+        },
+        {
+            "key": "035",
+            "value": "Even with the might Gouga commands, we do not stand the slightest chance going head to head with Rundall."
+        },
+        {
+            "key": "036",
+            "value": "But, there happens to be someone in Rundall that must be protected at all costs."
+        },
+        {
+            "key": "037",
+            "value": "You speak of Lady Alaya."
+        },
+        {
+            "key": "038",
+            "value": "That's right. I'm sure you would have no problems dealing with that Ellshra or whatever her name was."
+        },
+        {
+            "key": "039",
+            "value": "Am I wrong?"
+        },
+        {
+            "key": "040",
+            "value": "......"
+        },
+        {
+            "key": "041",
+            "value": "But, it will not be long before Jayden's main force learns something is amiss in the castle."
+        },
+        {
+            "key": "042",
+            "value": "We have already taken measures to make sure he doesn't."
+        },
+        {
+            "key": "043",
+            "value": "The chieftain of Gouga, Lady Mariale, and a score of her most skilled shinobi have surrounded the castle at key locations."
+        },
+        {
+            "key": "044",
+            "value": "Naturally, they lay in wait where Rundall's eyes shall not perceive them."
+        },
+        {
+            "key": "045",
+            "value": "Not a single soul will be delivering word to their beloved King Jayden. Heh heh heh."
+        },
+        {
+            "key": "046",
+            "value": "......"
+        },
+        {
+            "key": "047",
+            "value": "Lady Alaya... It is I, Ellshra. I must speak with you."
+        },
+        {
+            "key": "048",
+            "value": "...Enter."
+        },
+        {
+            "key": "049",
+            "value": "......"
+        },
+        {
+            "key": "050",
+            "value": "Lady Ellshra. What perfect timing."
+        },
+        {
+            "key": "051",
+            "value": "Perfect timing...?"
+        },
+        {
+            "key": "052",
+            "value": "We were just about to seek you out at the order of Lady Alaya."
+        },
+        {
+            "key": "053",
+            "value": "...In regard to what, exactly?"
+        },
+        {
+            "key": "054",
+            "value": "It seems forces have infiltrated the castle and killed some of the soldiers."
+        },
+        {
+            "key": "055",
+            "value": "Lady Alaya fears that the two of us will be the center of suspicion."
+        },
+        {
+            "key": "056",
+            "value": "Which is why, Lady Ellshra...we must ask you to imprison us."
+        },
+        {
+            "key": "057",
+            "value": "We will gladly cooperate if it helps prove our innocence."
+        },
+        {
+            "key": "058",
+            "value": "Please do as they ask of you."
+        },
+        {
+            "key": "059",
+            "value": "...Are you certain, my lady?"
+        },
+        {
+            "key": "060",
+            "value": "I am indeed."
+        },
+        {
+            "key": "061",
+            "value": "I shall see personally to Lady Alaya's protection until their innocence is proven."
+        },
+        {
+            "key": "062",
+            "value": "Very well, I understand."
+        },
+        {
+            "key": "063",
+            "value": "Escort them to the dungeons."
+        },
+        {
+            "key": "064",
+            "value": "Yes, my lady."
+        },
+        {
+            "key": "065",
+            "value": "Come with us."
+        },
+        {
+            "key": "066",
+            "value": "Now, what is it you wished to speak about?"
+        },
+        {
+            "key": "067",
+            "value": "...Well, it was about those two, actually."
+        },
+        {
+            "key": "068",
+            "value": "...I see. I want nothing more than for them to be cleared of any doubt."
+        },
+        {
+            "key": "069",
+            "value": "And on that matter..."
+        },
+        {
+            "key": "070",
+            "value": "I think this should be brought to King Jayden's attention with the utmost of haste."
+        },
+        {
+            "key": "071",
+            "value": "I have already sent word to the main force."
+        },
+        {
+            "key": "072",
+            "value": "Thank you, Ellshra. I knew I could depend on you."
+        },
+        {
+            "key": "073",
+            "value": "You are too generous, my lady..."
+        }
+    ]
+}

@@ -2837,6 +2837,46 @@
             "value": "Kapitel 5, Szene 3"
         },
         {
+            "key": "QE_ST_02060101",
+            "value": "Kapitel 6, Szene 1"
+        },
+        {
+            "key": "QE_ST_02060102",
+            "value": "Kapitel 6, Szene 1"
+        },
+        {
+            "key": "QE_ST_02060103",
+            "value": "Kapitel 6, Szene 1"
+        },
+        {
+            "key": "QE_ST_02060104",
+            "value": "Kapitel 6, Szene 1"
+        },
+        {
+            "key": "QE_ST_02060105",
+            "value": "Kapitel 6, Szene 1"
+        },
+        {
+            "key": "QE_ST_02060106",
+            "value": "Kapitel 6, Szene 1"
+        },
+        {
+            "key": "QE_ST_02060107",
+            "value": "Kapitel 6, Szene 1"
+        },
+        {
+            "key": "QE_ST_02060108",
+            "value": "Kapitel 6, Szene 1"
+        },
+        {
+            "key": "QE_ST_02060109",
+            "value": "Kapitel 6, Szene 1"
+        },
+        {
+            "key": "QE_ST_02060110",
+            "value": "Kapitel 6, Szene 1"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Schwieriger Auftrag"
         },
@@ -3221,6 +3261,10 @@
             "value": "Charakterauftrag"
         },
         {
+            "key": "QE_CH_LW_ZZAN2",
+            "value": "Charakterauftrag"
+        },
+        {
             "key": "QE_CH_LW_RART",
             "value": "Charakterauftrag"
         },
@@ -3238,6 +3282,10 @@
         },
         {
             "key": "QE_CH_LW_BYLO",
+            "value": "Charakterauftrag"
+        },
+        {
+            "key": "QE_CH_LW_BYLO2",
             "value": "Charakterauftrag"
         },
         {
@@ -3302,6 +3350,10 @@
         },
         {
             "key": "QE_CH_LW_OOOO",
+            "value": "Charakterauftrag"
+        },
+        {
+            "key": "QE_CH_LW_OOOO2",
             "value": "Charakterauftrag"
         },
         {
@@ -3406,6 +3458,10 @@
         },
         {
             "key": "QE_CH_LW_MDNA",
+            "value": "Charakterauftrag"
+        },
+        {
+            "key": "QE_CH_LW_MDNA2",
             "value": "Charakterauftrag"
         },
         {
@@ -5113,6 +5169,30 @@
             "value": "Empfohlen: Einheitenstufe 80, Jobstufe 12"
         },
         {
+            "key": "QE_MU_AEX_113_1",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_MU_AEX_113_2",
+            "value": "Empfohlen: Einheitenstufe 80, Jobstufe 12"
+        },
+        {
+            "key": "QE_MU_AEX_112_1",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_MU_AEX_112_2",
+            "value": "Empfohlen: Einheitenstufe 80, Jobstufe 12"
+        },
+        {
+            "key": "QE_MU_AEX_111_1",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_MU_AEX_111_2",
+            "value": "Empfohlen: Einheitenstufe 80, Jobstufe 12"
+        },
+        {
             "key": "QE_MU_EV_10_EX",
             "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
         },
@@ -5150,30 +5230,6 @@
         },
         {
             "key": "QE_MU_EV_ET_EX4",
-            "value": "Empfohlen: Einheitenstufe 80, Jobstufe 12"
-        },
-        {
-            "key": "QE_MU_AEX_113_1",
-            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
-        },
-        {
-            "key": "QE_MU_AEX_113_2",
-            "value": "Empfohlen: Einheitenstufe 80, Jobstufe 12"
-        },
-        {
-            "key": "QE_MU_AEX_112_1",
-            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
-        },
-        {
-            "key": "QE_MU_AEX_112_2",
-            "value": "Empfohlen: Einheitenstufe 80, Jobstufe 12"
-        },
-        {
-            "key": "QE_MU_AEX_111_1",
-            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
-        },
-        {
-            "key": "QE_MU_AEX_111_2",
             "value": "Empfohlen: Einheitenstufe 80, Jobstufe 12"
         },
         {
@@ -7329,6 +7385,18 @@
             "value": "Empfohlen: Einheitenstufe 90, Jobstufe 15"
         },
         {
+            "key": "QE_BR_SOIL_11",
+            "value": "Empfohlen: Einheitenstufe 107, Jobstufe 20"
+        },
+        {
+            "key": "QE_BR_SOIL_12",
+            "value": "Empfohlen: Einheitenstufe 115, Jobstufe 22"
+        },
+        {
+            "key": "QE_BR_SOIL_13",
+            "value": "Empfohlen: Einheitenstufe 120, Jobstufe 25"
+        },
+        {
             "key": "QE_BR_WIND_01",
             "value": "Empfohlen: Einheitenstufe 1, Jobstufe 1"
         },
@@ -7750,6 +7818,14 @@
         },
         {
             "key": "QE_SB_EURP_02",
+            "value": "Empfohlen: Einheitenstufe 90, Jobstufe 12"
+        },
+        {
+            "key": "QE_SB_ODIN_01_01",
+            "value": "Empfohlen: Einheitenstufe 70, Jobstufe 10"
+        },
+        {
+            "key": "QE_SB_ODIN_01_02",
             "value": "Empfohlen: Einheitenstufe 90, Jobstufe 12"
         },
         {
@@ -9622,6 +9698,10 @@
         },
         {
             "key": "QE_VC_LW_ODIN",
+            "value": "Schwieriger Auftrag (Visionskarten)"
+        },
+        {
+            "key": "QE_VC_LW_ODIN_01",
             "value": "Schwieriger Auftrag (Visionskarten)"
         },
         {

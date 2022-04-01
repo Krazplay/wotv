@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "444",
+            "value": "Debe de ser este castillo..."
+        },
+        {
+            "key": "445",
+            "value": "Sí, eso parece."
+        },
+        {
+            "key": "446",
+            "value": "¿Quién anda ahí?"
+        },
+        {
+            "key": "447",
+            "value": "Este es el castillo de Hourne. Marchaos si no tenéis nada que hacer aquí."
+        },
+        {
+            "key": "448",
+            "value": "¿No sentís el mal en el ambiente?"
+        },
+        {
+            "key": "449",
+            "value": "Quizás son muy tercos para darse cuenta. O quizás el mal provenga de alguien en su interior..."
+        },
+        {
+            "key": "450",
+            "value": "¡Ya basta de palabrerías!"
+        },
+        {
+            "key": "451",
+            "value": "Si no os marcháis..."
+        },
+        {
+            "key": "452",
+            "value": "El amor debe afrontarse con amor y, a veces, el acero con acero."
+        },
+        {
+            "key": "453",
+            "value": "Que la luz de los cristales nos guíe."
+        },
+        {
+            "key": "454",
+            "value": "¿Empezamos, pues?"
+        },
+        {
+            "key": "455",
+            "value": "Sí. Nos desharemos de la oscuridad de este lugar."
+        }
+    ]
+}

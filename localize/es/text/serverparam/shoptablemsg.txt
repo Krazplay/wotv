@@ -613,6 +613,18 @@
             "value": ""
         },
         {
+            "key": "Normal-20220119_A",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_B",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_C",
+            "value": ""
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
         },
@@ -1177,6 +1189,18 @@
             "value": ""
         },
         {
+            "key": "Guerrilla-20220119A",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119B",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119C",
+            "value": ""
+        },
+        {
             "key": "Limited-20200422_A",
             "value": "Tienda de colaboración de FFT, parte II: ¡Artículos especiales ya a la venta!"
         },
@@ -1195,6 +1219,22 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "¡Mejora tus unidades y cartas de visión!"
+        },
+        {
+            "key": "Limited-gl20220330_B",
+            "value": "Tienda de colaboración de FFVI, parte II: ¡Artículos especiales ya a la venta!"
+        },
+        {
+            "key": "Limited-gl20220330",
+            "value": "Tienda de lujo del 2.º aniversario, parte II: ¡Artículos especiales ya a la venta!"
+        },
+        {
+            "key": "Limited-gl20220330_A",
+            "value": "Tienda del 2.º aniversario, parte II: ¡Artículos especiales ya a la venta!"
+        },
+        {
+            "key": "Limited-gl20220330_C",
+            "value": "Tienda de nueva carta de visión destacada: ¡Artículos especiales ya a la venta!"
         },
         {
             "key": "Limited-gl20220323_D",
@@ -2855,6 +2895,14 @@
         {
             "key": "Event-Summon_GL20210728_9MDL",
             "value": "¡Esta es la tienda de intercambio de medallas de los 9 millones de descargas, kupó!"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FFVI_VISION",
+            "value": "¡Esta es la tienda de intercambio de medallas de invocación de carta de visión de FFVI, kupó!"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FF_MARCH",
+            "value": "¡Esta es la tienda de intercambio de medallas de invocación de carta de visión (A) de marzo, kupó!"
         },
         {
             "key": "Event-Quest_gl20220323_FF6Login",
@@ -4831,6 +4879,10 @@
         {
             "key": "Event-Piece_GL20220323",
             "value": "¡Esta es la tienda de intercambio de estrellas de alma, kupó!"
+        },
+        {
+            "key": "Event-VisioncardPiece_GL20220330",
+            "value": "¡Esta es la tienda de intercambio de estrellas de visión, kupó!"
         },
         {
             "key": "Event-VisioncardPiece_GL20220323",
@@ -8770,6 +8822,38 @@
         },
         {
             "key": "Limited-FIRE_2022_03_D",
+            "value": "Tienda con artículos especiales para profesiones de fuego del día"
+        },
+        {
+            "key": "Limited-WATER_2022_03_E",
+            "value": "Tienda con artículos especiales para profesiones de agua del día"
+        },
+        {
+            "key": "Limited-WIND_2022_03_E",
+            "value": "Tienda con artículos especiales para profesiones de viento del día"
+        },
+        {
+            "key": "Limited-THUNDER_2022_03_E",
+            "value": "Tienda con artículos especiales para profesiones de rayo del día"
+        },
+        {
+            "key": "Limited-SOIL_2022_03_E",
+            "value": "Tienda con artículos especiales para profesiones de tierra del día"
+        },
+        {
+            "key": "Limited-SHINE_2022_03_E",
+            "value": "Tienda con artículos especiales para profesiones de luz del día"
+        },
+        {
+            "key": "Limited-DARK_2022_03_E",
+            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+        },
+        {
+            "key": "Limited-ICE_2022_03_E",
+            "value": "Tienda con artículos especiales para profesiones de hielo del día"
+        },
+        {
+            "key": "Limited-FIRE_2022_03_E",
             "value": "Tienda con artículos especiales para profesiones de fuego del día"
         }
     ]

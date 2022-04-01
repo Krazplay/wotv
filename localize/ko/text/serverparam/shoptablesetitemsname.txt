@@ -5879,6 +5879,34 @@
         {
             "key": "UN_LW_P_FRVA_PACK",
             "value": "프레이비아"
+        },
+        {
+            "key": "IT_SET_2ANNI_EXP_TICKET_GL01",
+            "value": "[출시 2주년 기념] 특별 육성 지원 패키지"
+        },
+        {
+            "key": "IT_SET_2ANNI_MTPI_AF_GL01",
+            "value": "[출시 2주년 기념] 신명석의 조각(UR/MR) 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_ODIN_GL01",
+            "value": "[환마참검-다크 오딘] 육성 패키지"
+        },
+        {
+            "key": "IT_SET_ESP_2ANNI_GL01",
+            "value": "[출시 2주년 기념] 소환수 강화 패키지"
+        },
+        {
+            "key": "IT_SET_2ANNI_PI_AW_SP_GL01",
+            "value": "[출시 2주년 기념] 유닛 각성 스페셜 패키지"
+        },
+        {
+            "key": "IT_SET_2ANNI_SSR_GROW_GL01",
+            "value": "[출시 2주년 기념] MR 유닛 육성 응원 패키지"
+        },
+        {
+            "key": "IT_SET_2ANNI_SR_JBEX_GL01",
+            "value": "[출시 2주년 기념] SR 유닛 EX 직업 패키지"
         }
     ]
 }

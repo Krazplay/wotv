@@ -5725,6 +5725,78 @@
             "value": "Schau dir die Ergebnisse des Design-Wettbewerbs an"
         },
         {
+            "key": "CM_PRO_GL_V_FF6_MV1_01",
+            "value": "Erreiche mit „Omen“ Stufe 5"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_02",
+            "value": "Erreiche mit „Omen“ Stufe 10"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_03",
+            "value": "Erreiche mit „Omen“ Stufe 15"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_04",
+            "value": "Erreiche mit „Omen“ Stufe 20"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_05",
+            "value": "Erwecke „Omen“"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_06",
+            "value": "Erreiche mit „Omen“ Stufe 30"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_07",
+            "value": "Erreiche mit „Omen“ Stufe 40"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_08",
+            "value": "Erreiche mit „Omen“ Stufe 50"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_09",
+            "value": "Erreiche mit „Omen“ Stufe 65"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_01",
+            "value": "Erreiche mit „Phantasmatischer Scharfrichter, Dunkel-Odin“ Stufe 5"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_02",
+            "value": "Erreiche mit „Phantasmatischer Scharfrichter, Dunkel-Odin“ Stufe 10"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_03",
+            "value": "Erreiche mit „Phantasmatischer Scharfrichter, Dunkel-Odin“ Stufe 15"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_04",
+            "value": "Erreiche mit „Phantasmatischer Scharfrichter, Dunkel-Odin“ Stufe 20"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_05",
+            "value": "Erwecke „Phantasmatischer Scharfrichter, Dunkel-Odin“"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_06",
+            "value": "Erreiche mit „Phantasmatischer Scharfrichter, Dunkel-Odin“ Stufe 30"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_07",
+            "value": "Erreiche mit „Phantasmatischer Scharfrichter, Dunkel-Odin“ Stufe 40"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_08",
+            "value": "Erreiche mit „Phantasmatischer Scharfrichter, Dunkel-Odin“ Stufe 50"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_09",
+            "value": "Erreiche mit „Phantasmatischer Scharfrichter, Dunkel-Odin“ Stufe 65"
+        },
+        {
             "key": "GM_0001",
             "value": "Versammle 10 Mitglieder in deiner Gilde"
         },
@@ -6535,6 +6607,14 @@
         {
             "key": "M_ST_0205_03_03",
             "value": "Schließe Kapitel 5, Szene 3 „Unser gemeinsamer Feind“ ab"
+        },
+        {
+            "key": "M_ST_0206_01",
+            "value": "Schließe Kapitel 6, Szene 1 „Geschlossene Tore II“ ab"
+        },
+        {
+            "key": "M_ST_0206_01_02",
+            "value": "Schließe Kapitel 6, Szene 1 „Weiterleben“ ab"
         },
         {
             "key": "M_VIP_LOGB_001",
@@ -13575,6 +13655,42 @@
         {
             "key": "M_BR_SIOL_10_3",
             "value": "Schließe den Auswahlauftrag (Erde) Nr. 10 fünfmal ab"
+        },
+        {
+            "key": "M_BR_SOIL_11_1",
+            "value": "Schließe den Auswahlauftrag (Erde) Nr. 11 ab"
+        },
+        {
+            "key": "M_BR_SOIL_11_2",
+            "value": "Schließe den Auswahlauftrag (Erde) Nr. 11 zweimal ab"
+        },
+        {
+            "key": "M_BR_SOIL_11_3",
+            "value": "Schließe den Auswahlauftrag (Erde) Nr. 11 dreimal ab"
+        },
+        {
+            "key": "M_BR_SOIL_12_1",
+            "value": "Schließe den Auswahlauftrag (Erde) Nr. 12 ab"
+        },
+        {
+            "key": "M_BR_SOIL_12_2",
+            "value": "Schließe den Auswahlauftrag (Erde) Nr. 12 zweimal ab"
+        },
+        {
+            "key": "M_BR_SOIL_12_3",
+            "value": "Schließe den Auswahlauftrag (Erde) Nr. 12 dreimal ab"
+        },
+        {
+            "key": "M_BR_SOIL_13_1",
+            "value": "Schließe den Auswahlauftrag (Erde) Nr. 13 ab"
+        },
+        {
+            "key": "M_BR_SOIL_13_2",
+            "value": "Schließe den Auswahlauftrag (Erde) Nr. 13 zweimal ab"
+        },
+        {
+            "key": "M_BR_SOIL_13_3",
+            "value": "Schließe den Auswahlauftrag (Erde) Nr. 13 dreimal ab"
         },
         {
             "key": "M_BR_WIND_01_1",
@@ -33101,6 +33217,550 @@
             "value": "Verbessere 70-mal eine Gildenstatue"
         },
         {
+            "key": "M_MONTHLY_3272",
+            "value": "Schließe 20 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3273",
+            "value": "Schließe 40 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3274",
+            "value": "Schließe 60 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3275",
+            "value": "Schließe 80 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3276",
+            "value": "Schließe 100 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3277",
+            "value": "Schließe 120 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3278",
+            "value": "Schließe 140 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3279",
+            "value": "Schließe 160 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3280",
+            "value": "Schließe 180 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3281",
+            "value": "Schließe 200 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3282",
+            "value": "Schließe 220 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3283",
+            "value": "Schließe 240 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3284",
+            "value": "Schließe 260 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3285",
+            "value": "Schließe 280 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3286",
+            "value": "Schließe 300 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3287",
+            "value": "Schließe 320 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3288",
+            "value": "Schließe 340 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3289",
+            "value": "Schließe 360 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3290",
+            "value": "Schließe 380 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3291",
+            "value": "Schließe 400 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3292",
+            "value": "Schließe zehn Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3293",
+            "value": "Schließe 20 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3294",
+            "value": "Schließe 30 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3295",
+            "value": "Schließe 40 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3296",
+            "value": "Schließe 50 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3297",
+            "value": "Schließe 60 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3298",
+            "value": "Schließe 70 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3299",
+            "value": "Schließe 80 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3300",
+            "value": "Schließe 90 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3301",
+            "value": "Schließe 100 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3302",
+            "value": "Schließe 110 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3303",
+            "value": "Schließe 120 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3304",
+            "value": "Schließe 130 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3305",
+            "value": "Schließe 140 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3306",
+            "value": "Schließe 150 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3307",
+            "value": "Schließe 170 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3308",
+            "value": "Schließe 190 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3309",
+            "value": "Schließe 210 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3310",
+            "value": "Schließe 230 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3311",
+            "value": "Schließe zehn Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3312",
+            "value": "Schließe 20 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3313",
+            "value": "Schließe 30 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3314",
+            "value": "Schließe 40 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3315",
+            "value": "Schließe 50 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3316",
+            "value": "Schließe 60 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3317",
+            "value": "Schließe 70 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3318",
+            "value": "Schließe 80 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3319",
+            "value": "Schließe 90 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3320",
+            "value": "Schließe 100 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3321",
+            "value": "Schließe 110 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3322",
+            "value": "Schließe 120 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3323",
+            "value": "Schließe 130 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3324",
+            "value": "Schließe 140 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3325",
+            "value": "Schließe 150 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3326",
+            "value": "Schließe 160 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3327",
+            "value": "Schließe 170 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3328",
+            "value": "Schließe 180 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3329",
+            "value": "Schließe 190 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3330",
+            "value": "Schließe 200 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_3331",
+            "value": "Schließe die ERF-Kammer dreimal ab"
+        },
+        {
+            "key": "M_MONTHLY_3332",
+            "value": "Schließe die ERF-Kammer sechsmal ab"
+        },
+        {
+            "key": "M_MONTHLY_3333",
+            "value": "Schließe die ERF-Kammer neunmal ab"
+        },
+        {
+            "key": "M_MONTHLY_3334",
+            "value": "Schließe die ERF-Kammer zwölfmal ab"
+        },
+        {
+            "key": "M_MONTHLY_3335",
+            "value": "Schließe die ERF-Kammer 15-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3336",
+            "value": "Schließe die ERF-Kammer 18-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3337",
+            "value": "Schließe die ERF-Kammer 21-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3338",
+            "value": "Schließe die ERF-Kammer 24-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3339",
+            "value": "Schließe die ERF-Kammer 27-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3340",
+            "value": "Schließe die ERF-Kammer 30-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3341",
+            "value": "Schließe die ERF-Kammer 33-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3342",
+            "value": "Schließe die ERF-Kammer 36-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3343",
+            "value": "Schließe die ERF-Kammer 39-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3344",
+            "value": "Schließe die ERF-Kammer 42-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3345",
+            "value": "Schließe die ERF-Kammer 45-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3346",
+            "value": "Schließe die ERF-Kammer 50-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3347",
+            "value": "Schließe die ERF-Kammer 55-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3348",
+            "value": "Schließe die ERF-Kammer 60-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3349",
+            "value": "Schließe die ERF-Kammer 65-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3350",
+            "value": "Schließe die ERF-Kammer 70-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_3351",
+            "value": "Messe dich fünfmal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3352",
+            "value": "Messe dich zehnmal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3353",
+            "value": "Messe dich 15-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3354",
+            "value": "Messe dich 20-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3355",
+            "value": "Messe dich 25-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3356",
+            "value": "Messe dich 30-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3357",
+            "value": "Messe dich 35-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3358",
+            "value": "Messe dich 40-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3359",
+            "value": "Messe dich 45-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3360",
+            "value": "Messe dich 50-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3361",
+            "value": "Messe dich 55-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3362",
+            "value": "Messe dich 60-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3363",
+            "value": "Messe dich 65-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3364",
+            "value": "Messe dich 70-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3365",
+            "value": "Messe dich 80-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3366",
+            "value": "Messe dich 90-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3367",
+            "value": "Messe dich 100-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3368",
+            "value": "Messe dich 110-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3369",
+            "value": "Messe dich 120-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3370",
+            "value": "Messe dich 130-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_3371",
+            "value": "Sammle bei der Chocobo-Expedition zehnmal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3372",
+            "value": "Sammle bei der Chocobo-Expedition 15-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3373",
+            "value": "Sammle bei der Chocobo-Expedition 20-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3374",
+            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3375",
+            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3376",
+            "value": "Sammle bei der Chocobo-Expedition 35-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3377",
+            "value": "Sammle bei der Chocobo-Expedition 40-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3378",
+            "value": "Sammle bei der Chocobo-Expedition 45-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3379",
+            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3380",
+            "value": "Sammle bei der Chocobo-Expedition 55-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3381",
+            "value": "Sammle bei der Chocobo-Expedition 60-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3382",
+            "value": "Sammle bei der Chocobo-Expedition 65-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3383",
+            "value": "Sammle bei der Chocobo-Expedition 70-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3384",
+            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3385",
+            "value": "Sammle bei der Chocobo-Expedition 80-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3386",
+            "value": "Sammle bei der Chocobo-Expedition 85-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3387",
+            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_3388",
+            "value": "Verbessere dreimal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3389",
+            "value": "Verbessere sechsmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3390",
+            "value": "Verbessere neunmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3391",
+            "value": "Verbessere zwölfmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3392",
+            "value": "Verbessere 15-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3393",
+            "value": "Verbessere 18-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3394",
+            "value": "Verbessere 21-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3395",
+            "value": "Verbessere 24-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3396",
+            "value": "Verbessere 27-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3397",
+            "value": "Verbessere 30-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3398",
+            "value": "Verbessere 33-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3399",
+            "value": "Verbessere 36-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3400",
+            "value": "Verbessere 39-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3401",
+            "value": "Verbessere 42-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3402",
+            "value": "Verbessere 45-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3403",
+            "value": "Verbessere 50-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3404",
+            "value": "Verbessere 55-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3405",
+            "value": "Verbessere 60-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3406",
+            "value": "Verbessere 65-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_3407",
+            "value": "Verbessere 70-mal eine Gildenstatue"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Verbrauche 500 Visiore"
         },
@@ -36909,6 +37569,250 @@
             "value": "Verbessere 70-mal eine Gildenstatue"
         },
         {
+            "key": "M_ST_2112_0001",
+            "value": "Erhalte die Belohnungen der fünften Schatzkiste der Tagesmissionen"
+        },
+        {
+            "key": "M_ST_2112_0002",
+            "value": "Bringe einen Ausrüstungsgegenstand auf Stufe 50 und maximiere einen beliebigen Wert"
+        },
+        {
+            "key": "M_ST_2112_0003",
+            "value": "Bringe zwei Ausrüstungsgegenstände auf Stufe 50 und maximiere einen beliebigen Wert"
+        },
+        {
+            "key": "M_ST_2112_0004",
+            "value": "Bringe drei Ausrüstungsgegenstände auf Stufe 50 und maximiere einen beliebigen Wert"
+        },
+        {
+            "key": "M_ST_2112_0005",
+            "value": "Bringe fünf Ausrüstungsgegenstände auf Stufe 50 und maximiere einen beliebigen Wert"
+        },
+        {
+            "key": "M_ST_2112_0006",
+            "value": "Bringe zehn Ausrüstungsgegenstände auf Stufe 50 und maximiere einen beliebigen Wert"
+        },
+        {
+            "key": "M_ST_2112_0007",
+            "value": "Erhalte 100 Almanache der Veredelung"
+        },
+        {
+            "key": "M_ST_2112_0008",
+            "value": "Erhalte 250 Almanache der Veredelung"
+        },
+        {
+            "key": "M_ST_2112_0009",
+            "value": "Erhalte 500 Almanache der Veredelung"
+        },
+        {
+            "key": "M_ST_2112_0010",
+            "value": "Erhalte 750 Almanache der Veredelung"
+        },
+        {
+            "key": "M_ST_2112_0011",
+            "value": "Erhalte 1.000 Almanache der Veredelung"
+        },
+        {
+            "key": "M_ST_2112_0012",
+            "value": "Erhalte 1.500 Almanache der Veredelung"
+        },
+        {
+            "key": "M_ST_2112_0013",
+            "value": "Erhalte 2.000 Almanache der Veredelung"
+        },
+        {
+            "key": "M_ST_2112_0014",
+            "value": "Erhalte 100 Gilkröten"
+        },
+        {
+            "key": "M_ST_2112_0015",
+            "value": "Erhalte 250 Gilkröten"
+        },
+        {
+            "key": "M_ST_2112_0016",
+            "value": "Erhalte 500 Gilkröten"
+        },
+        {
+            "key": "M_ST_2112_0017",
+            "value": "Erhalte 1.500 Gilkröten"
+        },
+        {
+            "key": "M_ST_2112_0018",
+            "value": "Erhalte 2.500 Gilkröten"
+        },
+        {
+            "key": "M_ST_2112_0019",
+            "value": "Erhalte 3.500 Gilkröten"
+        },
+        {
+            "key": "M_ST_2112_0020",
+            "value": "Erhalte 4.500 Gilkröten"
+        },
+        {
+            "key": "M_ST_2112_0021",
+            "value": "Stelle zehn Ausrüstungsgegenstände her"
+        },
+        {
+            "key": "M_ST_2112_0022",
+            "value": "Stelle 25 Ausrüstungsgegenstände her"
+        },
+        {
+            "key": "M_ST_2112_0023",
+            "value": "Stelle 50 Ausrüstungsgegenstände her"
+        },
+        {
+            "key": "M_ST_2112_0024",
+            "value": "Stelle 75 Ausrüstungsgegenstände her"
+        },
+        {
+            "key": "M_ST_2112_0025",
+            "value": "Stelle 100 Ausrüstungsgegenstände her"
+        },
+        {
+            "key": "M_ST_2112_0026",
+            "value": "Stelle 125 Ausrüstungsgegenstände her"
+        },
+        {
+            "key": "M_ST_2112_0027",
+            "value": "Schließe 20 Storyaufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0028",
+            "value": "Schließe 100 Storyaufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0029",
+            "value": "Schließe 200 Storyaufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0030",
+            "value": "Schließe 300 Storyaufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0031",
+            "value": "Schließe 400 Storyaufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0032",
+            "value": "Schließe zehn Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0033",
+            "value": "Schließe 50 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0034",
+            "value": "Schließe 100 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0035",
+            "value": "Schließe 150 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0036",
+            "value": "Schließe 230 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0037",
+            "value": "Schließe zehn Multiaufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0038",
+            "value": "Schließe 50 Multiaufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0039",
+            "value": "Schließe 100 Multiaufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0040",
+            "value": "Schließe 150 Multiaufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0041",
+            "value": "Schließe 200 Multiaufträge ab"
+        },
+        {
+            "key": "M_ST_2112_0042",
+            "value": "Schließe die ERF-Kammer dreimal ab"
+        },
+        {
+            "key": "M_ST_2112_0043",
+            "value": "Schließe die ERF-Kammer 15-mal ab"
+        },
+        {
+            "key": "M_ST_2112_0044",
+            "value": "Schließe die ERF-Kammer 30-mal ab"
+        },
+        {
+            "key": "M_ST_2112_0045",
+            "value": "Schließe die ERF-Kammer 50-mal ab"
+        },
+        {
+            "key": "M_ST_2112_0046",
+            "value": "Schließe die ERF-Kammer 70-mal ab"
+        },
+        {
+            "key": "M_ST_2112_0047",
+            "value": "Messe dich fünfmal in der Duellarena"
+        },
+        {
+            "key": "M_ST_2112_0048",
+            "value": "Messe dich 25-mal in der Duellarena"
+        },
+        {
+            "key": "M_ST_2112_0049",
+            "value": "Messe dich 50-mal in der Duellarena"
+        },
+        {
+            "key": "M_ST_2112_0050",
+            "value": "Messe dich 100-mal in der Duellarena"
+        },
+        {
+            "key": "M_ST_2112_0051",
+            "value": "Messe dich 130-mal in der Duellarena"
+        },
+        {
+            "key": "M_ST_2112_0052",
+            "value": "Sammle bei der Chocobo-Expedition zehnmal Gegenstände ein"
+        },
+        {
+            "key": "M_ST_2112_0053",
+            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein"
+        },
+        {
+            "key": "M_ST_2112_0054",
+            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein"
+        },
+        {
+            "key": "M_ST_2112_0055",
+            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein"
+        },
+        {
+            "key": "M_ST_2112_0056",
+            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein"
+        },
+        {
+            "key": "M_ST_2112_0057",
+            "value": "Verbessere dreimal eine Gildenstatue"
+        },
+        {
+            "key": "M_ST_2112_0058",
+            "value": "Verbessere 15-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_ST_2112_0059",
+            "value": "Verbessere 30-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_ST_2112_0060",
+            "value": "Verbessere 50-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_ST_2112_0061",
+            "value": "Verbessere 70-mal eine Gildenstatue"
+        },
+        {
             "key": "M_PLY_AWARD_001",
             "value": "Titel, der Spielern am Anfang des Spiels verliehen wird."
         },
@@ -39963,10 +40867,6 @@
         {
             "key": "M_GL_DAILY_VID",
             "value": "Führe eine Videobeschwörung durch"
-        },
-        {
-            "key": "M_GL_DAILY_GUILD",
-            "value": "Verbessere eine Gildenstatue einmal"
         }
     ]
 }

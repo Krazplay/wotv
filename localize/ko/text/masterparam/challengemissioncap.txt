@@ -635,6 +635,14 @@
         {
             "key": "CM_PRO_GL_V_LW_USER2_1",
             "value": "해피 버스데이, 글로벌! 신규 등장 기념 육성 도전 미션"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_1",
+            "value": "징조 육성 도전 미션"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_1",
+            "value": "환마참검-다크 오딘 신규 등장 기념 육성 도전 미션"
         }
     ]
 }

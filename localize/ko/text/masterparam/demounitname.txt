@@ -827,6 +827,14 @@
         {
             "key": "DU_LW_ELEM_04",
             "value": "얼음 엘리멘탈, 마물"
+        },
+        {
+            "key": "DU_LW_BRWL",
+            "value": "브론윌"
+        },
+        {
+            "key": "DU_LW_SLVA",
+            "value": "셸바"
         }
     ]
 }

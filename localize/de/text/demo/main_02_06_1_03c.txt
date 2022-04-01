@@ -1,0 +1,272 @@
+﻿{
+    "infos": [
+        {
+            "key": "120",
+            "value": "König Roghza."
+        },
+        {
+            "key": "121",
+            "value": "War es nicht unser Plan, Rundall zu vernichten, während Garval sich mit Heindler ein Katz-und-Maus-Spiel liefert?"
+        },
+        {
+            "key": "122",
+            "value": "Stattdessen warten wir nun, während die Armee von Rundall auf das Schloss vorrückt."
+        },
+        {
+            "key": "123",
+            "value": "Wenn wir nicht bald handeln, ist unser Vorteil verspielt ..."
+        },
+        {
+            "key": "124",
+            "value": "Ich verstehe ja Eure Ungeduld, Mont. Sehr gut sogar."
+        },
+        {
+            "key": "125",
+            "value": "Aber die Schlacht hat gerade erst begonnen."
+        },
+        {
+            "key": "126",
+            "value": "Bitte ...?"
+        },
+        {
+            "key": "127",
+            "value": "Ja. Denn erst jetzt wird sich unser Schicksal wirklich entscheiden."
+        },
+        {
+            "key": "128",
+            "value": "..."
+        },
+        {
+            "key": "129",
+            "value": "Unsere Verstärkung lässt auf sich warten."
+        },
+        {
+            "key": "130",
+            "value": "Erwartet Ihr noch weitere Hilfstruppen?"
+        },
+        {
+            "key": "131",
+            "value": "So ist es."
+        },
+        {
+            "key": "132",
+            "value": "Und wer mag das sein?"
+        },
+        {
+            "key": "133",
+            "value": "Das kann ich noch nicht enthüllen, denn der Feind könnte mithören ..."
+        },
+        {
+            "key": "134",
+            "value": "Aber unsere Lage ist immer noch ..."
+        },
+        {
+            "key": "135",
+            "value": "Seid unbesorgt. Ich werde im Schutze dieser Mauern weiterhin meine Visionen in die Schlacht schicken."
+        },
+        {
+            "key": "136",
+            "value": "Ihr könnt aus solch einer Entfernung noch Visionen beschwören?!"
+        },
+        {
+            "key": "137",
+            "value": "Es sind aber immer noch etliche Soldaten von Ovis im Feld."
+        },
+        {
+            "key": "138",
+            "value": "Solange das Tor verschlossen bleibt, sind sie dem Feind ausgeliefert."
+        },
+        {
+            "key": "139",
+            "value": "Daran lässt sich nichts ändern."
+        },
+        {
+            "key": "140",
+            "value": "„Daran lässt sich nichts ändern“ ...?"
+        },
+        {
+            "key": "141",
+            "value": "Ihr seid doch Soldaten, ihr wisst, dass jeder Krieg Opfer fordert."
+        },
+        {
+            "key": "142",
+            "value": "Aber noch haben wir Zeit, sie zu retten!"
+        },
+        {
+            "key": "143",
+            "value": "Gestattet Leonis, ins Feld zu ziehen."
+        },
+        {
+            "key": "144",
+            "value": "..."
+        },
+        {
+            "key": "145",
+            "value": "Ich bitte euch."
+        },
+        {
+            "key": "146",
+            "value": "Nun gut."
+        },
+        {
+            "key": "147",
+            "value": "Aber bedenkt – sobald das Tor sich geschlossen hat, wird es sich nur noch im äußersten Notfall für euch öffnen."
+        },
+        {
+            "key": "148",
+            "value": "Wenn ihr es dennoch wagen wollt, so steht es euch frei ..."
+        },
+        {
+            "key": "149",
+            "value": "Diese Frau geht mir gewaltig auf den Senkel!"
+        },
+        {
+            "key": "150",
+            "value": "Das darfst du so nicht sagen, Lilith."
+        },
+        {
+            "key": "151",
+            "value": "Aber ...!"
+        },
+        {
+            "key": "152",
+            "value": "Findest du das nicht merkwürdig?"
+        },
+        {
+            "key": "153",
+            "value": "... Was meint Ihr genau?"
+        },
+        {
+            "key": "154",
+            "value": "Lhamada, hat sich Prinzessin Lucielle nicht irgendwie verändert, seit du das letzte Mal hier warst?"
+        },
+        {
+            "key": "155",
+            "value": "Ich habe nicht den Eindruck, dass sie sich verändert hat ... sondern eher, dass sie ihr wahres Ich zeigt."
+        },
+        {
+            "key": "156",
+            "value": "..."
+        },
+        {
+            "key": "157",
+            "value": "Ich muss gerade daran denken, was Jayden mir zum Abschied gesagt hat ..."
+        },
+        {
+            "key": "158",
+            "value": "Nämlich, dass Lucielle an Durchtriebenheit Melnia in nichts nachstehe."
+        },
+        {
+            "key": "159",
+            "value": "Und dass ich mich vor ihr in Acht nehmen solle."
+        },
+        {
+            "key": "160",
+            "value": "Was genau hat er damit wohl gemeint?"
+        },
+        {
+            "key": "161",
+            "value": "Das Prinzessin Lucielle in Wirklichkeit ein Wolf im Schafspelz ist?"
+        },
+        {
+            "key": "162",
+            "value": "Das wäre nicht ausgeschlossen."
+        },
+        {
+            "key": "163",
+            "value": "Ah, da seid ihr ja!"
+        },
+        {
+            "key": "164",
+            "value": "Camillo ..."
+        },
+        {
+            "key": "165",
+            "value": "Ich hab gehört, was Sache ist."
+        },
+        {
+            "key": "166",
+            "value": "Wollt ihr wirklich allein da raus, um euch mit Rundall zu keilen?"
+        },
+        {
+            "key": "167",
+            "value": "So ist es. Wir kommen den Soldaten zur Hilfe, die momentan aus dem Schloss ausgesperrt sind."
+        },
+        {
+            "key": "168",
+            "value": "Camillo, sag bloß, dass du mitkommen willst?!"
+        },
+        {
+            "key": "169",
+            "value": "Aber selbstverständlich!"
+        },
+        {
+            "key": "170",
+            "value": "Der große Camillo ist stets zur Stelle, wenn jemand in der Klemme steckt!"
+        },
+        {
+            "key": "171",
+            "value": "Ach, vorhin hat er noch gesagt, dass er dir nicht die ganzen Lorbeeren alleine überlassen will."
+        },
+        {
+            "key": "172",
+            "value": "H-Hey! Musst du mich immer verpetzen?!"
+        },
+        {
+            "key": "173",
+            "value": "Danke, Camillo."
+        },
+        {
+            "key": "174",
+            "value": "Möge der Bessere gewinnen, Mont!"
+        },
+        {
+            "key": "175",
+            "value": "Gewinnen? Was denn?"
+        },
+        {
+            "key": "176",
+            "value": "Wer Jayden ins Jenseits befördert, bekommt Margery. Einverstanden?"
+        },
+        {
+            "key": "177",
+            "value": "Aua! Mensch! Wofür war das denn?!"
+        },
+        {
+            "key": "178",
+            "value": "Königin Margery ist kein Gegenstand, den man besitzen kann."
+        },
+        {
+            "key": "179",
+            "value": "Und sie würde ihre Zeit sicher nicht mit einem Affen verschwenden, der das denkt!"
+        },
+        {
+            "key": "180",
+            "value": "..."
+        },
+        {
+            "key": "181",
+            "value": "Da ... Da hast du wohl recht."
+        },
+        {
+            "key": "182",
+            "value": "Es tut mir leid. Ich habe etwas furchtbar Törichtes gesagt."
+        },
+        {
+            "key": "183",
+            "value": "Sieh mal einer an! Vielleicht können wir dir ja doch noch Manieren beibringen."
+        },
+        {
+            "key": "184",
+            "value": "Allemal, wenn es meine Chancen bei Margery verbessert."
+        },
+        {
+            "key": "185",
+            "value": "..."
+        },
+        {
+            "key": "186",
+            "value": "Gut, dann gehen wir’s an!"
+        }
+    ]
+}

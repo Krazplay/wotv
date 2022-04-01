@@ -134,7 +134,7 @@
         },
         {
             "key": "TrustMateria",
-            "value": "Wird nach Abschluss von Tutorial „Ausrüstung – Herstellung“ freigeschaltet, wenn man im Besitz mindestes einer Treuemeisterausrüstung ist."
+            "value": "Wird nach Abschluss von Tutorial „Ausrüstung – Herstellung“ freigeschaltet, wenn man im Besitz mindestens einer Treuemeisterausrüstung ist."
         }
     ]
 }

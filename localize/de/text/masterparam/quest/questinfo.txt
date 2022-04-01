@@ -2837,6 +2837,46 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 94, Jobstufe 14"
         },
         {
+            "key": "QE_ST_02060101",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 82, Jobstufe 13"
+        },
+        {
+            "key": "QE_ST_02060102",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 83, Jobstufe 13"
+        },
+        {
+            "key": "QE_ST_02060103",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 83, Jobstufe 13"
+        },
+        {
+            "key": "QE_ST_02060104",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 84, Jobstufe 13"
+        },
+        {
+            "key": "QE_ST_02060105",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 85, Jobstufe 13"
+        },
+        {
+            "key": "QE_ST_02060106",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 85, Jobstufe 13"
+        },
+        {
+            "key": "QE_ST_02060107",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 86, Jobstufe 13"
+        },
+        {
+            "key": "QE_ST_02060108",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 87, Jobstufe 13"
+        },
+        {
+            "key": "QE_ST_02060109",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 87, Jobstufe 13"
+        },
+        {
+            "key": "QE_ST_02060110",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 92, Jobstufe 14"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 17, Jobstufe 3<br>Freischaltbedingungen: Einheit „Zazan“ im Besitz"
         },
@@ -3221,6 +3261,10 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Zazan“ ist mindestens auf Stufe 40"
         },
         {
+            "key": "QE_CH_LW_ZZAN2",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 80, Jobstufe 12<br>Freischaltbedingungen: Einheit „Zazan“ ist mindestens auf Stufe 80<br>Charakterauftrag „Zazan“ wurde abgeschlossen"
+        },
+        {
             "key": "QE_CH_LW_RART",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Learte“ ist mindestens auf Stufe 40"
         },
@@ -3239,6 +3283,10 @@
         {
             "key": "QE_CH_LW_BYLO",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Baelo“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_BYLO2",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 80, Jobstufe 12<br>Freischaltbedingungen: Einheit „Baelo“ ist mindestens auf Stufe 80<br>Charakterauftrag „Baelo“ wurde abgeschlossen"
         },
         {
             "key": "QE_CH_LW_RYER",
@@ -3303,6 +3351,10 @@
         {
             "key": "QE_CH_LW_OOOO",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Ornh“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_OOOO2",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 80, Jobstufe 12<br>Freischaltbedingungen: Einheit „Ornh“ ist mindestens auf Stufe 80<br>Charakterauftrag „Ornh“ wurde abgeschlossen"
         },
         {
             "key": "QE_CH_LW_LRNZ",
@@ -3407,6 +3459,10 @@
         {
             "key": "QE_CH_LW_MDNA",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Mediena“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_MDNA2",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 80, Jobstufe 12<br>Freischaltbedingungen: Einheit „Mediena“ ist mindestens auf Stufe 80<br>Charakterauftrag „Mediena“ wurde abgeschlossen"
         },
         {
             "key": "QE_CH_LW_AYKA",
@@ -5113,6 +5169,30 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
+            "key": "QE_MU_AEX_113_1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_AEX_113_2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_AEX_112_1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_AEX_112_2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_AEX_111_1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_AEX_111_2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
             "key": "QE_MU_EV_10_EX",
             "value": "Informationen zum Auftrag<br>Keine"
         },
@@ -5150,30 +5230,6 @@
         },
         {
             "key": "QE_MU_EV_ET_EX4",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_AEX_113_1",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_AEX_113_2",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_AEX_112_1",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_AEX_112_2",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_AEX_111_1",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_AEX_111_2",
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
@@ -7329,6 +7385,18 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
+            "key": "QE_BR_SOIL_11",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_BR_SOIL_12",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_BR_SOIL_13",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
             "key": "QE_BR_WIND_01",
             "value": "Informationen zum Auftrag<br>Keine"
         },
@@ -7751,6 +7819,14 @@
         {
             "key": "QE_SB_EURP_02",
             "value": "Informationen zum Auftrag<br>Hinweis: Versuche, dir Gemach zum Vorteil zu machen."
+        },
+        {
+            "key": "QE_SB_ODIN_01_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_SB_ODIN_01_02",
+            "value": "Informationen zum Auftrag<br>Keine"
         },
         {
             "key": "QE_SB_MABR_01",
@@ -9623,6 +9699,10 @@
         {
             "key": "QE_VC_LW_ODIN",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 67, Jobstufe 11<br>Freischaltbedingungen: Visionskarte „Odin, der Mythische Marodeur“ im Besitz"
+        },
+        {
+            "key": "QE_VC_LW_ODIN_01",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 69, Jobstufe 11<br>Freischaltbedingungen: Visionskarte „Phantasmatischer Scharfrichter, Dunkel-Odin“ im Besitz"
         },
         {
             "key": "QE_VC_LW_TSLP",

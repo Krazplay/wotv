@@ -3621,6 +3621,10 @@
             "value": "Art der Ausrüstung: Helm<br>Angemessene Rüstungskenntnis: A oder höher"
         },
         {
+            "key": "AF_LW_HLM_009",
+            "value": "Art der Ausrüstung: Helm<br>Angemessene Rüstungskenntnis: A oder höher"
+        },
+        {
             "key": "AF_LW_SWO_023",
             "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: B oder höher"
         },

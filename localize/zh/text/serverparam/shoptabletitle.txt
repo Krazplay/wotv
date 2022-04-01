@@ -613,6 +613,18 @@
             "value": ""
         },
         {
+            "key": "Normal-20220119_A",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_B",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_C",
+            "value": ""
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "快閃店"
         },
@@ -1177,6 +1189,18 @@
             "value": ""
         },
         {
+            "key": "Guerrilla-20220119A",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119B",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119C",
+            "value": ""
+        },
+        {
             "key": "Limited-20200422_A",
             "value": "【第2波】FFT聯動紀念商店"
         },
@@ -1195,6 +1219,22 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "FFXIV: 漆黑的反叛者 聯動商店"
+        },
+        {
+            "key": "Limited-gl20220330_B",
+            "value": "FINAL FANTASY VI聯動紀念商店第2階段"
+        },
+        {
+            "key": "Limited-gl20220330",
+            "value": "2週年紀念豪華商店第2階段"
+        },
+        {
+            "key": "Limited-gl20220330_A",
+            "value": "2週年紀念商店第2階段"
+        },
+        {
+            "key": "Limited-gl20220330_C",
+            "value": "新幻兵卡精選商店"
         },
         {
             "key": "Limited-gl20220323_D",
@@ -2855,6 +2895,14 @@
         {
             "key": "Event-Summon_GL20210728_9MDL",
             "value": "900萬下載獎牌交換所"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FFVI_VISION",
+            "value": "FFVI聯動幻兵卡召喚獎牌交換所"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FF_MARCH",
+            "value": "【3月】幻兵卡召喚獎牌A交換所"
         },
         {
             "key": "Event-Quest_gl20220323_FF6Login",
@@ -4831,6 +4879,10 @@
         {
             "key": "Event-Piece_GL20220323",
             "value": "魂星交換所"
+        },
+        {
+            "key": "Event-VisioncardPiece_GL20220330",
+            "value": "幻星交換所"
         },
         {
             "key": "Event-VisioncardPiece_GL20220323",
@@ -8770,6 +8822,38 @@
         },
         {
             "key": "Limited-FIRE_2022_03_D",
+            "value": "每日輪替火屬性商店"
+        },
+        {
+            "key": "Limited-WATER_2022_03_E",
+            "value": "每日輪替水屬性商店"
+        },
+        {
+            "key": "Limited-WIND_2022_03_E",
+            "value": "每日輪替風屬性商店"
+        },
+        {
+            "key": "Limited-THUNDER_2022_03_E",
+            "value": "每日輪替雷屬性商店"
+        },
+        {
+            "key": "Limited-SOIL_2022_03_E",
+            "value": "每日輪替土屬性商店"
+        },
+        {
+            "key": "Limited-SHINE_2022_03_E",
+            "value": "每日輪替光屬性商店"
+        },
+        {
+            "key": "Limited-DARK_2022_03_E",
+            "value": "每日輪替暗屬性商店"
+        },
+        {
+            "key": "Limited-ICE_2022_03_E",
+            "value": "每日輪替冰屬性商店"
+        },
+        {
+            "key": "Limited-FIRE_2022_03_E",
             "value": "每日輪替火屬性商店"
         }
     ]

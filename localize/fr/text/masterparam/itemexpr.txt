@@ -4445,6 +4445,14 @@
             "value": "Un objet nécessaire à l'éveil d'Europa jusqu'à 3★."
         },
         {
+            "key": "IT_SB_AW_ODIN_01_R2",
+            "value": "Un objet nécessaire à l'éveil d'Odin obscur jusqu'à 2★."
+        },
+        {
+            "key": "IT_SB_AW_ODIN_01_R3",
+            "value": "Un objet nécessaire à l'éveil d'Odin obscur jusqu'à 3★."
+        },
+        {
             "key": "IT_SB_SKP_RESET",
             "value": "Un objet utilisé pour réinitialiser le tableau d'entraînement d'une chimère."
         },
@@ -4527,6 +4535,10 @@
         {
             "key": "IT_AF_AW_ARMOR",
             "value": "Un matériau d'éveil pour les équipements de type armure."
+        },
+        {
+            "key": "IT_AF_AW_MURG",
+            "value": "Matériau d'éveil pour le Casque du roi des sauvages"
         },
         {
             "key": "IT_AF_AW_ACCE",
@@ -5929,6 +5941,10 @@
             "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (expire le 05/04/2022, 23:59, heure universelle (PST))."
         },
         {
+            "key": "IT_EC_SUMMON_03VC_03_A",
+            "value": "Une médaille qui peut être obtenue lors de l'invocation x10 à 5 paliers : « Odin obscur, la Lame spectrale » à l'honneur du 2e anniversaire [Partie II] (expire le 19/04/2022, 21:59, heure universelle (PST))."
+        },
+        {
             "key": "IT_EC_SUMMON_1st_GL1",
             "value": "Une médaille qui peut être échangée contre des fragments d'unité ou d'atout-vision sortis avant le 14/04/2021, heure universelle (PST) inclus. *Ne peut pas être utilisé pour des fragments d'unités ou d'atouts-visions limités ou issus des collaborations en dehors de Tidus, Yuna, Auron, « Suteki Da Ne », « Un monde inconnu », « Exorciser les démons », « Célébration de l'hiver ». *Les fragments des unités ou des atouts-visions sortis pendant l'ouverture de la boutique d'échange n'apparaîtront pas tant qu'ils ne sont pas sortis."
         },
@@ -6543,6 +6559,10 @@
         {
             "key": "IT_US_SE_MTPI_SSR_01",
             "value": "Un ticket qui permet d'invoquer 5 fragments de tablette sacrée MR du même type (Idéaux, Justice, Prospérité, Aspirations, Triomphe ou Gloire)."
+        },
+        {
+            "key": "IT_US_SE_MTPI_SSR_02",
+            "value": "Un ticket qui permet au joueur d'invoquer 20 fragments de tablette sacrée MR du même type (Idéaux, Justice, Prospérité, Aspirations, Triomphe ou Gloire)."
         },
         {
             "key": "IT_US_SE_MTPI_I_GL01",
@@ -7681,6 +7701,10 @@
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 25 prismes d'éveil parmi les 8 éléments proposés."
         },
         {
+            "key": "IT_US_SE_AW-ITEM_14",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 222 prismes d'éveil parmi les 8 éléments proposés."
+        },
+        {
             "key": "IT_VPI_LW_GLEM",
             "value": "Un objet nécessaire à l'éveil d'un atout-vision."
         },
@@ -8309,6 +8333,14 @@
             "value": "Un objet nécessaire à l'éveil d'un atout-vision."
         },
         {
+            "key": "IT_VPI_LW_ODIN_01",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision."
+        },
+        {
+            "key": "IT_VPI_FF6_MV1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision."
+        },
+        {
             "key": "IT_VPI_FF15_MV1",
             "value": "Un objet nécessaire à l'éveil d'un atout-vision."
         },
@@ -8829,6 +8861,34 @@
             "value": "Un ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties avant le 17/11/2021, heure universelle (PST) inclus. * Ne peut pas être utilisé pour les unités limitées ou issues de collaborations."
         },
         {
+            "key": "IT_US_SE_PI_GL_52",
+            "value": "Un ticket sélectionneur de 50 fragments d'unité MR pour les unités sorties avant le 03/02/2021, heure universelle (PST) inclus. * Ne peut pas être utilisé pour les unités limitées ou issues de collaborations."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_53",
+            "value": "Un ticket sélectionneur de 100 fragments d'unité R à UR pour les unités sorties avant le 17/11/2021, heure universelle (PST) inclus. * Ne peut pas être utilisé pour les unités dont le coût s'élève à 100, ni pour les unités limitées ou issues de collaborations."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_54",
+            "value": "Un ticket sélectionneur de 100 fragments d'atout-vision R à UR pour les atouts-visions sortis avant le 16/03/2022, heure universelle (PST) inclus. * Ne peut pas être utilisé pour les atouts-visions dont le coût s'élève à 90, ni pour les atouts-visions limités ou issus de collaborations."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_55",
+            "value": "Un ticket qui permet au joueur d'invoquer l'une des unités MR suivantes complètement améliorée au niveau 99 : Fina, Adelard, Chel, Liviale, Dario Hourne, Saliah, Thytas ou Ramada."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_56",
+            "value": "Un ticket sélectionneur de 400 fragments d'unité R à UR pour les unités sorties avant le 17/11/2021, heure universelle (PST) inclus. * Ne peut pas être utilisé pour les unités dont le coût s'élève à 100, ni pour les unités limitées ou issues de collaborations."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_57",
+            "value": "Un ticket sélectionneur de 175 fragments d'atout-vision R à UR pour les atouts-visions sortis avant le 16/03/2022, heure universelle (PST) inclus. * Ne peut pas être utilisé pour les atouts-visions dont le coût s'élève à 90, ni pour les atouts-visions limités ou issus de collaborations."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_58",
+            "value": "Un ticket qui permet au joueur d'invoquer l'une des unités UR suivantes complètement améliorée au niveau 99 : Xiza, Moore, Velrik, Varush, Luartha, Oldoa, Graziella Wezett ou Corwell."
+        },
+        {
             "key": "IT_US_SE_VPI_GL_16",
             "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 10/02/2021, heure universelle (PST) inclus. *Ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
         },
@@ -9173,6 +9233,10 @@
             "value": "Un ticket sélectionneur de 100 livres secrets de l'amélioration (pour épée, spathe, poings, katana, lance, dague, lame ninja, arc, fusil, bâton, masse, hache, armure, accessoire, gants ou livre) sortis avant le 01/12/2021 inclus."
         },
         {
+            "key": "IT_US_GL_SE_AF_AW_18",
+            "value": "Un ticket sélectionneur de 300 livres secrets de l'amélioration (pour épée, spathe, poings, katana, lance, dague, lame ninja, arc, fusil, bâton, masse, hache, armure, accessoire, gants ou livre) sortis avant le 01/12/2021 inclus."
+        },
+        {
             "key": "IT_US_SE_AF_SUP_01",
             "value": "Un ticket qui permet d'invoquer 20 sceaux d'équipement du même type (de vie, d'attaque, magique, PSY, de défense, d'esquive, d'aptitude, de dégâts)."
         },
@@ -9307,6 +9371,10 @@
         {
             "key": "IT_STAMP_2111",
             "value": "Un objet requis pour les échanges avantageux d'avril."
+        },
+        {
+            "key": "IT_STAMP_2112",
+            "value": "Un objet requis pour les échanges avantageux de mai."
         },
         {
             "key": "IT_KEY_JP",
@@ -9877,6 +9945,10 @@
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 25 fragments de pensée nécessaires à l'éveil parmi les 8 éléments proposés."
         },
         {
+            "key": "IT_US_SE_PI_COM_11",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 222 fragments de pensée nécessaires à l'éveil parmi les 8 éléments proposés."
+        },
+        {
             "key": "IT_US_SE_AF_SUP_04",
             "value": "Un ticket qui permet d'invoquer 30 sceaux d'équipement du même type (de vie, d'attaque, magique, d'âme, défensif, d'esquive, d'aptitude ou de dégâts)."
         },
@@ -9969,6 +10041,10 @@
             "value": "Une médaille qui peut être obtenue lors d'invocations spécifiques (Expire le 10/05/2022, 23:59, heure universelle (PST))."
         },
         {
+            "key": "IT_EC_FF6_6",
+            "value": "Une médaille qui peut être obtenue lors de l'invocation de la collaboration : « Présage » de FINAL FANTASY VI et l'invocation x10 à 5 paliers de l'atout-vision « Présage » garanti de FINAL FANTASY VI (expire le 10/05/2022, 23:59, heure universelle (PST))."
+        },
+        {
             "key": "IT_EC_FFS_1",
             "value": "Une médaille qui peut être obtenue lors d'invocations spécifiques (Expire le 03/05/2022, 23:59, heure universelle (PST))."
         },
@@ -10006,7 +10082,7 @@
         },
         {
             "key": "IT_US_SE_PI_66",
-            "value": "Un ticket sélectionneur de 500 fragments d'unité de rareté MR ou inférieure pouvant être utilisé pour l'une des unités de glace suivantes : Chel, Khory Wezett, Serjes, Valaïde.  "
+            "value": "Un ticket sélectionneur de 500 fragments d'unité de rareté MR ou inférieure pouvant être utilisé pour l'une des unités de glace suivantes : Chel, Nasha, Khory Wezett, Serjes, Valaïde.  "
         },
         {
             "key": "IT_US_SE_PI_67",

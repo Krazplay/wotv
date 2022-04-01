@@ -1,0 +1,404 @@
+﻿{
+    "infos": [
+        {
+            "key": "344",
+            "value": "Cuanto tiempo, Camilo."
+        },
+        {
+            "key": "345",
+            "value": "Ganzbak..."
+        },
+        {
+            "key": "346",
+            "value": "Traidor."
+        },
+        {
+            "key": "347",
+            "value": "Abandonaste la misión de perseguir a la ninja de Ovis que fue en busca de refuerzos de Hourne…"
+        },
+        {
+            "key": "348",
+            "value": "Tienes lo que hay que tener para dejarte ver de nuevo en el campo de batalla."
+        },
+        {
+            "key": "349",
+            "value": "Oh, cállate de una vez."
+        },
+        {
+            "key": "350",
+            "value": "¿Y qué pasa con vosotros, eh?"
+        },
+        {
+            "key": "351",
+            "value": "¿Qué pasa con nosotros?"
+        },
+        {
+            "key": "352",
+            "value": "Je... ¡Como si no lo supieseis!"
+        },
+        {
+            "key": "353",
+            "value": "¡Siempre hablando sobre el orgullo de Heindler, pero a la hora de la verdad no sois más que siervos de Rundal!"
+        },
+        {
+            "key": "354",
+            "value": "¡Incluso me sorprende que podáis mantener esa cara de indiferencia mientras os las dais de superiores!"
+        },
+        {
+            "key": "355",
+            "value": "¡Te arrepentirás de lo que dices!"
+        },
+        {
+            "key": "356",
+            "value": "¿Estás seguro, Camilo?"
+        },
+        {
+            "key": "357",
+            "value": "¿Eh? ¿A qué te refieres?"
+        },
+        {
+            "key": "358",
+            "value": "No hay forma de arreglar lo que has dicho una vez has pronunciado esas palabras, ¿sabes?"
+        },
+        {
+            "key": "359",
+            "value": "Es más que probable que muerdas el polvo en esta batalla, por lo que deberías pensar en las repercusiones que eso puede llevar."
+        },
+        {
+            "key": "360",
+            "value": "¡¿De qué lado estás tú?!"
+        },
+        {
+            "key": "361",
+            "value": "No nos conocemos de nada. ¿Acaso no era ese nuestro acuerdo?"
+        },
+        {
+            "key": "362",
+            "value": "¡Eso era solo para aquella vez!"
+        },
+        {
+            "key": "363",
+            "value": "¿De qué va esto? ¿De ver de qué forma escapar mejor de nosotros?"
+        },
+        {
+            "key": "364",
+            "value": "No, he cambiado. Ya no soy el hombre que era."
+        },
+        {
+            "key": "365",
+            "value": "Demuéstralo entonces..."
+        },
+        {
+            "key": "366",
+            "value": "Deja que el poder de los Seis Colmillos devuelva un poco de lucidez a esa cabeza hueca que tienes."
+        },
+        {
+            "key": "367",
+            "value": "Tú... ¿Qué tienes que ver en todo esto?"
+        },
+        {
+            "key": "368",
+            "value": "Esto no tiene nada que ver con Elsirel."
+        },
+        {
+            "key": "369",
+            "value": "Si lo que quieres es salir magullada de aquí, será un placer darte lo lo que buscas."
+        },
+        {
+            "key": "370",
+            "value": "Por desgracia, debo decir que detesto a los que abusan de los débiles, aunque no tanto como a las mantis."
+        },
+        {
+            "key": "371",
+            "value": "¡¿A quién llamas débil?!"
+        },
+        {
+            "key": "372",
+            "value": "Un momento, ¿no te gustan las mantis?"
+        },
+        {
+            "key": "373",
+            "value": "Es ese torso blando que tienen... Ugh, solo de pensarlo se me ponen los pelos de punta..."
+        },
+        {
+            "key": "374",
+            "value": "¡No vais a ponerle un dedo encima a Elsirel!"
+        },
+        {
+            "key": "375",
+            "value": "¡Venid a por mí!"
+        },
+        {
+            "key": "376",
+            "value": "Ugh..."
+        },
+        {
+            "key": "377",
+            "value": "¿Qué ocurre? ¿Te duelen las heridas?"
+        },
+        {
+            "key": "378",
+            "value": "¿Por qué haces esto?"
+        },
+        {
+            "key": "379",
+            "value": "¿Hacer qué?"
+        },
+        {
+            "key": "380",
+            "value": "Tenemos poca probabilidad de ganar esta batalla, pero le has demostrado tus aptitudes a Rundal."
+        },
+        {
+            "key": "381",
+            "value": "…"
+        },
+        {
+            "key": "382",
+            "value": "Así que se trataba de eso."
+        },
+        {
+            "key": "383",
+            "value": "Es lo que Grahl y tú habéis estado murmurando todo este tiempo..."
+        },
+        {
+            "key": "384",
+            "value": "Vine desde el este con la intención de servir bajo Rundal."
+        },
+        {
+            "key": "385",
+            "value": "Pero cambié de idea en algún momento."
+        },
+        {
+            "key": "386",
+            "value": "Porque te enamoraste de mi hermano."
+        },
+        {
+            "key": "387",
+            "value": "Así es."
+        },
+        {
+            "key": "388",
+            "value": "Y cuando lord Adelardo y yo intercambiemos nuestros votos, tú estarás allí para presenciarlo, te guste o no."
+        },
+        {
+            "key": "389",
+            "value": "Estaré allí para incordiar."
+        },
+        {
+            "key": "390",
+            "value": "Bueno, pues entonces sobrevive."
+        },
+        {
+            "key": "391",
+            "value": "Sobrevive a todo esto e intenta detenerme para que no me case con tu hermano."
+        },
+        {
+            "key": "392",
+            "value": "Puedes estar segura de que lo haré..."
+        },
+        {
+            "key": "393",
+            "value": "Sigamos adelante, pues."
+        },
+        {
+            "key": "394",
+            "value": "O-oh, diantres..."
+        },
+        {
+            "key": "395",
+            "value": "Esto acaba ahora."
+        },
+        {
+            "key": "396",
+            "value": "Como siempre, te esmeras mucho delante de una mujer..."
+        },
+        {
+            "key": "397",
+            "value": "No has cambiado ni una pizca."
+        },
+        {
+            "key": "398",
+            "value": "Huiste de la dura disciplina del entrenamiento de Heindler para refugiarte en la condescendencia de Hourne y Leonis... Eso es todo."
+        },
+        {
+            "key": "399",
+            "value": "No eres más que una desgracia que solo merece la muerte."
+        },
+        {
+            "key": "400",
+            "value": "¿Acabas de llamar a Leonis... condescendiente?"
+        },
+        {
+            "key": "401",
+            "value": "Es la verdad."
+        },
+        {
+            "key": "402",
+            "value": "Aun así, hay alguien que se enfrentó a lord Stern, el segundo príncipe de Leonis, y desafió ese poder que reconocían incluso las grandes casas."
+        },
+        {
+            "key": "403",
+            "value": "¿Hablas de ti? Entonces serás una buena adversaria."
+        },
+        {
+            "key": "404",
+            "value": "No, hablo de este que está justo detrás de mí."
+        },
+        {
+            "key": "405",
+            "value": "¿Camilo?"
+        },
+        {
+            "key": "406",
+            "value": "No me hagas reír. Eso no es más que otra de sus historietas."
+        },
+        {
+            "key": "407",
+            "value": "Las que siempre suelta cuando intenta embaucar a cualquier chica que se le cruza."
+        },
+        {
+            "key": "408",
+            "value": "Yo vi ese combate con mis propios ojos."
+        },
+        {
+            "key": "409",
+            "value": "…"
+        },
+        {
+            "key": "410",
+            "value": "Fácilmente enamoradizo, propenso a emocionarse demasiado y lleno de fantasías que aumentan su ego..."
+        },
+        {
+            "key": "411",
+            "value": "Se podría decir que reúne todas las cualidades de un buen rey."
+        },
+        {
+            "key": "412",
+            "value": "¡¿Camilo..., un rey?!"
+        },
+        {
+            "key": "413",
+            "value": "Esto cada vez es más absurdo. ¡Un reino así se iría al garete en un par de días!"
+        },
+        {
+            "key": "414",
+            "value": "Esas son las palabras de una mujer que nunca ha conocido el amor."
+        },
+        {
+            "key": "415",
+            "value": "¡¿Cómo dices?!"
+        },
+        {
+            "key": "416",
+            "value": "Elsirel..."
+        },
+        {
+            "key": "417",
+            "value": "…"
+        },
+        {
+            "key": "418",
+            "value": "Podrías haberte librado de todo esto y haberte quedado durmiendo..."
+        },
+        {
+            "key": "419",
+            "value": "Como si hubiese podido después de escuchar tus palabras."
+        },
+        {
+            "key": "420",
+            "value": "…"
+        },
+        {
+            "key": "421",
+            "value": "Siento mucho haberte arrastrado a esto…"
+        },
+        {
+            "key": "422",
+            "value": "No te preocupes, ya me compensarás más adelante cuando todo esto haya terminado."
+        },
+        {
+            "key": "423",
+            "value": "Cuando todo esto haya terminado..."
+        },
+        {
+            "key": "424",
+            "value": "Muy bien, haré todo lo que esté en mi mano."
+        },
+        {
+            "key": "425",
+            "value": "¿Lilit?"
+        },
+        {
+            "key": "426",
+            "value": "Esto no pinta bien..."
+        },
+        {
+            "key": "427",
+            "value": "Depender exclusivamente del rey Mont como estrategia de combate..."
+        },
+        {
+            "key": "428",
+            "value": "¿Acaso vas a desobedecer las órdenes?"
+        },
+        {
+            "key": "429",
+            "value": "¿Cómo voy a cumplir órdenes de esta forma?"
+        },
+        {
+            "key": "430",
+            "value": "El rey Mont lucha como si no le importase sacrificar su vida..."
+        },
+        {
+            "key": "431",
+            "value": "Sí, me he dado cuenta."
+        },
+        {
+            "key": "432",
+            "value": "¡¿Y cómo estás tan tranquila?!"
+        },
+        {
+            "key": "433",
+            "value": "¡¿Siempre has sido tan indiferente?!"
+        },
+        {
+            "key": "434",
+            "value": "Las estrellas aún no han perdido su brillo."
+        },
+        {
+            "key": "435",
+            "value": "¿Quieres decir que aún hay esperanza? ¡¿A pesar del estado de la batalla?!"
+        },
+        {
+            "key": "436",
+            "value": "Si no me equivoco..."
+        },
+        {
+            "key": "437",
+            "value": "¡...!"
+        },
+        {
+            "key": "438",
+            "value": "¿Pero qué diantres estáis haciendo aquí?"
+        },
+        {
+            "key": "439",
+            "value": "La princesa Luciela de Ovis nos ha contratado."
+        },
+        {
+            "key": "440",
+            "value": "¿Qué?"
+        },
+        {
+            "key": "441",
+            "value": "Os perdonaremos la vida mientras dure nuestro acuerdo."
+        },
+        {
+            "key": "442",
+            "value": "Vamos, Ranel."
+        },
+        {
+            "key": "443",
+            "value": "Sí, milady."
+        }
+    ]
+}

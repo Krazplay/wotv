@@ -3957,6 +3957,26 @@
             "value": ""
         },
         {
+            "key": "BUFF_ODIN_01_M_01",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ODIN_01_M_03",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ODIN_01_M_04_01",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ODIN_01_M_04_02",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ODIN_01_M_05",
+            "value": ""
+        },
+        {
             "key": "BUFF_IGNT_M_01_01",
             "value": ""
         },
@@ -5481,6 +5501,10 @@
             "value": ""
         },
         {
+            "key": "BUFF_SMN_ODIN_01",
+            "value": ""
+        },
+        {
             "key": "BUFF_UN_BD_EC_HP_200",
             "value": ""
         },
@@ -6873,6 +6897,14 @@
             "value": ""
         },
         {
+            "key": "BUFF_MA_LW_MDNA_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_MDNA_2_S",
+            "value": ""
+        },
+        {
             "key": "BUFF_MA_LW_AYKA",
             "value": ""
         },
@@ -6914,6 +6946,14 @@
         },
         {
             "key": "BUFF_MA_LW_OOOO",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_OOOO_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_OOOO_2_S",
             "value": ""
         },
         {
@@ -6970,6 +7010,10 @@
         },
         {
             "key": "BUFF_MA_LW_BYLO",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_BYLO_2",
             "value": ""
         },
         {
@@ -7030,6 +7074,10 @@
         },
         {
             "key": "BUFF_MA_LW_ZZAN",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_ZZAN_2",
             "value": ""
         },
         {
@@ -12953,6 +13001,138 @@
             "value": ""
         },
         {
+            "key": "BUFF_VC_LW_ODIN_01_GS",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2_AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2MAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS_AW_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GSMAX_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2_AW_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2MAX_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_P",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_PAW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_PMAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_P2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_P2AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_P2MAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_ODIN_01_P3",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_ODIN_01_P3AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_ODIN_01_P3MAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GS_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GS_AW_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GSMAX_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_FF6_MV1_P2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_FF6_MV1_P2AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_FF6_MV1_P2MAX",
+            "value": ""
+        },
+        {
             "key": "BUFF_VC_LW_CACT_P",
             "value": ""
         },
@@ -14242,6 +14422,26 @@
         },
         {
             "key": "BUFF_LW_SPE_018_5",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_HLM_009_1",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_HLM_009_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_HLM_009_3",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_HLM_009_4",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_HLM_009_5",
             "value": ""
         },
         {
@@ -24751,6 +24951,170 @@
         {
             "key": "BUFF_EURP_41",
             "value": "Ataque de rayo +10 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_01",
+            "value": "Tasa de evasión +3"
+        },
+        {
+            "key": "BUFF_ODIN_01_02",
+            "value": "Tasa de activación de veneno +2"
+        },
+        {
+            "key": "BUFF_ODIN_01_03",
+            "value": "Tasa de evasión de crítico +3"
+        },
+        {
+            "key": "BUFF_ODIN_01_04",
+            "value": "Comehombres +2 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_05",
+            "value": "PA +2 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_06",
+            "value": "Magia de invocación nv. 2"
+        },
+        {
+            "key": "BUFF_ODIN_01_07",
+            "value": "Magia de invocación nv. 4"
+        },
+        {
+            "key": "BUFF_ODIN_01_08",
+            "value": "Tasa de evasión +4"
+        },
+        {
+            "key": "BUFF_ODIN_01_09",
+            "value": "Res. mágica +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_10",
+            "value": "Res. mágica +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_11",
+            "value": "Tasa de activación de veneno +3"
+        },
+        {
+            "key": "BUFF_ODIN_01_12",
+            "value": "Tasa de evasión de crítico +4"
+        },
+        {
+            "key": "BUFF_ODIN_01_13",
+            "value": "Ataque de corte +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_14",
+            "value": "Ataque de corte +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_15",
+            "value": "Comehombres +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_16",
+            "value": "PA +5 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_17",
+            "value": "Res. proyectiles +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_18",
+            "value": "Res. proyectiles +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_19",
+            "value": "Magia de invocación nv. 7"
+        },
+        {
+            "key": "BUFF_ODIN_01_20",
+            "value": "Res. mágica +5 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_21",
+            "value": "Res. mágica +4 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_22",
+            "value": "Tasa de activación de veneno +4"
+        },
+        {
+            "key": "BUFF_ODIN_01_23",
+            "value": "Tasa de activación de veneno +6"
+        },
+        {
+            "key": "BUFF_ODIN_01_24",
+            "value": "Ataque de corte +5 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_25",
+            "value": "Ataque de corte +4 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_26",
+            "value": "Comehombres +6 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_27",
+            "value": "Comehombres +4 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_28",
+            "value": "Res. proyectiles +5 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_29",
+            "value": "Res. proyectiles +4 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_30",
+            "value": "Magia de invocación nv. 10"
+        },
+        {
+            "key": "BUFF_ODIN_01_31",
+            "value": "Magia de invocación nv. 15"
+        },
+        {
+            "key": "BUFF_ODIN_01_32",
+            "value": "Tasa de activación de veneno +10"
+        },
+        {
+            "key": "BUFF_ODIN_01_33",
+            "value": "Comehombres +10 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_34",
+            "value": "Magia de invocación nv. 20"
+        },
+        {
+            "key": "BUFF_ODIN_01_35",
+            "value": "Tasa de evasión +4"
+        },
+        {
+            "key": "BUFF_ODIN_01_36",
+            "value": "Tasa de evasión +5"
+        },
+        {
+            "key": "BUFF_ODIN_01_37",
+            "value": "Tasa de evasión +6"
+        },
+        {
+            "key": "BUFF_ODIN_01_38",
+            "value": "Ataque de corte +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_39",
+            "value": "Ataque de corte +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_40",
+            "value": "Ataque de corte +4 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_41",
+            "value": "Ataque de corte +5 %"
         },
         {
             "key": "BUFF_MRE_FIRE_HP_1",

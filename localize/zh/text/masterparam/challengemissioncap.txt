@@ -635,6 +635,14 @@
         {
             "key": "CM_PRO_GL_V_LW_USER2_1",
             "value": "「Happy Birthday 國際版！」新登場記念 育成考驗任務"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_1",
+            "value": "「預兆」育成考驗任務"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_1",
+            "value": "「幻魔斬劍　暗黑奧汀」新登場紀念育成考驗任務"
         }
     ]
 }

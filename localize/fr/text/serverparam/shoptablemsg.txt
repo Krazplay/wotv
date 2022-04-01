@@ -613,6 +613,18 @@
             "value": ""
         },
         {
+            "key": "Normal-20220119_A",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_B",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_C",
+            "value": ""
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Boutique surprise (Rang de joueur 1 à 29)"
         },
@@ -1177,6 +1189,18 @@
             "value": ""
         },
         {
+            "key": "Guerrilla-20220119A",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119B",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119C",
+            "value": ""
+        },
+        {
             "key": "Limited-20200422_A",
             "value": "Boutique de la collaboration FFT [Partie II] : ventes spéciales en cours !"
         },
@@ -1195,6 +1219,22 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "Améliorez vos unités et vos atouts-visions !"
+        },
+        {
+            "key": "Limited-gl20220330_B",
+            "value": "Boutique de la collaboration avec FFVI [Partie II] : ventes spéciales en cours !"
+        },
+        {
+            "key": "Limited-gl20220330",
+            "value": "Boutique premium du 2e anniversaire [Partie II] : ventes spéciales en cours !"
+        },
+        {
+            "key": "Limited-gl20220330_A",
+            "value": "Boutique du 2e anniversaire [Partie II] : ventes spéciales en cours !"
+        },
+        {
+            "key": "Limited-gl20220330_C",
+            "value": "Boutique des nouveaux atouts-visions du moment : ventes spéciales en cours !"
         },
         {
             "key": "Limited-gl20220323_D",
@@ -2855,6 +2895,14 @@
         {
             "key": "Event-Summon_GL20210728_9MDL",
             "value": "Bienvenue dans la boutique d'échange des médailles des 9 millions de téléchargements, kupo !"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FFVI_VISION",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'invocation de visions [FFVI], kupo !"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FF_MARCH",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'invocation de visions A [Mars], kupo !"
         },
         {
             "key": "Event-Quest_gl20220323_FF6Login",
@@ -4831,6 +4879,10 @@
         {
             "key": "Event-Piece_GL20220323",
             "value": "Bienvenue dans la boutique d'échange des étoiles d'âme, kupo !"
+        },
+        {
+            "key": "Event-VisioncardPiece_GL20220330",
+            "value": "Bienvenue dans la boutique d'échange des étoiles de vision, kupo !"
         },
         {
             "key": "Event-VisioncardPiece_GL20220323",
@@ -8770,6 +8822,38 @@
         },
         {
             "key": "Limited-FIRE_2022_03_D",
+            "value": "Objets quotidiens spéciaux de la boutique du feu"
+        },
+        {
+            "key": "Limited-WATER_2022_03_E",
+            "value": "Objets quotidiens spéciaux de la boutique de l'eau"
+        },
+        {
+            "key": "Limited-WIND_2022_03_E",
+            "value": "Objets quotidiens spéciaux de la boutique du vent"
+        },
+        {
+            "key": "Limited-THUNDER_2022_03_E",
+            "value": "Objets quotidiens spéciaux de la boutique de la foudre"
+        },
+        {
+            "key": "Limited-SOIL_2022_03_E",
+            "value": "Objets quotidiens spéciaux de la boutique de la terre"
+        },
+        {
+            "key": "Limited-SHINE_2022_03_E",
+            "value": "Objets quotidiens spéciaux de la boutique de la lumière"
+        },
+        {
+            "key": "Limited-DARK_2022_03_E",
+            "value": "Objets quotidiens spéciaux de la boutique de l'ombre"
+        },
+        {
+            "key": "Limited-ICE_2022_03_E",
+            "value": "Objets quotidiens spéciaux de la boutique de la glace"
+        },
+        {
+            "key": "Limited-FIRE_2022_03_E",
             "value": "Objets quotidiens spéciaux de la boutique du feu"
         }
     ]

@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "444",
+            "value": "This castle must be the place..."
+        },
+        {
+            "key": "445",
+            "value": "Yes, it would appear so."
+        },
+        {
+            "key": "446",
+            "value": "Who goes there?"
+        },
+        {
+            "key": "447",
+            "value": "You approach Hourne Castle. Leave if you have no business here."
+        },
+        {
+            "key": "448",
+            "value": "Do you not sense the evil emanating from this place?"
+        },
+        {
+            "key": "449",
+            "value": "They are dim to it. Or perhaps it is the will of someone within..."
+        },
+        {
+            "key": "450",
+            "value": "Enough of your ramblings."
+        },
+        {
+            "key": "451",
+            "value": "If you do not leave this place..."
+        },
+        {
+            "key": "452",
+            "value": "Love must be met with love, and at times, steel met with steel."
+        },
+        {
+            "key": "453",
+            "value": "May the light of the Crystals guide us."
+        },
+        {
+            "key": "454",
+            "value": "Well then, shall we begin?"
+        },
+        {
+            "key": "455",
+            "value": "Yes. Let us banish the darkness from this place."
+        }
+    ]
+}

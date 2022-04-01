@@ -2965,6 +2965,34 @@
             "value": "[Tarea mensual] Estatuas del gremio"
         },
         {
+            "key": "MG_MONTHLY_113_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_113_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_113_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_113_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_113_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_113_6",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_113_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "Gasta visiores: bonificación de tiempo limitado"
         },
@@ -3707,6 +3735,54 @@
         {
             "key": "MG_ST_2111_12",
             "value": "Estatua del gremio"
+        },
+        {
+            "key": "MG_ST_2112_01",
+            "value": "Tareas diarias"
+        },
+        {
+            "key": "MG_ST_2112_02",
+            "value": "Equipo"
+        },
+        {
+            "key": "MG_ST_2112_03",
+            "value": "Objetos (libro secreto de mejora)"
+        },
+        {
+            "key": "MG_ST_2112_04",
+            "value": "Objetos (guilonio)"
+        },
+        {
+            "key": "MG_ST_2112_05",
+            "value": "Equipo"
+        },
+        {
+            "key": "MG_ST_2112_06",
+            "value": "Misiones de historia"
+        },
+        {
+            "key": "MG_ST_2112_07",
+            "value": "Las misiones difíciles"
+        },
+        {
+            "key": "MG_ST_2112_08",
+            "value": "Las multimisiones"
+        },
+        {
+            "key": "MG_ST_2112_09",
+            "value": "Cámara de la EXP"
+        },
+        {
+            "key": "MG_ST_2112_10",
+            "value": "Arena"
+        },
+        {
+            "key": "MG_ST_2112_11",
+            "value": "Expediciones chocobo"
+        },
+        {
+            "key": "MG_ST_2112_12",
+            "value": "Estatuas del gremio"
         },
         {
             "key": "MG_FF14_1_02_ETC",

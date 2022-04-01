@@ -1057,6 +1057,10 @@
             "value": "« Odin, le Saccageur » doit être au niv. 1"
         },
         {
+            "key": "COND_VC_LW_OD_01",
+            "value": "« Odin obscur, la Lame spectrale » doit être au niv. 1"
+        },
+        {
             "key": "COND_VC_LW_TSLP",
             "value": "« Tétra-Sylphides, les Quatre tempêtes célestes » doit être au niv. 1"
         },
@@ -1503,6 +1507,22 @@
         {
             "key": "COND_CH_CLES",
             "value": "Celes doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_MDNA2",
+            "value": "Mediena doit être au niv. 80"
+        },
+        {
+            "key": "COND_CH_LW_OOOO2",
+            "value": "Owe doit être au niv. 80"
+        },
+        {
+            "key": "COND_CH_LW_ZZAN2",
+            "value": "Zazan doit être au niv. 80"
+        },
+        {
+            "key": "COND_CH_LW_BYLO2",
+            "value": "Beilo doit être au niv. 80"
         }
     ]
 }

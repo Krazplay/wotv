@@ -861,6 +861,18 @@
             "value": "Rare Beschwörung"
         },
         {
+            "key": "Raregacha_A_gl20220330_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20220330_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20220330_P",
+            "value": "Rare Beschwörung"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Veröffentlichungsandenken – limitierte normale Beschwörung"
         },
@@ -2911,6 +2923,26 @@
         {
             "key": "gacha_FF_vc_gl20220323_P",
             "value": "FF-Visionskartenbeschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_01",
+            "value": "2. Jubiläum Teil II: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_10",
+            "value": "2. Jubiläum Teil II: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_01",
+            "value": "FINAL FANTASY Ⅵ-Kollabo: Beschwörung „Omen“"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_10",
+            "value": "FINAL FANTASY VI-Kollabo: Beschwörung „Omen\" (10-malig)"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_P",
+            "value": "FINAL FANTASY Ⅵ-Kollabo: Beschwörung „Omen“"
         }
     ]
 }

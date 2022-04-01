@@ -861,6 +861,18 @@
             "value": ""
         },
         {
+            "key": "Raregacha_A_gl20220330_01",
+            "value": ""
+        },
+        {
+            "key": "Raregacha_A_gl20220330_10",
+            "value": ""
+        },
+        {
+            "key": "Raregacha_A_gl20220330_P",
+            "value": ""
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": ""
         },
@@ -2911,6 +2923,26 @@
         {
             "key": "gacha_FF_vc_gl20220323_P",
             "value": "FF Series Vision Card Summon Bonus"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_01",
+            "value": ""
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_01",
+            "value": "FINAL FANTASY VI Collaborative Summon — \"Omen\" Bonus"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_10",
+            "value": "FINAL FANTASY VI Collaborative Summon — \"Omen\" Bonus"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_P",
+            "value": "FINAL FANTASY VI Collaborative Summon — \"Omen\" Bonus"
         }
     ]
 }

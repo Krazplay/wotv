@@ -4445,6 +4445,14 @@
             "value": "Ein Gegenstand, der zur Erweckung von Europa auf 3★ benötigt wird."
         },
         {
+            "key": "IT_SB_AW_ODIN_01_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Dunkel-Odin auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_ODIN_01_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Dunkel-Odin auf 3★ benötigt wird."
+        },
+        {
             "key": "IT_SB_SKP_RESET",
             "value": "Ein Gegenstand, der zum Zurücksetzen eines Esper-Trainingsbretts benutzt wird."
         },
@@ -4527,6 +4535,10 @@
         {
             "key": "IT_AF_AW_ARMOR",
             "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Rüstungen“"
+        },
+        {
+            "key": "IT_AF_AW_MURG",
+            "value": "Erweckungsmaterial für Helm des Barbarenkönigs"
         },
         {
             "key": "IT_AF_AW_ACCE",
@@ -5929,6 +5941,10 @@
             "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 5.4.2022, 23:59 Weltzeit (PST))."
         },
         {
+            "key": "IT_EC_SUMMON_03VC_03_A",
+            "value": "Eine Medaille, die durch die „2. Jubiläum Teil II: 5-Stufenbeschwörung (10-malig): „Phantasmatischer Scharfrichter, Dunkel-Odin“ im Blickpunkt!“ erhalten werden kann. (Verfällt am 19.4.2022, 21:59 Weltzeit (PST))"
+        },
+        {
             "key": "IT_EC_SUMMON_1st_GL1",
             "value": "Eine Medaille, die gegen Fragmente von Einheiten und Visionskarten eingetauscht werden kann, die bis inkl. 14.4.2021, Weltzeit (PST) erschienen sind. * Kann nur für die limiterten/Kollabo-Fragmente von Tidus, Yuna, Auron, „Suteki Da Ne“, „Eine unbekannte Welt“ „Austreiber böser Geister“ und „Winterparty“ genutzt werden. * Fragmente von Einheiten oder Visionskarten, die im Öffnungszeitraum des Tauschladens veröffentlich werden, erscheinen erst ab deren Veröffentlichung."
         },
@@ -6543,6 +6559,10 @@
         {
             "key": "IT_US_SE_MTPI_SSR_01",
             "value": "Ein Ticket, das es dem Benutzer erlaubt, 5 Stück einer Art von [MR]-Vertrauensstein-Fragmenten (Idealismus, Justiz, Prosperität, Aspiration, Triumph, Glorie) auszuwählen."
+        },
+        {
+            "key": "IT_US_SE_MTPI_SSR_02",
+            "value": "Ein Ticket, das es dem Benutzer erlaubt, 20 Stück einer Art von [MR]-Vertrauensstein-Fragmenten (Idealismus, Justiz, Prosperität, Aspiration, Triumph, Glorie) auszuwählen."
         },
         {
             "key": "IT_US_SE_MTPI_I_GL01",
@@ -7681,6 +7701,10 @@
             "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 25 Erweckungsprismen zu beschwören."
         },
         {
+            "key": "IT_US_SE_AW-ITEM_14",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 222 Erweckungsprismen zu beschwören."
+        },
+        {
             "key": "IT_VPI_LW_GLEM",
             "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
         },
@@ -8309,6 +8333,14 @@
             "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
         },
         {
+            "key": "IT_VPI_LW_ODIN_01",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_FF6_MV1",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
             "key": "IT_VPI_FF15_MV1",
             "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
         },
@@ -8829,6 +8861,34 @@
             "value": "Ein „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket für Einheiten, die bis inkl. 17.11.2021 Weltzeit (PST) erschienen sind. * Kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
         },
         {
+            "key": "IT_US_SE_PI_GL_52",
+            "value": "Ein „Auswählbares [MR]-Einheitenfragment x50“-Beschwörungsticket für Einheiten, die bis inkl. 3.2.2021 Weltzeit (PST) erschienen sind. <br>* Kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_53",
+            "value": "Ein „Auswählbares [R]-[UR]-Einheitenfragment x100“-Beschwörungsticket für Einheiten, die bis inkl. 17.11.2021 Weltzeit (PST) erschienen sind. <br>* Kann nicht für Einheiten mit den Kosten 100, limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_54",
+            "value": "Ein „Auswählbares [R-UR]-Visionskartenfragment x100“-Beschwörungsticket für bis inkl. 16.3.2022 Weltzeit (PST) veröffentlichte Visionskarten. * Kann nicht für Visionskarten mit den Kosten 90, limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_55",
+            "value": "Ein Ticket, mit dem eine der folgenden komplett auf St. 99 verstärkten [MR]-Einheiten beschwört werden kann: Fina, Adelard, Chell, Livialle, Dario Hourne, Salire, Titus oder Lhamada."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_56",
+            "value": "Ein „Auswählbares [R-UR]-Einheitenfragment x400“-Beschwörungsticket für Einheiten, die bis inkl. 17.11.2021 Weltzeit (PST) erschienen sind. <br>* Kann nicht für Einheiten mit den Kosten 100, limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_57",
+            "value": "Ein „Auswählbares [R-UR]-Visionskartenfragment x175“-Beschwörungsticket für bis inkl. 16.3.2022 Weltzeit (PST) veröffentlichte Visionskarten. * Kann nicht für Visionskarten mit den Kosten 90, limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_58",
+            "value": "Ein Ticket, mit dem eine der folgenden komplett auf St. 99 verstärkten [UR]-Einheiten beschwört werden kann: Xiza, Mhua, Velrick, Valoush, Luartha, Oldoa, Glaziela Wezette oder Corwell."
+        },
+        {
             "key": "IT_US_SE_VPI_GL_16",
             "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 10.2.2021 Weltzeit (PST) veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
         },
@@ -9173,6 +9233,10 @@
             "value": "Ein „Auswählbarer Almanach der Veredelung x100“-Beschwörungsticket für Almanache der Veredelung (Schwert, Großschwert, Fäuste, Katana, Lanze, Dolch, Shinobigatana, Bogen, Pistole, Stab, Kolben, Axt, Rüstung, Accessoire, Handschuhe oder Buch), die bis inkl. 1.12.2021 erschienen sind."
         },
         {
+            "key": "IT_US_GL_SE_AF_AW_18",
+            "value": "Ein „Auswählbarer Almanach der Veredelung x300“-Beschwörungsticket für Almanache der Veredelung (Schwert, Großschwert, Fäuste, Katana, Lanze, Dolch, Shinobigatana, Bogen, Pistole, Stab, Kolben, Axt, Rüstung, Accessoire, Handschuhe oder Buch), die bis inkl. 1.12.2021 erschienen sind."
+        },
+        {
             "key": "IT_US_SE_AF_SUP_01",
             "value": "Ein Ticket, das es dem Benutzer erlaubt, 20 Stück einer Art von Ausrüstungssiegel (Leben, Angriff, Magie, Geisteskraft, Abwehr, Vermeidung, Gewandtheit, Schaden) auszuwählen."
         },
@@ -9307,6 +9371,10 @@
         {
             "key": "IT_STAMP_2111",
             "value": "Ein Gegenstand, der gegen April-Vorteile eingetauscht werden kann."
+        },
+        {
+            "key": "IT_STAMP_2112",
+            "value": "Ein Gegenstand, der gegen Mai-Vorteile eingetauscht werden kann."
         },
         {
             "key": "IT_KEY_JP",
@@ -9877,6 +9945,10 @@
             "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 25 zur Erweckung notwendige Gedankenfragmente zu beschwören."
         },
         {
+            "key": "IT_US_SE_PI_COM_11",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 222 zur Erweckung notwendige Gedankenfragmente zu beschwören."
+        },
+        {
             "key": "IT_US_SE_AF_SUP_04",
             "value": "Ein Ticket, das es dem Benutzer erlaubt, 30 Stück einer Art von Ausrüstungssiegel (Leben, Angriff, Magie, Geisteskraft, Abwehr, Vermeidung, Gewandtheit, Schaden) auszuwählen."
         },
@@ -9969,6 +10041,10 @@
             "value": "Eine Medaille, die durch spezielle Beschwörungen erhalten werden kann (Verfällt am 10.5.2022, 23:59 Weltzeit (PST))."
         },
         {
+            "key": "IT_EC_FF6_6",
+            "value": "Eine Medaille, die durch die „FINAL FANTASY Ⅵ-Kollabo: Beschwörung „Omen““ und die „FFVI-Kollabo: 5-Stufenbeschwörung (10-malig): „Omen“ garantiert!“ erhalten werden kann. (Verfällt am 10.5.2022, 23:59 Weltzeit (PST))"
+        },
+        {
             "key": "IT_EC_FFS_1",
             "value": "Eine Medaille, die durch spezielle Beschwörungen erhalten werden kann (Verfällt am 3.5.2022, 23:59 Weltzeit (PST))."
         },
@@ -10006,7 +10082,7 @@
         },
         {
             "key": "IT_US_SE_PI_66",
-            "value": "Ein „Auswählbares Einheitenfragment (MR oder niedriger) x500“-Beschwörungsticket, das für die folgenden Eiseinheiten benutzt werden kann: Chell, Khuri Wezette, Sarjes oder Vallaid.  "
+            "value": "Ein „Auswählbares Einheitenfragment (MR oder niedriger) x500“-Beschwörungsticket, das für die folgenden Eiseinheiten benutzt werden kann: Chell, Nashia, Khuri Wezette, Sarjes oder Vallaid.  "
         },
         {
             "key": "IT_US_SE_PI_67",

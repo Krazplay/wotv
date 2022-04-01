@@ -13,6 +13,10 @@
             "value": "Bonificación de acceso para principiantes"
         },
         {
+            "key": "LB_BEGINNER_004",
+            "value": "Bonificación de acceso para principiantes"
+        },
+        {
             "key": "LB_TOTAL_001",
             "value": "Bonificación de acceso acumulado"
         },
@@ -115,6 +119,10 @@
         {
             "key": "LB_202203",
             "value": "Bonificación de acceso de marzo"
+        },
+        {
+            "key": "LB_202204",
+            "value": "Bonificación de acceso de abril"
         },
         {
             "key": "LB_LIMIT_GL_0001",
@@ -635,6 +643,14 @@
         {
             "key": "LB_LIMIT_GL0122",
             "value": "Bonificación de acceso del 2.º aniversario, parte I"
+        },
+        {
+            "key": "LB_LIMIT_GL0123",
+            "value": "Bonificación de acceso del 2.º aniversario, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0124",
+            "value": "Bonificación de acceso de colaboración de FFVI, parte II"
         }
     ]
 }

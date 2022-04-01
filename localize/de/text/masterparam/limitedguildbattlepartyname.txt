@@ -34,11 +34,11 @@
         },
         {
             "key": "PB_LGB_EL1_UC220",
-            "value": "Einheitenkosten von 220 oder weniger<br>Nur Dunkel/Feuer/Wind/Blitz"
+            "value": "Einheitenkosten von 220 oder weniger Nur Dunkel/Feuer/Wind/Blitz"
         },
         {
             "key": "PB_LGB_EL2_UC220",
-            "value": "Einheitenkosten von 220 oder weniger<br>Nur Licht/Eis/Erde/Wasser"
+            "value": "Einheitenkosten von 220 oder weniger Nur Licht/Eis/Erde/Wasser"
         }
     ]
 }

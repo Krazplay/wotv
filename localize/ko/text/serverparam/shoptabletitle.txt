@@ -613,6 +613,18 @@
             "value": ""
         },
         {
+            "key": "Normal-20220119_A",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_B",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_C",
+            "value": ""
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "게릴라 상점"
         },
@@ -1177,6 +1189,18 @@
             "value": ""
         },
         {
+            "key": "Guerrilla-20220119A",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119B",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119C",
+            "value": ""
+        },
+        {
             "key": "Limited-20200422_A",
             "value": "[제2탄] FFT 콜라보 기념 상점"
         },
@@ -1195,6 +1219,22 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "파이널판타지14 칠흑의 반역자 콜라보 상점"
+        },
+        {
+            "key": "Limited-gl20220330_B",
+            "value": "FINAL FANTASY VI 콜라보 제2탄 기념 상점"
+        },
+        {
+            "key": "Limited-gl20220330",
+            "value": "출시 2주년 기념 제2탄 호화 상점"
+        },
+        {
+            "key": "Limited-gl20220330_A",
+            "value": "출시 2주년 기념 제2탄 상점"
+        },
+        {
+            "key": "Limited-gl20220330_C",
+            "value": "신규 비전 카드 픽업 상점"
         },
         {
             "key": "Limited-gl20220323_D",
@@ -2855,6 +2895,14 @@
         {
             "key": "Event-Summon_GL20210728_9MDL",
             "value": "900만 다운로드 기념 메달 교환소"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FFVI_VISION",
+            "value": "FFVI 콜라보 비전 소환 메달 교환소"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FF_MARCH",
+            "value": "[3월] 비전 소환 메달 A 교환소"
         },
         {
             "key": "Event-Quest_gl20220323_FF6Login",
@@ -4831,6 +4879,10 @@
         {
             "key": "Event-Piece_GL20220323",
             "value": "영혼의 별 교환소"
+        },
+        {
+            "key": "Event-VisioncardPiece_GL20220330",
+            "value": "비전의 별 교환소"
         },
         {
             "key": "Event-VisioncardPiece_GL20220323",
@@ -8770,6 +8822,38 @@
         },
         {
             "key": "Limited-FIRE_2022_03_D",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2022_03_E",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2022_03_E",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2022_03_E",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2022_03_E",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE_2022_03_E",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2022_03_E",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2022_03_E",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2022_03_E",
             "value": "일일 변경 불속성 상점"
         }
     ]

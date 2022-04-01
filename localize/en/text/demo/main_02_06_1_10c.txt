@@ -1,0 +1,404 @@
+﻿{
+    "infos": [
+        {
+            "key": "344",
+            "value": "It has been a long time, Camillo."
+        },
+        {
+            "key": "345",
+            "value": "Gernsback..."
+        },
+        {
+            "key": "346",
+            "value": "Traitor."
+        },
+        {
+            "key": "347",
+            "value": "You abandon your mission to pursue the soldier from Ovis who sought reinforcements from<br>Hourne..."
+        },
+        {
+            "key": "348",
+            "value": "Quite the nerve you have to show your face on the battlefield once more."
+        },
+        {
+            "key": "349",
+            "value": "Oh, don't give me that."
+        },
+        {
+            "key": "350",
+            "value": "What about you lot, hm?"
+        },
+        {
+            "key": "351",
+            "value": "What about us?"
+        },
+        {
+            "key": "352",
+            "value": "Heh, acting like you don't know!"
+        },
+        {
+            "key": "353",
+            "value": "All that talk of Heindler pride, but the fact of the matter is you merely wag your tail to please your Rundall masters!"
+        },
+        {
+            "key": "354",
+            "value": "All in all, I'm actually impressed you can keep a straight face while being so self-righteous!"
+        },
+        {
+            "key": "355",
+            "value": "You will regret that!"
+        },
+        {
+            "key": "356",
+            "value": "...Is this wise, Camillo?"
+        },
+        {
+            "key": "357",
+            "value": "Huh...? What do you mean?"
+        },
+        {
+            "key": "358",
+            "value": "There is no backing down from words like that, you know?"
+        },
+        {
+            "key": "359",
+            "value": "You are probably going to lose this battle, so perhaps you should think about what that will entail."
+        },
+        {
+            "key": "360",
+            "value": "Hey, whose side are you on!?"
+        },
+        {
+            "key": "361",
+            "value": "We don't know each other. Was that not our agreement?"
+        },
+        {
+            "key": "362",
+            "value": "That was just the one time!"
+        },
+        {
+            "key": "363",
+            "value": "What's this? Discussing how to best flee from us?"
+        },
+        {
+            "key": "364",
+            "value": "No, I've changed. I'm no longer the man I was back then."
+        },
+        {
+            "key": "365",
+            "value": "...So be it."
+        },
+        {
+            "key": "366",
+            "value": "Let the might of the Six Fangs beat some clarity back into your misguided soul."
+        },
+        {
+            "key": "367",
+            "value": "You... What is your stake in all of this?"
+        },
+        {
+            "key": "368",
+            "value": "This isn't Elsirelle's fight."
+        },
+        {
+            "key": "369",
+            "value": "If you're looking to get hurt, I'll happily dish out the pain all on my own."
+        },
+        {
+            "key": "370",
+            "value": "Sadly, I hate those who pick on the weak almost as much as I hate mantises."
+        },
+        {
+            "key": "371",
+            "value": "Who are you calling weak!?"
+        },
+        {
+            "key": "372",
+            "value": "Wait, you don't like mantises?"
+        },
+        {
+            "key": "373",
+            "value": "It's their weirdly soft, smooth bellies... Ugh, just thinking about it gives me the creeps..."
+        },
+        {
+            "key": "374",
+            "value": "You will not lay a finger on Elsirelle!"
+        },
+        {
+            "key": "375",
+            "value": "Now come and get me!"
+        },
+        {
+            "key": "376",
+            "value": "...Ngh."
+        },
+        {
+            "key": "377",
+            "value": "What is it? Do your wounds hurt?"
+        },
+        {
+            "key": "378",
+            "value": "Why are you doing this?"
+        },
+        {
+            "key": "379",
+            "value": "...Doing what, exactly?"
+        },
+        {
+            "key": "380",
+            "value": "There's an annoyingly good chance we're going to lose this battle, but you've proven your skills to Rundall."
+        },
+        {
+            "key": "381",
+            "value": "......"
+        },
+        {
+            "key": "382",
+            "value": "Ah, it all makes sense now."
+        },
+        {
+            "key": "383",
+            "value": "So that is what you and Grahl have been whispering about..."
+        },
+        {
+            "key": "384",
+            "value": "I did indeed cross from the east so that I may serve under Rundall."
+        },
+        {
+            "key": "385",
+            "value": "But I had a change of heart at some point."
+        },
+        {
+            "key": "386",
+            "value": "Because you fell in love with Brother."
+        },
+        {
+            "key": "387",
+            "value": "That is right."
+        },
+        {
+            "key": "388",
+            "value": "And when Lord Adelard and I exchange our vows, you will be there whether you like it or not."
+        },
+        {
+            "key": "389",
+            "value": "I'll be there to make a mess of it."
+        },
+        {
+            "key": "390",
+            "value": "Good, then survive."
+        },
+        {
+            "key": "391",
+            "value": "Survive all this and try to stop me from marrying your brother."
+        },
+        {
+            "key": "392",
+            "value": "...You bet I will."
+        },
+        {
+            "key": "393",
+            "value": "Now, let us keep moving."
+        },
+        {
+            "key": "394",
+            "value": "O-oh, hell..."
+        },
+        {
+            "key": "395",
+            "value": "This goes no further."
+        },
+        {
+            "key": "396",
+            "value": "As always, you put on quite the performance when in the presence of a woman..."
+        },
+        {
+            "key": "397",
+            "value": "But there is nothing about you that has changed."
+        },
+        {
+            "key": "398",
+            "value": "You fled from the crucible of Heindler's training to the lukewarm embrace of Hourne and Leonis... Nothing more."
+        },
+        {
+            "key": "399",
+            "value": "You are a disgrace deserving only death."
+        },
+        {
+            "key": "400",
+            "value": "Did you just call Leonis...lukewarm?"
+        },
+        {
+            "key": "401",
+            "value": "It is but the truth."
+        },
+        {
+            "key": "402",
+            "value": "Yet there is one who faced Lord Sterne, second prince of Leonis, and defied that power which commanded the respect of even the great houses."
+        },
+        {
+            "key": "403",
+            "value": "You accomplished this deed? Then you shall make for a fine foe."
+        },
+        {
+            "key": "404",
+            "value": "No, it was you-know-who standing behind me."
+        },
+        {
+            "key": "405",
+            "value": "Camillo...?"
+        },
+        {
+            "key": "406",
+            "value": "Do not make me laugh. That is but another one of his fanciful stories."
+        },
+        {
+            "key": "407",
+            "value": "The kind which he always resorts to when trying to win the heart of an unsuspecting woman."
+        },
+        {
+            "key": "408",
+            "value": "And yet I saw the battle with my own eyes."
+        },
+        {
+            "key": "409",
+            "value": "......"
+        },
+        {
+            "key": "410",
+            "value": "Easily infatuated, prone to opening his big mouth, and always imagining the most unlikely of self-serving situations..."
+        },
+        {
+            "key": "411",
+            "value": "As such, he might in fact have the makings of a good king."
+        },
+        {
+            "key": "412",
+            "value": "Camillo...a king!?"
+        },
+        {
+            "key": "413",
+            "value": "This grows absurd. Such a kingdom would consume itself in a few days!"
+        },
+        {
+            "key": "414",
+            "value": "Spoken truly like a woman who has never known love."
+        },
+        {
+            "key": "415",
+            "value": "Excuse me...!?"
+        },
+        {
+            "key": "416",
+            "value": "Elsirelle..."
+        },
+        {
+            "key": "417",
+            "value": "......"
+        },
+        {
+            "key": "418",
+            "value": "...You could have saved yourself the trouble and stayed down."
+        },
+        {
+            "key": "419",
+            "value": "As if I could after that little speech of yours."
+        },
+        {
+            "key": "420",
+            "value": "......"
+        },
+        {
+            "key": "421",
+            "value": "...I'm sorry I dragged you into all this."
+        },
+        {
+            "key": "422",
+            "value": "Fear not, for you shall be making this up to me for quite some time once this is over."
+        },
+        {
+            "key": "423",
+            "value": "Once this is over, huh..."
+        },
+        {
+            "key": "424",
+            "value": "Alright, I'll even let you name your price."
+        },
+        {
+            "key": "425",
+            "value": "Lilyth...?"
+        },
+        {
+            "key": "426",
+            "value": "This isn't right..."
+        },
+        {
+            "key": "427",
+            "value": "Fighting under a strategy where we depend solely on King Mont like this..."
+        },
+        {
+            "key": "428",
+            "value": "You intend to disobey your orders?"
+        },
+        {
+            "key": "429",
+            "value": "How am I supposed to follow orders like these?"
+        },
+        {
+            "key": "430",
+            "value": "King Mont fights as if he is willing to sacrifice himself..."
+        },
+        {
+            "key": "431",
+            "value": "Yes, I am aware of this..."
+        },
+        {
+            "key": "432",
+            "value": "Why are you so infernally calm!?"
+        },
+        {
+            "key": "433",
+            "value": "Were you always this cold of heart!?"
+        },
+        {
+            "key": "434",
+            "value": "The stars are yet to lose their glimmer."
+        },
+        {
+            "key": "435",
+            "value": "Are you trying to say there's still hope? Despite how futile this battle grows!?"
+        },
+        {
+            "key": "436",
+            "value": "If I am not mistaken..."
+        },
+        {
+            "key": "437",
+            "value": "......!"
+        },
+        {
+            "key": "438",
+            "value": "What in all the hells are you doing here?"
+        },
+        {
+            "key": "439",
+            "value": "We have been hired by Princess Lucielle of Ovis."
+        },
+        {
+            "key": "440",
+            "value": "Wha—"
+        },
+        {
+            "key": "441",
+            "value": "Your lives will be spared for the duration of our agreement."
+        },
+        {
+            "key": "442",
+            "value": "Come, Ranell."
+        },
+        {
+            "key": "443",
+            "value": "Yes, My Lady."
+        }
+    ]
+}

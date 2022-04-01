@@ -613,6 +613,18 @@
             "value": ""
         },
         {
+            "key": "Normal-20220119_A",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_B",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_C",
+            "value": ""
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Boutique de combat"
         },
@@ -1177,6 +1189,18 @@
             "value": ""
         },
         {
+            "key": "Guerrilla-20220119A",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119B",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119C",
+            "value": ""
+        },
+        {
             "key": "Limited-20200422_A",
             "value": "Boutique de la collaboration FFT [Partie II]"
         },
@@ -1195,6 +1219,22 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "Boutique de la collaboration FFXIV : Shadowbringers"
+        },
+        {
+            "key": "Limited-gl20220330_B",
+            "value": "Boutique de la collaboration avec FFVI [Partie II]"
+        },
+        {
+            "key": "Limited-gl20220330",
+            "value": "Boutique premium du 2e anniversaire [Partie II]"
+        },
+        {
+            "key": "Limited-gl20220330_A",
+            "value": "Boutique du 2e anniversaire [Partie II]"
+        },
+        {
+            "key": "Limited-gl20220330_C",
+            "value": "Boutique des nouveaux atouts-visions du moment"
         },
         {
             "key": "Limited-gl20220323_D",
@@ -2855,6 +2895,14 @@
         {
             "key": "Event-Summon_GL20210728_9MDL",
             "value": "Boutique d'échange des médailles des 9 millions de téléchargements"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FFVI_VISION",
+            "value": "Boutique d'échange des médailles d'invocation de visions [FFVI]"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FF_MARCH",
+            "value": "Boutique d'échange des médailles d'invocation de visions A [Mars]"
         },
         {
             "key": "Event-Quest_gl20220323_FF6Login",
@@ -4831,6 +4879,10 @@
         {
             "key": "Event-Piece_GL20220323",
             "value": "Boutique d'échange des étoiles d'âme"
+        },
+        {
+            "key": "Event-VisioncardPiece_GL20220330",
+            "value": "Boutique d'échange des étoiles de vision"
         },
         {
             "key": "Event-VisioncardPiece_GL20220323",
@@ -8770,6 +8822,38 @@
         },
         {
             "key": "Limited-FIRE_2022_03_D",
+            "value": "Boutique du feu"
+        },
+        {
+            "key": "Limited-WATER_2022_03_E",
+            "value": "Boutique de l'eau"
+        },
+        {
+            "key": "Limited-WIND_2022_03_E",
+            "value": "Boutique du vent"
+        },
+        {
+            "key": "Limited-THUNDER_2022_03_E",
+            "value": "Boutique de la foudre"
+        },
+        {
+            "key": "Limited-SOIL_2022_03_E",
+            "value": "Boutique de la terre"
+        },
+        {
+            "key": "Limited-SHINE_2022_03_E",
+            "value": "Boutique de la lumière"
+        },
+        {
+            "key": "Limited-DARK_2022_03_E",
+            "value": "Boutique de l'ombre"
+        },
+        {
+            "key": "Limited-ICE_2022_03_E",
+            "value": "Boutique de la glace"
+        },
+        {
+            "key": "Limited-FIRE_2022_03_E",
             "value": "Boutique du feu"
         }
     ]

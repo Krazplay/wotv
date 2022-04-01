@@ -34,11 +34,11 @@
         },
         {
             "key": "PB_LGB_EL1_UC220",
-            "value": "兵員COST限制220<br>&暗、火、風、雷"
+            "value": "兵員COST限制220&暗、火、風、雷"
         },
         {
             "key": "PB_LGB_EL2_UC220",
-            "value": "兵員COST限制220<br>&光、冰、土、水"
+            "value": "兵員COST限制220&光、冰、土、水"
         }
     ]
 }

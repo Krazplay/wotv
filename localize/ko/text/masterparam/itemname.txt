@@ -4445,6 +4445,14 @@
             "value": "에우로페의 각성석(★3)"
         },
         {
+            "key": "IT_SB_AW_ODIN_01_R2",
+            "value": "다크 오딘의 각성석(★2)"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_01_R3",
+            "value": "다크 오딘의 각성석(★3)"
+        },
+        {
             "key": "IT_SB_SKP_RESET",
             "value": "망각초의 이슬"
         },
@@ -4527,6 +4535,10 @@
         {
             "key": "IT_AF_AW_ARMOR",
             "value": "강화의 비전서(방어구)"
+        },
+        {
+            "key": "IT_AF_AW_MURG",
+            "value": "강화의 비전서(야만족 왕의 투구)"
         },
         {
             "key": "IT_AF_AW_ACCE",
@@ -5929,6 +5941,10 @@
             "value": "[3월] 소환 메달 A"
         },
         {
+            "key": "IT_EC_SUMMON_03VC_03_A",
+            "value": "[3월] 비전 소환 메달 A"
+        },
+        {
             "key": "IT_EC_SUMMON_1st_GL1",
             "value": "출시 1주년 기념 메달"
         },
@@ -6543,6 +6559,10 @@
         {
             "key": "IT_US_SE_MTPI_SSR_01",
             "value": "신명석의 조각(MR) × 5 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_MTPI_SSR_02",
+            "value": "신명석의 조각(MR)×20 선택 소환 티켓"
         },
         {
             "key": "IT_US_SE_MTPI_I_GL01",
@@ -7681,6 +7701,10 @@
             "value": "각성 휘석×25 선택 소환 티켓"
         },
         {
+            "key": "IT_US_SE_AW-ITEM_14",
+            "value": "각성 휘석×222 선택 소환 티켓"
+        },
+        {
             "key": "IT_VPI_LW_GLEM",
             "value": " '암벽의 거인-골렘'의 조각"
         },
@@ -8309,6 +8333,14 @@
             "value": " '출시 2주년 축하 파티 2'의 조각"
         },
         {
+            "key": "IT_VPI_LW_ODIN_01",
+            "value": " '환마참검-다크 오딘'의 조각"
+        },
+        {
+            "key": "IT_VPI_FF6_MV1",
+            "value": " '징조'의 조각"
+        },
+        {
             "key": "IT_VPI_FF15_MV1",
             "value": " '별을 구하겠다는 맹세'의 조각"
         },
@@ -8829,6 +8861,34 @@
             "value": "[출시 2주년 기념] UR 유닛의 조각×40 선택 소환 티켓"
         },
         {
+            "key": "IT_US_SE_PI_GL_52",
+            "value": "[출시 2주년 기념] MR 유닛의 조각×50 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_53",
+            "value": "[초보자 한정] 유닛의 조각×100 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_54",
+            "value": "[초보자 한정] 비전 카드의 조각×100 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_55",
+            "value": "[초보자 한정] 추천 레벨 99 MR 유닛 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_56",
+            "value": "[초보자 한정] 유닛의 조각×400 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_57",
+            "value": "[초보자 한정] 비전 카드의 조각×175 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_58",
+            "value": "[초보자 한정] 추천 레벨 99 UR 유닛 소환 티켓"
+        },
+        {
             "key": "IT_US_SE_VPI_GL_16",
             "value": "[출시 1주년 기념] UR 비전 카드의 조각 × 50 선택 소환 티켓"
         },
@@ -9173,6 +9233,10 @@
             "value": "[출시 2주년 카운트다운 제4탄] 강화의 비전서×100 선택 소환 티켓"
         },
         {
+            "key": "IT_US_GL_SE_AF_AW_18",
+            "value": "강화의 비전서×300 선택 소환 티켓"
+        },
+        {
             "key": "IT_US_SE_AF_SUP_01",
             "value": "장비의 각인 × 20 선택 소환 티켓"
         },
@@ -9307,6 +9371,10 @@
         {
             "key": "IT_STAMP_2111",
             "value": "4월 인장"
+        },
+        {
+            "key": "IT_STAMP_2112",
+            "value": "5월 인장"
         },
         {
             "key": "IT_KEY_JP",
@@ -9877,6 +9945,10 @@
             "value": "속성 마음 조각×25 선택 소환 티켓"
         },
         {
+            "key": "IT_US_SE_PI_COM_11",
+            "value": "속성 마음 조각×222 선택 소환 티켓"
+        },
+        {
             "key": "IT_US_SE_AF_SUP_04",
             "value": "장비의 각인×30 선택 소환 티켓"
         },
@@ -9967,6 +10039,10 @@
         {
             "key": "IT_EC_FF6_5_B",
             "value": "FFVI 콜라보 유닛 소환 메달 B"
+        },
+        {
+            "key": "IT_EC_FF6_6",
+            "value": "FFVI 콜라보 비전 소환 메달"
         },
         {
             "key": "IT_EC_FFS_1",

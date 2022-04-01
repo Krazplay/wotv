@@ -34,11 +34,11 @@
         },
         {
             "key": "PB_LGB_EL1_UC220",
-            "value": "Coste de unidades de 220 o menos<br>Solo oscuridad, fuego, viento y rayo"
+            "value": "Coste de unidades de 220 o menos y solo oscuridad/fuego/viento/rayo"
         },
         {
             "key": "PB_LGB_EL2_UC220",
-            "value": "Coste de unidades de 220 o menos<br>Solo luz, hielo, tierra y agua"
+            "value": "Coste de unidades de 220 o menos y solo luz/hielo/tierra/agua"
         }
     ]
 }

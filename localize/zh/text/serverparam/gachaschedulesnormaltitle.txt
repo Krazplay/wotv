@@ -861,6 +861,18 @@
             "value": "稀有召喚"
         },
         {
+            "key": "Raregacha_A_gl20220330_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220330_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20220330_P",
+            "value": "稀有召喚"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "上市紀念 期間限定 普通召喚"
         },
@@ -2911,6 +2923,26 @@
         {
             "key": "gacha_FF_vc_gl20220323_P",
             "value": "FF系列幻兵卡召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_01",
+            "value": "2週年第2階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_10",
+            "value": "2週年第2階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_01",
+            "value": "FFVI聯動紀念召喚～預兆～"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_10",
+            "value": "FFVI聯動紀念召喚～預兆～　10連召喚"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_P",
+            "value": "FFVI聯動紀念召喚～預兆～"
         }
     ]
 }

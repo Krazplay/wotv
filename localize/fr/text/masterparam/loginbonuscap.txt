@@ -13,6 +13,10 @@
             "value": "Bonus de connexion des débutants"
         },
         {
+            "key": "LB_BEGINNER_004",
+            "value": "Bonus de connexion des débutants"
+        },
+        {
             "key": "LB_TOTAL_001",
             "value": "Bonus de connexion cumulatif"
         },
@@ -115,6 +119,10 @@
         {
             "key": "LB_202203",
             "value": "Bonus de connexion de mars"
+        },
+        {
+            "key": "LB_202204",
+            "value": "Bonus de connexion d'avril"
         },
         {
             "key": "LB_LIMIT_GL_0001",
@@ -635,6 +643,14 @@
         {
             "key": "LB_LIMIT_GL0122",
             "value": "Bonus de connexion du 2e anniversaire [Partie I]"
+        },
+        {
+            "key": "LB_LIMIT_GL0123",
+            "value": "Bonus de connexion du 2e anniversaire [Partie II]"
+        },
+        {
+            "key": "LB_LIMIT_GL0124",
+            "value": "Bonus de connexion de la collaboration avec FFVI [Partie II]"
         }
     ]
 }

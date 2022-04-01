@@ -5879,6 +5879,34 @@
         {
             "key": "UN_LW_P_FRVA_PACK",
             "value": "Kann gegen die [UR]-Einheit Fryevia getauscht werden! * Solltest du Fryevia bereits besitzen und den Tausch durchführen, so erhältst du 80 „Fryevia“-Einheitenfragmente. * „Fryevia“-Einheitenfragmente, welche in einem anderen Sortiment im Tauschladen für Medaillen angeboten werden, können gegen weniger Medaillen eingetauscht werden, wenn sich die Einheit Fryevia bereits in deinem Besitz befindet. Deswegen empfehlen wir zuerst die Einheit einzutauschen."
+        },
+        {
+            "key": "IT_SET_2ANNI_EXP_TICKET_GL01",
+            "value": "Ein Paket voller Wachstumseier (MR) zum Visionskartentraining sowie Ausdauerstimulanzien (L), Expeditionstickets (5 Std.), Storyüberspringtickets und Eventüberspringtickets!"
+        },
+        {
+            "key": "IT_SET_2ANNI_MTPI_AF_GL01",
+            "value": "Ein besonderes Paket voll mit Adamantiten (XL), unverzichtbar bei der Verbesserung von Ausrüstung, sowie einem „Auswählbares Vertrauensstein-Fragment [UR] x20“-Beschwörungsticket, „Auswählbares Vertrauensstein-Fragment [MR] x20“-Beschwörungstickets, einem „Auswählbarer Almanach der Veredelung x300“-Beschwörungsticket, „Auswählbarer Zwergenhammer x10“-Beschwörungstickets, Umschmiedehämmern und Adamantit (S/M/L)! "
+        },
+        {
+            "key": "IT_SET_GROW_ODIN_GL01",
+            "value": "Ein besonderes Paket, das [UR] „Phantasmatischer Scharfrichter, Dunkel-Odin“-Visionskartenfragmente, Regenbogenfarbene Visionskugeln, Wachstumseier (SR) und Gilkröten (L) enthält!"
+        },
+        {
+            "key": "IT_SET_ESP_2ANNI_GL01",
+            "value": "Ein besonderes Paket, das „Auswählbarer Elementmaginit (XL) x200“-Beschwörungstickets sowie Vertrautheits-/Resonanzschlüssel enthält! Unverzichtbar beim Espertraining!"
+        },
+        {
+            "key": "IT_SET_2ANNI_PI_AW_SP_GL01",
+            "value": "Ein besonderes Paket, das ein „Auswählbares Elementgedankenfragment x222“-Beschwörungsticket und ein „Auswählbares Erweckungsprisma x222“-Beschwörungsticket enthält!"
+        },
+        {
+            "key": "IT_SET_2ANNI_SSR_GROW_GL01",
+            "value": "Ein besonderes Paket, das ein Azurblaues Leuchtgedankenfragment, Azurblaue Visionskugeln, JP-Schlüssel, Ovoide (XL) und ERF-Würfel (XL) enthält!"
+        },
+        {
+            "key": "IT_SET_2ANNI_SR_JBEX_GL01",
+            "value": "Ein besonderes Paket, das ein „Auswählbares Elementgedankenfragment x50“-Beschwörungsticket sowie einen Gold-Expansionit und ein „Auswählbares Erweckungsprisma x50“-Beschwörungsticket als Bonus enthält! Perfekt, um deine Einheiten zu verbessern!"
         }
     ]
 }

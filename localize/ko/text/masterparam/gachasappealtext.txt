@@ -403,6 +403,10 @@
         {
             "key": "101",
             "value": "<space=7>FINAL FANTASY VI<br>콜라보 기념 소환"
+        },
+        {
+            "key": "102",
+            "value": "<space=7>FINAL FANTASY VI<br>콜라보 기념 소환~징조~"
         }
     ]
 }

@@ -3814,11 +3814,11 @@
         },
         {
             "key": "SK_LW_EC_DEAN_C_02",
-            "value": " '나이트 후드'를 '파라곤 오브 나이트 후드'로 강화+방어력/베기 공격력/찌르기 저항력 증가"
+            "value": " '나이트 후드'를 '파라곤 오브 나이트 후드'로 강화+방어력/베기 저항력/찌르기 저항력 증가"
         },
         {
             "key": "SK_LW_EC_DEAN_C_02B",
-            "value": "방어력/베기 공격력/찌르기 저항력 증가"
+            "value": "방어력/베기 저항력/찌르기 저항력 증가"
         },
         {
             "key": "SK_LW_ARC_ATK",
@@ -7905,6 +7905,30 @@
             "value": "마법 피해를 받으면 고확률로 자신을 중심으로 범위 내 유닛에게 마법 피해"
         },
         {
+            "key": "SK_ODIN_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_01_M_01",
+            "value": "5턴 동안 자신에게 필중 부여"
+        },
+        {
+            "key": "SK_ODIN_01_M_02",
+            "value": "지정한 범위 내 적에게 무속성 물리 피해(중)"
+        },
+        {
+            "key": "SK_ODIN_01_M_03",
+            "value": "지정한 범위 내 적에게 무속성 물리 피해(중)+일정 확률로 즉사(전투불능) 효과"
+        },
+        {
+            "key": "SK_ODIN_01_M_04",
+            "value": "자신의 마력 증가+다음 턴에 '다크 에인헤랴르' 사용"
+        },
+        {
+            "key": "SK_ODIN_01_M_05",
+            "value": "자신을 중심으로 지정한 범위 내 적에게 무속성 마법 피해(대)+3턴 동안 맹독 효과"
+        },
+        {
             "key": "SK_IGNT_ATK",
             "value": ""
         },
@@ -9961,6 +9985,10 @@
             "value": " '에우로페'를 소환하여 피해 보호막 모두 파괴+범위 내 대상에게 번개속성 피해(특대)+일정 시간 동안 맵 효과 발동(아군의 공격력/마력 증가+번개속성 유닛에게 효과 증가+적의 번개속성 저항력 대폭 감소)"
         },
         {
+            "key": "SK_SMN_ODIN_01",
+            "value": " '다크 오딘'을 소환하여 범위 내 대상에게 무속성 피해(대)+일정 확률로 독(3턴 동안 서서히 HP 감소) 효과+일정 시간 동안 맵 효과 발동(아군의 공격력/마력 증가)"
+        },
+        {
             "key": "SK_UN_BD_EC_HP_200",
             "value": ""
         },
@@ -10446,11 +10474,11 @@
         },
         {
             "key": "SK_LW_EC_MNK_C_04",
-            "value": " 'HP 증가 Lv.1'을 '질실강건'으로 강화+최대 HP/베기 공격력/찌르기 저항력 증가"
+            "value": " 'HP 증가 Lv.1'을 '질실강건'으로 강화+최대 HP/베기 저항력/찌르기 저항력 증가"
         },
         {
             "key": "SK_LW_EC_MNK_C_04B",
-            "value": "최대 HP/베기 공격력/찌르기 저항력 증가"
+            "value": "최대 HP/베기 저항력/찌르기 저항력 증가"
         },
         {
             "key": "SK_LW_EC_WAR_A_01",
@@ -11813,6 +11841,10 @@
             "value": "마력+30%"
         },
         {
+            "key": "SK_MA_LW_MDNA_2",
+            "value": "얼음속성 아군 유닛의 최대 HP+10%/얼음속성 어빌리티 공격력+15, 자신의 마력+40%/마법 저항력+20/'코스모 플룸'의 사정거리/사정거리 고저 차이 1 증가"
+        },
+        {
             "key": "SK_MA_LW_AYKA",
             "value": "최대 HP+10%, 스톱 저항력+20"
         },
@@ -11851,6 +11883,10 @@
         {
             "key": "SK_MA_LW_OOOO",
             "value": "공격력+20%, 회피율+15"
+        },
+        {
+            "key": "SK_MA_LW_OOOO_2",
+            "value": "번개속성 아군 유닛의 최대 HP+10%/마비 저항력+25, 자신의 공격력+20%/회피율+25/방어 관통률+20"
         },
         {
             "key": "SK_MA_LW_LRNZ",
@@ -11903,6 +11939,10 @@
         {
             "key": "SK_MA_LW_BYLO",
             "value": "민첩성+10%, 행운+30%"
+        },
+        {
+            "key": "SK_MA_LW_BYLO_2",
+            "value": "민첩성+10%/행운+30%/방어력+10/정신력+10"
         },
         {
             "key": "SK_MA_LW_RYER",
@@ -11963,6 +12003,10 @@
         {
             "key": "SK_MA_LW_ZZAN",
             "value": "솜씨+15%, 이동력 1 증가, 점프 2 증가"
+        },
+        {
+            "key": "SK_MA_LW_ZZAN_2",
+            "value": "솜씨+15%/이동력 1 증가/점프 2 증가/인간 킬러+20"
         },
         {
             "key": "SK_MA_LW_FDRC",
@@ -17193,6 +17237,138 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ODIN_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS_AW_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GSMAX_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2_AW_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2MAX_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P2AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P2MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_ODIN_01_P3",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_ODIN_01_P3AW",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_ODIN_01_P3MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS_AW_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GSMAX_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_FF6_MV1_P2",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_FF6_MV1_P2AW",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_FF6_MV1_P2MAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_TITN_P",
             "value": ""
         },
@@ -22363,6 +22539,26 @@
         {
             "key": "SK_LW_SPE_018_5",
             "value": "카밀로 전용 패시브"
+        },
+        {
+            "key": "SK_LW_HLM_009_1",
+            "value": "무라가 전용 패시브"
+        },
+        {
+            "key": "SK_LW_HLM_009_2",
+            "value": "무라가 전용 패시브"
+        },
+        {
+            "key": "SK_LW_HLM_009_3",
+            "value": "무라가 전용 패시브"
+        },
+        {
+            "key": "SK_LW_HLM_009_4",
+            "value": "무라가 전용 패시브"
+        },
+        {
+            "key": "SK_LW_HLM_009_5",
+            "value": "무라가 전용 패시브"
         },
         {
             "key": "SK_SCOC_ATK",

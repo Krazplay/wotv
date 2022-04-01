@@ -407,6 +407,10 @@
         {
             "key": "102",
             "value": "<cspace=1>FINAL FANTASY VI<cspace=-0.5><br>콜라보 기념 상점"
+        },
+        {
+            "key": "103",
+            "value": "<cspace=1>FINAL FANTASY VI<cspace=-0.5><br>콜라보 제2탄<br>기념 상점"
         }
     ]
 }

@@ -1,0 +1,52 @@
+﻿{
+    "infos": [
+        {
+            "key": "444",
+            "value": "Ce doit être ce château…"
+        },
+        {
+            "key": "445",
+            "value": "On dirait, oui."
+        },
+        {
+            "key": "446",
+            "value": "Qui va là ?"
+        },
+        {
+            "key": "447",
+            "value": "Vous approchez du château de Hourne. Vous n'avez rien à y faire."
+        },
+        {
+            "key": "448",
+            "value": "Vous ne sentez pas le mal qui s'en dégage ?"
+        },
+        {
+            "key": "449",
+            "value": "Ils y semblent insensibles. À moins que ce soit la volonté de quelqu'un à l'intérieur…"
+        },
+        {
+            "key": "450",
+            "value": "Qu'est-ce que vous marmonnez ?"
+        },
+        {
+            "key": "451",
+            "value": "Partez sur-le-champ, sinon…"
+        },
+        {
+            "key": "452",
+            "value": "Il faut répondre à l'amour par l'amour, mais aussi à l'acier par l'acier."
+        },
+        {
+            "key": "453",
+            "value": "Que la lumière des Cristaux nous guide."
+        },
+        {
+            "key": "454",
+            "value": "Bien, n'attendons plus."
+        },
+        {
+            "key": "455",
+            "value": "Bannissons les ténèbres de ce lieu."
+        }
+    ]
+}

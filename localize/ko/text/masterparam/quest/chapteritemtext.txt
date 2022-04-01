@@ -81,6 +81,10 @@
             "value": "<cspace=2>제5장</cspace>"
         },
         {
+            "key": "CH_ST_0206",
+            "value": "<cspace=2>제6장</cspace>"
+        },
+        {
             "key": "CH_WD_0101",
             "value": ""
         },

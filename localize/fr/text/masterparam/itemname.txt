@@ -4445,6 +4445,14 @@
             "value": "Pierre d'éveil d'Europa (3★)"
         },
         {
+            "key": "IT_SB_AW_ODIN_01_R2",
+            "value": "Pierre d'éveil d'Odin obscur (2★)"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_01_R3",
+            "value": "Pierre d'éveil d'Odin obscur (3★)"
+        },
+        {
             "key": "IT_SB_SKP_RESET",
             "value": "Rosée de l'oubli"
         },
@@ -4527,6 +4535,10 @@
         {
             "key": "IT_AF_AW_ARMOR",
             "value": "Livre secret de l'amélioration (Armure)"
+        },
+        {
+            "key": "IT_AF_AW_MURG",
+            "value": "Livre secret de l'amélioration (Casque du roi des sauvages)"
         },
         {
             "key": "IT_AF_AW_ACCE",
@@ -5929,6 +5941,10 @@
             "value": "Médaille d'invocation A [Mars]"
         },
         {
+            "key": "IT_EC_SUMMON_03VC_03_A",
+            "value": "Médaille d'invocation de vision A [Mars]"
+        },
+        {
             "key": "IT_EC_SUMMON_1st_GL1",
             "value": "Médaille du 1er anniversaire"
         },
@@ -6543,6 +6559,10 @@
         {
             "key": "IT_US_SE_MTPI_SSR_01",
             "value": "Ticket sélectionneur de 5 fragments de tablette sacrée (MR)"
+        },
+        {
+            "key": "IT_US_SE_MTPI_SSR_02",
+            "value": "Ticket sélectionneur de 20 fragments de tablette sacrée (MR)"
         },
         {
             "key": "IT_US_SE_MTPI_I_GL01",
@@ -7681,6 +7701,10 @@
             "value": "Ticket sélectionneur de 25 prismes d'éveil"
         },
         {
+            "key": "IT_US_SE_AW-ITEM_14",
+            "value": "Ticket sélectionneur de 222 prismes d'éveil"
+        },
+        {
             "key": "IT_VPI_LW_GLEM",
             "value": "Fragment de l'atout-vision : Golem, le Géant rocheux"
         },
@@ -8309,6 +8333,14 @@
             "value": "Fragment de l'atout-vision : Banquet du 2e anniversaire - Partie II"
         },
         {
+            "key": "IT_VPI_LW_ODIN_01",
+            "value": "Fragment de l'atout-vision : Odin obscur, la Lame spectrale"
+        },
+        {
+            "key": "IT_VPI_FF6_MV1",
+            "value": "Fragment de l'atout-vision : Présage"
+        },
+        {
             "key": "IT_VPI_FF15_MV1",
             "value": "Fragment de l'atout-vision : Serment de secours"
         },
@@ -8829,6 +8861,34 @@
             "value": "[2e anniversaire] Ticket sélectionneur de 40 fragments d'unité UR"
         },
         {
+            "key": "IT_US_SE_PI_GL_52",
+            "value": "[2e anniversaire] Ticket sélectionneur de 50 fragments d'unité MR"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_53",
+            "value": "[Seulement pour les débutants] Ticket sélectionneur de 100 fragments d'unité"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_54",
+            "value": "[Seulement pour les débutants] Ticket sélectionneur de 100 fragments d'atout-vision"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_55",
+            "value": "[Seulement pour les débutants] Ticket d'invocation d'unité MR de niv. 99 recommandée"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_56",
+            "value": "[Seulement pour les débutants] Ticket sélectionneur de 400 fragments d'unité"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_57",
+            "value": "[Seulement pour les débutants] Ticket sélectionneur de 175 fragments d'atout-vision"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_58",
+            "value": "[Seulement pour les débutants] Ticket d'invocation d'unité UR de niv. 99 recommandée"
+        },
+        {
             "key": "IT_US_SE_VPI_GL_16",
             "value": "[1er anniversaire] Ticket sélectionneur de 50 fragments d'atout-vision UR"
         },
@@ -9173,6 +9233,10 @@
             "value": "[Compte à rebours du 2e anniversaire - Partie IV] Ticket sélectionneur de 100 livres secrets de l'amélioration"
         },
         {
+            "key": "IT_US_GL_SE_AF_AW_18",
+            "value": "Ticket sélectionneur de 300 livres secrets de l'amélioration"
+        },
+        {
             "key": "IT_US_SE_AF_SUP_01",
             "value": "Ticket sélectionneur de 20 sceaux d'équipement"
         },
@@ -9307,6 +9371,10 @@
         {
             "key": "IT_STAMP_2111",
             "value": "Insigne d'avril"
+        },
+        {
+            "key": "IT_STAMP_2112",
+            "value": "Insigne de mai"
         },
         {
             "key": "IT_KEY_JP",
@@ -9877,6 +9945,10 @@
             "value": "Ticket sélectionneur de 25 fragments de pensée élémentaires"
         },
         {
+            "key": "IT_US_SE_PI_COM_11",
+            "value": "Ticket sélectionneur de 222 fragments de pensée élémentaires"
+        },
+        {
             "key": "IT_US_SE_AF_SUP_04",
             "value": "Ticket sélectionneur de 30 sceaux d'équipement"
         },
@@ -9967,6 +10039,10 @@
         {
             "key": "IT_EC_FF6_5_B",
             "value": "Médaille d'invocation d'unité B [FFVI]"
+        },
+        {
+            "key": "IT_EC_FF6_6",
+            "value": "Médaille d'invocation de vision [FFVI]"
         },
         {
             "key": "IT_EC_FFS_1",

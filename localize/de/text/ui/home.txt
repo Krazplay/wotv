@@ -11686,7 +11686,7 @@
         },
         {
             "key": "MATERIA_INTEGRA_BTN_CAUTION",
-            "value": "Du hast nicht genug Materialien."
+            "value": "Nicht genug Gil oder Materialien"
         },
         {
             "key": "MATERIA_INTEGRA_EFF_DESC",

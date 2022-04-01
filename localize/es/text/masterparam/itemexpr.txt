@@ -4445,6 +4445,14 @@
             "value": "Objeto necesario para despertar a Europa a 3★"
         },
         {
+            "key": "IT_SB_AW_ODIN_01_R2",
+            "value": "Objeto necesario para despertar a Odín oscuro a 2★"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_01_R3",
+            "value": "Objeto necesario para despertar a Odín oscuro a 3★"
+        },
+        {
             "key": "IT_SB_SKP_RESET",
             "value": "Objeto necesario para restablecer la tabla de entrenamiento de esper"
         },
@@ -4527,6 +4535,10 @@
         {
             "key": "IT_AF_AW_ARMOR",
             "value": "Material de despertar de armaduras"
+        },
+        {
+            "key": "IT_AF_AW_MURG",
+            "value": "Material de despertar del yelmo del Rey de los Salvajes"
         },
         {
             "key": "IT_AF_AW_ACCE",
@@ -5929,6 +5941,10 @@
             "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 5/4/2022 23:59, hora mundial PST)"
         },
         {
+            "key": "IT_EC_SUMMON_03VC_03_A",
+            "value": "Una medalla que puede adquirirse a través de la invocación (x10) de 5 pasos de «Odín oscuro, la Espada Fantasmal» destacada del 2.º aniversario, parte II (Finaliza el 19/4/2022 21:59, hora mundial PST)"
+        },
+        {
             "key": "IT_EC_SUMMON_1st_GL1",
             "value": "Medalla que puede canjearse por fragmentos de unidades y cartas de visión publicadas hasta el 14/4/2021, hora mundial (PST). *No incluye fragmentos de unidades o cartas de visión limitadas o de colaboración, excepto Tidus, Yuna, Auron, «Suteki da ne», «Un lugar desconocido», «Exorcistas» y «Festín de invierno». *Los fragmentos de unidades y cartas de visión que se vayan a introducir en el juego durante el periodo de intercambio no aparecerán en la tienda hasta que se publiquen."
         },
@@ -6543,6 +6559,10 @@
         {
             "key": "IT_US_SE_MTPI_SSR_01",
             "value": "Tícket que permite al usuario elegir entre 5 fragmentos de fidelicita MR de un tipo (ideales, justicia, prosperidad, aspiraciones, triunfo, gloria)."
+        },
+        {
+            "key": "IT_US_SE_MTPI_SSR_02",
+            "value": "Tícket que permite al usuario elegir entre 20 fragmentos de fidelicita MR de un tipo (ideales, justicia, prosperidad, aspiraciones, triunfo, gloria)."
         },
         {
             "key": "IT_US_SE_MTPI_I_GL01",
@@ -7681,6 +7701,10 @@
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 25 prismas del despertar"
         },
         {
+            "key": "IT_US_SE_AW-ITEM_14",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 222 prismas del despertar"
+        },
+        {
             "key": "IT_VPI_LW_GLEM",
             "value": "Objeto necesario para despertar una carta de visión"
         },
@@ -8309,6 +8333,14 @@
             "value": "Objeto necesario para despertar una carta de visión"
         },
         {
+            "key": "IT_VPI_LW_ODIN_01",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FF6_MV1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
             "key": "IT_VPI_FF15_MV1",
             "value": "Objeto necesario para despertar una carta de visión"
         },
@@ -8829,6 +8861,34 @@
             "value": "Un tícket seleccionador de 40 fragmentos de unidad UR para aquellas unidades publicadas hasta el 17/11/2021, hora mundial (PST). *No puede usarse con unidades limitadas o de colaboración."
         },
         {
+            "key": "IT_US_SE_PI_GL_52",
+            "value": "Un tícket seleccionador de 50 fragmentos de unidad MR para aquellas unidades publicadas hasta el 3/2/2021, hora mundial (PST). *No puede usarse con unidades limitadas o de colaboración."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_53",
+            "value": "Un tícket seleccionador de 100 fragmentos de unidad R-UR para aquellas unidades publicadas hasta el 17/11/2021, hora mundial (PST). *No puede usarse con unidades de coste 100, limitadas o de colaboración."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_54",
+            "value": "Tícket seleccionador de 100 fragmentos de carta de visión R-UR para aquellas publicadas hasta el 16/3/2022. *El tícket no podrá usarse con cartas de visión de coste 90, limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_55",
+            "value": "Tícket que permite al usuario invocar una de las siguientes unidades MR mejoradas por completo a nv. 99: Fina, Adelardo, Chel, Livialle, Darío Hourne, Saria, Taitas o Ramada."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_56",
+            "value": "Un tícket seleccionador de 400 fragmentos de unidad R-UR para aquellas unidades publicadas hasta el 17/11/2021, hora mundial (PST). *No puede usarse con unidades de coste 100, limitadas o de colaboración."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_57",
+            "value": "Tícket seleccionador de 175 fragmentos de carta de visión R-UR para aquellas publicadas hasta el 16/3/2022. *El tícket no podrá usarse con cartas de visión de coste 90, limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_SE_PI_GL_58",
+            "value": "Tícket que permite al usuario invocar una de las siguientes unidades UR mejoradas por completo a nv. 99: Yiza, Moore, Velric, Varush, Luarta, Oldoa, Graciela Wezette o Corwell."
+        },
+        {
             "key": "IT_US_SE_VPI_GL_16",
             "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 10/2/2021, hora mundial (PST). *El tícket no podrá usarse con cartas de visión limitadas o de colaboración."
         },
@@ -9173,6 +9233,10 @@
             "value": "Tícket que sirve para invocar 100 libros secretos de mejora de un tipo (espada, espadón, puños, katana, lanza, daga, hoja ninja, arco, pistola, bastón, maza, hacha, armadura, accesorio, guantes, libro) publicados hasta el 1/12/2021, hora mundial (PST)"
         },
         {
+            "key": "IT_US_GL_SE_AF_AW_18",
+            "value": "Tícket que sirve para invocar 300 libros secretos de mejora de un tipo (espada, espadón, puños, katana, lanza, daga, hoja ninja, arco, pistola, bastón, maza, hacha, armadura, accesorio, guantes, libro) publicados hasta el 1/12/2021, hora mundial (PST)"
+        },
+        {
             "key": "IT_US_SE_AF_SUP_01",
             "value": "Tícket que permite al usuario elegir entre 20 sellos de equipo de un tipo (vida, ataque, magia, espíritu, defensa, evasión, habilidad, daño)."
         },
@@ -9307,6 +9371,10 @@
         {
             "key": "IT_STAMP_2111",
             "value": "Objeto necesario para el intercambio de beneficios de abril"
+        },
+        {
+            "key": "IT_STAMP_2112",
+            "value": "Objeto necesario para el intercambio de beneficios de mayo"
         },
         {
             "key": "IT_KEY_JP",
@@ -9877,6 +9945,10 @@
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 25 fragmentos de la memoria necesarios para despertar unidades"
         },
         {
+            "key": "IT_US_SE_PI_COM_11",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 222 fragmentos de la memoria necesarios para despertar unidades"
+        },
+        {
             "key": "IT_US_SE_AF_SUP_04",
             "value": "Tícket que permite al usuario elegir entre 30 sellos de equipo de un tipo (vida, ataque, magia, espíritu, defensa, evasión, habilidad, daño)."
         },
@@ -9969,6 +10041,10 @@
             "value": "Una medalla que puede adquirirse a través de invocaciones específicas (Finaliza el 10/5/2022 23:59, hora mundial PST)"
         },
         {
+            "key": "IT_EC_FF6_6",
+            "value": "Una medalla que puede adquirirse a través de la invocación de colaboración de FINAL FANTASY VI (Presagio) y la invocación (x10) de 5 pasos de «Presagio» garantizada de colaboración de FINAL FANTASY VI (Finaliza el 10/5/2022 23:59, hora mundial PST)"
+        },
+        {
             "key": "IT_EC_FFS_1",
             "value": "Una medalla que puede adquirirse a través de invocaciones específicas (Finaliza el 3/5/2022 23:59, hora mundial PST)"
         },
@@ -10006,7 +10082,7 @@
         },
         {
             "key": "IT_US_SE_PI_66",
-            "value": "Un tícket seleccionador de 500 fragmentos de unidad MR o inferior que puede usarse con una de las siguientes unidades de hielo: Chel, Kuri Wezette, Serjes o Valaido.  "
+            "value": "Un tícket seleccionador de 500 fragmentos de unidad MR o inferior que puede usarse con una de las siguientes unidades de hielo: Chel, Nasha, Kuri Wezette, Serjes o Valaido.  "
         },
         {
             "key": "IT_US_SE_PI_67",

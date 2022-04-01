@@ -285,6 +285,14 @@
             "value": "La leyenda de Ardra cumple dos años. Infinidad de héroes atraviesan el tiempo y el espacio para celebrarlo. Aunque entre los invitados hay enemigos jurados que han luchado en guerras sin cuartel, hoy hablan, brindan y disfrutan comiendo juntos.<br>Gracias al ambiente distendido del lugar, estos guerreros consiguen relajar la expresión imponente que suelen tener. Incluso el poderoso Zazán parece estar satisfecho con el gran festín que le aguarda."
         },
         {
+            "key": "VC_LW_ODIN_01",
+            "value": "　Un esper enigmático que asolaba otro mundo. Aunque su apariencia se asemeja a la de Odín, se rumorea que un tipo diferente de poder fluye por esta entidad.<br>Dicen que un invocador al que todos llamaban «Señor Oscuro» le otorgó sus poderes terroríficos al esper cuando su vida llegó a su fin, pero no se sabe con exactitud la verdad.<br>Lo único seguro es la maldad inconmensurable y el odio que alberga hacia la humanidad."
+        },
+        {
+            "key": "VC_FF6_MV1",
+            "value": "La antigua Guerra de los Magi…<br>Cuando se extinguió la última de sus llamas dejó tras de sí un mundo en el que ni la magia pudo salvarse…<br>En el siguiente milenio, el hierro, la pólvora y las máquinas de vapor sustituyeron la magia, y la vida retornó a la tierra devastada...<br>Ahora, alguien quiere despertar la magia de tiempos remotos y utilizar su temible poder para dominar el mundo...<br>¿De verdad... puede existir alguien tan necio como para repetir los errores del pasado?"
+        },
+        {
             "key": "VC_FF15_MV1",
             "value": "　Dicen que «el Entronado» salvará el mundo de Eos cuando la calamidad caiga sobre él. A los cinco años, el príncipe de Lucis fue elegido por la Santálita para asumir ese papel.<br>Para ayudar al Entronado, también existe un Oráculo que purificará al mundo y traerá la estabilidad. Ese Oráculo es Lunafreya, una joven de Tenebrae y la prometida de Noctis.<br>Aunque Lunafreya y Noctis solo hablaron cuando eran niños, nunca olvidaron el juramento que se hicieron de cumplir su destino."
         },

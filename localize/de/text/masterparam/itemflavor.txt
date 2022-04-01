@@ -4445,6 +4445,14 @@
             "value": "Ein spezieller Erweckungsstein, der die Bande zu Europa weiter stärkt und zur fortschreitenden Erweckung der Esper benötigt wird. Verwendet man den Stein, kommt es zu einer Lichtexplosion, die zu grell ist, um sie direkt ansehen zu können. Sobald der Effekt abklingt, ist die Erweckung der Esper vollzogen und der Stein zu Staub zerfallen."
         },
         {
+            "key": "IT_SB_AW_ODIN_01_R2",
+            "value": "Eine besondere Art von Erweckungsstein, mit dem die Esper Dunkel-Odin erweckt werden kann. Die Ursache des Lichtscheins, der bei seiner Benutzung entsteht, ist noch unbekannt, aber er scheint die Esper für einen Moment untauglich zu machen."
+        },
+        {
+            "key": "IT_SB_AW_ODIN_01_R3",
+            "value": "Ein spezieller Erweckungsstein, der die Bande zu Dunkel-Odin weiter stärkt und zur fortschreitenden Erweckung der Esper benötigt wird. Verwendet man den Stein, kommt es zu einer Lichtexplosion, die zu grell ist, um sie direkt ansehen zu können. Sobald der Effekt abklingt, ist die Erweckung der Esper vollzogen und der Stein zu Staub zerfallen."
+        },
+        {
             "key": "IT_SB_SKP_RESET",
             "value": "Tau, der aus seltenem Wildgras gewonnen wurde, das nur an gefährlichen Orten wie klaffenden Schluchten im höchsten Gebirge wächst. Direkte Einnahme von Menschen zeigt keine Wirkung, wird er aber einer Esper verabreicht, verliert diese alle Erinnerungen an ihre Kräfte. Die Quelle ihrer Kräfte verbleibt jedoch, weshalb eine Esper sich neue Kräfte aneignen kann, sofern sie dies wünscht."
         },
@@ -4527,6 +4535,10 @@
         {
             "key": "IT_AF_AW_ARMOR",
             "value": "Die Qualität eines Ausrüstungsgegenstandes ist in großem Maße abhängig von den Fähigkeiten des Schmiedes, der ihn anfertigt. Bücher, die das gesammelte Wissen von Meisterschmieden enthalten, existieren in großer Zahl, doch viele von ihnen wurden mit einem Zauber belegt, der lediglich ein einmaliges Lesen des Inhalts zulässt. Diese Maßnahme wurde ergriffen, um eine inflationäre Ausbreitung des Wissens zu verhindern. Der vorliegende Band beschreibt Methoden zur Veredelung von Rüstungen."
+        },
+        {
+            "key": "IT_AF_AW_MURG",
+            "value": "Ein Buch, in dem Techniken beschrieben werden, die in anderen Almanachen der Veredelung nicht zu finden sind und die benötigt werden, um das maximale Potenzial einzigartiger Ausrüstungsgegenstände auszuschöpfen. Wie bei dieser Art von Buch geläufig, wurde ein Trick angewandt, um sicherzustellen, dass es nur einmal gelesen werden kann. Man sollte also bedacht darauf sein, es nur zu öffnen, wenn man bereit ist, das darin enthaltene Wissen auch anzuwenden, und nicht gedankenlos darin rumblättern."
         },
         {
             "key": "IT_AF_AW_ACCE",
@@ -5929,6 +5941,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_03VC_03_A",
+            "value": ""
+        },
+        {
             "key": "IT_EC_SUMMON_1st_GL1",
             "value": ""
         },
@@ -6542,6 +6558,10 @@
         },
         {
             "key": "IT_US_SE_MTPI_SSR_01",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_SE_MTPI_SSR_02",
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
         },
         {
@@ -7681,6 +7701,10 @@
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
         },
         {
+            "key": "IT_US_SE_AW-ITEM_14",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
             "key": "IT_VPI_LW_GLEM",
             "value": ""
         },
@@ -8309,6 +8333,14 @@
             "value": ""
         },
         {
+            "key": "IT_VPI_LW_ODIN_01",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_FF6_MV1",
+            "value": ""
+        },
+        {
             "key": "IT_VPI_FF15_MV1",
             "value": ""
         },
@@ -8829,6 +8861,34 @@
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
         },
         {
+            "key": "IT_US_SE_PI_GL_52",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_53",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_54",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_55",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_56",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_57",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_SE_PI_GL_58",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
             "key": "IT_US_SE_VPI_GL_16",
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
         },
@@ -9173,6 +9233,10 @@
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
         },
         {
+            "key": "IT_US_GL_SE_AF_AW_18",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
             "key": "IT_US_SE_AF_SUP_01",
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
         },
@@ -9306,6 +9370,10 @@
         },
         {
             "key": "IT_STAMP_2111",
+            "value": ""
+        },
+        {
+            "key": "IT_STAMP_2112",
             "value": ""
         },
         {
@@ -9877,6 +9945,10 @@
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
         },
         {
+            "key": "IT_US_SE_PI_COM_11",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
             "key": "IT_US_SE_AF_SUP_04",
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
         },
@@ -9966,6 +10038,10 @@
         },
         {
             "key": "IT_EC_FF6_5_B",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FF6_6",
             "value": ""
         },
         {

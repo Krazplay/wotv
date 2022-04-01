@@ -2837,6 +2837,46 @@
             "value": "Detalles de misión<br>Recomendado: nv. 94, nv. de profesión 14"
         },
         {
+            "key": "QE_ST_02060101",
+            "value": "Detalles de misión<br>Recomendado: nv. 82, nv. de profesión 13"
+        },
+        {
+            "key": "QE_ST_02060102",
+            "value": "Detalles de misión<br>Recomendado: nv. 83, nv. de profesión 13"
+        },
+        {
+            "key": "QE_ST_02060103",
+            "value": "Detalles de misión<br>Recomendado: nv. 83, nv. de profesión 13"
+        },
+        {
+            "key": "QE_ST_02060104",
+            "value": "Detalles de misión<br>Recomendado: nv. 84, nv. de profesión 13"
+        },
+        {
+            "key": "QE_ST_02060105",
+            "value": "Detalles de misión<br>Recomendado: nv. 85, nv. de profesión 13"
+        },
+        {
+            "key": "QE_ST_02060106",
+            "value": "Detalles de misión<br>Recomendado: nv. 85, nv. de profesión 13"
+        },
+        {
+            "key": "QE_ST_02060107",
+            "value": "Detalles de misión<br>Recomendado: nv. 86, nv. de profesión 13"
+        },
+        {
+            "key": "QE_ST_02060108",
+            "value": "Detalles de misión<br>Recomendado: nv. 87, nv. de profesión 13"
+        },
+        {
+            "key": "QE_ST_02060109",
+            "value": "Detalles de misión<br>Recomendado: nv. 87, nv. de profesión 13"
+        },
+        {
+            "key": "QE_ST_02060110",
+            "value": "Detalles de misión<br>Recomendado: nv. 92, nv. de profesión 14"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Detalles de misión<br>Recomendado: nv. 17, nv. de profesión 3<br>Condiciones para desbloquear: Consigue a [Zazán]"
         },
@@ -3221,6 +3261,10 @@
             "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Zazán] de nv. 40 o superior"
         },
         {
+            "key": "QE_CH_LW_ZZAN2",
+            "value": "Detalles de misión<br>Recomendado: nv. 80, nv. de profesión 12<br>Condiciones para desbloquear: [Zazán] de nv. 80 o superior<br>[Misión de personaje: Zazán] completada"
+        },
+        {
             "key": "QE_CH_LW_RART",
             "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Learte] de nv. 40 o superior"
         },
@@ -3239,6 +3283,10 @@
         {
             "key": "QE_CH_LW_BYLO",
             "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Beilo] de nv. 40 o superior"
+        },
+        {
+            "key": "QE_CH_LW_BYLO2",
+            "value": "Detalles de misión<br>Recomendado: nv. 80, nv. de profesión 12<br>Condiciones para desbloquear: [Beilo] de nv. 80 o superior<br>[Misión de personaje: Beilo] completada"
         },
         {
             "key": "QE_CH_LW_RYER",
@@ -3303,6 +3351,10 @@
         {
             "key": "QE_CH_LW_OOOO",
             "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Owe] de nv. 40 o superior"
+        },
+        {
+            "key": "QE_CH_LW_OOOO2",
+            "value": "Detalles de misión<br>Recomendado: nv. 80, nv. de profesión 12<br>Condiciones para desbloquear: [Owe] de nv. 80 o superior<br>[Misión de personaje: Owe] completada"
         },
         {
             "key": "QE_CH_LW_LRNZ",
@@ -3407,6 +3459,10 @@
         {
             "key": "QE_CH_LW_MDNA",
             "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Mediena] de nv. 40 o superior"
+        },
+        {
+            "key": "QE_CH_LW_MDNA2",
+            "value": "Detalles de misión<br>Recomendado: nv. 80, nv. de profesión 12<br>Condiciones para desbloquear: [Mediena] de nv. 80 o superior<br>[Misión de personaje: Mediena] completada"
         },
         {
             "key": "QE_CH_LW_AYKA",
@@ -5113,6 +5169,30 @@
             "value": "Detalles de misión<br>Nada"
         },
         {
+            "key": "QE_MU_AEX_113_1",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_MU_AEX_113_2",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_MU_AEX_112_1",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_MU_AEX_112_2",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_MU_AEX_111_1",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_MU_AEX_111_2",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
             "key": "QE_MU_EV_10_EX",
             "value": "Detalles de misión<br>Nada"
         },
@@ -5150,30 +5230,6 @@
         },
         {
             "key": "QE_MU_EV_ET_EX4",
-            "value": "Detalles de misión<br>Nada"
-        },
-        {
-            "key": "QE_MU_AEX_113_1",
-            "value": "Detalles de misión<br>Nada"
-        },
-        {
-            "key": "QE_MU_AEX_113_2",
-            "value": "Detalles de misión<br>Nada"
-        },
-        {
-            "key": "QE_MU_AEX_112_1",
-            "value": "Detalles de misión<br>Nada"
-        },
-        {
-            "key": "QE_MU_AEX_112_2",
-            "value": "Detalles de misión<br>Nada"
-        },
-        {
-            "key": "QE_MU_AEX_111_1",
-            "value": "Detalles de misión<br>Nada"
-        },
-        {
-            "key": "QE_MU_AEX_111_2",
             "value": "Detalles de misión<br>Nada"
         },
         {
@@ -7329,6 +7385,18 @@
             "value": "Detalles de misión<br>Nada"
         },
         {
+            "key": "QE_BR_SOIL_11",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_BR_SOIL_12",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_BR_SOIL_13",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
             "key": "QE_BR_WIND_01",
             "value": "Detalles de misión<br>Nada"
         },
@@ -7751,6 +7819,14 @@
         {
             "key": "QE_SB_EURP_02",
             "value": "Detalles de misión<br>Pista: Intenta usar freno a tu favor."
+        },
+        {
+            "key": "QE_SB_ODIN_01_01",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_SB_ODIN_01_02",
+            "value": "Detalles de misión<br>Nada"
         },
         {
             "key": "QE_SB_MABR_01",
@@ -9623,6 +9699,10 @@
         {
             "key": "QE_VC_LW_ODIN",
             "value": "Detalles de misión<br>Recomendado: nv. 67, nv. de profesión 11<br>Condiciones para desbloquear: Consigue la carta de visión [«Odín, el Caballero Implacable»]"
+        },
+        {
+            "key": "QE_VC_LW_ODIN_01",
+            "value": "Detalles de misión<br>Recomendado: nv. 69, nv. de profesión 11<br>Condiciones para desbloquear: Consigue la carta de visión [«Odín oscuro, la Espada Fantasmal»]"
         },
         {
             "key": "QE_VC_LW_TSLP",

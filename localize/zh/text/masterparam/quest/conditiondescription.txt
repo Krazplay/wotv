@@ -1057,6 +1057,10 @@
             "value": "幻兵卡「斬斷次元　奧汀」的等級在1以上"
         },
         {
+            "key": "COND_VC_LW_OD_01",
+            "value": "幻兵卡「幻魔斬劍　暗黑奧汀」的等級在1以上"
+        },
+        {
             "key": "COND_VC_LW_TSLP",
             "value": "幻兵卡「四天烈風　四方風精靈」的等級在1以上"
         },
@@ -1503,6 +1507,22 @@
         {
             "key": "COND_CH_CLES",
             "value": "兵員『塞麗絲』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_MDNA2",
+            "value": "兵員『美迪愛娜』的等級在80以上"
+        },
+        {
+            "key": "COND_CH_LW_OOOO2",
+            "value": "兵員『歐』的等級在80以上"
+        },
+        {
+            "key": "COND_CH_LW_ZZAN2",
+            "value": "兵員『扎贊』的等級在80以上"
+        },
+        {
+            "key": "COND_CH_LW_BYLO2",
+            "value": "兵員『巴埃羅』的等級在80以上"
         }
     ]
 }

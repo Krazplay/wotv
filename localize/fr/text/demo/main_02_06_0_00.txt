@@ -1,0 +1,296 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "J'exige des explications."
+        },
+        {
+            "key": "002",
+            "value": "J-Je ne comprends pas !"
+        },
+        {
+            "key": "003",
+            "value": "Ne joue pas à cela avec moi !"
+        },
+        {
+            "key": "004",
+            "value": "Ne fais pas semblant de ne pas comprendre. Cela fait déjà trois soldats que l'on retrouve brutalement égorgés."
+        },
+        {
+            "key": "005",
+            "value": "Et bizarrement, cela a commencé quand on est arrivées au château."
+        },
+        {
+            "key": "006",
+            "value": "Vous nous accusez donc ?"
+        },
+        {
+            "key": "007",
+            "value": "Et qui d'autre ?"
+        },
+        {
+            "key": "008",
+            "value": "Eh bien jetez-nous aux fers, ça ira plus vite."
+        },
+        {
+            "key": "009",
+            "value": "Pardon ?"
+        },
+        {
+            "key": "010",
+            "value": "Moi je suis prête à passer quelques jours aux cachots, si ça prouve notre innocence."
+        },
+        {
+            "key": "011",
+            "value": "…"
+        },
+        {
+            "key": "012",
+            "value": "Que manigancez-vous ?"
+        },
+        {
+            "key": "013",
+            "value": "Rien, et vous ?"
+        },
+        {
+            "key": "014",
+            "value": "Parce que c'est pour vous aider à réussir ce que vous avez planifié qu'on est là."
+        },
+        {
+            "key": "015",
+            "value": "Qu-quoi ?"
+        },
+        {
+            "key": "016",
+            "value": "Vous n'allez tout de même pas vous dégonfler maintenant."
+        },
+        {
+            "key": "017",
+            "value": "…"
+        },
+        {
+            "key": "018",
+            "value": "Très bien, alors que comptez-vous faire ?"
+        },
+        {
+            "key": "019",
+            "value": "Je vous l'ai dit. On va s'installer quelques temps dans les cachots."
+        },
+        {
+            "key": "020",
+            "value": "Sérieusement ?"
+        },
+        {
+            "key": "021",
+            "value": "Même des shinobis telles que nous n'ont aucune chance de s'échapper des prisons de Rundall."
+        },
+        {
+            "key": "022",
+            "value": "Et tant que nous y serons, je vous garantis que les meurtres vont continuer."
+        },
+        {
+            "key": "023",
+            "value": "Vous verrez bien qu'on n'y est pour rien."
+        },
+        {
+            "key": "024",
+            "value": "Attendez. Vous voulez dire que vos hommes ont déjà envahi le château ?"
+        },
+        {
+            "key": "025",
+            "value": "Exactement. Il y a déjà plus de ninjas de Gouga ici que de doigts sur une main."
+        },
+        {
+            "key": "026",
+            "value": "C'est vous qui les avez conduits ici."
+        },
+        {
+            "key": "027",
+            "value": "C'était assez facile, en vrai."
+        },
+        {
+            "key": "028",
+            "value": "Ils sont déjà un certain nombre à avoir pris la place des soldats de Heindler."
+        },
+        {
+            "key": "029",
+            "value": "…"
+        },
+        {
+            "key": "030",
+            "value": "Et c'est ainsi que vous comptiez prendre la forteresse de Rundall ?"
+        },
+        {
+            "key": "031",
+            "value": "Elzandra et Creysse reviennent du front spécialement pour me servir de gardes du corps."
+        },
+        {
+            "key": "032",
+            "value": "Elzandra, notamment, est la lieutenante du commandant de « Crucium », voyez-vous. Elle a l'esprit vif et la confiance de ses troupes."
+        },
+        {
+            "key": "033",
+            "value": "En effet, c'est pourquoi nous n'y arriverons pas sans vous."
+        },
+        {
+            "key": "034",
+            "value": "Comment ça ?"
+        },
+        {
+            "key": "035",
+            "value": "Même avec toute la puissance que peut mobiliser Gouga, nous n'avons pas la moindre chance dans un face-à-face contre Rundall."
+        },
+        {
+            "key": "036",
+            "value": "Pourtant, il se trouve que nous devons protéger une vie de Rundall à tout prix."
+        },
+        {
+            "key": "037",
+            "value": "Vous parlez de Dame Alaya."
+        },
+        {
+            "key": "038",
+            "value": "Exactement. Je suis sûre que vous saurez vous occuper de cette fameuse Elzandra."
+        },
+        {
+            "key": "039",
+            "value": "C'est pas vrai ?"
+        },
+        {
+            "key": "040",
+            "value": "…"
+        },
+        {
+            "key": "041",
+            "value": "Mais les suspicions à l'égard de ce qui se passe dans ce château ne tarderont pas à venir aux oreilles de Jayden et son armée."
+        },
+        {
+            "key": "042",
+            "value": "Nous avons déjà pris des mesures pour éviter que cela arrive."
+        },
+        {
+            "key": "043",
+            "value": "La cheffe de Gouga, Dame Mariale, a déjà posté ses shinobis les plus habiles aux portes clés du château."
+        },
+        {
+            "key": "044",
+            "value": "Bien évidemment, ils sont dissimulés, là où l'œil de Rundall ne peut les débusquer."
+        },
+        {
+            "key": "045",
+            "value": "Ils ne laisseront passer aucune âme porteuse d'un message pour ce cher Jayden, hé hé hé !"
+        },
+        {
+            "key": "046",
+            "value": "..."
+        },
+        {
+            "key": "047",
+            "value": "Dame Alaya. C'est moi, Elzandra. Je dois vous parler."
+        },
+        {
+            "key": "048",
+            "value": "Entre."
+        },
+        {
+            "key": "049",
+            "value": "…"
+        },
+        {
+            "key": "050",
+            "value": "Ah, Dame Elzandra, nous parlions de vous."
+        },
+        {
+            "key": "051",
+            "value": "Ah oui ?"
+        },
+        {
+            "key": "052",
+            "value": "Dame Alaya venait de nous donner l'ordre d'aller vous chercher."
+        },
+        {
+            "key": "053",
+            "value": "À quel sujet ?"
+        },
+        {
+            "key": "054",
+            "value": "Il semble que le château ait été infiltré, des soldats ont été tués."
+        },
+        {
+            "key": "055",
+            "value": "Dame Alaya redoute que les soupçons se concentrent sur nous deux."
+        },
+        {
+            "key": "056",
+            "value": "C'est pourquoi, Dame Elzandra… Veuillez nous mettre aux fers."
+        },
+        {
+            "key": "057",
+            "value": "Nous ne serions que trop heureuses de coopérer si cela peut prouver notre innocence."
+        },
+        {
+            "key": "058",
+            "value": "Fais ce qu'elles demandent, je te prie."
+        },
+        {
+            "key": "059",
+            "value": "Vraiment, Madame ?"
+        },
+        {
+            "key": "060",
+            "value": "Oui."
+        },
+        {
+            "key": "061",
+            "value": "Je veillerai personnellement à la protection de Dame Alaya jusqu'à ce que leur innocence soit prouvée."
+        },
+        {
+            "key": "062",
+            "value": "Très bien."
+        },
+        {
+            "key": "063",
+            "value": "Qu'on les descende aux cachots !"
+        },
+        {
+            "key": "064",
+            "value": "Oui, Madame."
+        },
+        {
+            "key": "065",
+            "value": "Suivez-nous."
+        },
+        {
+            "key": "066",
+            "value": "Et à présent, qu'es-tu venue me dire ?"
+        },
+        {
+            "key": "067",
+            "value": "Eh bien, cela concernait ces deux femmes, justement."
+        },
+        {
+            "key": "068",
+            "value": "Je vois. Tout ce qui m'importe, c'est qu'elles soient lavées de tout soupçon."
+        },
+        {
+            "key": "069",
+            "value": "D'ailleurs…"
+        },
+        {
+            "key": "070",
+            "value": "Je pense que Sa Majesté Jayden doit être mis au courant de cette affaire au plus vite."
+        },
+        {
+            "key": "071",
+            "value": "J'ai déjà envoyé un message à ce propos."
+        },
+        {
+            "key": "072",
+            "value": "Merci, Elzandra. Je savais que je pouvais compter sur toi."
+        },
+        {
+            "key": "073",
+            "value": "C'est trop d'honneur, Madame."
+        }
+    ]
+}

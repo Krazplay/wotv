@@ -1,0 +1,272 @@
+﻿{
+    "infos": [
+        {
+            "key": "120",
+            "value": "Rey Roghza..."
+        },
+        {
+            "key": "121",
+            "value": "Nuestra estrategia consiste en que Garval se libre de Heindler para que así podamos atacar Rundal..."
+        },
+        {
+            "key": "122",
+            "value": "Pero las tropas de Rundal se encuentran cada vez más y más cerca del castillo."
+        },
+        {
+            "key": "123",
+            "value": "Si no hacemos algo rápido, me temo que el combate nunca se pondrá de nuestra parte..."
+        },
+        {
+            "key": "124",
+            "value": "Entiendo vuestra impaciencia muy bien, rey Mont."
+        },
+        {
+            "key": "125",
+            "value": "Pero la batalla no ha hecho más que empezar."
+        },
+        {
+            "key": "126",
+            "value": "¿Que no ha hecho más que empezar..., decís?"
+        },
+        {
+            "key": "127",
+            "value": "Así es. El destino de la batalla se decidirá a partir de ahora."
+        },
+        {
+            "key": "128",
+            "value": "…"
+        },
+        {
+            "key": "129",
+            "value": "Parece que nuestros refuerzos llegan tarde."
+        },
+        {
+            "key": "130",
+            "value": "¿Esperas más refuerzos aparte de nosotros?"
+        },
+        {
+            "key": "131",
+            "value": "Sí."
+        },
+        {
+            "key": "132",
+            "value": "¿Y de quiénes se trata?"
+        },
+        {
+            "key": "133",
+            "value": "No puedo decírtelo aún. Uno nunca sabe cuando el enemigo está escuchando."
+        },
+        {
+            "key": "134",
+            "value": "Pero tal como están las cosas..."
+        },
+        {
+            "key": "135",
+            "value": "No hay de qué preocuparse. Seguiré mandando visiones al campo de batalla desde el castillo."
+        },
+        {
+            "key": "136",
+            "value": "¡¿Puedes invocar visiones desde tal distancia?!"
+        },
+        {
+            "key": "137",
+            "value": "Sin embargo, aún quedan bastantes soldados de Ovis en el campo de batalla."
+        },
+        {
+            "key": "138",
+            "value": "Ninguno de ellos podrá regresar con las puertas del castillo cerradas."
+        },
+        {
+            "key": "139",
+            "value": "No hay nada que podamos hacer al respecto."
+        },
+        {
+            "key": "140",
+            "value": "¿Nada?"
+        },
+        {
+            "key": "141",
+            "value": "Sabéis muy bien que la guerra y el sacrificio van de la mano."
+        },
+        {
+            "key": "142",
+            "value": "Pero... ¡aún tienen una oportunidad!"
+        },
+        {
+            "key": "143",
+            "value": "Las fuerzas de Leonis solicitamos permiso para ir al frente."
+        },
+        {
+            "key": "144",
+            "value": "…"
+        },
+        {
+            "key": "145",
+            "value": "Te lo ruego."
+        },
+        {
+            "key": "146",
+            "value": "Muy bien."
+        },
+        {
+            "key": "147",
+            "value": "Pero que sepas que, una vez las puertas se cierren, no volverán a abrirse de nuevo a no ser que se trate de algo grave."
+        },
+        {
+            "key": "148",
+            "value": "Si tu decisión es firme, entonces parte hacia el campo de batalla..."
+        },
+        {
+            "key": "149",
+            "value": "¡¿Qué es lo que le ocurre a esa engreída?!"
+        },
+        {
+            "key": "150",
+            "value": "No deberías hablar así de ella, Lilit."
+        },
+        {
+            "key": "151",
+            "value": "¡Pero...!"
+        },
+        {
+            "key": "152",
+            "value": "¿No os parece raro?"
+        },
+        {
+            "key": "153",
+            "value": "¿El qué?"
+        },
+        {
+            "key": "154",
+            "value": "Ramada, ¿ha cambiado en algún aspecto lady Luciela desde que llegaste?"
+        },
+        {
+            "key": "155",
+            "value": "Más que cambiar, diría que ahora muestra su verdadera personalidad."
+        },
+        {
+            "key": "156",
+            "value": "…"
+        },
+        {
+            "key": "157",
+            "value": "Esto me hace pensar en lo que Jayden dijo cuando nos despedimos."
+        },
+        {
+            "key": "158",
+            "value": "Dijo que Luciela no se da por vencida tan fácilmente como sí hace Melnia..."
+        },
+        {
+            "key": "159",
+            "value": "Y que deberíamos andarnos con ojo con ella."
+        },
+        {
+            "key": "160",
+            "value": "¿Qué crees que quiso decir?"
+        },
+        {
+            "key": "161",
+            "value": "¿Que la princesa Luciela no es más que un lobo disfrazado de oveja?"
+        },
+        {
+            "key": "162",
+            "value": "Podría ser."
+        },
+        {
+            "key": "163",
+            "value": "Ah, ¡aquí estáis!"
+        },
+        {
+            "key": "164",
+            "value": "Camilo..."
+        },
+        {
+            "key": "165",
+            "value": "He escuchado lo que estaba pasando."
+        },
+        {
+            "key": "166",
+            "value": "Parece que van a abrir las puertas para que Leonis se enfrente a Rundal."
+        },
+        {
+            "key": "167",
+            "value": "Así es. Las tropas de Ovis se encuentran agotadas, sin poder regresar a su castillo."
+        },
+        {
+            "key": "168",
+            "value": "Camilo, ¿nos echarás una mano?"
+        },
+        {
+            "key": "169",
+            "value": "¡Por supuesto!"
+        },
+        {
+            "key": "170",
+            "value": "Yo, el gran Camilo, siempre me detendré a ayudar a aquellos que necesiten mi ayuda."
+        },
+        {
+            "key": "171",
+            "value": "En realidad acababa de decir que el rey Mont es la última persona a la que quisiera hacer quedar bien."
+        },
+        {
+            "key": "172",
+            "value": "¡Ve-venga ya! ¡¿Es que no te puedes guardar nada para ti?!"
+        },
+        {
+            "key": "173",
+            "value": "Gracias, Camilo."
+        },
+        {
+            "key": "174",
+            "value": "¡Que gane el mejor, Mont!"
+        },
+        {
+            "key": "175",
+            "value": "¿Ganar qué?"
+        },
+        {
+            "key": "176",
+            "value": "El que acabe con Jayden se queda con Machérie. ¿Trato?"
+        },
+        {
+            "key": "177",
+            "value": "¡Auch! ¡¿A qué ha venido eso?!"
+        },
+        {
+            "key": "178",
+            "value": "Lady Machérie no es un objeto que se pueda ganar."
+        },
+        {
+            "key": "179",
+            "value": "¡Y seguramente ella no perdería el tiempo con alguien que piensa de esa forma!"
+        },
+        {
+            "key": "180",
+            "value": "…"
+        },
+        {
+            "key": "181",
+            "value": "Lle-llevas razón."
+        },
+        {
+            "key": "182",
+            "value": "Lo siento. De verdad que lamento mis palabras."
+        },
+        {
+            "key": "183",
+            "value": "Vaya. Por fin estás aprendiendo a comportarte."
+        },
+        {
+            "key": "184",
+            "value": "Estoy seguro de que Machérie se derretirá ante mi lado más honesto."
+        },
+        {
+            "key": "185",
+            "value": "…"
+        },
+        {
+            "key": "186",
+            "value": "¡Muy bien, pues vayamos!"
+        }
+    ]
+}

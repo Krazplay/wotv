@@ -7905,6 +7905,30 @@
             "value": "Chance élevée d'infliger des dégâts magiques aux unités dans la zone autour du lanceur lorsque des dégâts magiques sont subis."
         },
         {
+            "key": "SK_ODIN_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_01_M_01",
+            "value": "Accorde Coup garanti pour le lanceur pendant 5 tours."
+        },
+        {
+            "key": "SK_ODIN_01_M_02",
+            "value": "Inflige des dégâts physiques non-élémentaires (M) aux ennemis dans la zone ciblée."
+        },
+        {
+            "key": "SK_ODIN_01_M_03",
+            "value": "Inflige des dégâts physiques non-élémentaires (M) aux ennemis dans la zone ciblée et confère une chance d'infliger Mort instantanée."
+        },
+        {
+            "key": "SK_ODIN_01_M_04",
+            "value": "Augmente la MAGIE du lanceur, et utilise Einherjar obscur au prochain tour."
+        },
+        {
+            "key": "SK_ODIN_01_M_05",
+            "value": "Inflige des dégâts magiques non-élémentaires (L) aux ennemis dans la zone ciblée autour du lanceur, et confrère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
             "key": "SK_IGNT_ATK",
             "value": ""
         },
@@ -9961,6 +9985,10 @@
             "value": "Invoque Europa, détruit toute barrière qui réduit les dégâts érigée autour des unités ciblées, puis inflige des dégâts de foudre (XL) aux unités dans la zone ciblée, et active des effets de carte temporaires (augmente l'ATT et la MAGIE des alliés, augmente les effets pour les unités de foudre et réduit considérablement la résistance à la foudre des ennemis)."
         },
         {
+            "key": "SK_SMN_ODIN_01",
+            "value": "Invoque Odin obscur, inflige des dégâts non-élémentaires (L) aux unités dans la zone ciblée, confère une chance d'infliger Poison pendant 3 tours, et active des effets de carte temporaires (augmente l'ATT et la MAGIE des alliés)."
+        },
+        {
             "key": "SK_UN_BD_EC_HP_200",
             "value": ""
         },
@@ -11813,6 +11841,10 @@
             "value": "MAGIE +30 %"
         },
         {
+            "key": "SK_MA_LW_MDNA_2",
+            "value": "Augmente les PV max de 10 % et les attaques de glace de 15 pour les unités alliées de glace, augmente la MAGIE du lanceur de 40 % et sa résistance aux attaques magiques de 20, augmente la portée de Plume cosmique et augmente la hauteur de la portée de 1."
+        },
+        {
             "key": "SK_MA_LW_AYKA",
             "value": "PV max +10 %, Rés stop +20"
         },
@@ -11851,6 +11883,10 @@
         {
             "key": "SK_MA_LW_OOOO",
             "value": "ATT +20 %, taux d'esquive +15"
+        },
+        {
+            "key": "SK_MA_LW_OOOO_2",
+            "value": "Augmente les PV max de 10 % et la résistance à Paralysie de 25 pour les unités de foudre alliées, augmente l'ATT du lanceur de 20 %, son taux d'esquive de 25 et son taux de perforation de la DEF de 20."
         },
         {
             "key": "SK_MA_LW_LRNZ",
@@ -11903,6 +11939,10 @@
         {
             "key": "SK_MA_LW_BYLO",
             "value": "AGI +10 %, Chance +30 %"
+        },
+        {
+            "key": "SK_MA_LW_BYLO_2",
+            "value": "AGI +10 %/Chance +30 %/DEF +10/PSY +10"
         },
         {
             "key": "SK_MA_LW_RYER",
@@ -11963,6 +12003,10 @@
         {
             "key": "SK_MA_LW_ZZAN",
             "value": "DEX +15 %, Déplacement +1, Saut +2"
+        },
+        {
+            "key": "SK_MA_LW_ZZAN_2",
+            "value": "DEX +15 %/Déplacement +1/Saut +2/Anthropophage +20"
         },
         {
             "key": "SK_MA_LW_FDRC",
@@ -17193,6 +17237,138 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ODIN_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS_AW_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GSMAX_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2_AW_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2MAX_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P2AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P2MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_ODIN_01_P3",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_ODIN_01_P3AW",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_ODIN_01_P3MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS_AW_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GSMAX_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_FF6_MV1_P2",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_FF6_MV1_P2AW",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_FF6_MV1_P2MAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_TITN_P",
             "value": ""
         },
@@ -22363,6 +22539,26 @@
         {
             "key": "SK_LW_SPE_018_5",
             "value": "Aptitude passive spécifique à Camillo"
+        },
+        {
+            "key": "SK_LW_HLM_009_1",
+            "value": "Aptitude passive spécifique à Muraga"
+        },
+        {
+            "key": "SK_LW_HLM_009_2",
+            "value": "Aptitude passive spécifique à Muraga"
+        },
+        {
+            "key": "SK_LW_HLM_009_3",
+            "value": "Aptitude passive spécifique à Muraga"
+        },
+        {
+            "key": "SK_LW_HLM_009_4",
+            "value": "Aptitude passive spécifique à Muraga"
+        },
+        {
+            "key": "SK_LW_HLM_009_5",
+            "value": "Aptitude passive spécifique à Muraga"
         },
         {
             "key": "SK_SCOC_ATK",

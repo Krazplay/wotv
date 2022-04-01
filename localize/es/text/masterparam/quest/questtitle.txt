@@ -2837,6 +2837,46 @@
             "value": "Nuestro enemigo en común"
         },
         {
+            "key": "QE_ST_02060101",
+            "value": "Lo que frustra al enemigo I"
+        },
+        {
+            "key": "QE_ST_02060102",
+            "value": "Lo que frustra al enemigo II"
+        },
+        {
+            "key": "QE_ST_02060103",
+            "value": "Peones para sacrificar"
+        },
+        {
+            "key": "QE_ST_02060104",
+            "value": "Puertas cerradas I"
+        },
+        {
+            "key": "QE_ST_02060105",
+            "value": "Puertas cerradas II"
+        },
+        {
+            "key": "QE_ST_02060106",
+            "value": "Orgullo y propósito"
+        },
+        {
+            "key": "QE_ST_02060107",
+            "value": "Las órdenes de Sadali"
+        },
+        {
+            "key": "QE_ST_02060108",
+            "value": "El retorno de Oberón I"
+        },
+        {
+            "key": "QE_ST_02060109",
+            "value": "El retorno de Oberón II"
+        },
+        {
+            "key": "QE_ST_02060110",
+            "value": "Pervivir"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Misión de fragmentos: Zazán"
         },
@@ -3221,6 +3261,10 @@
             "value": "Zazán"
         },
         {
+            "key": "QE_CH_LW_ZZAN2",
+            "value": "Zazán (2)"
+        },
+        {
             "key": "QE_CH_LW_RART",
             "value": "Learte"
         },
@@ -3239,6 +3283,10 @@
         {
             "key": "QE_CH_LW_BYLO",
             "value": "Beilo"
+        },
+        {
+            "key": "QE_CH_LW_BYLO2",
+            "value": "Beilo (2)"
         },
         {
             "key": "QE_CH_LW_RYER",
@@ -3303,6 +3351,10 @@
         {
             "key": "QE_CH_LW_OOOO",
             "value": "Owe"
+        },
+        {
+            "key": "QE_CH_LW_OOOO2",
+            "value": "Owe (2)"
         },
         {
             "key": "QE_CH_LW_LRNZ",
@@ -3407,6 +3459,10 @@
         {
             "key": "QE_CH_LW_MDNA",
             "value": "Mediena"
+        },
+        {
+            "key": "QE_CH_LW_MDNA2",
+            "value": "Mediena (2)"
         },
         {
             "key": "QE_CH_LW_AYKA",
@@ -5113,6 +5169,30 @@
             "value": "[Dificultad extrema] FINAL FANTASY XIV [EX]"
         },
         {
+            "key": "QE_MU_AEX_113_1",
+            "value": "Historias del Etéreo: capítulo 1, escena 3 [EX]"
+        },
+        {
+            "key": "QE_MU_AEX_113_2",
+            "value": "[Dificultad extrema] Historias del Etéreo: capítulo 1, escena 3 [EX]"
+        },
+        {
+            "key": "QE_MU_AEX_112_1",
+            "value": "Historias del Etéreo: capítulo 1, escena 2 [EX]"
+        },
+        {
+            "key": "QE_MU_AEX_112_2",
+            "value": "[Dificultad extrema] Historias del Etéreo: capítulo 1, escena 2 [EX]"
+        },
+        {
+            "key": "QE_MU_AEX_111_1",
+            "value": "Historias del Etéreo: capítulo 1, escena 1 [EX]"
+        },
+        {
+            "key": "QE_MU_AEX_111_2",
+            "value": "[Dificultad extrema] Historias del Etéreo: capítulo 1, escena 1 [EX]"
+        },
+        {
             "key": "QE_MU_EV_10_EX",
             "value": "El libro ancestral de Leonis [EX]"
         },
@@ -5151,30 +5231,6 @@
         {
             "key": "QE_MU_EV_ET_EX4",
             "value": "[Dificultad extrema] Misión EX de entrenamiento de Etra II"
-        },
-        {
-            "key": "QE_MU_AEX_113_1",
-            "value": "Historias del Etéreo: capítulo 1, escena 3 [EX]"
-        },
-        {
-            "key": "QE_MU_AEX_113_2",
-            "value": "[Dificultad extrema] Historias del Etéreo: capítulo 1, escena 3 [EX]"
-        },
-        {
-            "key": "QE_MU_AEX_112_1",
-            "value": "Historias del Etéreo: capítulo 1, escena 2 [EX]"
-        },
-        {
-            "key": "QE_MU_AEX_112_2",
-            "value": "[Dificultad extrema] Historias del Etéreo: capítulo 1, escena 2 [EX]"
-        },
-        {
-            "key": "QE_MU_AEX_111_1",
-            "value": "Historias del Etéreo: capítulo 1, escena 1 [EX]"
-        },
-        {
-            "key": "QE_MU_AEX_111_2",
-            "value": "[Dificultad extrema] Historias del Etéreo: capítulo 1, escena 1 [EX]"
         },
         {
             "key": "QE_EV_14_01",
@@ -7329,6 +7385,18 @@
             "value": "Misión selecta (tierra) n.º 10"
         },
         {
+            "key": "QE_BR_SOIL_11",
+            "value": "Misión selecta (tierra) n.º 11"
+        },
+        {
+            "key": "QE_BR_SOIL_12",
+            "value": "Misión selecta (tierra) n.º 12"
+        },
+        {
+            "key": "QE_BR_SOIL_13",
+            "value": "Misión selecta (tierra) n.º 13"
+        },
+        {
             "key": "QE_BR_WIND_01",
             "value": "Misión selecta (viento) n.º 1"
         },
@@ -7751,6 +7819,14 @@
         {
             "key": "QE_SB_EURP_02",
             "value": "Batalla contra Europa (2)"
+        },
+        {
+            "key": "QE_SB_ODIN_01_01",
+            "value": "Batalla contra Odín oscuro"
+        },
+        {
+            "key": "QE_SB_ODIN_01_02",
+            "value": "Batalla contra Odín oscuro (2)"
         },
         {
             "key": "QE_SB_MABR_01",
@@ -9623,6 +9699,10 @@
         {
             "key": "QE_VC_LW_ODIN",
             "value": "Misión de fragmentos: «Odín, el Caballero Implacable»"
+        },
+        {
+            "key": "QE_VC_LW_ODIN_01",
+            "value": "Misión de fragmentos: «Odín oscuro, la Espada Fantasmal»"
         },
         {
             "key": "QE_VC_LW_TSLP",

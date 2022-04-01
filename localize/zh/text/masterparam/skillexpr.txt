@@ -7905,6 +7905,30 @@
             "value": "受到魔法傷害時，以自身為中心，高機率對範圍內兵員造成魔法傷害"
         },
         {
+            "key": "SK_ODIN_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_01_M_01",
+            "value": "賦予自身必中5回合"
+        },
+        {
+            "key": "SK_ODIN_01_M_02",
+            "value": "對指定範圍內敵方造成無屬性物理傷害（中）"
+        },
+        {
+            "key": "SK_ODIN_01_M_03",
+            "value": "對指定範圍內敵方造成無屬性物理傷害（中）&一定機率施加陷入無法戰鬥的即死效果"
+        },
+        {
+            "key": "SK_ODIN_01_M_04",
+            "value": "提升自身魔力&下一回合將使用「暗黑英靈」"
+        },
+        {
+            "key": "SK_ODIN_01_M_05",
+            "value": "以自身為中心對指定範圍內敵方造成無屬性魔法傷害（大）&3回合猛毒效果"
+        },
+        {
             "key": "SK_IGNT_ATK",
             "value": ""
         },
@@ -9961,6 +9985,10 @@
             "value": "召喚『歐羅巴』，破壞所有減輕傷害的屏障後，對範圍內目標造成雷屬性傷害（特大）&一定時間內發動地圖效果（提升己方隊員的攻擊、魔力&雷屬性兵員效果提升&大幅降低敵方的雷屬性耐性）"
         },
         {
+            "key": "SK_SMN_ODIN_01",
+            "value": "召喚『暗黑奧汀』，對範圍內目標造成無屬性傷害（大）&一定機率施加中毒，使其3回合內持續減少HP&一定時間內發動地圖效果（提升己方隊員的攻擊、魔力）"
+        },
+        {
             "key": "SK_UN_BD_EC_HP_200",
             "value": ""
         },
@@ -11813,6 +11841,10 @@
             "value": "魔力+30%"
         },
         {
+            "key": "SK_MA_LW_MDNA_2",
+            "value": "己方冰屬性兵員HP上限+10%、冰屬性能力攻擊+15，自身魔力+40%、魔法攻擊耐性+20、「宇宙羽流」的射程、射程高低差+1"
+        },
+        {
             "key": "SK_MA_LW_AYKA",
             "value": "HP上限+10%、停止耐性+20"
         },
@@ -11851,6 +11883,10 @@
         {
             "key": "SK_MA_LW_OOOO",
             "value": "攻擊+20%、閃避率+15"
+        },
+        {
+            "key": "SK_MA_LW_OOOO_2",
+            "value": "己方雷屬性兵員HP上限+10%、麻痹耐性+25，自身攻擊+20%、閃避率+25、防禦貫通率+20"
         },
         {
             "key": "SK_MA_LW_LRNZ",
@@ -11903,6 +11939,10 @@
         {
             "key": "SK_MA_LW_BYLO",
             "value": "敏捷+10%、運氣+30%"
+        },
+        {
+            "key": "SK_MA_LW_BYLO_2",
+            "value": "敏捷+10%、運氣+30%、防禦+10、精神+10"
         },
         {
             "key": "SK_MA_LW_RYER",
@@ -11963,6 +12003,10 @@
         {
             "key": "SK_MA_LW_ZZAN",
             "value": "靈巧+15%、移動+1、跳躍+2"
+        },
+        {
+            "key": "SK_MA_LW_ZZAN_2",
+            "value": "靈巧+15%、移動+1、跳躍+2、對人特效+20"
         },
         {
             "key": "SK_MA_LW_FDRC",
@@ -12386,7 +12430,7 @@
         },
         {
             "key": "SK_MA_FF4_GLBZ",
-            "value": "己方暗屬性兵員HP上限+10%、暗屬性能力攻擊+15，自身魔力+15%、攻擊能力發動時間-30%"
+            "value": "己方暗屬性兵員HP上限+10%、暗屬性能力攻擊+15，自身魔力+15%、發動攻擊能力時間-30%"
         },
         {
             "key": "SK_MA_LW_LYCS",
@@ -17190,6 +17234,138 @@
         },
         {
             "key": "SK_VC_LW_ANV2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS_AW_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GSMAX_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2_AW_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_GS2MAX_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P2AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_01_P2MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_ODIN_01_P3",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_ODIN_01_P3AW",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_ODIN_01_P3MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GS_AW_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_GSMAX_2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF6_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_FF6_MV1_P2",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_FF6_MV1_P2AW",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_FF6_MV1_P2MAX",
             "value": ""
         },
         {
@@ -22363,6 +22539,26 @@
         {
             "key": "SK_LW_SPE_018_5",
             "value": "卡米洛專用被動能力"
+        },
+        {
+            "key": "SK_LW_HLM_009_1",
+            "value": "穆拉加專用被動能力"
+        },
+        {
+            "key": "SK_LW_HLM_009_2",
+            "value": "穆拉加專用被動能力"
+        },
+        {
+            "key": "SK_LW_HLM_009_3",
+            "value": "穆拉加專用被動能力"
+        },
+        {
+            "key": "SK_LW_HLM_009_4",
+            "value": "穆拉加專用被動能力"
+        },
+        {
+            "key": "SK_LW_HLM_009_5",
+            "value": "穆拉加專用被動能力"
         },
         {
             "key": "SK_SCOC_ATK",

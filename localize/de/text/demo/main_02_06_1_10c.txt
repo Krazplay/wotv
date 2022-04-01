@@ -1,0 +1,404 @@
+﻿{
+    "infos": [
+        {
+            "key": "344",
+            "value": "Wie hat das Leben dir mitgespielt, Camillo?"
+        },
+        {
+            "key": "345",
+            "value": "Gahnsbach ..."
+        },
+        {
+            "key": "346",
+            "value": "Verräter."
+        },
+        {
+            "key": "347",
+            "value": "Du hattest Befehl, den Boten aus Ovis abzufangen, der Hourne um Verstärkung ersucht hat."
+        },
+        {
+            "key": "348",
+            "value": "Und jetzt besitzt du die Dreistigkeit, hier auf dem Schlachtfeld wieder aufzutauchen."
+        },
+        {
+            "key": "349",
+            "value": "Ach, sei doch still."
+        },
+        {
+            "key": "350",
+            "value": "Ihr seid doch kein Stück besser!"
+        },
+        {
+            "key": "351",
+            "value": "Was soll das heißen?"
+        },
+        {
+            "key": "352",
+            "value": "Ha, stell dich doch nicht dumm!"
+        },
+        {
+            "key": "353",
+            "value": "Euer ganzes Gefasel vom „Stolz Heindlers“, und trotzdem kommt ihr angekrochen, sobald Rundall nach euch pfeift!"
+        },
+        {
+            "key": "354",
+            "value": "Könnt ihr euch überhaupt noch im Spiegel ansehen, so wie ihr euch in die eigene Tasche lügt?"
+        },
+        {
+            "key": "355",
+            "value": "Das wirst du büßen!"
+        },
+        {
+            "key": "356",
+            "value": "Ob das so eine gute Idee war, Camillo?"
+        },
+        {
+            "key": "357",
+            "value": "Hä? Wie meinst du das?"
+        },
+        {
+            "key": "358",
+            "value": "Was du gerade gesagt hast, werden sie dir sicher nicht verzeihen."
+        },
+        {
+            "key": "359",
+            "value": "Du wirst den Kampf wahrscheinlich verlieren, also solltest du ein bisschen an deine Zukunft denken."
+        },
+        {
+            "key": "360",
+            "value": "Sag mal, auf wessen Seite stehst du eigentlich?!"
+        },
+        {
+            "key": "361",
+            "value": "Ich kenne dich doch gar nicht. Hatten wir das nicht so vereinbart?"
+        },
+        {
+            "key": "362",
+            "value": "Das ist doch schon längst Schnee von gestern!"
+        },
+        {
+            "key": "363",
+            "value": "Was soll das? Streitet ihr über den besten Fluchtweg?"
+        },
+        {
+            "key": "364",
+            "value": "Nein, ich habe mich geändert. Ich bin nicht mehr so wie früher."
+        },
+        {
+            "key": "365",
+            "value": "Wie du willst."
+        },
+        {
+            "key": "366",
+            "value": "Möge die Macht der Sechs Fangzähne dir wieder etwas Klarheit in deine fehlgeleitete Seele prügeln."
+        },
+        {
+            "key": "367",
+            "value": "Und du? Kämpfst du an seiner Seite?"
+        },
+        {
+            "key": "368",
+            "value": "Elsirelle hat nichts damit zu tun."
+        },
+        {
+            "key": "369",
+            "value": "Wenn euch derart das Fell juckt, dann werd ich es euch schon allein über die Ohren ziehen."
+        },
+        {
+            "key": "370",
+            "value": "Schön und gut, aber ich hasse Rüpel, die Schwächlinge herumschubsen, fast so sehr wie Gottesanbeterinnen."
+        },
+        {
+            "key": "371",
+            "value": "Was heißt hier „Schwächlinge“?!"
+        },
+        {
+            "key": "372",
+            "value": "Moment mal, du magst keine Gottesanbeterinnen?"
+        },
+        {
+            "key": "373",
+            "value": "Die haben so weiche, geschwollene Bäuche ... Bäh, allein bei der Vorstellung kriege ich Gänsehaut."
+        },
+        {
+            "key": "374",
+            "value": "Ihr werdet Elsirelle kein Haar krümmen!"
+        },
+        {
+            "key": "375",
+            "value": "Und jetzt kommt und holt mich!"
+        },
+        {
+            "key": "376",
+            "value": "... Uff."
+        },
+        {
+            "key": "377",
+            "value": "Was ist los? Hast du Schmerzen?"
+        },
+        {
+            "key": "378",
+            "value": "Warum bist du noch hier?"
+        },
+        {
+            "key": "379",
+            "value": "Wo soll ich sonst sein?"
+        },
+        {
+            "key": "380",
+            "value": "Es sieht echt finster für uns aus, aber auf dich wartet vielleicht ein Platz in Rundall."
+        },
+        {
+            "key": "381",
+            "value": "..."
+        },
+        {
+            "key": "382",
+            "value": "Ah, jetzt ist der Gil gefallen."
+        },
+        {
+            "key": "383",
+            "value": "Deswegen hast du also mit Grahl die ganze Zeit so herumgetuschelt ..."
+        },
+        {
+            "key": "384",
+            "value": "Ich bin aus dem Osten gekommen, um in Rundall zu dienen, das stimmt."
+        },
+        {
+            "key": "385",
+            "value": "Aber irgendwann habe ich es mir anders überlegt."
+        },
+        {
+            "key": "386",
+            "value": "Weil du dich in meinen Bruder verliebt hast."
+        },
+        {
+            "key": "387",
+            "value": "Ja, genau."
+        },
+        {
+            "key": "388",
+            "value": "Und wenn Adelard und ich uns das Jawort geben, wirst du dabei sein, ob du willst oder nicht."
+        },
+        {
+            "key": "389",
+            "value": "Ja, ich werde dabei sein und alles abfackeln."
+        },
+        {
+            "key": "390",
+            "value": "Gut, dann musst du bis dahin wohl überleben."
+        },
+        {
+            "key": "391",
+            "value": "Bleib am Leben und versuch, mich von deinem Bruder fernzuhalten."
+        },
+        {
+            "key": "392",
+            "value": "... Darauf kannst du wetten."
+        },
+        {
+            "key": "393",
+            "value": "Komm, wir müssen weiter."
+        },
+        {
+            "key": "394",
+            "value": "So ein Dreck ..."
+        },
+        {
+            "key": "395",
+            "value": "Schluss mit dem Unsinn."
+        },
+        {
+            "key": "396",
+            "value": "Sobald eine Frau in der Nähe ist, reißt du wie immer das Maul auf ..."
+        },
+        {
+            "key": "397",
+            "value": "Aber in Wirklichkeit hast du dich kein Stück verändert."
+        },
+        {
+            "key": "398",
+            "value": "Weil dir das Training in Heindler zu hart war, hast du es dir im weichlichen Hourne und Leonis bequem gemacht, das ist alles."
+        },
+        {
+            "key": "399",
+            "value": "Du bist ein schändlicher Wurm und verdienst den Tod."
+        },
+        {
+            "key": "400",
+            "value": "Hast du gerade „im weichlichen Leonis“ gesagt?"
+        },
+        {
+            "key": "401",
+            "value": "Es ist die Wahrheit."
+        },
+        {
+            "key": "402",
+            "value": "Und doch gibt es dort jemanden, der dem zweiten Prinzen Leonis’ das Wasser reichen konnte, jenem Styr, der selbst die großen Nationen das Fürchten lehrte."
+        },
+        {
+            "key": "403",
+            "value": "Du warst das? Dann wirst du zumindest einen würdigen Gegner abgeben."
+        },
+        {
+            "key": "404",
+            "value": "Nein, das war du-weißt-schon-wer, der da hinter mir liegt."
+        },
+        {
+            "key": "405",
+            "value": "Camillo ...?"
+        },
+        {
+            "key": "406",
+            "value": "Lachhaft. Das ist doch sicher nur eines seiner Lügenmärchen."
+        },
+        {
+            "key": "407",
+            "value": "Die er ja so gerne bemüht, wenn er das Herz einer arglosen Frau erobern will."
+        },
+        {
+            "key": "408",
+            "value": "Ich habe den Kampf selbst mitangesehen."
+        },
+        {
+            "key": "409",
+            "value": "..."
+        },
+        {
+            "key": "410",
+            "value": "Er ist leicht verführbar, ein Großmaul und lebt in einer Traumwelt, in der sich alles nur um ihn dreht."
+        },
+        {
+            "key": "411",
+            "value": "Aber vielleicht würde ja genau so jemand einen überraschend guten König abgeben."
+        },
+        {
+            "key": "412",
+            "value": "Camillo? Als König?!"
+        },
+        {
+            "key": "413",
+            "value": "Wie albern. So ein Königreich würde doch in drei Tagen zusammenbrechen!"
+        },
+        {
+            "key": "414",
+            "value": "Eine Frau, die noch nie geliebt hat, würde das denken, ja."
+        },
+        {
+            "key": "415",
+            "value": "Was?!"
+        },
+        {
+            "key": "416",
+            "value": "Elsirelle ..."
+        },
+        {
+            "key": "417",
+            "value": "..."
+        },
+        {
+            "key": "418",
+            "value": "Du hättest besser liegenbleiben sollen, Camillo ..."
+        },
+        {
+            "key": "419",
+            "value": "Als ob ich mir so eine Ansprache im Liegen anhören könnte."
+        },
+        {
+            "key": "420",
+            "value": "..."
+        },
+        {
+            "key": "421",
+            "value": "Es tut mir leid, dass ich dich da mit reingezogen habe."
+        },
+        {
+            "key": "422",
+            "value": "Keine Sorge, ich werde mich schadlos an dir halten, wenn alles vorbei ist."
+        },
+        {
+            "key": "423",
+            "value": "Wenn alles vorbei ist, sagt sie ..."
+        },
+        {
+            "key": "424",
+            "value": "Also gut. Setz es auf meine Rechnung."
+        },
+        {
+            "key": "425",
+            "value": "Lilith ...?"
+        },
+        {
+            "key": "426",
+            "value": "Ich kann das nicht akzeptieren ..."
+        },
+        {
+            "key": "427",
+            "value": "Wir verlassen uns bei diesem Schlachtplan allein auf König Monts Stärke ..."
+        },
+        {
+            "key": "428",
+            "value": "Willst du dich deinen Befehlen widersetzen?"
+        },
+        {
+            "key": "429",
+            "value": "Wie soll ich solche Befehle denn befolgen?"
+        },
+        {
+            "key": "430",
+            "value": "König Mont plant offenbar, sich selbst zu opfern ..."
+        },
+        {
+            "key": "431",
+            "value": "Ja, das weiß ich durchaus ..."
+        },
+        {
+            "key": "432",
+            "value": "Warum bist du dann so verdammt ruhig?!"
+        },
+        {
+            "key": "433",
+            "value": "Warst du immer schon so gefühlskalt?!"
+        },
+        {
+            "key": "434",
+            "value": "Die Sterne haben ihren Schimmer noch nicht verloren."
+        },
+        {
+            "key": "435",
+            "value": "Soll das heißen, dass noch Hoffnung besteht? Obwohl es so schlecht für uns aussieht?!"
+        },
+        {
+            "key": "436",
+            "value": "Wenn mich nicht alles täuscht ..."
+        },
+        {
+            "key": "437",
+            "value": "...!"
+        },
+        {
+            "key": "438",
+            "value": "Was zur Hölle habt ihr hier verloren?!"
+        },
+        {
+            "key": "439",
+            "value": "Wir wurden von Prinzessin Lucielle angeheuert."
+        },
+        {
+            "key": "440",
+            "value": "Wa..."
+        },
+        {
+            "key": "441",
+            "value": "Und so lange das so bleibt, werde ich euer Leben verschonen."
+        },
+        {
+            "key": "442",
+            "value": "Komm, Ranella."
+        },
+        {
+            "key": "443",
+            "value": "Jawohl."
+        }
+    ]
+}

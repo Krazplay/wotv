@@ -403,6 +403,10 @@
         {
             "key": "101",
             "value": "Colaboración de FFVI<br>¡Invoca ahora!"
+        },
+        {
+            "key": "102",
+            "value": "Colaboración de FFVI<br>¡Invoca «Presagio» ahora!"
         }
     ]
 }

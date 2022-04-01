@@ -245,6 +245,10 @@
             "value": "Flimmernde Schatten"
         },
         {
+            "key": "SE_ST_020601",
+            "value": "Die zwei aus der Ferne"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Weiter Wald des Löwen"
         },
@@ -409,6 +413,30 @@
             "value": "Eine andere Geschichte Kapitel 1, Szene 1"
         },
         {
+            "key": "SE_EV_AEX_010301",
+            "value": "Eine andere Geschichte Kapitel 1, Szene 3 [EX]"
+        },
+        {
+            "key": "SE_MU_AEX_010301",
+            "value": "[Multi] Eine andere Geschichte Kapitel 1, Szene 3 [EX]"
+        },
+        {
+            "key": "SE_EV_AEX_010201",
+            "value": "Eine andere Geschichte Kapitel 1, Szene 2 [EX]"
+        },
+        {
+            "key": "SE_MU_AEX_010201",
+            "value": "[Multi] Eine andere Geschichte Kapitel 1, Szene 2 [EX]"
+        },
+        {
+            "key": "SE_EV_AEX_010101",
+            "value": "Eine andere Geschichte Kapitel 1, Szene 1 [EX]"
+        },
+        {
+            "key": "SE_MU_AEX_010101",
+            "value": "[Multi] Eine andere Geschichte Kapitel 1, Szene 1 [EX]"
+        },
+        {
             "key": "SE_EV_VC_IBKI_01",
             "value": "Verbesserungsauftrag für „Odem des eisigen Winters“"
         },
@@ -447,30 +475,6 @@
         {
             "key": "SE_MU_EV_ETRE_EX",
             "value": "[Multi] Hoher Schwierigkeitsgrad: Trainingsauftrag „Etre“ [EX]"
-        },
-        {
-            "key": "SE_EV_AEX_010301",
-            "value": "Eine andere Geschichte Kapitel 1, Szene 3 [EX]"
-        },
-        {
-            "key": "SE_MU_AEX_010301",
-            "value": "[Multi] Eine andere Geschichte Kapitel 1, Szene 3 [EX]"
-        },
-        {
-            "key": "SE_EV_AEX_010201",
-            "value": "Eine andere Geschichte Kapitel 1, Szene 2 [EX]"
-        },
-        {
-            "key": "SE_MU_AEX_010201",
-            "value": "[Multi] Eine andere Geschichte Kapitel 1, Szene 2 [EX]"
-        },
-        {
-            "key": "SE_EV_AEX_010101",
-            "value": "Eine andere Geschichte Kapitel 1, Szene 1 [EX]"
-        },
-        {
-            "key": "SE_MU_AEX_010101",
-            "value": "[Multi] Eine andere Geschichte Kapitel 1, Szene 1 [EX]"
         },
         {
             "key": "SE_EV_GL_ART_CRF_01",

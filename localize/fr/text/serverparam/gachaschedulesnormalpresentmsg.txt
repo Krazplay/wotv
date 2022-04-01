@@ -861,6 +861,18 @@
             "value": ""
         },
         {
+            "key": "Raregacha_A_gl20220330_01",
+            "value": ""
+        },
+        {
+            "key": "Raregacha_A_gl20220330_10",
+            "value": ""
+        },
+        {
+            "key": "Raregacha_A_gl20220330_P",
+            "value": ""
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": ""
         },
@@ -2911,6 +2923,26 @@
         {
             "key": "gacha_FF_vc_gl20220323_P",
             "value": "Bonus de l'invocation des atouts-visions de la série FF"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_01",
+            "value": ""
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_01",
+            "value": "Bonus de l'invocation de la collaboration : « Présage » de FINAL FANTASY VI"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_10",
+            "value": "Bonus de l'invocation de la collaboration : « Présage » de FINAL FANTASY VI"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_P",
+            "value": "Bonus de l'invocation de la collaboration : « Présage » de FINAL FANTASY VI"
         }
     ]
 }

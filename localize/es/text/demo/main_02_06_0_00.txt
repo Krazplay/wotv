@@ -1,0 +1,296 @@
+﻿{
+    "infos": [
+        {
+            "key": "001",
+            "value": "Exijo una explicación..."
+        },
+        {
+            "key": "002",
+            "value": "¿De-de qué hablas?"
+        },
+        {
+            "key": "003",
+            "value": "¡No te hagas la tonta!"
+        },
+        {
+            "key": "004",
+            "value": "¿Quieres decir que no sabes nada? Tres soldados han aparecido muertos con la garganta desgarrada."
+        },
+        {
+            "key": "005",
+            "value": "Y todo ha ocurrido desde que estamos aquí."
+        },
+        {
+            "key": "006",
+            "value": "¿Y crees que nosotras estamos detrás de eso?"
+        },
+        {
+            "key": "007",
+            "value": "¿Y quién si no?"
+        },
+        {
+            "key": "008",
+            "value": "Entonces deja que nos pudramos en las mazmorras."
+        },
+        {
+            "key": "009",
+            "value": "¿Qué…?"
+        },
+        {
+            "key": "010",
+            "value": "Si eso ayuda a probar nuestra inocencia, estoy preparada."
+        },
+        {
+            "key": "011",
+            "value": "…"
+        },
+        {
+            "key": "012",
+            "value": "¿Qué es lo que tramáis?"
+        },
+        {
+            "key": "013",
+            "value": "Creo que sois vosotras las que tramáis algo."
+        },
+        {
+            "key": "014",
+            "value": "Nosotras solamente os estamos ayudando."
+        },
+        {
+            "key": "015",
+            "value": "¿Qué...?"
+        },
+        {
+            "key": "016",
+            "value": "Venga ya, no digas ahora que te lo estás pensando dos veces."
+        },
+        {
+            "key": "017",
+            "value": "…"
+        },
+        {
+            "key": "018",
+            "value": "A ver, iluminadme. ¿Cuál es vuestro plan?"
+        },
+        {
+            "key": "019",
+            "value": "Como ya he dicho, nos quedaremos una temporada en las mazmorras."
+        },
+        {
+            "key": "020",
+            "value": "Lo dices en serio..."
+        },
+        {
+            "key": "021",
+            "value": "Incluso para unas ninjas como nosotras no hay forma de escapar de las mazmorras de Rundal."
+        },
+        {
+            "key": "022",
+            "value": "Y aun así, te aseguro que las muertes continuarán."
+        },
+        {
+            "key": "023",
+            "value": "Y así probaremos nuestra inocencia."
+        },
+        {
+            "key": "024",
+            "value": "Un momento... ¿Eso quiere decir que los tuyos ya se encuentran en el castillo?"
+        },
+        {
+            "key": "025",
+            "value": "Así es. Hay más ninjas de Gouga aquí que dedos en tu mano."
+        },
+        {
+            "key": "026",
+            "value": "Los atrajisteis aquí."
+        },
+        {
+            "key": "027",
+            "value": "Fue bastante fácil, que lo sepáis."
+        },
+        {
+            "key": "028",
+            "value": "Incluso algunos de nuestros ninjas se han hecho pasar por soldados de Heindler."
+        },
+        {
+            "key": "029",
+            "value": "…"
+        },
+        {
+            "key": "030",
+            "value": "¿Y creéis que eso es todo lo que hace falta para acabar con el castillo de Rundal?"
+        },
+        {
+            "key": "031",
+            "value": "Elshura y Creys están de camino desde el frente para protegerme."
+        },
+        {
+            "key": "032",
+            "value": "Elshura en concreto es la subcomandante de Crucium, astuta y respetada entre sus tropas."
+        },
+        {
+            "key": "033",
+            "value": "Por eso mismo necesitamos tu ayuda."
+        },
+        {
+            "key": "034",
+            "value": "¿A qué te refieres?"
+        },
+        {
+            "key": "035",
+            "value": "Incluso con toda la fuerza de Gouga, no tenemos nada que hacer si nos enfrentamos a Rundal de frente."
+        },
+        {
+            "key": "036",
+            "value": "Pero hay alguien en Rundal que debe ser protegida a toda costa."
+        },
+        {
+            "key": "037",
+            "value": "Te refieres a lady Alaia."
+        },
+        {
+            "key": "038",
+            "value": "Así es. Me imagino que no tendrás problemas en lidiar con esa tal Elshura o como se llame."
+        },
+        {
+            "key": "039",
+            "value": "¿Me equivoco?"
+        },
+        {
+            "key": "040",
+            "value": "…"
+        },
+        {
+            "key": "041",
+            "value": "Pero las tropas de Jayden no tardarán en darse cuenta de que algo va mal en el castillo."
+        },
+        {
+            "key": "042",
+            "value": "Ya hemos tomado cartas en el asunto en cuanto a eso."
+        },
+        {
+            "key": "043",
+            "value": "La líder de Gouga, lady Mariela, junto a sus más habilidosos ninjas, han rodeado el castillo en puntos clave."
+        },
+        {
+            "key": "044",
+            "value": "Por supuesto, aguardan ajenos a los ojos de Rundal."
+        },
+        {
+            "key": "045",
+            "value": "Ni un alma dará la voz de alerta a su querido rey Jayden. Je, je, je."
+        },
+        {
+            "key": "046",
+            "value": "…"
+        },
+        {
+            "key": "047",
+            "value": "Lady Alaia... Soy yo, Elshura. Debo hablar vos."
+        },
+        {
+            "key": "048",
+            "value": "Adelante..."
+        },
+        {
+            "key": "049",
+            "value": "…"
+        },
+        {
+            "key": "050",
+            "value": "Lady Elshura. Llegas en buen momento."
+        },
+        {
+            "key": "051",
+            "value": "¿En buen momento?..."
+        },
+        {
+            "key": "052",
+            "value": "Estábamos a punto de ir a tu búsqueda por orden de lady Alaia."
+        },
+        {
+            "key": "053",
+            "value": "¿Para qué, exactamente?"
+        },
+        {
+            "key": "054",
+            "value": "Parece que unos rebeldes se han infiltrado en el castillo y acabado con la vida de algunos soldados."
+        },
+        {
+            "key": "055",
+            "value": "Lady Alaia teme que nosotras dos nos convirtamos en sospechosas."
+        },
+        {
+            "key": "056",
+            "value": "Es por eso, lady Elshura..., que debemos pedirte que nos encarceles."
+        },
+        {
+            "key": "057",
+            "value": "Cooperaremos si hace falta para demostrar nuestra inocencia."
+        },
+        {
+            "key": "058",
+            "value": "Concédeles el placer."
+        },
+        {
+            "key": "059",
+            "value": "¿Estáis segura, milady?"
+        },
+        {
+            "key": "060",
+            "value": "Lo estoy."
+        },
+        {
+            "key": "061",
+            "value": "Yo protegeré personalmente a lady Alaia hasta que la inocencia de estas dos se esclarezca."
+        },
+        {
+            "key": "062",
+            "value": "Muy bien entonces."
+        },
+        {
+            "key": "063",
+            "value": "Llevadlas a las mazmorras."
+        },
+        {
+            "key": "064",
+            "value": "Sí, milady."
+        },
+        {
+            "key": "065",
+            "value": "Venid por aquí."
+        },
+        {
+            "key": "066",
+            "value": "Y bien, ¿de qué querías hablar?"
+        },
+        {
+            "key": "067",
+            "value": "La verdad es que se trata de esas dos..."
+        },
+        {
+            "key": "068",
+            "value": "Ya veo... Lo único que quiero es que la verdad salga a flote."
+        },
+        {
+            "key": "069",
+            "value": "Y..."
+        },
+        {
+            "key": "070",
+            "value": "... creo que el rey Jayden debería ser informado de inmediato sobre esto."
+        },
+        {
+            "key": "071",
+            "value": "Ya he informado a las tropas."
+        },
+        {
+            "key": "072",
+            "value": "Gracias, Elshura. Sabía que podía contar contigo."
+        },
+        {
+            "key": "073",
+            "value": "Vuestras palabras son muy generosas, milady..."
+        }
+    ]
+}

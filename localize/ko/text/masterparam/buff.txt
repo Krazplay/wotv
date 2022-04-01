@@ -630,7 +630,7 @@
         },
         {
             "key": "BUFF_OtherAttackCastTime",
-            "value": "공격 어빌리티 발동 시간 단축"
+            "value": "공격 어빌리티 발동 시간"
         },
         {
             "key": "BUFF_OtherApGain",

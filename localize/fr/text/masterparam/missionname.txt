@@ -5725,6 +5725,78 @@
             "value": "Consultez les résultats du concours d'illustrations"
         },
         {
+            "key": "CM_PRO_GL_V_FF6_MV1_01",
+            "value": "Améliorez un atout-vision spécifique I"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_02",
+            "value": "Améliorez un atout-vision spécifique II"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_03",
+            "value": "Améliorez un atout-vision spécifique III"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_04",
+            "value": "Améliorez un atout-vision spécifique IV"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_05",
+            "value": "Éveillez un atout-vision spécifique I"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_06",
+            "value": "Améliorez un atout-vision spécifique V"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_07",
+            "value": "Améliorez un atout-vision spécifique VI"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_08",
+            "value": "Améliorez un atout-vision spécifique VII"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_09",
+            "value": "Améliorez un atout-vision spécifique VIII"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_01",
+            "value": "Améliorez un atout-vision spécifique I"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_02",
+            "value": "Améliorez un atout-vision spécifique II"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_03",
+            "value": "Améliorez un atout-vision spécifique III"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_04",
+            "value": "Améliorez un atout-vision spécifique IV"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_05",
+            "value": "Éveillez un atout-vision spécifique I"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_06",
+            "value": "Améliorez un atout-vision spécifique V"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_07",
+            "value": "Améliorez un atout-vision spécifique VI"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_08",
+            "value": "Améliorez un atout-vision spécifique VII"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_09",
+            "value": "Améliorez un atout-vision spécifique VIII"
+        },
+        {
             "key": "GM_0001",
             "value": "Recrutez des membres dans votre guilde I"
         },
@@ -6535,6 +6607,14 @@
         {
             "key": "M_ST_0205_03_03",
             "value": "Terminez le Chapitre 5, Partie 3 [Notre ennemi commun]"
+        },
+        {
+            "key": "M_ST_0206_01",
+            "value": "Terminez le Chapitre 6, Partie 1 [Portes fermées II]"
+        },
+        {
+            "key": "M_ST_0206_01_02",
+            "value": "Terminez le Chapitre 6, Partie 1 [Continuer de vivre]"
         },
         {
             "key": "M_VIP_LOGB_001",
@@ -13575,6 +13655,42 @@
         {
             "key": "M_BR_SIOL_10_3",
             "value": "Terminez la quête sélective (Terre) 10 (5/5)"
+        },
+        {
+            "key": "M_BR_SOIL_11_1",
+            "value": "Terminez la quête sélective (Terre) 11 (1/3)"
+        },
+        {
+            "key": "M_BR_SOIL_11_2",
+            "value": "Terminez la quête sélective (Terre) 11 (2/3)"
+        },
+        {
+            "key": "M_BR_SOIL_11_3",
+            "value": "Terminez la quête sélective (Terre) 11 (3/3)"
+        },
+        {
+            "key": "M_BR_SOIL_12_1",
+            "value": "Terminez la quête sélective (Terre) 12 (1/3)"
+        },
+        {
+            "key": "M_BR_SOIL_12_2",
+            "value": "Terminez la quête sélective (Terre) 12 (2/3)"
+        },
+        {
+            "key": "M_BR_SOIL_12_3",
+            "value": "Terminez la quête sélective (Terre) 12 (3/3)"
+        },
+        {
+            "key": "M_BR_SOIL_13_1",
+            "value": "Terminez la quête sélective (Terre) 13 (1/3)"
+        },
+        {
+            "key": "M_BR_SOIL_13_2",
+            "value": "Terminez la quête sélective (Terre) 13 (2/3)"
+        },
+        {
+            "key": "M_BR_SOIL_13_3",
+            "value": "Terminez la quête sélective (Terre) 13 (3/3)"
         },
         {
             "key": "M_BR_WIND_01_1",
@@ -33101,6 +33217,550 @@
             "value": "Faites briller vos statues de guilde - Mission 20"
         },
         {
+            "key": "M_MONTHLY_3272",
+            "value": "Venez à bout des quêtes d'histoire - Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_3273",
+            "value": "Venez à bout des quêtes d'histoire - Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_3274",
+            "value": "Venez à bout des quêtes d'histoire - Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_3275",
+            "value": "Venez à bout des quêtes d'histoire - Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_3276",
+            "value": "Venez à bout des quêtes d'histoire - Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_3277",
+            "value": "Venez à bout des quêtes d'histoire - Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_3278",
+            "value": "Venez à bout des quêtes d'histoire - Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_3279",
+            "value": "Venez à bout des quêtes d'histoire - Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_3280",
+            "value": "Venez à bout des quêtes d'histoire - Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_3281",
+            "value": "Venez à bout des quêtes d'histoire - Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_3282",
+            "value": "Venez à bout des quêtes d'histoire - Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_3283",
+            "value": "Venez à bout des quêtes d'histoire - Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_3284",
+            "value": "Venez à bout des quêtes d'histoire - Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_3285",
+            "value": "Venez à bout des quêtes d'histoire - Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_3286",
+            "value": "Venez à bout des quêtes d'histoire - Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_3287",
+            "value": "Venez à bout des quêtes d'histoire - Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_3288",
+            "value": "Venez à bout des quêtes d'histoire - Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_3289",
+            "value": "Venez à bout des quêtes d'histoire - Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_3290",
+            "value": "Venez à bout des quêtes d'histoire - Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_3291",
+            "value": "Venez à bout des quêtes d'histoire - Mission 20"
+        },
+        {
+            "key": "M_MONTHLY_3292",
+            "value": "Venez à bout des quêtes difficiles - Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_3293",
+            "value": "Venez à bout des quêtes difficiles - Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_3294",
+            "value": "Venez à bout des quêtes difficiles - Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_3295",
+            "value": "Venez à bout des quêtes difficiles - Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_3296",
+            "value": "Venez à bout des quêtes difficiles - Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_3297",
+            "value": "Venez à bout des quêtes difficiles - Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_3298",
+            "value": "Venez à bout des quêtes difficiles - Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_3299",
+            "value": "Venez à bout des quêtes difficiles - Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_3300",
+            "value": "Venez à bout des quêtes difficiles - Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_3301",
+            "value": "Venez à bout des quêtes difficiles - Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_3302",
+            "value": "Venez à bout des quêtes difficiles - Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_3303",
+            "value": "Venez à bout des quêtes difficiles - Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_3304",
+            "value": "Venez à bout des quêtes difficiles - Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_3305",
+            "value": "Venez à bout des quêtes difficiles - Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_3306",
+            "value": "Venez à bout des quêtes difficiles - Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_3307",
+            "value": "Venez à bout des quêtes difficiles - Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_3308",
+            "value": "Venez à bout des quêtes difficiles - Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_3309",
+            "value": "Venez à bout des quêtes difficiles - Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_3310",
+            "value": "Venez à bout des quêtes difficiles - Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_3311",
+            "value": "Venez à bout des quêtes multi - Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_3312",
+            "value": "Venez à bout des quêtes multi - Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_3313",
+            "value": "Venez à bout des quêtes multi - Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_3314",
+            "value": "Venez à bout des quêtes multi - Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_3315",
+            "value": "Venez à bout des quêtes multi - Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_3316",
+            "value": "Venez à bout des quêtes multi - Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_3317",
+            "value": "Venez à bout des quêtes multi - Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_3318",
+            "value": "Venez à bout des quêtes multi - Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_3319",
+            "value": "Venez à bout des quêtes multi - Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_3320",
+            "value": "Venez à bout des quêtes multi - Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_3321",
+            "value": "Venez à bout des quêtes multi - Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_3322",
+            "value": "Venez à bout des quêtes multi - Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_3323",
+            "value": "Venez à bout des quêtes multi - Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_3324",
+            "value": "Venez à bout des quêtes multi - Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_3325",
+            "value": "Venez à bout des quêtes multi - Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_3326",
+            "value": "Venez à bout des quêtes multi - Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_3327",
+            "value": "Venez à bout des quêtes multi - Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_3328",
+            "value": "Venez à bout des quêtes multi - Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_3329",
+            "value": "Venez à bout des quêtes multi - Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_3330",
+            "value": "Venez à bout des quêtes multi - Mission 20"
+        },
+        {
+            "key": "M_MONTHLY_3331",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_3332",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_3333",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_3334",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_3335",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_3336",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_3337",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_3338",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_3339",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_3340",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_3341",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_3342",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_3343",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_3344",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_3345",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_3346",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_3347",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_3348",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_3349",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_3350",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 20"
+        },
+        {
+            "key": "M_MONTHLY_3351",
+            "value": "Course aux combats d'Arène - Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_3352",
+            "value": "Course aux combats d'Arène - Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_3353",
+            "value": "Course aux combats d'Arène - Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_3354",
+            "value": "Course aux combats d'Arène - Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_3355",
+            "value": "Course aux combats d'Arène - Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_3356",
+            "value": "Course aux combats d'Arène - Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_3357",
+            "value": "Course aux combats d'Arène - Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_3358",
+            "value": "Course aux combats d'Arène - Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_3359",
+            "value": "Course aux combats d'Arène - Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_3360",
+            "value": "Course aux combats d'Arène - Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_3361",
+            "value": "Course aux combats d'Arène - Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_3362",
+            "value": "Course aux combats d'Arène - Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_3363",
+            "value": "Course aux combats d'Arène - Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_3364",
+            "value": "Course aux combats d'Arène - Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_3365",
+            "value": "Course aux combats d'Arène - Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_3366",
+            "value": "Course aux combats d'Arène - Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_3367",
+            "value": "Course aux combats d'Arène - Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_3368",
+            "value": "Course aux combats d'Arène - Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_3369",
+            "value": "Course aux combats d'Arène - Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_3370",
+            "value": "Course aux combats d'Arène - Mission 20"
+        },
+        {
+            "key": "M_MONTHLY_3371",
+            "value": "Faites courir vos chocobos - Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_3372",
+            "value": "Faites courir vos chocobos - Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_3373",
+            "value": "Faites courir vos chocobos - Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_3374",
+            "value": "Faites courir vos chocobos - Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_3375",
+            "value": "Faites courir vos chocobos - Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_3376",
+            "value": "Faites courir vos chocobos - Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_3377",
+            "value": "Faites courir vos chocobos - Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_3378",
+            "value": "Faites courir vos chocobos - Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_3379",
+            "value": "Faites courir vos chocobos - Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_3380",
+            "value": "Faites courir vos chocobos - Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_3381",
+            "value": "Faites courir vos chocobos - Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_3382",
+            "value": "Faites courir vos chocobos - Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_3383",
+            "value": "Faites courir vos chocobos - Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_3384",
+            "value": "Faites courir vos chocobos - Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_3385",
+            "value": "Faites courir vos chocobos - Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_3386",
+            "value": "Faites courir vos chocobos - Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_3387",
+            "value": "Faites courir vos chocobos - Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_3388",
+            "value": "Faites briller vos statues de guilde - Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_3389",
+            "value": "Faites briller vos statues de guilde - Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_3390",
+            "value": "Faites briller vos statues de guilde - Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_3391",
+            "value": "Faites briller vos statues de guilde - Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_3392",
+            "value": "Faites briller vos statues de guilde - Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_3393",
+            "value": "Faites briller vos statues de guilde - Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_3394",
+            "value": "Faites briller vos statues de guilde - Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_3395",
+            "value": "Faites briller vos statues de guilde - Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_3396",
+            "value": "Faites briller vos statues de guilde - Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_3397",
+            "value": "Faites briller vos statues de guilde - Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_3398",
+            "value": "Faites briller vos statues de guilde - Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_3399",
+            "value": "Faites briller vos statues de guilde - Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_3400",
+            "value": "Faites briller vos statues de guilde - Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_3401",
+            "value": "Faites briller vos statues de guilde - Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_3402",
+            "value": "Faites briller vos statues de guilde - Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_3403",
+            "value": "Faites briller vos statues de guilde - Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_3404",
+            "value": "Faites briller vos statues de guilde - Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_3405",
+            "value": "Faites briller vos statues de guilde - Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_3406",
+            "value": "Faites briller vos statues de guilde - Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_3407",
+            "value": "Faites briller vos statues de guilde - Mission 20"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Utilisez des visiores - Bonus à durée limitée 01"
         },
@@ -36909,6 +37569,250 @@
             "value": "Faites briller vos statues de guilde - Mission 5"
         },
         {
+            "key": "M_ST_2112_0001",
+            "value": "[Mission quotidienne] Mission d'acquisition des récompenses de progression"
+        },
+        {
+            "key": "M_ST_2112_0002",
+            "value": "Maximisez une caractéristique d'un équipement - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0003",
+            "value": "Maximisez une caractéristique d'un équipement - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0004",
+            "value": "Maximisez une caractéristique d'un équipement - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0005",
+            "value": "Maximisez une caractéristique d'un équipement - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0006",
+            "value": "Maximisez une caractéristique d'un équipement - Mission 5"
+        },
+        {
+            "key": "M_ST_2112_0007",
+            "value": "Obtenez des livres secrets de l'amélioration - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0008",
+            "value": "Obtenez des livres secrets de l'amélioration - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0009",
+            "value": "Obtenez des livres secrets de l'amélioration - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0010",
+            "value": "Obtenez des livres secrets de l'amélioration - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0011",
+            "value": "Obtenez des livres secrets de l'amélioration - Mission 5"
+        },
+        {
+            "key": "M_ST_2112_0012",
+            "value": "Obtenez des livres secrets de l'amélioration - Mission 6"
+        },
+        {
+            "key": "M_ST_2112_0013",
+            "value": "Obtenez des livres secrets de l'amélioration - Mission 7"
+        },
+        {
+            "key": "M_ST_2112_0014",
+            "value": "Obtenez des gilkhélones - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0015",
+            "value": "Obtenez des gilkhélones - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0016",
+            "value": "Obtenez des gilkhélones - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0017",
+            "value": "Obtenez des gilkhélones - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0018",
+            "value": "Obtenez des gilkhélones - Mission 5"
+        },
+        {
+            "key": "M_ST_2112_0019",
+            "value": "Obtenez des gilkhélones - Mission 6"
+        },
+        {
+            "key": "M_ST_2112_0020",
+            "value": "Obtenez des gilkhélones - Mission 7"
+        },
+        {
+            "key": "M_ST_2112_0021",
+            "value": "Fabriquez des équipements - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0022",
+            "value": "Fabriquez des équipements - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0023",
+            "value": "Fabriquez des équipements - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0024",
+            "value": "Fabriquez des équipements - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0025",
+            "value": "Fabriquez des équipements - Mission 5"
+        },
+        {
+            "key": "M_ST_2112_0026",
+            "value": "Fabriquez des équipements - Mission 6"
+        },
+        {
+            "key": "M_ST_2112_0027",
+            "value": "Venez à bout des quêtes d'histoire - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0028",
+            "value": "Venez à bout des quêtes d'histoire - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0029",
+            "value": "Venez à bout des quêtes d'histoire - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0030",
+            "value": "Venez à bout des quêtes d'histoire - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0031",
+            "value": "Venez à bout des quêtes d'histoire - Mission 5"
+        },
+        {
+            "key": "M_ST_2112_0032",
+            "value": "Venez à bout des quêtes difficiles - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0033",
+            "value": "Venez à bout des quêtes difficiles - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0034",
+            "value": "Venez à bout des quêtes difficiles - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0035",
+            "value": "Venez à bout des quêtes difficiles - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0036",
+            "value": "Venez à bout des quêtes difficiles - Mission 5"
+        },
+        {
+            "key": "M_ST_2112_0037",
+            "value": "Venez à bout des quêtes multi - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0038",
+            "value": "Venez à bout des quêtes multi - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0039",
+            "value": "Venez à bout des quêtes multi - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0040",
+            "value": "Venez à bout des quêtes multi - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0041",
+            "value": "Venez à bout des quêtes multi - Mission 5"
+        },
+        {
+            "key": "M_ST_2112_0042",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0043",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0044",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0045",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0046",
+            "value": "Maîtrisez la Chambre d'EXP - Mission 5"
+        },
+        {
+            "key": "M_ST_2112_0047",
+            "value": "Course aux combats d'Arène - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0048",
+            "value": "Course aux combats d'Arène - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0049",
+            "value": "Course aux combats d'Arène - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0050",
+            "value": "Course aux combats d'Arène - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0051",
+            "value": "Course aux combats d'Arène - Mission 5"
+        },
+        {
+            "key": "M_ST_2112_0052",
+            "value": "Faites courir vos chocobos - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0053",
+            "value": "Faites courir vos chocobos - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0054",
+            "value": "Faites courir vos chocobos - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0055",
+            "value": "Faites courir vos chocobos - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0056",
+            "value": "Faites courir vos chocobos - Mission 5"
+        },
+        {
+            "key": "M_ST_2112_0057",
+            "value": "Faites briller vos statues de guilde - Mission 1"
+        },
+        {
+            "key": "M_ST_2112_0058",
+            "value": "Faites briller vos statues de guilde - Mission 2"
+        },
+        {
+            "key": "M_ST_2112_0059",
+            "value": "Faites briller vos statues de guilde - Mission 3"
+        },
+        {
+            "key": "M_ST_2112_0060",
+            "value": "Faites briller vos statues de guilde - Mission 4"
+        },
+        {
+            "key": "M_ST_2112_0061",
+            "value": "Faites briller vos statues de guilde - Mission 5"
+        },
+        {
             "key": "M_PLY_AWARD_001",
             "value": "Anonyme"
         },
@@ -39963,10 +40867,6 @@
         {
             "key": "M_GL_DAILY_VID",
             "value": "Lancez une invocation vidéo"
-        },
-        {
-            "key": "M_GL_DAILY_GUILD",
-            "value": "[Limité] Quête d'événement quotidienne de guilde"
         }
     ]
 }

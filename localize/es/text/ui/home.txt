@@ -11686,7 +11686,7 @@
         },
         {
             "key": "MATERIA_INTEGRA_BTN_CAUTION",
-            "value": "No tienes suficientes materiales."
+            "value": "Guiles o materiales insuficientes."
         },
         {
             "key": "MATERIA_INTEGRA_EFF_DESC",

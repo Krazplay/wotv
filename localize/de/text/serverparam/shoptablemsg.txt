@@ -613,6 +613,18 @@
             "value": ""
         },
         {
+            "key": "Normal-20220119_A",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_B",
+            "value": ""
+        },
+        {
+            "key": "Normal-20220119_C",
+            "value": ""
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Launischer Laden (Spielerrang 1 bis 29)"
         },
@@ -1177,6 +1189,18 @@
             "value": ""
         },
         {
+            "key": "Guerrilla-20220119A",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119B",
+            "value": ""
+        },
+        {
+            "key": "Guerrilla-20220119C",
+            "value": ""
+        },
+        {
             "key": "Limited-20200422_A",
             "value": "Der FFT-Kollaboladen (Runde 2): Jetzt mit exklusiven Angeboten!"
         },
@@ -1195,6 +1219,22 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20220330_B",
+            "value": "Der FINAL FANTASY VI-Kollaboladen Teil II: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+        },
+        {
+            "key": "Limited-gl20220330",
+            "value": "Der „2. Jubiläum“-Luxusladen Teil II: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+        },
+        {
+            "key": "Limited-gl20220330_A",
+            "value": "Der „2. Jubiläum“-Laden Teil II: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+        },
+        {
+            "key": "Limited-gl20220330_C",
+            "value": "Der Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
         },
         {
             "key": "Limited-gl20220323_D",
@@ -1262,7 +1302,7 @@
         },
         {
             "key": "Limited-gl20220316_D",
-            "value": "Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+            "value": "Der Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
         },
         {
             "key": "Limited-gl20220309",
@@ -1318,7 +1358,7 @@
         },
         {
             "key": "Limited-gl20220216_B",
-            "value": "Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+            "value": "Der Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
         },
         {
             "key": "Limited-gl20220216_C_01",
@@ -1366,7 +1406,7 @@
         },
         {
             "key": "Limited-gl20220126_B",
-            "value": "Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+            "value": "Der Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
         },
         {
             "key": "Limited-gl20220119",
@@ -1394,7 +1434,7 @@
         },
         {
             "key": "Limited-gl20220112_B",
-            "value": "Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+            "value": "Der Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
         },
         {
             "key": "Limited-gl20220112_C",
@@ -1434,7 +1474,7 @@
         },
         {
             "key": "Limited-gl20211229_C",
-            "value": "Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+            "value": "Der Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
         },
         {
             "key": "Limited-gl20211222",
@@ -1530,7 +1570,7 @@
         },
         {
             "key": "Limited-gl20211110_B",
-            "value": "Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+            "value": "Der Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
         },
         {
             "key": "Limited-gl20211110_C",
@@ -1642,7 +1682,7 @@
         },
         {
             "key": "Limited-gl20211006_B",
-            "value": "Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+            "value": "Der Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
         },
         {
             "key": "Limited-gl20211006_C",
@@ -1738,7 +1778,7 @@
         },
         {
             "key": "Limited-gl20210915_A",
-            "value": "Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+            "value": "Der Laden für neue Visionskarten im Blickpunkt: Jetzt mit exklusiven Feierangeboten im Sortiment!"
         },
         {
             "key": "Limited-gl20210915_B",
@@ -2855,6 +2895,14 @@
         {
             "key": "Event-Summon_GL20210728_9MDL",
             "value": "Dies ist der Tauschladen für „9 Millionen Downloads“-Medaillen, kupo!"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FFVI_VISION",
+            "value": "Dies ist der Tauschladen für FFVI-Visionskarten-Beschwörungsmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Summon_GL20220330_FF_MARCH",
+            "value": "Dies ist der Tauschladen für März-Visionskarten-Beschwörungsmedaillen A, kupo!"
         },
         {
             "key": "Event-Quest_gl20220323_FF6Login",
@@ -4831,6 +4879,10 @@
         {
             "key": "Event-Piece_GL20220323",
             "value": "Dies ist der Tauschladen für Seelensterne, kupo!"
+        },
+        {
+            "key": "Event-VisioncardPiece_GL20220330",
+            "value": "Dies ist der Tauschladen für Visionssterne, kupo!"
         },
         {
             "key": "Event-VisioncardPiece_GL20220323",
@@ -8770,6 +8822,38 @@
         },
         {
             "key": "Limited-FIRE_2022_03_D",
+            "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WATER_2022_03_E",
+            "value": "Der Gezeitenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WIND_2022_03_E",
+            "value": "Der Böenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-THUNDER_2022_03_E",
+            "value": "Der Schockbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SOIL_2022_03_E",
+            "value": "Der Lehmbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SHINE_2022_03_E",
+            "value": "Der Schimmerbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-DARK_2022_03_E",
+            "value": "Der Schattenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-ICE_2022_03_E",
+            "value": "Der Frostbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-FIRE_2022_03_E",
             "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
         }
     ]

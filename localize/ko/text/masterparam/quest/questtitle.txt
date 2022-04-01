@@ -2837,6 +2837,46 @@
             "value": "공통의 적은…"
         },
         {
+            "key": "QE_ST_02060101",
+            "value": "싫어하는 짓을 1"
+        },
+        {
+            "key": "QE_ST_02060102",
+            "value": "싫어하는 짓을 2"
+        },
+        {
+            "key": "QE_ST_02060103",
+            "value": "버린 말"
+        },
+        {
+            "key": "QE_ST_02060104",
+            "value": "닫힌 성문 1"
+        },
+        {
+            "key": "QE_ST_02060105",
+            "value": "닫힌 성문 2"
+        },
+        {
+            "key": "QE_ST_02060106",
+            "value": "각각의 긍지"
+        },
+        {
+            "key": "QE_ST_02060107",
+            "value": "사달리의 지령"
+        },
+        {
+            "key": "QE_ST_02060108",
+            "value": "오베론의 귀환 1"
+        },
+        {
+            "key": "QE_ST_02060109",
+            "value": "오베론의 귀환 2"
+        },
+        {
+            "key": "QE_ST_02060110",
+            "value": "살다"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "조각 획득: 자잔"
         },
@@ -3221,6 +3261,10 @@
             "value": "자잔"
         },
         {
+            "key": "QE_CH_LW_ZZAN2",
+            "value": "자잔(2)"
+        },
+        {
             "key": "QE_CH_LW_RART",
             "value": "리아트"
         },
@@ -3239,6 +3283,10 @@
         {
             "key": "QE_CH_LW_BYLO",
             "value": "베일로"
+        },
+        {
+            "key": "QE_CH_LW_BYLO2",
+            "value": "베일로(2)"
         },
         {
             "key": "QE_CH_LW_RYER",
@@ -3303,6 +3351,10 @@
         {
             "key": "QE_CH_LW_OOOO",
             "value": "오우"
+        },
+        {
+            "key": "QE_CH_LW_OOOO2",
+            "value": "오우(2)"
         },
         {
             "key": "QE_CH_LW_LRNZ",
@@ -3407,6 +3459,10 @@
         {
             "key": "QE_CH_LW_MDNA",
             "value": "메디아나"
+        },
+        {
+            "key": "QE_CH_LW_MDNA2",
+            "value": "메디아나(2)"
         },
         {
             "key": "QE_CH_LW_AYKA",
@@ -5113,6 +5169,30 @@
             "value": "초고난도 파이널판타지14 [EX]"
         },
         {
+            "key": "QE_MU_AEX_113_1",
+            "value": "또 다른 이야기 제1장 제3절 [EX]"
+        },
+        {
+            "key": "QE_MU_AEX_113_2",
+            "value": "초고난도 또 다른 이야기 제1장 제3절 [EX]"
+        },
+        {
+            "key": "QE_MU_AEX_112_1",
+            "value": "또 다른 이야기 제1장 제2절 [EX]"
+        },
+        {
+            "key": "QE_MU_AEX_112_2",
+            "value": "초고난도 또 다른 이야기 제1장 제2절 [EX]"
+        },
+        {
+            "key": "QE_MU_AEX_111_1",
+            "value": "또 다른 이야기 제1장 제1절 [EX]"
+        },
+        {
+            "key": "QE_MU_AEX_111_2",
+            "value": "초고난도 또 다른 이야기 제1장 제1절 [EX]"
+        },
+        {
             "key": "QE_MU_EV_10_EX",
             "value": "레오니스의 고문서 [EX]"
         },
@@ -5151,30 +5231,6 @@
         {
             "key": "QE_MU_EV_ET_EX4",
             "value": "초고난도 에트와 육성 EX 퀘스트 2"
-        },
-        {
-            "key": "QE_MU_AEX_113_1",
-            "value": "또 다른 이야기 제1장 제3절 [EX]"
-        },
-        {
-            "key": "QE_MU_AEX_113_2",
-            "value": "초고난도 또 다른 이야기 제1장 제3절 [EX]"
-        },
-        {
-            "key": "QE_MU_AEX_112_1",
-            "value": "또 다른 이야기 제1장 제2절 [EX]"
-        },
-        {
-            "key": "QE_MU_AEX_112_2",
-            "value": "초고난도 또 다른 이야기 제1장 제2절 [EX]"
-        },
-        {
-            "key": "QE_MU_AEX_111_1",
-            "value": "또 다른 이야기 제1장 제1절 [EX]"
-        },
-        {
-            "key": "QE_MU_AEX_111_2",
-            "value": "초고난도 또 다른 이야기 제1장 제1절 [EX]"
         },
         {
             "key": "QE_EV_14_01",
@@ -7329,6 +7385,18 @@
             "value": "선택 퀘스트(땅) #10"
         },
         {
+            "key": "QE_BR_SOIL_11",
+            "value": "선택 퀘스트(땅) #11"
+        },
+        {
+            "key": "QE_BR_SOIL_12",
+            "value": "선택 퀘스트(땅) #12"
+        },
+        {
+            "key": "QE_BR_SOIL_13",
+            "value": "선택 퀘스트(땅) #13"
+        },
+        {
             "key": "QE_BR_WIND_01",
             "value": "선택 퀘스트(바람) #1"
         },
@@ -7751,6 +7819,14 @@
         {
             "key": "QE_SB_EURP_02",
             "value": "에우로페 전투(2)"
+        },
+        {
+            "key": "QE_SB_ODIN_01_01",
+            "value": "다크 오딘 전투"
+        },
+        {
+            "key": "QE_SB_ODIN_01_02",
+            "value": "다크 오딘 전투(2)"
         },
         {
             "key": "QE_SB_MABR_01",
@@ -9623,6 +9699,10 @@
         {
             "key": "QE_VC_LW_ODIN",
             "value": "조각 획득: 차원 절단-오딘"
+        },
+        {
+            "key": "QE_VC_LW_ODIN_01",
+            "value": "조각 획득: 환마참검-다크 오딘"
         },
         {
             "key": "QE_VC_LW_TSLP",

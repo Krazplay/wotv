@@ -630,7 +630,7 @@
         },
         {
             "key": "BUFF_OtherAttackCastTime",
-            "value": "縮短攻擊能力的發動時間"
+            "value": "攻擊能力的發動時間"
         },
         {
             "key": "BUFF_OtherApGain",

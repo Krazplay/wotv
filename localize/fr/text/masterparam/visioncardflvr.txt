@@ -285,6 +285,14 @@
             "value": "Le conte d'Ardra célèbre son deuxième anniversaire. Nombreux sont les héros qui ont traversé le temps et l'espace afin de prendre part aux festivités. Ennemis jurés sur les champs de bataille, les voici qui enterrent la hache de guerre le temps d'une journée afin de lever leurs verres dans un joyeux brouhaha mêlant discussions et dégustations. <br>L'atmosphère amicale de la fête semble atteindre jusqu'au cœur des guerriers les plus féroces. Même le puissant Zazan paraît satisfait du délicieux banquet qui se prépare."
         },
         {
+            "key": "VC_LW_ODIN_01",
+            "value": "　Une étrange chimère qui tyrannisait un monde lointain. Malgré sa ressemblance avec Odin, on lui attribue un pouvoir d'une toute autre sorte.<br>On raconte qu'un « Seigneur des ténèbres » redouté jadis aurait transmis ses terribles pouvoirs à la chimère au seuil de la mort, mais il est difficile de vérifier la véracité de cette légende.<br>En revanche, l'aversion et la haine incommensurables que le monstre voue à l'humanité ne fait aucun doute."
+        },
+        {
+            "key": "VC_FF6_MV1",
+            "value": "La guerre des Magi...<br>Quand les flammes s'éteignirent à la fin du combat, toute trace de magie avait disparu du monde qui gisait en ruine...<br>1000 ans plus tard... L'acier, la poudre noire et la technologie ont remplacé la magie et redonné au monde sa gloire d'antan.<br>Cependant, quelqu'un cherche à faire renaître le pouvoir légendaire de la magie afin de conquérir le monde entier.<br>Qui oserait commettre les mêmes erreurs qu'il y a 1000 ans ? L'histoire se répètera-t-elle ?"
+        },
+        {
             "key": "VC_FF15_MV1",
             "value": "　On raconte que le « roi légitime » sauvera le monde d'Eos en prise au chaos. À l'âge de cinq ans, le prince Noctis du Lucis a été choisi par le cristal pour tenir ce rôle.<br>Aux côtés du roi légitime œuvre également un « Oracle », qui doit purifier le monde et ramener l'équilibre. Lunafreya, une jeune femme de Tenebrae qui est née pour cette vocation, s'apprête à épouser Noctis.<br>Si le couple ne s'est connu que pendant leur enfance, aucun n'a oublié le serment juré d'accomplir leurs destins."
         },

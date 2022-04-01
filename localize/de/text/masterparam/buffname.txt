@@ -3957,6 +3957,26 @@
             "value": ""
         },
         {
+            "key": "BUFF_ODIN_01_M_01",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ODIN_01_M_03",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ODIN_01_M_04_01",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ODIN_01_M_04_02",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ODIN_01_M_05",
+            "value": ""
+        },
+        {
             "key": "BUFF_IGNT_M_01_01",
             "value": ""
         },
@@ -5481,6 +5501,10 @@
             "value": ""
         },
         {
+            "key": "BUFF_SMN_ODIN_01",
+            "value": ""
+        },
+        {
             "key": "BUFF_UN_BD_EC_HP_200",
             "value": ""
         },
@@ -6873,6 +6897,14 @@
             "value": ""
         },
         {
+            "key": "BUFF_MA_LW_MDNA_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_MDNA_2_S",
+            "value": ""
+        },
+        {
             "key": "BUFF_MA_LW_AYKA",
             "value": ""
         },
@@ -6914,6 +6946,14 @@
         },
         {
             "key": "BUFF_MA_LW_OOOO",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_OOOO_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_OOOO_2_S",
             "value": ""
         },
         {
@@ -6970,6 +7010,10 @@
         },
         {
             "key": "BUFF_MA_LW_BYLO",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_BYLO_2",
             "value": ""
         },
         {
@@ -7030,6 +7074,10 @@
         },
         {
             "key": "BUFF_MA_LW_ZZAN",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_ZZAN_2",
             "value": ""
         },
         {
@@ -12953,6 +13001,138 @@
             "value": ""
         },
         {
+            "key": "BUFF_VC_LW_ODIN_01_GS",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2_AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2MAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS_AW_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GSMAX_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2_AW_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_GS2MAX_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_P",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_PAW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_PMAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_P2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_P2AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_LW_ODIN_01_P2MAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_ODIN_01_P3",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_ODIN_01_P3AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_ODIN_01_P3MAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GS_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GS_AW_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_GSMAX_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_FF6_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_FF6_MV1_P2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_FF6_MV1_P2AW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_GL_VC_LW_FF6_MV1_P2MAX",
+            "value": ""
+        },
+        {
             "key": "BUFF_VC_LW_CACT_P",
             "value": ""
         },
@@ -14242,6 +14422,26 @@
         },
         {
             "key": "BUFF_LW_SPE_018_5",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_HLM_009_1",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_HLM_009_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_HLM_009_3",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_HLM_009_4",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_HLM_009_5",
             "value": ""
         },
         {
@@ -16610,7 +16810,7 @@
         },
         {
             "key": "BUFF_IFRT_05",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_IFRT_06",
@@ -16654,7 +16854,7 @@
         },
         {
             "key": "BUFF_IFRT_16",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_IFRT_17",
@@ -17290,7 +17490,7 @@
         },
         {
             "key": "BUFF_SIRE_11",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_SIRE_12",
@@ -17462,11 +17662,11 @@
         },
         {
             "key": "BUFF_IGNT_13",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_IGNT_14",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_IGNT_15",
@@ -17494,7 +17694,7 @@
         },
         {
             "key": "BUFF_IGNT_21",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_IGNT_22",
@@ -17506,11 +17706,11 @@
         },
         {
             "key": "BUFF_IGNT_24",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_IGNT_25",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_IGNT_26",
@@ -17594,7 +17794,7 @@
         },
         {
             "key": "BUFF_ODIN_05",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_ODIN_06",
@@ -17626,11 +17826,11 @@
         },
         {
             "key": "BUFF_ODIN_13",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_ODIN_14",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_ODIN_15",
@@ -17638,7 +17838,7 @@
         },
         {
             "key": "BUFF_ODIN_16",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_ODIN_17",
@@ -17658,7 +17858,7 @@
         },
         {
             "key": "BUFF_ODIN_21",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_ODIN_22",
@@ -17670,11 +17870,11 @@
         },
         {
             "key": "BUFF_ODIN_24",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_ODIN_25",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_ODIN_26",
@@ -17726,19 +17926,19 @@
         },
         {
             "key": "BUFF_ODIN_38",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_ODIN_39",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_ODIN_40",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_ODIN_41",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_BHMT_01",
@@ -17790,11 +17990,11 @@
         },
         {
             "key": "BUFF_BHMT_13",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_BHMT_14",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_BHMT_15",
@@ -17834,11 +18034,11 @@
         },
         {
             "key": "BUFF_BHMT_24",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_BHMT_25",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_BHMT_26",
@@ -17890,19 +18090,19 @@
         },
         {
             "key": "BUFF_BHMT_38",
-            "value": "Dunkelangriff +4 %"
+            "value": "Dunkelangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_BHMT_39",
-            "value": "Dunkelangriff +5 %"
+            "value": "Dunkelangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_BHMT_40",
-            "value": "Dunkelangriff +6 %"
+            "value": "Dunkelangriff-Erhöhung +6 %"
         },
         {
             "key": "BUFF_BHMT_41",
-            "value": "Dunkelangriff +10 %"
+            "value": "Dunkelangriff-Erhöhung +10 %"
         },
         {
             "key": "BUFF_MABR_01",
@@ -18802,7 +19002,7 @@
         },
         {
             "key": "BUFF_OCHU_21",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_OCHU_22",
@@ -18934,11 +19134,11 @@
         },
         {
             "key": "BUFF_THDG_13",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_THDG_14",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_THDG_15",
@@ -18978,11 +19178,11 @@
         },
         {
             "key": "BUFF_THDG_24",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_THDG_25",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_THDG_26",
@@ -18998,7 +19198,7 @@
         },
         {
             "key": "BUFF_THDG_29",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_THDG_30",
@@ -19198,19 +19398,19 @@
         },
         {
             "key": "BUFF_WRMC_38",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_WRMC_39",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_WRMC_40",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_WRMC_41",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_DABL_01",
@@ -19294,7 +19494,7 @@
         },
         {
             "key": "BUFF_DABL_21",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_DABL_22",
@@ -19362,19 +19562,19 @@
         },
         {
             "key": "BUFF_DABL_38",
-            "value": "Dunkelangriff +4 %"
+            "value": "Dunkelangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_DABL_39",
-            "value": "Dunkelangriff +5 %"
+            "value": "Dunkelangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_DABL_40",
-            "value": "Dunkelangriff +6 %"
+            "value": "Dunkelangriff-Erhöhung +6 %"
         },
         {
             "key": "BUFF_DABL_41",
-            "value": "Dunkelangriff +10 %"
+            "value": "Dunkelangriff-Erhöhung +10 %"
         },
         {
             "key": "BUFF_CHCB_01_01",
@@ -19486,7 +19686,7 @@
         },
         {
             "key": "BUFF_CHCB_01_28",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_CHCB_01_29",
@@ -19690,7 +19890,7 @@
         },
         {
             "key": "BUFF_FNRR_05",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_FNRR_06",
@@ -19722,11 +19922,11 @@
         },
         {
             "key": "BUFF_FNRR_13",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_FNRR_14",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_FNRR_15",
@@ -19734,7 +19934,7 @@
         },
         {
             "key": "BUFF_FNRR_16",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_FNRR_17",
@@ -19766,11 +19966,11 @@
         },
         {
             "key": "BUFF_FNRR_24",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_FNRR_25",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_FNRR_26",
@@ -19822,19 +20022,19 @@
         },
         {
             "key": "BUFF_FNRR_38",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_FNRR_39",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_FNRR_40",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_FNRR_41",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_TITN_01",
@@ -19854,7 +20054,7 @@
         },
         {
             "key": "BUFF_TITN_05",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_TITN_06",
@@ -19898,7 +20098,7 @@
         },
         {
             "key": "BUFF_TITN_16",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_TITN_17",
@@ -20214,11 +20414,11 @@
         },
         {
             "key": "BUFF_AGON_13",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_AGON_14",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_AGON_15",
@@ -20258,11 +20458,11 @@
         },
         {
             "key": "BUFF_AGON_24",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_AGON_25",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_AGON_26",
@@ -20410,7 +20610,7 @@
         },
         {
             "key": "BUFF_CHCB_02_21",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_CHCB_02_22",
@@ -20506,7 +20706,7 @@
         },
         {
             "key": "BUFF_DMNW_04",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_DMNW_05",
@@ -20642,19 +20842,19 @@
         },
         {
             "key": "BUFF_DMNW_38",
-            "value": "Dunkelangriff +4 %"
+            "value": "Dunkelangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_DMNW_39",
-            "value": "Dunkelangriff +5 %"
+            "value": "Dunkelangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_DMNW_40",
-            "value": "Dunkelangriff +6 %"
+            "value": "Dunkelangriff-Erhöhung +6 %"
         },
         {
             "key": "BUFF_DMNW_41",
-            "value": "Dunkelangriff +10 %"
+            "value": "Dunkelangriff-Erhöhung +10 %"
         },
         {
             "key": "BUFF_TNBR_01",
@@ -20738,7 +20938,7 @@
         },
         {
             "key": "BUFF_TNBR_21",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_TNBR_22",
@@ -21134,19 +21334,19 @@
         },
         {
             "key": "BUFF_GCAL_38",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_GCAL_39",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_GCAL_40",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_GCAL_41",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_TYPN_01",
@@ -21298,19 +21498,19 @@
         },
         {
             "key": "BUFF_TYPN_38",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_TYPN_39",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_TYPN_40",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_TYPN_41",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_MRLT_01",
@@ -21690,11 +21890,11 @@
         },
         {
             "key": "BUFF_OMEG_13",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_OMEG_14",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_OMEG_15",
@@ -21734,11 +21934,11 @@
         },
         {
             "key": "BUFF_OMEG_24",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_OMEG_25",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_OMEG_26",
@@ -21754,7 +21954,7 @@
         },
         {
             "key": "BUFF_OMEG_29",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_OMEG_30",
@@ -21790,19 +21990,19 @@
         },
         {
             "key": "BUFF_OMEG_38",
-            "value": "Dunkelangriff +4 %"
+            "value": "Dunkelangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_OMEG_39",
-            "value": "Dunkelangriff +5 %"
+            "value": "Dunkelangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_OMEG_40",
-            "value": "Dunkelangriff +6 %"
+            "value": "Dunkelangriff-Erhöhung +6 %"
         },
         {
             "key": "BUFF_OMEG_41",
-            "value": "Dunkelangriff +10 %"
+            "value": "Dunkelangriff-Erhöhung +10 %"
         },
         {
             "key": "BUFF_PNIX_01",
@@ -22610,19 +22810,19 @@
         },
         {
             "key": "BUFF_KRKN_38",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_KRKN_39",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_KRKN_40",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_KRKN_41",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_WHDG_01",
@@ -22738,7 +22938,7 @@
         },
         {
             "key": "BUFF_WHDG_29",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_WHDG_30",
@@ -23130,7 +23330,7 @@
         },
         {
             "key": "BUFF_ZUUU_04",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_ZUUU_05",
@@ -23218,7 +23418,7 @@
         },
         {
             "key": "BUFF_ZUUU_26",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_ZUUU_27",
@@ -23294,7 +23494,7 @@
         },
         {
             "key": "BUFF_OGRE_04",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_OGRE_05",
@@ -23374,11 +23574,11 @@
         },
         {
             "key": "BUFF_OGRE_24",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_OGRE_25",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_OGRE_26",
@@ -23386,7 +23586,7 @@
         },
         {
             "key": "BUFF_OGRE_27",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_OGRE_28",
@@ -23458,7 +23658,7 @@
         },
         {
             "key": "BUFF_BOMB_04",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_BOMB_05",
@@ -23546,7 +23746,7 @@
         },
         {
             "key": "BUFF_BOMB_26",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_BOMB_27",
@@ -23658,11 +23858,11 @@
         },
         {
             "key": "BUFF_DMCM_13",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_DMCM_14",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_DMCM_15",
@@ -23702,11 +23902,11 @@
         },
         {
             "key": "BUFF_DMCM_24",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_DMCM_25",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_DMCM_26",
@@ -23758,19 +23958,19 @@
         },
         {
             "key": "BUFF_DMCM_38",
-            "value": "Dunkelangriff +4 %"
+            "value": "Dunkelangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_DMCM_39",
-            "value": "Dunkelangriff +5 %"
+            "value": "Dunkelangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_DMCM_40",
-            "value": "Dunkelangriff +6 %"
+            "value": "Dunkelangriff-Erhöhung +6 %"
         },
         {
             "key": "BUFF_DMCM_41",
-            "value": "Dunkelangriff +10 %"
+            "value": "Dunkelangriff-Erhöhung +10 %"
         },
         {
             "key": "BUFF_SCPN_01",
@@ -23822,11 +24022,11 @@
         },
         {
             "key": "BUFF_SCPN_13",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_SCPN_14",
-            "value": "Schlitzangriff +3 %"
+            "value": "Schlitzangriff-Erhöhung +3 %"
         },
         {
             "key": "BUFF_SCPN_15",
@@ -23866,11 +24066,11 @@
         },
         {
             "key": "BUFF_SCPN_24",
-            "value": "Schlitzangriff +5 %"
+            "value": "Schlitzangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_SCPN_25",
-            "value": "Schlitzangriff +4 %"
+            "value": "Schlitzangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_SCPN_26",
@@ -23954,7 +24154,7 @@
         },
         {
             "key": "BUFF_EFKS_05",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_EFKS_06",
@@ -23998,7 +24198,7 @@
         },
         {
             "key": "BUFF_EFKS_16",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_EFKS_17",
@@ -24118,7 +24318,7 @@
         },
         {
             "key": "BUFF_MNPL_05",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_MNPL_06",
@@ -24162,7 +24362,7 @@
         },
         {
             "key": "BUFF_MNPL_16",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_MNPL_17",
@@ -24182,7 +24382,7 @@
         },
         {
             "key": "BUFF_MNPL_21",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_MNPL_22",
@@ -24306,7 +24506,7 @@
         },
         {
             "key": "BUFF_ARMN_03_11",
-            "value": "Schlitzresistenz +4 %"
+            "value": "Schlitzresistenz +4 %"
         },
         {
             "key": "BUFF_ARMN_03_12",
@@ -24442,7 +24642,7 @@
         },
         {
             "key": "BUFF_BCRD_05",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_BCRD_06",
@@ -24486,7 +24686,7 @@
         },
         {
             "key": "BUFF_BCRD_16",
-            "value": "ANG +5 %"
+            "value": "ANG-Erhöhung +5 %"
         },
         {
             "key": "BUFF_BCRD_17",
@@ -24753,6 +24953,170 @@
             "value": "Blitzangriff +10 %"
         },
         {
+            "key": "BUFF_ODIN_01_01",
+            "value": "Ausweichrate +3"
+        },
+        {
+            "key": "BUFF_ODIN_01_02",
+            "value": "Gift-Aktivierungschance +2"
+        },
+        {
+            "key": "BUFF_ODIN_01_03",
+            "value": "Kritische Ausweichrate +3"
+        },
+        {
+            "key": "BUFF_ODIN_01_04",
+            "value": "Menschenfresser +2 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_05",
+            "value": "AP +2 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_06",
+            "value": "Anrufungsmagie Stufe 2"
+        },
+        {
+            "key": "BUFF_ODIN_01_07",
+            "value": "Anrufungsmagie Stufe 4"
+        },
+        {
+            "key": "BUFF_ODIN_01_08",
+            "value": "Ausweichrate +4"
+        },
+        {
+            "key": "BUFF_ODIN_01_09",
+            "value": "Magieresistenz +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_10",
+            "value": "Magieresistenz +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_11",
+            "value": "Gift-Aktivierungschance +3"
+        },
+        {
+            "key": "BUFF_ODIN_01_12",
+            "value": "Kritische Ausweichrate +4"
+        },
+        {
+            "key": "BUFF_ODIN_01_13",
+            "value": "Schlitzangriff-Erhöhung +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_14",
+            "value": "Schlitzangriff-Erhöhung +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_15",
+            "value": "Menschenfresser +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_16",
+            "value": "AP +5 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_17",
+            "value": "Geschossresistenz +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_18",
+            "value": "Geschossresistenz +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_19",
+            "value": "Anrufungsmagie Stufe 7"
+        },
+        {
+            "key": "BUFF_ODIN_01_20",
+            "value": "Magieresistenz +5 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_21",
+            "value": "Magieresistenz +4 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_22",
+            "value": "Gift-Aktivierungschance +4"
+        },
+        {
+            "key": "BUFF_ODIN_01_23",
+            "value": "Gift-Aktivierungschance +6"
+        },
+        {
+            "key": "BUFF_ODIN_01_24",
+            "value": "Schlitzangriff-Erhöhung +5 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_25",
+            "value": "Schlitzangriff-Erhöhung +4 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_26",
+            "value": "Menschenfresser +6 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_27",
+            "value": "Menschenfresser +4 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_28",
+            "value": "Geschossresistenz +5 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_29",
+            "value": "Geschossresistenz +4 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_30",
+            "value": "Anrufungsmagie Stufe 10"
+        },
+        {
+            "key": "BUFF_ODIN_01_31",
+            "value": "Anrufungsmagie Stufe 15"
+        },
+        {
+            "key": "BUFF_ODIN_01_32",
+            "value": "Gift-Aktivierungschance +10"
+        },
+        {
+            "key": "BUFF_ODIN_01_33",
+            "value": " Menschenfresser +10 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_34",
+            "value": "Anrufungsmagie Stufe 20"
+        },
+        {
+            "key": "BUFF_ODIN_01_35",
+            "value": "Ausweichrate +4"
+        },
+        {
+            "key": "BUFF_ODIN_01_36",
+            "value": "Ausweichrate +5"
+        },
+        {
+            "key": "BUFF_ODIN_01_37",
+            "value": "Ausweichrate +6"
+        },
+        {
+            "key": "BUFF_ODIN_01_38",
+            "value": "Schlitzangriff-Erhöhung +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_39",
+            "value": "Schlitzangriff-Erhöhung +3 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_40",
+            "value": "Schlitzangriff-Erhöhung +4 %"
+        },
+        {
+            "key": "BUFF_ODIN_01_41",
+            "value": "Schlitzangriff-Erhöhung +5 %"
+        },
+        {
             "key": "BUFF_MRE_FIRE_HP_1",
             "value": "LP +1 %"
         },
@@ -24838,7 +25202,7 @@
         },
         {
             "key": "BUFF_MRE_FIRE_ATK_2",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_MRE_FIRE_ATK_4",
@@ -25074,7 +25438,7 @@
         },
         {
             "key": "BUFF_MRE_ICE_ATK_2",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_MRE_ICE_ATK_4",
@@ -25310,7 +25674,7 @@
         },
         {
             "key": "BUFF_MRE_WIND_ATK_2",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_MRE_WIND_ATK_4",
@@ -25546,7 +25910,7 @@
         },
         {
             "key": "BUFF_MRE_SOIL_ATK_2",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_MRE_SOIL_ATK_4",
@@ -25782,7 +26146,7 @@
         },
         {
             "key": "BUFF_MRE_THUNDER_ATK_2",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_MRE_THUNDER_ATK_4",
@@ -26018,7 +26382,7 @@
         },
         {
             "key": "BUFF_MRE_WATER_ATK_2",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_MRE_WATER_ATK_4",
@@ -26254,7 +26618,7 @@
         },
         {
             "key": "BUFF_MRE_SHINE_ATK_2",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_MRE_SHINE_ATK_4",
@@ -26490,7 +26854,7 @@
         },
         {
             "key": "BUFF_MRE_DARK_ATK_2",
-            "value": "ANG +2 %"
+            "value": "ANG-Erhöhung +2 %"
         },
         {
             "key": "BUFF_MRE_DARK_ATK_4",
@@ -26598,15 +26962,15 @@
         },
         {
             "key": "BUFF_MRE_DARK_ELEM_4",
-            "value": "Dunkelangriff +4 %"
+            "value": "Dunkelangriff-Erhöhung +4 %"
         },
         {
             "key": "BUFF_MRE_DARK_ELEM_5",
-            "value": "Dunkelangriff +5 %"
+            "value": "Dunkelangriff-Erhöhung +5 %"
         },
         {
             "key": "BUFF_MRE_DARK_ELEM_6",
-            "value": "Dunkelangriff +6 %"
+            "value": "Dunkelangriff-Erhöhung +6 %"
         },
         {
             "key": "BUFF_MRE_DARK_ELEM_8",
@@ -26614,7 +26978,7 @@
         },
         {
             "key": "BUFF_MRE_DARK_ELEM_10",
-            "value": "Dunkelangriff +10 %"
+            "value": "Dunkelangriff-Erhöhung +10 %"
         },
         {
             "key": "BUFF_MRE_DARK_SP_5",

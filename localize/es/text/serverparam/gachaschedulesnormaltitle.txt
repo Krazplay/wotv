@@ -861,6 +861,18 @@
             "value": "Invocación insólita"
         },
         {
+            "key": "Raregacha_A_gl20220330_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20220330_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20220330_P",
+            "value": "Invocación insólita"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Invocación normal limitada: Conmemoración del lanzamiento"
         },
@@ -2911,6 +2923,26 @@
         {
             "key": "gacha_FF_vc_gl20220323_P",
             "value": "Invocación de carta de visión de la saga Final Fantasy"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_01",
+            "value": "Invocación normal limitada del 2.º aniversario, parte II"
+        },
+        {
+            "key": "Normal_gacha_A_gl20220330_10",
+            "value": "Invocación (x10) normal limitada del 2.º aniversario, parte II"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_01",
+            "value": "Invocación de colaboración de FINAL FANTASY VI (Presagio)"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_10",
+            "value": "Invocación de colaboración (x10) de FINAL FANTASY VI (Presagio)"
+        },
+        {
+            "key": "new-gacha_MV1_gl20220330_P",
+            "value": "Invocación de colaboración de FINAL FANTASY VI (Presagio)"
         }
     ]
 }

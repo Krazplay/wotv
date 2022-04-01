@@ -827,6 +827,14 @@
         {
             "key": "DU_LW_ELEM_04",
             "value": "冰晶元素,魔物"
+        },
+        {
+            "key": "DU_LW_BRWL",
+            "value": "佈朗威爾"
+        },
+        {
+            "key": "DU_LW_SLVA",
+            "value": "謝爾瓦"
         }
     ]
 }

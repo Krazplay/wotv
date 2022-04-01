@@ -5879,6 +5879,34 @@
         {
             "key": "UN_LW_P_FRVA_PACK",
             "value": "Exchange for the UR unit Fryevia! *In the event that you have already acquired Fryevia and perform the exchange, you will acquire 80 Fryevia Unit Shards. *Fryevia Unit Shards, included in a separate lineup of the Medal Exchange Shop, require fewer medals in exchange for each shard if you already possess Fryevia, so it is recommended to exchange there first."
+        },
+        {
+            "key": "IT_SET_2ANNI_EXP_TICKET_GL01",
+            "value": "A special pack containing Growth Eggs (MR), essential for enhancing vision cards, together with bonus NRG Restores (L), Expedition Tickets (5h), Story Skip Tickets, and Event Skip Tickets!"
+        },
+        {
+            "key": "IT_SET_2ANNI_MTPI_AF_GL01",
+            "value": "A special pack containing Adamantite (XL), essential for enhancing your equipment, together with a bonus Select Truststone Shard (UR) x20 Summon Ticket, Select Truststone Shard (MR) x20 Summon Tickets, a Secret Book of Refinement x300 Summon Ticket, Select Dwarven Hammer x10 Summon Tickets, Resmithing Hammers, and Adamantite (S/M/L)! "
+        },
+        {
+            "key": "IT_SET_GROW_ODIN_GL01",
+            "value": "A special pack filled with UR \"Phantasmic Renderer, Dark Odin\" Vision Card Shards, Rainbow Vision Spheres, Growth Eggs (SR), and Gil Snappers (L)!"
+        },
+        {
+            "key": "IT_SET_ESP_2ANNI_GL01",
+            "value": "A special pack containing Select Element Magicite (XL) x200 Summon Tickets and Affinity/Resonance Keys! Essential for enhancing espers!"
+        },
+        {
+            "key": "IT_SET_2ANNI_PI_AW_SP_GL01",
+            "value": "A special pack containing a Select Element Fragment of Thought x222 Summon Ticket and a Select Awakening Prism x222 Summon Ticket!"
+        },
+        {
+            "key": "IT_SET_2ANNI_SSR_GROW_GL01",
+            "value": "A special pack containing an Azure-Imbued Fragment of Thought, Azure Vision Spheres, JP Keys, Ovalite (XL), and EXP Cubes (XL)!"
+        },
+        {
+            "key": "IT_SET_2ANNI_SR_JBEX_GL01",
+            "value": "A special pack containing a Select Element Fragment of Thought x50 Summon Ticket together with a bonus Gold Broadstone and a Select Awakening Prism x50 Summon Ticket! Essential for training units!"
         }
     ]
 }

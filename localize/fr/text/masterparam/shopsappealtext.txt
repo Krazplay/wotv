@@ -407,6 +407,10 @@
         {
             "key": "102",
             "value": "<line-height=15>FINAL FANTASY VI<br>Boutique de la collaboration"
+        },
+        {
+            "key": "103",
+            "value": "<line-height=15>FINAL FANTASY VI<br>Boutique de la<br>collaboration [Partie II]"
         }
     ]
 }

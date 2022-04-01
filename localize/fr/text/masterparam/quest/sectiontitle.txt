@@ -245,6 +245,10 @@
             "value": "Quelque chose se prépare"
         },
         {
+            "key": "SE_ST_020601",
+            "value": "Les deux étrangers"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Immense forêt du Lion"
         },
@@ -409,6 +413,30 @@
             "value": "Chapitre 1, Partie 1 de « Une autre histoire »"
         },
         {
+            "key": "SE_EV_AEX_010301",
+            "value": "Quête EX du Chapitre 1, Partie 3 de « Une autre histoire »"
+        },
+        {
+            "key": "SE_MU_AEX_010301",
+            "value": "[Multi] Quête EX du Chapitre 1, Partie 3 de « Une autre histoire »"
+        },
+        {
+            "key": "SE_EV_AEX_010201",
+            "value": "Quête EX du Chapitre 1, Partie 2 de « Une autre histoire »"
+        },
+        {
+            "key": "SE_MU_AEX_010201",
+            "value": "[Multi] Quête EX du Chapitre 1, Partie 2 de « Une autre histoire »"
+        },
+        {
+            "key": "SE_EV_AEX_010101",
+            "value": "Quête EX du Chapitre 1, Partie 1 de « Une autre histoire »"
+        },
+        {
+            "key": "SE_MU_AEX_010101",
+            "value": "[Multi] Quête EX du Chapitre 1, Partie 1 de « Une autre histoire »"
+        },
+        {
             "key": "SE_EV_VC_IBKI_01",
             "value": "Quête d'amélioration de « Éclosions dans l'impitoyable hiver »"
         },
@@ -447,30 +475,6 @@
         {
             "key": "SE_MU_EV_ETRE_EX",
             "value": "[Multi] Quête d'entraînement EX d'Éthéa [Très difficile]"
-        },
-        {
-            "key": "SE_EV_AEX_010301",
-            "value": "Quête EX du Chapitre 1, Partie 3 de « Une autre histoire »"
-        },
-        {
-            "key": "SE_MU_AEX_010301",
-            "value": "[Multi] Quête EX du Chapitre 1, Partie 3 de « Une autre histoire »"
-        },
-        {
-            "key": "SE_EV_AEX_010201",
-            "value": "Quête EX du Chapitre 1, Partie 2 de « Une autre histoire »"
-        },
-        {
-            "key": "SE_MU_AEX_010201",
-            "value": "[Multi] Quête EX du Chapitre 1, Partie 2 de « Une autre histoire »"
-        },
-        {
-            "key": "SE_EV_AEX_010101",
-            "value": "Quête EX du Chapitre 1, Partie 1 de « Une autre histoire »"
-        },
-        {
-            "key": "SE_MU_AEX_010101",
-            "value": "[Multi] Quête EX du Chapitre 1, Partie 1 de « Une autre histoire »"
         },
         {
             "key": "SE_EV_GL_ART_CRF_01",

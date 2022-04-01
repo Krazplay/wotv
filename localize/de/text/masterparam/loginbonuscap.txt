@@ -13,6 +13,10 @@
             "value": "Einsteiger-Anmeldebonus"
         },
         {
+            "key": "LB_BEGINNER_004",
+            "value": "Einsteiger-Anmeldebonus"
+        },
+        {
             "key": "LB_TOTAL_001",
             "value": "Kumulativer Anmeldebonus"
         },
@@ -115,6 +119,10 @@
         {
             "key": "LB_202203",
             "value": "März-Anmeldebonus"
+        },
+        {
+            "key": "LB_202204",
+            "value": "April-Anmeldebonus"
         },
         {
             "key": "LB_LIMIT_GL_0001",
@@ -635,6 +643,14 @@
         {
             "key": "LB_LIMIT_GL0122",
             "value": "2. Jubiläum Teil I: Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0123",
+            "value": "2. Jubiläum Teil II: Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0124",
+            "value": "FFVI-Kollabo-Anmeldebonus Teil II"
         }
     ]
 }

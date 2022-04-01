@@ -634,7 +634,15 @@
         },
         {
             "key": "CM_PRO_GL_V_LW_USER2_1",
-            "value": "Desafíos de entrenamiento de \"Cumpleaños internacional\""
+            "value": "Desafíos de entrenamiento de «Cumpleaños internacional»"
+        },
+        {
+            "key": "CM_PRO_GL_V_FF6_MV1_1",
+            "value": "Desafíos de entrenamiento de «Presagio»"
+        },
+        {
+            "key": "CM_PRO_GL_V_LW_ODIN_01_1",
+            "value": "Desafíos de entrenamiento de «Odín oscuro, la Espada Fantasmal»"
         }
     ]
 }
