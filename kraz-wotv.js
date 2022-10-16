@@ -491,14 +491,16 @@ function buff_id_to_stat(buff_id) {
 		}
 		// Element eater, Type killer, etc...
 		else if (calc == 30) {
-			tags.forEach((tag_id) => {
-				if (!result["+"]) result["+"] = {};
-				if (!result["+"]["kill"+tag_id]) result["+"]["kill"+tag_id] = 0;
-				result["+"]["kill"+tag_id] += valmax;
-				// Ease of use, store all kill type id existing in a Set (no duplicate)
-				if (!result["kill"]) result["kill"] = new Set();
-				result["kill"].add(tag_id);
-			});
+			if (tags != null) {
+				tags.forEach((tag_id) => {
+					if (!result["+"]) result["+"] = {};
+					if (!result["+"]["kill"+tag_id]) result["+"]["kill"+tag_id] = 0;
+					result["+"]["kill"+tag_id] += valmax;
+					// Ease of use, store all kill type id existing in a Set (no duplicate)
+					if (!result["kill"]) result["kill"] = new Set();
+					result["kill"].add(tag_id);
+				});
+			}
 		}
 		// Classic stat bonuses
 		else if (calc <= 3) {

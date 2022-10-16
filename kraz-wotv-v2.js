@@ -343,3 +343,62 @@ function get_unit_stats(unit_iname) {
 	}
 	return rstats;
 }
+
+/*
+	Input skill object and skill level
+	Assume there is only one buff
+	Return a buff object
+*/
+function get_skill_buff_at_level(skill_obj, skill_lvl) {
+	if (skill_obj == null) return null;
+	// Little check, currently all vc skills have only one buff
+	let t_length = skill_obj["t_buffs"] ? skill_obj["t_buffs"].length : 0
+	let s_length = skill_obj["s_buffs"] ? skill_obj["s_buffs"].length : 0
+	if (t_length + s_length != 1) console.log("Error: buffs length != 1 in "+skill_obj.iname);
+	// Get the buff id from either t_buff or s_buff
+	let buff_id = t_length > 0 ? skill_obj.t_buffs[0] : skill_obj.s_buffs[0];
+	// Clone the buff, we're going to modify it
+	let buff_result = Object.assign({}, buff.get(buff_id));
+	// The maxed vc skills have no grow, they're simply acquired when you reach max, so 1/1 will give full bonus
+	let skill_grow = grow.get(skill_obj["grow"]);
+	let start_lvl = skill_grow ? skill_grow["curve"][0]["val"] : 0;
+	let lvl_max = skill_grow ? skill_grow["curve"][0]["lv"] : 1;
+	
+	// Loop as long as we find valid typeX in the buff params
+	for (let i=1; buff_result["type"+i] != null ; i++) {
+		let base_val = buff_result["val"+i];
+		let max_gain = buff_result["val"+i+"1"] - buff_result["val"+i];
+		
+		// Modifying min/max value to current value so we can print the buff later
+		// todo add ceil for negative values
+		buff_result["val"+i] = Math.floor( base_val + ( max_gain * (skill_lvl-start_lvl) / (lvl_max-start_lvl) ) );
+		buff_result["val"+i+"1"] = Math.floor( base_val + ( max_gain * (skill_lvl-start_lvl) / (lvl_max-start_lvl) ) );
+	}
+	
+	return buff_result;
+}
+
+/*
+	Two Buffs Enter, One Buff Leaves
+	Buff 2 effect exist in Buff 1: values are added
+	Else the effect is added in the first available slot in Buff 1
+	Buff 1 is returned
+*/
+function fuse_buffs(buff1, buff2) {
+	if (buff2 == null) return buff1;
+	//todo check all buffs param
+	// Loop as long as we find valid typeX in buff2 params
+	for (let i=1; buff2["type"+i] != null ; i++) {
+		// Loop on existing buff effects in buff1
+		for (let j=1; buff1["type"+j] != null ; j++) {
+			// Params to match
+			if (buff2["type"+i] == buff1["type"+j] && buff2["calc"+i] == buff1["calc"+j] && JSON.stringify(buff2["tag"+i]) == JSON.stringify(buff1["tag"+j])) {
+				buff1["val"+j] += buff2["val"+i];
+				buff1["val"+j+"1"] += buff2["val"+i+"1"];
+				break;
+			}
+		}
+	}
+	
+	return buff1;
+}

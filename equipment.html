@@ -1,0 +1,279 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+	
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.css"/>
+		<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="wotv_tables.css"/>
+		
+		<script type="text/javascript" src="kraz-wotv-v2.js"></script>
+		<script type="text/javascript" src="kraz-wotv-parser-v2.js"></script>
+		<script type="text/javascript" src="kraz-wotv-tables-v2.js"></script>
+		
+		<title>WotV Equipment Table</title>
+		
+		<script>
+			array_hidecol = get_columns_to_hide(); // From either the url or localstorage
+			language = get_language();
+			version = get_version();
+			let promiseList = [];
+			// Download json from github repository
+			const GIT_SHAL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+			const GIT_KRAZ = 'https://raw.githubusercontent.com/Krazplay/wotv/main/localize';
+			const GIT_BISM = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
+			let files_required = [	GIT_BISM+'/localize/'+language+'/ArtifactName.json',
+									GIT_BISM+'/localize/'+language+'/ItemName.json',
+									GIT_BISM+'/localize/'+language+'/SkillName.json',
+									GIT_BISM+'/data/Artifact.json',
+									GIT_BISM+'/data/ArtifactRandLot.json',
+									GIT_BISM+'/data/Grow.json',
+									GIT_BISM+'/data/Skill.json',
+									GIT_BISM+'/data/Buff.json',
+									GIT_BISM+'/data/ArtifactPassivesCondition.json',
+									GIT_BISM+'/localize/'+language+'/UnitName.json',
+									GIT_BISM+'/localize/'+language+'/JobName.json'
+								]
+			files_required.forEach(file => {
+				promiseList.push($.getJSON(file, function(data){
+					console.log("Loaded: " + file);
+				}));
+			});
+			
+
+			// All promises are completed
+			Promise.all(promiseList).then(values => {
+				console.log("All promises finished");
+				// values have the same order the promises were pushed in the list
+				artifactName = parse_AnyName(values[0]);
+				itemName = parse_AnyName(values[1]);
+				skillName = parse_AnyName(values[2]);
+				artifact = parse_AnyData(values[3],"iname");
+				artifactRandLot = parse_AnyData(values[4],"iname");
+				grow = parse_AnyData(values[5],"type");
+				skill = parse_AnyData(values[6],"iname");
+				buff = parse_AnyData(values[7],"iname");
+				artifactPassivesCondition = parse_AnyData(values[8],"iname");
+				unitName = parse_AnyName(values[9]);
+				jobName = parse_AnyName(values[10]);
+				
+				// data for the datatable
+				data_table = get_datatable_Equipment();
+				// The data is ready, show the datatable
+				create_datatable();
+				
+				// Setup - clone the thead of the table, will be used for individual filter input
+				// Must do it here or else there's a width issue and scrolling appear
+				$('#myTable thead tr').clone(true).appendTo( '#myTable thead' );
+				$('#myTable thead tr:eq(1) th').each( function (i) {
+					$(this).css("background-image", "none");
+					$(this).css("writing-mode", "horizontal-tb");
+					$(this).off();
+					$(this).html( '<input type="text" placeholder="Filter..." />' );
+					// Need to use $(this).parent().index() and not i, columns can be reordered
+					$( 'input', this ).on( 'keyup change', delay(function () {
+						// Change search setting depending on regex checbox
+						let is_regex = $('input[name=regex_search]').is(':checked');
+						table.column( $(this).parent().index()+':visible' )
+								.search( this.value, is_regex, !is_regex ).draw(); // value, regex?, smart search?
+						refresh_url_span();
+					}, 700));
+				});
+				
+				prefill_filters_via_url(); // write down url filter params in filter input fields
+				attach_functions_on_events();
+				set_default_val_dropdown();
+			});
+			
+			// Create the datatable, must be called after getting the data
+			function create_datatable() {
+				console.log("DataTable Go !");
+				table = $('#myTable').DataTable( {
+					"data": data_table,
+					"order": [], // no sorting at init
+					paging: false,
+					dom: 'B<"clear">lPfritp',
+					buttons: [ 'copy', 'csv', 'excel', 'colvis',
+						{
+							extend: 'columnVisibility',
+							text: 'Show all',
+							visibility: true
+						},
+						{
+							extend: 'columnVisibility',
+							text: 'Hide all',
+							visibility: false
+						},
+												{
+							text: localStorage.getItem("equipment_filter_owned") == "true" ? 'Unfilter owned' : 'Filter owned',
+							action: function ( e, dt, node, config ) {
+								if (localStorage.getItem("equipment_filter_owned") == "true") {
+									this.text('Filter owned');
+									localStorage.setItem("equipment_filter_owned", "false");
+								} else  {
+									this.text('Unfilter owned');
+									localStorage.setItem("equipment_filter_owned", "true");
+								}
+								dt.draw();
+							}
+						},
+						{
+							text: localStorage.getItem("equipment_filter_bestv") == "true" ? 'Show all + version' : 'Show only best + version',
+							action: function ( e, dt, node, config ) {
+								if (localStorage.getItem("equipment_filter_bestv") == "true") {
+									this.text('Show only best + version');
+									localStorage.setItem("equipment_filter_bestv", "false");
+								} else  {
+									this.text('Show all + version');
+									localStorage.setItem("equipment_filter_bestv", "true");
+								}
+								dt.draw();
+							}
+						},
+						{
+							text: localStorage.getItem("equipment_filter_vital") == "true" ? 'Show useless Vital' : 'Hide useless Vital',
+							action: function ( e, dt, node, config ) {
+								if (localStorage.getItem("equipment_filter_vital") == "true") {
+									this.text('Hide useless Vital');
+									localStorage.setItem("equipment_filter_vital", "false");
+								} else  {
+									this.text('Show useless Vital');
+									localStorage.setItem("equipment_filter_vital", "true");
+								}
+								dt.draw();
+							}
+						}],
+					orderCellsTop: true,
+					fixedHeader: {
+						header: true,
+						footer: false
+					},
+					colReorder: true,
+					rowReorder: true,
+					rowReorder: { dataSrc: 'line_id' },
+					autoWidth: false,
+					columnDefs: [
+						{ visible: false, targets: [0,1,2] },
+						{ visible: false, targets: array_hidecol },
+						{ targets: '_all', className: "centertext", defaultContent: "" }
+					],
+					"columns": [
+						{ "data": "line_id" },
+						{ "data": "bestv" },
+						{ "data": "useless_vital" },
+						{ "data": "iname" },
+						{ "data": "name" },
+						{ "data": "owned" },
+						{ "data": "memo", className: "thmemo" },
+						{ "data": "typename" },
+						{ "data": "catname" },
+						{ "data": "rare" },
+						{ "data": "trust" },
+						{ "data": "collaboType" },
+						{ "data": "cap" },
+						{ "data": "equip" },
+						{ "data": "rtype" },
+						{ "data": "grow" },
+						{ "data": "hp", "className": "green_column" },
+						{ "data": "mp", "className": "green_column" },
+						{ "data": "ap", "className": "green_column" },
+						{ "data": "atk" },{ "data": "mag" },{ "data": "def" },{ "data": "mnd" },
+						{ "data": "hit" },{ "data": "avd" },{ "data": "dex" },{ "data": "spd" },{ "data": "luk" },
+						{ "data": "crt" },{ "data": "crta" },
+						{ "data": "skill_text" }
+					],
+					// Annoying, filter doesn't apply at initialization, need to redraw table after 1 ms
+					initComplete: function () {
+						const dt = this.api();
+						window.setTimeout(function () {
+							dt.draw();
+						}, 1);
+					}
+				});
+				
+				/* Custom filtering function for owned checkboxes */
+				$.fn.dataTable.ext.search.push(
+					function( settings, data, dataIndex ) {
+						var bestv = data[1]; // bestv filter use the bestv column, 1=best version currently obtainable
+						var skip_vital = data[2]; // if skip_vial = 1, the vital type is useless (others types are available)
+						var iname = data[3]; // owned filter use a localstorage variable with the iname
+						if ((localStorage.getItem("equipment_filter_owned") == "true") && (localStorage.getItem(iname) != "true")) return false;
+						else if ((localStorage.getItem("equipment_filter_vital") == "true") && (skip_vital == "1")) return false;
+						else if ((localStorage.getItem("equipment_filter_bestv") == "true") && (bestv == "0")) return false;
+						else return true;
+					}
+				);
+				
+				// Manage the saving and loading of the checkboxes states in localStorage
+				load_checkboxes_state();
+				add_event_save_checkbox();
+				
+				// If valid number in localStorage, resize the memo column
+				var local_memo_size = localStorage.getItem("memo_size_esper");
+				if (!isNaN(parseInt(local_memo_size))) {
+					$( ".thmemo" ).css({"min-width": local_memo_size+"px"});
+					$( ".thmemo" ).css({"max-width": local_memo_size+"px"});
+				};
+			}
+		</script>
+	</head>
+	<style>
+		table.dataTable {
+			white-space: normal;
+		}
+	</style>
+	<body>
+		<span>Equipment table - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
+		<span>
+			Language:
+			<select name="language" id="language" onchange="languageChange(this.value)">
+			  <option value="de">de</option>
+			  <option value="en">en</option>
+			  <option value="es">es</option>
+			  <option value="fr">fr</option>
+			  <option value="ko">ko</option>
+			  <option value="zh">zh</option>
+			</select>
+			Version:
+			<select name="version" id="version" onchange="versionChange(this.value)">
+			  <option value="gl">Global</option>
+			  <option value="jp">Japan</option>
+			</select>
+		</span>
+		<br/><br/>
+		<table id="myTable" class="display">
+			<input type="checkbox" name="regex_search" id="regex_search"></input>
+			<label for="regex_search">Use regex in column filters instead of smart search (allow things like "Ifrit|Shiva")</label>
+			<span> / Custom memo size: <input type="text" id="memo_size_esper" size="1" onkeyup="memoSizeChange(event)"></input>
+			<thead>
+				<tr>
+					<th>-</th>
+					<th>best</th>
+					<th>skip<br/>vita</th>
+					<th>iname</th>
+					<th>Name</th>
+					<th>o</th>
+					<th>memo</th>
+					<th>Type</th>
+					<th>Category</th>
+					<th>Rare</th>
+					<th>Trust</th>
+					<th>Collabo<br/>Type</th>
+					<th>Cap</th>
+					<th>Equip</th>
+					<th>Rtype</th>
+					<th>Grow</th>
+					<th>HP</th><th>TP</th><th>AP</th>
+					<th>Atk</th><th>Mag</th><th>Def</th><th>Spi</th>
+					<th>Hit</th><th>Avd</th><th>Dex</th><th>Agi</th><th>Luk</th>
+					<th>Crt</th><th>Crta</th>
+					<th>Best skill</th>
+				</tr>
+			</thead>
+			<tbody>
+			</tbody>
+			<tfoot>
+			</tfoot>
+		</table>
+	</body>
+	
+</html>

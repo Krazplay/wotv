@@ -32,7 +32,7 @@ function get_datatable_Esper() {
 			line["memo"] = "<input type=\"text\" class=\"memo\" id='"+esper.iname+"_memo'></input>"
 			// Getting all the possible stats, status[1] is the object with max stats
 			const stats = Object.keys(esper.status[1]);
-			stats.forEach((stat, value) => {
+			stats.forEach((stat) => {
 				line[stat] = esper.status[1][stat];
 			});
 			// Alternative text format to show element and condition resistances (alternative to icons)
@@ -90,7 +90,7 @@ function get_datatable_Esper() {
 						delete sum_stats[stat];
 					}
 				}
-				else console.log("Not handled in stattxt: "+stat);
+				else console.log("-Not handled in stattxt: "+stat);
 			});
 			line["atk_buffs"] = line["atk_buffs"].slice(0,-2); // remove last ", "
 			// Everything remaining in hash go to Res buff column
@@ -105,6 +105,357 @@ function get_datatable_Esper() {
 			
 			line["line_id"] = line_id++;
 			result.push(line);
+		}
+	}
+	return result;
+}
+
+/*
+*   ====================            TABLE            ====================
+*	====================          Equipment          ====================
+*/
+
+function get_datatable_Equipment() {
+	let line_id = 1;
+	result = [];
+	// Loop on all equipment
+	for (let [iname, value] of artifact) {
+		let equip = get_equipment_stats(iname);
+		// Skip the test equipment (Apprentice stuff not existing in-game)
+		if (equip.type == -1) continue;
+		
+		let base_line = equip;
+		base_line["owned"] = "<input type=\"checkbox\" id='"+equip.iname+"' class='"+equip.iname+"'></input>"
+		base_line["memo"] = "<input type=\"text\" class=\"memo "+equip.iname+"_memo\" id='"+equip.iname+"_memo'></input>"
+		
+		base_line["bestv"] = 0; // Is it the best + version of the equipment
+		let plus_one = equip.iname.charCodeAt(equip.iname.length-1) + 1;
+		let test = equip.iname.slice(0, equip.iname.length-2)+"_"+String.fromCharCode(plus_one);
+		if (!artifact.get(equip.iname+"_1") && !artifact.get(test)) base_line["bestv"] = 1;
+		
+		// Loop for each type existing for this equipment
+		equip.grows.forEach((grow_id) => {
+			// Line to push, starting from cloning base_line
+			let line = Object.assign({}, base_line);
+			
+			line["useless_vital"] = 0;
+			if ((equip.grows.length > 1) && (grow_id == "AFGROW_VIT_50")) {
+				line["useless_vital"] = 1;
+			}
+			
+			line["grow"] = grow_id;
+			//console.log(equip[grow_id]);
+			if (equip[grow_id]) {
+				let stats_list = Object.keys(equip[grow_id]);
+				stats_list.forEach((stat) => {
+					line[stat] = equip[grow_id][stat];
+				});
+			}
+			
+			if (equip["best_skill"]) {
+				line["skill_text"] = equip[equip["best_skill"]+"_text"];
+			}
+			
+			line["line_id"] = line_id++;
+			result.push(line);
+		});
+		
+		/*
+		// All equipment have a rtype
+		let lot_rtype = artifactRandLot.get(equip.rtype)["lot"][0];
+		for (let i=1; lot_rtype["grow"+i]; i++) {
+			let line = {};
+			// Checkbox Owned
+			line["owned"] = "<input type=\"checkbox\" id='"+equip.iname+"'></input>"
+			// Memo input
+			line["memo"] = "<input type=\"text\" class=\"memo\" id='"+equip.iname+"_memo'></input>"
+			
+			let grow_id = lot_rtype["grow"+i];
+			line["iname"] = equip.iname;
+			line["name"] = artifactName[equip.iname] ? artifactName[equip.iname] : equip.iname;
+			line["type"] = typeName[equip.type] ? typeName[equip.type] : equip.type;
+			line["cat"] = ""
+			equip.cat.forEach((cat) => {
+				line["cat"] += catName[cat]+", "
+			});
+			line["cat"] = line["cat"].slice(0,-2);
+			line["rare"] = rareName[equip.rare];
+			line["trust"] = equip.trust ? equip.trust : "";
+			line["collaboType"] = equip.collaboType ? equip.collaboType : "";
+			line["cap"] = equip.cap ? equip.cap : "";
+			line["equip"] = equip.equip ? equip.equip : "";
+			line["rtype"] = equip.rtype;
+			line["grow"] = grow_id;
+			line["bestv"] = 0;
+			let plus_one = equip.iname.charCodeAt(equip.iname.length-1) + 1;
+			let test = equip.iname.slice(0, equip.iname.length-2)+"_"+String.fromCharCode(plus_one);
+			if (!artifact.get(equip.iname+"_1") && !artifact.get(test)) line["bestv"] = 1;
+			let curr_grow = grow.get(grow_id);
+			let curve = curr_grow["curve"][0];
+			// Getting all the possible stats, status[1] is the object with max stats
+			stats_list.forEach((stat) => {
+				if (equip.status[1]) {
+					let base_max = equip.status[1][stat] ? equip.status[1][stat] : "";
+					if (base_max < 0) line["max"+stat] = curve[stat] ? Math.ceil(base_max + base_max * curve[stat] / 100) : base_max;
+					else line["max"+stat] = curve[stat] ? Math.floor(base_max + base_max * curve[stat] / 100) : base_max;
+				}
+				else {
+					line["max"+stat] = "";
+				}
+			});
+			// skl6 exist but seems a mistake (Ras Algethi only)
+			["skl1","skl2","skl3","skl4","skl5","skl6"].forEach((skparam) => {
+				line[skparam] = "";
+				if (equip[skparam]) {
+					equip[skparam].forEach((skill_id) => {
+						line[skparam] += skillid_to_txt(skill_id)+", ";
+					});
+					line[skparam] = line[skparam].slice(0,-2); // remove last ", "
+				}
+			});
+			result.push(line);
+		
+		} */
+	}
+	return result;
+}
+
+function get_equipment_stats(iname) {
+	let equip = artifact.get(iname);
+	equip["grows"] = []; // Types (Assault, Vital, etc...) of the equipment
+	let lot_rtype = artifactRandLot.get(equip.rtype)["lot"][0];
+	// Loop as long as I find growX in artifactRandLot
+	for (let i=1; lot_rtype["grow"+i]; i++) {
+		equip["grows"].push(lot_rtype["grow"+i]);
+	}
+	
+	equip["name"] = artifactName[equip.iname] ? artifactName[equip.iname] : equip.iname;
+	let typeName = ["Weapon","Armor","Accessory", "-1"];
+	equip["typename"] = typeName[equip.type] ? typeName[equip.type] : equip.type;
+	let catName = ["0","Dagger","Sword","Greatsword","Katana","Staff","Ninja Blade","Bow","Axe", "HammerNotUsed",
+					"Spear","InstrumentNotUsed","WhipNotUsed","ProjectileNotUsed","Gun","Mace","Fists","Shield","Armor","Hat",
+					"Helm","Clothing","Accessory","Gloves","CAT24","CAT25","CAT26"];
+	equip["catname"] = ""
+	equip.cat.forEach((cat) => {
+		equip["catname"] += catName[cat]+", "
+	});
+	equip["catname"] = equip["catname"].slice(0,-2); // Remove last ", "
+	
+	// Loop on all possible types to calculate the stats in a hash {grow_id}
+	equip.grows.forEach((grow_id) => {
+		equip[grow_id] = {};
+		let curr_grow = grow.get(grow_id);
+		let curve = curr_grow["curve"][0];
+		
+		// Getting all the possible stats, status[1] is the object with max stats
+		if (equip["status"][1]) {
+			let stats_list = Object.keys(equip.status[1]);
+			stats_list.forEach((stat) => {
+				let value = equip["status"][1][stat];
+				if (value < 0) equip[grow_id][stat] = curve[stat] ? Math.ceil(value + value * curve[stat] / 100) : value;
+				else equip[grow_id][stat] = curve[stat] ? Math.floor(value + value * curve[stat] / 100) : value;
+			});
+		}
+		
+	});
+	
+	if (equip["passives_condition"]) {
+		equip["condition_text"] = [];
+		equip["passives_condition"].forEach((condition_id, i) => {
+			//console.log("A "+condition_id);
+			//console.log("B "+iname);
+			let cond = artifactPassivesCondition.get(condition_id);
+			equip["condition_text"][i] = "";
+			// units condition
+			if (cond["units"]) {
+				cond["units"].forEach((unit_id) => {
+					equip["condition_text"][i] += unitName[unit_id] + ", ";
+				});
+				equip["condition_text"][i] = equip["condition_text"][i].slice(0,-2);
+			}
+			// mainjobs condition
+			if (cond["mainjobs"]) {
+				cond["mainjobs"].forEach((job_id) => {
+					equip["condition_text"][i] += jobName[job_id] + ", ";
+				});
+				equip["condition_text"][i] = equip["condition_text"][i].slice(0,-2);
+			}
+		});
+	}
+	
+	// skl6 exist but seems a mistake (Ras Algethi only)
+	["skl1","skl2","skl3","skl4","skl5","skl6"].forEach((skparam) => {
+		if (equip[skparam]) {
+			equip[skparam+"_text"] = "";
+			equip[skparam].forEach((skill_id, i) => {
+				// Passive index 0 apply to skill 0, index 1 to skill 1; i for counting
+				if (equip["passives_condition"] && equip["passives_condition"][i]) {
+					//artifactPassivesCondition
+					// In between 2 skills with same conditions
+					if ((equip["condition_text"][i] == equip["condition_text"][i+1]) && (equip["condition_text"][i] == equip["condition_text"][i-1])) {
+						equip[skparam+"_text"] += skillid_to_txt(skill_id, true)+", ";
+					}
+					// Next skill same condition, don't close bracket {
+					else if (equip["condition_text"][i] == equip["condition_text"][i+1]) {
+						equip[skparam+"_text"] += equip["condition_text"][i]+"{ "+skillid_to_txt(skill_id, true)+", ";
+					}
+					// Previous skill same condition, don't repeat conditions
+					else if (equip["condition_text"][i] == equip["condition_text"][i-1]) {
+						equip[skparam+"_text"] += skillid_to_txt(skill_id, true)+" }<br/>  ";
+					}
+					// Normal
+					else {
+						equip[skparam+"_text"] += equip["condition_text"][i]+"{ "+skillid_to_txt(skill_id, true)+" }<br/>  ";
+					}
+				}
+				else {
+					equip[skparam+"_text"] += skillid_to_txt(skill_id, true)+", ";
+				}
+			});
+			equip[skparam+"_text"] = equip[skparam+"_text"].slice(0,-2); // remove last ", " or "  "
+			equip["best_skill"] = skparam;
+		}
+	});
+	
+	return equip;
+}	
+
+/*
+*   ====================            TABLE            ====================
+*	====================       Vision Cards V2       ====================
+*/
+function get_datatable_VisionCard() {
+	let tmaxlvl =  [30, 40, 60, 70, 99]
+	let tlvlawa =  [[10, 15, 20, 25, 30],
+					[20, 25, 30, 35, 40],
+					[20, 30, 40, 50, 60],
+					[30, 40, 50, 60, 70],
+					[40, 55, 70, 85, 99]];
+	result = [];
+	for (let [iname, object] of visionCard) {
+		// Skip the VC exp cards
+		//if (object.type == 1) continue;
+		let line = {};
+		line["iname"] = object.iname;
+		line["name"] = visionCardName[object.iname] ? visionCardName[object.iname] : object.iname;
+		line["icon"] = object.icon;
+		line["piece_num"] = object.piece_num;
+		line["db_num"] = object.db_num;
+		line["sell"] = object.sell;
+		line["sell_mdl"] = object.sell_mdl;
+		line["en_cost"] = object.en_cost;
+		line["en_exp"] = object.en_exp;
+		line["cost"] = object.cost;
+		line["rare"] = rareName[object.rare];
+		
+		for (let awk=0; awk<5; awk++) {
+			// Clone the existing line
+			let line_2 = Object.assign({}, line);
+			let lvl_todo = tlvlawa[object.rare][awk]-1;
+			let lvl_max = tmaxlvl[object.rare]-1;
+			let maxed = awk == 4 ? 1 : 0;
+			line_2["awk"] = awk;
+			line_2["lvl"] = lvl_todo+1;
+			
+			if (object["status"]) {
+				// Status
+				const stats = Object.keys(object["status"][1]);
+				stats.forEach((stat, value) => {
+						let lv1_stat = object["status"][0][stat]
+						let max_stat = object["status"][1][stat]
+						line_2[stat] = Math.floor(lv1_stat + ( (max_stat-lv1_stat) * lvl_todo / lvl_max ));
+				});
+				// Card_buffs
+				line_2["PartyBuffs"] = "";
+				line_2["CondPartyBuffs"] = "";
+				object.card_buffs.forEach((card_buff) => {
+					let cnds_iname = card_buff["cnds_iname"];
+					let card_skill = skill.get(card_buff["card_skill"]);
+					let add_card_skill_buff_awake = skill.get(card_buff["add_card_skill_buff_awake"]);
+					let add_card_skill_buff_lvmax = skill.get(card_buff["add_card_skill_buff_lvmax"]);
+					
+					let buff1 = get_skill_buff_at_level(card_skill, line_2["lvl"]);
+					if (awk > 0) {
+						let buff2 = get_skill_buff_at_level(add_card_skill_buff_awake, awk);
+						buff1 = fuse_buffs(buff1, buff2);
+					}
+					if (awk == 4) {
+						let buff3 = get_skill_buff_at_level(add_card_skill_buff_lvmax, maxed);
+						buff1 = fuse_buffs(buff1, buff3);
+					}
+					
+					if (cnds_iname) {
+						// I don't want to show elem condition because the cond is also present in the buff
+						let condition = visionCardLimitedCondition.get(cnds_iname);
+						if (condition["elem"] && Object.keys(condition).length) line_2["CondPartyBuffs"] += buff_to_txt(buff1);
+						else line_2["CondPartyBuffs"] += vc_cond_to_txt(cnds_iname)+"{ "+buff_to_txt(buff1)+" }<br/>";
+					}
+					else line_2["PartyBuffs"] += buff_to_txt(buff1);
+				});
+			}
+			/*
+			// Party skills buffs
+			line_2["PartyBuffs"] = "";
+			line_2["CondPartyBuffs"] = "";
+			object.card_buffs.forEach((bonus_group) => {
+				let cnds_iname = bonus_group["cnds_iname"];
+				let card_skill = skill.get(bonus_group["card_skill"]);
+				let add_card_skill_buff_awake = skill.get(bonus_group["add_card_skill_buff_awake"]);
+				let add_card_skill_buff_lvmax = skill.get(bonus_group["add_card_skill_buff_lvmax"]);
+				
+				let buff1 = get_skill_buff_at_level(card_skill, line_2["lvl"]);
+				if (awk > 0) {
+					let buff2 = get_skill_buff_at_level(add_card_skill_buff_awake, awk);
+					buff1 = fuse_buffs(buff1, buff2);
+				}
+				if (awk == 4) {
+					let buff3 = get_skill_buff_at_level(add_card_skill_buff_lvmax, maxed);
+					buff1 = fuse_buffs(buff1, buff3);
+				}
+				
+				if (cnds_iname) {
+					// I don't want to show elem condition because the cond is also present in the buff
+					let condition = visionCardLimitedCondition.get(cnds_iname);
+					if (condition["elem"] && Object.keys(condition).length) line_2["CondPartyBuffs"] += buff_to_txt(buff1);
+					else line_2["CondPartyBuffs"] += vc_cond_to_txt(cnds_iname)+"{ "+buff_to_txt(buff1)+" }<br/>";
+				}
+				else line_2["PartyBuffs"] += buff_to_txt(buff1);
+			});
+			// Self skills buffs
+			line_2["SelfBuffs"] = "";
+			line_2["CondSelfBuffs"] = "";
+			line_2["CastSkill"] = "";
+			object.self_buffs.forEach((bonus_group) => {
+				let buff_cond = bonus_group["buff_cond"];
+				let self_buff = skill.get(bonus_group["self_buff"]);
+				let add_self_buff_awake = skill.get(bonus_group["add_self_buff_awake"]);
+				let add_self_buff_lvmax = skill.get(bonus_group["add_self_buff_lvmax"]);
+				
+				if (self_buff.slot == 1) {
+					line_2["CastSkill"] += "todo";
+					//todo, manage castable skills
+				}
+				else {
+					let buff1 = get_skill_buff_at_level(self_buff, line_2["lvl"]);
+					if (awk > 0) {
+						let buff2 = get_skill_buff_at_level(add_self_buff_awake, awk);
+						buff1 = fuse_buffs(buff1, buff2);
+					}
+					if (awk == 4) {
+						let buff3 = get_skill_buff_at_level(add_self_buff_lvmax, maxed);
+						buff1 = fuse_buffs(buff1, buff3);
+					}
+					
+					if (buff_cond) {
+						// I don't want to show elem condition because the cond is also present in the buff
+						let condition = visionCardLimitedCondition.get(buff_cond);
+						if (condition["elem"] && Object.keys(condition).length) line_2["CondSelfBuffs"] += buff_to_txt(buff1);
+						else line_2["CondSelfBuffs"] += vc_cond_to_txt(buff_cond)+"{ "+buff_to_txt(buff1)+" }<br/>";
+					}
+					else line_2["SelfBuffs"] += buff_to_txt(buff1);
+				}
+			}); */
+			result.push(line_2);
 		}
 	}
 	return result;
@@ -361,17 +712,18 @@ function load_checkboxes_state() {
 	});
 }
 
-// Add an event on all checboxes, saving any state change in local storage
+// Add an event on all checkboxes, saving any state change in local storage
 function add_event_save_checkbox() {
 	$("input[type=checkbox]").change(function() {
 		var id = $(this).attr('id');
 		localStorage.setItem(id, $(this).prop('checked'));
+		$( "input[type=checkbox]."+id ).prop('checked', $(this).prop('checked')); // Check all checkboxes same class
 	});
 	
 	$("input[type=text].memo").on( 'keyup change', function() {
 		var id = $(this).attr('id');
-		//console.log($(this).val());
 		localStorage.setItem(id, $(this).val());
+		$( "input[type=text]."+id ).val( $(this).val() );
 	});
 }
 
