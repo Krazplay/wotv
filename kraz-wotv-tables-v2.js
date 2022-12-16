@@ -159,63 +159,6 @@ function get_datatable_Equipment() {
 			line["line_id"] = line_id++;
 			result.push(line);
 		});
-		
-		/*
-		// All equipment have a rtype
-		let lot_rtype = artifactRandLot.get(equip.rtype)["lot"][0];
-		for (let i=1; lot_rtype["grow"+i]; i++) {
-			let line = {};
-			// Checkbox Owned
-			line["owned"] = "<input type=\"checkbox\" id='"+equip.iname+"'></input>"
-			// Memo input
-			line["memo"] = "<input type=\"text\" class=\"memo\" id='"+equip.iname+"_memo'></input>"
-			
-			let grow_id = lot_rtype["grow"+i];
-			line["iname"] = equip.iname;
-			line["name"] = artifactName[equip.iname] ? artifactName[equip.iname] : equip.iname;
-			line["type"] = typeName[equip.type] ? typeName[equip.type] : equip.type;
-			line["cat"] = ""
-			equip.cat.forEach((cat) => {
-				line["cat"] += catName[cat]+", "
-			});
-			line["cat"] = line["cat"].slice(0,-2);
-			line["rare"] = rareName[equip.rare];
-			line["trust"] = equip.trust ? equip.trust : "";
-			line["collaboType"] = equip.collaboType ? equip.collaboType : "";
-			line["cap"] = equip.cap ? equip.cap : "";
-			line["equip"] = equip.equip ? equip.equip : "";
-			line["rtype"] = equip.rtype;
-			line["grow"] = grow_id;
-			line["bestv"] = 0;
-			let plus_one = equip.iname.charCodeAt(equip.iname.length-1) + 1;
-			let test = equip.iname.slice(0, equip.iname.length-2)+"_"+String.fromCharCode(plus_one);
-			if (!artifact.get(equip.iname+"_1") && !artifact.get(test)) line["bestv"] = 1;
-			let curr_grow = grow.get(grow_id);
-			let curve = curr_grow["curve"][0];
-			// Getting all the possible stats, status[1] is the object with max stats
-			stats_list.forEach((stat) => {
-				if (equip.status[1]) {
-					let base_max = equip.status[1][stat] ? equip.status[1][stat] : "";
-					if (base_max < 0) line["max"+stat] = curve[stat] ? Math.ceil(base_max + base_max * curve[stat] / 100) : base_max;
-					else line["max"+stat] = curve[stat] ? Math.floor(base_max + base_max * curve[stat] / 100) : base_max;
-				}
-				else {
-					line["max"+stat] = "";
-				}
-			});
-			// skl6 exist but seems a mistake (Ras Algethi only)
-			["skl1","skl2","skl3","skl4","skl5","skl6"].forEach((skparam) => {
-				line[skparam] = "";
-				if (equip[skparam]) {
-					equip[skparam].forEach((skill_id) => {
-						line[skparam] += skillid_to_txt(skill_id)+", ";
-					});
-					line[skparam] = line[skparam].slice(0,-2); // remove last ", "
-				}
-			});
-			result.push(line);
-		
-		} */
 	}
 	return result;
 }
@@ -626,6 +569,67 @@ function get_datatable_Character() {
 	}
 	return result;
 }
+
+/*
+*   ====================            TABLE            ====================
+*	====================          Buff list          ====================
+*/
+function get_datatable_Buff() {
+	result = [];
+	
+	for (let [iname, buff_obj] of buff) {
+		//buff_obj["raw"] = JSON.stringify(buff_obj);
+		parse_buff(buff_obj);
+		buff_obj["name"] = buffName[buff_obj.iname] ? buffName[buff_obj.iname] : buff_obj.iname;
+		buff_obj["parse"] = buff_to_txt(buff_obj);
+		result.push(buff_obj);
+	}
+	return result;
+}
+
+function parse_buff(buff) {
+	buff["type_html"] = "";
+	buff["calc_html"] = "";
+	buff["val_html"] = "";
+	buff["val1_html"] = "";
+	buff["tags_html"] = "";
+	buff["effects_html"] = "";
+	// A buff can have multiple effects, loop on all typeX
+	for (let i=1; buff["type"+i] != null ; i++) {
+		buff["type_html"] += (i==1) ? buff["type"+i] : "<br>"+buff["type"+i];
+		buff["calc_html"] += (i==1) ? buff["calc"+i] : "<br>"+buff["calc"+i];
+		if (buff["val"+i] != null) buff["val_html"] += (i==1) ? buff["val"+i] : "<br>"+buff["val"+i];
+			else buff["val_html"] += (i==1) ? "-" : "<br>-";
+		if (buff["val"+i+"1"] != null) buff["val1_html"] += (i==1) ? buff["val"+i+"1"] : "<br>"+buff["val"+i+"1"];
+			else buff["val1_html"] += (i==1) ? "-" : "<br>-";
+		if (buff["tag"+i] != null) buff["tags_html"] += (i==1) ? buff["tag"+i].toString() : "<br>"+buff["tag"+i].toString();
+			else buff["tags_html"] += (i==1) ? "-" : "<br>-";
+		
+		if (i!=1) buff["effects_html"] += "<br>";
+		buff["effects_html"] += effect_to_txt(buff, i);
+	}
+	return buff;
+}
+
+
+/*
+*   ====================            TABLE            ====================
+*	====================          Skill list         ====================
+*/
+function get_datatable_Skill() {
+	result = [];
+	
+	for (let [iname, skill_obj] of skill) {
+		let line = {};
+		line["iname"] = skill_obj.iname;
+		line["name"] = skillName[skill_obj.iname] ? skillName[skill_obj.iname] : skill_obj.iname;
+		line["parse"] = skillid_to_txt(iname);
+		line["raw"] = JSON.stringify(skill_obj);
+		result.push(line);
+	}
+	return result;
+}
+
 
 /*
 *   ====================            TABLE            ====================

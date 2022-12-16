@@ -1,43 +1,34 @@
 <!DocType html>
     <head><meta charset="UTF-8">
 	
-		<link rel="stylesheet" type="text/css" href="js/DataTables/datatables.min.css"/>
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.css"/>
+		<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="wotv_tables.css"/>
 		
-		<script src="https://code.jquery.com/jquery-3.6.0.min.js"
-			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
-		<script type="text/javascript" src="js/DataTables/datatables.min.js"></script>
-		<script type="text/javascript" src="kraz-wotv.js"></script>
-		<script type="text/javascript" src="kraz-wotv-parser.js"></script>
+		<script type="text/javascript" src="kraz-wotv-v2.js"></script>
+		<script type="text/javascript" src="kraz-wotv-parser-v2.js"></script>
+		<script type="text/javascript" src="kraz-wotv-tables-v2.js"></script>
 		
 		<title>WotV Skill Table</title>
 		
 		<script>
-			// Check url
-			const queryString = window.location.search;
-			const urlParams = new URLSearchParams(queryString);
-			// if file=jp, use jp file and not global
-			let datadir = '/data/'
-			if (urlParams.get('file') == "jp") { datadir = "/jpdata/" }
-			// hide columns via url
-			const hidecol = urlParams.get('hidecol')
-			var array_hidecol = [];
-			if (hidecol != null) {
-				array_hidecol = hidecol.split(',').map(x=>+x) // convert to array of integers
-			}
-		
+			array_hidecol = get_columns_to_hide(); // From either the url or localstorage
+			language = get_language();
+			version = get_version();
 			let promiseList = [];
-			// Download json from shalzuth repository at date timestamp
-			let timestamp = (new Date()).getTime();
-			const RAW_GIT_URL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+			// Download json from github repository
+			const GIT_SHAL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+			const GIT_KRAZ = 'https://raw.githubusercontent.com/Krazplay/wotv/main/localize';
+			const GIT_BISM = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
 			// Data required for this table
-			let files_required = [	'/en/SkillName.json',
-									'/en/BuffName.json',
-									datadir+'Skill.json',
-									datadir+'Buff.json'
+			let files_required = [	GIT_BISM+'/localize/'+language+'/SkillName.json',
+									GIT_BISM+'/localize/'+language+'/BuffName.json',
+									GIT_BISM+'/data/Skill.json',
+									GIT_BISM+'/data/Buff.json'
 								]
 			files_required.forEach(file => {
-				promiseList.push($.getJSON(RAW_GIT_URL + file + '?t=' + timestamp, function(data){
+				promiseList.push($.getJSON(file, function(data){
 					console.log("Loaded: " + file);
 				}));
 			});
@@ -65,77 +56,17 @@
 					$(this).html( '<input type="text" placeholder="Filter..." />' );
 					// Need to use $(this).parent().index() and not i, columns can be reordered
 					$( 'input', this ).on( 'keyup change', delay(function () {
-						table
-							.column( $(this).parent().index()+':visible' )
-							.search( this.value )
-							.draw();
-						refresh_url();
+						// Change search setting depending on regex checbox
+						let is_regex = $('input[name=regex_search]').is(':checked');
+						table.column( $(this).parent().index()+':visible' )
+								.search( this.value, is_regex, !is_regex ).draw(); // value, regex?, smart search?
+						refresh_url_span();
 					}, 700));
 				});
 				
-				// Filter prefilled via url
-				let nb_columns = table.columns().count();
-				for (let i=0; i < nb_columns; i++) {
-					let search_col = urlParams.get('filter'+i);
-					if (search_col != null) {
-						search_col = decodeURIComponent(search_col);
-						table.column(i).search( search_col );
-						// write the url filter in the input field
-						$( "table thead tr:eq(1) th[data-column-index='"+i+"'] input" ).val( search_col );
-					}
-				}
-				table.draw(); // refresh only if an url filter was found maybe
-				
-				// Event fired when a column visibility change
-				$('#myTable').on( 'column-visibility.dt', function ( e, settings, column, state ) {
-					refresh_url();
-				});
-			});
-			
-			// Check columns visibility and input and write the equivalent url in #table_url
-			function refresh_url() {
-				var table = $('#myTable').DataTable();
-				let url_param = "";
-				
-				// Loop as much as there are columns
-				let nb_columns = table.columns().count();
-				for (let i=0; i < nb_columns; i++) {
-					// Try to get the input val
-					let input_val = $( "table thead tr:eq(1) th[data-column-index='"+i+"'] input" ).val();
-					if (input_val != "" && input_val != null) {
-						url_param += (url_param == "") ? "?" : "&";
-						url_param += "filter"+i+"="+encodeURIComponent(input_val);
-					}
-				}
-				
-				// Check all the columns not visible and build an url parameter with them
-				var resultset = table.columns().visible();
-				var list_col = "";
-				for (var i = 0; i < resultset.length; i++) {
-					if (resultset[i] == false) {
-						if (list_col != "") list_col += ",";
-						list_col += i.toString()
-					};
-				}
-				if (list_col != "") {
-					url_param += (url_param == "") ? "?" : "&";
-					url_param += "hidecol="+list_col;
-				}
-				// Write the url in the document now
-				var url_table = window.location.protocol + '//' + window.location.hostname + window.location.pathname;
-				$('#table_url').html(url_table+url_param);
-			};
-			
-			// Delay to avoid filtering while the user is still typing
-			function delay(fn, ms) {
-				let timer = 0
-				return function(...args) {
-					clearTimeout(timer);
-					timer = setTimeout(fn.bind(this, ...args), ms || 0);
-				}
-			}
-
-			$(document).ready(function() {
+				prefill_filters_via_url(); // write down url filter params in filter input fields
+				attach_functions_on_events();
+				set_default_val_dropdown();
 			});
 			
 			// Create the datatable, must be called after getting the data
@@ -166,7 +97,7 @@
 					autoWidth: true,
 					columnDefs: [
 						{ visible: false, targets: array_hidecol },
-						{ targets: '_all', className: "centertext" }
+						{ targets: '_all', className: "centertext", defaultContent: "" }
 					],
 					"columns": [
 						{ "data": "iname" },
