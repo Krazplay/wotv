@@ -655,6 +655,169 @@ function get_datatable_VC_Sub_Buff() {
 	return result;
 }
 
+
+/*
+*   ====================            TABLE            ====================
+*	====================     Chocobo Adventure v2    ====================
+*/
+function get_datatable_Adventure() {
+	result = [];
+	const curDate = Date.now();
+	const curDay = new Date().getDay();
+	const areaDropTime = getAreaDropTime(); // easier way to get drop_start_at/end_at from AdventureArea
+	
+	for (let [key, value] of adventureAreaDropDeck) {
+		// Determine if active today (area open + campaign + day of the week)
+		// Is the area open ? First event areas
+		let is_open = "";
+		let dropTime = areaDropTime[value["area_iname"]];
+		if (dropTime && dropTime["drop_start_at"] && dropTime["drop_end_at"]) {
+			let begin = Date.parse(dropTime["drop_start_at"]);
+			let end = Date.parse(dropTime["drop_end_at"]);
+			if (curDate < end && curDate > begin) {
+				is_open = "yes";
+			}
+		}
+		
+		// Loop first to get the rate sum of the tables
+		let sum_table_rate = 0;
+		value.drop.forEach((table_params) => {
+			sum_table_rate += table_params.rate;
+		});
+		// Loop drops from AreaDropDeck
+		value.drop.forEach((table_params) => {
+			let table_loot = adventureDropDeckEntity.get(table_params.drop_id);
+			// Loop first to get the rate sum of the rewards in the table
+			let sum_reward_rate = 0;
+			table_loot.rewards.forEach((reward) => {
+				sum_reward_rate += reward.rate;
+			});
+			table_loot.rewards.forEach((reward) => {
+				let line = {};
+				line["area_iname"] = value["area_iname"];
+				line["area_name"] = adventureAreaName[value["area_iname"]] ? adventureAreaName[value["area_iname"]] : value["area_iname"];
+				line["campaign_string"] = value["campaign_string"];
+				line["drop_id"] = table_params.drop_id;
+				line["is_rare"] = table_params.is_rare ? table_params.is_rare : "0";
+				line["rate"] = table_params.rate;
+				line["fever_rate"] = table_params.fever_rate;
+				line["fix_rate"] = table_params.fix_rate;
+				line["sum_table_rate"] = sum_table_rate;
+				line["reward_name"] = itemName[reward.iname] ? itemName[reward.iname] : reward.iname;
+				line["reward_raw_rate"] = reward.rate;
+				line["sum_reward_rate"] = sum_reward_rate;
+				//todo Use the bonus value from AdventureUnitBonusSetting, they may change in the future
+				//Bonus S=>1 M=>3 L=>5 XL=>10
+				line["reward_rate"] =   round( ((table_params.rate + 0*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_s"] = round( ((table_params.rate + 1*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_m"] = round( ((table_params.rate + 3*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_l"] = round( ((table_params.rate + 5*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_xl"] = round( ((table_params.rate + 10*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["reward_rate_fever"] = round( ((table_params.fever_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+				line["shard_rarity"] = unit.get(reward.iname) ? unit.get(reward.iname).rare : "";
+				line["is_open"] = is_open;
+				
+				result.push(line);
+			});
+		});
+	}
+	return result;
+}
+// Because javascript
+function round(value, decimals) {
+	return Number(Math.round(value+'e'+decimals)+'e-'+decimals);
+}
+
+function getAreaDropTime() {
+	let result = {}
+	for (let [key, value] of adventureArea) {
+		// If there is only one "drop", the begin/end date may only be present in the area data
+		result[key] ??= {}; // init if undefined
+		if ((value.drop.length == 0) || (!(value.drop[0]["drop_start_at"]))) {
+			result[key]["drop_area_id"] = value["area_iname"];
+			result[key]["drop_start_at"] = value["begin_at"];
+			result[key]["drop_end_at"] = value["end_at"];
+		}
+		// Do not overwrite if no drop_start_at/drop_end_at
+		value.drop.forEach((drop_param) => {
+			if (drop_param["drop_start_at"]) { result[drop_param["drop_area_id"]] = drop_param; }
+		});
+	}
+	return result;
+}
+
+/*
+	Print current special area in html ID open_event_areas
+*/
+function print_AdventureArea() {
+	// String result inserted in html element
+	let result = "";
+	let result2 = ""; // added for classic areas
+	// Current date, needed to check if an area is active
+	let curDate = Date.now();
+	// Loop adventure area
+	for (let [iname, object] of adventureArea) {
+		// Want to check only the temporary areas
+		if (object["begin_at"] && object["end_at"]) {
+			let begin = Date.parse(object["begin_at"]);
+			let end = Date.parse(object["end_at"]);
+			// Only if currently active
+			if (curDate > begin && curDate < end) {
+				result += "Event area "+iname+" open from "+object["begin_at"]+" to "+object["end_at"]+"<br/>";
+				// Multipart event have multiple dropset
+				object["drop"].forEach((dropset) => {
+					if (dropset["drop_start_at"]) {
+						result += "&emsp;&emsp;&emsp;Switch to "+dropset["drop_area_id"]+" from "+dropset["drop_start_at"]+" to "+dropset["drop_end_at"]+"<br/>";
+					}
+				})
+			}
+		}
+		// Classic areas do not have a begin_at and end_at
+		else {
+			
+		}
+	}
+	document.getElementById("open_event_areas").innerHTML = result;
+}
+
+function print_ScheduledCampaigns() {
+	// String result inserted in html element
+	let result = "";
+	const weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+	const shortday = ["sun","mon","tue","wed","thu","fri","sat"];
+	// Current date, needed to check if a campaign is active
+	const curDate = Date.now();
+	const curDay = new Date().getDay();
+	// Loop adventure campaign periods
+	for (let [campaign_id, object] of adventureCampaignPeriod) {
+		// Want to check only the temporary areas
+		if (object["begin_at"] && object["end_at"]) {
+			let begin = Date.parse(object["begin_at"]);
+			let end = Date.parse(object["end_at"]);
+			// Only if currently active
+			if (curDate < end) {
+				if (curDate > begin) { result += '<span style="color:rgb(255,0,0);font-weight:bold;">' }
+				result += "Campaign ID "+campaign_id+" from "+object["begin_at"]+" to "+object["end_at"]+"<br/>";
+				// Campaign effects
+				let effects = adventureCampaignEffect.get(campaign_id)["effects"];
+				effects.forEach((effect) => {
+					if (effect["effect"] == "drop_rare_up") {
+						result += "&emsp;&emsp;&emsp;Drop Rare Up: use "+ effect["value"] +" ( ";
+					}
+					else result += "&emsp;&emsp;&emsp;"+effect["effect"]+": "+ effect["value"] +"% ( ";
+					for (let i = 0; i < 7; i++) {
+						result += effect[shortday[i]] ? weekday[i]+" " : "";
+					}
+					result += ")<br/>";
+				})
+				if (curDate > begin) { result += "</span>" }
+			}
+		}
+	}
+	document.getElementById("next_scheduled_campaigns").innerHTML = result;
+}
+
+
 /*
 *   ====================   Common functions used   ====================
 *	====================  in all datatables pages  ====================

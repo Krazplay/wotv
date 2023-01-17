@@ -1,0 +1,212 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+	
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.css"/>
+		<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="wotv_tables.css"/>
+		
+		<script type="text/javascript" src="kraz-wotv-v2.js"></script>
+		<script type="text/javascript" src="kraz-wotv-tables-v2.js"></script>
+		
+		<title>WotV Chocobo Expedition Table V2</title>
+		
+		<script>
+			array_hidecol = get_columns_to_hide(); // From either the url or localstorage
+			language = get_language();
+			version = get_version();
+			let promiseList = [];
+			// Download json from github repository
+			const GIT_SHAL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+			const GIT_KRAZ = 'https://raw.githubusercontent.com/Krazplay/wotv/main/localize';
+			const GIT_BISM = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
+			// Data required for this table
+			let files_required = [	GIT_BISM+'/localize/'+language+'/AdventureAreaName.json',
+									GIT_BISM+'/localize/'+language+'/ItemName.json',
+									GIT_BISM+'/data/AdventureDropDeckEntity.json',
+									GIT_BISM+'/data/AdventureAreaDropDeck.json',
+									GIT_BISM+'/data/AdventureArea.json',
+									GIT_BISM+'/data//Unit.json',
+									GIT_BISM+'/data/AdventureCampaignPeriod.json',
+									GIT_BISM+'/data/AdventureCampaignEffect.json']
+			files_required.forEach(file => {
+				promiseList.push($.getJSON(file, function(data){
+					console.log("Loaded: " + file);
+				}));
+			});
+
+			// All promises are completed
+			Promise.all(promiseList).then(values => {
+				console.log("All promises finished");
+				// values have the same order the promises were pushed in the list
+				adventureAreaName = parse_AnyName(values[0]);
+				itemName = parse_AnyName(values[1]);
+				adventureDropDeckEntity = parse_AnyData(values[2],"drop_id");
+				adventureAreaDropDeck = parse_AnyData(values[3],"area_iname","campaign_string");
+				adventureArea = parse_AnyData(values[4],"area_iname");
+				unit = parse_AnyData(values[5],"piece");
+				adventureCampaignPeriod = parse_AnyData(values[6],"campaign_id");
+				adventureCampaignEffect = parse_AnyData(values[7],"campaign_id");
+				
+				// New stuff before the table
+				print_AdventureArea();
+				print_ScheduledCampaigns();
+				
+				// data for the datatable
+				data_table = get_datatable_Adventure();
+				// The data is ready, show the datatable
+				create_datatable();
+				
+				// Setup - clone the thead of the table, will be used for individual filter input
+				// Must do it here or else there's a width issue and scrolling appear
+				$('#myTable thead tr').clone(true).appendTo( '#myTable thead' );
+				$('#myTable thead tr:eq(1) th').each( function (i) {
+					$(this).css("background-image", "none");
+					$(this).css("writing-mode", "horizontal-tb");
+					$(this).off();
+					$(this).html( '<input type="text" placeholder="Filter..." />' );
+					// Need to use $(this).parent().index() and not i, columns can be reordered
+					$( 'input', this ).on( 'keyup change', delay(function () {
+						// Change search setting depending on regex checbox
+						let is_regex = $('input[name=regex_search]').is(':checked');
+						table.column( $(this).parent().index()+':visible' )
+								.search( this.value, is_regex, !is_regex ).draw(); // value, regex?, smart search?
+						refresh_url_span();
+					}, 700));
+				});
+				
+				prefill_filters_via_url(); // write down url filter params in filter input fields
+				attach_functions_on_events();
+				set_default_val_dropdown();
+			});
+			
+			// Create the datatable, must be called after getting the data
+			function create_datatable() {
+				console.log("DataTable Go !");
+				table = $('#myTable').DataTable( {
+					"data": data_table,
+					"order": [], // no sorting at init
+					paging: false,
+					dom: 'B<"clear">lPfritp',
+					buttons: [ 'copy', 'csv', 'excel', 'colvis',
+						{
+							extend: 'columnVisibility',
+							text: 'Show all',
+							visibility: true
+						},
+						{
+							extend: 'columnVisibility',
+							text: 'Hide all',
+							visibility: false
+						}],
+					orderCellsTop: true,
+					fixedHeader: {
+						header: true,
+						footer: false
+					},
+					colReorder: true,
+					autoWidth: true,
+					columnDefs: [
+						{ visible: false, targets: array_hidecol },
+						{ targets: '_all', className: "centertext", defaultContent: "" }
+					],
+					"columns": [
+						{ "data": "area_iname" },
+						{ "data": "area_name" },
+						{ "data": "campaign_string" },
+						{ "data": "drop_id" },
+						{ "data": "is_rare" },
+						{ "data": "rate" },
+						{ "data": "fever_rate" },
+						{ "data": "fix_rate" },
+						{ "data": "sum_table_rate" },
+						{ "data": "reward_raw_rate" },
+						{ "data": "sum_reward_rate" },
+						{ "data": "reward_name" },
+						{ "data": "shard_rarity" },
+						{ "data": "reward_rate" },
+						{ "data": "reward_rate_s" },
+						{ "data": "reward_rate_m" },
+						{ "data": "reward_rate_l" },
+						{ "data": "reward_rate_xl" },
+						{ "data": "reward_rate_fever" },
+						{ "data": "is_open" }
+					]
+				});
+			}
+		</script>
+	</head>
+	
+	<body>
+		<span>Chocobo expedition - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
+		<span>
+			Language:
+			<select name="language" id="language" onchange="languageChange(this.value)">
+			  <option value="de">de</option>
+			  <option value="en">en</option>
+			  <option value="es">es</option>
+			  <option value="fr">fr</option>
+			  <option value="ko">ko</option>
+			  <option value="zh">zh</option>
+			</select>
+			Version:
+			<select name="version" id="version" onchange="versionChange(this.value)">
+			  <option value="gl">Global</option>
+			  <option value="jp">Japan</option>
+			</select>
+		</span>
+		<br/><br/>
+		<div id="open_event_areas"></div>
+		<br/>
+		<div id="next_scheduled_campaigns"></div><br/>
+		<a href="#" onClick="$('#explanation').toggle();">Show/hide explanation</a>
+		<div id="explanation" style="display: none;"><br/>
+			You get one item every 10 minutes, counting from the last time you collected them (if you were 10 sec away to get a new one, though luck, back to 10 minutes when you collect)<br/>
+			Items are separated in tables (usually 4: common/medium/rare drop table and the recipes+shards table). Each table have a weight, if table A = 6 weight, table B = 4, you have 60% proba to get a loot from A: 6/(6+4)<br/>
+			Items have a weight within their respective table. If the sum of weight inside table A is 200, and the item Potion have a weight of 40, you have 20% proba to get a potion IF you get a loot from table A. So the item probability is 60% (table A) * 20% (item within table A) = 12%<br/>
+			<br>
+			Fever and Unit bonus only affect the tables rate, I don't remember a campaign affecting the item rate within tables as well.<br/>
+			The bonus rate is used for the Unit bonus, you multiply it by 1,3,5,10 (S,M,L,XL) then add it to the table rate. The common drop table will have a lower rate, that "lost" rate is distributed to the medium and rare drop table.<br/>
+			The column Rare? is only a VISUAL effect they added a few months after the game release, it has NOTHING to do with drop rate. If there is a "Rare drop up" campaign, my script up there should be showing what campaign to use instead of "default"<br/>
+			<br>
+			Clearing up some common misconceptions:<br/>
+			- Having more recipes and shards do not mean you get less of a specific recipe/shard. During events especially, sometimes they add the new recipe into the existing recipe table, sometimes they create a whole new table for it, but in both case, the table weight added is always subtracted from the common drop table.<br/>
+			- Issues with the drop rate were always visible in the datamined files, it has calmed down nowadays, but there was always someone complaining at the shard drop rate like it was nerfed. I have added a shard rarity column, 4 is for UR.<br/>
+			- Shard drop rate is unaffected by the Fever and Unit bonuses. Fever and XL bonuses are not stackable. For shard drop rate the Fever rate is the same rate as usual, and the bonus rate is 0.<br>
+			For Fever + XL bonuses not stacking, it's math, applying the bonus could lower the drop rate of some item to negative value, which makes no sense, and when Itested that scenario in-game the item still appeared.<br/>
+			Some test data I was provided a long time ago were always focusing on rare items instead of common items, where the variation is bigger, and honestly with the RNG you would need a huge amount of data to have statistical evidence.<br/>
+		</div>
+		<br/><br/>
+		<table id="myTable" class="display">
+			<thead>
+				<tr>
+					<th>Area iname</th>
+					<th>Area name</th>
+					<th>Campaign</th>
+					<th>Table drop id</th>
+					<th>Rare?</th>
+					<th>Table<br/>Rate</th>
+					<th>Table<br/>Fever<br/>Rate</th>
+					<th>Table<br/>Bonus<br/>Rate</th>
+					<th>Sum<br/>Table<br/>N Rate</th>
+					<th>Item<br/>Rate</th>
+					<th>Sum<br/>Item<br/>Rate</th>
+					<th>Reward name</th>
+					<th>Shard<br/>Rarity</th>
+					<th>Reward<br/>drop %</th>
+					<th>S bonus<br/>drop %</th>
+					<th>M bonus<br/>drop %</th>
+					<th>L bonus<br/>drop %</th>
+					<th>XL bonus<br/>drop %</th>
+					<th>Fever<br/>drop %</th>
+					<th>Area open?</th>
+				</tr>
+			</thead>
+			<tbody>
+			</tbody>
+			<tfoot>
+			</tfoot>
+		</table>
+	</body>
+	
+</html>
