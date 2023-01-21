@@ -689,10 +689,41 @@ function get_datatable_Adventure() {
 			let table_loot = adventureDropDeckEntity.get(table_params.drop_id);
 			// Loop first to get the rate sum of the rewards in the table
 			let sum_reward_rate = 0;
-			table_loot.rewards.forEach((reward) => {
-				sum_reward_rate += reward.rate;
-			});
-			table_loot.rewards.forEach((reward) => {
+			// table_loot may be null, they removed drop_ip 3002 in DeckEntity while it's still referenced in DropDeck for example...
+			if (table_loot) {
+				table_loot.rewards.forEach((reward) => {
+					sum_reward_rate += reward.rate;
+				});
+				table_loot.rewards.forEach((reward) => {
+					let line = {};
+					line["area_iname"] = value["area_iname"];
+					line["area_name"] = adventureAreaName[value["area_iname"]] ? adventureAreaName[value["area_iname"]] : value["area_iname"];
+					line["campaign_string"] = value["campaign_string"];
+					line["drop_id"] = table_params.drop_id;
+					line["is_rare"] = table_params.is_rare ? table_params.is_rare : "0";
+					line["rate"] = table_params.rate;
+					line["fever_rate"] = table_params.fever_rate;
+					line["fix_rate"] = table_params.fix_rate;
+					line["sum_table_rate"] = sum_table_rate;
+					line["reward_name"] = itemName[reward.iname] ? itemName[reward.iname] : reward.iname;
+					line["reward_raw_rate"] = reward.rate;
+					line["sum_reward_rate"] = sum_reward_rate;
+					//todo Use the bonus value from AdventureUnitBonusSetting, they may change in the future
+					//Bonus S=>1 M=>3 L=>5 XL=>10
+					line["reward_rate"] =   round( ((table_params.rate + 0*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+					line["reward_rate_s"] = round( ((table_params.rate + 1*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+					line["reward_rate_m"] = round( ((table_params.rate + 3*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+					line["reward_rate_l"] = round( ((table_params.rate + 5*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+					line["reward_rate_xl"] = round( ((table_params.rate + 10*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+					line["reward_rate_fever"] = round( ((table_params.fever_rate) * reward.rate / sum_reward_rate) / 1000, 3);
+					line["shard_rarity"] = unit.get(reward.iname) ? unit.get(reward.iname).rare : "";
+					line["is_open"] = is_open;
+					
+					result.push(line);
+				});
+			}
+			// Still add a line to indicate a drop table is missing in DeckEntity
+			else {
 				let line = {};
 				line["area_iname"] = value["area_iname"];
 				line["area_name"] = adventureAreaName[value["area_iname"]] ? adventureAreaName[value["area_iname"]] : value["area_iname"];
@@ -703,22 +734,11 @@ function get_datatable_Adventure() {
 				line["fever_rate"] = table_params.fever_rate;
 				line["fix_rate"] = table_params.fix_rate;
 				line["sum_table_rate"] = sum_table_rate;
-				line["reward_name"] = itemName[reward.iname] ? itemName[reward.iname] : reward.iname;
-				line["reward_raw_rate"] = reward.rate;
+				line["reward_name"] = "Table_"+table_params.drop_id+"_Missing";
 				line["sum_reward_rate"] = sum_reward_rate;
-				//todo Use the bonus value from AdventureUnitBonusSetting, they may change in the future
-				//Bonus S=>1 M=>3 L=>5 XL=>10
-				line["reward_rate"] =   round( ((table_params.rate + 0*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
-				line["reward_rate_s"] = round( ((table_params.rate + 1*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
-				line["reward_rate_m"] = round( ((table_params.rate + 3*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
-				line["reward_rate_l"] = round( ((table_params.rate + 5*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
-				line["reward_rate_xl"] = round( ((table_params.rate + 10*table_params.fix_rate) * reward.rate / sum_reward_rate) / 1000, 3);
-				line["reward_rate_fever"] = round( ((table_params.fever_rate) * reward.rate / sum_reward_rate) / 1000, 3);
-				line["shard_rarity"] = unit.get(reward.iname) ? unit.get(reward.iname).rare : "";
 				line["is_open"] = is_open;
-				
 				result.push(line);
-			});
+			}
 		});
 	}
 	return result;
