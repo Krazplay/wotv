@@ -409,8 +409,8 @@ function get_datatable_VisionCard() {
 *   ====================            TABLE            ====================
 *	====================        Characters V2        ====================
 */
-function get_datatable_Character() {
-	result = [];
+function get_datatable_Characters() {
+	let result = [];
 	let line_type = ["base","board","master","total"];
 	let line_id = 1;
 	
@@ -427,9 +427,13 @@ function get_datatable_Character() {
 		base_line["elem"] = elem_to_text(unit_obj.elem);
 		base_line["birth"] = birthTitle[unit_obj.birth];
 		base_line["species"] = species_to_text(unit_obj.species);
-		base_line["jobs"] = "";
+		base_line["mainjobs"] = "";
+		for (const job_id of [unit_obj.jobsets[0],unit_obj.ccsets[0]["m"]]) {
+			base_line["mainjobs"] += (jobName[job_id] ? jobName[job_id] : job_id) + "<br/>";
+		}
+		base_line["subjobs"] = "";
 		for (const job_id of unit_obj.jobsets) {
-			base_line["jobs"] += (jobName[job_id] ? jobName[job_id] : job_id) + "<br/>";
+			base_line["subjobs"] += (jobName[job_id] ? jobName[job_id] : job_id) + "<br/>";
 		}
 		// Filled up in the loop:
 		base_line["lvl"] = "";
@@ -444,31 +448,31 @@ function get_datatable_Character() {
 		base_line["owned"] = ""
 		base_line["memo"] = ""
 		
+		let i = unit_obj.status.length-1;
+		base_line["lvl"] = ["1","99","120"][i];
+		base_line["owned"] = "<input type=\"checkbox\" id='"+unit_obj.iname+"'></input>";
+		base_line["memo"] = "<input type=\"text\" class=\"memo\" id='"+unit_obj.iname+"_memo'></input>";
+		
+		let stats = get_unit_maxstats(iname);
+		let typstat = "base";
+		
+		// Loop on all existing stats
+		let stats_list = Object.keys(stats[typstat]);
+		stats_list.forEach((stat) => {
+			base_line[stat] = stats[typstat][stat];
+		});
+		
+		
+		result.push(base_line);
+		/*
 		// Status => [{Lv1}, {Lv99}, {Lv120}] Loop only on 99+
 		let stats = get_unit_stats(iname);
 		for (let i=1; unit_obj.status[i]; i++) {
 			base_line["lvl"] = ["1","99","120"][i];
 			// Loop on line_type
 			for (const typstat of line_type) {
-				// Line to push, starting from cloning base_line
-				let line = Object.assign({}, base_line);
-				line["stat_origin"] = typstat;
-				// Max level ? if next status exist then no
-				line["bestv"] = unit_obj.status[i+1] ? 0 : 1;
-				// Checkbox and memo only for max level+total stats line
-				if ((line["bestv"] == 1) && (typstat == "total")) {
-					line["owned"] = "<input type=\"checkbox\" id='"+unit_obj.iname+"'></input>";
-					line["memo"] = "<input type=\"text\" class=\"memo\" id='"+unit_obj.iname+"_memo'></input>";
-				}
 				
-				// Loop on all existing stats
-				stats_list_table.forEach((stat) => {
-					if (stats[i][typstat][stat]) {
-						line[stat] = stats[i][typstat][stat];
-						delete stats[i][typstat][stat];
-					}
-					else { line[stat] = ""; }
-				});
+
 				
 				if (stats[i][typstat]["hit_stat"] != null) {
 					line["hit_stat"] = stats[i][typstat]["hit_stat"];
@@ -565,7 +569,7 @@ function get_datatable_Character() {
 				line["line_id"] = line_id++;
 				result.push(line);
 			}
-		}
+		}*/
 	}
 	return result;
 }
