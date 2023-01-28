@@ -646,7 +646,52 @@ function get_datatable_Skills() {
 		
 		let param_list = Object.keys(skill_obj);
 		param_list.forEach((param) => {
-			line[param] = skill_obj[param];
+			switch(param) {
+				case "slot":
+					line[param] = EAbilitySlot[skill_obj[param]];
+					break;
+				case "atk_base":
+					line[param] = EAttackBase[skill_obj[param]];
+					break;
+				case "atk_formula":
+					line[param] = EAttackFormula[skill_obj[param]];
+					break;
+				case "atk_type":
+					line[param] = EAttackType[skill_obj[param]];
+					break;
+				case "react_d_type":
+					line[param] = EAttackType[skill_obj[param]];
+					break;
+				case "atk_det":
+					line[param] = EStatusAttack[skill_obj[param]];
+					break;
+				case "react_d_det":
+					line[param] = EStatusAttack[skill_obj[param]];
+					break;
+				case "cost_type":
+					line[param] = ESkillCostType[skill_obj[param]];
+					break;
+				case "eff_type":
+					line[param] = ESkillEffectType[skill_obj[param]];
+					break;
+				//case "move":
+				//	line[param] = ESkillMoveType[skill_obj[param]];
+				//	break;
+				case "target":
+					line[param] = ESkillTarget[skill_obj[param]];
+					break;
+				case "timing":
+					line[param] = ESkillTiming[skill_obj[param]];
+					break;
+				case "type":
+					line[param] = ESkillType[skill_obj[param]];
+					break;
+				default:
+					line[param] = skill_obj[param];
+			}
+			if (Array.isArray(skill_obj[param])) {
+				line[param] = skill_obj[param];
+			}
 			if (!all_param.includes(param)) all_param.push(param);
 		});
 

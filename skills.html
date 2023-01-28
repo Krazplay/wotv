@@ -6,6 +6,7 @@
 		<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="wotv_tables.css"/>
 		
+		<script type="text/javascript" src="kraz-enums.js"></script>
 		<script type="text/javascript" src="kraz-wotv-v2.js"></script>
 		<script type="text/javascript" src="kraz-wotv-parser-v2.js"></script>
 		<script type="text/javascript" src="kraz-wotv-tables-v2.js"></script>
@@ -108,8 +109,6 @@
 						{ "data": "slot" },
 						{ "data": "cap" },
 						{ "data": "lvup_cost_rate" },
-						{ "data": "motnm" },
-						{ "data": "effnm" },
 						{ "data": "count" },
 						{ "data": "cost_type" },
 						{ "data": "cost_ap" },
@@ -129,6 +128,13 @@
 						{ "data": "atk_type" },
 						{ "data": "atk_base" },
 						{ "data": "atk_det" },
+						{ "data": "atk_formula" },
+						{ "data": "atk_formula_t1" },
+						{ "data": "atk_formula_t2" },
+						{ "data": "atk_formula_t3" },
+						{ "data": "react_d_type" },
+						{ "data": "react_d_det" },
+						{ "data": "move" },
 						{ "data": "def_wep" },
 						{ "data": "ctave" },
 						{ "data": "yuragi" },
@@ -140,16 +146,11 @@
 						{ "data": "cam_dir" },
 						{ "data": "klsp" },
 						{ "data": "klspr" },
-						{ "data": "atk_formula" },
-						{ "data": "atk_formula_t1" },
-						{ "data": "atk_formula_t2" },
-						{ "data": "atk_formula_t3" },
 						{ "data": "elem_pri" },
 						{ "data": "line" },
 						{ "data": "s_buffs" },
 						{ "data": "ctbreak" },
 						{ "data": "kback" },
-						{ "data": "react_d_type" },
 						{ "data": "eff_rate" },
 						{ "data": "eff_rate1" },
 						{ "data": "dupli" },
@@ -164,7 +165,6 @@
 						{ "data": "combo_rate" },
 						{ "data": "pierce" },
 						{ "data": "invtag" },
-						{ "data": "move" },
 						{ "data": "strength" },
 						{ "data": "collaboType" },
 						{ "data": "stl_val" },
@@ -182,7 +182,6 @@
 						{ "data": "reftar" },
 						{ "data": "bbrk" },
 						{ "data": "chang" },
-						{ "data": "replace" },
 						{ "data": "eff_w" },
 						{ "data": "def_weps" },
 						{ "data": "hp_bonus" },
@@ -202,8 +201,10 @@
 						{ "data": "gdupli" },
 						{ "data": "skltag" },
 						{ "data": "selectable_target_num" },
-						{ "data": "react_d_det" },
-						{ "data": "eff_range" }
+						{ "data": "eff_range" },
+						{ "data": "motnm" },
+						{ "data": "effnm" },
+						{ "data": "replace" }
 					]
 				});
 			}
@@ -242,10 +243,8 @@
 					<th>iname</th>
 					<th>name</th>
 					<th>slot</th>
-					<th>cap</th>
+					<th>lvl<br/>cap</th>
 					<th>lvup_cost_rate</th>
-					<th>motnm</th>
-					<th>effnm</th>
 					<th>count</th>
 					<th>cost_type</th>
 					<th>cost_ap</th>
@@ -265,6 +264,13 @@
 					<th>atk_type</th>
 					<th>atk_base</th>
 					<th>atk_det</th>
+					<th>atk_formula</th>
+					<th>atk_formula_t1</th>
+					<th>atk_formula_t2</th>
+					<th>atk_formula_t3</th>
+					<th>(Counter)<br/>react_d_type</th>
+					<th>(Counter)<br/>react_d_det</th>
+					<th>move</th>
 					<th>def_wep</th>
 					<th>ctave</th>
 					<th>yuragi</th>
@@ -276,16 +282,11 @@
 					<th>cam_dir</th>
 					<th>klsp</th>
 					<th>klspr</th>
-					<th>atk_formula</th>
-					<th>atk_formula_t1</th>
-					<th>atk_formula_t2</th>
-					<th>atk_formula_t3</th>
 					<th>elem_pri</th>
 					<th>line</th>
 					<th>s_buffs</th>
 					<th>ctbreak</th>
 					<th>kback</th>
-					<th>react_d_type</th>
 					<th>eff_rate</th>
 					<th>eff_rate1</th>
 					<th>dupli</th>
@@ -300,7 +301,6 @@
 					<th>combo_rate</th>
 					<th>pierce</th>
 					<th>invtag</th>
-					<th>move</th>
 					<th>strength</th>
 					<th>collaboType</th>
 					<th>stl_val</th>
@@ -318,7 +318,6 @@
 					<th>reftar</th>
 					<th>bbrk</th>
 					<th>chang</th>
-					<th>replace</th>
 					<th>eff_w</th>
 					<th>def_weps</th>
 					<th>hp_bonus</th>
@@ -338,8 +337,10 @@
 					<th>gdupli</th>
 					<th>skltag</th>
 					<th>selectable_target_num</th>
-					<th>react_d_det</th>
 					<th>eff_range</th>
+					<th>motnm</th>
+					<th>effnm</th>
+					<th>replace</th>
 				</tr>
 			</thead>
 			<tbody>
