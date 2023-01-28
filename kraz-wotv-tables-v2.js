@@ -634,6 +634,29 @@ function get_datatable_Skill() {
 	return result;
 }
 
+function get_datatable_Skills() {
+	let result = [];
+	let all_param = [];
+	let line_id = 1;
+	
+	for (let [iname, skill_obj] of skill) {
+		let line = {};
+		line["name"] = skillName[skill_obj.iname] ? skillName[skill_obj.iname] : skill_obj.iname;
+		line["line_id"] = line_id++;
+		
+		let param_list = Object.keys(skill_obj);
+		param_list.forEach((param) => {
+			line[param] = skill_obj[param];
+			if (!all_param.includes(param)) all_param.push(param);
+		});
+
+		result.push(line);
+	}
+	
+	console.log(all_param);
+	//console.log(result);
+	return result;
+}
 
 /*
 *   ====================            TABLE            ====================

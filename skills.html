@@ -1,0 +1,343 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+	
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.css"/>
+		<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="wotv_tables.css"/>
+		
+		<script type="text/javascript" src="kraz-wotv-v2.js"></script>
+		<script type="text/javascript" src="kraz-wotv-parser-v2.js"></script>
+		<script type="text/javascript" src="kraz-wotv-tables-v2.js"></script>
+		
+		<title>WotV Skills Table</title>
+		
+		<script>
+			array_hidecol = get_columns_to_hide(); // From either the url or localstorage
+			language = get_language();
+			version = get_version();
+			let promiseList = [];
+			// Download json from github repository
+			const GIT_SHAL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+			const GIT_KRAZ = 'https://raw.githubusercontent.com/Krazplay/wotv/main/localize';
+			const GIT_BISM = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
+			let files_required = [	GIT_BISM+'/localize/'+language+'/SkillName.json',
+									GIT_BISM+'/data/Skill.json'
+								]
+			files_required.forEach(file => {
+				promiseList.push($.getJSON(file, function(data){
+					console.log("Loaded: " + file);
+				}));
+			});
+
+			// All promises are completed
+			Promise.all(promiseList).then(values => {
+				console.log("All promises finished");
+				// values have the same order the promises were pushed in the list
+				skillName = parse_AnyName(values[0]);
+				skill = parse_AnyData(values[1],"iname");
+				
+				// data for the datatable
+				data_table = get_datatable_Skills();
+				// The data is ready, show the datatable
+				create_datatable();
+				
+				// Setup - clone the thead of the table, will be used for individual filter input
+				// Must do it here or else there's a width issue and scrolling appear
+				$('#myTable thead tr').clone(true).appendTo( '#myTable thead' );
+				$('#myTable thead tr:eq(1) th').each( function (i) {
+					$(this).css("background-image", "none");
+					$(this).css("writing-mode", "horizontal-tb");
+					$(this).off();
+					$(this).html( '<input type="text" placeholder="Filter..." />' );
+					// Need to use $(this).parent().index() and not i, columns can be reordered
+					$( 'input', this ).on( 'keyup change', delay(function () {
+						// Change search setting depending on regex checbox
+						let is_regex = $('input[name=regex_search]').is(':checked');
+						table.column( $(this).parent().index()+':visible' )
+								.search( this.value, is_regex, !is_regex ).draw(); // value, regex?, smart search?
+						refresh_url_span();
+					}, 700));
+				});
+				
+				prefill_filters_via_url(); // write down url filter params in filter input fields
+				attach_functions_on_events();
+				set_default_val_dropdown();
+			});
+			
+			// Create the datatable, must be called after getting the data
+			function create_datatable() {
+				console.log("DataTable Go !");
+				table = $('#myTable').DataTable( {
+					"data": data_table,
+					"order": [], // no sorting at init
+					paging: false,
+					dom: 'B<"clear">lPfritp',
+					buttons: [ 'copy', 'csv', 'excel', 'colvis',
+						{
+							extend: 'columnVisibility',
+							text: 'Show all',
+							visibility: true
+						},
+						{
+							extend: 'columnVisibility',
+							text: 'Hide all',
+							visibility: false
+						}],
+					orderCellsTop: true,
+					fixedHeader: {
+						header: true,
+						footer: false
+					},
+					colReorder: true,
+					autoWidth: true,
+					columnDefs: [
+						{ visible: false, targets: array_hidecol },
+						{ targets: '_all', className: "centertext", defaultContent: "" }
+					],
+					select: {
+						style:    'os',
+						selector: 'td:first-child'
+					},
+					"columns": [
+						{ "data": "line_id" },
+						{ "data": "iname" },
+						{ "data": "name" },
+						{ "data": "slot" },
+						{ "data": "cap" },
+						{ "data": "lvup_cost_rate" },
+						{ "data": "motnm" },
+						{ "data": "effnm" },
+						{ "data": "count" },
+						{ "data": "cost_type" },
+						{ "data": "cost_ap" },
+						{ "data": "cost_mp" },
+						{ "data": "range_s" },
+						{ "data": "range_l" },
+						{ "data": "range_h" },
+						{ "data": "range_mh" },
+						{ "data": "range_w" },
+						{ "data": "eff_s" },
+						{ "data": "eff_l" },
+						{ "data": "eff_h" },
+						{ "data": "type" },
+						{ "data": "timing" },
+						{ "data": "eff_type" },
+						{ "data": "target" },
+						{ "data": "atk_type" },
+						{ "data": "atk_base" },
+						{ "data": "atk_det" },
+						{ "data": "def_wep" },
+						{ "data": "ctave" },
+						{ "data": "yuragi" },
+						{ "data": "elem" },
+						{ "data": "eff_val" },
+						{ "data": "eff_val1" },
+						{ "data": "selfsel" },
+						{ "data": "t_buffs" },
+						{ "data": "cam_dir" },
+						{ "data": "klsp" },
+						{ "data": "klspr" },
+						{ "data": "atk_formula" },
+						{ "data": "atk_formula_t1" },
+						{ "data": "atk_formula_t2" },
+						{ "data": "atk_formula_t3" },
+						{ "data": "elem_pri" },
+						{ "data": "line" },
+						{ "data": "s_buffs" },
+						{ "data": "ctbreak" },
+						{ "data": "kback" },
+						{ "data": "react_d_type" },
+						{ "data": "eff_rate" },
+						{ "data": "eff_rate1" },
+						{ "data": "dupli" },
+						{ "data": "eff_dst" },
+						{ "data": "barrier" },
+						{ "data": "ischa" },
+						{ "data": "hp_cost_rate" },
+						{ "data": "hp_cost" },
+						{ "data": "crt_hit" },
+						{ "data": "hit" },
+						{ "data": "combo_num" },
+						{ "data": "combo_rate" },
+						{ "data": "pierce" },
+						{ "data": "invtag" },
+						{ "data": "move" },
+						{ "data": "strength" },
+						{ "data": "collaboType" },
+						{ "data": "stl_val" },
+						{ "data": "stl_val1" },
+						{ "data": "rate" },
+						{ "data": "range_bns" },
+						{ "data": "ct_type" },
+						{ "data": "ct_lock" },
+						{ "data": "ct_spd" },
+						{ "data": "ct_spd1" },
+						{ "data": "range_m" },
+						{ "data": "range_buff" },
+						{ "data": "ira_val" },
+						{ "data": "ira_val1" },
+						{ "data": "reftar" },
+						{ "data": "bbrk" },
+						{ "data": "chang" },
+						{ "data": "replace" },
+						{ "data": "eff_w" },
+						{ "data": "def_weps" },
+						{ "data": "hp_bonus" },
+						{ "data": "mafuken" },
+						{ "data": "force_eq" },
+						{ "data": "movie" },
+						{ "data": "atk_rev" },
+						{ "data": "wth" },
+						{ "data": "grow" },
+						{ "data": "exp" },
+						{ "data": "scn" },
+						{ "data": "reflec" },
+						{ "data": "crt_value" },
+						{ "data": "acbst" },
+						{ "data": "fdupli" },
+						{ "data": "def_shi" },
+						{ "data": "gdupli" },
+						{ "data": "skltag" }
+					]
+				});
+			}
+		</script>
+	</head>
+	<style>
+		
+	</style>
+	<body>
+		<span>Playable characters stats - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
+		<span>
+			Language:
+			<select name="language" id="language" onchange="languageChange(this.value)">
+			  <option value="de">de</option>
+			  <option value="en">en</option>
+			  <option value="es">es</option>
+			  <option value="fr">fr</option>
+			  <option value="ko">ko</option>
+			  <option value="zh">zh</option>
+			</select>
+			Version:
+			<select name="version" id="version" onchange="versionChange(this.value)">
+			  <option value="gl">Global</option>
+			  <option value="jp">Japan</option>
+			</select>
+		</span>
+		<br/><br/>
+		<table id="myTable" class="display">
+			<input type="checkbox" name="regex_search" id="regex_search"></input>
+			<label for="regex_search">Use regex in column filters instead of smart search (allow things like "Ifrit|Shiva")</label>
+			<span> / Custom memo size: <input type="text" id="memo_size_character" size="1" onkeyup="memoSizeChange(event)"></input>
+			<thead>
+				<tr>
+					<th>-</th>
+					<th>iname</th>
+					<th>name</th>
+					<th>slot</th>
+					<th>cap</th>
+					<th>lvup_cost_rate</th>
+					<th>motnm</th>
+					<th>effnm</th>
+					<th>count</th>
+					<th>cost_type</th>
+					<th>cost_ap</th>
+					<th>cost_mp</th>
+					<th>range_s</th>
+					<th>range_l</th>
+					<th>range_h</th>
+					<th>range_mh</th>
+					<th>range_w</th>
+					<th>eff_s</th>
+					<th>eff_l</th>
+					<th>eff_h</th>
+					<th>type</th>
+					<th>timing</th>
+					<th>eff_type</th>
+					<th>target</th>
+					<th>atk_type</th>
+					<th>atk_base</th>
+					<th>atk_det</th>
+					<th>def_wep</th>
+					<th>ctave</th>
+					<th>yuragi</th>
+					<th>elem</th>
+					<th>eff_val</th>
+					<th>eff_val1</th>
+					<th>selfsel</th>
+					<th>t_buffs</th>
+					<th>cam_dir</th>
+					<th>klsp</th>
+					<th>klspr</th>
+					<th>atk_formula</th>
+					<th>atk_formula_t1</th>
+					<th>atk_formula_t2</th>
+					<th>atk_formula_t3</th>
+					<th>elem_pri</th>
+					<th>line</th>
+					<th>s_buffs</th>
+					<th>ctbreak</th>
+					<th>kback</th>
+					<th>react_d_type</th>
+					<th>eff_rate</th>
+					<th>eff_rate1</th>
+					<th>dupli</th>
+					<th>eff_dst</th>
+					<th>barrier</th>
+					<th>ischa</th>
+					<th>hp_cost_rate</th>
+					<th>hp_cost</th>
+					<th>crt_hit</th>
+					<th>hit</th>
+					<th>combo_num</th>
+					<th>combo_rate</th>
+					<th>pierce</th>
+					<th>invtag</th>
+					<th>move</th>
+					<th>strength</th>
+					<th>collaboType</th>
+					<th>stl_val</th>
+					<th>stl_val1</th>
+					<th>rate</th>
+					<th>range_bns</th>
+					<th>ct_type</th>
+					<th>ct_lock</th>
+					<th>ct_spd</th>
+					<th>ct_spd1</th>
+					<th>range_m</th>
+					<th>range_buff</th>
+					<th>ira_val</th>
+					<th>ira_val1</th>
+					<th>reftar</th>
+					<th>bbrk</th>
+					<th>chang</th>
+					<th>replace</th>
+					<th>eff_w</th>
+					<th>def_weps</th>
+					<th>hp_bonus</th>
+					<th>mafuken</th>
+					<th>force_eq</th>
+					<th>movie</th>
+					<th>atk_rev</th>
+					<th>wth</th>
+					<th>grow</th>
+					<th>exp</th>
+					<th>scn</th>
+					<th>reflec</th>
+					<th>crt_value</th>
+					<th>acbst</th>
+					<th>fdupli</th>
+					<th>def_shi</th>
+					<th>gdupli</th>
+					<th>skltag</th>
+				</tr>
+			</thead>
+			<tbody>
+			</tbody>
+			<tfoot>
+			</tfoot>
+		</table>
+	</body>
+	
+</html>

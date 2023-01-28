@@ -222,6 +222,22 @@
 	</style>
 	<body>
 		<span>Playable characters stats - <a href="./index.html">Return to index</a></span> - <span id="table_url"></span>
+		<span>
+			Language:
+			<select name="language" id="language" onchange="languageChange(this.value)">
+			  <option value="de">de</option>
+			  <option value="en">en</option>
+			  <option value="es">es</option>
+			  <option value="fr">fr</option>
+			  <option value="ko">ko</option>
+			  <option value="zh">zh</option>
+			</select>
+			Version:
+			<select name="version" id="version" onchange="versionChange(this.value)">
+			  <option value="gl">Global</option>
+			  <option value="jp">Japan</option>
+			</select>
+		</span>
 		<br/><br/>
 		<table id="myTable" class="display">
 			<input type="checkbox" name="regex_search" id="regex_search"></input>
