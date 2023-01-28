@@ -21,7 +21,9 @@
 			const GIT_SHAL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
 			const GIT_KRAZ = 'https://raw.githubusercontent.com/Krazplay/wotv/main/localize';
 			const GIT_BISM = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
-			let files_required = [	GIT_BISM+'/localize/'+language+'/SkillName.json',
+			if (language == 'ja') { LOCALIZE = 'https://raw.githubusercontent.com/bismark1221/wotv-jp-assets/master'; }
+			else { LOCALIZE = 'https://raw.githubusercontent.com/bismark1221/wotv-gl-assets/master'; }
+			let files_required = [	LOCALIZE+'/localize/'+language+'/SkillName.json',
 									GIT_BISM+'/data/Skill.json'
 								]
 			files_required.forEach(file => {
@@ -198,7 +200,10 @@
 						{ "data": "fdupli" },
 						{ "data": "def_shi" },
 						{ "data": "gdupli" },
-						{ "data": "skltag" }
+						{ "data": "skltag" },
+						{ "data": "selectable_target_num" },
+						{ "data": "react_d_det" },
+						{ "data": "eff_range" }
 					]
 				});
 			}
@@ -218,6 +223,7 @@
 			  <option value="fr">fr</option>
 			  <option value="ko">ko</option>
 			  <option value="zh">zh</option>
+			  <option value="ja">ja</option>
 			</select>
 			Version:
 			<select name="version" id="version" onchange="versionChange(this.value)">
@@ -331,6 +337,9 @@
 					<th>def_shi</th>
 					<th>gdupli</th>
 					<th>skltag</th>
+					<th>selectable_target_num</th>
+					<th>react_d_det</th>
+					<th>eff_range</th>
 				</tr>
 			</thead>
 			<tbody>
