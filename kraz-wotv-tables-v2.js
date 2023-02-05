@@ -594,14 +594,22 @@ function get_datatable_Buff() {
 function parse_buff(buff) {
 	buff["type_html"] = "";
 	buff["calc_html"] = "";
+	buff["calc_enum"] = "";
+	buff["param_enum"] = "";
 	buff["val_html"] = "";
 	buff["val1_html"] = "";
 	buff["tags_html"] = "";
 	buff["effects_html"] = "";
+	
+	buff["condition_enum"] = EBuffEffectCondition[buff["conds"]];
+	
 	// A buff can have multiple effects, loop on all typeX
 	for (let i=1; buff["type"+i] != null ; i++) {
 		buff["type_html"] += (i==1) ? buff["type"+i] : "<br>"+buff["type"+i];
 		buff["calc_html"] += (i==1) ? buff["calc"+i] : "<br>"+buff["calc"+i];
+		buff["calc_enum"] += (i==1) ? EBuffStatusCalc[buff["calc"+i]] : "<br>"+EBuffStatusCalc[buff["calc"+i]];
+		buff["param_enum"] += (i==1) ? EBuffStatusParam[buff["type"+i]] : "<br>"+EBuffStatusParam[buff["type"+i]];
+		
 		if (buff["val"+i] != null) buff["val_html"] += (i==1) ? buff["val"+i] : "<br>"+buff["val"+i];
 			else buff["val_html"] += (i==1) ? "-" : "<br>-";
 		if (buff["val"+i+"1"] != null) buff["val1_html"] += (i==1) ? buff["val"+i+"1"] : "<br>"+buff["val"+i+"1"];

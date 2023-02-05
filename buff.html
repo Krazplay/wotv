@@ -6,6 +6,7 @@
 		<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.24/b-1.7.0/b-colvis-1.7.0/b-html5-1.7.0/cr-1.5.3/fh-3.1.8/rr-1.2.7/datatables.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="wotv_tables.css"/>
 		
+		<script type="text/javascript" src="kraz-enums.js"></script>
 		<script type="text/javascript" src="kraz-wotv-v2.js"></script>
 		<script type="text/javascript" src="kraz-wotv-parser-v2.js"></script>
 		<script type="text/javascript" src="kraz-wotv-tables-v2.js"></script>
@@ -112,6 +113,9 @@
 						{ "data": "tags_html" },
 						{ "data": "conds" },
 						{ "data": "continues" },
+						{ "data": "calc_enum" },
+						{ "data": "param_enum" },
+						{ "data": "condition_enum" },
 						{ "data": "effects_html" },
 						{ "data": "parse" },
 					]
@@ -155,6 +159,9 @@
 					<th>Tags</th>
 					<th>Conds</th>
 					<th>Continues</th>
+					<th>Enum<br/>Calc</th>
+					<th>Enum<br/>Param</th>
+					<th>Enum<br/>Cond</th>
 					<th>Per line effect</th>
 					<th>Global parse</th>
 				</tr>
