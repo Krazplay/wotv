@@ -435,6 +435,7 @@ function bufflist_to_txt(buff_list, is_id=false, show_only_max_val=false) {
 }
 
 function buff_to_txt(buff_obj, show_only_max_val=false) {
+	if (buff_obj == null) return "BuffNotFound";
 	let result = ""
 	// Conditions for all buff effects
 	let conds_text = "";

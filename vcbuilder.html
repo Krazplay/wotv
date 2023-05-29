@@ -1,0 +1,181 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+        <script type="text/javascript" src="kraz-wotv-v3-const.js"></script>
+        <script type="text/javascript" src="kraz-wotv-v3.js"></script>
+
+        <title>WotV Autobuilder</title>
+
+        <script>
+            // Check localStorage variables
+            language = get_language();
+			version = get_version();
+			// JSON files required
+			let files_required = [	'/localize/'+language+'/UnitName.json',
+                                    '/localize/'+language+'/JobName.json',
+                                    '/localize/'+language+'/VisionCardName.json',
+									'/data/Unit.json',
+									'/data/UnitAbilityBoard.json',
+                                    '/data/VisionCard.json',
+                                    '/data/VisionCardLimitedCondition.json',
+                                    '/data/Skill.json',
+                                    '/data/Buff.json'
+								];
+            // Download json files and parse them into variable data
+            load_json_files(files_required);
+            Promise.all(promiseList).then(values => {
+                console.log("Finished");
+                // Add new parameters in the data for ease of use, like name in Unit.
+                add_kraz_data();
+
+                // Populate datalist with all playable characters (assume having an abilityBoard means it's playable)
+				const unitList = document.getElementById('Unit_List');
+				data.get("UnitAbilityBoard").forEach((item) => {
+					let new_option = document.createElement('option');
+					new_option.value = item["iname"];
+					new_option.text = data.get("UnitName").get(item["iname"]) + " (" + item["iname"] + ")";
+					unitList.appendChild(new_option);
+				});
+
+                // Populate score setting list
+                let dd_html = "";
+                stored_settings = localStorage.getItem("scoresetting");
+                if (stored_settings === null) stored_settings = {};
+                else stored_settings = JSON.parse(stored_settings);
+                for (const [key, value] of Object.entries(stored_settings)) {
+                    dd_html += "<option value=\""+key+"\">"+key+"</option>"
+                }
+                for (let i=1; i<=6; i++) {
+                    document.getElementById("ScoreSetting_"+i).innerHTML = dd_html;
+                }
+
+                // Browser may prefill the inputs
+                for (let i=1; i<=6; i++) {
+                    unitSlotRefresh(i);
+                }
+            });
+
+            // The value of an unit slot has changed, refresh to show the new name and data from the unit
+            function unitSlotRefresh(slot) {
+                let unit_id = document.getElementById('Unit_Slot_'+slot).value;
+                let unit = data.get("Unit").get(unit_id);
+                let new_text = "";
+                if (unit != null) {
+                    new_text = unit.kname + " - " + unit.kelement + " - " + unit.kmainjob;
+
+                }
+                $('#Unit_description_'+slot).text(new_text);
+            }
+
+            function autobuild_vc(debug=0) {
+                let team = []; // Keep team units ID
+                let score_set = [];
+                // Build the team configured on the page
+                for (let i=1; i<=6; i++) {
+                    let unit_id = document.getElementById('Unit_Slot_'+i).value;
+                    let set_name = document.getElementById('ScoreSetting_'+i).value;
+                    if (data.get("Unit").has(unit_id)) {
+                        team.push(unit_id);
+                        score_set.push(set_name);
+                    }
+                }
+                let ranking_sorted = calculate_ranking(team, score_set);
+                let team_size = team.length;
+                let text_builder = "";
+                // build the html page
+                for (let i=0; i<ranking_sorted.length; i++) {
+                    let vc = data.get("VisionCard").get(ranking_sorted[i][1]);
+                    text_builder += `<tr><td><img src=\"./i/vc/${vc.icon}_m.png"></td><td>`
+                    text_builder += "<span style=\"color: blue\">" +ranking_sorted[i][4] + "</span> on "
+                    text_builder += "<span style=\"color: red\">" + ranking_sorted[i][3] + "</span>, " + ranking_sorted[i][2] + " pts<br/>";
+                    if (debug) text_builder += "<span style=\"color: blue\">"+ ranking_sorted[i][1] + "</span> on "
+                    if (debug) text_builder += "<span style=\"color: red\">" + ranking_sorted[i][0] + "</span><br/>" 
+                    for (const effect of vc.keffects.concat(vc.kstatseffects)) {
+                        if (effect.slot == 1) continue; // For now completely ignore active skill from vc
+                        text_builder += "&nbsp;&nbsp;&nbsp;&nbsp;["+ effect.scope +"]";
+                        if (effect.vc_cond) text_builder += "[" + effect.vc_cond + "]";
+                        text_builder += " " + effect_to_txt(effect.calc, effect.type, effect.tag, effect.val);
+                        if (debug) text_builder += " {Calc " + effect.calc + ", Type " + effect.type + ", Val " + effect.val + ", buff_type: " + effect.buff_type;
+                        if (debug) text_builder += " slot " + effect.slot + "}";
+                        // Display each effect score
+                        text_builder += " (score:";
+                        for (let j=0; j<team_size; j++) {
+                            if (ranking_sorted[i][0] == team[j]) text_builder += effect.score[team[j] + "_SELF"];
+                            else text_builder += effect.score[team[j] + "_PARTY"];
+                            if (j != team_size-1) text_builder += "+";
+                        }
+                        text_builder += ")<br/>";
+                    }
+                    text_builder += "</td>";
+                }
+                $('#text_builder').html(text_builder);
+            }
+
+
+            function calculate_ranking(team, score_set) {
+                let team_size = team.length;
+                let ranking = [];
+                // Loop on all vision cards
+                data.get("VisionCard").forEach((vc) => {
+                    let calculated = {};
+                    let sum_points = [0,0,0,0,0,0];
+                    for (const effect of vc.keffects.concat(vc.kstatseffects)) {
+                        if (effect.slot == 1) continue; // For now completely ignore active skill from vc
+                        effect["score"] = {}; // will store score for each unit/scope combinaison
+                        // Loop on team members
+                        for (let i=0; i<team_size; i++) {
+                            // Precalculate scores for each effect to avoid repeating a calculation multiple times later
+                            effect.score[team[i] + "_SELF"] = calculate_score(team[i], effect, "SELF", score_set[i]);
+                            effect.score[team[i] + "_PARTY"] = calculate_score(team[i], effect, "PARTY", score_set[i]);
+                        }
+                        // Fill up ranking array now
+                        for (let i=0; i<team_size; i++) {
+                            for (let j=0; j<team_size; j++) {
+                                if (i == j) sum_points[i] += effect.score[team[j] + "_SELF"];
+                                else sum_points[i] += effect.score[team[j] + "_PARTY"];
+                            }
+                        }
+                    }
+                    for (let i=0; i<team_size; i++) {
+                        ranking.push([team[i], vc.iname, round(sum_points[i],1), data.get("Unit").get(team[i]).kname, vc.kname]);
+                    }
+                });
+
+                return ranking.sort((a, b) => b[2] - a[2]);
+            }
+
+            function calculate_score(unit_id, effect, scope, set_name) {
+                // Unit do not benefit from the SELF buff if he's not equiped with the VC
+                if (scope == "PARTY" && (effect.scope == "SELF" || effect.scope == "STATS")) return 0;
+                // Unit must fulfill the effect condition
+                if (effect.vc_cond != null && data.get("Unit").get(unit_id)["vc_cond"].includes(effect.vc_cond) == false) return 0;
+
+                let tag = effect.tag == null ? 0 : effect.tag;
+                let multiplier = stored_settings[set_name]["C_"+effect.calc+"_P_"+effect.type+"_T_"+tag];
+                if (multiplier == null) return 0;
+                return round(effect.val * multiplier, 1);
+            }
+
+        </script>
+    </head>
+
+    <body>
+        <datalist id="Unit_List"></datalist>
+        Slot 1: <input size="30" type="text" name="Unit_Slot_1" id="Unit_Slot_1" list="Unit_List" onchange="unitSlotRefresh(1)">
+        <select id="ScoreSetting_1"></select> <span id="Unit_description_1"></span><br/>
+        Slot 2: <input size="30" type="text" name="Unit_Slot_2" id="Unit_Slot_2" list="Unit_List" onchange="unitSlotRefresh(2)">
+        <select id="ScoreSetting_2"></select> <span id="Unit_description_2"></span><br/>
+        Slot 3: <input size="30" type="text" name="Unit_Slot_3" id="Unit_Slot_3" list="Unit_List" onchange="unitSlotRefresh(3)">
+        <select id="ScoreSetting_3"></select> <span id="Unit_description_3"></span><br/>
+        Slot 4: <input size="30" type="text" name="Unit_Slot_4" id="Unit_Slot_4" list="Unit_List" onchange="unitSlotRefresh(4)">
+        <select id="ScoreSetting_4"></select> <span id="Unit_description_4"></span><br/>
+        Slot 5: <input size="30" type="text" name="Unit_Slot_5" id="Unit_Slot_5" list="Unit_List" onchange="unitSlotRefresh(5)">
+        <select id="ScoreSetting_5"></select> <span id="Unit_description_5"></span><br/>
+        Slot 6: <input size="30" type="text" name="Unit_Slot_6" id="Unit_Slot_6" list="Unit_List" onchange="unitSlotRefresh(6)">
+        <select id="ScoreSetting_6"></select> <span id="Unit_description_6"></span><br/>
+        <span>You can create a score setting <a href="./scoresetting.html">on this page</a></span><br/>
+        <input type="button" onclick="autobuild_vc(0)" value="Autobuild Vision Cards" />
+        <input type="button" onclick="autobuild_vc(1)" value="Debug" /><br/>
+        <table id="text_builder"></table>
+    </body>
+</html>

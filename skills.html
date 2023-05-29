@@ -25,7 +25,8 @@
 			if (language == 'ja') { LOCALIZE = 'https://raw.githubusercontent.com/bismark1221/wotv-jp-assets/master'; }
 			else { LOCALIZE = 'https://raw.githubusercontent.com/bismark1221/wotv-gl-assets/master'; }
 			let files_required = [	LOCALIZE+'/localize/'+language+'/SkillName.json',
-									GIT_BISM+'/data/Skill.json'
+									GIT_BISM+'/data/Skill.json',
+									GIT_BISM+'/data/Buff.json'
 								]
 			files_required.forEach(file => {
 				promiseList.push($.getJSON(file, function(data){
@@ -39,6 +40,7 @@
 				// values have the same order the promises were pushed in the list
 				skillName = parse_AnyName(values[0]);
 				skill = parse_AnyData(values[1],"iname");
+				buff = parse_AnyData(values[2],"iname");
 				
 				// data for the datatable
 				data_table = get_datatable_Skills();
@@ -143,12 +145,14 @@
 						{ "data": "eff_val1" },
 						{ "data": "selfsel" },
 						{ "data": "t_buffs" },
+						{ "data": "s_buffs" },
+						{ "data": "t_buffs_parsed" },
+						{ "data": "s_buffs_parsed" },
 						{ "data": "cam_dir" },
 						{ "data": "klsp" },
 						{ "data": "klspr" },
 						{ "data": "elem_pri" },
 						{ "data": "line" },
-						{ "data": "s_buffs" },
 						{ "data": "ctbreak" },
 						{ "data": "kback" },
 						{ "data": "eff_rate" },
@@ -279,12 +283,14 @@
 					<th>eff_val1</th>
 					<th>selfsel</th>
 					<th>t_buffs</th>
+					<th>s_buffs</th>
+					<th>Parsed<br/>t_buffs</th>
+					<th>Parsed<br/>s_buffs</th>
 					<th>cam_dir</th>
 					<th>klsp</th>
 					<th>klspr</th>
 					<th>elem_pri</th>
 					<th>line</th>
-					<th>s_buffs</th>
 					<th>ctbreak</th>
 					<th>kback</th>
 					<th>eff_rate</th>

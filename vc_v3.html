@@ -1,0 +1,91 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+        <script type="text/javascript" src="kraz-wotv-v3-const.js"></script>
+        <script type="text/javascript" src="kraz-wotv-v3.js"></script>
+
+        <title>WotV Buff Effects (V3)</title>
+
+        <script>
+            // Check localStorage variables
+            language = get_language();
+			version = get_version();
+			// JSON files required
+			let files_required = [
+                                    '/data/Buff.json', '/data/Skill.json', '/data/VisionCard.json',
+                                    '/localize/'+language+'/VisionCardName.json'
+								];
+            // Download json files and parse them into variable data
+            load_json_files(files_required);
+            Promise.all(promiseList).then(values => {
+                console.log("Finished");
+                // Add new parameters in the data for ease of use, like name in Unit.
+                add_kraz_data();
+
+                // 
+                html = "";
+				data.get("VisionCard").forEach((vc) => {
+					let effects = convert_vc_to_effects(vc.iname);
+                    html += "<tr>";
+                    html += `<td><img src=\"./i/vc/${vc.icon}_m.png"></td>`
+                    html += `<td>${vc.kname}<br/>${vc.iname}</td>`
+                    html += "<td>";
+                    for (const effect of vc.kstatseffects) {
+                        if (effect.slot == 1) continue; // Ignore active skill from vc
+                        html += effect_to_txt(effect.calc, effect.type, effect.tag, effect.val);
+                        html += "<br/>";
+                    }
+                    html += "</td>";
+                    html += "<td>";
+                    for (const effect of effects) {
+                        if (effect.slot == 1) continue; // Ignore active skill from vc
+                        html += "["+ effect.scope +"]";
+                        if (effect.vc_cond) html += "[" + effect.vc_cond + "]";
+
+                        html += " " + effect_to_txt(effect.calc, effect.type, effect.tag, effect.val);
+                        html += "<br/>";
+                    }
+                    html += "</td>";
+                    html += "<td>";
+                    for (const effect of effects) {
+                        if (effect.slot == 1) continue; // Ignore active skill from vc
+                        html += EBuffStatusCalc[effect.calc] +" "+ EBuffStatusParam[effect.type];
+                        if (effect.tags) html += " " + EBuffEffectCondition[effect.effectcond] + " ";
+                        if (effect.val) html += " " + effect.val;
+                        html += "<br/>";
+                    }
+                    html += "</td>";
+                    html += "<td>";
+                    for (const effect of effects) {
+                        if (effect.slot == 1) continue; // Ignore active skill from vc
+                        html += "Calc " + effect.calc + ", Type " + effect.type;
+                        if (effect.tag) html += ", Tag " + effect.tag;
+                        if (effect.val) html += ", Val " + effect.val;
+                        html += "<br/>";
+                    }
+                    html += "</td>";
+                    html += "<td>";
+                    for (const effect of effects) {
+                        if (effect.slot == 1) html += "Active skill buff<br/>";
+                    }
+                    html += "</td>";
+                    html += "</tr>";
+				});
+                document.getElementById("table").innerHTML = html;
+            });
+        </script>
+        <style>
+            table {
+                
+            }
+            th, td {
+                border: 1px solid black;
+                padding: 5px 5px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <table id="table"></table>
+    </body>
+</html>

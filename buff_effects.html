@@ -1,0 +1,56 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+        <script type="text/javascript" src="kraz-wotv-v3-const.js"></script>
+        <script type="text/javascript" src="kraz-wotv-v3.js"></script>
+
+        <title>WotV Buff Effects (V3)</title>
+
+        <script>
+            // Check localStorage variables
+            language = get_language();
+			version = get_version();
+			// JSON files required
+			let files_required = [
+                                    '/data/Buff.json'
+								];
+            // Download json files and parse them into variable data
+            load_json_files(files_required);
+            Promise.all(promiseList).then(values => {
+                console.log("Finished");
+                // Add new parameters in the data for ease of use, like name in Unit.
+                add_kraz_data();
+
+                // 
+                html = "";
+				data.get("Buff").forEach((buff) => {
+					let effects = convert_buff_to_effects(buff.iname);
+                    for (const effect of effects) {
+                        html += "<tr>";
+                        html += "<td>"+buff.iname+"</td>"
+
+                        html += "<td>Calc " + effect.calc + ", Type " + effect.type;
+                        if (effect.tag) html += ", Tag " + effect.tag;
+                        if (effect.val) html += ", Val " + effect.val;
+                        html += "</td>";
+
+                        html += "<td>" + EBuffStatusCalc[effect.calc] +" "+ EBuffStatusParam[effect.type];
+                        if (effect.tags) html += " " + EBuffEffectCondition[effect.effectcond] + " ";
+                        if (effect.val) html += " " + effect.val;
+                        html += "</td>";
+
+                        html += "<td>" + effect_to_txt(effect.calc, effect.type, effect.tag, effect.val);
+                        html += "</td>";
+
+                        html += "</tr>";
+                    }
+				});
+                document.getElementById("table").innerHTML = html;
+            });
+        </script>
+    </head>
+
+    <body>
+        <table id="table"></table>
+    </body>
+</html>

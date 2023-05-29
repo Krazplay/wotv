@@ -1,0 +1,129 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+        <script type="text/javascript" src="kraz-wotv-v3-const.js"></script>
+        <script type="text/javascript" src="kraz-wotv-v3.js"></script>
+
+        <title>WotV Score Settings</title>
+
+        <script>
+            // Check localStorage variables
+            language = get_language();
+			version = get_version();
+			// JSON files required
+			let files_required = [ '/data/Buff.json', '/data/Skill.json', '/data/VisionCard.json' ];
+            // Download json files and parse them into variable data
+            load_json_files(files_required);
+            Promise.all(promiseList).then(values => {
+                console.log("Finished");
+                // Add new parameters in the data for ease of use, like name in Unit.
+                add_kraz_data();
+
+                // Gather all existing combinaison of calc+type+tag
+                combi_list = [];
+				data.get("Buff").forEach((buff) => {
+					let effects = convert_buff_to_effects(buff.iname);
+                    for (const effect of effects) {
+                        if (! combi_list.find(element => element[0] == effect.type && element[1] == effect.calc && element[2] == effect.tag)) combi_list.push([effect.type, effect.calc, effect.tag]);
+                    }
+				});
+                combi_list.sort((a, b) => a[0]!=b[0] ? a[0]-b[0] : a[1]!=b[1] ? a[1]-b[1] : a[2]-b[2]);
+
+                let table_html = "";
+                let curr_type = -1;
+                for (const combi of combi_list) {
+                    if (curr_type != combi[0] && curr_type != -1) table_html += "</tr>";
+                    if (curr_type != combi[0]) table_html += "<tr>";
+                    table_html += "<td>"+effect_to_txt(combi[1], combi[0], combi[2]);    
+                    if (combi[2] != null) table_html += " " + EBuffEffectCondition[tagToEffectCond(combi[0], combi[2])] + " ";
+                    // Input id => Calc_XXX_Param_YYY_Tag_ZZZ, Tag always included, set to 0 if null
+                    let tag = combi[2] == null ? 0 : combi[2];
+                    table_html += ":</td>";
+                    table_html += "<td><input size=\"6\" type=\"text\" id=\"C_"+combi[1]+"_P_"+combi[0]+"_T_"+tag+"\" </td>";
+                    curr_type = combi[0];
+                }
+                document.getElementById("inputs_table").innerHTML = table_html;
+            });
+
+            stored_settings = localStorage.getItem("scoresetting");
+            if (stored_settings === null) stored_settings = {};
+            else stored_settings = JSON.parse(stored_settings);
+            window.addEventListener("DOMContentLoaded", (event) => {
+                // Refresh the drop down list next to Load
+                refresh_load_list();
+            });
+
+            function save_setting() {
+                set_name = document.getElementById("setting_name").value;
+                if (set_name === null || set_name == "") return;
+                console.log("Saving setting "+set_name);
+                stored_settings[set_name] = {};
+                for (const combi of combi_list) {
+                    let tag = combi[2] == null ? 0 : combi[2];
+                    let value = document.getElementById("C_"+combi[1]+"_P_"+combi[0]+"_T_"+tag).value;
+                    if (value != "") stored_settings[set_name]["C_"+combi[1]+"_P_"+combi[0]+"_T_"+tag] = value;
+                }
+                localStorage.setItem("scoresetting",  JSON.stringify(stored_settings));
+                refresh_load_list();
+            }
+
+            function refresh_load_list() {
+                let html = "";
+                for (const [key, value] of Object.entries(stored_settings)) {
+                    html += "<option value=\""+key+"\">"+key+"</option>"
+                }
+                document.getElementById("dropdown_load").innerHTML = html;
+            }
+
+            function load_setting() {
+                let set_name = document.getElementById("dropdown_load").value;
+                document.getElementById("setting_name").value = set_name;
+                for (const combi of combi_list) {
+                    let tag = combi[2] == null ? 0 : combi[2];
+                    let value = stored_settings[set_name]["C_"+combi[1]+"_P_"+combi[0]+"_T_"+tag];
+                    if (value == null) value = "";
+                    document.getElementById("C_"+combi[1]+"_P_"+combi[0]+"_T_"+tag).value = value;
+                }
+            }
+
+            function delete_setting() {
+                let set_name = document.getElementById("dropdown_load").value;
+                delete stored_settings[set_name];
+                localStorage.setItem("scoresetting",  JSON.stringify(stored_settings));
+                refresh_load_list();
+            }
+
+            function highlight_vc_buffs() {
+                data.get("VisionCard").forEach((vc) => {
+                    let combi_list_vc = [];
+                    let effects = vc.keffects.concat(vc.kstatseffects);
+                    // Store all VC buffs in array, avoid duplicates
+                    for (const effect of effects) {
+                        if (effect.slot == 1) continue; // Ignore active skills from VC
+                        if (! combi_list_vc.find(element => element[0] == effect.type && element[1] == effect.calc && element[2] == effect.tag)) combi_list_vc.push([effect.type, effect.calc, effect.tag]);
+                    }
+                    for (const combi of combi_list_vc) {
+                        let tag = combi[2] == null ? 0 : combi[2];
+                        document.getElementById("C_"+combi[1]+"_P_"+combi[0]+"_T_"+tag).style = "border: solid green";
+                    }
+                });
+            }
+        </script>
+
+        <style>
+            th, td {
+                text-align: right;
+            }
+        </style>
+    </head>
+
+    <body>
+        <input size="50" type="text" id="setting_name"> <input type="button" onclick="save_setting()" value="Save/Overwrite current setting" /><br/><br/>
+        <select id="dropdown_load"></select> <input type="button" onclick="load_setting()" value="Load this setting" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="button" onclick="delete_setting()" value="DELETE this setting" /><br/><br/>
+        <span>The page list all existing buff effects, from skills, VC, equipment, etc...</span><br/>
+        <span>An empty cell is equivalent to 0.</span><br/><br/>
+        <input type="button" onclick="highlight_vc_buffs()" value="Highlight VC buffs" /> <span>Only those are useful for the future VC autobuilder.</span><br/>
+        <table id="inputs_table"></table>
+    </body>
+</html>

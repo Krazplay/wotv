@@ -694,11 +694,20 @@ function get_datatable_Skills() {
 				case "type":
 					line[param] = ESkillType[skill_obj[param]];
 					break;
+				case "s_buffs":
+				case "t_buffs":
+					line[param] = "";
+					line[param+"_parsed"] = "";
+					for (const buff_id of skill_obj[param]) {
+						line[param] += buff_id + "<br/>";
+						line[param+"_parsed"] += buff_to_txt(buff.get(buff_id))+"<br/>";
+					}
+					break;
 				default:
 					line[param] = skill_obj[param];
-			}
-			if (Array.isArray(skill_obj[param])) {
-				line[param] = skill_obj[param];
+					if (Array.isArray(skill_obj[param])) {
+						line[param] = skill_obj[param];
+					}
 			}
 			if (!all_param.includes(param)) all_param.push(param);
 		});
@@ -707,7 +716,7 @@ function get_datatable_Skills() {
 	}
 	
 	console.log(all_param);
-	//console.log(result);
+	
 	return result;
 }
 
