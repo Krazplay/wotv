@@ -85,7 +85,7 @@
                 // build the html page
                 for (let i=0; i<ranking_sorted.length; i++) {
                     let vc = data.get("VisionCard").get(ranking_sorted[i][1]);
-                    text_builder += `<tr><td><img src=\"./i/vc/${vc.icon}_m.png"></td><td>`
+                    text_builder += `<tr><td><img src=\"./i/vc/${vc.icon.toLowerCase()}_m.png"></td><td>`
                     text_builder += "<span style=\"color: blue\">" +ranking_sorted[i][4] + "</span> on "
                     text_builder += "<span style=\"color: red\">" + ranking_sorted[i][3] + "</span>, " + ranking_sorted[i][2] + " pts<br/>";
                     if (debug) text_builder += "<span style=\"color: blue\">"+ ranking_sorted[i][1] + "</span> on "

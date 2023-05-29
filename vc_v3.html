@@ -27,7 +27,7 @@
 				data.get("VisionCard").forEach((vc) => {
 					let effects = convert_vc_to_effects(vc.iname);
                     html += "<tr>";
-                    html += `<td><img src=\"./i/vc/${vc.icon}_m.png"></td>`
+                    html += `<td><img src=\"./i/vc/${vc.icon.toLowerCase()}_m.png"></td>`
                     html += `<td>${vc.kname}<br/>${vc.iname}</td>`
                     html += "<td>";
                     for (const effect of vc.kstatseffects) {
