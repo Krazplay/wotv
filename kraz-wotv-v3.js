@@ -42,8 +42,11 @@ function parse_JsonData(json_data) {
 	let mapData = new Map();
     if (json_data.items != null) {
         // Data file
+        let iname;
+        if (json_data.items[0]["iname"]) iname = "iname";
+        else if (json_data.items[0]["type"]) iname = "type"; // Grow
         json_data.items.forEach((item) => {
-            mapData.set(item["iname"], item);
+            mapData.set(item[iname], item);
         });
     }
     else {
@@ -69,6 +72,13 @@ function add_kraz_data() {
     if (data.has("VisionCard") && data.has("VisionCardName")) {
         data.get("VisionCard").forEach((vc) => {
             vc.kname = data.get("VisionCardName").get(vc.iname);
+        });
+    }
+
+    // Both Artifact and ArtifactName were loaded, add the name into the artifact as 'kname'
+    if (data.has("Artifact") && data.has("ArtifactName")) {
+        data.get("Artifact").forEach((arti) => {
+            arti.kname = data.get("ArtifactName").get(arti.iname);
         });
     }
 
@@ -147,6 +157,31 @@ function add_kraz_data() {
                     }
                     if (fails == false) unit.vc_cond.push(vclc.iname);
                 });
+            }
+        });
+    }
+
+    // Artifact klot => Array with grows parameters from ArtifactRandLot
+    //     klotnames => Array with names of grows (Assault, Barrier, etc) only if ArtifactGrow.json was loaded
+    //        kstats => 
+    if (data.has("Artifact") && data.has("ArtifactRandLot")) {
+        data.get("Artifact").forEach((arti) => {
+            if (arti.rtype) {
+                let randLot = data.get("ArtifactRandLot").get(arti.rtype);
+                arti.klot = [];
+                arti.klotnames = [];
+                arti.kstats = {};
+                for (let i=1; randLot.lot[0]["grow"+i]; i++) {
+                    let lot_id = randLot.lot[0]["grow"+i];
+                    arti.klot.push(lot_id);
+                    arti.klotnames.push(data.get("ArtifactGrow").get(lot_id));
+                    // Stats for each Grow type
+                    arti.kstats[lot_id] = {};
+                    let grow = data.get("Grow").get(lot_id).curve[0];
+                    for (const [stat, value] of Object.entries(arti.status[arti.status.length-1])) {
+                        arti.kstats[lot_id][stat] = value + (value * grow[stat] / 100);
+                    }
+                }
             }
         });
     }

@@ -35,7 +35,7 @@
                     if (curr_type != combi[0] && curr_type != -1) table_html += "</tr>";
                     if (curr_type != combi[0]) table_html += "<tr>";
                     table_html += "<td>"+effect_to_txt(combi[1], combi[0], combi[2]);    
-                    if (combi[2] != null) table_html += " " + EBuffEffectCondition[tagToEffectCond(combi[0], combi[2])] + " ";
+                    //if (combi[2] != null) table_html += " " + EBuffEffectCondition[tagToEffectCond(combi[0], combi[2])] + " ";
                     // Input id => Calc_XXX_Param_YYY_Tag_ZZZ, Tag always included, set to 0 if null
                     let tag = combi[2] == null ? 0 : combi[2];
                     table_html += ":</td>";
@@ -53,6 +53,14 @@
                 refresh_load_list();
             });
 
+            function refresh_load_list() {
+                let html = "";
+                for (const [key, value] of Object.entries(stored_settings)) {
+                    html += "<option value=\""+key+"\">"+key+"</option>"
+                }
+                document.getElementById("dropdown_load").innerHTML = html;
+            }
+
             function save_setting() {
                 set_name = document.getElementById("setting_name").value;
                 if (set_name === null || set_name == "") return;
@@ -63,16 +71,10 @@
                     let value = document.getElementById("C_"+combi[1]+"_P_"+combi[0]+"_T_"+tag).value;
                     if (value != "") stored_settings[set_name]["C_"+combi[1]+"_P_"+combi[0]+"_T_"+tag] = value;
                 }
+                stored_settings[set_name]["Special_Elmt_atk"] = document.getElementById("Special_Elmt_atk").value;
+                // Store in localstorage
                 localStorage.setItem("scoresetting",  JSON.stringify(stored_settings));
                 refresh_load_list();
-            }
-
-            function refresh_load_list() {
-                let html = "";
-                for (const [key, value] of Object.entries(stored_settings)) {
-                    html += "<option value=\""+key+"\">"+key+"</option>"
-                }
-                document.getElementById("dropdown_load").innerHTML = html;
             }
 
             function load_setting() {
@@ -84,6 +86,10 @@
                     if (value == null) value = "";
                     document.getElementById("C_"+combi[1]+"_P_"+combi[0]+"_T_"+tag).value = value;
                 }
+                // Load my special input
+                let value = stored_settings[set_name]["Special_Elmt_atk"];
+                if (value == null) value = "";
+                document.getElementById("Special_Elmt_atk").value = value;
             }
 
             function delete_setting() {
@@ -123,7 +129,9 @@
         <input type="button" onclick="delete_setting()" value="DELETE this setting" /><br/><br/>
         <span>The page list all existing buff effects, from skills, VC, equipment, etc...</span><br/>
         <span>An empty cell is equivalent to 0.</span><br/><br/>
-        <input type="button" onclick="highlight_vc_buffs()" value="Highlight VC buffs" /> <span>Only those are useful for the future VC autobuilder.</span><br/>
+        <input type="button" onclick="highlight_vc_buffs()" value="Highlight VC buffs" /> <span>Only those are useful for the future VC autobuilder.</span><br/><br/>
+        <input size="6" type="text" id="Special_Elmt_atk" /> <span>Special: Character's element Atk (instead of doing a setting for each element, you can use this)
+        equivalent to Fire for a fire character, Water for a water character, etc...</span><br/>
         <table id="inputs_table"></table>
     </body>
 </html>
