@@ -75,7 +75,7 @@ function load_git_variables(gitName) {
         case "shalzuth": // 0x1:"Strength"
             gitUrl = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
             gitUrlData = '/data/';
-            if (language == "jp") gitUrlData = '/jpdata/';
+            if (version == "jp") gitUrlData = '/jpdata/';
             gitUrlLocalize = '/en/';
             break;
         case "bismark":
