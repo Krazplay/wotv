@@ -1,0 +1,81 @@
+<!DocType html>
+    <head><meta charset="UTF-8">
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
+        <script type="text/javascript" src="kraz-wotv-v3-const.js"></script>
+        <script type="text/javascript" src="kraz-wotv-v3.js"></script>
+
+        <title>WotV Units (V3)</title>
+
+        <script>
+            // Check localStorage variables
+            language = get_language();
+			version = get_version();
+			// JSON files required
+            load_git_variables("shalzuth");
+			let files_required = [
+                                    gitUrlData+'Buff.json', gitUrlData+'Skill.json',
+                                    gitUrlData+'Unit.json', gitUrlData+'Job.json',
+                                    gitUrlLocalize+'UnitName.json'
+								];
+            // Download json files and parse them into variable data
+            load_json_files(files_required);
+            Promise.all(promiseList).then(values => {
+                console.log("Finished");
+                // Add new parameters in the data for ease of use, like name in Unit.
+                add_kraz_data();
+                let rarity = ["N", "R", "SR", "MR", "UR"]; // temp
+                html = "";
+                data.get("Unit").forEach((unit) => {
+                    html += "<tr>";
+                    // Portrait
+                    if (unit.charaId) html += `<td><div class=\"crop\"><img src=\"./i/unit/${unit.charaId.toLowerCase()}_m.png"></div></td>`;
+                    else html += `<td></td>`
+                    // Name (bold) / iname
+                    html += `<td><b>${unit.kname}</b><br/>${unit.iname}</td>`;
+                    html += `<td>${rarity[unit.rare]}</td>`;
+
+                    html += `<td>`;
+                    if (unit.kbase_stats) {
+                        for (const [stat, value] of Object.entries(unit.kbase_stats)) {
+                        //unit.kbase_stats.forEach((stat, value) => {
+                            html += stat+": "+value;
+                            html += "<br/>";
+                        }
+                    }
+                    html += `</td>`;
+                });
+                document.getElementById("table").innerHTML = html;
+            });
+        </script>
+        <style>
+            table {
+                white-space: nowrap;
+            }
+            th, td {
+                border: 1px solid black;
+                padding: 5px 5px;
+            }
+            img {
+                border: 0px solid #000;
+                margin: 0px 0;
+            }
+
+            .crop {
+                width: 156px;
+                height: 156px;
+                display: block;
+                overflow: hidden;
+            }
+
+            .crop img {
+                width: 256px;
+                height: 256px;
+                margin: -40px 0px 0 -50px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <table id="table"></table>
+    </body>
+</html>

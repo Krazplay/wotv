@@ -749,6 +749,7 @@ const EBuffStatusParam = {
 0x20D:"CondLast2?"
 }
 /*
+CT Up (S) when Below 20% HP (1 time(s)) Granted    Calc 30, Type 514, Val 1
 CondEnchantAutoDmg
 CondEnchantAutoReraise
 CondEnchantAutoSkillEnd

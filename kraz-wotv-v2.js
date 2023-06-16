@@ -70,6 +70,22 @@ function parse_BirthTitle(data) {
 	return arrayName;
 }
 
+function load_git_variables(gitName) {
+    switch (gitName) {
+        case "shalzuth": // 0x1:"Strength"
+            gitUrl = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+            gitUrlData = '/data/';
+            if (language == "jp") gitUrlData = '/jpdata/';
+            gitUrlLocalize = '/en/';
+            break;
+        case "bismark":
+            gitUrl = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
+            gitUrlData = '/data/';
+            gitUrlLocalize = '/localize/'+language+'/';
+            break;
+    }
+}
+
 /*
 	Require netherBeastAbilityBoard, buff
 	Add the SP cost of the panel to the buff (as param sp)

@@ -11,9 +11,10 @@
             language = get_language();
 			version = get_version();
 			// JSON files required
+            load_git_variables("shalzuth");
 			let files_required = [
-                                    '/data/Buff.json', '/data/Skill.json', '/data/VisionCard.json',
-                                    '/localize/'+language+'/VisionCardName.json'
+                                    gitUrlData+'Buff.json', gitUrlData+'Skill.json', gitUrlData+'VisionCard.json',
+                                    gitUrlLocalize+'VisionCardName.json'
 								];
             // Download json files and parse them into variable data
             load_json_files(files_required);

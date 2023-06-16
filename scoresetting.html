@@ -11,7 +11,8 @@
             language = get_language();
 			version = get_version();
 			// JSON files required
-			let files_required = [ '/data/Buff.json', '/data/Skill.json', '/data/VisionCard.json' ];
+            load_git_variables("shalzuth");
+			let files_required = [ gitUrlData+'Buff.json', gitUrlData+'Skill.json', gitUrlData+'VisionCard.json' ];
             // Download json files and parse them into variable data
             load_json_files(files_required);
             Promise.all(promiseList).then(values => {

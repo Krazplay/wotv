@@ -16,19 +16,20 @@
 			array_hidecol = get_columns_to_hide(); // From either the url or localstorage
 			language = get_language();
 			version = get_version();
+			load_git_variables("shalzuth");
 			let promiseList = [];
 			// Download json from github repository
 			const GIT_SHAL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
 			const GIT_KRAZ = 'https://raw.githubusercontent.com/Krazplay/wotv/main/localize';
 			const GIT_BISM = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
-			let files_required = [	GIT_BISM+'/localize/'+language+'/UnitName.json',
-									GIT_BISM+'/data/Unit.json',
-									GIT_BISM+'/data/Job.json',
-									GIT_BISM+'/data/UnitAbilityBoard.json',
-									GIT_BISM+'/data/Buff.json',
-									GIT_BISM+'/data/Skill.json',
-									GIT_BISM+'/localize/'+language+'/JobName.json',
-									GIT_BISM+'/localize/'+language+'/BirthTitle.json'
+			let files_required = [	gitUrl+gitUrlLocalize+'UnitName.json',
+									gitUrl+gitUrlData+'Unit.json',
+									gitUrl+gitUrlData+'Job.json',
+									gitUrl+gitUrlData+'UnitAbilityBoard.json',
+									gitUrl+gitUrlData+'Buff.json',
+									gitUrl+gitUrlData+'Skill.json',
+									gitUrl+gitUrlLocalize+'JobName.json',
+									gitUrl+gitUrlLocalize+'BirthTitle.json'
 								]
 			files_required.forEach(file => {
 				promiseList.push($.getJSON(file, function(data){

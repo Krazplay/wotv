@@ -16,22 +16,23 @@
 			array_hidecol = get_columns_to_hide(); // From either the url or localstorage
 			language = get_language();
 			version = get_version();
+			load_git_variables("shalzuth");
 			let promiseList = [];
 			// Download json from github repository
 			const GIT_SHAL = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
 			const GIT_KRAZ = 'https://raw.githubusercontent.com/Krazplay/wotv/main/localize';
 			const GIT_BISM = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
-			let files_required = [	GIT_BISM+'/localize/'+language+'/ArtifactName.json',
-									GIT_BISM+'/localize/'+language+'/ItemName.json',
-									GIT_BISM+'/localize/'+language+'/SkillName.json',
-									GIT_BISM+'/data/Artifact.json',
-									GIT_BISM+'/data/ArtifactRandLot.json',
-									GIT_BISM+'/data/Grow.json',
-									GIT_BISM+'/data/Skill.json',
-									GIT_BISM+'/data/Buff.json',
-									GIT_BISM+'/data/ArtifactPassivesCondition.json',
-									GIT_BISM+'/localize/'+language+'/UnitName.json',
-									GIT_BISM+'/localize/'+language+'/JobName.json'
+			let files_required = [	gitUrl+gitUrlLocalize+'ArtifactName.json',
+									gitUrl+gitUrlLocalize+'ItemName.json',
+									gitUrl+gitUrlLocalize+'SkillName.json',
+									gitUrl+gitUrlData+'Artifact.json',
+									gitUrl+gitUrlData+'ArtifactRandLot.json',
+									gitUrl+gitUrlData+'Grow.json',
+									gitUrl+gitUrlData+'Skill.json',
+									gitUrl+gitUrlData+'Buff.json',
+									gitUrl+gitUrlData+'ArtifactPassivesCondition.json',
+									gitUrl+gitUrlLocalize+'UnitName.json',
+									gitUrl+gitUrlLocalize+'JobName.json'
 								]
 			files_required.forEach(file => {
 				promiseList.push($.getJSON(file, function(data){

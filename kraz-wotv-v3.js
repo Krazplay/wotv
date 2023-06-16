@@ -15,18 +15,32 @@ function get_version() {
 	return version;
 }
 
+function load_git_variables(gitName) {
+    switch (gitName) {
+        case "shalzuth": // 0x1:"Strength"
+            gitUrl = 'https://raw.githubusercontent.com/shalzuth/wotv-ffbe-dump/master';
+            gitUrlData = '/data/';
+            if (language == "jp") gitUrlData = '/jpdata/';
+            gitUrlLocalize = '/en/';
+            break;
+        case "bismark":
+            gitUrl = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
+            gitUrlData = '/data/';
+            gitUrlLocalize = '/localize/'+language+'/';
+            break;
+    }
+}
+
 // Download json files and parse them into variable data
 function load_json_files(files_required) {
     // Initialize data variable
     if (typeof data === 'undefined') {
         data = new Map();
     }
-    // Using Bismark github
-    const GIT_BISM = 'https://raw.githubusercontent.com/bismark1221/wotv-'+version+'-assets/master';
     promiseList = [];
     files_required.forEach(file => {
-        promiseList.push($.getJSON(GIT_BISM+file, function(filedata){
-            console.log("JSON loaded: " + GIT_BISM + file);
+        promiseList.push($.getJSON(gitUrl+file, function(filedata){
+            console.log("JSON loaded: " + gitUrl + file);
             // Get last word from url minus .json, www.blabla.com/filename.json => filename
             let filename = file.match(/(\w+)\.json$/)[1];
             console.log("Parsing " + filename);
@@ -96,6 +110,61 @@ function add_kraz_data() {
         });
     }
 
+    // Unit kbase_stats => Max Base stats of the unit, useful to calculate % stat bonuses
+    if (data.has("Unit") && data.has("Job")) {
+        data.get("Unit").forEach((unit) => {
+            // Calculate base stats
+            // Must have status, units like chests don't have one
+            if (unit.status) {
+                // Grab the highest level stats
+                let lvl_stats = unit.status[unit.status.length-1];
+                let base_stats = {};
+                // Get the unit jobs
+		        if (unit.jobsets) {
+                    let jobs = unit.jobsets;
+                    // If unit have an Ex job, replace main job with Ex
+                    if (unit["ccsets"]) jobs[0] = unit["ccsets"][0]["m"];
+                    // We do the sum of the bonus stat rates from jobs, that's how the game do it (you can lose stats with rounding otherwise)
+                    let job_rate = {};
+                    // Loop on the jobs
+                    jobs.forEach((job_id, index) => {
+                        // Get the job data
+                        let job = data.get("Job").get(job_id);
+                        let max_rank = job["ranks"].length-1; // Highest job rank
+                        // First job bonus rate is 100%, else use the sub_rate (always 50% so far)
+                        let rate = (index == 0) ? 100 : job["sub_rate"]
+                        // Sometimes we don't have full stats in a job, we only have them in the 'origin' job
+                        let job_origin = data.get("Job").get(job["origin"]);
+                        // Loop on all stat rate of the job (highest rank is used)
+                        let stats_list = Object.keys(job.ranks[max_rank]);
+                        stats_list.forEach((stat) => {
+                            if (job_rate[stat] == null) job_rate[stat] = 0; // init
+                            job_rate[stat] += job["ranks"][max_rank][stat] * rate / 100;
+                        });
+                        
+                        // iniap can be missing in unit stats, priority: unit, main job, main job origin
+                        if (index == 0 && lvl_stats["iniap"] == null) {
+                            if (job["ranks"][max_rank]) lvl_stats["iniap"] = job["ranks"][max_rank]["iniap"];
+                            else lvl_stats["iniap"] = job_origin["ranks"][max_rank]["iniap"];
+                        }
+                    });
+
+                    // Calculate base stats, loop on the job rate bonus to apply them
+                    let stats_list = Object.keys(job_rate);
+                    stats_list.forEach((stat) => {
+                        if (lvl_stats[stat]) {
+                            base_stats[stat] = lvl_stats[stat];
+                            base_stats[stat] += Math.floor(lvl_stats[stat] * job_rate[stat] / 10000);
+                        }
+                    });
+                    unit.kbase_stats = base_stats;
+                }
+            }
+        });
+    }
+
+
+
     // VC kstats => Max stats of the cards in a Map
     //    kstatseffects => Max stats stored as Effects (object with calc/type/value)
     if (data.has("VisionCard")) {
@@ -122,40 +191,33 @@ function add_kraz_data() {
         });
     }
 
+    // Artifact keffects => Array of effects (sum up all the skills effects of the equipment at max level)
+    if (data.has("Artifact") && data.has("Skill") && data.has("Buff")) {
+        data.get("Artifact").forEach((arti) => {
+             arti.keffects = convert_artifact_to_effects(arti.iname);
+        });
+    }
+
     // Unit vc_cond => All VisionCardLimitedCondition the unit fullfill
     if (data.has("Unit") && data.has("VisionCardLimitedCondition")) {
         data.get("Unit").forEach((unit) => {
             if (unit.jobsets != null && unit.jobsets.length == 3) { // playable characters ?
                 unit.vc_cond = [];
                 data.get("VisionCardLimitedCondition").forEach((vclc) => {
-                    let fails = false;
-                    // Loop on parameters
-                    for (const [key, value] of Object.entries(vclc)) {
-                        switch (key) {
-                            case 'iname':
-                                break;
-                            case 'elem':
-                                if (value.includes(unit.elem[0]) == false) fails = true;
-                                break;
-                            case 'units':
-                                if (value.includes(unit.iname) == false) fails = true;
-                                break;
-                            case 'mainjobs':
-                                if (value.includes(unit.jobsets[0]) == false) fails = true;
-                                break;
-                            case 'births':
-                                if (value.includes(unit.birth) == false) fails = true;
-                                break;
-                            case 'jobs':
-                                if (value.includes(unit.jobsets[0]) == false &&
-                                    value.includes(unit.jobsets[1]) == false &&
-                                    value.includes(unit.jobsets[2]) == false) fails = true;
-                                break;
-                            default:
-                                console.log("WARNING: unsupported VC Limited Condition "+key);
-                        }
-                    }
-                    if (fails == false) unit.vc_cond.push(vclc.iname);
+                    if (unitCheckCond(unit, vclc)) unit.vc_cond.push(vclc.iname);
+                });
+            }
+        });
+    }
+
+    // Unit arti_cond => All ArtifactPassivesCondition the unit fullfill
+    if (data.has("Unit") && data.has("ArtifactPassivesCondition")) {
+        data.get("Unit").forEach((unit) => {
+            if (unit.jobsets != null && unit.jobsets.length == 3) { // playable characters ?
+                unit.arti_cond = [];
+                data.get("ArtifactPassivesCondition").forEach((apc) => {
+                    // If the unit respect the condition, add contidion ID to unit arti_cond array
+                    if (unitCheckCond(unit, apc)) unit.arti_cond.push(apc.iname);
                 });
             }
         });
@@ -174,17 +236,52 @@ function add_kraz_data() {
                 for (let i=1; randLot.lot[0]["grow"+i]; i++) {
                     let lot_id = randLot.lot[0]["grow"+i];
                     arti.klot.push(lot_id);
-                    arti.klotnames.push(data.get("ArtifactGrow").get(lot_id));
-                    // Stats for each Grow type
+                    if (data.get("ArtifactGrow").get(lot_id) != null) arti.klotnames.push(data.get("ArtifactGrow").get(lot_id));
+                    else arti.klotnames.push(lot_id); // If no name use ID as name instead
+
+                    // Stats ratio for this Grow type
                     arti.kstats[lot_id] = {};
                     let grow = data.get("Grow").get(lot_id).curve[0];
+                    // Special, lv stat from grow indicate max level, keep it
+                    if (grow["lv"]) arti.kstats[lot_id]["lv"] = grow["lv"];
                     for (const [stat, value] of Object.entries(arti.status[arti.status.length-1])) {
-                        arti.kstats[lot_id][stat] = value + (value * grow[stat] / 100);
+                        if (grow[stat]) arti.kstats[lot_id][stat] = Math.floor( value + (value * grow[stat] / 100) );
                     }
                 }
             }
         });
     }
+}
+
+// Check if an unit meet all the conditions
+function unitCheckCond(unit, condition) {
+    // Loop on condition parameters (units, elements, jobs, etc...)
+    for (const [key, value] of Object.entries(condition)) {
+        switch (key) {
+            case 'iname':
+                break;
+            case 'elem':
+                if (value.includes(unit.elem[0]) == false) return false;
+                break;
+            case 'units':
+                if (value.includes(unit.iname) == false) return false;
+                break;
+            case 'mainjobs':
+                if (value.includes(unit.jobsets[0]) == false) return false;
+                break;
+            case 'births':
+                if (value.includes(unit.birth) == false) return false;
+                break;
+            case 'jobs':
+                if (value.includes(unit.jobsets[0]) == false &&
+                    value.includes(unit.jobsets[1]) == false &&
+                    value.includes(unit.jobsets[2]) == false) return false;
+                break;
+            default:
+                console.log("WARNING: unsupported VC Limited Condition "+key);
+        }
+    }
+    return true;
 }
 
 // Convert elemental array to text
@@ -249,6 +346,41 @@ function convert_vc_to_effects(vc_iname) {
     
     return party_buffs.concat(self_buffs);
 }
+
+// Added "scope" => SELF or PARTY
+// "vc_cond" => value of cnds_iname or buff_cond (they used 2 distincts parameters for card_buff and self_buff, I've merged them into one)
+function convert_artifact_to_effects(arti_iname) {
+    arti = data.get("Artifact").get(arti_iname);
+    let effects = [];
+    // No buff at all
+    if (arti["skl1"] == null) return [];
+    // Find best skill level (should be 1, 5, or 6)
+    let best_skl = "skl1";
+    for (let i=2; arti["skl"+i]; i++) {
+        best_skl = "skl"+i;
+    }
+    // Loop on skills
+    /*for (const skill_id of arti[best_skl]) {
+        let new_buff = convert_skill_to_effects(skill_id);
+        buffs = merge_effects(buffs, new_buff);
+    }*/
+
+    // Loop on skills
+    let length = arti[best_skl].length;
+    for (let i=0; i<length; i++) {
+        let skill_id = arti[best_skl][i];
+        let new_effects = convert_skill_to_effects(skill_id);
+        if (arti["passives_condition"]) {
+            for (const effect of new_effects) {
+                effect.arti_cond = arti["passives_condition"][i];
+            }
+        }
+        // Add new buffs to total buffs
+        effects = merge_effects(effects, new_effects);
+    }
+    return effects;
+}
+
 
 function convert_skill_to_effects(skill_id) {
     skill = data.get("Skill").get(skill_id);

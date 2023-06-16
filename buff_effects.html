@@ -11,8 +11,9 @@
             language = get_language();
 			version = get_version();
 			// JSON files required
+            load_git_variables("shalzuth");
 			let files_required = [
-                                    '/data/Buff.json'
+                                    gitUrlData+'Buff.json'
 								];
             // Download json files and parse them into variable data
             load_json_files(files_required);

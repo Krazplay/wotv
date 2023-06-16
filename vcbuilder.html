@@ -11,15 +11,16 @@
             language = get_language();
 			version = get_version();
 			// JSON files required
-			let files_required = [	'/localize/'+language+'/UnitName.json',
-                                    '/localize/'+language+'/JobName.json',
-                                    '/localize/'+language+'/VisionCardName.json',
-									'/data/Unit.json',
-									'/data/UnitAbilityBoard.json',
-                                    '/data/VisionCard.json',
-                                    '/data/VisionCardLimitedCondition.json',
-                                    '/data/Skill.json',
-                                    '/data/Buff.json'
+            load_git_variables("shalzuth");
+			let files_required = [	gitUrlLocalize+'UnitName.json',
+                                    gitUrlLocalize+'JobName.json',
+                                    gitUrlLocalize+'VisionCardName.json',
+									gitUrlData+'Unit.json',
+									gitUrlData+'UnitAbilityBoard.json',
+                                    gitUrlData+'VisionCard.json',
+                                    gitUrlData+'VisionCardLimitedCondition.json',
+                                    gitUrlData+'Skill.json',
+                                    gitUrlData+'Buff.json'
 								];
             // Download json files and parse them into variable data
             load_json_files(files_required);
@@ -157,6 +158,7 @@
                     if (effect.type == 50) {
                         if (ratio != null) points += round(effect.val * ratio, 1);
                     }
+                    // Specific element, unit's elmt must match effect elmt
                     else if (data.get("Unit").get(unit_id)["elem"][0] == effect.type-41) {
                         if (ratio != null) points += round(effect.val * ratio, 1);
                     }
